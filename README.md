@@ -2,6 +2,17 @@
 
 Various resources, personal notes etc.
 
+
+The Holy List of Awesome
+- Awesome Indexed - https://awesome-indexed.mathew-davies.co.uk/
+- AwesomeSearch - https://awesomelists.top/
+- StumbleUponAwesome - https://github.com/basharovV/StumbleUponAwesome
+- Awesome CLI - https://github.com/umutphp/awesome-cli
+- Awesome-mac - https://github.com/jaywcjlove/awesome-mac
+- the-book-of-secret-knowledge - https://github.com/trimstray/the-book-of-secret-knowledge
+- awesome list - https://github.com/sindresorhus/awesome
+
+
 Productivity
 - Albert Launcher - https://github.com/albertlauncher/albert
                   - Homepage: https://albertlauncher.github.io/
@@ -14,6 +25,9 @@ Containers
 - LXC
 - LXD
 - Docker
+
+Backup
+- bacula - https://ubuntu.com/server/docs/backups-bacula
 
 DNS
 - Unbound DNS 
@@ -29,6 +43,7 @@ Virtualization
 - KVM
             - KVM Management Tools list - https://www.linux-kvm.org/page/Management_Tools
             - vmmaestro - https://github.com/mzch/vmmaestro
+- multipass - Instant Ubuntu VMs (Windows, macOS and Linux) https://ubuntu.com/server/docs/virtualization-multipass
 
 Sandboxing tools:
 - bubblewrap (Unprivileged sandboxing tool ) https://github.com/containers/bubblewrap
@@ -48,7 +63,8 @@ Security Autiting Tools
 Shell script
 - https://github.com/Shellntel/scripts
 
-
+Games
+- Games on Github - https://github.com/leereilly/games
 
 DashBoards
 - Grafana - https://github.com/percona/grafana-dashboards
