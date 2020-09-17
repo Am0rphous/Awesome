@@ -30,6 +30,29 @@ Containers
 - LXD
 - Docker
 
+Raspberry Pi OS
+- Raspberry Pi OS (previously called Raspbian) - https://www.raspberrypi.org/downloads/raspberry-pi-os/
+- Noobs - https://www.raspberrypi.org/downloads/noobs/
+- Minibian - https://minibianpi.wordpress.com/
+- Home Assistant Operating System - https://github.com/home-assistant/operating-system
+- Ubuntu Core - https://ubuntu.com/download/raspberry-pi-core
+- Ubuntu Mate - https://ubuntu-mate.org/ports/raspberry-pi/
+- Ubuntu Server - https://ubuntu.com/download/raspberry-pi
+- OSMC - free and open source media center - https://osmc.tv/
+- LibreELEC - https://libreelec.tv/
+- Weather Station - https://downloads.raspberrypi.org/weather_station/images/weather_station-2018-01-14/
+- Risc OS - https://www.riscosopen.org/content/downloads/raspberry-pi
+- IchigoJam BASIC - https://ichigojam.github.io/RPi/
+- WebThings Gateway - https://iot.mozilla.org/gateway/
+- PiNet - http://pinet.org.uk/
+- Windows IoT Core - https://www.microsoft.com/en-us/software-download/windows10iotcore
+- Lakka - The open source game console - http://www.lakka.tv/
+- RetroPie - https://retropie.org.uk/
+- Kali Linux - https://www.kali.org/docs/arm/raspberry-pi-full-encryption/
+- OpenMediaVault - https://www.openmediavault.org/
+- Chromium OS - https://github.com/FydeOS/chromium_os-raspberry_pi
+- Alpine Linux - https://wiki.alpinelinux.org/wiki/Raspberry_Pi
+
 Backup
 - bacula - https://ubuntu.com/server/docs/backups-bacula
 
