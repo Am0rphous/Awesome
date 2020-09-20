@@ -12,6 +12,7 @@ The Holy List of Awesome
 - Awesome-mac - https://github.com/jaywcjlove/awesome-mac
 - the-book-of-secret-knowledge - https://github.com/trimstray/the-book-of-secret-knowledge
 - awesome list - https://github.com/sindresorhus/awesome
+- Awesome SSH - https://github.com/moul/awesome-ssh
 
 InfoSec
 - MITRE ATT&CK - https://attack.mitre.org/
