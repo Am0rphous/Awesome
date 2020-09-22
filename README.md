@@ -1,6 +1,6 @@
-# awesome
+# Awesome Resources (Under development)
 
-Various resources, personal notes etc.
+Various resources, personal notes etc. I find interesting and awesome.
 
 
 
