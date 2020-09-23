@@ -18,6 +18,9 @@ InfoSec
 - MITRE ATT&CK - https://attack.mitre.org/
         - https://mitre-attack.github.io/attack-navigator/enterprise/
 
+E-books
+- https://github.com/Hack-with-Github/Free-Security-eBooks
+
 Hacking Windows
 - Awesome tools to exploit Windows - https://github.com/Hack-with-Github/Windows
 
