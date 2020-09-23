@@ -18,6 +18,9 @@ InfoSec
 - MITRE ATT&CK - https://attack.mitre.org/
         - https://mitre-attack.github.io/attack-navigator/enterprise/
 
+Hacking Windows
+- Awesome tools to exploit Windows - https://github.com/Hack-with-Github/Windows
+
 Productivity
 - Albert Launcher - https://github.com/albertlauncher/albert
                   - Homepage: https://albertlauncher.github.io/
@@ -90,6 +93,7 @@ Security Autiting Tools
 
 Shell script
 - https://github.com/Shellntel/scripts
+- Anti DDOS | BASH SCRIPT - https://github.com/anti-ddos/Anti-DDOS
 
 Games
 - Games on Github - https://github.com/leereilly/games
