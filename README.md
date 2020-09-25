@@ -25,7 +25,8 @@ Hacking Windows
 - Awesome tools to exploit Windows - https://github.com/Hack-with-Github/Windows
 
 Productivity
-- Awesome tmux-based terminal divider - https://github.com/greymd/tmux-xpanes
+- Tmux - https://github.com/tmux/tmux
+- Create multiple tmux terminals - https://github.com/greymd/tmux-xpanes
 - Albert Launcher - https://github.com/albertlauncher/albert
                   - Homepage: https://albertlauncher.github.io/
 
