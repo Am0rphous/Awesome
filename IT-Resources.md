@@ -1,5 +1,5 @@
 
-Hacking Resources
+Hacking Tutorials
 - https://hackingpassion.com/
 
   Hacking Forum
@@ -18,12 +18,15 @@ Hacking Simulator for the kidz
 - https://hacker-simulator.com/
 - https://geekprank.com/hacker/
 
-IT News
+Hacking News
+- https://thehackerstalk.com/
 - https://thehackernews.com/
 - https://cyware.com/hacker-news
+- https://www.hackread.com/
+
+IT News Generally
 - https://www.securityweek.com
 - https://www.govinfosecurity.com/
-- https://www.hackread.com/
 - https://www.zdnet.com/
 - https://www.welivesecurity.com/
 - https://securitydiscovery.com/
