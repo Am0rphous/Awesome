@@ -13,7 +13,20 @@ The Holy List of Awesome
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. 
 - [Awesome List](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics 
 - [Awesome SSH](https://github.com/moul/awesome-ssh)
+
+Artificial Intelligence
 - [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers. 
+- [OpenCog](https://github.com/opencog/opencog) - A framework for integrated Artificial Intelligence & Artificial General Intelligence (AGI) 
+- []() - 
+- []() - 
+- [Serenata De Amor](https://github.com/okfn-brasil/serenata-de-amor) - Artificial Intelligence for social control of public administration
+- [aima-python](https://github.com/aimacode/aima-python) - Python implementation of algorithms from Russell And Norvig's "Artificial Intelligence - A Modern Approach" 
+- [Snake](https://github.com/chuyangliu/snake) - Artificial intelligence for the Snake game. 
+- [Ruby Warrior](https://github.com/ryanb/ruby-warrior) - Game written in Ruby for learning Ruby and artificial intelligence. 
+- [Malmo](https://github.com/microsoft/malmo) - Project Malmo is a platform for Artificial Intelligence experimentation and research built on top of Minecraft. 
+- [AIMA3e-Java (JDK 8+)](https://github.com/aimacode/aima-java) - Java implementation of algorithms from Russell And Norvig's "Artificial Intelligence - A Modern Approach" 
+- []() - 
+- []() - 
 
 
 InfoSec
