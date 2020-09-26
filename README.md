@@ -11,8 +11,10 @@ The Holy List of Awesome
 - Awesome CLI - https://github.com/umutphp/awesome-cli
 - Awesome-mac - https://github.com/jaywcjlove/awesome-mac
 - the-book-of-secret-knowledge - https://github.com/trimstray/the-book-of-secret-knowledge
-- awesome list - https://github.com/sindresorhus/awesome
-- Awesome SSH - https://github.com/moul/awesome-ssh
+- [awesome list](https://github.com/sindresorhus/awesome)
+- [Awesome SSH](https://github.com/moul/awesome-ssh)
+- [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers. 
+
 
 InfoSec
 - MITRE ATT&CK - https://attack.mitre.org/
