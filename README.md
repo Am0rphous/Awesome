@@ -6,12 +6,12 @@ Various resources, personal notes etc. I find interesting and awesome.
 
 The Holy List of Awesome
 - [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk/)
-- [AwesomeSearch](https://awesomelists.top/)
+- [Awesome Search](https://awesomelists.top/)
 - [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome)
 - [Awesome CLI](https://github.com/umutphp/awesome-cli)
-- [Awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+- [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
-- [Awesome list](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics 
+- [Awesome List](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics 
 - [Awesome SSH](https://github.com/moul/awesome-ssh)
 - [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers. 
 
