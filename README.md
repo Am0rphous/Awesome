@@ -78,7 +78,8 @@ Raspberry Pi OS
 - Alpine Linux - https://wiki.alpinelinux.org/wiki/Raspberry_Pi
 
 Backup
-- bacula - https://ubuntu.com/server/docs/backups-bacula
+- [Veeam Backup & Replication Community Editio](https://www.veeam.com/virtual-machine-backup-solution-free.html) - FREE backup software for VMware and Hyper-V, as well as physical servers, workstations, laptops and cloud instances.
+- [Bacula](https://ubuntu.com/server/docs/backups-bacula) - Bacula is a backup program enabling you to backup, restore, and verify data across your network. There are Bacula clients for Linux, Windows, and Mac OS X.
 
 DNS
 - Unbound DNS 
