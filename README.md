@@ -119,10 +119,10 @@ Games
 - Games on Github - https://github.com/leereilly/games
 
 Media servers
-- Mopidy - plays music from local disk, Spotify, SoundCloud, Google Play Music, and more - https://mopidy.com/
-        - https://github.com/mopidy/mopidy
-- Snapcast - multi-room client-server audio player - https://github.com/badaix/snapcast
-        https://mjaggard.github.io/snapcast/
+- [Mopidy](https://github.com/mopidy/mopidy) - plays music from local disk, Spotify, SoundCloud, Google Play Music, and more. [Mopidy.com](https://mopidy.com/)
+        - 
+- [Snapcast](https://github.com/badaix/snapcast) - Snapcast is a multiroom client-server audio player, where all clients are time synchronized with the server to play perfectly synced audio. [Homepage Snapcast](https://mjaggard.github.io/snapcast/)
+- [forked-daapd](https://github.com/ejurgensen/forked-daapd) - Linux/FreeBSD DAAP (iTunes) and MPD media server with support for AirPlay devices (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio. 
 
 Image editors
 - https://inkscape.org/
