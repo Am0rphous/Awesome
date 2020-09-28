@@ -135,7 +135,7 @@ Paint editors
 
 DashBoards
 - [Grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More 
-- - [Grafana dashboards for MySQL and MongoDB](https://github.com/percona/grafana-dashboards) - Grafana dashboards for MySQL and MongoDB monitoring using Prometheus 
+ - [Grafana dashboards for MySQL and MongoDB](https://github.com/percona/grafana-dashboards) - Grafana dashboards for MySQL and MongoDB monitoring using Prometheus 
 
 Malicious
 Bruteforce
