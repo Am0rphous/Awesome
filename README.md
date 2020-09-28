@@ -124,12 +124,10 @@ Media servers
 - [Snapcast](https://github.com/badaix/snapcast) - Snapcast is a multiroom client-server audio player, where all clients are time synchronized with the server to play perfectly synced audio. [Homepage Snapcast](https://mjaggard.github.io/snapcast/)
 - [forked-daapd](https://github.com/ejurgensen/forked-daapd) - Linux/FreeBSD DAAP (iTunes) and MPD media server with support for AirPlay devices (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio. 
 
-Image editors
-- https://inkscape.org/
-
-Paint editors
-- Krita
-- Pinta
+Image editing
+- [InkScape](https://inkscape.org/) - A powerful, free design tool
+- [Krita](https://github.com/KDE/krita) - Krita is a professional free and open source painting program.
+- [Pinta](https://www.pinta-project.com/) - Pinta is a free, open source program for drawing and image editing.
 
 
 DashBoards
