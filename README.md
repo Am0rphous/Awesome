@@ -34,16 +34,15 @@ InfoSec
         - https://mitre-attack.github.io/attack-navigator/enterprise/
 
 E-books
-- https://github.com/Hack-with-Github/Free-Security-eBooks
+- [Free Security eBooks](https://github.com/Hack-with-Github/Free-Security-eBooks) - A curated list of free Security and Pentesting related E-Books available on the Internet.
 
 Hacking Windows
 - Awesome tools to exploit Windows - https://github.com/Hack-with-Github/Windows
 
 Productivity
-- Tmux - https://github.com/tmux/tmux
-- Create multiple tmux terminals - https://github.com/greymd/tmux-xpanes
-- Albert Launcher - https://github.com/albertlauncher/albert
-                  - Homepage: https://albertlauncher.github.io/
+- [Tmux](https://github.com/tmux/tmux) - tmux is a terminal multiplexer: it enables a number of terminals to be created, accessed, and controlled from a single screen.
+  - [Tmux xPanes](https://github.com/greymd/tmux-xpanes) - Create multiple tmux terminals
+- [Albert Launcher](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher. [Homepage](https://albertlauncher.github.io/)
 
 Webhosting
 - Sanstorm (Sandstorm is an open source platform for self-hosting web apps) https://sandstorm.io/
