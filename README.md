@@ -45,18 +45,18 @@ Productivity
 - [Albert Launcher](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher. [Homepage](https://albertlauncher.github.io/)
 
 Webhosting
-- Sanstorm (Sandstorm is an open source platform for self-hosting web apps) https://sandstorm.io/
+- [Sanstorm](https://sandstorm.io/) - Sandstorm is an open source platform for self-hosting web apps
 
 Containers
-- K3S (The certified Kubernetes distribution built for IoT & Edge computing) https://k3s.io/
-- LXC
-- LXD
-- Docker
+- [K3S](https://k3s.io/) - The certified Kubernetes distribution built for IoT & Edge computing
+- [LXC](https://linuxcontainers.org/lxc/)
+- [LXD](https://linuxcontainers.org/lxd/)
+- [Docker](https://www.docker.com/)
 
 Raspberry Pi OS
-- Raspberry Pi OS (previously called Raspbian) - https://www.raspberrypi.org/downloads/raspberry-pi-os/
-- Noobs - https://www.raspberrypi.org/downloads/noobs/
-- Minibian - https://minibianpi.wordpress.com/
+- [Raspberry Pi OS (previously called Raspbian)](https://www.raspberrypi.org/downloads/raspberry-pi-os/)
+- [Noobs](https://www.raspberrypi.org/downloads/noobs/)
+- [Minibian](https://minibianpi.wordpress.com/)
 - [Home Assistant Operating System](https://github.com/home-assistant/operating-system)
 - [Ubuntu Core](https://ubuntu.com/download/raspberry-pi-core)
 - [Ubuntu Mate](https://ubuntu-mate.org/ports/raspberry-pi/)
