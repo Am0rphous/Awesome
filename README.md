@@ -69,8 +69,8 @@ Raspberry Pi OS
 - WebThings Gateway - https://iot.mozilla.org/gateway/
 - PiNet - http://pinet.org.uk/
 - Windows IoT Core - https://www.microsoft.com/en-us/software-download/windows10iotcore
-- Lakka - The open source game console - http://www.lakka.tv/
-- [RetroPie](https://retropie.org.uk/)
+- [Lakka](http://www.lakka.tv/) - The open source game console. Lakka is a lightweight Linux distribution that transforms a small computer into a full blown retrogaming console.
+- [RetroPie](https://retropie.org.uk/) - RetroPie allows you to turn your Raspberry Pi, ODroid C1/C2, or PC into a retro-gaming machine.
 - [Kali Linux](https://www.kali.org/docs/arm/raspberry-pi-full-encryption/)
 - [OpenMediaVault](https://www.openmediavault.org/)
 - [Chromium OS](https://github.com/FydeOS/chromium_os-raspberry_pi)
