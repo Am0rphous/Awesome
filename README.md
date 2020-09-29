@@ -57,11 +57,11 @@ Raspberry Pi OS
 - Raspberry Pi OS (previously called Raspbian) - https://www.raspberrypi.org/downloads/raspberry-pi-os/
 - Noobs - https://www.raspberrypi.org/downloads/noobs/
 - Minibian - https://minibianpi.wordpress.com/
-- Home Assistant Operating System - https://github.com/home-assistant/operating-system
-- Ubuntu Core - https://ubuntu.com/download/raspberry-pi-core
-- Ubuntu Mate - https://ubuntu-mate.org/ports/raspberry-pi/
-- Ubuntu Server - https://ubuntu.com/download/raspberry-pi
-- OSMC - free and open source media center - https://osmc.tv/
+- [Home Assistant Operating System](https://github.com/home-assistant/operating-system)
+- [Ubuntu Core](https://ubuntu.com/download/raspberry-pi-core)
+- [Ubuntu Mate](https://ubuntu-mate.org/ports/raspberry-pi/)
+- [Ubuntu Server](https://ubuntu.com/download/raspberry-pi)
+- [OSMC](https://osmc.tv/) - free and open source media center
 - [LibreELEC](https://libreelec.tv/)
 - [Weather Station](https://downloads.raspberrypi.org/weather_station/images/weather_station-2018-01-14/)
 - [Risc OS](https://www.riscosopen.org/content/downloads/raspberry-pi)
