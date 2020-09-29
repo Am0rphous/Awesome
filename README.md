@@ -62,13 +62,13 @@ Raspberry Pi OS
 - Ubuntu Mate - https://ubuntu-mate.org/ports/raspberry-pi/
 - Ubuntu Server - https://ubuntu.com/download/raspberry-pi
 - OSMC - free and open source media center - https://osmc.tv/
-- LibreELEC - https://libreelec.tv/
-- Weather Station - https://downloads.raspberrypi.org/weather_station/images/weather_station-2018-01-14/
-- Risc OS - https://www.riscosopen.org/content/downloads/raspberry-pi
-- IchigoJam BASIC - https://ichigojam.github.io/RPi/
-- WebThings Gateway - https://iot.mozilla.org/gateway/
-- PiNet - http://pinet.org.uk/
-- Windows IoT Core - https://www.microsoft.com/en-us/software-download/windows10iotcore
+- [LibreELEC](https://libreelec.tv/)
+- [Weather Station](https://downloads.raspberrypi.org/weather_station/images/weather_station-2018-01-14/)
+- [Risc OS](https://www.riscosopen.org/content/downloads/raspberry-pi)
+- [IchigoJam BASIC](https://ichigojam.github.io/RPi/)
+- [WebThings Gateway](https://iot.mozilla.org/gateway/) - An open platform for monitoring and controlling devices over the web.
+- [PiNet](http://pinet.org.uk/)
+- [Windows IoT Core](https://www.microsoft.com/en-us/software-download/windows10iotcore)
 - [Lakka](http://www.lakka.tv/) - The open source game console. Lakka is a lightweight Linux distribution that transforms a small computer into a full blown retrogaming console.
 - [RetroPie](https://retropie.org.uk/) - RetroPie allows you to turn your Raspberry Pi, ODroid C1/C2, or PC into a retro-gaming machine.
 - [Kali Linux](https://www.kali.org/docs/arm/raspberry-pi-full-encryption/)
