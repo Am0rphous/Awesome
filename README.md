@@ -70,11 +70,11 @@ Raspberry Pi OS
 - PiNet - http://pinet.org.uk/
 - Windows IoT Core - https://www.microsoft.com/en-us/software-download/windows10iotcore
 - Lakka - The open source game console - http://www.lakka.tv/
-- RetroPie - https://retropie.org.uk/
-- Kali Linux - https://www.kali.org/docs/arm/raspberry-pi-full-encryption/
-- OpenMediaVault - https://www.openmediavault.org/
-- Chromium OS - https://github.com/FydeOS/chromium_os-raspberry_pi
-- Alpine Linux - https://wiki.alpinelinux.org/wiki/Raspberry_Pi
+- [RetroPie](https://retropie.org.uk/)
+- [Kali Linux](https://www.kali.org/docs/arm/raspberry-pi-full-encryption/)
+- [OpenMediaVault](https://www.openmediavault.org/)
+- [Chromium OS](https://github.com/FydeOS/chromium_os-raspberry_pi)
+- [Alpine Linux](https://wiki.alpinelinux.org/wiki/Raspberry_Pi)
 
 Backup
 - [Veeam Backup & Replication Community Editio](https://www.veeam.com/virtual-machine-backup-solution-free.html) - FREE backup software for VMware and Hyper-V, as well as physical servers, workstations, laptops and cloud instances.
