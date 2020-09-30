@@ -108,15 +108,15 @@ Malware Analytics
 A Complete Malware Analysis Tutorials, Cheatsheet & Tools list for Security Professionals -  https://gbhackers.com/malware-analysis-cheat-sheet-and-tools-list/
 
 Security Autiting Tools
-- Lynis - https://github.com/CISOfy/Lynis
+- [Lynis](https://github.com/CISOfy/Lynis)
 - Nikto
 
 Shell script
 - https://github.com/Shellntel/scripts
-- Anti DDOS | BASH SCRIPT - https://github.com/anti-ddos/Anti-DDOS
+- [Anti DDOS | BASH SCRIPT](https://github.com/anti-ddos/Anti-DDOS)
 
 Games
-- Games on Github - https://github.com/leereilly/games
+- [Games on Github](https://github.com/leereilly/games)
 
 Media servers
 - [Mopidy](https://github.com/mopidy/mopidy) - plays music from local disk, Spotify, SoundCloud, Google Play Music, and more. [Mopidy.com](https://mopidy.com/)
