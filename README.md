@@ -37,7 +37,7 @@ E-books
 - [Free Security eBooks](https://github.com/Hack-with-Github/Free-Security-eBooks) - A curated list of free Security and Pentesting related E-Books available on the Internet.
 
 Hacking Windows
-- Awesome tools to exploit Windows - https://github.com/Hack-with-Github/Windows
+- [Awesome tools to play with Windows!](https://github.com/Hack-with-Github/Windows) - Awesome tools to exploit Windows ! 
 
 Productivity
 - [Tmux](https://github.com/tmux/tmux) - tmux is a terminal multiplexer: it enables a number of terminals to be created, accessed, and controlled from a single screen.
