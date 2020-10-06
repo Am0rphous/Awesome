@@ -1,6 +1,7 @@
 # System Administrator
 
 ## Bash
+- [Awesome Bash](https://github.com/awesome-lists/awesome-bash) -  A curated list of delightful Bash scripts and resources. 
 
 ## Confguration Management
 - [Puppet](https://github.com/puppetlabs/puppet/) - Server automation framework and application. [Puppet.com](https://puppet.com/)
