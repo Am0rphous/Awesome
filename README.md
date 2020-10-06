@@ -34,6 +34,9 @@ InfoSec
 E-books
 - [Free Security eBooks](https://github.com/Hack-with-Github/Free-Security-eBooks) - A curated list of free Security and Pentesting related E-Books available on the Internet.
 
+Finance
+- [Firefly III:](https://github.com/firefly-iii/firefly-iii) - a personal finances manager 
+
 Hacking Windows
 - [Awesome tools to play with Windows!](https://github.com/Hack-with-Github/Windows) - Awesome tools to exploit Windows ! 
 
