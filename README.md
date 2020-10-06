@@ -125,9 +125,9 @@ Media servers
 - [forked-daapd](https://github.com/ejurgensen/forked-daapd) - Linux/FreeBSD DAAP (iTunes) and MPD media server with support for AirPlay devices (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio. 
 
 Image editing
-- [InkScape](https://inkscape.org/) - A powerful, free design tool
+- [InkScape](https://inkscape.org) - A powerful, free design tool
 - [Krita](https://github.com/KDE/krita) - Krita is a professional free and open source painting program.
-- [Pinta](https://www.pinta-project.com/) - Pinta is a free, open source program for drawing and image editing.
+- [Pinta](https://www.pinta-project.com) - Pinta is a free, open source program for drawing and image editing.
 
 
 DashBoards
