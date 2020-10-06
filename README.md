@@ -136,5 +136,5 @@ DashBoards
 
 Malicious
 Bruteforce
-- Brutemap - https://github.com/brutemap-dev/brutemap
+- [Brutemap](https://github.com/brutemap-dev/brutemap) - open source penetration testing tool that automates testing accounts to the site's login page, based on Dictionary Attack
 - StegCracker - https://github.com/Paradoxis/StegCracker
