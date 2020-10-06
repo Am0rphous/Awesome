@@ -97,7 +97,7 @@ Virtualization
 - multipass - Instant Ubuntu VMs (Windows, macOS and Linux) https://ubuntu.com/server/docs/virtualization-multipass
 
 Sandboxing tools:
-- bubblewrap (Unprivileged sandboxing tool ) https://github.com/containers/bubblewrap
+- [BubbleWrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool
 
 
 Ad-block
