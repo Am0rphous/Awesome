@@ -101,8 +101,8 @@ Sandboxing tools:
 
 
 Ad-block
-- PiHole
-- AdGuard
+- [PiHole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements 
+- [AdGuard](https://github.com/AdguardTeam/AdguardHome) - Network-wide ads & trackers blocking DNS server 
 
 Malware Analytics
 A Complete Malware Analysis Tutorials, Cheatsheet & Tools list for Security Professionals -  https://gbhackers.com/malware-analysis-cheat-sheet-and-tools-list/
