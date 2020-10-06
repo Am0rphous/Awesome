@@ -1,6 +1,8 @@
 # System Administrator
 
-## Bash
+## Shell
+- [Awesome Shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. 
+### Bash
 - [Awesome Bash](https://github.com/awesome-lists/awesome-bash) -  A curated list of delightful Bash scripts and resources. 
 
 ## Confguration Management
