@@ -6,8 +6,11 @@
 - [Tor Proxy](https://onion.pet/) - Onion.pet - Tor2Web Darknet Proxy
 
 ## Bypass Firewalls / Encapsulation traffic
+- [Geneva](https://github.com/Kkevsterrr/geneva) - automated censorship evasion for the client-side and server-side 
+- [ICMPTunnel](https://github.com/DhavalKapil/icmptunnel) - Transparently tunnel your IP traffic through ICMP echo and reply packets. [dhavalkapil.com/icmptunnel/](https://dhavalkapil.com/icmptunnel/)
 - [Udp2raw-tunnel](https://github.com/wangyu-/udp2raw-tunnel) - A Tunnel which turns UDP Traffic into Encrypted FakeTCP/UDP/ICMP Traffic by using Raw Socket, helps you Bypass UDP FireWalls(or Unstable UDP Environment).
-[ICMPTunnel](https://github.com/DhavalKapil/icmptunnel) - Transparently tunnel your IP traffic through ICMP echo and reply packets. [dhavalkapil.com/icmptunnel/](https://dhavalkapil.com/icmptunnel/)
+
+
 
 ## Proxy
 - [Privoxy](https://www.privoxy.org/) - Privoxy is a non-caching web proxy with advanced filtering capabilities for enhancing privacy, modifying web page data and HTTP headers, controlling access, and removing ads and other obnoxious Internet junk.
