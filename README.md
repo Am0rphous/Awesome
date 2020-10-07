@@ -4,7 +4,7 @@ Various resources, personal notes etc. I find interesting.
 
 
 
-The Holy List of Awesome
+## The Holy List of Awesome
 - [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk/)
 - [Awesome Search](https://awesomelists.top/)
 - [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome)
@@ -14,7 +14,7 @@ The Holy List of Awesome
 - [Awesome List](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics 
 - [Awesome SSH](https://github.com/moul/awesome-ssh)
 
-Artificial Intelligence
+## Artificial Intelligence
 - [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers. 
 - [OpenCog](https://github.com/opencog/opencog) - A framework for integrated Artificial Intelligence & Artificial General Intelligence (AGI) 
 - [AI Cheatsheets](https://github.com/kailashahirwar/cheatsheets-ai) - Essential Cheat Sheets for deep learning and machine learning researchers 
@@ -26,19 +26,19 @@ Artificial Intelligence
 - [Malmo](https://github.com/microsoft/malmo) - Project Malmo is a platform for Artificial Intelligence experimentation and research built on top of Minecraft. 
 - [AIMA3e-Java (JDK 8+)](https://github.com/aimacode/aima-java) - Java implementation of algorithms from Russell And Norvig's "Artificial Intelligence - A Modern Approach" 
 
+## E-books
+- [Free Security eBooks](https://github.com/Hack-with-Github/Free-Security-eBooks) - A curated list of free Security and Pentesting related E-Books available on the Internet.
 
-InfoSec
+## Finance
+- [Firefly III:](https://github.com/firefly-iii/firefly-iii) - a personal finances manager 
+
+## Hacking Windows
+- [Awesome tools to play with Windows!](https://github.com/Hack-with-Github/Windows) - Awesome tools to exploit Windows ! 
+
+## InfoSec
 - MITRE ATT&CK - https://attack.mitre.org/
         - https://mitre-attack.github.io/attack-navigator/enterprise/
 
-E-books
-- [Free Security eBooks](https://github.com/Hack-with-Github/Free-Security-eBooks) - A curated list of free Security and Pentesting related E-Books available on the Internet.
-
-Finance
-- [Firefly III:](https://github.com/firefly-iii/firefly-iii) - a personal finances manager 
-
-Hacking Windows
-- [Awesome tools to play with Windows!](https://github.com/Hack-with-Github/Windows) - Awesome tools to exploit Windows ! 
 
 Productivity
 - [Tmux](https://github.com/tmux/tmux) - tmux is a terminal multiplexer: it enables a number of terminals to be created, accessed, and controlled from a single screen.
