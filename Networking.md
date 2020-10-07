@@ -7,6 +7,7 @@
 
 ## Bot Net
 - [Byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers. [byob.dev](https://byob.dev/)
+- [PoshBot](https://github.com/poshbotio/PoshBot) - Powershell-based bot framework 
 
 ## Bypass Firewalls / Encapsulation traffic
 - [Geneva](https://github.com/Kkevsterrr/geneva) - automated censorship evasion for the client-side and server-side 
