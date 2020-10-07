@@ -32,9 +32,6 @@ Various resources, personal notes etc. I find interesting.
 ## Finance
 - [Firefly III:](https://github.com/firefly-iii/firefly-iii) - a personal finances manager 
 
-## Hacking Windows
-- [Awesome tools to play with Windows!](https://github.com/Hack-with-Github/Windows) - Awesome tools to exploit Windows ! 
-
 ## InfoSec
 - MITRE ATT&CK - https://attack.mitre.org/
         - https://mitre-attack.github.io/attack-navigator/enterprise/
