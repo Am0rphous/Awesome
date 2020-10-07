@@ -77,11 +77,7 @@ Raspberry Pi OS
 - [Chromium OS](https://github.com/FydeOS/chromium_os-raspberry_pi)
 - [Alpine Linux](https://wiki.alpinelinux.org/wiki/Raspberry_Pi)
 
-Backup
-- [Veeam Backup & Replication Community Editio](https://www.veeam.com/virtual-machine-backup-solution-free.html) - FREE backup software for VMware and Hyper-V, as well as physical servers, workstations, laptops and cloud instances.
-- [Bacula](https://ubuntu.com/server/docs/backups-bacula) - Bacula is a backup program enabling you to backup, restore, and verify data across your network. There are Bacula clients for Linux, Windows, and Mac OS X.
-
-VPN
+## VPN
 - [WireGuard](https://github.com/WireGuard) - WireGuard® is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. [Wireguard.com](https://www.wireguard.com/)
 - [Tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. [Tailscale.com](https://www.tailscale.com/)
 - [OpenVPN](https://github.com/OpenVPN)
