@@ -7,5 +7,6 @@
 
 ## Post-Exploitation Frameworks
 - [Byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers. [byob.dev](https://byob.dev/)
+- [iBombShell](https://github.com/ElevenPaths/ibombshell) - Tool to deploy a post-exploitation prompt at any time 
 - [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - A PowerShell Post-Exploitation Framework 
 - [SILENTTRINITY](https://github.com/byt3bl33d3r/SILENTTRINITY) - An asynchronous, collaborative post-exploitation agent powered by Python and .NET's DLR 
