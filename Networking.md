@@ -5,6 +5,9 @@
 - [Tor](https://www.torproject.org/) - Tor is free and open-source software for enabling anonymous communication. The name derived from the acronym for the original software project name "The Onion Router". Tor directs Internet traffic through a free, worldwide, volunteer overlay network consisting of more than seven thousand relays to conceal a user's location and usage from anyone conducting network surveillance or traffic analysis.
 - [Tor Proxy](https://onion.pet/) - Onion.pet - Tor2Web Darknet Proxy
 
+## Bot Net
+- [Byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers. [byob.dev](https://byob.dev/)
+
 ## Bypass Firewalls / Encapsulation traffic
 - [Geneva](https://github.com/Kkevsterrr/geneva) - automated censorship evasion for the client-side and server-side 
 - [ICMPTunnel](https://github.com/DhavalKapil/icmptunnel) - Transparently tunnel your IP traffic through ICMP echo and reply packets. [dhavalkapil.com/icmptunnel/](https://dhavalkapil.com/icmptunnel/)
