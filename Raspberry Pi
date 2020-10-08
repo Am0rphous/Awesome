@@ -23,5 +23,6 @@ Operatingsystems
 - [Alpine Linux](https://wiki.alpinelinux.org/wiki/Raspberry_Pi)
 
 ## OS for gaming
+- [Batocera.linux](https://github.com/batocera-linux/batocera.linux) - . [www.batocera.org](https://batocera.org/)
 - [Lakka](https://github.com/libretro/Lakka-LibreELEC) - Lakka is a lightweight Linux distribution that transforms a small computer into a full blown retrogaming console. [lakka.tv](http://www.lakka.tv/)
 - [RetroPie](https://retropie.org.uk/) - RetroPie allows you to turn your Raspberry Pi, ODroid C1/C2, or PC into a retro-gaming machine.
