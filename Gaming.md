@@ -5,7 +5,7 @@
 
 ## Gaming on Linux
 - [Lutris](https://github.com/lutris/lutris) - Open Source gaming platform for GNU/Linux. [lutris.net](https://lutris.net/). It installs and launches games so you can start playing without the hassle of setting up your games. Get your games from GOG, Steam, Battle.net, Origin, Uplay and many other sources running on any Linux powered gaming machine.
-- [Phoenicis PlayOnLinux](https://github.com/PhoenicisOrg/phoenicis) - Phoenicis PlayOnLinux is a piece of software which allows you to easily install and use numerous games and apps designed to run with Microsoft® Windows®.
+- [Phoenicis PlayOnLinux](https://github.com/PhoenicisOrg/phoenicis) - Phoenicis PlayOnLinux is a piece of software which allows you to easily install and use numerous games and apps designed to run with Microsoft® Windows®. [phoenicis.org](https://phoenicis.org/)
 - [PlayOnLinux]() - 
 - [Game Jolt](https://gamejolt.com/games?os=linux)
 
