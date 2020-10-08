@@ -1,6 +1,6 @@
 # Raspberry Pi
 
-Operatingsystems
+## Operatingsystems
 - [Raspberry Pi OS (previously called Raspbian)](https://www.raspberrypi.org/downloads/raspberry-pi-os/)
 - [Noobs](https://www.raspberrypi.org/downloads/noobs/)
 - [Minibian](https://minibianpi.wordpress.com/)
