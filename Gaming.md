@@ -12,6 +12,7 @@
 - [Game Jolt](https://gamejolt.com/games?os=linux)
 
 ## Other
+- [GameMode](https://github.com/FeralInteractive/gamemode) - Optimise Linux system performance on demand
 - [ScummVM](https://github.com/scummvm/scummvm) - program which allows you to run certain classic graphical point-and-click adventure games and role-playing games, provided you already have their data files. [www.scummvm.org](https://www.scummvm.org/) & [supported Games](https://wiki.scummvm.org/index.php?title=Category:Supported_Games)
 - [DOSBox-X](https://github.com/joncampbell123/dosbox-x) - open-source DOS emulator for running DOS games and applications. [dosbox-x.com](https://dosbox-x.com/).
 - [Dosbox-staging](https://github.com/dosbox-staging/dosbox-staging) - Modernized DOSBox soft-fork.
