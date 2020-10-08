@@ -1,7 +1,7 @@
 # Raspberry Pi
 
 ## Operatingsystems
-- [Raspberry Pi OS (previously called Raspbian)](https://www.raspberrypi.org/downloads/raspberry-pi-os/)
+- [Raspberry Pi OS](https://www.raspberrypi.org/downloads/raspberry-pi-os/) - (previously called Raspbian)
 - [Noobs](https://www.raspberrypi.org/downloads/noobs/)
 - [Minibian](https://minibianpi.wordpress.com/)
 - [Home Assistant Operating System](https://github.com/home-assistant/operating-system)
