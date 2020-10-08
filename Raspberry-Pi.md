@@ -16,7 +16,6 @@ Operatingsystems
 - [WebThings Gateway](https://iot.mozilla.org/gateway/) - An open platform for monitoring and controlling devices over the web.
 - [PiNet](http://pinet.org.uk/)
 - [Windows IoT Core](https://www.microsoft.com/en-us/software-download/windows10iotcore)
-- [Lakka](http://www.lakka.tv/) - The open source game console. Lakka is a lightweight Linux distribution that transforms a small computer into a full blown retrogaming console.
 
 - [Kali Linux](https://www.kali.org/docs/arm/raspberry-pi-full-encryption/)
 - [OpenMediaVault](https://www.openmediavault.org/)
