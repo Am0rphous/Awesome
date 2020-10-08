@@ -25,4 +25,5 @@
 ## OS for gaming
 - [Batocera.linux](https://github.com/batocera-linux/batocera.linux) - . [www.batocera.org](https://batocera.org/)
 - [Lakka](https://github.com/libretro/Lakka-LibreELEC) - Lakka is a lightweight Linux distribution that transforms a small computer into a full blown retrogaming console. [lakka.tv](http://www.lakka.tv/)
+- [Retro Arch](https://github.com/libretro/RetroArch) - RetroArch is a frontend for emulators, game engines and media players. [www.retroarch.com](https://www.retroarch.com)
 - [RetroPie](https://retropie.org.uk/) - RetroPie allows you to turn your Raspberry Pi, ODroid C1/C2, or PC into a retro-gaming machine.
