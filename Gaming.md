@@ -5,7 +5,7 @@
 
 ## Gaming on Linux
 - [Lutris](https://github.com/lutris/lutris) - Open Source gaming platform for GNU/Linux. [lutris.net](https://lutris.net/)
-- [Phoenicis PlayOnLinux](https://github.com/PhoenicisOrg/phoenicis) - Phoenicis PlayOnLinux is a piece of software which allows you to easily install and use numerous games and apps designed to run with Microsoft® Windows®. [phoenicis.org](https://phoenicis.org/)
+- [Phoenicis PlayOnLinux](https://github.com/PhoenicisOrg/phoenicis) - Software which allows you to easily install and use numerous games and apps designed to run with Windows. [phoenicis.org](https://phoenicis.org/)
 - [PlayOnLinux](https://www.playonlinux.com/en/) - . [Supported app list](https://www.playonlinux.com/en/supported_apps-1-0.html)
 - [PlayOnLinux4](https://github.com/PlayOnLinux/POL-POM-4) - PlayOnLinux 4 repository
 - [WineTricks](https://github.com/Winetricks/winetricks) - Winetricks is an easy way to work around problems in Wine. [winehq.org](https://wiki.winehq.org/Winetricks)
