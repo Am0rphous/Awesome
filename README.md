@@ -41,6 +41,7 @@ Productivity
 - [Tmux](https://github.com/tmux/tmux) - tmux is a terminal multiplexer: it enables a number of terminals to be created, accessed, and controlled from a single screen.
   - [Tmux xPanes](https://github.com/greymd/tmux-xpanes) - Create multiple tmux terminals
 - [Albert Launcher](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher. [Homepage](https://albertlauncher.github.io/)
+- RedShift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. 
 
 Webhosting
 - [Sanstorm](https://sandstorm.io/) - Sandstorm is an open source platform for self-hosting web apps
