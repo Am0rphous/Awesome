@@ -26,3 +26,8 @@
 ### Other proxies
 - [Apache2](https://httpd.apache.org/)
 - [NginX](https://www.nginx.com/) - [Nginx GIthub](https://github.com/nginx/nginx)
+
+## Secure WebBrowsers
+- Comodo Dragon https://www.comodo.com/home/browsers-toolbars/browser.php
+- https://www.waterfox.net/
+https://www.srware.net/iron/
