@@ -70,6 +70,7 @@ Containers
             - vmmaestro - https://github.com/mzch/vmmaestro
 - multipass - Instant Ubuntu VMs (Windows, macOS and Linux) https://ubuntu.com/server/docs/virtualization-multipass
 - [XCP-ng](https://xcp-ng.org/)
+- [oVirt](https://www.ovirt.org/) - free open-source virtualization solution for your entire enterprise
 
 Sandboxing tools:
 - [BubbleWrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool
