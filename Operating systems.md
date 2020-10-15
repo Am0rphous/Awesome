@@ -7,4 +7,4 @@
 
 ### Penetration Testing
 - [Kali](https://www.kali.org/) - Advanced Penetration Testing Distribution.
-- [Parrot IS](https://www.parrotsec.org/)
+- [Parrot](https://www.parrotsec.org/) - designed for penetration testing, vulnerability assessment and mitigation, computer forensics and anonymous web browsing. 
