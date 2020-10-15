@@ -39,6 +39,12 @@ implementation of the Domain Name System (DNS) protocol.
 - Docker swarm
 
 ## Virtualization - Machines
-
+- Kimchi - HTML5 based management tool for KVM - https://github.com/kimchi-project/kimchi
+- KVM
+            - KVM Management Tools list - https://www.linux-kvm.org/page/Management_Tools
+            - vmmaestro - https://github.com/mzch/vmmaestro
+- multipass - Instant Ubuntu VMs (Windows, macOS and Linux) https://ubuntu.com/server/docs/virtualization-multipass
+- [XCP-ng](https://xcp-ng.org/)
+- [oVirt](https://www.ovirt.org/) - free open-source virtualization solution for your entire enterprise
 
 
