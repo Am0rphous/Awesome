@@ -55,6 +55,11 @@ implementation of the Domain Name System (DNS) protocol.
 - [XCP-ng](https://xcp-ng.org/)
 - [oVirt](https://www.ovirt.org/) - free open-source virtualization solution for your entire enterprise
 
+## VPN - Virtual Private Network
+- [WireGuard](https://github.com/WireGuard) - WireGuard® is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. [Wireguard.com](https://www.wireguard.com/)
+- [Tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. [Tailscale.com](https://www.tailscale.com/)
+- [OpenVPN](https://github.com/OpenVPN)
+
 ## Web
 - [Sanstorm](https://sandstorm.io/) - Sandstorm is an open source platform for self-hosting web apps
 
