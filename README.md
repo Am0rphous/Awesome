@@ -4,7 +4,8 @@ Various resources, personal notes etc. I find interesting.
 
 
 
-## The Holy List of Awesome
+## Holy List of Awesome
+- [Awesome Open Source](https://awesomeopensource.com) - Find Open Source By Searching, Browsing and Combining 7,000 Topics Across 59 Categories And 337,263 Projects
 - [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk/)
 - [Awesome Search](https://awesomelists.top/)
 - [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome)
