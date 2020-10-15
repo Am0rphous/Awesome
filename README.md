@@ -44,43 +44,14 @@ Productivity
 - [Albert Launcher](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher. [Homepage](https://albertlauncher.github.io/)
 - RedShift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. 
 
-Webhosting
-- [Sanstorm](https://sandstorm.io/) - Sandstorm is an open source platform for self-hosting web apps
-
-Containers
-- [K3S](https://k3s.io/) - The certified Kubernetes distribution built for IoT & Edge computing
-- [LXC](https://linuxcontainers.org/lxc/)
-- [LXD](https://linuxcontainers.org/lxd/)
-- [Docker](https://www.docker.com/)
-
-
-## container orchestration 
-- [Kubernetes](https://kubernetes.io/)
-  - [Kubernetes CheatSheets](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
-- Docker swarm
 
 ## VPN
 - [WireGuard](https://github.com/WireGuard) - WireGuard® is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. [Wireguard.com](https://www.wireguard.com/)
 - [Tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. [Tailscale.com](https://www.tailscale.com/)
 - [OpenVPN](https://github.com/OpenVPN)
 
-## Virtualization
-- Kimchi - HTML5 based management tool for KVM - https://github.com/kimchi-project/kimchi
-- KVM
-            - KVM Management Tools list - https://www.linux-kvm.org/page/Management_Tools
-            - vmmaestro - https://github.com/mzch/vmmaestro
-- multipass - Instant Ubuntu VMs (Windows, macOS and Linux) https://ubuntu.com/server/docs/virtualization-multipass
-- [XCP-ng](https://xcp-ng.org/)
-- [oVirt](https://www.ovirt.org/) - free open-source virtualization solution for your entire enterprise
-
-Sandboxing tools:
-- [BubbleWrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool
-- [FireJail](https://github.com/netblue30/firejail) - SUID sandbox program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces, seccomp-bpf and Linux capabilities. [FireJail Homepage](https://firejail.wordpress.com/)
 
 
-Ad-block
-- [PiHole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements 
-- [AdGuard](https://github.com/AdguardTeam/AdguardHome) - Network-wide ads & trackers blocking DNS server 
 
 Malware Analytics
 A Complete Malware Analysis Tutorials, Cheatsheet & Tools list for Security Professionals -  https://gbhackers.com/malware-analysis-cheat-sheet-and-tools-list/
