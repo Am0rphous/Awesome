@@ -22,6 +22,14 @@ implementation of the Domain Name System (DNS) protocol.
 - [Unbound DNS](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver. [Homepage](https://nlnetlabs.nl/projects/unbound/about/)
 - [Stubby](https://github.com/getdnsapi/stubby) - Stubby is the name given to a mode of using getdns which enables it to act as a local DNS Privacy stub resolver (using DNS-over-TLS). 
 
+### Ad-block
+- [PiHole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements.
+- [AdGuard](https://github.com/AdguardTeam/AdguardHome) - Network-wide ads & trackers blocking DNS server.
+
+## Sandboxing tools:
+- [BubbleWrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool
+- [FireJail](https://github.com/netblue30/firejail) - SUID sandbox program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces, seccomp-bpf and Linux capabilities. [FireJail Homepage](https://firejail.wordpress.com/)
+
 ## Shell
 - [Awesome Shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [Hyper](https://github.com/vercel/hyper) -  A terminal built on web technologies. [www.hyper.is](https://hyper.is/)
@@ -46,5 +54,8 @@ implementation of the Domain Name System (DNS) protocol.
 - multipass - Instant Ubuntu VMs (Windows, macOS and Linux) https://ubuntu.com/server/docs/virtualization-multipass
 - [XCP-ng](https://xcp-ng.org/)
 - [oVirt](https://www.ovirt.org/) - free open-source virtualization solution for your entire enterprise
+
+## Web
+- [Sanstorm](https://sandstorm.io/) - Sandstorm is an open source platform for self-hosting web apps
 
 
