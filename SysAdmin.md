@@ -36,16 +36,16 @@ implementation of the Domain Name System (DNS) protocol.
 - [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)  A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. [ohmyz.sh](https://ohmyz.sh/)
 
 ## Virtualization - containers
+- [Docker](https://www.docker.com/)
 - [K3S](https://k3s.io/) - The certified Kubernetes distribution built for IoT & Edge computing
 - [LXC](https://linuxcontainers.org/lxc/)
 - [LXD](https://linuxcontainers.org/lxd/)
-- [Docker](https://www.docker.com/)
+- [MiniKube](https://github.com/kubernetes/minikube) - minikube implements a local Kubernetes cluster on macOS, Linux, and Windows. [minikube.sigs.k8s.io](https://minikube.sigs.k8s.io/docs/)
 - [MiniShift](https://github.com/minishift/minishift) - open source tool that helps you run a single-node OpenShift cluster locally inside a VM. [okd.io](https://www.okd.io)
 
 ### Container orchestration 
 - [Kubernetes](https://kubernetes.io/)
   - [Kubernetes CheatSheets](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
-- [MiniCube](https://github.com/kubernetes/minikube) - minikube implements a local Kubernetes cluster on macOS, Linux, and Windows. [minikube.sigs.k8s.io](https://minikube.sigs.k8s.io/docs/)
 - Docker swarm
 
 ## Virtualization - Machines
