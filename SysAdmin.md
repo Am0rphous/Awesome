@@ -26,3 +26,19 @@ implementation of the Domain Name System (DNS) protocol.
 - [Awesome Shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [Hyper](https://github.com/vercel/hyper) -  A terminal built on web technologies. [www.hyper.is](https://hyper.is/)
 - [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)  A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. [ohmyz.sh](https://ohmyz.sh/)
+
+## Virtualization - containers
+- [K3S](https://k3s.io/) - The certified Kubernetes distribution built for IoT & Edge computing
+- [LXC](https://linuxcontainers.org/lxc/)
+- [LXD](https://linuxcontainers.org/lxd/)
+- [Docker](https://www.docker.com/)
+
+###container orchestration 
+- [Kubernetes](https://kubernetes.io/)
+  - [Kubernetes CheatSheets](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
+- Docker swarm
+
+## Virtualization - Machines
+
+
+
