@@ -44,23 +44,11 @@ Productivity
 - [Albert Launcher](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher. [Homepage](https://albertlauncher.github.io/)
 - RedShift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. 
 
-
-## VPN
-- [WireGuard](https://github.com/WireGuard) - WireGuard® is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. [Wireguard.com](https://www.wireguard.com/)
-- [Tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. [Tailscale.com](https://www.tailscale.com/)
-- [OpenVPN](https://github.com/OpenVPN)
-
-
-
-
-Malware Analytics
-A Complete Malware Analysis Tutorials, Cheatsheet & Tools list for Security Professionals -  https://gbhackers.com/malware-analysis-cheat-sheet-and-tools-list/
-
-Security Autiting Tools
+## Security Autiting Tools
 - [Lynis](https://github.com/CISOfy/Lynis)
 - Nikto
 
-Shell script
+## Shell script
 - https://github.com/Shellntel/scripts
 - [Anti DDOS | BASH SCRIPT](https://github.com/anti-ddos/Anti-DDOS)
 
