@@ -48,9 +48,6 @@ Productivity
 - [Lynis](https://github.com/CISOfy/Lynis)
 - Nikto
 
-## Shell script
-- https://github.com/Shellntel/scripts
-- [Anti DDOS | BASH SCRIPT](https://github.com/anti-ddos/Anti-DDOS)
 
 ## Games
 - [Games on Github](https://github.com/leereilly/games)
