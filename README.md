@@ -42,11 +42,16 @@ Various resources, personal notes etc. I find interesting.
 
 ## Media
 
-## Media Servers
+### Image editing
+- [InkScape](https://inkscape.org) - A powerful, free design tool
+- [Krita](https://github.com/KDE/krita) - Krita is a professional free and open source painting program.
+- [Pinta](https://www.pinta-project.com) - Pinta is a free, open source program for drawing and image editing.
+
+### Media Servers
+- [forked-daapd](https://github.com/ejurgensen/forked-daapd) - Linux/FreeBSD DAAP (iTunes) and MPD media server with support for AirPlay devices (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio. 
 - [Kodi](https://github.com/xbmc/xbmc) - award-winning free and open source home theater/media center software and entertainment hub for digital media. [kodi.tv](https://kodi.tv/)
 - [Mopidy](https://github.com/mopidy/mopidy) - plays music from local disk, Spotify, SoundCloud, Google Play Music, and more. [Mopidy.com](https://mopidy.com/)
 - [Snapcast](https://github.com/badaix/snapcast) - Snapcast is a multiroom client-server audio player, where all clients are time synchronized with the server to play perfectly synced audio. [Homepage Snapcast](https://mjaggard.github.io/snapcast/)
-- [forked-daapd](https://github.com/ejurgensen/forked-daapd) - Linux/FreeBSD DAAP (iTunes) and MPD media server with support for AirPlay devices (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio. 
 
 ## Productivity
 - [Tmux](https://github.com/tmux/tmux) - tmux is a terminal multiplexer: it enables a number of terminals to be created, accessed, and controlled from a single screen.
@@ -57,14 +62,6 @@ Various resources, personal notes etc. I find interesting.
 ## Security Autiting Tools
 - [Lynis](https://github.com/CISOfy/Lynis)
 - Nikto
-
-
-
-## Image editing
-- [InkScape](https://inkscape.org) - A powerful, free design tool
-- [Krita](https://github.com/KDE/krita) - Krita is a professional free and open source painting program.
-- [Pinta](https://www.pinta-project.com) - Pinta is a free, open source program for drawing and image editing.
-
 
 ## DashBoards
 - [Grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More 
