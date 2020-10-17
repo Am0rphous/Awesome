@@ -56,6 +56,7 @@ Various resources, personal notes etc. I find interesting.
 - [forked-daapd](https://github.com/ejurgensen/forked-daapd) - Linux/FreeBSD DAAP (iTunes) and MPD media server with support for AirPlay devices (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio. 
 - [Jellyfin](https://github.com/jellyfin/jellyfin) - Free Software Media System that puts you in control of managing and streaming your media. [jellyfin.org](https://jellyfin.org/)
 - [Kodi](https://github.com/xbmc/xbmc) - award-winning free and open source home theater/media center software and entertainment hub for digital media. [kodi.tv](https://kodi.tv/)
+- [Lidarr](https://github.com/lidarr/Lidarr) - Lidarr is a music collection manager for Usenet and BitTorrent users. [lidarr.audio](https://lidarr.audio/)
 - [Mopidy](https://github.com/mopidy/mopidy) - plays music from local disk, Spotify, SoundCloud, Google Play Music, and more. [Mopidy.com](https://mopidy.com/)
 - [Plex](https://www.plex.tv/) -  closed source media server + desktop application. [plex.tv](https://www.plex.tv/)
   - [Telly](https://github.com/tellytv/telly) - IPTV proxy for Plex Live written in Golang.
