@@ -43,6 +43,7 @@ Various resources, personal notes etc. I find interesting.
 ## Media
 
 ### Image editing
+- [DarkTable](https://github.com/darktable-org/darktable) - open source photography workflow application and raw developer. A virtual lighttable and darkroom for photographers. [darktable.org](https://www.darktable.org/)
 - [InkScape](https://inkscape.org) - A powerful, free design tool
 - [Krita](https://github.com/KDE/krita) - Krita is a professional free and open source painting program.
 - [Pinta](https://www.pinta-project.com) - Pinta is a free, open source program for drawing and image editing.
