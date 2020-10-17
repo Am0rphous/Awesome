@@ -1,5 +1,9 @@
 # System Administrator Tools
 
+### Ad-block
+- [PiHole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements.
+- [AdGuard](https://github.com/AdguardTeam/AdguardHome) - Network-wide ads & trackers blocking DNS server.
+
 ### Bash
 - [Awesome Bash](https://github.com/awesome-lists/awesome-bash) -  A curated list of delightful Bash scripts and resources. 
 - [Oh My Bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. [ohmybash.github.io](https://ohmybash.github.io/)
@@ -25,9 +29,8 @@ implementation of the Domain Name System (DNS) protocol.
 - [Unbound DNS](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver. [Homepage](https://nlnetlabs.nl/projects/unbound/about/)
 - [Stubby](https://github.com/getdnsapi/stubby) - Stubby is the name given to a mode of using getdns which enables it to act as a local DNS Privacy stub resolver (using DNS-over-TLS). 
 
-### Ad-block
-- [PiHole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements.
-- [AdGuard](https://github.com/AdguardTeam/AdguardHome) - Network-wide ads & trackers blocking DNS server.
+## LDAP
+- [JXplorer](https://github.com/pegacat/jxplorer/) - an open source LDAP browser
 
 ## Sandboxing tools:
 - [BubbleWrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool
