@@ -49,6 +49,9 @@ Various resources, personal notes etc. I find interesting.
 - [Krita](https://github.com/KDE/krita) - Krita is a professional free and open source painting program.
 - [Pinta](https://www.pinta-project.com) - Pinta is a free, open source program for drawing and image editing.
 
+## Video
+- [Kazam](https://github.com/hzbd/kazam) - Kazam is a simple screen recording program that will capture the content of your screen.
+
 ### Media Servers
 - [forked-daapd](https://github.com/ejurgensen/forked-daapd) - Linux/FreeBSD DAAP (iTunes) and MPD media server with support for AirPlay devices (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio. 
 - [Jellyfin](https://github.com/jellyfin/jellyfin) - Free Software Media System that puts you in control of managing and streaming your media. [jellyfin.org](https://jellyfin.org/)
