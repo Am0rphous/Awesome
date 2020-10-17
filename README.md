@@ -72,6 +72,9 @@ Various resources, personal notes etc. I find interesting.
 - [Albert Launcher](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher. [Homepage](https://albertlauncher.github.io/)
 - RedShift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. 
 
+## Project finder
+- [feathub](https://feathub.com/)
+
 ## Security Autiting Tools
 - [Lynis](https://github.com/CISOfy/Lynis)
 - Nikto
