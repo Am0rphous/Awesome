@@ -56,6 +56,9 @@ Various resources, personal notes etc. I find interesting.
   - [Telly](https://github.com/tellytv/telly) - IPTV proxy for Plex Live written in Golang.
 - [Snapcast](https://github.com/badaix/snapcast) - Snapcast is a multiroom client-server audio player, where all clients are time synchronized with the server to play perfectly synced audio. [Homepage Snapcast](https://mjaggard.github.io/snapcast/)
 
+### Music
+- [Soundnode App](https://github.com/Soundnode/soundnode-app) - Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API. 
+
 ## Productivity
 - [Tmux](https://github.com/tmux/tmux) - tmux is a terminal multiplexer: it enables a number of terminals to be created, accessed, and controlled from a single screen.
   - [Tmux xPanes](https://github.com/greymd/tmux-xpanes) - Create multiple tmux terminals
