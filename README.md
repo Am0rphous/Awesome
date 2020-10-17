@@ -38,7 +38,7 @@ Various resources, personal notes etc. I find interesting.
         - https://mitre-attack.github.io/attack-navigator/enterprise/
 
 
-Productivity
+## Productivity
 - [Tmux](https://github.com/tmux/tmux) - tmux is a terminal multiplexer: it enables a number of terminals to be created, accessed, and controlled from a single screen.
   - [Tmux xPanes](https://github.com/greymd/tmux-xpanes) - Create multiple tmux terminals
 - [Albert Launcher](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher. [Homepage](https://albertlauncher.github.io/)
@@ -52,19 +52,19 @@ Productivity
 ## Games
 - [Games on Github](https://github.com/leereilly/games)
 
-Media servers
+## Media servers
 - [Mopidy](https://github.com/mopidy/mopidy) - plays music from local disk, Spotify, SoundCloud, Google Play Music, and more. [Mopidy.com](https://mopidy.com/)
         - 
 - [Snapcast](https://github.com/badaix/snapcast) - Snapcast is a multiroom client-server audio player, where all clients are time synchronized with the server to play perfectly synced audio. [Homepage Snapcast](https://mjaggard.github.io/snapcast/)
 - [forked-daapd](https://github.com/ejurgensen/forked-daapd) - Linux/FreeBSD DAAP (iTunes) and MPD media server with support for AirPlay devices (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio. 
 
-Image editing
+## Image editing
 - [InkScape](https://inkscape.org) - A powerful, free design tool
 - [Krita](https://github.com/KDE/krita) - Krita is a professional free and open source painting program.
 - [Pinta](https://www.pinta-project.com) - Pinta is a free, open source program for drawing and image editing.
 
 
-DashBoards
+## DashBoards
 - [Grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More 
   - [Grafana dashboards for MySQL and MongoDB](https://github.com/percona/grafana-dashboards) - Grafana dashboards for MySQL and MongoDB monitoring using Prometheus 
 
