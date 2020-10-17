@@ -28,6 +28,7 @@ Various resources, personal notes etc. I find interesting.
 - [AIMA3e-Java (JDK 8+)](https://github.com/aimacode/aima-java) - Java implementation of algorithms from Russell And Norvig's "Artificial Intelligence - A Modern Approach" 
 
 ## E-books
+- [Calibre](https://github.com/kovidgoyal/calibre) - calibre is an e-book manager. It can view, convert, edit and catalog e-books in all of the major e-book formats.
 - [Free Security eBooks](https://github.com/Hack-with-Github/Free-Security-eBooks) - A curated list of free Security and Pentesting related E-Books available on the Internet.
 
 ## Finance
