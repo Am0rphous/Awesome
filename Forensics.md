@@ -1,5 +1,11 @@
 # Forensics
 
+## Portable Executable (PE) Analysis
+Description: The Portable Executable format is a file format for executables, object code, DLLs and others used in 32-bit and 64-bit versions of Windows operating systems.
+- [Cerbero Suite](https://cerbero.io/)
+- [CFF Explorer / Explorer Suite](http://www.ntcore.com/exsuite.php)
+- [DynLogger](https://www.ntcore.com/?page_id=376) - logs all dynamically retrieved functions by reporting the module name and the requested function. It also logs loaded modules. It can come very handy when one wants to know a “hidden” function used by an application.
+
 ## Memory Forensics
 - [LiME](https://github.com/504ensicsLabs/LiME) - LiME (or Linux Memory Extractor) is a tool that allows the capture of volatile memory (RAM) from a running Linux device. 
 - [Rekalll Memory Forensics Framework](https://github.com/google/rekall) - The Rekall Framework is a completely open collection of tools, implemented in Python under the Apache and GNU General Public License, for the extraction and analysis of digital artifacts computer systems.
@@ -20,3 +26,4 @@ https://tunnelix.com/linux-memory-analysis-with-lime-and-volatility/
 RedLine Linux https://www.red.com/download/redline-linux-beta
 
 https://www.fireeye.com/services/freeware/redline.html
+FF Explorer
