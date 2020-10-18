@@ -1,10 +1,7 @@
 # Forensics
 
-## Portable Executable (PE) Analysis
-Description: The Portable Executable format is a file format for executables, object code, DLLs and others used in 32-bit and 64-bit versions of Windows operating systems.
-- [Cerbero Suite](https://cerbero.io/)
-- [CFF Explorer / Explorer Suite](http://www.ntcore.com/exsuite.php)
-- [DynLogger](https://www.ntcore.com/?page_id=376) - logs all dynamically retrieved functions by reporting the module name and the requested function. It also logs loaded modules. It can come very handy when one wants to know a “hidden” function used by an application.
+## Documents
+- [Detecting Malware With Memory Forensics with Hal Pomeranz (SANS Institute)](http://www.deer-run.com/~hal/Detect_Malware_w_Memory_Forensics.pdf)
 
 ## Memory Forensics
 - [LiME](https://github.com/504ensicsLabs/LiME) - LiME (or Linux Memory Extractor) is a tool that allows the capture of volatile memory (RAM) from a running Linux device. 
@@ -13,6 +10,12 @@ Description: The Portable Executable format is a file format for executables, ob
 - [Volatility](https://github.com/volatilityfoundation/volatility) - An advanced memory forensics framework [www.volatilityfoundation.org](https://www.volatilityfoundation.org/). [Githbu wiki](https://github.com/volatilityfoundation/volatility/wiki).
 - [volatility3](https://github.com/volatilityfoundation/volatility3)
   - [plugins](https://github.com/volatilityfoundation/community).
+
+## Portable Executable (PE) Analysis
+Description: The Portable Executable format is a file format for executables, object code, DLLs and others used in 32-bit and 64-bit versions of Windows operating systems.
+- [Cerbero Suite](https://cerbero.io/)
+- [CFF Explorer / Explorer Suite](http://www.ntcore.com/exsuite.php)
+- [DynLogger](https://www.ntcore.com/?page_id=376) - logs all dynamically retrieved functions by reporting the module name and the requested function. It also logs loaded modules. It can come very handy when one wants to know a “hidden” function used by an application.
 
 
 Winpmem - The multi-platform memory acquisition tool. 
