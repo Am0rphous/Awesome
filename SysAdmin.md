@@ -43,7 +43,8 @@ implementation of the Domain Name System (DNS) protocol.
 - [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)  A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. [ohmyz.sh](https://ohmyz.sh/)
 - [Guake](https://github.com/Guake/guake) -  Drop-down terminal for GNOME 
 
-## Virtualization - containers
+## Virtualization
+### containers
 - [Docker](https://www.docker.com/)
 - [K3S](https://k3s.io/) - The certified Kubernetes distribution built for IoT & Edge computing
 - [LXC](https://linuxcontainers.org/lxc/)
@@ -51,13 +52,13 @@ implementation of the Domain Name System (DNS) protocol.
 - [MiniKube](https://github.com/kubernetes/minikube) - minikube implements a local Kubernetes cluster on macOS, Linux, and Windows. [minikube.sigs.k8s.io](https://minikube.sigs.k8s.io/docs/)
 - [MiniShift](https://github.com/minishift/minishift) - open source tool that helps you run a single-node OpenShift cluster locally inside a VM. [okd.io](https://www.okd.io)
 
-### Container orchestration 
+#### Container orchestration 
 - [Kubernetes](https://kubernetes.io/)
   - [Kubernetes CheatSheets](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
   - [MicroK8s](https://github.com/ubuntu/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge. [microk8s.io](https://microk8s.io/)
 - Docker swarm
 
-## Virtualization - Machines
+### Machines
 - Kimchi - HTML5 based management tool for KVM - https://github.com/kimchi-project/kimchi
 - KVM
             - KVM Management Tools list - https://www.linux-kvm.org/page/Management_Tools
@@ -65,6 +66,10 @@ implementation of the Domain Name System (DNS) protocol.
 - multipass - Instant Ubuntu VMs (Windows, macOS and Linux) https://ubuntu.com/server/docs/virtualization-multipass
 - [XCP-ng](https://xcp-ng.org/)
 - [oVirt](https://www.ovirt.org/) - free open-source virtualization solution for your entire enterprise
+
+### Network
+- [GNs3-server](https://github.com/GNS3/gns3-server) - The GNS3 server manages emulators such as Dynamips, VirtualBox or Qemu/KVM. [www.gns3.com](https://www.gns3.com/)
+  - [GNs3-gui](https://github.com/GNS3/gns3-gui) - GNS3 Graphical Network Simulator.
 
 ## VPN - Virtual Private Network
 - [WireGuard](https://github.com/WireGuard) - WireGuard® is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. [Wireguard.com](https://www.wireguard.com/)
