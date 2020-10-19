@@ -14,6 +14,7 @@ Various resources, personal notes etc. I find interesting.
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. 
 - [Awesome List](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics 
 - [Awesome SSH](https://github.com/moul/awesome-ssh)
+- [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)
 
 ## Artificial Intelligence
 - [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers. 
