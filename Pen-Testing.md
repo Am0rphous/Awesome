@@ -21,3 +21,5 @@
 - [FalconFriday](https://github.com/FalconForceTeam/FalconFriday) - hunting queries to detect offensive techniques.
 - [RedELK](https://github.com/outflanknl/RedELK) - Red Team's SIEM - tool for Red Teams used for tracking and alarming about Blue Team activities as well as better usability in long term operations. 
 
+## Scripts
+- [killswitch-GUI PenTesting Scripts](https://github.com/killswitch-GUI/PenTesting-Scripts) - Collection
