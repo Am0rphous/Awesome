@@ -18,8 +18,9 @@
     - oletimes: to extract creation and modification timestamps of all streams and storages.
     - oledir: to display all the directory entries of an OLE file, including free and orphaned entries.
     - olemap: to display a map of all the sectors in an OLE file.
-  - PDF document analysis tools
+   PDF document analysis tools
    - [pdfid.py](https://github.com/DidierStevens/DidierStevensSuite/blob/master/pdfid.py) - Tool to test PDF files (Comes default in Remnux OS). Syntax: 'pdfid.py malware.pdf'
+   - [PdfParser](https://github.com/smalot/pdfparser) - PdfParser, a standalone PHP library, provides various tools to extract data from a PDF file. 
 
 ## Document Collection
 - [Detecting Malware With Memory Forensics with Hal Pomeranz (SANS Institute)](http://www.deer-run.com/~hal/Detect_Malware_w_Memory_Forensics.pdf)
