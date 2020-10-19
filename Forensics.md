@@ -1,9 +1,29 @@
 # Forensics
 
-## Documents
-- [Detecting Malware With Memory Forensics with Hal Pomeranz (SANS Institute)](http://www.deer-run.com/~hal/Detect_Malware_w_Memory_Forensics.pdf)
+## Analysis of Office Documents
+- [officeparser.py](https://github.com/unixfreak0037/officeparser) - Extract embedded files and macros from office documents. 
+- [Oletools](https://github.com/decalage2/oletools/) - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging. Tools:
+  - [oleid](https://github.com/decalage2/oletools/wiki/oleid) - Tools to analyze malicious documents. Note for later: http://www.decalage.info/python/oletools
+    - oleid: to analyze OLE files to detect specific characteristics usually found in malicious files.
+    - olevba: to extract and analyze VBA Macro source code from MS Office documents (OLE and OpenXML).
+    - MacroRaptor: to detect malicious VBA Macros
+    - msodde: to detect and extract DDE/DDEAUTO links from MS Office documents, RTF and CSV
+    - pyxswf: to detect, extract and analyze Flash objects (SWF) that may be embedded in files such as MS Office documents (e.g. Word, Excel) and RTF, which is especially useful for malware analysis.
+    - oleobj: to extract embedded objects from OLE files.
+    - rtfobj: to extract embedded objects from RTF files.
+
+  - Tools to analyze the structure of OLE files
+    - olebrowse: A simple GUI to browse OLE files (e.g. MS Word, Excel, Powerpoint documents), to view and extract individual data streams.
+    - olemeta: to extract all standard properties (metadata) from OLE files.
+    - oletimes: to extract creation and modification timestamps of all streams and storages.
+    - oledir: to display all the directory entries of an OLE file, including free and orphaned entries.
+    - olemap: to display a map of all the sectors in an OLE file.
   - PDF document analysis tools
    - [pdfid.py](https://github.com/DidierStevens/DidierStevensSuite/blob/master/pdfid.py) - Tool to test PDF files (Default Remnux OS)
+
+## Document Collection regarding forensics
+- [Detecting Malware With Memory Forensics with Hal Pomeranz (SANS Institute)](http://www.deer-run.com/~hal/Detect_Malware_w_Memory_Forensics.pdf)
+
    
 ## Memory Forensics
 - [FireEye Redline](https://www.fireeye.com/services/freeware/redline.html) -  free endpoint security tool, provides host investigative capabilities to users to find signs of malicious activity through memory and file analysis and the development of a threat assessment profile.
@@ -13,6 +33,7 @@
 - [Volatility](https://github.com/volatilityfoundation/volatility) - An advanced memory forensics framework [www.volatilityfoundation.org](https://www.volatilityfoundation.org/). [Githbu wiki](https://github.com/volatilityfoundation/volatility/wiki).
 - [volatility3](https://github.com/volatilityfoundation/volatility3)
   - [plugins](https://github.com/volatilityfoundation/community).
+
 
 ## Portable Executable (PE) Analysis
 Description: The Portable Executable format is a file format for executables, object code, DLLs and others used in 32-bit and 64-bit versions of Windows operating systems.
