@@ -19,5 +19,5 @@
 - [Itch.io](https://itch.io/) - Collection of some of the most unique, interesting, and independent creations you'll find on the web.
 - [Game Jolt](https://gamejolt.com/) - Hosting free and commercial indie games.
 
-
-- []() - .
+##
+- [OpenRazer](https://openrazer.github.io/) - open source driver and user-space daemon that allows you to manage your Razer peripherals on GNU/Linux.
