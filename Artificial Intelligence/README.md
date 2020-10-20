@@ -13,3 +13,7 @@
 - [Snake](https://github.com/chuyangliu/snake) - Artificial intelligence for the Snake game. 
 - [SUSI.AI server backend](https://github.com/fossasia/susi_server) - the Artificial Intelligence server for personal assistants.
 
+## AI Assistant
+- [Mycroft](https://github.com/mycroftai/mycroft-core) - Mycroft is a hackable open source voice assistant.
+
+Note: https://favouriteblog.com/50-best-github-artificial-intelligence/
