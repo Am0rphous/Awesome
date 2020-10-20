@@ -55,6 +55,7 @@ Various resources, personal notes etc. I find interesting.
 
 ### Sound Production
 - [Ardour](https://ardour.org/) - Record, Edit, and Mix on Linux, macOS and Windows
+- [Audacity](https://sourceforge.net/projects/audacity/)
 
 ### Music Apps
 - [Soundnode App](https://github.com/Soundnode/soundnode-app) - Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API. 
