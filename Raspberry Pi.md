@@ -18,6 +18,7 @@
 - [Windows IoT Core](https://www.microsoft.com/en-us/software-download/windows10iotcore)
 
 - [Kali Linux](https://www.kali.org/docs/arm/raspberry-pi-full-encryption/)
+SUSE Linux Enterprise Server for ARM
 - [OpenMediaVault](https://www.openmediavault.org/)
 - [Chromium OS](https://github.com/FydeOS/chromium_os-raspberry_pi)
 - [Alpine Linux](https://wiki.alpinelinux.org/wiki/Raspberry_Pi)
