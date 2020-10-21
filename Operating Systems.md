@@ -11,6 +11,7 @@
 
 ## Server
 - [CentOS](https://www.centos.org/) - Community Enterprise Operating System for servers, workstations and desktop. Based on Red Hat Enterprise Linux.
+- SUSE Linux Enterprise Server
 - [Ubunt Server](https://ubuntu.com/) - Cloud, servers, IoT, desktop
 
 
