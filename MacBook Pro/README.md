@@ -2,7 +2,7 @@
 
 ## Tools
 ### Package Managers
-- [brew](https://github.com/Homebrew/brew) - [brew.sh](https://brew.sh/)
+- [brew](https://github.com/Homebrew/brew) - package manager that makes it super easy to install different kinds of software and tools onto your Mac. [brew.sh](https://brew.sh/)
 
 ## Macbook with Linux
 - [Linuxbrew Core](https://github.com/Homebrew/linuxbrew-core) - [Linuxbrew documentation](https://docs.brew.sh/Homebrew-on-Linux)
