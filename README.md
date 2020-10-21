@@ -1,7 +1,7 @@
 # Awesome Resources (Under development)
 
 Various resources, personal notes etc. I find interesting.
-
+Note: https://github.com/D00MFist/security
 
 
 ## A List of 'Awesome' entitled projects
