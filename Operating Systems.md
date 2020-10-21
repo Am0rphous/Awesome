@@ -6,6 +6,7 @@
 ## Desktop
 - [Manjaro](https://manjaro.org/)
 - [Solus](https://getsol.us/home/)
+- SUSE Linux Enterprise Desktop
 - [Ubunt Desktop](https://ubuntu.com/) - Cloud, servers, IoT, desktop
 - [Qubes OS](https://www.qubes-os.org/downloads/) - Best Linux OS Designed for Maximum Security
 
