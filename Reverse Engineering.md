@@ -1,5 +1,6 @@
 
 ## Debugging
+- [Bus Pirate](https://github.com/BusPirate/Bus_Pirate) - open source hacker multi-tool that talks to electronic stuff.
 - [OpenOCD](http://openocd.org/) - open-source tool that allows debugging various ARM devices with GDB using a wide variety of JTAG programmers.
   - [JTAG Explained tutorial](https://blog.senr.io/blog/jtag-explained)
 
