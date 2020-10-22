@@ -1,5 +1,7 @@
 
-
+## Debugging
+- [OpenOCD](http://openocd.org/) - open-source tool that allows debugging various ARM devices with GDB using a wide variety of JTAG programmers.
+  - [JTAG Explained tutorial](https://blog.senr.io/blog/jtag-explained)
 
 ## Decompilers
 - [JadX](https://github.com/skylot/jadx) - Dex to Java decompiler. Command line and GUI tools for producing Java source code from Android Dex and Apk files
