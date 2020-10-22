@@ -7,6 +7,10 @@
 
 ## Blue Team
 
+## Information Gathering
+### Network
+- [NetblockTool](https://github.com/NetSPI/NetblockTool) -  Find netblocks owned by a company 
+
 ## Payload
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF 
 
