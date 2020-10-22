@@ -35,9 +35,9 @@ implementation of the Domain Name System (DNS) protocol.
 
 ## Log Analytics
  - ELK-stack
-   - [Elasticsearch](https://github.com/elastic/elasticsearch) - Open Source, Distributed, RESTful Search Engine 
+  - [Elasticsearch](https://github.com/elastic/elasticsearch) - Open Source, Distributed, RESTful Search Engine.
     - [detection-rules](https://github.com/elastic/detection-rules) -  Rules for Elastic Security's detection engine.
- - [LogStash](https://github.com/elastic/logstash) -  Logstash - transport and process your logs, events, or other data.
+   - [LogStash](https://github.com/elastic/logstash) -  Logstash - transport and process your logs, events, or other data.
     - [Kibana](https://github.com/elastic/kibana) -  browser-based analytics and search dashboard for Elasticsearch.
 ## Sandboxing tools:
 - [BubbleWrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool
