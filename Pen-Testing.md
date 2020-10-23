@@ -16,7 +16,8 @@ https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/
 ## Information Gathering
 ### Network
 - [Espionage](https://github.com/josh0xA/Espionage) - A Network Packet and Traffic Interceptor For Linux. Spoof ARP & Wiretap A Network. 
-- [NetblockTool](https://github.com/NetSPI/NetblockTool) -  Find netblocks owned by a company 
+- [NetblockTool](https://github.com/NetSPI/NetblockTool) -  Find netblocks owned by a company.
+- [ShodanHat](https://github.com/HatBashBR/ShodanHat) -  search for hosts info with shodan.
 
 ## Payload
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF 
