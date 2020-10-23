@@ -36,6 +36,7 @@ implementation of the Domain Name System (DNS) protocol.
   - [LogStash](https://github.com/elastic/logstash) -  Logstash - transport and process your logs, events, or other data.
   - [Kibana](https://github.com/elastic/kibana) -  browser-based analytics and search dashboard for Elasticsearch.
 - [Graylog](https://github.com/Graylog2/graylog2-server) - Free and open source log management.
+- [Moloch](https://github.com/aol/moloch) - Moloch is an open source, large scale, full packet capturing, indexing, and database system. 
 - [Sysmon](https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon) - provides detailed information about process creations, network connections, and changes to file creation time.
   - [ossec-sysmon](https://github.com/Hestat/ossec-sysmon) - A Ruleset to enhance detection capabilities of Ossec using Sysmon 
   - [sysmon-modular](https://github.com/olafhartong/sysmon-modular) - A repository of sysmon configuration modules 
