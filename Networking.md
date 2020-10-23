@@ -19,6 +19,12 @@
 - [DPI Using GPUs pdf](https://on-demand.gputechconf.com/gtc/2017/presentation/s7468-wenji-wu-network-traffic-analysis-using-gpus.pdf) - Deep Packet Inspection Using GPUs
 - [WireCAP](https://wirecap.fnal.gov/) - a Novel Packet Capture Engine for Commodity NICs in High-speed Networks
 
+### Network Simulation
+- [GNs3-server](https://github.com/GNS3/gns3-server) - The GNS3 server manages emulators such as Dynamips, VirtualBox or Qemu/KVM. [www.gns3.com](https://www.gns3.com/)
+  - [GNs3-gui](https://github.com/GNS3/gns3-gui) - GNS3 Graphical Network Simulator.
+- [The Shadow Simulator](https://github.com/shadow/shadow) - Shadow is a unique discrete-event network simulator that runs real applications like Tor, and distributed systems of thousands of nodes on a single machine. 
+
+
 ## Proxy
 - [Privoxy](https://www.privoxy.org/) - Privoxy is a non-caching web proxy with advanced filtering capabilities for enhancing privacy, modifying web page data and HTTP headers, controlling access, and removing ads and other obnoxious Internet junk.
 - [Project V](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions. [Official website](https://www.v2fly.org/)
