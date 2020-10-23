@@ -71,8 +71,9 @@ Note: https://github.com/D00MFist/security
 - [Albert Launcher](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher. [Homepage](https://albertlauncher.github.io/)
 - RedShift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. 
 
-## Project finder
-- [feathub](https://feathub.com/)
+## Looking for projects and courses?
+- [FeatHub](https://feathub.com/)
+- [udemy-downloader-gui](https://github.com/patrickribbsaeter/udemy-downloader-gui) - A desktop application for downloading Udemy Courses 
 
 ## Security Autiting Tools
 - [Lynis](https://github.com/CISOfy/Lynis)
