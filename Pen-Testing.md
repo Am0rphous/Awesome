@@ -13,6 +13,9 @@ https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/
 
 ## Blue Team
 
+## Brute Forcing
+- [SecList](https://github.com/danielmiessler/SecLists)
+
 ## Information Gathering
 ### Network
 - [Espionage](https://github.com/josh0xA/Espionage) - A Network Packet and Traffic Interceptor For Linux. Spoof ARP & Wiretap A Network. 
