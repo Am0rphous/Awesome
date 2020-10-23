@@ -30,6 +30,8 @@ https://gbhackers.com/hacking-tools-list/
 ## Red Team
 - [FalconFriday](https://github.com/FalconForceTeam/FalconFriday) - hunting queries to detect offensive techniques.
 - [RedELK](https://github.com/outflanknl/RedELK) - Red Team's SIEM - tool for Red Teams used for tracking and alarming about Blue Team activities as well as better usability in long term operations. 
+### Vulnerability Scanning
+- [vulscan - Vulnerability Scanning with Nmap](https://github.com/scipag/vulscan) - Advanced vulnerability scanning with Nmap NSE 
 
 ## Techniques and Tactics resources
 - [MITRE ATT&CK®](https://attack.mitre.org/) - Globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. Git: https://github.com/mitre-attack
