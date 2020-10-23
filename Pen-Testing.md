@@ -20,6 +20,7 @@ https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/
 
 ## Payload
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF 
+- [SharpShooter](https://github.com/mdsecactivebreach/SharpShooter) - Payload Generation Framework.
 
 ## Post-Exploitation Frameworks
 - [Byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers. [byob.dev](https://byob.dev/)
