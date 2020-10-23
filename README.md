@@ -17,6 +17,11 @@ Note: https://github.com/D00MFist/security
 - [mac-apps](https://github.com/jeffreyjackson/mac-apps)
 - [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)
 
+## Communication
+
+### IRC
+- Irssi, Quassel, HexChat, Pidgin, WeeChat, Konversation, XChat, Smuxi, Polari, KVIrc, ERC, : https://www.ubuntupit.com/top-20-best-irc-clients-for-linux-that-you-should-use-everyday/
+
 ## E-books
 - [Calibre](https://github.com/kovidgoyal/calibre) - calibre is an e-book manager. It can view, convert, edit and catalog e-books in all of the major e-book formats.
 - [Free Security eBooks](https://github.com/Hack-with-Github/Free-Security-eBooks) - A curated list of free Security and Pentesting related E-Books available on the Internet.
