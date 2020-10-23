@@ -73,7 +73,7 @@ Note: https://github.com/D00MFist/security
 
 ## Looking for projects and courses?
 - [FeatHub](https://feathub.com/)
-- [udemy-downloader-gui](https://github.com/patrickribbsaeter/udemy-downloader-gui) - A desktop application for downloading Udemy Courses 
+- [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) - A desktop application for downloading Udemy Courses 
 
 ## Security Autiting Tools
 - [Lynis](https://github.com/CISOfy/Lynis)
