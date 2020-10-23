@@ -1,4 +1,9 @@
+
 # Pen-Testing Tools
+
+Note for later:
+https://gbhackers.com/hacking-tools-list/
+
 
 ## Active Directory / Domain
 - [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec/wiki) - CrackMapExec (a.k.a CME) is a post-exploitation tool that helps automate assessing the security of large Active Directory networks.
