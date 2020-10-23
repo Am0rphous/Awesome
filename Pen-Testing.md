@@ -30,6 +30,7 @@ https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/
 - [SILENTTRINITY](https://github.com/byt3bl33d3r/SILENTTRINITY) - An asynchronous, collaborative post-exploitation agent powered by Python and .NET's DLR 
 
 ## Red Team
+- [CloneVault](https://github.com/mdsecactivebreach/CloneVault) -  allows a red team operator to export and import entries including attributes from Windows Credential Manager. 
 - [FalconFriday](https://github.com/FalconForceTeam/FalconFriday) - hunting queries to detect offensive techniques.
 - [RedELK](https://github.com/outflanknl/RedELK) - Red Team's SIEM - tool for Red Teams used for tracking and alarming about Blue Team activities as well as better usability in long term operations. 
 ### Vulnerability Scanning
