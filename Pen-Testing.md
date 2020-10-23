@@ -3,6 +3,7 @@
 
 Note for later:
 https://gbhackers.com/hacking-tools-list/
+https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/
 
 
 ## Active Directory / Domain
