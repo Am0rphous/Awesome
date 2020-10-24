@@ -28,6 +28,7 @@ Note: https://github.com/D00MFist/security
 
 ## Finance
 - [Firefly III:](https://github.com/firefly-iii/firefly-iii) - a personal finances manager 
+- [portfolio](https://github.com/buchen/portfolio) - A simple tool to calculate the overall performance of an investment portfolio. [portfolio-performance.info](https://www.portfolio-performance.info/en/)
 
 ## Games
 - [Games on Github](https://github.com/leereilly/games)
