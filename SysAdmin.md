@@ -27,7 +27,8 @@ implementation of the Domain Name System (DNS) protocol.
 - [Stubby](https://github.com/getdnsapi/stubby) - Stubby is the name given to a mode of using getdns which enables it to act as a local DNS Privacy stub resolver (using DNS-over-TLS). 
 
 ## LDAP
-- [JXplorer](https://github.com/pegacat/jxplorer/) - an open source LDAP browser
+- [JXplorer](https://github.com/pegacat/jxplorer/) - an open source LDAP browser.
+- [Openldap](https://github.com/openldap/openldap) - free, open-source implementation of the Lightweight Directory Access Protocol (LDAP) developed by the OpenLDAP Project.
 
 ## Log Analytics
 - ELK-stack
