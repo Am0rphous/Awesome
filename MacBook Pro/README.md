@@ -12,6 +12,5 @@
 ### Linux tools specificly for Macbook
 - [mbpfan](https://github.com/linux-on-mac/mbpfan) - A simple daemon to control fan speed on all MacBook/MacBook Pros (probably all Apple computers) for Linux Kernel 3 and newer 
 
-
-
-- []() - 
+## Monitor
+- [Fanny](https://github.com/DanielStormApps/Fanny) - Monitor your Mac's fan speed and CPU/GPU temperature from your Notification Center. [fannywidget.com](https://www.fannywidget.com/)
