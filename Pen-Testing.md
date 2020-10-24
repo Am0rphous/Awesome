@@ -24,6 +24,7 @@ https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/
 
 ## Payload
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF 
+- [pwndrop](https://github.com/kgretzky/pwndrop) - Self-deployable file hosting service for red teamers, allowing to easily upload and share payloads over HTTP and WebDAV. [breakdev.org/pwndrop](https://breakdev.org/pwndrop/)
 - [SharpShooter](https://github.com/mdsecactivebreach/SharpShooter) - Payload Generation Framework.
 
 ## Office
