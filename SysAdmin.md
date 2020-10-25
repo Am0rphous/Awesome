@@ -47,6 +47,9 @@ implementation of the Domain Name System (DNS) protocol.
   - [sysmon-modular](https://github.com/olafhartong/sysmon-modular) - A repository of sysmon configuration modules 
 - [Wazuh](https://wazuh.com/) - Wazuh is a free, open source and enterprise-ready security monitoring solution for threat detection, integrity monitoring, incident response and compliance. 
 
+## Mail
+- [Roundcube webmail](https://github.com/roundcube/roundcubemail) - [roundcube.net](https://roundcube.net/)
+
 ## Package Managers
 - [FlatPak](https://flatpak.org/)
 
