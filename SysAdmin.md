@@ -28,7 +28,8 @@ implementation of the Domain Name System (DNS) protocol.
 
 ## HIDS - Host-based Intrusion Detection Systems
 - [Ossec](https://github.com/ossec/ossec-hids) - OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response. [ossec.net](http://www.ossec.net/)
-- [Snort3](https://github.com/snort3/snort3) - next generation Snort IPS (Intrusion Prevention System).
+- [Snort3](https://github.com/snort3/snort3) - next generation Snort IPS (Intrusion Prevention System). [snort.org](https://snort.org/)
+- [suricata](https://github.com/OISF/suricata) - Suricata is a network IDS, IPS and NSM engine.
 - [TripWire](https://github.com/Tripwire/tripwire-open-source) - Security and data integrity tool for monitoring and alerting on file & directory changes. 
 - [Wazuh](https://github.com/wazuh/wazuh/) - free and open source platform used for threat prevention, detection, and response. It is capable of protecting workloads across on-premises, virtualized, containerized, and cloud-based environments.
 
