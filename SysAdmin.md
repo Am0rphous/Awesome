@@ -126,6 +126,7 @@ implementation of the Domain Name System (DNS) protocol.
 
 ## Remoting
 - [PowerShell](https://github.com/PowerShell/PowerShell) - cross-platform (Windows, Linux, and macOS) automation and configuration tool/framework.
+  - [GraphicalTools](https://github.com/PowerShell/GraphicalTools) - Modules that mix PowerShell and GUIs/CUIs! - built on Avalonia and gui.cs 
 - [RDP]()
 
 ## VPN - Virtual Private Network
