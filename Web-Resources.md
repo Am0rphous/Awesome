@@ -1,6 +1,7 @@
 
 ## Tutorials
 - https://hackingpassion.com/
+- https://www.hackingarticles.in/
 
  ## Forums
   - https://cracked.to/
