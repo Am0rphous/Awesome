@@ -102,6 +102,7 @@ implementation of the Domain Name System (DNS) protocol.
 - [Kubernetes](https://kubernetes.io/)
   - [Kubernetes CheatSheets](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
   - [MicroK8s](https://github.com/ubuntu/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge. [microk8s.io](https://microk8s.io/)
+  - [Sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets.
 - Docker swarm
 
 ### Machines
