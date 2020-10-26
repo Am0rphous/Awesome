@@ -46,7 +46,8 @@ https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/
 - [vulscan - Vulnerability Scanning with Nmap](https://github.com/scipag/vulscan) - Advanced vulnerability scanning with Nmap NSE 
   - [nmap_vulners](https://github.com/vulnersCom/nmap-vulners) -  NSE script based on Vulners.com API 
 
-##Resources
+## Resources
+- [D00MFist's CTF Notes](https://github.com/D00MFist/security) - collection of notes picked up doing numerous CTFs.
 
 ## Script Collections
 - [killswitch-GUI PenTesting Scripts](https://github.com/killswitch-GUI/PenTesting-Scripts) - Collection
