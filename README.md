@@ -68,6 +68,7 @@ Note: https://github.com/D00MFist/security
 
 ## Office
 - [FreeOffice](https://www.freeoffice.com)
+  - [dictionaries](https://www.freeoffice.com/en/download/dictionaries)
 
 ## Productivity
 - [GNOME Calendar](https://gitlab.gnome.org/GNOME/gnome-calendar) [gnome-calender github](https://github.com/GNOME/gnome-calendar)
