@@ -66,6 +66,9 @@ Note: https://github.com/D00MFist/security
 ### Music Apps
 - [Soundnode App](https://github.com/Soundnode/soundnode-app) - Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API. 
 
+## Office
+- [FreeOffice](https://www.freeoffice.com)
+
 ## Productivity
 - [GNOME Calendar](https://gitlab.gnome.org/GNOME/gnome-calendar) [gnome-calender github](https://github.com/GNOME/gnome-calendar)
 - [tui.calendar](https://github.com/nhn/tui.calendar) - JavaScript calendar that has everything you need. 
