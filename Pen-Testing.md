@@ -45,13 +45,16 @@ https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/
 ### Vulnerability Scanning
 - [vulscan - Vulnerability Scanning with Nmap](https://github.com/scipag/vulscan) - Advanced vulnerability scanning with Nmap NSE 
   - [nmap_vulners](https://github.com/vulnersCom/nmap-vulners) -  NSE script based on Vulners.com API 
-  
+
+##Resources
+
+## Script Collections
+- [killswitch-GUI PenTesting Scripts](https://github.com/killswitch-GUI/PenTesting-Scripts) - Collection
+
 ## Techniques and Tactics resources
 - [MITRE ATT&CK®](https://attack.mitre.org/) - Globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. Git: https://github.com/mitre-attack
 - [ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) - A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns. 
 
-### Wireless Hacking
-- [Wi-PWN](https://github.com/samdenty/Wi-PWN) - ESP8266 Deauther ​with a material design WebUI.
+## Wireless Hacking
+- [Wi-PWN](https://github.com/samdenty/Wi-PWN) - ESP8266 Deauther with a material design WebUI.
 
-## Scripts
-- [killswitch-GUI PenTesting Scripts](https://github.com/killswitch-GUI/PenTesting-Scripts) - Collection
