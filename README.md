@@ -22,8 +22,9 @@ Note: https://github.com/D00MFist/security
 - Irssi, Quassel, HexChat, Pidgin, WeeChat, Konversation, XChat, Smuxi, Polari, KVIrc, ERC, : https://www.ubuntupit.com/top-20-best-irc-clients-for-linux-that-you-should-use-everyday/
 
 ## Desktop customization tools
+- [Conky](https://github.com/brndnmtthws/conky)
 - [GKrellM](http://gkrellm.srcbox.net/) - single process stack of system monitors.
-- [Rainmeter]()
+- [Rainmeter](https://github.com/rainmeter/rainmeter) - (maybe run rainmeter in wine on linux?)
 
 ## E-books
 - [Calibre](https://github.com/kovidgoyal/calibre) - calibre is an e-book manager. It can view, convert, edit and catalog e-books in all of the major e-book formats.
