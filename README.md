@@ -64,6 +64,7 @@ Note: https://github.com/D00MFist/security
 - [Audacity](https://sourceforge.net/projects/audacity/)
 
 ### Music Apps
+- [Shortwave](https://gitlab.gnome.org/World/Shortwave) - Find and listen to internet radio stations.
 - [Soundnode App](https://github.com/Soundnode/soundnode-app) - Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API. 
 
 ## Office
