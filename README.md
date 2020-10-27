@@ -62,6 +62,7 @@ Note: https://github.com/D00MFist/security
 ### Sound Production
 - [Ardour](https://ardour.org/) - Record, Edit, and Mix on Linux, macOS and Windows
 - [Audacity](https://sourceforge.net/projects/audacity/)
+- [SoX - Sound eXchange](http://sox.sourceforge.net/Main/HomePage) - Swiss Army knife of sound processing programs. 
 
 ### Music Apps
 - [Great Little Radio Player](https://sites.google.com/view/greatlittleradioplayer/home)
