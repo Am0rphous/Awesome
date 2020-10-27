@@ -9,7 +9,7 @@ https://cybersecurity.att.com/solutions/pci-dss-file-integrity-monitoring
 Splunk Home: https://ethicalhackingguru.com/splunk-free-home/ restricted to 500 megabyte / day
 
 
-### Ad-block
+## Ad-block
 - [PiHole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements.
 - [AdGuard](https://github.com/AdguardTeam/AdguardHome) - Network-wide ads & trackers blocking DNS server.
 
@@ -27,6 +27,8 @@ Splunk Home: https://ethicalhackingguru.com/splunk-free-home/ restricted to 500 
 ## DHCP
 - [isc-dhcp-server](https://gitlab.isc.org/isc-projects/dhcp) - ISC DHCP is enterprise grade, open source solution for DHCP servers, relay agents, and clients, supports both IPv4 and IPv6, and is suitable for use in high-volume and high-reliability applications.
   - [Glass](https://github.com/Akkadius/glass-isc-dhcp) - Glass - ISC DHCP Server Interface 
+
+## Ebooks and PDFs
 
 ## File Share
 - [Warpinator](https://github.com/linuxmint/warpinator) -  Share files across the LAN 
