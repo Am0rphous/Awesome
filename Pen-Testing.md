@@ -41,6 +41,7 @@ https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/
 ## Red Team
 - [CloneVault](https://github.com/mdsecactivebreach/CloneVault) -  allows a red team operator to export and import entries including attributes from Windows Credential Manager. 
 - [FalconFriday](https://github.com/FalconForceTeam/FalconFriday) - hunting queries to detect offensive techniques.
+- [herpaderping](https://github.com/jxy-s/herpaderping) - Process Herpaderping proof of concept, tool, and technical deep dive. Process Herpaderping bypasses security products by obscuring the intentions of a process. 
 - [RedELK](https://github.com/outflanknl/RedELK) - Red Team's SIEM - tool for Red Teams used for tracking and alarming about Blue Team activities as well as better usability in long term operations. 
 ### Vulnerability Scanning
 - [vulscan - Vulnerability Scanning with Nmap](https://github.com/scipag/vulscan) - Advanced vulnerability scanning with Nmap NSE 
