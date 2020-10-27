@@ -29,7 +29,8 @@ Splunk Home: https://ethicalhackingguru.com/splunk-free-home/ restricted to 500 
   - [Glass](https://github.com/Akkadius/glass-isc-dhcp) - Glass - ISC DHCP Server Interface 
 
 ## Ebooks and PDFs
-- [Geek Guide - Linux in the Time of Malware](https://www.linuxjournal.com/sites/default/files/2018-11/GeekGuide-Bit9-3.pdf)
+- [GeekGuide - Linux in the Time of Malware](https://www.linuxjournal.com/sites/default/files/2018-11/GeekGuide-Bit9-3.pdf)
+- [GeekGuide - SysAdmin 101](https://www.linuxjournal.com/sites/default/files/2018-12/SysAdmin101-Ebook.pdf)
 
 ## File Share
 - [Warpinator](https://github.com/linuxmint/warpinator) -  Share files across the LAN 
