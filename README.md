@@ -21,6 +21,8 @@ Note: https://github.com/D00MFist/security
 ### IRC
 - [Birch](https://github.com/dylanaraps/birch) -  An IRC client written in bash.
 - [Kirc](https://github.com/mcpcpc/kirc) -  A tiny IRC client written in POSIX C99.
+- [Pidgin]() - [/www.pidgin.im](https://www.pidgin.im/)
+- [Polari](https://github.com/GNOME/polari) - source IRC client for the GNOME desktop environment. [wiki.gnome.org/Apps/Polari](https://wiki.gnome.org/Apps/Polari)
 - [Rirc](https://github.com/rcr/rirc) -  A terminal IRC client in C. [rcr.io/rirc](http://rcr.io/rirc/)
 - Irssi, Quassel, HexChat, Pidgin, WeeChat, Konversation, XChat, Smuxi, Polari, KVIrc, ERC, : https://www.ubuntupit.com/top-20-best-irc-clients-for-linux-that-you-should-use-everyday/
 
