@@ -2,7 +2,7 @@
 
 ## Communication
 - [ThunderBird](https://www.thunderbird.net)
-  #### IRC
+  ### IRC clients
 
 ## Tools
 ### Package Managers
