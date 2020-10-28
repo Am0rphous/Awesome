@@ -2,7 +2,8 @@
 
 ## Communication
 - [ThunderBird](https://www.thunderbird.net)
-  ### IRC clients
+  #### IRC clients
+  - [LimeChat](http://github.com/psychs/limechat) - IRC Client for Mac. [limechat.net/mac](http://limechat.net/mac/)
 
 ## Tools
 ### Package Managers
