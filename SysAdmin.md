@@ -21,7 +21,10 @@ Splunk Home: https://ethicalhackingguru.com/splunk-free-home/ restricted to 500 
 - [KasperSky's Free Ransomware Decryptors](https://noransom.kaspersky.com/)
 
 ## Chat / Communication
+- [Convos](https://convos.chat/)
+- [Kiwi IRC](https://kiwiirc.com/)
 - [TheLounge](https://thelounge.chat/) - self-hosted web IRC client.
+- [Quassel-irc](https://quassel-irc.org/)
 
 ## Confguration Management
 - [Puppet](https://github.com/puppetlabs/puppet/) - Server automation framework and application. [Puppet.com](https://puppet.com/)
