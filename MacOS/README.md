@@ -1,5 +1,8 @@
 # Macbook Pro Resouces
 
+## Communication
+- [ThunderBird](https://www.thunderbird.net)
+
 ## Tools
 ### Package Managers
 - [brew](https://github.com/Homebrew/brew) - package manager that makes it super easy to install different kinds of software and tools onto your Mac. [brew.sh](https://brew.sh/)
