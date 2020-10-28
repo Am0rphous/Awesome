@@ -20,6 +20,9 @@ Splunk Home: https://ethicalhackingguru.com/splunk-free-home/ restricted to 500 
 ### Ransomware Decryptors
 - [KasperSky's Free Ransomware Decryptors](https://noransom.kaspersky.com/)
 
+## Chat / Communication
+- [TheLounge](https://thelounge.chat/) - self-hosted web IRC client.
+
 ## Confguration Management
 - [Puppet](https://github.com/puppetlabs/puppet/) - Server automation framework and application. [Puppet.com](https://puppet.com/)
 - [Ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Ansible Tower offers free for handling up to 10 nodes.
