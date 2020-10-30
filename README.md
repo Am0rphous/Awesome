@@ -5,17 +5,13 @@ Note: https://github.com/D00MFist/security
 
 
 ## A List of 'Awesome' entitled projects
-- [Awesome Open Source](https://awesomeopensource.com) - Find Open Source By Searching, Browsing and Combining 7,000 Topics Across 59 Categories And 337,263 Projects
-- [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk/)
-- [Awesome Search](https://awesomelists.top/)
-- [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome)
 - [Awesome CLI](https://github.com/umutphp/awesome-cli)
-- [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
-- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. 
+- [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk/)
 - [Awesome List](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics 
+- [Awesome Open Source](https://awesomeopensource.com) - Find Open Source By Searching, Browsing and Combining 7,000 Topics Across 59 Categories And 337,263 Projects
+- [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome)
+- [Awesome Search](https://awesomelists.top/)
 - [Awesome SSH](https://github.com/moul/awesome-ssh)
-- [mac-apps](https://github.com/jeffreyjackson/mac-apps)
-- [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)
 - [Awesome-UNIX](https://github.com/sirredbeard/Awesome-UNIX) - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
 - [Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL) - Awesome list dedicated to Windows Subsystem for Linux.
 
@@ -39,6 +35,7 @@ Note: https://github.com/D00MFist/security
 ## E-books
 - [Calibre](https://github.com/kovidgoyal/calibre) - calibre is an e-book manager. It can view, convert, edit and catalog e-books in all of the major e-book formats.
 - [Free Security eBooks](https://github.com/Hack-with-Github/Free-Security-eBooks) - A curated list of free Security and Pentesting related E-Books available on the Internet.
+- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. 
 
 ## Finance
 - [Firefly III:](https://github.com/firefly-iii/firefly-iii) - a personal finances manager 
