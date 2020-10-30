@@ -2,6 +2,9 @@
 
 ## Collection of various resources
 - [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
+- [Mac-apps](https://github.com/jeffreyjackson/mac-apps)
+- [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
+- [Open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)
 
 ## Communication
 - [ThunderBird](https://www.thunderbird.net)
