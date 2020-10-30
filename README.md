@@ -16,6 +16,7 @@ Note: https://github.com/D00MFist/security
 - [Awesome SSH](https://github.com/moul/awesome-ssh)
 - [mac-apps](https://github.com/jeffreyjackson/mac-apps)
 - [open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)
+- [Awesome-UNIX](https://github.com/sirredbeard/Awesome-UNIX) - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
 - [Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL) - Awesome list dedicated to Windows Subsystem for Linux.
 
 ## Communication
