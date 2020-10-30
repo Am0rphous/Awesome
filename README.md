@@ -6,6 +6,7 @@ Note: https://github.com/D00MFist/security
 
 ## A List of 'Awesome' entitled projects
 - [Awesome CLI](https://github.com/umutphp/awesome-cli)
+- [Awesome-humane-tech](https://github.com/humanetech-community/awesome-humane-tech)
 - [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk/)
 - [Awesome List](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics 
 - [Awesome-machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
