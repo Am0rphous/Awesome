@@ -6,6 +6,7 @@
 - [Tor](https://www.torproject.org/) - Tor is free and open-source software for enabling anonymous communication. The name derived from the acronym for the original software project name "The Onion Router". Tor directs Internet traffic through a free, worldwide, volunteer overlay network consisting of more than seven thousand relays to conceal a user's location and usage from anyone conducting network surveillance or traffic analysis.
   - [brdgrd (Bridge Guard)](https://github.com/NullHypothesis/brdgrd) - Protects Tor bridges from being scanned (and as a result blocked) by GFW probes. [How the Great Firewall of China is Blocking Tor](https://www.cs.kau.se/philwint/gfw/)
 - [Tor Proxy](https://onion.pet/) - Onion.pet - Tor2Web Darknet Proxy
+- [Tor2web](https://github.com/tor2web/Tor2web) - Tor2web is an HTTP proxy software that enables access to Tor Hidden Services by mean of common web browsers. [tor2web.org](https://www.tor2web.org/)
 
 ## Bot Net
 - [Byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers. [byob.dev](https://byob.dev/)
