@@ -1,5 +1,8 @@
 # Macbook Pro Resouces
 
+## Collection of various resources
+- [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
+
 ## Communication
 - [ThunderBird](https://www.thunderbird.net)
   #### IRC clients
