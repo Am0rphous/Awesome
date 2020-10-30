@@ -8,12 +8,13 @@ Note: https://github.com/D00MFist/security
 - [Awesome CLI](https://github.com/umutphp/awesome-cli)
 - [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk/)
 - [Awesome List](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics 
+- [Awesome-machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
 - [Awesome Open Source](https://awesomeopensource.com) - Find Open Source By Searching, Browsing and Combining 7,000 Topics Across 59 Categories And 337,263 Projects
-- [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome)
 - [Awesome Search](https://awesomelists.top/)
 - [Awesome SSH](https://github.com/moul/awesome-ssh)
 - [Awesome-UNIX](https://github.com/sirredbeard/Awesome-UNIX) - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
 - [Awesome-WSL](https://github.com/sirredbeard/Awesome-WSL) - Awesome list dedicated to Windows Subsystem for Linux.
+- [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome)
 
 ## Communication
 ### IRC
