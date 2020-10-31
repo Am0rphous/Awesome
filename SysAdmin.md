@@ -13,6 +13,9 @@ Splunk Home: https://ethicalhackingguru.com/splunk-free-home/ restricted to 500 
 - [PiHole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements.
 - [AdGuard](https://github.com/AdguardTeam/AdguardHome) - Network-wide ads & trackers blocking DNS server.
 
+## Anti-Virus / malware and rootkit detection
+- [phishdetect-node](https://github.com/phishdetect/phishdetect-node) - server component of PhishDetect.
+
 ## Backup
 - [Bacula](https://ubuntu.com/server/docs/backups-bacula) - Bacula is a backup program enabling you to backup, restore, and verify data across your network. There are Bacula clients for Linux, Windows, and Mac OS X.
 - [Veeam Backup & Replication Community Editio](https://www.veeam.com/virtual-machine-backup-solution-free.html) - FREE backup software for VMware and Hyper-V, as well as physical servers, workstations, laptops and cloud instances.
