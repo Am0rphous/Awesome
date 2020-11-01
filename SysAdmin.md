@@ -15,6 +15,7 @@ Splunk Home: https://ethicalhackingguru.com/splunk-free-home/ restricted to 500 
 
 ## Anti-Virus / malware and rootkit detection
 - [Chkrootkit](http://www.chkrootkit.org/) - locally checks for signs of a rootkits.
+- [ClamAV](https://www.clamav.net/) - ClamAV® is an open source antivirus engine for detecting trojans, viruses, malware & other malicious threats.
 - [Phishdetect-node](https://github.com/phishdetect/phishdetect-node) - server component of PhishDetect.
 
 ## Backup
