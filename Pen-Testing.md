@@ -20,6 +20,7 @@ https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/
 ### Network
 - [Espionage](https://github.com/josh0xA/Espionage) - A Network Packet and Traffic Interceptor For Linux. Spoof ARP & Wiretap A Network. 
 - [Impacket](https://github.com/SecureAuthCorp/impacket)- [secureauth.com/labs/impacket](https://www.secureauth.com/labs/impacket/)
+- [NAT Slipstreaming](https://github.com/samyk/slipstream) - NAT Slipstreaming allows an attacker to remotely access any TCP/UDP services bound to a victim machine, bypassing the victim’s NAT/firewall, just by the victim visiting a website.
 - [NetblockTool](https://github.com/NetSPI/NetblockTool) -  Find netblocks owned by a company.
 - [ShodanHat](https://github.com/HatBashBR/ShodanHat) -  search for hosts info with shodan.
 
