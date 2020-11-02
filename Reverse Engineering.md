@@ -12,6 +12,9 @@
 - [JadX](https://github.com/skylot/jadx) - Dex to Java decompiler. Command line and GUI tools for producing Java source code from Android Dex and Apk files
 - [JustDecompile Engine](https://github.com/telerik/JustDecompileEngine) - .NET decompiler.
 
+## Disassemblers
+ IDA Pro, Binary Ninja and radare2
+
 ## Dynamic analysis
 
 ## Memory scanners
