@@ -1,3 +1,7 @@
+# Reverse Engineering
+"Reverse engineering, also called backwards engineering or back engineering, is the process by which an artificial object is deconstructed to reveal its designs, architecture, code or to extract knowledge from the object."
+
+## Blackbox testing
 
 ## Debugging
 - [Bus Pirate](https://github.com/BusPirate/Bus_Pirate) - open source hacker multi-tool that talks to electronic stuff.
@@ -7,6 +11,12 @@
 ## Decompilers
 - [JadX](https://github.com/skylot/jadx) - Dex to Java decompiler. Command line and GUI tools for producing Java source code from Android Dex and Apk files
 - [JustDecompile Engine](https://github.com/telerik/JustDecompileEngine) - .NET decompiler.
+
+## Dynamic analysis
+
+## Memory scanners
+- [Cheat-engine](https://github.com/cheat-engine/cheat-engine) - A development environment focused on modding. [cheatengine.org](https://cheatengine.org/)
+- [CrySearch Memory Scanner](https://www.crysearch.nl/) -  analysis, debugging and memory modification.
 
 ## Mobile Forensics
 - [Santuko Linux](https://santoku-linux.com) - Mobile forensics, mobile malware and mobile security.
