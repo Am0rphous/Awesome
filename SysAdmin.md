@@ -92,6 +92,7 @@ implementation of the Domain Name System (DNS) protocol.
 
 ## Package Managers
 - [FlatPak](https://flatpak.org/)
+- [SnapD](https://snapcraft.io/)
 
 ## Sandboxing tools:
 - [BubbleWrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool
