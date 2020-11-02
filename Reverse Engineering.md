@@ -3,6 +3,7 @@
 
 ## Blackbox testing
 - [AndroidRipper](https://github.com/reverse-unina/AndroidRipper) - A toolset for the automatic GUI testing of mobile Android Applications. 
+- [Appium](https://github.com/appium/appium) - open-source, cross-platform test automation tool for native, hybrid, and mobile web and desktop apps.
 
 ## Debugging
 - [Bus Pirate](https://github.com/BusPirate/Bus_Pirate) - open source hacker multi-tool that talks to electronic stuff.
