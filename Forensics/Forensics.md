@@ -38,6 +38,9 @@
 - [volatility3](https://github.com/volatilityfoundation/volatility3)
   - [plugins](https://github.com/volatilityfoundation/community).
 
+## Network forensic tools
+- [flare-fakenet-ng](https://github.com/fireeye/flare-fakenet-ng) - Next Generation Dynamic Network Analysis Tool.
+
 ## Operating Systems specialized for forensics
 - [DEFT Linux](http://na.mirror.garr.it/mirrors/deft/) - DEFT Linux A Linux Distribution For Computer Forensics
 - [REMnux](https://remnux.org/) - REMnux® is a Linux toolkit for reverse-engineering and analyzing malicious software. REMnux provides a curated collection of free tools created by the community. Analysts can use it to investigate malware without having to find, install, and configure the tools. Lots of tools in /opt/ folder.
