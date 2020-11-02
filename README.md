@@ -21,7 +21,7 @@ Note: https://github.com/AryToNeX/Glasscord
 ## Communication
 ### IRC
 - [Kirc](https://github.com/mcpcpc/kirc) -  A tiny IRC client written in POSIX C99.
-- [Pidgin]() - [/www.pidgin.im](https://www.pidgin.im/)
+- [Pidgin](https://www.pidgin.im) - instant messaging program which lets you log in to accounts on multiple chat networks simultaneously. It runs on Windows, Linux, and other UNIX operating systems.
 - [Polari](https://github.com/GNOME/polari) - source IRC client for the GNOME desktop environment. [wiki.gnome.org/Apps/Polari](https://wiki.gnome.org/Apps/Polari)
 - [Rirc](https://github.com/rcr/rirc) -  A terminal IRC client in C. [rcr.io/rirc](http://rcr.io/rirc/)
 - Quassel, HexChat, WeeChat, Konversation, XChat, Smuxi, Polari, KVIrc, ERC, : https://www.ubuntupit.com/top-20-best-irc-clients-for-linux-that-you-should-use-everyday/
@@ -45,7 +45,7 @@ Note: https://github.com/AryToNeX/Glasscord
 - [portfolio](https://github.com/buchen/portfolio) - A simple tool to calculate the overall performance of an investment portfolio. [portfolio-performance.info](https://www.portfolio-performance.info/en/)
 
 ## Games
-- [Games on Github](https://github.com/leereilly/games)
+- [Games on Github](https://github.com/leereilly/games) - A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine. 
 
 ## InfoSec
 - MITRE ATT&CK - https://attack.mitre.org/
