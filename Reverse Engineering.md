@@ -2,6 +2,7 @@
 "Reverse engineering, also called backwards engineering or back engineering, is the process by which an artificial object is deconstructed to reveal its designs, architecture, code or to extract knowledge from the object."
 
 ## Blackbox testing
+- [AndroidRipper](https://github.com/reverse-unina/AndroidRipper)
 
 ## Debugging
 - [Bus Pirate](https://github.com/BusPirate/Bus_Pirate) - open source hacker multi-tool that talks to electronic stuff.
