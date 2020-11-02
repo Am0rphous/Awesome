@@ -9,10 +9,12 @@
   - [JTAG Explained tutorial](https://blog.senr.io/blog/jtag-explained)
 
 ## Decompilers
+"A decompiler takes one from a binary to source code–or something similarly high-level that can easily be read by humans."
 - [JadX](https://github.com/skylot/jadx) - Dex to Java decompiler. Command line and GUI tools for producing Java source code from Android Dex and Apk files
 - [JustDecompile Engine](https://github.com/telerik/JustDecompileEngine) - .NET decompiler.
 
 ## Disassemblers
+"takes one from binary to assembler–which is much lower level and is more difficult to read for humans."
  IDA Pro, Binary Ninja and radare2
 
 ## Dynamic analysis
