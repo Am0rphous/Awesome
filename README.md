@@ -28,10 +28,10 @@ Note: https://github.com/AryToNeX/Glasscord
 
 #### Terminal Clients
   - [Birch](https://github.com/dylanaraps/birch) -  An IRC client written in bash.
-  - [Irssi](https://irssi.org/)
+  - [Irssi](https://irssi.org/) - vpowerful text-mode IRC client.
   
 ## Desktop customization tools
-- [Conky](https://github.com/brndnmtthws/conky)
+- [Conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
 - [GKrellM](http://gkrellm.srcbox.net/) - single process stack of system monitors.
 - [Rainmeter](https://github.com/rainmeter/rainmeter) - (maybe run rainmeter in wine on linux?)
 
