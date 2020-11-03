@@ -51,6 +51,9 @@ Note: https://github.com/AryToNeX/Glasscord
 - MITRE ATT&CK - https://attack.mitre.org/
         - https://mitre-attack.github.io/attack-navigator/enterprise/
 
+## Learning resources
+- [Command Line Text Processing](https://github.com/learnbyexample/Command-line-text-processing#ebook) - From finding text to search and replace, from sorting to beautifying text and more.
+
 ## Media
 
   ### Image editing
