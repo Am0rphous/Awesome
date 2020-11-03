@@ -50,6 +50,7 @@ https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/
 
 ## Resources
 - [D00MFist's CTF Notes](https://github.com/D00MFist/security) - collection of notes picked up doing numerous CTFs.
+- [pentest-bookmarks](https://github.com/jhaddix/pentest-bookmarks/blob/master/wiki/BookmarksList.wiki) - collection of handy bookmarks.
 
 ## Script Collections
 - [killswitch-GUI PenTesting Scripts](https://github.com/killswitch-GUI/PenTesting-Scripts) - Collection
