@@ -18,6 +18,7 @@ Splunk Home: https://ethicalhackingguru.com/splunk-free-home/ restricted to 500 
 - [ClamAV](https://www.clamav.net/) - ClamAV® is an open source antivirus engine for detecting trojans, viruses, malware & other malicious threats.
   - [ClamAV Documentation](https://github.com/Cisco-Talos/clamav-faq)
 - [Phishdetect-node](https://github.com/phishdetect/phishdetect-node) - server component of PhishDetect.
+- [PHP Malware Finder](https://github.com/jvoisin/php-malware-finder) - does its very best to detect obfuscated/dodgy code as well as files using PHP functions often used in malwares/webshells.
 - [Rootkit Hunter](http://rkhunter.sourceforge.net/) - Rootkit Hunter (commonly abbreviated as RKH) is a security monitoring and analyzing tool for POSIX compliant systems, to help you detect known rootkits, malware and signal general bad security practices.
 - [Shell-Detector](https://github.com/emposha/Shell-Detector) - helps you find and identify php/cgi(perl)/asp/aspx shells.
 - [Web Shell Detector](https://github.com/emposha/PHP-Shell-Detector) - php script that helps you find and identify php/cgi(perl)/asp/aspx shells. Web Shell Detector has a “web shells” signature database that helps to identify “web shell” up to 99%. [shelldetector.com](https://shelldetector.com/)
