@@ -21,6 +21,9 @@
 
 ## Dynamic analysis
 
+## File Conversion
+- [dex2jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files.
+
 ## Memory scanners
 - [Cheat-engine](https://github.com/cheat-engine/cheat-engine) - A development environment focused on modding. [cheatengine.org](https://cheatengine.org/)
 - [CrySearch Memory Scanner](https://www.crysearch.nl/) -  analysis, debugging and memory modification.
@@ -28,6 +31,6 @@
 ## Mobile Forensics
 - [Santuko Linux](https://santoku-linux.com) - Mobile forensics, mobile malware and mobile security.
 
-## Windows Presentation Foundation
+
 Free and open-source graphical subsystem originally developed by Microsoft for rendering user interfaces.
 - [Snoopwpf - open source WPF spying utility](https://github.com/snoopwpf/snoopwpf) - allows you to spy/browse the visual tree of a running application (without the need for a debugger) and change properties, view triggers, set breakpoints on property changes and many more things.
