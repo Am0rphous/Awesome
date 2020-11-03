@@ -48,6 +48,7 @@ Note: https://github.com/AryToNeX/Glasscord
 - [Games on Github](https://github.com/leereilly/games) - A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine. 
 
 ## IDE - Integrated Development Environment
+PyCharm, Spyder, Sublime, Jupyter, Atom, Python IDLE, VSCode, Wing, Thonny PyDev
 
 ## InfoSec
 - MITRE ATT&CK - https://attack.mitre.org/
