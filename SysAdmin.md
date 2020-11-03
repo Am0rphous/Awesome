@@ -21,6 +21,7 @@ Splunk Home: https://ethicalhackingguru.com/splunk-free-home/ restricted to 500 
 - [PHP Malware Finder](https://github.com/jvoisin/php-malware-finder) - does its very best to detect obfuscated/dodgy code as well as files using PHP functions often used in malwares/webshells.
 - [Rootkit Hunter](http://rkhunter.sourceforge.net/) - Rootkit Hunter (commonly abbreviated as RKH) is a security monitoring and analyzing tool for POSIX compliant systems, to help you detect known rootkits, malware and signal general bad security practices.
 - [Shell-Detector](https://github.com/emposha/Shell-Detector) - helps you find and identify php/cgi(perl)/asp/aspx shells.
+- [vt-cli](https://github.com/VirusTotal/vt-cli) -  VirusTotal Command Line Interface. [virustotal.github.io/vt-cli/](https://virustotal.github.io/vt-cli/)
 - [Web Shell Detector](https://github.com/emposha/PHP-Shell-Detector) - php script that helps you find and identify php/cgi(perl)/asp/aspx shells. Web Shell Detector has a “web shells” signature database that helps to identify “web shell” up to 99%. [shelldetector.com](https://shelldetector.com/)
 - [Yara](https://github.com/virustotal/yara) - The pattern matching swiss knife. [virustotal.github.io/yara](https://virustotal.github.io/yara/)
 
