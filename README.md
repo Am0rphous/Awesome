@@ -47,6 +47,8 @@ Note: https://github.com/AryToNeX/Glasscord
 ## Games
 - [Games on Github](https://github.com/leereilly/games) - A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine. 
 
+## IDE - Integrated Development Environment
+
 ## InfoSec
 - MITRE ATT&CK - https://attack.mitre.org/
         - https://mitre-attack.github.io/attack-navigator/enterprise/
