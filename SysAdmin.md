@@ -95,6 +95,7 @@ implementation of the Domain Name System (DNS) protocol.
   - [NetworkMiner](https://www.netresec.com/?page=Networkminer) - open source Network Forensic Analysis Tool (NFAT) for Windows (but also works in Linux / Mac OS X / FreeBSD). 
 
 ## Package Managers
+- [Gem (RubyGems)](https://rubygems.org/) - package management framework for Ruby.
 - [FlatPak](https://flatpak.org/)
 - [SnapD](https://snapcraft.io/)
 
