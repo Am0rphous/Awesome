@@ -19,14 +19,14 @@ Note: https://github.com/AryToNeX/Glasscord
 - [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome)
 
 ## Communication
-### IRC
+ ### IRC
 - [Kirc](https://github.com/mcpcpc/kirc) -  A tiny IRC client written in POSIX C99.
 - [Pidgin](https://www.pidgin.im) - instant messaging program which lets you log in to accounts on multiple chat networks simultaneously. It runs on Windows, Linux, and other UNIX operating systems.
 - [Polari](https://github.com/GNOME/polari) - source IRC client for the GNOME desktop environment. [wiki.gnome.org/Apps/Polari](https://wiki.gnome.org/Apps/Polari)
 - [Rirc](https://github.com/rcr/rirc) -  A terminal IRC client in C. [rcr.io/rirc](http://rcr.io/rirc/)
 - Quassel, HexChat, WeeChat, Konversation, XChat, Smuxi, Polari, KVIrc, ERC, : https://www.ubuntupit.com/top-20-best-irc-clients-for-linux-that-you-should-use-everyday/
 
-#### Terminal Clients
+ #### Terminal Clients
   - [Birch](https://github.com/dylanaraps/birch) -  An IRC client written in bash.
   - [Irssi](https://irssi.org/) - vpowerful text-mode IRC client.
   
@@ -53,16 +53,16 @@ Note: https://github.com/AryToNeX/Glasscord
 
 ## Media
 
-### Image editing
+ ### Image editing
 - [DarkTable](https://github.com/darktable-org/darktable) - open source photography workflow application and raw developer. A virtual lighttable and darkroom for photographers. [darktable.org](https://www.darktable.org/)
 - [InkScape](https://inkscape.org) - A powerful, free design tool
 - [Krita](https://github.com/KDE/krita) - Krita is a professional free and open source painting program.
 - [Pinta](https://www.pinta-project.com) - Pinta is a free, open source program for drawing and image editing.
 
-### Video
+ ### Video
 - [Kazam](https://github.com/hzbd/kazam) - Kazam is a simple screen recording program that will capture the content of your screen.
 
-### Media Servers
+ ### Media Servers
 - [forked-daapd](https://github.com/ejurgensen/forked-daapd) - Linux/FreeBSD DAAP (iTunes) and MPD media server with support for AirPlay devices (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio. 
 - [Jellyfin](https://github.com/jellyfin/jellyfin) - Free Software Media System that puts you in control of managing and streaming your media. [jellyfin.org](https://jellyfin.org/)
 - [Kodi](https://github.com/xbmc/xbmc) - award-winning free and open source home theater/media center software and entertainment hub for digital media. [kodi.tv](https://kodi.tv/)
@@ -73,12 +73,12 @@ Note: https://github.com/AryToNeX/Glasscord
   - [Telly](https://github.com/tellytv/telly) - IPTV proxy for Plex Live written in Golang.
 - [Snapcast](https://github.com/badaix/snapcast) - Snapcast is a multiroom client-server audio player, where all clients are time synchronized with the server to play perfectly synced audio. [Homepage Snapcast](https://mjaggard.github.io/snapcast/)
 
-### Sound Production
+ ### Sound Production
 - [Ardour](https://ardour.org/) - Record, Edit, and Mix on Linux, macOS and Windows
 - [Audacity](https://sourceforge.net/projects/audacity/)
 - [SoX - Sound eXchange](http://sox.sourceforge.net/Main/HomePage) - Swiss Army knife of sound processing programs. 
 
-### Music Apps
+ ### Music Apps
 - [Great Little Radio Player](https://sites.google.com/view/greatlittleradioplayer/home)
 - [Guayadeque](https://github.com/anonbeat/Guayadeque) - music management program designed for all music enthusiasts. [guayadeque.org](http://www.guayadeque.org/)
 - [Radio Tray](http://radiotray.sourceforge.net/) - online radio streaming player that runs on a Linux system tray.
