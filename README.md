@@ -53,8 +53,9 @@ Note: https://github.com/AryToNeX/Glasscord
 
 ## Learning resources
 - [Command Line Text Processing](https://github.com/learnbyexample/Command-line-text-processing#ebook) - From finding text to search and replace, from sorting to beautifying text and more. [Gitbook](https://learnbyexample.gitbooks.io/command-line-text-processing/content/)
-- [Linux Command Line](https://github.com/learnbyexample/Linux_command_line) - Introduction to Linux commands and Shell scripting.
-- [Scripting Course](https://github.com/learnbyexample/scripting_course) - A reference guide to Linux command line, Vim and Scripting.
+- [Learn_gnused](https://github.com/learnbyexample/learn_gnused) - Example based guide to mastering GNU sed.
+- [Linux_command_line](https://github.com/learnbyexample/Linux_command_line) - Introduction to Linux commands and Shell scripting.
+- [Scripting_course](https://github.com/learnbyexample/scripting_course) - A reference guide to Linux command line, Vim and Scripting.
 
 ## Media
 
