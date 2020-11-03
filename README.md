@@ -52,7 +52,8 @@ Note: https://github.com/AryToNeX/Glasscord
         - https://mitre-attack.github.io/attack-navigator/enterprise/
 
 ## Learning resources
-- [Command Line Text Processing](https://github.com/learnbyexample/Command-line-text-processing#ebook) - From finding text to search and replace, from sorting to beautifying text and more.
+- [Command Line Text Processing](https://github.com/learnbyexample/Command-line-text-processing#ebook) - From finding text to search and replace, from sorting to beautifying text and more. [Gitbook](https://learnbyexample.gitbooks.io/command-line-text-processing/content/)
+- [Scripting Course](https://github.com/learnbyexample/scripting_course) - A reference guide to Linux command line, Vim and Scripting.
 
 ## Media
 
