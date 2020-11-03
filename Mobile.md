@@ -8,6 +8,7 @@
     Bliss OS
     Anbox
 - [Android-x86]()
+- [NoxPlayer](https://www.bignox.com/) - Free Android emulator for Windows and MacOS.
 
 ### iOS
 - [Cydia Impactor](https://cydiaimpactor.biz/download/) https://cydiaimpactor.online/cydia-impactor-alternative/ - application that can sideload any IPA file through a Windows, Mac or Linux PC to any kind of iDevice. 
