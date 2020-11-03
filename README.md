@@ -56,6 +56,7 @@ PyCharm, Spyder, Sublime, Jupyter, Atom, Python IDLE, VSCode, Wing, Thonny PyDev
 
 ## Learning resources
 - [Command Line Text Processing](https://github.com/learnbyexample/Command-line-text-processing#ebook) - From finding text to search and replace, from sorting to beautifying text and more. [Gitbook](https://learnbyexample.gitbooks.io/command-line-text-processing/content/)
+- [kali-linux-cheatsheet](https://github.com/NoorQureshi/kali-linux-cheatsheet) - Kali Linux Cheat Sheet for Penetration Testers.
 - [Learn_gnuawk](https://github.com/learnbyexample/learn_gnuawk) - Example based guide to mastering GNU awk.
 - [Learn_gnused](https://github.com/learnbyexample/learn_gnused) - Example based guide to mastering GNU sed.
 - [Linux_command_line](https://github.com/learnbyexample/Linux_command_line) - Introduction to Linux commands and Shell scripting.
