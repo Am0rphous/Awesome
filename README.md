@@ -34,6 +34,7 @@ Note: https://github.com/AryToNeX/Glasscord
 ## Desktop customization tools
 - [Conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
 - [GKrellM](http://gkrellm.srcbox.net/) - single process stack of system monitors.
+- [Plank](https://github.com/ricotz/plank) - Simple dock.
 - [Rainmeter](https://github.com/rainmeter/rainmeter) - (maybe run rainmeter in wine on linux?)
 
 ## E-books
