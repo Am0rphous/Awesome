@@ -12,6 +12,8 @@
   - [LimeChat](http://github.com/psychs/limechat) - IRC Client for Mac. [limechat.net/mac](http://limechat.net/mac/)
 
 ## Tools
+- [MacForge](https://github.com/MacEnhance/MacForge) - Plugin, App, and Theme store which includes plugin injection for macOS.
+
 ### Package Managers
 - [brew](https://github.com/Homebrew/brew) - package manager that makes it super easy to install different kinds of software and tools onto your Mac. [brew.sh](https://brew.sh/)
 
