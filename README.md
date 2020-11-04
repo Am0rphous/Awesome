@@ -7,10 +7,11 @@ Note: https://github.com/AryToNeX/Glasscord
 
 ## A List of 'Awesome' entitled projects
 - [Awesome CLI](https://github.com/umutphp/awesome-cli)
-- [Awesome-humane-tech](https://github.com/humanetech-community/awesome-humane-tech)
+- [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better.
+- [Awesome Humane Tech](https://github.com/humanetech-community/awesome-humane-tech)
 - [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk/)
 - [Awesome List](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics 
-- [Awesome-machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
+- [Awesome Machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
 - [Awesome Open Source](https://awesomeopensource.com) - Find Open Source By Searching, Browsing and Combining 7,000 Topics Across 59 Categories And 337,263 Projects
 - [Awesome Search](https://awesomelists.top/)
 - [Awesome SSH](https://github.com/moul/awesome-ssh)
