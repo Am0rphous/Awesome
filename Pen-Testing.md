@@ -55,6 +55,7 @@ https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/
 
 ## Script Collections
 - [killswitch-GUI PenTesting Scripts](https://github.com/killswitch-GUI/PenTesting-Scripts) - Collection
+- [PowerShell-Suite](https://github.com/FuzzySecurity/PowerShell-Suite) - tools and resources.
 
 ## Techniques and Tactics resources
 - [MITRE ATT&CK®](https://attack.mitre.org/) - Globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. Git: https://github.com/mitre-attack
