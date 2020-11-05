@@ -108,7 +108,8 @@ implementation of the Domain Name System (DNS) protocol.
 - [BubbleWrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool
 - [FireJail](https://github.com/netblue30/firejail) - SUID sandbox program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces, seccomp-bpf and Linux capabilities. [FireJail Homepage](https://firejail.wordpress.com/)
 - [Windows_Sandbox_Editor](https://github.com/damienvanrobaeys/Windows_Sandbox_Editor) - Generate and manage your windows sandbox.
-
+  - [Run-in-Sandbox](https://github.com/damienvanrobaeys/Run-in-Sandbox) - Run PS1, VBS, EXE, MSI in Windows Sandbox very quickly just from a right-click.
+  
 ## Terminal / Shell
 - [Awesome Shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [Hyper](https://github.com/vercel/hyper) -  A terminal built on web technologies. [www.hyper.is](https://hyper.is/)
