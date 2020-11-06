@@ -17,6 +17,7 @@
   - [Article: Geneva tool lets you bypass censorship by merely doing nothing](https://www.hackread.com/geneva-tool-bypass-censorship-by-doing-nothing/)
 - [ICMPTunnel](https://github.com/DhavalKapil/icmptunnel) - Transparently tunnel your IP traffic through ICMP echo and reply packets. [dhavalkapil.com/icmptunnel/](https://dhavalkapil.com/icmptunnel/)
 - [Udp2raw-tunnel](https://github.com/wangyu-/udp2raw-tunnel) - A Tunnel which turns UDP Traffic into Encrypted FakeTCP/UDP/ICMP Traffic by using Raw Socket, helps you Bypass UDP FireWalls(or Unstable UDP Environment).
+- [VPN Pivot](https://github.com/0x36/VPNPivot) - Explore the network using VPNPivot tool.
 
 ## Deep Packet Inspection
 - [deep-packet-inspection](https://devopedia.org/deep-packet-inspection)
