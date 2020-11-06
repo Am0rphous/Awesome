@@ -28,6 +28,10 @@
 ## File Conversion
 - [dex2jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files.
 
+## Frameworks
+- [Ghidra Software Reverse Engineering Framework](https://github.com/NationalSecurityAgency/ghidra) - reverse engineering (SRE) framework created and maintained by the National Security Agency.
+- [ghidra_kernelcache](https://github.com/0x36/ghidra_kernelcache) - a Ghidra iOS kernelcache framework for reverse engineering.
+
 ## Memory scanners
 - [Cheat-engine](https://github.com/cheat-engine/cheat-engine) - A development environment focused on modding. [cheatengine.org](https://cheatengine.org/)
 - [CrySearch Memory Scanner](https://www.crysearch.nl/) -  analysis, debugging and memory modification.
