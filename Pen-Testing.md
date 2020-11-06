@@ -32,6 +32,9 @@ https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/
 ## Office
 - [o365-attack-toolkit](https://github.com/mdsecactivebreach/o365-attack-toolkit) - o365-attack-toolkit allows operators to perform an OAuth phishing attack and later on use the Microsoft Graph API to extract interesting information.
 
+## Passwords
+- [CeWL](https://github.com/digininja/CeWL/) - spiders a URL to a specified depth and searches for words that can be used for password attacks. 
+
 ## Post-Exploitation Frameworks
 - [Armitage](https://github.com/rsmudge/armitage) - graphical cyber attack management tool for Metasploit that visualizes your targets, recommends exploits, and exposes the advanced capabilities of the framework. [Homepage](http://www.fastandeasyhacking.com)
 - [Byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers. [byob.dev](https://byob.dev/)
