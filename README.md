@@ -67,12 +67,12 @@ PyCharm, Spyder, Sublime, Jupyter, Atom, Python IDLE, VSCode, Wing, Thonny PyDev
 ## Media
 
   ### Image editing
-- [DarkTable](https://github.com/darktable-org/darktable) - open source photography workflow application and raw developer. A virtual lighttable and darkroom for photographers. [darktable.org](https://www.darktable.org/)
-- [Drawio Online](https://app.diagrams.net/) - diagrams.net is open source, online, desktop and container deployable diagramming software. [Github drawio](https://github.com/jgraph/drawio)
-- [Drawio Desktop](https://github.com/jgraph/drawio-desktop) - drawio-desktop is a diagrams.net desktop app based on Electron.
-- [InkScape](https://inkscape.org) - A powerful, free design tool.
-- [Krita](https://github.com/KDE/krita) - Krita is a professional free and open source painting program.
-- [Pinta](https://www.pinta-project.com) - Pinta is a free, open source program for drawing and image editing.
+  - [DarkTable](https://github.com/darktable-org/darktable) - open source photography workflow application and raw developer. A virtual lighttable and darkroom for photographers. [darktable.org](https://www.darktable.org/)
+  - [Drawio Online](https://app.diagrams.net/) - diagrams.net is open source, online, desktop and container deployable diagramming software. [Github drawio](https://github.com/jgraph/drawio)
+  - [Drawio Desktop](https://github.com/jgraph/drawio-desktop) - drawio-desktop is a diagrams.net desktop app based on Electron.
+  - [InkScape](https://inkscape.org) - A powerful, free design tool.
+  - [Krita](https://github.com/KDE/krita) - Krita is a professional free and open source painting program.
+  - [Pinta](https://www.pinta-project.com) - Pinta is a free, open source program for drawing and image editing.
 
   ### Video
     - [Kazam](https://github.com/hzbd/kazam) - Kazam is a simple screen recording program that will capture the content of your screen.
@@ -81,12 +81,12 @@ PyCharm, Spyder, Sublime, Jupyter, Atom, Python IDLE, VSCode, Wing, Thonny PyDev
     - [forked-daapd](https://github.com/ejurgensen/forked-daapd) - Linux/FreeBSD DAAP (iTunes) and MPD media server with support for AirPlay devices (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio. 
     - [Jellyfin](https://github.com/jellyfin/jellyfin) - Free Software Media System that puts you in control of managing and streaming your media. [jellyfin.org](https://jellyfin.org/)
     - [Kodi](https://github.com/xbmc/xbmc) - award-winning free and open source home theater/media center software and entertainment hub for digital media. [kodi.tv](https://kodi.tv/)
-- [Lidarr](https://github.com/lidarr/Lidarr) - Lidarr is a music collection manager for Usenet and BitTorrent users. [lidarr.audio](https://lidarr.audio/)
-- [Mopidy](https://github.com/mopidy/mopidy) - plays music from local disk, Spotify, SoundCloud, Google Play Music, and more. [Mopidy.com](https://mopidy.com/)
-- [Plex](https://www.plex.tv/) -  closed source media server + desktop application. [plex.tv](https://www.plex.tv/)
-  - [Omni](https://github.com/tidusjar/Ombi) - Want a Movie or TV Show on Plex or Emby? Use Ombi. [omni.io](https://ombi.io/)
-  - [Telly](https://github.com/tellytv/telly) - IPTV proxy for Plex Live written in Golang.
-- [Snapcast](https://github.com/badaix/snapcast) - Snapcast is a multiroom client-server audio player, where all clients are time synchronized with the server to play perfectly synced audio. [Homepage Snapcast](https://mjaggard.github.io/snapcast/)
+    - [Lidarr](https://github.com/lidarr/Lidarr) - Lidarr is a music collection manager for Usenet and BitTorrent users. [lidarr.audio](https://lidarr.audio/)
+    - [Mopidy](https://github.com/mopidy/mopidy) - plays music from local disk, Spotify, SoundCloud, Google Play Music, and more. [Mopidy.com](https://mopidy.com/)
+    - [Plex](https://www.plex.tv/) -  closed source media server + desktop application. [plex.tv](https://www.plex.tv/)
+      - [Omni](https://github.com/tidusjar/Ombi) - Want a Movie or TV Show on Plex or Emby? Use Ombi. [omni.io](https://ombi.io/)
+      - [Telly](https://github.com/tellytv/telly) - IPTV proxy for Plex Live written in Golang.
+    - [Snapcast](https://github.com/badaix/snapcast) - Snapcast is a multiroom client-server audio player, where all clients are time synchronized with the server to play perfectly synced audio. [Homepage Snapcast](https://mjaggard.github.io/snapcast/)
 
   ### Sound Production
 - [Ardour](https://ardour.org/) - Record, Edit, and Mix on Linux, macOS and Windows
