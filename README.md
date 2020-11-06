@@ -66,10 +66,11 @@ PyCharm, Spyder, Sublime, Jupyter, Atom, Python IDLE, VSCode, Wing, Thonny PyDev
 
 ## Media
 
-  ### Image editing
+  ### Image
   - [DarkTable](https://github.com/darktable-org/darktable) - open source photography workflow application and raw developer. A virtual lighttable and darkroom for photographers. [darktable.org](https://www.darktable.org/)
   - [Drawio Online](https://app.diagrams.net/) - diagrams.net is open source, online, desktop and container deployable diagramming software. [Github drawio](https://github.com/jgraph/drawio)
   - [Drawio Desktop](https://github.com/jgraph/drawio-desktop) - drawio-desktop is a diagrams.net desktop app based on Electron.
+  - [Gephi - The Open Graph Viz Platform](https://github.com/gephi/gephi) - award-winning open-source platform for visualizing and manipulating large graphs. For Linux, Mac and Windows.
   - [InkScape](https://inkscape.org) - A powerful, free design tool.
   - [Krita](https://github.com/KDE/krita) - Krita is a professional free and open source painting program.
   - [Pinta](https://www.pinta-project.com) - Pinta is a free, open source program for drawing and image editing.
