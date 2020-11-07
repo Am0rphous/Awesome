@@ -30,7 +30,7 @@
 - [Smali2Java](https://github.com/alexeysoshin/smali2java) - Recreate Java code from Smali.
 
 ## Frameworks
-- [Ghidra Software Reverse Engineering Framework](https://github.com/NationalSecurityAgency/ghidra) - reverse engineering (SRE) framework created and maintained by the National Security Agency.
+- [Ghidra](https://github.com/NationalSecurityAgency/ghidra) - reverse engineering (SRE) framework created and maintained by the National Security Agency.
 - [ghidra_kernelcache](https://github.com/0x36/ghidra_kernelcache) - a Ghidra iOS kernelcache framework for reverse engineering.
 
 ## Memory scanners
