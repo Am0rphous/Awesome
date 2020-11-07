@@ -26,7 +26,8 @@
 ## Dynamic analysis
 
 ## File Conversion
-- [dex2jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files.
+- [Dex2Jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files.
+- [Smali2Java](https://github.com/alexeysoshin/smali2java) - Recreate Java code from Smali.
 
 ## Frameworks
 - [Ghidra Software Reverse Engineering Framework](https://github.com/NationalSecurityAgency/ghidra) - reverse engineering (SRE) framework created and maintained by the National Security Agency.
