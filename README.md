@@ -1,8 +1,12 @@
 # Awesome Resources (Under development)
 
 Various resources, personal notes etc. I find interesting.
+
 Note: https://github.com/D00MFist/security
+
 Note: https://github.com/AryToNeX/Glasscord
+
+Note: https://www.findbestopensource.com/projects
 
 
 ## A List of 'Awesome' entitled projects
