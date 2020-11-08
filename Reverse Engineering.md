@@ -22,6 +22,7 @@
 "takes one from binary to assembler–which is much lower level and is more difficult to read for humans."
  IDA Pro, Binary Ninja and radare2
 - [Smali](https://github.com/JesusFreke/smali) - assembler/disassembler for the dex format used by dalvik, Android's Java VM implementation.
+- [Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler, assembler, and disassembler.
 
 ## Dynamic analysis
 
