@@ -16,11 +16,44 @@ https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/
 ## Brute Forcing
 - [SecList](https://github.com/danielmiessler/SecLists)
 
+## Exploitation Tools
+- [Armitage](https://github.com/rsmudge/armitage) - graphical cyber attack management tool for Metasploit that visualizes your targets, recommends exploits, and exposes the advanced capabilities of the framework. [Homepage](http://www.fastandeasyhacking.com)
+- [Byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers. [byob.dev](https://byob.dev/)
+- [fwexpl (old)](https://github.com/Cr4sh/fwexpl) - PC firmware exploitation tool and library.
+- [iBombShell](https://github.com/ElevenPaths/ibombshell) - Tool to deploy a post-exploitation prompt at any time
+- [Koadic](https://github.com/zerosum0x0/koadic) - Koadic C3 COM Command & Control - JScript RAT 
+- [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - A PowerShell Post-Exploitation Framework 
+- [SILENTTRINITY](https://github.com/byt3bl33d3r/SILENTTRINITY) - An asynchronous, collaborative post-exploitation agent powered by Python and .NET's DLR 
+
+
 ## Information Gathering
 - [Nikto](https://github.com/sullo/nikto) - Web server scanner. [Documentation](https://cirt.net/nikto2-docs/)
 
-### DNS Enumeration
+### DNS Analysis
 - [BlackWidow](https://github.com/1N3/BlackWidow) - A Python based web application scanner to gather OSINT and fuzz for OWASP vulnerabilities on a target website. 
+- [DnsEnum]()
+DNSMap, DNSRecon, DNSTracer, DNSWalk, Fierce, URLCrazy
+
+### IDS/OPS Identification
+- [FragRouter]()
+FTest, Lbd, Wafw00f
+### Network & Power Scanners
+### OSINT Analysis
+### Route Analysis
+### SMB Analysis
+- [Enum4Linux]()
+- [NTBScan]()
+- [SmbMap]()
+### SMTP Analysis
+- [SMTP-User-Enum]()
+- [Swaks]()
+### SNMP Analysis
+### SSL Analysis
+- [SSLDump]() - .
+- [SSLh]() - .
+- [SSLScan]() - .
+- [SSLyze]() - .
+- [TLSSled]() - .
 
  ### Network
 - [Espionage](https://github.com/josh0xA/Espionage) - A Network Packet and Traffic Interceptor For Linux. Spoof ARP & Wiretap A Network. 
@@ -40,14 +73,6 @@ https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/
 ## Passwords
 - [CeWL](https://github.com/digininja/CeWL/) - spiders a URL to a specified depth and searches for words that can be used for password attacks. 
 
-## Post-Exploitation Frameworks
-- [Armitage](https://github.com/rsmudge/armitage) - graphical cyber attack management tool for Metasploit that visualizes your targets, recommends exploits, and exposes the advanced capabilities of the framework. [Homepage](http://www.fastandeasyhacking.com)
-- [Byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers. [byob.dev](https://byob.dev/)
-- [fwexpl (old)](https://github.com/Cr4sh/fwexpl) - PC firmware exploitation tool and library.
-- [iBombShell](https://github.com/ElevenPaths/ibombshell) - Tool to deploy a post-exploitation prompt at any time
-- [Koadic](https://github.com/zerosum0x0/koadic) - Koadic C3 COM Command & Control - JScript RAT 
-- [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - A PowerShell Post-Exploitation Framework 
-- [SILENTTRINITY](https://github.com/byt3bl33d3r/SILENTTRINITY) - An asynchronous, collaborative post-exploitation agent powered by Python and .NET's DLR 
 
 ## Red Team
 - [CloneVault](https://github.com/mdsecactivebreach/CloneVault) -  allows a red team operator to export and import entries including attributes from Windows Credential Manager. 
