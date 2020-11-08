@@ -2,8 +2,14 @@
 # Pen-Testing Tools
 
 Note for later:
+
 https://gbhackers.com/hacking-tools-list/
+
 https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/
+
+BurpSuite and 
+- [IntruderPayloads](https://github.com/1N3/IntruderPayloads) - A collection of Burpsuite Intruder payloads, BurpBounty payloads, fuzz lists, malicious file uploads and web pentesting methodologies and checklists.
+
 
 
 ## Active Directory / Domain
@@ -49,6 +55,7 @@ FTest, Lbd, Wafw00f
 - [Swaks]()
 ### SNMP Analysis
 ### SSL Analysis
+- [MassBleed](https://github.com/1N3/MassBleed) - MassBleed SSL Vulnerability Scanner.
 - [SSLDump]() - .
 - [SSLh]() - .
 - [SSLScan]() - .
