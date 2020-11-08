@@ -40,21 +40,21 @@ BurpSuite and
 - [DnsEnum]()
 DNSMap, DNSRecon, DNSTracer, DNSWalk, Fierce, URLCrazy
 
-### IDS/OPS Identification
+ ### IDS/IPS Identification
 - [FragRouter]()
 FTest, Lbd, Wafw00f
-### Network & Power Scanners
-### OSINT Analysis
-### Route Analysis
-### SMB Analysis
+ ### Network & Power Scanners
+ ### OSINT Analysis
+ ### Route Analysis
+ ### SMB Analysis
 - [Enum4Linux]()
 - [NTBScan]()
 - [SmbMap]()
-### SMTP Analysis
+ ### SMTP Analysis
 - [SMTP-User-Enum]()
 - [Swaks]()
-### SNMP Analysis
-### SSL Analysis
+ ### SNMP Analysis
+ ### SSL Analysis
 - [MassBleed](https://github.com/1N3/MassBleed) - MassBleed SSL Vulnerability Scanner.
 - [SSLDump]() - .
 - [SSLh]() - .
@@ -103,6 +103,13 @@ FTest, Lbd, Wafw00f
 - [MITRE ATT&CK®](https://attack.mitre.org/) - Globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. Git: https://github.com/mitre-attack
 - [ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) - A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns. 
 
-## Wireless Hacking
+## Web Application Analysis
+ ### CMS & Framwork Identification
+ ### Web Application Proxies
+ ### Web Crawlers & Directory Brutefroce
+ ### Web Vulnerability Scanners
+ - [LinkFinder]()
+
+## Wireless Attacks
 - [Wi-PWN](https://github.com/samdenty/Wi-PWN) - ESP8266 Deauther with a material design WebUI.
 
