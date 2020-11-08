@@ -117,6 +117,7 @@ implementation of the Domain Name System (DNS) protocol.
 - [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)  A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. [ohmyz.sh](https://ohmyz.sh/)
 - [Guake](https://github.com/Guake/guake) -  Drop-down terminal for GNOME.
 - [Terminator](https://github.com/gnome-terminator/terminator) - Useful tool for arranging terminals.
+- [Tilix](https://github.com/gnunn1/tilix/) - A tiling terminal emulator for Linux using GTK+ 3.
 - [Windows Terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place.
   - [cascadia-code](https://github.com/microsoft/cascadia-code) - un, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal. 
   ### Bash
