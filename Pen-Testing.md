@@ -19,7 +19,10 @@ https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/
 ## Information Gathering
 - [Nikto](https://github.com/sullo/nikto) - Web server scanner. [Documentation](https://cirt.net/nikto2-docs/)
 
-### Network
+### DNS Enumeration
+- [BlackWidow](https://github.com/1N3/BlackWidow) - A Python based web application scanner to gather OSINT and fuzz for OWASP vulnerabilities on a target website. 
+
+ ### Network
 - [Espionage](https://github.com/josh0xA/Espionage) - A Network Packet and Traffic Interceptor For Linux. Spoof ARP & Wiretap A Network. 
 - [Impacket](https://github.com/SecureAuthCorp/impacket)- [secureauth.com/labs/impacket](https://www.secureauth.com/labs/impacket/)
 - [NAT Slipstreaming](https://github.com/samyk/slipstream) - NAT Slipstreaming allows an attacker to remotely access any TCP/UDP services bound to a victim machine, bypassing the victim’s NAT/firewall, just by the victim visiting a website.
