@@ -25,6 +25,9 @@
 - https://cyware.com/hacker-news
 - https://www.hackread.com/
 
+## Linux
+- https://linuxhint.com/
+
 ## IT News
 - https://www.securityweek.com
 - https://www.govinfosecurity.com/
