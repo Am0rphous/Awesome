@@ -103,6 +103,9 @@ FTest, Lbd, Wafw00f
 - [MITRE ATT&CK®](https://attack.mitre.org/) - Globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. Git: https://github.com/mitre-attack
 - [ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) - A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns. 
 
+## Vulnerability Analysis
+- [Sn1per](https://github.com/1N3/Sn1per) - Automated pentest framework for offensive security experts.
+
 ## Web Application Analysis
  ### CMS & Framwork Identification
  ### Web Application Proxies
