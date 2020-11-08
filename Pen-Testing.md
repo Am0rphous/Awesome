@@ -104,7 +104,12 @@ FTest, Lbd, Wafw00f
 - [ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) - A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns. 
 
 ## Vulnerability Analysis
+- [Legion]()
+- [Lynis]()
+- [Nikto]()
+- [Nmap]()
 - [Sn1per](https://github.com/1N3/Sn1per) - Automated pentest framework for offensive security experts.
+- [Unix-Privesc-Check](http://pentestmonkey.net/tools/audit/unix-privesc-check)
 
 ## Web Application Analysis
  ### CMS & Framwork Identification
