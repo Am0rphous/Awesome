@@ -17,6 +17,8 @@ https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/
 - [SecList](https://github.com/danielmiessler/SecLists)
 
 ## Information Gathering
+- [Nikto](https://github.com/sullo/nikto) - Web server scanner. [Documentation](https://cirt.net/nikto2-docs/)
+
 ### Network
 - [Espionage](https://github.com/josh0xA/Espionage) - A Network Packet and Traffic Interceptor For Linux. Spoof ARP & Wiretap A Network. 
 - [Impacket](https://github.com/SecureAuthCorp/impacket)- [secureauth.com/labs/impacket](https://www.secureauth.com/labs/impacket/)
