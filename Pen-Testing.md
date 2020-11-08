@@ -108,7 +108,7 @@ FTest, Lbd, Wafw00f
  ### Web Application Proxies
  ### Web Crawlers & Directory Brutefroce
  ### Web Vulnerability Scanners
- - [LinkFinder]()
+ - [LinkFinder](https://github.com/GerbenJavado/LinkFinder) - A python script that finds endpoints in JavaScript files.
 
 ## Wireless Attacks
 - [Wi-PWN](https://github.com/samdenty/Wi-PWN) - ESP8266 Deauther with a material design WebUI.
