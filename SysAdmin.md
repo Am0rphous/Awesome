@@ -189,9 +189,10 @@ implementation of the Domain Name System (DNS) protocol.
 - [Tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. [Tailscale.com](https://www.tailscale.com/)
 - [OpenVPN](https://github.com/OpenVPN)
 
-## Web
+## Web / Proxy
 - [Apache](https://httpd.apache.org/) - Open-source web server for modern operating systems including UNIX and Windows. 
 - [Apache Kafka](https://kafka.apache.org/) - open-source distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications.
+- [NginX](https://nginx.org/en/) - an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server.
 - [Sanstorm](https://sandstorm.io/) - Sandstorm is an open source platform for self-hosting web apps
 
 
