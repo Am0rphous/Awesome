@@ -106,6 +106,7 @@ PyCharm, Spyder, Sublime, Jupyter, Atom, Python IDLE, VSCode, Wing, Thonny PyDev
   ### Music Apps
 - [Great Little Radio Player](https://sites.google.com/view/greatlittleradioplayer/home)
 - [Guayadeque](https://github.com/anonbeat/Guayadeque) - music management program designed for all music enthusiasts. [guayadeque.org](http://www.guayadeque.org/)
+- [midomi.com](https://www.midomi.com/) - Online SoundHound alternative.
 - [Radio Tray](http://radiotray.sourceforge.net/) - online radio streaming player that runs on a Linux system tray.
 - [Shortwave](https://gitlab.gnome.org/World/Shortwave) - Find and listen to internet radio stations.
 - [Soundnode App](https://github.com/Soundnode/soundnode-app) - Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API. 
