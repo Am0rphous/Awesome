@@ -36,6 +36,7 @@ BurpSuite and
 - [Nikto](https://github.com/sullo/nikto) - Web server scanner. [Documentation](https://cirt.net/nikto2-docs/)
 
 ### DNS Analysis
+- [AssetFinder](https://github.com/tomnomnom/assetfinder) - Find domains and subdomains related to a given domain.
 - [BlackWidow](https://github.com/1N3/BlackWidow) - A Python based web application scanner to gather OSINT and fuzz for OWASP vulnerabilities on a target website. 
 - [DnsEnum]()
 DNSMap, DNSRecon, DNSTracer, DNSWalk, Fierce, URLCrazy
