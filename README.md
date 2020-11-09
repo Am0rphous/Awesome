@@ -60,6 +60,7 @@ Note: https://www.findbestopensource.com/projects
 PyCharm, Spyder, Sublime, Jupyter, Atom, Python IDLE, VSCode, Wing, Thonny PyDev
 
 ## InfoSec
+- [academy.attackiq.com](https://academy.attackiq.com)
 - MITRE ATT&CK - https://attack.mitre.org/
         - https://mitre-attack.github.io/attack-navigator/enterprise/
 
