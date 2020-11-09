@@ -41,8 +41,8 @@ Note: https://www.findbestopensource.com/projects
 - [GKrellM](http://gkrellm.srcbox.net/) - single process stack of system monitors.
 - [Plank](https://github.com/ricotz/plank) - Simple dock.
 - [Rainmeter](https://github.com/rainmeter/rainmeter) - (maybe run rainmeter in wine on linux?)
-  ### Inspiration
-  - [www.gnome-look.org](https://www.gnome-look.org)
+ #### Inspiration
+ - [www.gnome-look.org](https://www.gnome-look.org)
 
 ## E-books
 - [Calibre](https://github.com/kovidgoyal/calibre) - calibre is an e-book manager. It can view, convert, edit and catalog e-books in all of the major e-book formats.
