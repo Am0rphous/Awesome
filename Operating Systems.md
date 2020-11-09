@@ -2,7 +2,11 @@
 ## Operating systems
 - [ClearOS Community Edition](https://www.clearos.com/clearfoundation/software/clearos-downloads) - OS for your Server, Network, and Gateway Systemsbased on CentOS and Red Hat Enterprise Linux. [www.clearos.com](https://www.clearos.com)
 
+## IoT, embedded devices, tablets
 - [Ubuntu Touch](https://ubuntu-touch.io/get-ubuntu-touch)
+
+## Router and Firewall
+- [Zeroshell Linux Router](https://zeroshell.org/) - Routing and Bridging Firewall Solutions.
 
 ## Desktop
 - [Manjaro](https://manjaro.org/)
