@@ -36,7 +36,8 @@ Note: https://www.findbestopensource.com/projects
   - [Irssi](https://irssi.org/) - vpowerful text-mode IRC client.
   
 ## Desktop customization tools
-- [Conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X.
+- [Conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X-
+- [Conky-Colors](https://github.com/helmuthdu/conky_colors) - easier way to configure Conky.
 - [GKrellM](http://gkrellm.srcbox.net/) - single process stack of system monitors.
 - [Plank](https://github.com/ricotz/plank) - Simple dock.
 - [Rainmeter](https://github.com/rainmeter/rainmeter) - (maybe run rainmeter in wine on linux?)
