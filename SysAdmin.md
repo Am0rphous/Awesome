@@ -1,11 +1,16 @@
 # System Administrator Tools
 
 Note for later: ids:
+
 https://github.com/RedWolfIntelligence/Open-Source-Security-List-
+
 Samhain Labs, https://www.la-samhna.de/services.html, docs: https://la-samhna.de/samhain/s_documentation.html
   - http://www.la-samhna.de/samhain/samhain-current.tar.gz
+
 bro / zeek
+
 https://cybersecurity.att.com/solutions/pci-dss-file-integrity-monitoring
+
 Splunk Home: https://ethicalhackingguru.com/splunk-free-home/ restricted to 500 megabyte / day
 
 
