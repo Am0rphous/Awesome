@@ -50,8 +50,8 @@ Splunk Home: https://ethicalhackingguru.com/splunk-free-home/ restricted to 500 
 - [GeekGuide - Linux in the Time of Malware](https://www.linuxjournal.com/sites/default/files/2018-11/GeekGuide-Bit9-3.pdf)
 - [GeekGuide - SysAdmin 101](https://www.linuxjournal.com/sites/default/files/2018-12/SysAdmin101-Ebook.pdf)
 
-## File Share
-- [Warpinator](https://github.com/linuxmint/warpinator) -  Share files across the LAN 
+## File Sharing
+- [Warpinator](https://github.com/linuxmint/warpinator) - Share files across the LAN 
 
 ## DNS
 - [Bind9](https://gitlab.isc.org/isc-projects/bind9) - BIND (Berkeley Internet Name Domain) is a complete, highly portable
@@ -131,8 +131,12 @@ implementation of the Domain Name System (DNS) protocol.
 - [Ubuntu post-installation script](https://github.com/nicolargo/ubuntupostinstall)
 - [Qoa](https://github.com/klaussinani/qoa) - Minimal interactive command-line prompts
 
+## Utilities
+- [Balena Etcher](https://github.com/balena-io/etcher) -  Flash OS images to SD cards & USB drives, safely and easily. 
+- [WoeUSB](https://github.com/WoeUSB/WoeUSB) -  A Microsoft Windows® USB installation media preparer for GNU+Linux.
+
 ## Virtualization
-### containers
+ ### containers
 - [Docker](https://www.docker.com/)
   - [Docker Compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker.
   - [Awesme Docker Compose](https://github.com/docker/awesome-compose) -  Awesome Docker Compose samples.
@@ -142,7 +146,7 @@ implementation of the Domain Name System (DNS) protocol.
 - [MiniKube](https://github.com/kubernetes/minikube) - minikube implements a local Kubernetes cluster on macOS, Linux, and Windows. [minikube.sigs.k8s.io](https://minikube.sigs.k8s.io/docs/)
 - [MiniShift](https://github.com/minishift/minishift) - open source tool that helps you run a single-node OpenShift cluster locally inside a VM. [okd.io](https://www.okd.io)
 
-#### Container orchestration 
+ #### Container orchestration 
 - [Kubernetes](https://kubernetes.io/)
   - [Kubernetes CheatSheets](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
   - [MicroK8s](https://github.com/ubuntu/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge. [microk8s.io](https://microk8s.io/)
