@@ -6,7 +6,8 @@
 - [Ubuntu Touch](https://ubuntu-touch.io/get-ubuntu-touch)
 
 ## Router and Firewall
-- [IPFire](https://www.ipfire.org/) - IPFire is a hardened, versatile, state-of-the-art Open Source firewall based on Linux. 
+- [IPFire](https://www.ipfire.org/) - IPFire is a hardened, versatile, state-of-the-art Open Source firewall based on Linux.
+- [OPNsense](https://opnsense.org/) - Open source, easy-to-use and easy-to-build HardenedBSD based firewall and routing platform. 
 - [Zeroshell Linux Router](https://zeroshell.org/) - Routing and Bridging Firewall Solutions.
 
 ## Desktop
