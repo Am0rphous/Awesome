@@ -17,6 +17,7 @@ Splunk Home: https://ethicalhackingguru.com/splunk-free-home/ restricted to 500 
 - [Chkrootkit](http://www.chkrootkit.org/) - locally checks for signs of a rootkits.
 - [ClamAV](https://www.clamav.net/) - ClamAV® is an open source antivirus engine for detecting trojans, viruses, malware & other malicious threats.
   - [ClamAV Documentation](https://github.com/Cisco-Talos/clamav-faq)
+- [Malice](https://github.com/maliceio/malice) -  open source version of VirusTotal that anyone can use at any scale from an independent researcher to a fortune 500 company.
 - [Phishdetect-node](https://github.com/phishdetect/phishdetect-node) - server component of PhishDetect.
 - [PHP Malware Finder](https://github.com/jvoisin/php-malware-finder) - does its very best to detect obfuscated/dodgy code as well as files using PHP functions often used in malwares/webshells.
 - [Rootkit Hunter](http://rkhunter.sourceforge.net/) - Rootkit Hunter (commonly abbreviated as RKH) is a security monitoring and analyzing tool for POSIX compliant systems, to help you detect known rootkits, malware and signal general bad security practices.
