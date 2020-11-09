@@ -190,6 +190,8 @@ implementation of the Domain Name System (DNS) protocol.
 - [OpenVPN](https://github.com/OpenVPN)
 
 ## Web
+- [Apache](https://httpd.apache.org/) - Open-source web server for modern operating systems including UNIX and Windows. 
+- [Apache Kafka](https://kafka.apache.org/) - open-source distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications.
 - [Sanstorm](https://sandstorm.io/) - Sandstorm is an open source platform for self-hosting web apps
 
 
