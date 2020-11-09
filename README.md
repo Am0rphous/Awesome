@@ -41,7 +41,7 @@ Note: https://www.findbestopensource.com/projects
 - [GKrellM](http://gkrellm.srcbox.net/) - single process stack of system monitors.
 - [Plank](https://github.com/ricotz/plank) - Simple dock.
 - [Rainmeter](https://github.com/rainmeter/rainmeter) - (maybe run rainmeter in wine on linux?)
- #### Inspiration
+  #### Inspiration
  - [www.gnome-look.org](https://www.gnome-look.org)
 
 ## E-books
