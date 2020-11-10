@@ -7,7 +7,7 @@ https://gbhackers.com/hacking-tools-list/
 - [NetELF](https://github.com/XiphosResearch/netelf)
 https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/
 - [OSCE PREP](https://github.com/snoopysecurity/OSCE-Prep) - A list of freely available resources that can be used as a prerequisite before taking OSCE. 
-
+- [nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use. 
 BurpSuite and 
 - [IntruderPayloads](https://github.com/1N3/IntruderPayloads) - A collection of Burpsuite Intruder payloads, BurpBounty payloads, fuzz lists, malicious file uploads and web pentesting methodologies and checklists.
 - [Awesome Burp Extensions](https://github.com/snoopysecurity/awesome-burp-extensions) - A curated list of amazingly awesome Burp Extensions.
