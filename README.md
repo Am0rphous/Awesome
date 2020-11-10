@@ -49,7 +49,8 @@ Note: https://www.findbestopensource.com/projects
 - [Free Security eBooks](https://github.com/Hack-with-Github/Free-Security-eBooks) - A curated list of free Security and Pentesting related E-Books available on the Internet.
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. 
 
-## Encryption tools
+## Encryption
+- [Encrypting Kali Setup Tutorial (working pr. 10.11.20)](https://www.informaticar.net/how-to-manually-partition-and-encrypt-kali-linux/)
 - [Sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets 
 
 ## Finance
