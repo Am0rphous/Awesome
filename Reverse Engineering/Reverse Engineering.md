@@ -44,6 +44,7 @@
 - [CrySearch Memory Scanner](https://www.crysearch.nl/) -  analysis, debugging and memory modification.
 
 ## Mobile Forensics
+- [AndroGuard](https://github.com/androguard/androguard) - Reverse engineering, Malware and goodware analysis of Android applications ... and more (ninja !) 
 - [Santuko Linux](https://santoku-linux.com) - Mobile forensics, mobile malware and mobile security.
 
 
