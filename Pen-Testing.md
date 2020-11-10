@@ -6,10 +6,12 @@ Note for later:
 https://gbhackers.com/hacking-tools-list/
 
 https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/
+- [OSCE PREP](https://github.com/snoopysecurity/OSCE-Prep) - A list of freely available resources that can be used as a prerequisite before taking OSCE. 
 
 BurpSuite and 
 - [IntruderPayloads](https://github.com/1N3/IntruderPayloads) - A collection of Burpsuite Intruder payloads, BurpBounty payloads, fuzz lists, malicious file uploads and web pentesting methodologies and checklists.
-
+- [Awesome Burp Extensions](https://github.com/snoopysecurity/awesome-burp-extensions) - A curated list of amazingly awesome Burp Extensions.
+- [burpsuite](https://github.com/thehackingsage/burpsuite)
 - [katoolin3](https://github.com/s-h-3-l-l/katoolin3) - Automatically install all Kali linux tools.
 
 
