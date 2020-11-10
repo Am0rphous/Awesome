@@ -18,6 +18,7 @@
 - [ICMPTunnel](https://github.com/DhavalKapil/icmptunnel) - Transparently tunnel your IP traffic through ICMP echo and reply packets. [dhavalkapil.com/icmptunnel/](https://dhavalkapil.com/icmptunnel/)
 - [Udp2raw-tunnel](https://github.com/wangyu-/udp2raw-tunnel) - A Tunnel which turns UDP Traffic into Encrypted FakeTCP/UDP/ICMP Traffic by using Raw Socket, helps you Bypass UDP FireWalls(or Unstable UDP Environment).
 - [VPN Pivot](https://github.com/0x36/VPNPivot) - Explore the network using VPNPivot tool.
+- [WsTunnel](https://github.com/erebe/wstunnel) - Tunneling over websocket protocol - Static binary available.
 
 ## Deep Packet Inspection
 - [deep-packet-inspection](https://devopedia.org/deep-packet-inspection)
