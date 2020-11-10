@@ -27,3 +27,6 @@
 
 ## Monitor
 - [Fanny](https://github.com/DanielStormApps/Fanny) - Monitor your Mac's fan speed and CPU/GPU temperature from your Notification Center. [fannywidget.com](https://www.fannywidget.com/)
+
+## Productivity
+- [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - A Caffeine clone for macOS. Prevents your Mac from going to sleep. 
