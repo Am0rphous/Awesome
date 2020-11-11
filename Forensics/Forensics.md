@@ -21,7 +21,7 @@
    PDF document analysis tools
    - [pdfid.py](https://github.com/DidierStevens/DidierStevensSuite/blob/master/pdfid.py) - Tool to test PDF files (Comes default in Remnux OS). Syntax: 'pdfid.py malware.pdf'
    - [PdfParser](https://github.com/smalot/pdfparser) - PdfParser, a standalone PHP library, provides various tools to extract data from a PDF file. 
-  - [compare-strings by kesarawimal](https://github.com/kesarawimal/compare-strings) - Finds degree of similarity between two strings, based on Dice's Coefficient and Levenshtein Distance.
+ - [compare-strings by kesarawimal](https://github.com/kesarawimal/compare-strings) - Finds degree of similarity between two strings, based on Dice's Coefficient and Levenshtein Distance.
   
 ## Analysis Online
 - [Hybrid-Analysis](https://www.hybrid-analysis.com) - free malware analysis service for the community that detects and analyzes unknown threats using a unique Hybrid Analysis technology.
