@@ -149,12 +149,15 @@ implementation of the Domain Name System (DNS) protocol.
 - [WoeUSB](https://github.com/WoeUSB/WoeUSB) -  A Microsoft Windows® USB installation media preparer for GNU+Linux.
 
 ## Virtualization
+- [WebVirtCloud](https://github.com/retspen/webvirtcloud) - WebVirtCloud is virtualization web interface for admins and users.
+
  ### containers
 - [Docker](https://www.docker.com/)
   - [Docker Compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker.
   - [Awesme Docker Compose](https://github.com/docker/awesome-compose) -  Awesome Docker Compose samples.
 - [K3S](https://k3s.io/) - The certified Kubernetes distribution built for IoT & Edge computing
 - [LXC](https://linuxcontainers.org/lxc/)
+  - [LXC Web Panel's dashboard (old)](https://github.com/lxc-webpanel/dashboard) - Might need flask `pip3 install flask`
 - [LXD](https://linuxcontainers.org/lxd/)
 - [MiniKube](https://github.com/kubernetes/minikube) - minikube implements a local Kubernetes cluster on macOS, Linux, and Windows. [minikube.sigs.k8s.io](https://minikube.sigs.k8s.io/docs/)
 - [MiniShift](https://github.com/minishift/minishift) - open source tool that helps you run a single-node OpenShift cluster locally inside a VM. [okd.io](https://www.okd.io)
