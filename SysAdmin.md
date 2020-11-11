@@ -198,5 +198,6 @@ implementation of the Domain Name System (DNS) protocol.
 - [Apache Kafka](https://kafka.apache.org/) - open-source distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications.
 - [NginX](https://nginx.org/en/) - an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server.
 - [Sanstorm](https://sandstorm.io/) - Sandstorm is an open source platform for self-hosting web apps
+- [Wordpress Comment Blacklist](https://github.com/splorp/wordpress-comment-blacklist) - A simple solution for WordPress comment spam.
 
 
