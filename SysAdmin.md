@@ -47,6 +47,7 @@ Splunk Home: https://ethicalhackingguru.com/splunk-free-home/ restricted to 500 
 - [Quassel-irc](https://quassel-irc.org/)
 
 ## Confguration Management
+- [Guide To Install Missing Firmware in Debian](https://www.techbrackets.com/install-missing-firmware-debian/) - Looking to install missing firmware in Debian or Ubuntu, then use this step by step guide.
 - [Puppet](https://github.com/puppetlabs/puppet/) - Server automation framework and application. [Puppet.com](https://puppet.com/)
 - [Ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Ansible Tower offers free for handling up to 10 nodes.
 
