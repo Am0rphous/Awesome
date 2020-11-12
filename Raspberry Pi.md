@@ -1,5 +1,7 @@
 # Raspberry Pi
 
+- [Raspberry Pi Alternatives](https://pimylifeup.com/raspberry-pi-alternatives/)
+
 ## Operatingsystems
 - [Raspberry Pi OS](https://www.raspberrypi.org/downloads/raspberry-pi-os/) - (previously called Raspbian)
 - [Noobs](https://www.raspberrypi.org/downloads/noobs/)
