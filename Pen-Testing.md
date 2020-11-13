@@ -115,9 +115,9 @@ FTest, Lbd, Wafw00f
 
 ## Vulnerability Analysis
 - [Legion](https://github.com/GoVanguard/legion/) - Open source, easy-to-use, super-extensible and semi-automated network penetration testing tool that aids in discovery, reconnaissance and exploitation of information systems. 
-- [Lynis]()
-- [Nikto]()
-- [Nmap]()
+- [Lynis](https://github.com/CISOfy/Lynis) - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional. 
+- [Nikto](https://github.com/sullo/nikto) - Nikto web server scanner.
+- [Nmap](https://github.com/nmap/nmap) - Network Mapper. Github mirror of official SVN repository. 
 - [Sn1per](https://github.com/1N3/Sn1per) - Automated pentest framework for offensive security experts.
 - [Unix-Privesc-Check](http://pentestmonkey.net/tools/audit/unix-privesc-check)
   ### Privelegies
