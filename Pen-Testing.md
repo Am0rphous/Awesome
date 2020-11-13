@@ -119,6 +119,8 @@ FTest, Lbd, Wafw00f
 - [Nmap]()
 - [Sn1per](https://github.com/1N3/Sn1per) - Automated pentest framework for offensive security experts.
 - [Unix-Privesc-Check](http://pentestmonkey.net/tools/audit/unix-privesc-check)
+  ### Privelegies
+  - [Pytmipe](https://github.com/quentinhardy/pytmipe) - Python library and client for token manipulations and impersonations for privilege escalation on Windows 
 
 ## Web Application Analysis
  ### CMS & Framwork Identification
