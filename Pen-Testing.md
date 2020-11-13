@@ -113,14 +113,14 @@ FTest, Lbd, Wafw00f
 - [ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) - A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns. 
 
 ## Vulnerability Analysis
-- [Legion]()
+- [Legion](https://github.com/GoVanguard/legion/) - Open source, easy-to-use, super-extensible and semi-automated network penetration testing tool that aids in discovery, reconnaissance and exploitation of information systems. 
 - [Lynis]()
 - [Nikto]()
 - [Nmap]()
 - [Sn1per](https://github.com/1N3/Sn1per) - Automated pentest framework for offensive security experts.
 - [Unix-Privesc-Check](http://pentestmonkey.net/tools/audit/unix-privesc-check)
   ### Privelegies
-  - [Pytmipe](https://github.com/quentinhardy/pytmipe) - Python library and client for token manipulations and impersonations for privilege escalation on Windows 
+  - [PYTMIPE & TMIPE](https://github.com/quentinhardy/pytmipe) - Python library and client for token manipulations and impersonations for privilege escalation on Windows 
 
 ## Web Application Analysis
  ### CMS & Framwork Identification
