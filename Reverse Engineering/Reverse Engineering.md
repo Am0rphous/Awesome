@@ -9,6 +9,7 @@
 - [Bus Pirate](https://github.com/BusPirate/Bus_Pirate) - open source hacker multi-tool that talks to electronic stuff.
 - [OpenOCD](http://openocd.org/) - open-source tool that allows debugging various ARM devices with GDB using a wide variety of JTAG programmers.
   - [JTAG Explained tutorial](https://blog.senr.io/blog/jtag-explained)
+- [x64dbg](https://github.com/x64dbg/x64dbg) - An open-source x64/x32 debugger for windows. 
 
 ## Decompilers
 "A decompiler takes one from a binary to source code–or something similarly high-level that can easily be read by humans."
