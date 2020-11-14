@@ -40,6 +40,7 @@ BurpSuite and
 
 
 ## Information Gathering
+- [Autoenum](https://github.com/Gr1mmie/autoenum) - Automatic Service Enumeration Script.
 - [Nikto](https://github.com/sullo/nikto) - Web server scanner. [Documentation](https://cirt.net/nikto2-docs/)
 
 ### DNS Analysis
