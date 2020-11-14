@@ -3,9 +3,10 @@
 - https://hackingpassion.com/
 - https://www.hackingarticles.in/
 
- ## Forums
+ ## Forums and blogs
   - https://cracked.to/
   - https://0x00sec.org/
+  - https://githacktools.blogspot.com/
   - https://hackforums.net/
   - https://leakzone.net/
   - https://darkwebmafias.net/
