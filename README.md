@@ -34,7 +34,10 @@ Note: https://www.findbestopensource.com/projects
  #### Terminal Clients
   - [Birch](https://github.com/dylanaraps/birch) -  An IRC client written in bash.
   - [Irssi](https://irssi.org/) - vpowerful text-mode IRC client.
-  
+
+## Cryptocurrency
+- [bitcoin-chart-cli](https://github.com/madnight/bitcoin-chart-cli) - Bitcoin chart for the terminal as command line util.
+
 ## Desktop customization tools
 - [Conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X-
 - [Conky-Colors](https://github.com/helmuthdu/conky_colors) - easier way to configure Conky.
