@@ -31,6 +31,7 @@ BurpSuite and
 - [Byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers. [byob.dev](https://byob.dev/)
 - [CobaltStrike](https://www.cobaltstrike.com/) - Commercial, full-featured, penetration testing tool.
   - [CobaltStrike Training](https://www.cobaltstrike.com/training)
+  - [Rvrsh3ll'a BOF_Collection](https://github.com/rvrsh3ll/BOF_Collection) - Various Cobalt Strike BOFs.
 - [fwexpl (old)](https://github.com/Cr4sh/fwexpl) - PC firmware exploitation tool and library.
 - [iBombShell](https://github.com/ElevenPaths/ibombshell) - Tool to deploy a post-exploitation prompt at any time
 - [Koadic](https://github.com/zerosum0x0/koadic) - Koadic C3 COM Command & Control - JScript RAT 
