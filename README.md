@@ -37,6 +37,7 @@ Note: https://www.findbestopensource.com/projects
 
 ## Cryptocurrency
 - [bitcoin-chart-cli](https://github.com/madnight/bitcoin-chart-cli) - Bitcoin chart for the terminal as command line util.
+- [cryptocurrency-calculator-cli](https://github.com/madnight/cryptocurrency-calculator-cli) - Cryptocurrency Converter Calculator as command line util.
 
 ## Desktop customization tools
 - [Conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X-
