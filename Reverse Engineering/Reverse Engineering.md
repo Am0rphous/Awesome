@@ -1,5 +1,10 @@
-# Reverse Engineering
+# Reverse Engineering Tool List
 "Reverse engineering, also called backwards engineering or back engineering, is the process by which an artificial object is deconstructed to reveal its designs, architecture, code or to extract knowledge from the object."
+
+For later:
+https://github.com/WebAssembly/wabt
+
+
 
 # Android
 - [Android Studio](https://developer.android.com/studio) - Provides the fastest tools for building apps on every type of Android device.
