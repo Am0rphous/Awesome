@@ -2,6 +2,8 @@
 "Reverse engineering, also called backwards engineering or back engineering, is the process by which an artificial object is deconstructed to reveal its designs, architecture, code or to extract knowledge from the object."
 
 # Android
+- [Android Studio](https://developer.android.com/studio) - Provides the fastest tools for building apps on every type of Android device.
+  - [IntelliJ Detekt Plugin](https://github.com/detekt/detekt-intellij-plugin) - Integrates detekt, a static code analysis tool for the Kotlin programming language, into IntelliJ.
 - [ApkUrlGrep](https://github.com/ndelphit/apkurlgrep) - Extract endpoints from APK files.
 - [Diggy](https://github.com/s0md3v/Diggy) - Extract endpoints from apk files. 
 
