@@ -66,6 +66,7 @@ Note: https://www.findbestopensource.com/projects
 
 ## IDE - Integrated Development Environment
 PyCharm, Spyder, Sublime, Jupyter, Atom, Python IDLE, VSCode, Wing, Thonny PyDev
+-[Github Desktop](https://github.com/desktop/desktop) - open source Electron-based GitHub app. It is written in TypeScript and uses React.
 
 ## InfoSec
 - [academy.attackiq.com](https://academy.attackiq.com)
