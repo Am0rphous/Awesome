@@ -71,6 +71,9 @@ implementation of the Domain Name System (DNS) protocol.
 - [Unbound DNS](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver. [Homepage](https://nlnetlabs.nl/projects/unbound/about/)
 - [Stubby](https://github.com/getdnsapi/stubby) - Stubby is the name given to a mode of using getdns which enables it to act as a local DNS Privacy stub resolver (using DNS-over-TLS). 
 
+## Firewall
+- [UFW - ]()
+
 ## HIDS - Host-based Intrusion Detection Systems
 - [Ossec](https://github.com/ossec/ossec-hids) - OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response. [ossec.net](http://www.ossec.net/)
 - [Snort3](https://github.com/snort3/snort3) - next generation Snort IPS (Intrusion Prevention System). [snort.org](https://snort.org/)
@@ -80,6 +83,12 @@ implementation of the Domain Name System (DNS) protocol.
 - [TripWire](https://github.com/Tripwire/tripwire-open-source) - Security and data integrity tool for monitoring and alerting on file & directory changes. 
 - [Wazuh](https://github.com/wazuh/wazuh/) - free and open source platform used for threat prevention, detection, and response. It is capable of protecting workloads across on-premises, virtualized, containerized, and cloud-based environments.
 
+## IDS - Intrusion Detection Systems
+- []()
+
+## IPS - Intrusion Prevention System
+- [DenyHosts](https://github.com/denyhosts/denyhosts) - Automated host blocking from SSH brute force attacks.
+- [Fail2Ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors. [www.fail2ban.org](https://www.fail2ban.org)
 
 ## LDAP
 - [Apache Directory Studio](https://directory.apache.org/studio/) - complete directory tooling platform intended to be used with any LDAP server however it is particularly designed for use with ApacheDS. 
