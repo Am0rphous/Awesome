@@ -13,6 +13,7 @@ https://cybersecurity.att.com/solutions/pci-dss-file-integrity-monitoring
 
 Splunk Home: https://ethicalhackingguru.com/splunk-free-home/ restricted to 500 megabyte / day
 
+- [sec-tool-list](https://github.com/alphaSeclab/sec-tool-list) - More than 21K security related open source tools, sorted by star count. Both in markdown and json format. 
 
 ## Ad-block
 - [Blocky](https://github.com/0xERR0R/blocky) - DNS proxy as ad-blocker for local network.
