@@ -2,6 +2,8 @@
 
 - [Raspberry Pi Alternatives](https://pimylifeup.com/raspberry-pi-alternatives/)
 
+note to my self, needs sorting
+
 ## Operatingsystems
 - [Raspberry Pi OS](https://www.raspberrypi.org/downloads/raspberry-pi-os/) - (previously called Raspbian)
 - [Noobs](https://www.raspberrypi.org/downloads/noobs/)
@@ -17,6 +19,7 @@
 - [IchigoJam BASIC](https://ichigojam.github.io/RPi/)
 - [WebThings Gateway](https://iot.mozilla.org/gateway/) - An open platform for monitoring and controlling devices over the web.
 - [PiNet](http://pinet.org.uk/)
+- [TwisterOS](https://twisteros.com/)
 - [Windows IoT Core](https://www.microsoft.com/en-us/software-download/windows10iotcore)
 
 - [Kali Linux](https://www.kali.org/docs/arm/raspberry-pi-full-encryption/)
