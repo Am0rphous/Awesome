@@ -22,6 +22,7 @@ BurpSuite and
 - [StandIn](https://github.com/FuzzySecurity/StandIn) - small AD post-compromise toolkit.
 
 ## Blue Team
+- [BlueSpawn](https://github.com/ION28/BLUESPAWN) - An Active Defense and EDR software to empower Blue Teams.
 
 ## Brute Forcing
 - [SecList](https://github.com/danielmiessler/SecLists)
