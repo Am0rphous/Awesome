@@ -26,6 +26,7 @@ BurpSuite and
 
 ## Brute Forcing
 - [SecList](https://github.com/danielmiessler/SecLists)
+- [ZipCrack](https://github.com/henriksb/ZipCrack) -  Crack password protected zip files.
 
 ## Exploitation Tools
 - [Armitage](https://github.com/rsmudge/armitage) - graphical cyber attack management tool for Metasploit that visualizes your targets, recommends exploits, and exposes the advanced capabilities of the framework. [Homepage](http://www.fastandeasyhacking.com)
