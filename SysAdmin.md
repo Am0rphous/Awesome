@@ -23,6 +23,7 @@ Splunk Home: https://ethicalhackingguru.com/splunk-free-home/ restricted to 500 
   - [trick77's ipset-blacklist](https://github.com/trick77/ipset-blacklist) - A bash script to ban large numbers of IP addresses published in blacklists. 
 
 ## Anti-Virus / malware and rootkit detection
+- [AlphaSeclab's anti-av](https://github.com/alphaSeclab/anti-av) - Resources About Anti-Virus and Anti-Anti-Virus, including 200+ tools and 1300+ posts.
 - [al-khaser](https://github.com/LordNoteworthy/al-khaser) - PoC "malware" application with good intentions that aims to stress your anti-malware system.
 - [Chkrootkit](http://www.chkrootkit.org/) - locally checks for signs of a rootkits.
 - [ClamAV](https://www.clamav.net/) - ClamAV® is an open source antivirus engine for detecting trojans, viruses, malware & other malicious threats.
