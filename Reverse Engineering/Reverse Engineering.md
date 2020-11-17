@@ -4,7 +4,8 @@
 For later:
 https://github.com/WebAssembly/wabt
 
-
+# Awesome
+- [awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering) - Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT) And Every Aspect! (More than 3500 open source tools and 2300 posts&videos).
 
 # Android
 - [Android Studio](https://developer.android.com/studio) - Provides the fastest tools for building apps on every type of Android device.
