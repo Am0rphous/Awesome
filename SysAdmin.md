@@ -42,8 +42,11 @@ Splunk Home: https://ethicalhackingguru.com/splunk-free-home/ restricted to 500 
 - [Yara](https://github.com/virustotal/yara) - The pattern matching swiss knife. [virustotal.github.io/yara](https://virustotal.github.io/yara/)
 
   ### Analysis Tools Online
+  - [Hybrid-Analysis](https://www.hybrid-analysis.com/) - free malware analysis service.
   - [valkyrie.comodo.com](https://valkyrie.comodo.com) - Advanced File Analysis System.
   - [VirusTotal](https://www.virustotal.com/gui/) - Free service that analyzes suspicious files and URLs and facilitates the quick detection of viruses, worms, trojans, and all kinds of malware.
+
+  
 ## Backup
 - [Bacula](https://ubuntu.com/server/docs/backups-bacula) - Bacula is a backup program enabling you to backup, restore, and verify data across your network. There are Bacula clients for Linux, Windows, and Mac OS X.
 - [Veeam Backup & Replication Community Editio](https://www.veeam.com/virtual-machine-backup-solution-free.html) - FREE backup software for VMware and Hyper-V, as well as physical servers, workstations, laptops and cloud instances.
