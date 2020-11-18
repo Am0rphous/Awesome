@@ -44,6 +44,7 @@ Splunk Home: https://ethicalhackingguru.com/splunk-free-home/ restricted to 500 
 - [Yara](https://github.com/virustotal/yara) - The pattern matching swiss knife. [virustotal.github.io/yara](https://virustotal.github.io/yara/)
 
   ### Analysis Tools Online
+  - [Any Run](https://app.any.run/) - Cloud-based sandbox.
   - [Avira Analysis](https://www.avira.com/en/analysis/submit)
   - [Fortiguard onlinescanner](https://www.fortiguard.com/faq/onlinescanner)
   - [Hybrid-Analysis](https://www.hybrid-analysis.com/) - free malware analysis service.
