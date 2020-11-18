@@ -66,6 +66,9 @@ https://github.com/WebAssembly/wabt
  - [AndroGuard docs](https://androguard.readthedocs.io/en/latest/index.html) - Documentation.
 - [Santuko Linux](https://santoku-linux.com) - Mobile forensics, mobile malware and mobile security.
 
+## WbebAssembly
+- [Binaryen](https://github.com/WebAssembly/binaryen) - Compiler infrastructure and toolchain library for WebAssembly.
+- [WABT](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit.
 
 Free and open-source graphical subsystem originally developed by Microsoft for rendering user interfaces.
 - [Snoopwpf - open source WPF spying utility](https://github.com/snoopwpf/snoopwpf) - allows you to spy/browse the visual tree of a running application (without the need for a debugger) and change properties, view triggers, set breakpoints on property changes and many more things.
