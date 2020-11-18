@@ -26,6 +26,7 @@ BurpSuite and
 
 ## Brute Forcing
 - [SecList](https://github.com/danielmiessler/SecLists)
+- [Win Brute Logon](https://github.com/DarkCoderSc/win-brute-logon) - Crack any Microsoft Windows users password without any privilege (Guest account included).
 - [ZipCrack](https://github.com/henriksb/ZipCrack) -  Crack password protected zip files.
 
 ## Exploitation Tools
