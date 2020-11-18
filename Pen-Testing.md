@@ -4,16 +4,16 @@
 Note for later:
 
 https://gbhackers.com/hacking-tools-list/
-- [NetELF](https://github.com/XiphosResearch/netelf)
+
 https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/
 - [OSCE PREP](https://github.com/snoopysecurity/OSCE-Prep) - A list of freely available resources that can be used as a prerequisite before taking OSCE. 
 - [nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use. 
-BurpSuite and 
-- [IntruderPayloads](https://github.com/1N3/IntruderPayloads) - A collection of Burpsuite Intruder payloads, BurpBounty payloads, fuzz lists, malicious file uploads and web pentesting methodologies and checklists.
-- [Awesome Burp Extensions](https://github.com/snoopysecurity/awesome-burp-extensions) - A curated list of amazingly awesome Burp Extensions.
 - [burpsuite](https://github.com/thehackingsage/burpsuite)
+  - [Awesome Burp Extensions](https://github.com/snoopysecurity/awesome-burp-extensions) - A curated list of amazingly awesome Burp Extensions.
+- [IntruderPayloads](https://github.com/1N3/IntruderPayloads) - A collection of Burpsuite Intruder payloads, BurpBounty payloads, fuzz lists, malicious file uploads and web pentesting methodologies and checklists.
 - [katoolin3](https://github.com/s-h-3-l-l/katoolin3) - Automatically install all Kali linux tools.
-
+- [NetELF](https://github.com/XiphosResearch/netelf)
+- [SLAE32 Certification Assignments](https://www.phrozen.io/docs/linux/slae32/)
 
 ## Active Directory / Domain
 - [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec/wiki) - CrackMapExec (a.k.a CME) is a post-exploitation tool that helps automate assessing the security of large Active Directory networks.
