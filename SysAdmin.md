@@ -30,6 +30,7 @@ Splunk Home: https://ethicalhackingguru.com/splunk-free-home/ restricted to 500 
 - [Chkrootkit](http://www.chkrootkit.org/) - locally checks for signs of a rootkits.
 - [ClamAV](https://www.clamav.net/) - ClamAV® is an open source antivirus engine for detecting trojans, viruses, malware & other malicious threats.
   - [ClamAV Documentation](https://github.com/Cisco-Talos/clamav-faq)
+- [HerdProtect](https://www.herdprotect.com/index.aspx) - second line of defense malware scanning platform powered by 68 anti-malware engines in the cloud.
 - [Malice](https://github.com/maliceio/malice) -  open source version of VirusTotal that anyone can use at any scale from an independent researcher to a fortune 500 company.
 - [Phishdetect-node](https://github.com/phishdetect/phishdetect-node) - server component of PhishDetect.
 - [PHP Malware Finder](https://github.com/jvoisin/php-malware-finder) - does its very best to detect obfuscated/dodgy code as well as files using PHP functions often used in malwares/webshells.
