@@ -45,6 +45,7 @@ Splunk Home: https://ethicalhackingguru.com/splunk-free-home/ restricted to 500 
   - [Avira Analysis](https://www.avira.com/en/analysis/submit)
   - [Hybrid-Analysis](https://www.hybrid-analysis.com/) - free malware analysis service.
   - [Jotti's malware scan](https://virusscan.jotti.org/)
+  - [Kyspersky Viruscheck](https://opentip.kaspersky.com/)
   - [valkyrie.comodo.com](https://valkyrie.comodo.com) - Advanced File Analysis System.
   - [VirusTotal](https://www.virustotal.com/gui/) - Free service that analyzes suspicious files and URLs and facilitates the quick detection of viruses, worms, trojans, and all kinds of malware.
 
