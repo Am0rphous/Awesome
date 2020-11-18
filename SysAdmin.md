@@ -43,6 +43,7 @@ Splunk Home: https://ethicalhackingguru.com/splunk-free-home/ restricted to 500 
 
   ### Analysis Tools Online
   - [Avira Analysis](https://www.avira.com/en/analysis/submit)
+  - [Fortiguard onlinescanner](https://www.fortiguard.com/faq/onlinescanner)
   - [Hybrid-Analysis](https://www.hybrid-analysis.com/) - free malware analysis service.
   - [Jotti's malware scan](https://virusscan.jotti.org/)
   - [Kyspersky Viruscheck](https://opentip.kaspersky.com/)
