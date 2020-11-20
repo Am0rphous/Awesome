@@ -39,6 +39,7 @@ https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/
 - [fwexpl (old)](https://github.com/Cr4sh/fwexpl) - PC firmware exploitation tool and library.
 - [iBombShell](https://github.com/ElevenPaths/ibombshell) - Tool to deploy a post-exploitation prompt at any time
 - [Koadic](https://github.com/zerosum0x0/koadic) - Koadic C3 COM Command & Control - JScript RAT 
+- [OfficePurge](https://github.com/fireeye/OfficePurge)
 - [PostEnum](https://github.com/mostaphabahadou/postenum) - Linux enumeration and privilege escalation tool. 
 - [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - A PowerShell Post-Exploitation Framework 
 - [SILENTTRINITY](https://github.com/byt3bl33d3r/SILENTTRINITY) - An asynchronous, collaborative post-exploitation agent powered by Python and .NET's DLR 
