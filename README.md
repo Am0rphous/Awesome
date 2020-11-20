@@ -128,13 +128,13 @@ PyCharm, Spyder, Sublime, Jupyter, Atom, Python IDLE, VSCode, Wing, Thonny PyDev
 - [LibreOffice](https://www.libreoffice.org/) - 
 
 ## Productivity
+- [Albert Launcher](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher. [Homepage](https://albertlauncher.github.io/)
 - [GNOME Calendar](https://gitlab.gnome.org/GNOME/gnome-calendar) [gnome-calender github](https://github.com/GNOME/gnome-calendar)
 - [Joplin](https://github.com/laurent22/joplin) - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: [discourse.joplinapp.org](https://discourse.joplinapp.org/))
-- [tui.calendar](https://github.com/nhn/tui.calendar) - JavaScript calendar that has everything you need. 
+- RedShift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. 
+- [Tui.calendar](https://github.com/nhn/tui.calendar) - JavaScript calendar that has everything you need. 
 - [Tmux](https://github.com/tmux/tmux) - tmux is a terminal multiplexer: it enables a number of terminals to be created, accessed, and controlled from a single screen.
   - [Tmux xPanes](https://github.com/greymd/tmux-xpanes) - Create multiple tmux terminals
-- [Albert Launcher](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher. [Homepage](https://albertlauncher.github.io/)
-- RedShift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. 
 
 ## Looking for projects and courses?
 - [FeatHub](https://feathub.com/)
