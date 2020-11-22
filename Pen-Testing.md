@@ -58,7 +58,9 @@ DNSMap, DNSRecon, DNSTracer, DNSWalk, Fierce, URLCrazy
  ### IDS/IPS Identification
 - [FragRouter]()
 FTest, Lbd, Wafw00f
- ### Network & Power Scanners
+ ### Network & Port Scanners
+ - [NimScan](https://github.com/elddy/NimScan) - Really fast port scanner (With filtered option - Windows support only).
+ 
  ### OSINT Analysis
  ### Route Analysis
  ### SMB Analysis
