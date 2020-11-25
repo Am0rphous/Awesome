@@ -48,6 +48,7 @@ Note: https://www.findbestopensource.com/projects
 - [Rainmeter](https://github.com/rainmeter/rainmeter) - (maybe run rainmeter in wine on linux?)
   #### Inspiration
   - [b00merang.weebly.com](https://b00merang.weebly.com/)
+    - [macOS 11 'Big Sur'](https://github.com/B00merang-Project/macOS) - macOS theme for Gnome and GTK-based desktops.
   - [gnome-look.org](https://www.gnome-look.org)
 
 ## E-books
