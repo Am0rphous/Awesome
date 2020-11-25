@@ -49,6 +49,7 @@ Note: https://www.findbestopensource.com/projects
   #### Inspiration
   - [b00merang.weebly.com](https://b00merang.weebly.com/)
     - [macOS 11 'Big Sur'](https://github.com/B00merang-Project/macOS) - macOS theme for Gnome and GTK-based desktops.
+    - [Windows 10 Theme for Linux](https://github.com/B00merang-Project/Windows-10) - Windows 10 Light theme for Linux (GTK).
   - [gnome-look.org](https://www.gnome-look.org)
 
 ## E-books
