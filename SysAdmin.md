@@ -184,7 +184,7 @@ implementation of the Domain Name System (DNS) protocol.
 ## Virtualization
 - [WebVirtCloud](https://github.com/retspen/webvirtcloud) - WebVirtCloud is virtualization web interface for admins and users.
 
-  ### containers
+ ### containers
 - [Docker](https://www.docker.com/)
   - [Docker Compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker.
   - [Awesme Docker Compose](https://github.com/docker/awesome-compose) -  Awesome Docker Compose samples.
@@ -195,12 +195,12 @@ implementation of the Domain Name System (DNS) protocol.
 - [MiniKube](https://github.com/kubernetes/minikube) - minikube implements a local Kubernetes cluster on macOS, Linux, and Windows. [minikube.sigs.k8s.io](https://minikube.sigs.k8s.io/docs/)
 - [MiniShift](https://github.com/minishift/minishift) - open source tool that helps you run a single-node OpenShift cluster locally inside a VM. [okd.io](https://www.okd.io)
 
-  #### Container orchestration 
-- [Kubernetes](https://kubernetes.io/)
-  - [Kubernetes CheatSheets](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
-  - [MicroK8s](https://github.com/ubuntu/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge. [microk8s.io](https://microk8s.io/)
-  - [Sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets.
-- Docker swarm
+ #### Container orchestration 
+ - [Kubernetes](https://kubernetes.io/)
+   - [Kubernetes CheatSheets](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
+   - [MicroK8s](https://github.com/ubuntu/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge. [microk8s.io](https://microk8s.io/)
+   - [Sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets.
+ - Docker swarm
 
  ### Machines
 - Kimchi - HTML5 based management tool for KVM - https://github.com/kimchi-project/kimchi
