@@ -1,6 +1,7 @@
 # System Administrator Tools
 
-https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#ad-block
+- [Ad-block](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#ad-block)
+  - [Blocklists](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#blocklists)
 
 Note for later: ids:
 
