@@ -205,8 +205,8 @@ implementation of the Domain Name System (DNS) protocol.
  ### Machines
 - [Kimchi](https://github.com/kimchi-project/kimchi) - HTML5 based management tool for KVM
 - KVM
-            - [KVM Management Tools list](https://www.linux-kvm.org/page/Management_Tools) - Options available to manage kvm virtual machines.
-            - [Vmmaestro](https://github.com/mzch/vmmaestro) - Tiny control wrapper for KVM.
+  - [KVM Management Tools list](https://www.linux-kvm.org/page/Management_Tools) - Options available to manage kvm virtual machines.
+  - [Vmmaestro](https://github.com/mzch/vmmaestro) - Tiny control wrapper for KVM.
 - multipass - Instant Ubuntu VMs (Windows, macOS and Linux) https://ubuntu.com/server/docs/virtualization-multipass
 - [XCP-ng](https://xcp-ng.org/)
 - [oVirt](https://www.ovirt.org/) - free open-source virtualization solution for your entire enterprise
