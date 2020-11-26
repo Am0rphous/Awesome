@@ -113,12 +113,16 @@ PyCharm, Spyder, Sublime, Jupyter, Atom, Python IDLE, VSCode, Wing, Thonny PyDev
      - [Telly](https://github.com/tellytv/telly) - IPTV proxy for Plex Live written in Golang.
    - [Snapcast](https://github.com/badaix/snapcast) - Snapcast is a multiroom client-server audio player, where all clients are time synchronized with the server to play perfectly synced audio. [Homepage Snapcast](https://mjaggard.github.io/snapcast/)
 
+   #### IP TV
+   - [FreeTuxTV](https://github.com/freetuxtv/freetuxtv/) - FreetuxTV Internet television and radio player.
+   - [IPTVx](https://github.com/jankammerath/iptvx) - IPTV player and streamer for Linux that allows to play any stream that LibVLC can play, offers an overlay based on WebKit using HTML5, JavaScript and CSS and uses XMLTV data for EPG information. It allows the playback of URLs, files and can grab URLs from shell scripts. XMLTV EPG data can be downloaded from URLs or grabbed from shell scripts. 
+
   ### Sound Production
 - [Ardour](https://ardour.org/) - Record, Edit, and Mix on Linux, macOS and Windows
 - [Audacity](https://sourceforge.net/projects/audacity/)
 - [SoX - Sound eXchange](http://sox.sourceforge.net/Main/HomePage) - Swiss Army knife of sound processing programs. 
 
-  ### Music Apps
+ ### Music Apps
 - [Great Little Radio Player](https://sites.google.com/view/greatlittleradioplayer/home)
 - [Guayadeque](https://github.com/anonbeat/Guayadeque) - music management program designed for all music enthusiasts. [guayadeque.org](http://www.guayadeque.org/)
 - [midomi.com](https://www.midomi.com/) - Online SoundHound alternative.
