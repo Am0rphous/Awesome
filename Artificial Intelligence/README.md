@@ -12,6 +12,7 @@
 - [Serenata De Amor](https://github.com/okfn-brasil/serenata-de-amor) - Artificial Intelligence for social control of public administration
 - [Serpent.AI ](https://github.com/serpentai/serpentai) -  Game Agent Framework. Helping you create AIs / Bots that learn to play any game you own! 
 - [Snake](https://github.com/chuyangliu/snake) - Artificial intelligence for the Snake game. 
+- [StringSifter](https://github.com/fireeye/stringsifter) - A machine learning tool that ranks strings based on their relevance for malware analysis.
 - [SUSI.AI server backend](https://github.com/fossasia/susi_server) - the Artificial Intelligence server for personal assistants.
 
 ## AI Assistant
