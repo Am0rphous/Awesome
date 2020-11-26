@@ -31,7 +31,7 @@
 - [Network Simulation](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#network-simulation)
 - [Remoting](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#remoting)
 - [VPN - Virtual Private Network](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#vpn---virtual-private-network)
-- [Web / Proxy]https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#web--proxy()
+- [Web and Proxy]https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#web--proxy()
 
 
 Samhain Labs, https://www.la-samhna.de/services.html, docs: https://la-samhna.de/samhain/s_documentation.html
