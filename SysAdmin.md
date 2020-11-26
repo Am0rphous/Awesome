@@ -1,5 +1,7 @@
 # System Administrator Tools
 
+https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#ad-block
+
 Note for later: ids:
 
 https://github.com/RedWolfIntelligence/Open-Source-Security-List-
