@@ -14,6 +14,7 @@ https://cybersecurity.att.com/solutions/pci-dss-file-integrity-monitoring
 Splunk Home: https://ethicalhackingguru.com/splunk-free-home/ restricted to 500 megabyte / day
 
 - [awesome-network-stuff](https://github.com/alphaSeclab/awesome-network-stuff) - Resources about network security, including: Proxy/GFW/ReverseProxy/Tunnel/VPN/Tor/I2P, and MiTM/PortKnocking/NetworkSniff/NetworkAnalysis/etc。More than 1700 open source tools for now. Post incoming. 
+- [FireEye's ThreatPursuit-VM](https://github.com/fireeye/ThreatPursuit-VM) - A fully customizable, open-sourced Windows-based distribution focused on threat intelligence analysis and hunting designed for intel and malware analysts as well as threat hunters to get up and running quickly.
 - [sec-tool-list](https://github.com/alphaSeclab/sec-tool-list) - More than 21K security related open source tools, sorted by star count. Both in markdown and json format. 
 
 ## Ad-block
@@ -21,7 +22,7 @@ Splunk Home: https://ethicalhackingguru.com/splunk-free-home/ restricted to 500 
 - [PiHole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements.
 - [AdGuard](https://github.com/AdguardTeam/AdguardHome) - Network-wide ads & trackers blocking DNS server.
 #### Blocklists
-  - [notracking's hosts-blocklists]( https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage.
+  - [notracking's hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage.
   - [trick77's ipset-blacklist](https://github.com/trick77/ipset-blacklist) - A bash script to ban large numbers of IP addresses published in blacklists. 
 
 ## Anti-Virus / malware and rootkit detection
