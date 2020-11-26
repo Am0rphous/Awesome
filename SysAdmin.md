@@ -2,14 +2,36 @@
 
 - [Ad-block](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#ad-block)
   - [Blocklists](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#blocklists)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-
-Note for later: ids:
+- [Anti-Virus / malware and rootkit detectio](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#anti-virus--malware-and-rootkit-detection)
+  - [Analysis Tools Online](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#analysis-tools-online)
+- [Backup](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#backup)
+  - [Ransomware Decryptors](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#ransomware-decryptors)
+- [Chat / Communication](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#chat--communication)
+- [Configuration Management](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#configuration-management)
+- [DHCP](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#dhcp)
+- [Ebooks and PDFs](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#ebooks-and-pdfs)
+- [File Sharing](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#file-sharing)
+- [IDS, HIDS and IPS](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#ids-hids-and-ips)
+- [LDAP](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#ldap)
+- [Mail](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#mail)
+- [Monitoring](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#monitoring)
+  - [ELK-stack](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#elk-stack)
+  - [Good resources](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#good-resources)
+- [DNS](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#dns)
+- [Package Managers](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#package-managers)
+- [Sandboxing tools](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#sandboxing-tools)
+- [Terminal / Shell](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#terminal--shell)
+  - [Bash](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#bash)
+- [Scripting](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#scripting)
+- [Utilities](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#utilities)
+- [Virtualization](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#virtualization)
+  - [Container Technologies](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#container-technologies)
+    - [Container orchestration](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#container-orchestration)
+  - [Machines](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#machines)
+- [Network Simulation](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#network-simulation)
+- [Remoting](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#remoting)
+- [VPN - Virtual Private Network](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#vpn---virtual-private-network)
+- [Web / Proxy]https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#web--proxy()
 
 
 Samhain Labs, https://www.la-samhna.de/services.html, docs: https://la-samhna.de/samhain/s_documentation.html
@@ -77,7 +99,7 @@ bro / zeek
 - [TheLounge](https://thelounge.chat/) - self-hosted web IRC client.
 - [Quassel-irc](https://quassel-irc.org/)
 
-## Confguration Management
+## Configuration Management
 - [Guide To Install Missing Firmware in Debian](https://www.techbrackets.com/install-missing-firmware-debian/) - Looking to install missing firmware in Debian or Ubuntu, then use this step by step guide.
 - [Puppet](https://github.com/puppetlabs/puppet/) - Server automation framework and application. [Puppet.com](https://puppet.com/)
 - [Ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Ansible Tower offers free for handling up to 10 nodes.
@@ -93,11 +115,12 @@ bro / zeek
 ## File Sharing
 - [Warpinator](https://github.com/linuxmint/warpinator) - Share files across the LAN 
 
-## Firewall
-- iptables
-- [UFW - ]()
-
 ## IDS, HIDS and IPS
+
+  ### Firewalls
+  - iptables
+  - [UFW - ]()
+
 - [DenyHosts](https://github.com/denyhosts/denyhosts) - Automated host blocking from SSH brute force attacks.
 - [Fail2Ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors. [www.fail2ban.org](https://www.fail2ban.org)
 - [Ossec](https://github.com/ossec/ossec-hids) - OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response. [ossec.net](http://www.ossec.net/)
@@ -120,7 +143,7 @@ bro / zeek
 
 ## Monitoring
 - [Elastic stack (ELK) on Docker](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose. 
-- ELK-stack
+  #### ELK-stack
   - [Elasticsearch](https://github.com/elastic/elasticsearch) - Open Source, Distributed, RESTful Search Engine.
     - [detection-rules](https://github.com/elastic/detection-rules) -  Rules for Elastic Security's detection engine.
   - [LogStash](https://github.com/elastic/logstash) -  Logstash - transport and process your logs, events, or other data.
@@ -132,16 +155,14 @@ bro / zeek
 - [Hastic Server](https://github.com/hastic/hastic-server) - Hastic data management server for analyzing patterns and anomalies from Grafana.
 - [Malcolm](https://github.com/cisagov/Malcolm) - Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files) and Zeek logs. 
 - [Moloch](https://github.com/aol/moloch) - Moloch is an open source, large scale, full packet capturing, indexing, and database system. 
+- [Netsniff-ng](https://github.com/netsniff-ng/netsniff-ng) - A Swiss army knife for your daily Linux network plumbing.
+- [NetworkMiner](https://www.netresec.com/?page=Networkminer) - open source Network Forensic Analysis Tool (NFAT) for Windows (but also works in Linux / Mac OS X / FreeBSD). 
 - [ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring 
 - [Sysmon](https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon) - provides detailed information about process creations, network connections, and changes to file creation time.
   - [ossec-sysmon](https://github.com/Hestat/ossec-sysmon) - A Ruleset to enhance detection capabilities of Ossec using Sysmon 
   - [sysmon-modular](https://github.com/olafhartong/sysmon-modular) - A repository of sysmon configuration modules 
 - [Wazuh](https://github.com/wazuh/wazuh/) - Wazuh is a free, open source and enterprise-ready security monitoring solution for threat detection, integrity monitoring, incident response and compliance. [wazuh.com](https://wazuh.com/)
 - [Zeek (Bro)](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know. [zeek.org](https://www.zeek.org/)
-
-  ### Network Activities
-  - [Netsniff-ng](https://github.com/netsniff-ng/netsniff-ng) - A Swiss army knife for your daily Linux network plumbing.
-  - [NetworkMiner](https://www.netresec.com/?page=Networkminer) - open source Network Forensic Analysis Tool (NFAT) for Windows (but also works in Linux / Mac OS X / FreeBSD). 
 
 ## DNS
 - [Bind9](https://gitlab.isc.org/isc-projects/bind9) - BIND (Berkeley Internet Name Domain) is a complete, highly portable
@@ -154,7 +175,7 @@ implementation of the Domain Name System (DNS) protocol.
 - [FlatPak](https://flatpak.org/)
 - [SnapD](https://snapcraft.io/)
 
-## Sandboxing tools:
+## Sandboxing tools
 - [BubbleWrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool
 - [FireJail](https://github.com/netblue30/firejail) - SUID sandbox program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces, seccomp-bpf and Linux capabilities. [FireJail Homepage](https://firejail.wordpress.com/)
 - [Windows_Sandbox_Editor](https://github.com/damienvanrobaeys/Windows_Sandbox_Editor) - Generate and manage your windows sandbox.
