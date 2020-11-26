@@ -28,21 +28,21 @@ Splunk Home: https://ethicalhackingguru.com/splunk-free-home/ restricted to 500 
 ## Anti-Virus / malware and rootkit detection
 - [AlphaSeclab's anti-av](https://github.com/alphaSeclab/anti-av) - Resources About Anti-Virus and Anti-Anti-Virus, including 200+ tools and 1300+ posts.
 - [al-khaser](https://github.com/LordNoteworthy/al-khaser) - PoC "malware" application with good intentions that aims to stress your anti-malware system.
-- [Chkrootkit](http://www.chkrootkit.org/) - locally checks for signs of a rootkits.
-- [ClamAV](https://www.clamav.net/) - ClamAV® is an open source antivirus engine for detecting trojans, viruses, malware & other malicious threats.
+- [Chkrootkit](http://www.chkrootkit.org) - locally checks for signs of a rootkits.
+- [ClamAV](https://www.clamav.net) - ClamAV® is an open source antivirus engine for detecting trojans, viruses, malware & other malicious threats.
   - [ClamAV Documentation](https://github.com/Cisco-Talos/clamav-faq)
-- [Cuckoo Sandbox](https://cuckoosandbox.org/) - Advanced, extremely modular, and 100% open source automated malware analysis system.
-- [HerdProtect](https://www.herdprotect.com/index.aspx) - second line of defense malware scanning platform powered by 68 anti-malware engines in the cloud.
-- [Malice](https://github.com/maliceio/malice) -  open source version of VirusTotal that anyone can use at any scale from an independent researcher to a fortune 500 company.
-- [Phishdetect-node](https://github.com/phishdetect/phishdetect-node) - server component of PhishDetect.
-- [PHP Malware Finder](https://github.com/jvoisin/php-malware-finder) - does its very best to detect obfuscated/dodgy code as well as files using PHP functions often used in malwares/webshells.
+- [Cuckoo Sandbox](https://cuckoosandbox.org) - Advanced, extremely modular, and 100% open source automated malware analysis system.
+- [HerdProtect](https://www.herdprotect.com/index.aspx) - Second line of defense malware scanning platform powered by 68 anti-malware engines in the cloud.
+- [Malice](https://github.com/maliceio/malice) -  Open source version of VirusTotal that anyone can use at any scale from an independent researcher to a fortune 500 company.
+- [Phishdetect-node](https://github.com/phishdetect/phishdetect-node) - Server component of PhishDetect.
+- [PHP Malware Finder](https://github.com/jvoisin/php-malware-finder) - Does its very best to detect obfuscated/dodgy code as well as files using PHP functions often used in malwares/webshells.
 - [PhpMussel](https://github.com/phpMussel/phpMussel) - PHP-based anti-virus anti-trojan anti-malware solution.
   - [phpMussel Signatures](https://github.com/phpMussel/Signatures) - Contains signature updates for phpMussel.
 - [Rootkit Hunter](http://rkhunter.sourceforge.net/) - Rootkit Hunter (commonly abbreviated as RKH) is a security monitoring and analyzing tool for POSIX compliant systems, to help you detect known rootkits, malware and signal general bad security practices.
-- [Shell-Detector](https://github.com/emposha/Shell-Detector) - helps you find and identify php/cgi(perl)/asp/aspx shells.
+- [Shell-Detector](https://github.com/emposha/Shell-Detector) - Helps you find and identify php/cgi(perl)/asp/aspx shells.
 - [StringSifter](https://github.com/fireeye/stringsifter) - A machine learning tool that ranks strings based on their relevance for malware analysis.
 - [vt-cli](https://github.com/VirusTotal/vt-cli) -  VirusTotal Command Line Interface. [virustotal.github.io/vt-cli/](https://virustotal.github.io/vt-cli/)
-- [Web Shell Detector](https://github.com/emposha/PHP-Shell-Detector) - php script that helps you find and identify php/cgi(perl)/asp/aspx shells. Web Shell Detector has a “web shells” signature database that helps to identify “web shell” up to 99%. [shelldetector.com](https://shelldetector.com/)
+- [Web Shell Detector](https://github.com/emposha/PHP-Shell-Detector) - PHP script that helps you find and identify php/cgi(perl)/asp/aspx shells. Web Shell Detector has a “web shells” signature database that helps to identify “web shell” up to 99%. [shelldetector.com](https://shelldetector.com/)
 - [Yara](https://github.com/virustotal/yara) - The pattern matching swiss knife. [virustotal.github.io/yara](https://virustotal.github.io/yara/)
 
   ### Analysis Tools Online
