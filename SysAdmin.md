@@ -86,16 +86,13 @@ Splunk Home: https://ethicalhackingguru.com/splunk-free-home/ restricted to 500 
 ## File Sharing
 - [Warpinator](https://github.com/linuxmint/warpinator) - Share files across the LAN 
 
-## DNS
-- [Bind9](https://gitlab.isc.org/isc-projects/bind9) - BIND (Berkeley Internet Name Domain) is a complete, highly portable
-implementation of the Domain Name System (DNS) protocol.
-- [Unbound DNS](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver. [Homepage](https://nlnetlabs.nl/projects/unbound/about/)
-- [Stubby](https://github.com/getdnsapi/stubby) - Stubby is the name given to a mode of using getdns which enables it to act as a local DNS Privacy stub resolver (using DNS-over-TLS). 
-
 ## Firewall
+- iptables
 - [UFW - ]()
 
-## HIDS - Host-based Intrusion Detection Systems
+## IDS, HIDS and IPS
+- [DenyHosts](https://github.com/denyhosts/denyhosts) - Automated host blocking from SSH brute force attacks.
+- [Fail2Ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors. [www.fail2ban.org](https://www.fail2ban.org)
 - [Ossec](https://github.com/ossec/ossec-hids) - OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response. [ossec.net](http://www.ossec.net/)
 - [Snort3](https://github.com/snort3/snort3) - next generation Snort IPS (Intrusion Prevention System). [snort.org](https://snort.org/)
   - [snort-rules (unofficial)](https://github.com/codecat007/snort-rules) - An UNOFFICIAL Git Repository of Snort Rules(IDS rules) Releases. 
@@ -103,13 +100,6 @@ implementation of the Domain Name System (DNS) protocol.
   - [Suricata PT Open Ruleset](https://github.com/ptresearch/AttackDetection) - Attack Detection.
 - [TripWire](https://github.com/Tripwire/tripwire-open-source) - Security and data integrity tool for monitoring and alerting on file & directory changes. 
 - [Wazuh](https://github.com/wazuh/wazuh/) - free and open source platform used for threat prevention, detection, and response. It is capable of protecting workloads across on-premises, virtualized, containerized, and cloud-based environments.
-
-## IDS - Intrusion Detection Systems
-- []()
-
-## IPS - Intrusion Prevention System
-- [DenyHosts](https://github.com/denyhosts/denyhosts) - Automated host blocking from SSH brute force attacks.
-- [Fail2Ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors. [www.fail2ban.org](https://www.fail2ban.org)
 
 ## LDAP
 - [Apache Directory Studio](https://directory.apache.org/studio/) - complete directory tooling platform intended to be used with any LDAP server however it is particularly designed for use with ApacheDS. 
@@ -144,6 +134,12 @@ implementation of the Domain Name System (DNS) protocol.
   ### Network Activities
   - [Netsniff-ng](https://github.com/netsniff-ng/netsniff-ng) - A Swiss army knife for your daily Linux network plumbing.
   - [NetworkMiner](https://www.netresec.com/?page=Networkminer) - open source Network Forensic Analysis Tool (NFAT) for Windows (but also works in Linux / Mac OS X / FreeBSD). 
+
+## DNS
+- [Bind9](https://gitlab.isc.org/isc-projects/bind9) - BIND (Berkeley Internet Name Domain) is a complete, highly portable
+implementation of the Domain Name System (DNS) protocol.
+- [Unbound DNS](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver. [Homepage](https://nlnetlabs.nl/projects/unbound/about/)
+- [Stubby](https://github.com/getdnsapi/stubby) - Stubby is the name given to a mode of using getdns which enables it to act as a local DNS Privacy stub resolver (using DNS-over-TLS). 
 
 ## Package Managers
 - [Gem (RubyGems)](https://rubygems.org/) - package management framework for Ruby.
