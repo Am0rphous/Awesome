@@ -203,13 +203,16 @@ implementation of the Domain Name System (DNS) protocol.
  - Docker swarm
 
  ### Machines
-- [Kimchi](https://github.com/kimchi-project/kimchi) - HTML5 based management tool for KVM
+
 - KVM
+  - [Kimchi](https://github.com/kimchi-project/kimchi) - HTML5 based management tool for KVM.
   - [KVM Management Tools list](https://www.linux-kvm.org/page/Management_Tools) - Options available to manage kvm virtual machines.
   - [Vmmaestro](https://github.com/mzch/vmmaestro) - Tiny control wrapper for KVM.
-- multipass - Instant Ubuntu VMs (Windows, macOS and Linux) https://ubuntu.com/server/docs/virtualization-multipass
-- [XCP-ng](https://xcp-ng.org/)
-- [oVirt](https://www.ovirt.org/) - free open-source virtualization solution for your entire enterprise
+- [Multipass](https://ubuntu.com/server/docs/virtualization-multipass) - Instant Ubuntu VMs (Windows, macOS and Linux)
+- [XCP-ng](https://xcp-ng.org/) - Virtualization platform based on Xen Source and Citrix® Hypervisor (formerly XenServer). XCP-ng stands for Xen Cloud Platform - New Generation.
+  - [XCP-ng documentation](https://xcp-ng.org/docs/)
+- [oVirt](https://www.ovirt.org/) - Free open-source virtualization solution for your entire enterprise
+  - [oVirt documentation](https://www.ovirt.org/documentation/)
 
  ### Network Simulation
 - [Flare-fakenet-ng](https://github.com/fireeye/flare-fakenet-ng) - Next Generation Dynamic Network Analysis Tool.
