@@ -184,7 +184,7 @@ implementation of the Domain Name System (DNS) protocol.
 ## Virtualization
 - [WebVirtCloud](https://github.com/retspen/webvirtcloud) - WebVirtCloud is virtualization web interface for admins and users.
 
- ### containers
+ ### Container Technologies
 - [Docker](https://www.docker.com/)
   - [Docker Compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker.
   - [Awesme Docker Compose](https://github.com/docker/awesome-compose) -  Awesome Docker Compose samples.
@@ -203,10 +203,10 @@ implementation of the Domain Name System (DNS) protocol.
  - Docker swarm
 
  ### Machines
-- Kimchi - HTML5 based management tool for KVM - https://github.com/kimchi-project/kimchi
+- [Kimchi](https://github.com/kimchi-project/kimchi) - HTML5 based management tool for KVM
 - KVM
-            - KVM Management Tools list - https://www.linux-kvm.org/page/Management_Tools
-            - vmmaestro - https://github.com/mzch/vmmaestro
+            - [KVM Management Tools list](https://www.linux-kvm.org/page/Management_Tools) - Options available to manage kvm virtual machines.
+            - [Vmmaestro](https://github.com/mzch/vmmaestro) - Tiny control wrapper for KVM.
 - multipass - Instant Ubuntu VMs (Windows, macOS and Linux) https://ubuntu.com/server/docs/virtualization-multipass
 - [XCP-ng](https://xcp-ng.org/)
 - [oVirt](https://www.ovirt.org/) - free open-source virtualization solution for your entire enterprise
