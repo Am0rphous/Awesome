@@ -116,8 +116,8 @@ bro / zeek
 - [Warpinator](https://github.com/linuxmint/warpinator) - Share files across the LAN 
 
 ## IDS, HIDS and IPS
-
 - [DenyHosts](https://github.com/denyhosts/denyhosts) - Automated host blocking from SSH brute force attacks.
+- [EmoCheck](https://github.com/JPCERTCC/EmoCheck) -  Emotet detection tool for Windows OS.
 - [Fail2Ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors. [www.fail2ban.org](https://www.fail2ban.org)
 - [Ossec](https://github.com/ossec/ossec-hids) - OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response. [ossec.net](http://www.ossec.net/)
 - [Snort3](https://github.com/snort3/snort3) - next generation Snort IPS (Intrusion Prevention System). [snort.org](https://snort.org/)
