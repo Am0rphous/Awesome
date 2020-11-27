@@ -41,6 +41,7 @@
 - https://thehacks.co
 
 ## IT News
+- [jpcert.or.jp](https://www.jpcert.or.jp/english/) - JPCERT/CC is the first CSIRT (Computer Security Incident Response Team) established in Japan.
 - https://www.securityweek.com
 - https://www.govinfosecurity.com/
 - https://www.zdnet.com/
