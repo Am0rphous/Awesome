@@ -7,6 +7,7 @@ note to my self, needs sorting
 ## Ad-block
 - [Blocky](https://github.com/0xERR0R/blocky) - DNS proxy as ad-blocker for local network.
 - [PiHole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements.
+  - [Docker Pi-hole](https://github.com/pi-hole/docker-pi-hole) -  Pi-hole in a docker container.
 - [AdGuard](https://github.com/AdguardTeam/AdguardHome) - Network-wide ads & trackers blocking DNS server.
 
 ## Magic Mirror
