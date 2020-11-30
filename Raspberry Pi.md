@@ -6,6 +6,7 @@ note to my self, needs sorting
 
 ## Magic Mirror
 - [MMM-AlexaControl](https://github.com/JoChef2/MMM-AlexaControl) -  Control your MagicMirror with Alexa.
+- [MMM-BackgroundSlideshow](https://github.com/darickc/MMM-BackgroundSlideshow) - Show a slideshow of images in the background. Great for a photo frame from instead of a mirror.
 
 ## Operatingsystems
 - [Raspberry Pi OS](https://www.raspberrypi.org/downloads/raspberry-pi-os/) - (previously called Raspbian)
