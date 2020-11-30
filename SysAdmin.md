@@ -49,6 +49,7 @@ bro / zeek
 ## Ad-block
 - [Blocky](https://github.com/0xERR0R/blocky) - DNS proxy as ad-blocker for local network.
 - [PiHole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements.
+  - [Docker Pi-hole](https://github.com/pi-hole/docker-pi-hole) -  Pi-hole in a docker container.
 - [AdGuard](https://github.com/AdguardTeam/AdguardHome) - Network-wide ads & trackers blocking DNS server.
 #### Blocklists
   - [notracking's hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage.
