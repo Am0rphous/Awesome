@@ -7,6 +7,7 @@
   - [githacktools.blogspot.com](https://githacktools.blogspot.com)
   - [hackforums.net](https://hackforums.net)
   - [leakzone.net](https://leakzone.net)
+  - [0ffset.net](https://0ffset.net) - IT Security blog
   - [phoronix.com/forums](https://www.phoronix.com/forums)
   - [techtalk.comodo.com/blog](https://techtalk.comodo.com/blog)
 
