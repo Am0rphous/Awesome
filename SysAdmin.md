@@ -22,6 +22,7 @@
 - [Sandboxing tools](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#sandboxing-tools)
 - [Terminal / Shell](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#terminal--shell)
   - [Bash](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#bash)
+- [Security](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#security)
 - [Scripting](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#scripting)
 - [Utilities](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#utilities)
 - [Virtualization](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#virtualization)
@@ -201,6 +202,9 @@ implementation of the Domain Name System (DNS) protocol.
   - [Awesome Bash](https://github.com/awesome-lists/awesome-bash) -  A curated list of delightful Bash scripts and resources.
   - [Debugging Bash Scripts](https://linuxconfig.org/how-to-debug-bash-scripts) - Usage of traditional techniques, xtrace, trap and other options.
   - [Oh My Bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. [ohmybash.github.io](https://ohmybash.github.io/)
+
+### Security
+- [SELinux Userspace](https://github.com/SELinuxProject/selinux) - Security Enhanced Linux (SELinux).
 
 ### Scripting
 - [Ubuntu post-installation script](https://github.com/nicolargo/ubuntupostinstall)
