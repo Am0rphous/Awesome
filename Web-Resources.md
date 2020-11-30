@@ -45,8 +45,9 @@
 
 
 ## Learning material
-- https://academy.hackthebox.eu/
-- https://hackingpassion.com/
+- [academy.hackthebox.eu](https://academy.hackthebox.eu)
+- [cyberciti.biz](https://www.cyberciti.biz) - Linux / Unix tutorials for new and seasoned sysadmin || developers.
+- [hackingpassion.com](https://hackingpassion.com)
 - https://www.hackingarticles.in/
 - https://itsfoss.com/
 - https://linuxhint.com/
