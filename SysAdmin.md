@@ -29,7 +29,7 @@
   - [Container Technologies](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#container-technologies)
     - [Container orchestration](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#container-orchestration)
   - [Machines](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#machines)
-- [Network Simulation](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#network-simulation)
+- [Network Tools](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#network-tools)
 - [Remoting](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#remoting)
 - [VPN - Virtual Private Network](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#vpn---virtual-private-network)
 - [Web / Proxy](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#web--proxy)
@@ -251,10 +251,11 @@ implementation of the Domain Name System (DNS) protocol.
 - [oVirt](https://www.ovirt.org/) - Free open-source virtualization solution for your entire enterprise
   - [oVirt documentation](https://www.ovirt.org/documentation/)
 
- ### Network Simulation
+ ### Network Tools
 - [Flare-fakenet-ng](https://github.com/fireeye/flare-fakenet-ng) - Next Generation Dynamic Network Analysis Tool.
 - [GNs3-server](https://github.com/GNS3/gns3-server) - The GNS3 server manages emulators such as Dynamips, VirtualBox or Qemu/KVM. [www.gns3.com](https://www.gns3.com/)
   - [GNs3-gui](https://github.com/GNS3/gns3-gui) - GNS3 Graphical Network Simulator.
+- [GPing](https://github.com/orf/gping) - Ping, but with a graph.
 - [The Shadow Simulator](https://github.com/shadow/shadow) - Shadow is a unique discrete-event network simulator that runs real applications like Tor, and distributed systems of thousands of nodes on a single machine. 
 
 ## Network Visualization
