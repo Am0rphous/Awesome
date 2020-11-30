@@ -146,6 +146,7 @@ PyCharm, Spyder, Sublime, Jupyter, Atom, Python IDLE, VSCode, Wing, Thonny PyDev
   - [Tmux xPanes](https://github.com/greymd/tmux-xpanes) - Create multiple tmux terminals
 
 ## Tools
+- [Inventory Hunter](https://github.com/EricJMarti/inventory-hunter) - Get notified as soon as your next CPU, GPU, or game console is in stock.
   ### Hex
   - [vxHexEditor](https://github.com/EUA/wxHexEditor) - [www.wxhexeditor.org](http://www.wxhexeditor.org/)
 
