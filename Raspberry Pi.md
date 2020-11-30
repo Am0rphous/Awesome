@@ -4,6 +4,9 @@
 
 note to my self, needs sorting
 
+## Magic Mirror
+- [MMM-AlexaControl](https://github.com/JoChef2/MMM-AlexaControl) -  Control your MagicMirror with Alexa.
+
 ## Operatingsystems
 - [Raspberry Pi OS](https://www.raspberrypi.org/downloads/raspberry-pi-os/) - (previously called Raspbian)
 - [Noobs](https://www.raspberrypi.org/downloads/noobs/)
