@@ -4,6 +4,11 @@
 
 note to my self, needs sorting
 
+## Ad-block
+- [Blocky](https://github.com/0xERR0R/blocky) - DNS proxy as ad-blocker for local network.
+- [PiHole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements.
+- [AdGuard](https://github.com/AdguardTeam/AdguardHome) - Network-wide ads & trackers blocking DNS server.
+
 ## Magic Mirror
 - [MMM-AlexaControl](https://github.com/JoChef2/MMM-AlexaControl) -  Control your MagicMirror with Alexa.
 - [MMM-BackgroundSlideshow](https://github.com/darickc/MMM-BackgroundSlideshow) - Show a slideshow of images in the background. Great for a photo frame from instead of a mirror.
