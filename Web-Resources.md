@@ -1,6 +1,7 @@
 
  ## Forums and blogs
-   - https://0x00sec.org/
+  - https://0x00sec.org/
+  - [businessforum.zyxel.com](https://businessforum.zyxel.com)
   - https://cracked.to/
   - https://darkwebmafias.net/
   - https://githacktools.blogspot.com/
