@@ -1,13 +1,14 @@
 
  ## Forums and blogs
-  - https://0x00sec.org/
+  - [0x00sec.org](https://0x00sec.org)
   - [businessforum.zyxel.com](https://businessforum.zyxel.com)
-  - https://cracked.to/
-  - https://darkwebmafias.net/
-  - https://githacktools.blogspot.com/
-  - https://hackforums.net/
-  - https://leakzone.net/
-  - https://techtalk.comodo.com/blog/
+  - [cracked.to](https://cracked.to)
+  - [darkwebmafias.net](https://darkwebmafias.net)
+  - [githacktools.blogspot.com](https://githacktools.blogspot.com)
+  - [hackforums.net](https://hackforums.net)
+  - [leakzone.net](https://leakzone.net)
+  - [phoronix.com/forums](https://www.phoronix.com/forums)
+  - [techtalk.comodo.com/blog](https://techtalk.comodo.com/blog)
 
 ## Games
 - https://www.slavehack2.com/
