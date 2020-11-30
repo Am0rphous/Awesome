@@ -145,6 +145,9 @@ PyCharm, Spyder, Sublime, Jupyter, Atom, Python IDLE, VSCode, Wing, Thonny PyDev
 - [Tmux](https://github.com/tmux/tmux) - tmux is a terminal multiplexer: it enables a number of terminals to be created, accessed, and controlled from a single screen.
   - [Tmux xPanes](https://github.com/greymd/tmux-xpanes) - Create multiple tmux terminals
 
+## Programming
+- [KDevelop](https://github.com/KDE/kdevelop) - Cross-platform IDE for C, C++, Python, QML/JavaScript and PHP.
+
 ## Tools
 - [Inventory Hunter](https://github.com/EricJMarti/inventory-hunter) - Get notified as soon as your next CPU, GPU, or game console is in stock.
   ### Hex
