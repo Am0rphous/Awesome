@@ -10,6 +10,7 @@
   - [leakzone.net](https://leakzone.net)
   - [0ffset.net](https://0ffset.net) - IT Security blog
   - [phoronix.com/forums](https://www.phoronix.com/forums)
+  - [Planet Virt Tools](https://planet.virt-tools.org) - Blogging about open source virtualization.
   - [techtalk.comodo.com/blog](https://techtalk.comodo.com/blog)
   - [ubuntubuzz.com](https://www.ubuntubuzz.com)
 
