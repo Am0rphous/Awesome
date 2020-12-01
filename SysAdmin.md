@@ -131,7 +131,12 @@ bro / zeek
 - [DenyHosts](https://github.com/denyhosts/denyhosts) - Automated host blocking from SSH brute force attacks.
 - [EmoCheck](https://github.com/JPCERTCC/EmoCheck) -  Emotet detection tool for Windows OS.
 - [Fail2Ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors. [www.fail2ban.org](https://www.fail2ban.org)
+- [FwKnop (FireWall KNock OPerator)](https://github.com/mrash/fwknop) - Single Packet Authorization > Port Knocking.
+- [FwSnort](https://github.com/mrash/fwsnort) - Application Layer IDS/IPS with iptables.
+  - [FwSnort Docs](http://www.cipherdyne.org/fwsnort/docs)
 - [Ossec](https://github.com/ossec/ossec-hids) - OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response. [ossec.net](http://www.ossec.net/)
+- [Psad](https://github.com/mrash/psad) - Intrusion Detection with iptables Logs.
+  - [How to Install and Use PSAD IDS on Ubuntu Linux](https://blog.rapid7.com/2017/06/24/how-to-install-and-use-psad-ids-on-ubuntu-linux) - Nice Tutorial.
 - [Snort3](https://github.com/snort3/snort3) - next generation Snort IPS (Intrusion Prevention System). [snort.org](https://snort.org/)
   - [snort-rules (unofficial)](https://github.com/codecat007/snort-rules) - An UNOFFICIAL Git Repository of Snort Rules(IDS rules) Releases. 
 - [Splunk Home](https://ethicalhackingguru.com/splunk-free-home/) - Restricted to 500 megabyte / day.
@@ -188,9 +193,10 @@ implementation of the Domain Name System (DNS) protocol.
 - [Stubby](https://github.com/getdnsapi/stubby) - Stubby is the name given to a mode of using getdns which enables it to act as a local DNS Privacy stub resolver (using DNS-over-TLS). 
 
 ## Package Managers
-- [Gem (RubyGems)](https://rubygems.org/) - package management framework for Ruby.
-- [FlatPak](https://flatpak.org/)
-- [SnapD](https://snapcraft.io/)
+- [Gem (RubyGems)](https://rubygems.org) - package management framework for Ruby.
+- [FlatPak](https://flatpak.org)
+- [Nixpkgs](https://github.com/NixOS/nixpkgs) - collection of over 60,000 software packages that can be installed with the Nix package manager [nixos.org](https://nixos.org).
+- [SnapD](https://snapcraft.io)
 
 ## Sandboxing tools
 - [BubbleWrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool
