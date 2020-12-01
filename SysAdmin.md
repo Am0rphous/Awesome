@@ -96,8 +96,9 @@ bro / zeek
 - [KasperSky's Free Ransomware Decryptors](https://noransom.kaspersky.com/)
 
 ## Chat / Communication
-- [Convos](https://convos.chat/)
-- [Kiwi IRC](https://kiwiirc.com/)
+- [Convos](https://convos.chat)
+- [Kiwi IRC](https://kiwiirc.com)
+- [Neochat](https://github.com/KDE/neochat) - A client for matrix, the decentralized communication protoco.
 - [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app.
 - [TheLounge](https://thelounge.chat/) - self-hosted web IRC client.
 - [Quassel-irc](https://quassel-irc.org/)
@@ -225,7 +226,8 @@ implementation of the Domain Name System (DNS) protocol.
 - [Qoa](https://github.com/klaussinani/qoa) - Minimal interactive command-line prompts
 
 ## Utilities
-- [Balena Etcher](https://github.com/balena-io/etcher) -  Flash OS images to SD cards & USB drives, safely and easily. 
+- [Balena Etcher](https://github.com/balena-io/etcher) -  Flash OS images to SD cards & USB drives, safely and easily.
+- [ISOWriter](https://github.com/KaOSx/isowriter) - Tool for creating bootable installation USB flash drives, forked from rosa-imagewriter.
 - [UNetbootin](https://github.com/unetbootin/unetbootin) - UNetbootin installs Linux/BSD distributions to a partition or USB drive.
 - [WoeUSB](https://github.com/WoeUSB/WoeUSB) -  A Microsoft Windows® USB installation media preparer for GNU+Linux.
 
