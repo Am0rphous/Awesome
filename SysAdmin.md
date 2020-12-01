@@ -124,6 +124,7 @@ bro / zeek
 - [GeekGuide - SysAdmin 101](https://www.linuxjournal.com/sites/default/files/2018-12/SysAdmin101-Ebook.pdf)
 
 ## File Sharing
+- [Muon SSH Terminal/SFTP client (Formerly Snowflake)](https://github.com/subhra74/snowflake) -  Graphical SFTP client and terminal emulator with helpful utilities.
 - [Warpinator](https://github.com/linuxmint/warpinator) - Share files across the LAN 
 
 ## IDS, HIDS and IPS
