@@ -199,7 +199,9 @@ implementation of the Domain Name System (DNS) protocol.
 - [Tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix.
 - [Tilix](https://github.com/gnunn1/tilix/) - A tiling terminal emulator for Linux using GTK+ 3.
 - [Tmux](https://github.com/tmux/tmux) - tmux is a terminal multiplexer: it enables a number of terminals to be created, accessed, and controlled from a single screen.
-  - [Tmux xPanes](https://github.com/greymd/tmux-xpanes) - Create multiple tmux terminals
+  - [Rainbarf](https://github.com/creaktive/rainbarf) - CPU/RAM/battery stats chart bar for tmux (and GNU screen).
+  - [tmux-mem-cpu-load](https://github.com/thewtex/tmux-mem-cpu-load) - CPU, RAM, and load monitor for use with tmux.
+  - [Tmux xPanes](https://github.com/greymd/tmux-xpanes) - Create multiple tmux terminals.
 - [Windows Terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place.
   - [cascadia-code](https://github.com/microsoft/cascadia-code) - un, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal. 
   ### Bash
