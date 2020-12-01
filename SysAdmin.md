@@ -98,6 +98,7 @@ bro / zeek
 ## Chat / Communication
 - [Convos](https://convos.chat/)
 - [Kiwi IRC](https://kiwiirc.com/)
+- [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app.
 - [TheLounge](https://thelounge.chat/) - self-hosted web IRC client.
 - [Quassel-irc](https://quassel-irc.org/)
 
