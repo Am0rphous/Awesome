@@ -1,7 +1,6 @@
 
-## App Emulators
 
-## Android
+## Android Emulator
 
     AVD (Android Virtual Device)
     Genymotion
