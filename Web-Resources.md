@@ -11,6 +11,7 @@
   - [0ffset.net](https://0ffset.net) - IT Security blog
   - [phoronix.com/forums](https://www.phoronix.com/forums)
   - [techtalk.comodo.com/blog](https://techtalk.comodo.com/blog)
+  - [ubuntubuzz.com](https://www.ubuntubuzz.com)
 
 ## Games
 - https://www.slavehack2.com/
