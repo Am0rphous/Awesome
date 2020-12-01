@@ -270,10 +270,12 @@ implementation of the Domain Name System (DNS) protocol.
   - [Vmmaestro](https://github.com/mzch/vmmaestro) - Tiny control wrapper for KVM.
 - [Multipass](https://ubuntu.com/server/docs/virtualization-multipass) - Instant Ubuntu VMs (Windows, macOS and Linux)
 - [XCP-ng](https://xcp-ng.org/) - Virtualization platform based on Xen Source and Citrix® Hypervisor (formerly XenServer). XCP-ng stands for Xen Cloud Platform - New Generation.
-  - [XCP-ng documentation](https://xcp-ng.org/docs/)
+  - [XCP-ng documentation](https://xcp-ng.org/docs)
 - [oVirt](https://www.ovirt.org/) - Free open-source virtualization solution for your entire enterprise
-  - [oVirt documentation](https://www.ovirt.org/documentation/)
-
+  - [oVirt documentation](https://www.ovirt.org/documentation)
+- [Qemu](https://www.qemu.org/) - generic and open source machine emulator and virtualizer.
+  - [Qemu Docs](https://www.qemu.org/docs/master)
+  
  ### Network Tools
 - [Flare-fakenet-ng](https://github.com/fireeye/flare-fakenet-ng) - Next Generation Dynamic Network Analysis Tool.
 - [GNs3-server](https://github.com/GNS3/gns3-server) - The GNS3 server manages emulators such as Dynamips, VirtualBox or Qemu/KVM. [www.gns3.com](https://www.gns3.com/)
