@@ -15,7 +15,9 @@ note to my self, needs sorting
 - [MMM-BackgroundSlideshow](https://github.com/darickc/MMM-BackgroundSlideshow) - Show a slideshow of images in the background. Great for a photo frame from instead of a mirror.
 - [MMM-CalendarWeek](https://github.com/heskja/MMM-CalendarWeek) - Alternative calendar module for MagicMirror.
 - [MMM-ImageSlideshow](https://github.com/AdamMoses-GitHub/MMM-ImageSlideshow) -  Displays images one-at-a-time from local folders.
+- [MMM-page-indicator](https://github.com/edward-shen/MMM-page-indicator) -  MagicMirror² module to display what page you're on.
 - [MMM-Page-Selector](https://github.com/Veldrovive/MMM-Page-Selector) - An easy way to set up and move between pages on a MagicMirror².
+- [MMM-SmartWebDisplay](https://github.com/AgP42/MMM-SmartWebDisplay) - The `MMM-SmartWebDisplay` module is for MagicMirror². It allow to display any web content to your MagicMirror.
 - [MMM-SystemStats](https://github.com/BenRoe/MMM-SystemStats) - A module for the MagicMirror, to display system stats (cpu tmp, free ram, cpu load).
 - [MMM-Voice-Commands](https://github.com/Veldrovive/MMM-Voice-Commands) - A simple voice command module for MagicMirror² that is highly configurable.
 - [MMM-YouTube](https://github.com/Anonym-tsk/MMM-YouTube) - MagicMirror module for youtube player with runtime configuration and controllable by notification.
