@@ -13,6 +13,7 @@ https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/
 - [IntruderPayloads](https://github.com/1N3/IntruderPayloads) - A collection of Burpsuite Intruder payloads, BurpBounty payloads, fuzz lists, malicious file uploads and web pentesting methodologies and checklists.
 - [katoolin3](https://github.com/s-h-3-l-l/katoolin3) - Automatically install all Kali linux tools.
 - [NetELF](https://github.com/XiphosResearch/netelf)
+- [pentest](https://github.com/jivoi/pentest)
 - [SLAE32 Certification Assignments](https://www.phrozen.io/docs/linux/slae32/)
 
 ## Active Directory / Domain
