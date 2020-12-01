@@ -119,7 +119,8 @@ FTest, Lbd, Wafw00f
 
 ## Resources
 - [D00MFist's CTF Notes](https://github.com/D00MFist/security) - collection of notes picked up doing numerous CTFs.
-- [ GoVanguards list-infosec-encyclopedia](https://github.com/GoVanguard/list-infosec-encyclopedia) - A list of information security related awesome lists and other resources. 
+- [GoVanguards list-infosec-encyclopedia](https://github.com/GoVanguard/list-infosec-encyclopedia) - A list of information security related awesome lists and other resources. 
+- [offsec_pdfs](https://github.com/jivoi/offsec_pdfs)
 - [pentest-bookmarks](https://github.com/jhaddix/pentest-bookmarks/blob/master/wiki/BookmarksList.wiki) - collection of handy bookmarks.
 
 ## Script Collections
