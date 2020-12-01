@@ -198,6 +198,8 @@ implementation of the Domain Name System (DNS) protocol.
 - [Terminator](https://github.com/gnome-terminator/terminator) - Useful tool for arranging terminals.
 - [Tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix.
 - [Tilix](https://github.com/gnunn1/tilix/) - A tiling terminal emulator for Linux using GTK+ 3.
+- [Tmux](https://github.com/tmux/tmux) - tmux is a terminal multiplexer: it enables a number of terminals to be created, accessed, and controlled from a single screen.
+  - [Tmux xPanes](https://github.com/greymd/tmux-xpanes) - Create multiple tmux terminals
 - [Windows Terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place.
   - [cascadia-code](https://github.com/microsoft/cascadia-code) - un, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal. 
   ### Bash
