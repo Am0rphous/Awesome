@@ -19,3 +19,6 @@
 - [Mycroft](https://github.com/mycroftai/mycroft-core) - Mycroft is a hackable open source voice assistant.
 
 Note: https://favouriteblog.com/50-best-github-artificial-intelligence/
+
+## Machine Learning
+- [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) - Machine Learning for Cyber Security.
