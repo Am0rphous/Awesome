@@ -64,6 +64,7 @@ FTest, Lbd, Wafw00f
  - [NimScan](https://github.com/elddy/NimScan) - Really fast port scanner (With filtered option - Windows support only).
  
  ### OSINT Analysis
+- [Awesome OSINT](https://github.com/jivoi/awesome-osint) - A curated list of amazingly awesome OSINT.
  ### Route Analysis
  ### SMB Analysis
 - [Enum4Linux]()
