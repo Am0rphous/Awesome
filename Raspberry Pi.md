@@ -13,7 +13,9 @@ note to my self, needs sorting
 ## Magic Mirror
 - [MMM-AlexaControl](https://github.com/JoChef2/MMM-AlexaControl) -  Control your MagicMirror with Alexa.
 - [MMM-BackgroundSlideshow](https://github.com/darickc/MMM-BackgroundSlideshow) - Show a slideshow of images in the background. Great for a photo frame from instead of a mirror.
+- [MMM-Page-Selector](https://github.com/Veldrovive/MMM-Page-Selector) - An easy way to set up and move between pages on a MagicMirror².
 - [MMM-SystemStats](https://github.com/BenRoe/MMM-SystemStats) - A module for the MagicMirror, to display system stats (cpu tmp, free ram, cpu load).
+- [MMM-Voice-Commands](https://github.com/Veldrovive/MMM-Voice-Commands) - A simple voice command module for MagicMirror² that is highly configurable.
 ## Operatingsystems
 - [Raspberry Pi OS](https://www.raspberrypi.org/downloads/raspberry-pi-os/) - (previously called Raspbian)
 - [Noobs](https://www.raspberrypi.org/downloads/noobs/)
