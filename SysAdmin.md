@@ -232,6 +232,7 @@ implementation of the Domain Name System (DNS) protocol.
 - [Bitwarden CLI](https://github.com/bitwarden/cli) - Full-featured command-line interface (CLI) tool to access and manage a Bitwarden vault
 - [Bitwarden Desktop](https://github.com/bitwarden/desktop) - The desktop vault (Windows, macOS, & Linux).
 - [Bitwarden Server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
+- [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server#firewall-with-ufw-uncomplicated-firewall) - An evolving how-to guide for securing a Linux server.
 - [KeePassXC](https://github.com/keepassxreboot/keepassxc) - Open source password manager for Windows, Mac and Linux. [keepassxc.org](https://keepassxc.org)
   - [KeePassXC Browser Extension](https://github.com/keepassxreboot/keepassxc-browser)
 - [SELinux Userspace](https://github.com/SELinuxProject/selinux) - Security Enhanced Linux (SELinux).
