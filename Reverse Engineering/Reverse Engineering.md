@@ -1,13 +1,13 @@
-# Reverse Engineering Tool List
+# Reverse Engineering Tools
 "Reverse engineering, also called backwards engineering or back engineering, is the process by which an artificial object is deconstructed to reveal its designs, architecture, code or to extract knowledge from the object."
 
 For later:
 https://github.com/WebAssembly/wabt
 
-# Awesome
+## Awesome
 - [awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering) - Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT) And Every Aspect! (More than 3500 open source tools and 2300 posts&videos).
 
-# Android
+## Android
 - [alphaSeclab's android-security collection](https://github.com/alphaSeclab/android-security) -  Android Security Resources.
 - [Android Studio](https://developer.android.com/studio) - Provides the fastest tools for building apps on every type of Android device.
   - [IntelliJ Detekt Plugin](https://github.com/detekt/detekt-intellij-plugin) - Integrates detekt, a static code analysis tool for the Kotlin programming language, into IntelliJ.
@@ -28,6 +28,11 @@ https://github.com/WebAssembly/wabt
   ### Blackbox testing
   - [AndroidRipper](https://github.com/reverse-unina/AndroidRipper) - A toolset for the automatic GUI testing of mobile Android Applications. 
   - [Appium](https://github.com/appium/appium) - open-source, cross-platform test automation tool for native, hybrid, and mobile web and desktop apps.
+
+## Binary Analysis
+- [Angr](https://github.com/angr/angr) -  A powerful and user-friendly binary analysis platform.
+  - [Angr Documentation](https://github.com/angr/angr-doc)
+  - [Angr Gui](https://github.com/angr/angr-management) - A GUI for angr.
 
 ## Debugging
 - [Bus Pirate](https://github.com/BusPirate/Bus_Pirate) - open source hacker multi-tool that talks to electronic stuff.
