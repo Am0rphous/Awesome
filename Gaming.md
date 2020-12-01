@@ -9,7 +9,9 @@
 - [www.playOnLinux.com](https://www.playonlinux.com/en/) - [Supported app list](https://www.playonlinux.com/en/supported_apps-1-0.html)
 - [PlayOnLinux4](https://github.com/PlayOnLinux/POL-POM-4) - PlayOnLinux 4 repository
 - [WineTricks](https://github.com/Winetricks/winetricks) - Winetricks is an easy way to work around problems in Wine. [winehq.org](https://wiki.winehq.org/Winetricks)
-- [Game Jolt](https://gamejolt.com/games?os=linux)
+- [gamejolt.com/games?os=linux](https://gamejolt.com/games?os=linux) - Find great games.
+ ### Games
+ - [Warsow - Warsow is Art of Respect and Sportsmanship Over the Web](https://warsow.net/) - Since 2005, Warsow is considered as one of the most skill-demanding games in the fast-paced arena shooter scene.[Discord](https://discord.com/invite/Z9UgZZM)
 
 ## Other
 - [GameMode](https://github.com/FeralInteractive/gamemode) - Optimise Linux system performance on demand
@@ -17,7 +19,7 @@
 - [DOSBox-X](https://github.com/joncampbell123/dosbox-x) - open-source DOS emulator for running DOS games and applications. [dosbox-x.com](https://dosbox-x.com/).
 - [Dosbox-staging](https://github.com/dosbox-staging/dosbox-staging) - Modernized DOSBox soft-fork.
 - [Itch.io](https://itch.io/) - Collection of some of the most unique, interesting, and independent creations you'll find on the web.
-- [Game Jolt](https://gamejolt.com/) - Hosting free and commercial indie games.
+- [gamejolt.com](https://gamejolt.com) - Hosting free and commercial indie games.
 
 ##
-- [OpenRazer](https://openrazer.github.io/) - open source driver and user-space daemon that allows you to manage your Razer peripherals on GNU/Linux.
+- [OpenRazer](https://openrazer.github.io/) - Open source driver and user-space daemon that allows you to manage your Razer peripherals on GNU/Linux.
