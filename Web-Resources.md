@@ -11,6 +11,7 @@
   - [0ffset.net](https://0ffset.net) - IT Security blog
   - [phoronix.com/forums](https://www.phoronix.com/forums)
   - [Planet Virt Tools](https://planet.virt-tools.org) - Blogging about open source virtualization.
+  - [hackingarticles.in](hackingarticles.in) - Raj Chandel's Blog.
   - [techtalk.comodo.com/blog](https://techtalk.comodo.com/blog)
   - [ubuntubuzz.com](https://www.ubuntubuzz.com)
 
@@ -52,11 +53,11 @@
 - [cyberciti.biz](https://www.cyberciti.biz) - Linux / Unix tutorials for new and seasoned sysadmin || developers.
 - [geek-university.com](https://geek-university.com) - Free, high-quality IT tutorials
 - [hackingpassion.com](https://hackingpassion.com)
-- https://www.hackingarticles.in/
 - [landoflinux.com](https://www.landoflinux.com/index.html) - free guides and tutorials for all things Linux.
-- https://itsfoss.com/
-- https://linuxhint.com/
-- https://thehacks.co
+- [itsfoss.com](https://itsfoss.com) - Open source related articles published on It’s FOSS.
+- [linuxhint.com](https://linuxhint.com) - Lots of tutorials
+- [Spyboy blog](https://spyboy.blog) - Learn ethical hacking , cyber security, computer programming, networking, android tricks and windows tricks.
+- [thehacks.co](https://thehacks.co) - Latest Hacking Insights Tips & Guides.
 
 ## IT News
 - [jpcert.or.jp](https://www.jpcert.or.jp/english/) - JPCERT/CC is the first CSIRT (Computer Security Incident Response Team) established in Japan.
