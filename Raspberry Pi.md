@@ -2,8 +2,6 @@
 
 - [Raspberry Pi Alternatives](https://pimylifeup.com/raspberry-pi-alternatives/)
 
-note to my self, needs sorting
-
 ## Ad-block
 - [Blocky](https://github.com/0xERR0R/blocky) - DNS proxy as ad-blocker for local network.
 - [PiHole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements.
@@ -21,7 +19,9 @@ note to my self, needs sorting
 - [MMM-SystemStats](https://github.com/BenRoe/MMM-SystemStats) - A module for the MagicMirror, to display system stats (cpu tmp, free ram, cpu load).
 - [MMM-Voice-Commands](https://github.com/Veldrovive/MMM-Voice-Commands) - A simple voice command module for MagicMirror² that is highly configurable.
 - [MMM-YouTube](https://github.com/Anonym-tsk/MMM-YouTube) - MagicMirror module for youtube player with runtime configuration and controllable by notification.
+
 ## Operatingsystems
+- [Alpine Linux](https://wiki.alpinelinux.org/wiki/Raspberry_Pi)
 - [Raspberry Pi OS](https://www.raspberrypi.org/downloads/raspberry-pi-os/) - (previously called Raspbian)
 - [Noobs](https://www.raspberrypi.org/downloads/noobs/)
 - [Minibian](https://minibianpi.wordpress.com/)
@@ -43,7 +43,7 @@ note to my self, needs sorting
 SUSE Linux Enterprise Server for ARM - https://www.suse.com/products/arm/
 - [OpenMediaVault](https://www.openmediavault.org/)
 - [Chromium OS](https://github.com/FydeOS/chromium_os-raspberry_pi)
-- [Alpine Linux](https://wiki.alpinelinux.org/wiki/Raspberry_Pi)
+
 
 ## OS for gaming
 - [Batocera.linux](https://github.com/batocera-linux/batocera.linux) - . [www.batocera.org](https://batocera.org/)
