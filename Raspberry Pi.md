@@ -13,7 +13,7 @@
 - [MMM-BackgroundSlideshow](https://github.com/darickc/MMM-BackgroundSlideshow) - Show a slideshow of images in the background. Great for a photo frame from instead of a mirror.
 - [MMM-CalendarWeek](https://github.com/heskja/MMM-CalendarWeek) - Alternative calendar module for MagicMirror.
 - [MMM-ImageSlideshow](https://github.com/AdamMoses-GitHub/MMM-ImageSlideshow) -  Displays images one-at-a-time from local folders.
-- [MMM-network-signal](https://github.com/PoOwAa/MMM-network-signal) -  MagicMirror2 solid network status.
+- [MMM-network-signal](https://github.com/PoOwAa/MMM-network-signal) -  Display a solid wifi logo as network signal for MagicMirror2.
 - [MMM-page-indicator](https://github.com/edward-shen/MMM-page-indicator) -  MagicMirror² module to display what page you're on.
 - [MMM-Page-Selector](https://github.com/Veldrovive/MMM-Page-Selector) - An easy way to set up and move between pages on a MagicMirror².
 - [MMM-SmartWebDisplay](https://github.com/AgP42/MMM-SmartWebDisplay) - The `MMM-SmartWebDisplay` module is for MagicMirror². It allow to display any web content to your MagicMirror.

@@ -53,6 +53,7 @@
 - [geek-university.com](https://geek-university.com) - Free, high-quality IT tutorials
 - [hackingpassion.com](https://hackingpassion.com)
 - https://www.hackingarticles.in/
+- [landoflinux.com](https://www.landoflinux.com/index.html) - free guides and tutorials for all things Linux.
 - https://itsfoss.com/
 - https://linuxhint.com/
 - https://thehacks.co
