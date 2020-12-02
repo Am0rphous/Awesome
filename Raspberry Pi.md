@@ -2,13 +2,13 @@
 
 - [Raspberry Pi Alternatives](https://pimylifeup.com/raspberry-pi-alternatives/)
 
-## Ad-block
+## Ad-block software
 - [Blocky](https://github.com/0xERR0R/blocky) - DNS proxy as ad-blocker for local network.
 - [PiHole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements.
   - [Docker Pi-hole](https://github.com/pi-hole/docker-pi-hole) -  Pi-hole in a docker container.
 - [AdGuard](https://github.com/AdguardTeam/AdguardHome) - Network-wide ads & trackers blocking DNS server.
 
-## Magic Mirror
+## Magic Mirror repos
 - [MMM-AlexaControl](https://github.com/JoChef2/MMM-AlexaControl) -  Control your MagicMirror with Alexa.
 - [MMM-BackgroundSlideshow](https://github.com/darickc/MMM-BackgroundSlideshow) - Show a slideshow of images in the background. Great for a photo frame from instead of a mirror.
 - [MMM-CalendarWeek](https://github.com/heskja/MMM-CalendarWeek) - Alternative calendar module for MagicMirror.
@@ -21,7 +21,7 @@
 - [MMM-Voice-Commands](https://github.com/Veldrovive/MMM-Voice-Commands) - A simple voice command module for MagicMirror² that is highly configurable.
 - [MMM-YouTube](https://github.com/Anonym-tsk/MMM-YouTube) - MagicMirror module for youtube player with runtime configuration and controllable by notification.
 
-## Operatingsystems
+## Different Operatingsystems to run on Raspberry
 - [Alpine Linux](https://wiki.alpinelinux.org/wiki/Raspberry_Pi)
 - [Chromium OS](https://github.com/FydeOS/chromium_os-raspberry_pi)
 - [Home Assistant Operating System](https://github.com/home-assistant/operating-system)
@@ -44,8 +44,20 @@
 - [WebThings Gateway](https://iot.mozilla.org/gateway/) - An open platform for monitoring and controlling devices over the web.
 - [Windows IoT Core](https://www.microsoft.com/en-us/software-download/windows10iotcore)
 
-## OS for gaming
+### Operatingsystems for gaming
 - [Batocera.linux](https://github.com/batocera-linux/batocera.linux) - [www.batocera.org](https://batocera.org)
 - [Lakka](https://github.com/libretro/Lakka-LibreELEC) - Lakka is a lightweight Linux distribution that transforms a small computer into a full blown retrogaming console [lakka.tv](http://www.lakka.tv).
 - [Retro Arch](https://github.com/libretro/RetroArch) - RetroArch is a frontend for emulators, game engines and media players [www.retroarch.com](https://www.retroarch.com).
 - [RetroPie](https://retropie.org.uk/) - RetroPie allows you to turn your Raspberry Pi, ODroid C1/C2, or PC into a retro-gaming machine [RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup).
+
+## Projects
+### Weather Station
+- [Linux Weather Station Tutorial/inspo](https://www.landoflinux.com/linux_raspberry_pi_weather_station.html) - how to set up a Weather Station and a Raspberry Pi.
+  - [WeeWX](http://weewx.com) - free, open source, software program, written in Python, which interacts with your weather station to produce graphs, reports, and HTML pages.
+  - [WX Forum](https://www.wxforum.net/)
+
+
+
+
+
+
