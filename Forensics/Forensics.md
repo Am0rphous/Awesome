@@ -1,5 +1,6 @@
 # Forensics
-- [awesome-forensics](https://github.com/alphaSeclab/awesome-forensics) - Awesome Forensics Resources. Almost 300 open source forensics tools, and 600 blog posts about forensics. 
+- [Awesome Forensics](https://github.com/alphaSeclab/awesome-forensics) - Awesome Forensics Resources. Almost 300 open source forensics tools, and 600 blog posts about forensics. 
+- [CppCheck](https://github.com/danmar/cppcheck) -  static analysis of C/C++ code.
 
 ## Analysis of Office Documents
 - [officeparser.py](https://github.com/unixfreak0037/officeparser) - Extract embedded files and macros from office documents. 
