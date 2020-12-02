@@ -71,9 +71,11 @@ Note: https://www.findbestopensource.com/projects
 ## Games
 - [Games on Github](https://github.com/leereilly/games) - A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine. 
 
-## IDE - Integrated Development Environment
+## IDE (Integrated Development Environment) and programming
 PyCharm, Spyder, Sublime, Jupyter, Atom, Python IDLE, VSCode, Wing, Thonny PyDev
--[Github Desktop](https://github.com/desktop/desktop) - open source Electron-based GitHub app. It is written in TypeScript and uses React. [desktop.github.com/](https://desktop.github.com/)
+
+- [CppCheck](https://github.com/danmar/cppcheck) -  static analysis of C/C++ code.
+- [Github Desktop](https://github.com/desktop/desktop) - open source Electron-based GitHub app. It is written in TypeScript and uses React [desktop.github.com/](https://desktop.github.com).
 
 ## InfoSec
 - [academy.attackiq.com](https://academy.attackiq.com)
