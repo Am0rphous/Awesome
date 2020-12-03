@@ -1,8 +1,12 @@
 
 ## Operating systems
-- [ClearOS Community Edition](https://www.clearos.com/clearfoundation/software/clearos-downloads) - OS for your Server, Network, and Gateway Systemsbased on CentOS and Red Hat Enterprise Linux. [www.clearos.com](https://www.clearos.com)
+
+- [archiveos.org](https://archiveos.org) - Arhive of Operating Systems with Linux, BSD, DOS, Solaris and others.
+- [ClearOS Community Edition](https://www.clearos.com/clearfoundation/software/clearos-downloads) - OS for your Server, Network, and Gateway. Systems based on CentOS and Red Hat Enterprise Linux. [www.clearos.com](https://www.clearos.com)
+  - [Clear OS Knowledge Base](https://documentation.clearos.com/index:kb)
 
 ## IoT, embedded devices, tablets
+- [Ubunt Server](https://ubuntu.com)
 - [Ubuntu Touch](https://ubuntu-touch.io/get-ubuntu-touch)
 
 ## Router and Firewall
@@ -16,13 +20,13 @@
 - [Manjaro](https://manjaro.org/)
 - [Solus](https://getsol.us/home/)
 - SUSE Linux Enterprise Desktop
-- [Ubunt Desktop](https://ubuntu.com/) - Cloud, servers, IoT, desktop
+- [Ubunt Desktop](https://ubuntu.com/) - Cloud, servers, IoT, desktop.
 - [Qubes OS](https://www.qubes-os.org/downloads/) - Best Linux OS Designed for Maximum Security
 
 ## Server
 - [CentOS](https://www.centos.org/) - Community Enterprise Operating System for servers, workstations and desktop. Based on Red Hat Enterprise Linux.
 - SUSE Linux Enterprise Server
-- [Ubunt Server](https://ubuntu.com/) - Cloud, servers, IoT, desktop
+- [Ubunt Server](https://ubuntu.com) - Cloud, servers, IoT, desktop.
 
 ### Penetration Testing
 - [BlackArch](https://www.blackarch.org/) - BlackArch Linux is an Arch Linux-based penetration testing distribution for penetration testers and security researchers.
