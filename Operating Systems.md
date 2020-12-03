@@ -23,6 +23,21 @@
 - [Ubunt Desktop](https://ubuntu.com/) - Cloud, servers, IoT, desktop.
 - [Qubes OS](https://www.qubes-os.org/downloads/) - Best Linux OS Designed for Maximum Security
 
+ ### Most beautiful Linux Distributions 2020 (It is in alphabetic order btw)
+  - [Deepin](https://www.deepin.org/en/) - based on Debian, features DDE, the Deepin Desktop Environment, built on Qt.
+    - Be aware: There is conserns about analytics collected by Deepin that are sent to the Chinese government.
+    - [Article: Deepin Linux: Security Threat or Safe to Use?](https://linuxinsider.com/story/deepin-linux-security-threat-or-safe-to-use-86044.html)
+ - [Elementary OS](https://elementary.io/) - Good alternative for Windows and Mac.
+ - [feren OS](https://ferenos.weebly.com/)
+ - [eXtern OS](https://externos.io/)
+ - [KDE Neon](https://neon.kde.org)
+ - [KDE Plasma](https://kde.org/)
+ - [Manjaro](https://manjaro.org/)
+ - [Nitrux OS](https://nxos.org/)
+ - [Pop!_OS](https://pop.system76.com/)
+ - [Solus OS](https://getsol.us/home/)
+ - [Zorin OS](https://zorinos.com/)
+ 
 ## Server
 - [CentOS](https://www.centos.org/) - Community Enterprise Operating System for servers, workstations and desktop. Based on Red Hat Enterprise Linux.
 - SUSE Linux Enterprise Server
