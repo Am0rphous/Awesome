@@ -319,5 +319,7 @@ implementation of the Domain Name System (DNS) protocol.
 - [NginX](https://nginx.org/en/) - an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server.
 - [Sanstorm](https://sandstorm.io/) - Sandstorm is an open source platform for self-hosting web apps
 - [Wordpress Comment Blacklist](https://github.com/splorp/wordpress-comment-blacklist) - A simple solution for WordPress comment spam.
-
+  ### Analytics
+  - [Matomo Web Analytics](https://matomo.org) - "_Google Analytics alternative that protects your data and your customers' privacy_" [matomo.org](https://matomo.org/).
+    - [Matamo Analytics for Wordpress](https://wordpress.org/plugins/matomo/)
 
