@@ -108,6 +108,7 @@ bro / zeek
 
 ## Chat / Communication
 - [Convos](https://convos.chat)
+- [HexChat](https://github.com/hexchat/hexchat) - IRC client for Windows and UNIX-like operating systems [hexchat.github.io](https://hexchat.github.io)
 - [Kiwi IRC](https://kiwiirc.com)
 - [Neochat](https://github.com/KDE/neochat) - A client for matrix, the decentralized communication protoco.
 - [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app.
@@ -129,6 +130,7 @@ bro / zeek
 
 ## File Sharing
 - [Muon SSH Terminal/SFTP client (Formerly Snowflake)](https://github.com/subhra74/snowflake) -  Graphical SFTP client and terminal emulator with helpful utilities.
+- [OnionShare](https://github.com/micahflee/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network [onionshare.org](https://onionshare.org).
 - [Warpinator](https://github.com/linuxmint/warpinator) - Share files across the LAN 
 
 ## IDS, HIDS and IPS
