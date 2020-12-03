@@ -34,6 +34,7 @@
 - [Remoting](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#remoting)
 - [VPN - Virtual Private Network](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#vpn---virtual-private-network)
 - [Web / Proxy](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#web--proxy)
+  - [Web Analytics](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#web-analytics)
 
 
 Samhain Labs, https://www.la-samhna.de/services.html, docs: https://la-samhna.de/samhain/s_documentation.html
@@ -319,7 +320,8 @@ implementation of the Domain Name System (DNS) protocol.
 - [NginX](https://nginx.org/en/) - an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server.
 - [Sanstorm](https://sandstorm.io/) - Sandstorm is an open source platform for self-hosting web apps
 - [Wordpress Comment Blacklist](https://github.com/splorp/wordpress-comment-blacklist) - A simple solution for WordPress comment spam.
-  ### Analytics
+  ### Web Analytics
   - [Matomo Web Analytics](https://matomo.org) - "_Google Analytics alternative that protects your data and your customers' privacy_" [matomo.org](https://matomo.org/).
     - [Matamo Analytics for Wordpress](https://wordpress.org/plugins/matomo/)
+    - [Tutorial: Install Matomo Web Analytics (Piwik) on Ubuntu 20.04 with Apache/Nginx](https://www.linuxbabe.com/ubuntu/install-matomo-web-analytics-piwik-ubuntu-20-04-apache-nginx)
 
