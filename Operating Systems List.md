@@ -5,8 +5,8 @@
  2. [IoT, embedded devices, tablets](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#iot-embedded-devices-tablets)
  3. [Router and Firewall OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#router-and-firewall-oses)
  4. [Desktop OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#desktop-oses)
-  4.1 [Most beautiful Linux Distributions 2020 (alphabetic order)](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#most-beautiful-linux-distributions-2020-alphabetic-order)
-  4.2 [Privacy focused OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#privacy-focused-oses)
+   4.1 [Most beautiful Linux Distributions 2020 (alphabetic order)](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#most-beautiful-linux-distributions-2020-alphabetic-order)
+   4.2 [Privacy focused OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#privacy-focused-oses)
  5. [Server OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#server-oses)
  6. [Pen-testing and security auditing](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#pen-testing-and-security-auditing)
 
