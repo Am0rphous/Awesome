@@ -2,14 +2,20 @@
 # Operating systems
 
 List
+- [A list of web resources]()
 - [IoT, embedded devices, tablets](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#iot-embedded-devices-tablets)
-- [Router and Firewall OS]()
-- [Desktop OS]()
+- [Router and Firewall OSes]()
+- [Desktop OSes]()
   - [Most beautiful Linux Distributions 2020 (alphabetic order)]()
   - [Privacy]()
-- [Server]()
-- [en-testing and security auditing]()
+- [Server OSes]()
+- [Pen-testing and security auditing]()
 
+
+
+
+
+## A list of web resources
 - [archiveos.org](https://archiveos.org) - Arhive of Operating Systems with Linux, BSD, DOS, Solaris and others.
 - [DistroWatch.com](https://distrowatch.com/)
 
@@ -19,14 +25,14 @@ List
 - [Ubunt Server](https://ubuntu.com)
 - [Ubuntu Touch](https://ubuntu-touch.io/get-ubuntu-touch)
 
-## Router and Firewall OS
+## Router and Firewall OSes
 - [IPFire](https://www.ipfire.org/) - IPFire is a hardened, versatile, state-of-the-art Open Source firewall based on Linux.
 - [OpenWrt](https://openwrt.org/) - OpenWrt is an open source project for embedded operating systems based on Linux, primarily used on embedded devices to route network traffic.
 - [OPNsense](https://opnsense.org/) - Open source, easy-to-use and easy-to-build HardenedBSD based firewall and routing platform. 
 - [PFsense](https://www.pfsense.org) - Open source firewall/router computer software distribution based on FreeBSD.
 - [Zeroshell Linux Router](https://zeroshell.org/) - Routing and Bridging Firewall Solutions.
 
-## Desktop OS
+## Desktop OSes
 - [Debian](https://www.debian.org)
 - [Fedora Workstation](https://getfedora.org/en/workstation)
 - [Manjaro](https://manjaro.org/)
@@ -68,7 +74,7 @@ List
 | 8. South Africa | | |
 | 9. United Kingom | | |
  
-## Server
+## Server OSes
 - [Arch Linux](https://www.archlinux.org/)
 - [CentOS](https://www.centos.org/) - Community Enterprise Operating System for servers, workstations and desktop. Based on Red Hat Enterprise Linux.
 - [ClearOS Community Edition](https://www.clearos.com/clearfoundation/software/clearos-downloads) - OS for your Server, Network, and Gateway. Systems based on CentOS and Red Hat Enterprise Linux. [www.clearos.com](https://www.clearos.com)
