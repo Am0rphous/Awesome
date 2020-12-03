@@ -8,6 +8,11 @@
   - [Docker Pi-hole](https://github.com/pi-hole/docker-pi-hole) -  Pi-hole in a docker container.
 - [AdGuard](https://github.com/AdguardTeam/AdguardHome) - Network-wide ads & trackers blocking DNS server.
 
+## Home Automation Systems
+- [Domoticz](https://github.com/domoticz/domoticz) - Lets you monitor and configure various devices like: Lights, Switches, various sensors/meters like Temperature, Rain, Wind, UV, Electra, Gas, Water and much more.
+- [Home-assistant's operating-system](https://github.com/home-assistant/operating-system) - Operating System (formerly HassOS) is an operating system optimized for hosting [Home Assistant](https://www.home-assistant.io) and its [Add-ons](https://www.home-assistant.io/addons)
+  - [Installation on Docker](https://www.home-assistant.io/docs/installation/docker/)
+
 ## Magic Mirror repos
 - [MMM-AVStock](https://github.com/lavolp3/MMM-AVStock) -  MagicMirror module for displaying stock price with Alphavantage API.
 - [MMM-AlexaControl](https://github.com/JoChef2/MMM-AlexaControl) -  Control your MagicMirror with Alexa.
@@ -46,11 +51,11 @@
 - [WebThings Gateway](https://iot.mozilla.org/gateway/) - An open platform for monitoring and controlling devices over the web.
 - [Windows IoT Core](https://www.microsoft.com/en-us/software-download/windows10iotcore)
 
-### Operatingsystems for gaming
-- [Batocera.linux](https://github.com/batocera-linux/batocera.linux) - [www.batocera.org](https://batocera.org)
-- [Lakka](https://github.com/libretro/Lakka-LibreELEC) - Lakka is a lightweight Linux distribution that transforms a small computer into a full blown retrogaming console [lakka.tv](http://www.lakka.tv).
-- [Retro Arch](https://github.com/libretro/RetroArch) - RetroArch is a frontend for emulators, game engines and media players [www.retroarch.com](https://www.retroarch.com).
-- [RetroPie](https://retropie.org.uk/) - RetroPie allows you to turn your Raspberry Pi, ODroid C1/C2, or PC into a retro-gaming machine [RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup).
+ ### Operatingsystems for gaming
+   - [Batocera.linux](https://github.com/batocera-linux/batocera.linux) - [www.batocera.org](https://batocera.org)
+   - [Lakka](https://github.com/libretro/Lakka-LibreELEC) - Lakka is a lightweight Linux distribution that transforms a small computer into a full blown retrogaming console [lakka.tv](http://www.lakka.tv).
+   - [Retro Arch](https://github.com/libretro/RetroArch) - RetroArch is a frontend for emulators, game engines and media players [www.retroarch.com](https://www.retroarch.com).
+   - [RetroPie](https://retropie.org.uk/) - RetroPie allows you to turn your Raspberry Pi, ODroid C1/C2, or PC into a retro-gaming machine [RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup).
 
 ## Projects
 ### Weather Station
