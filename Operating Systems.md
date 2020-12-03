@@ -47,15 +47,15 @@
  
 | Key discolsure laws apply | Key disclosure may apply | Key disclosure laws don't apply |
 | ------------------------- | -------------------------|-------------------------------- |
-| Antigua and Barbuda | Belgium | Czech Republic |
-| Australia | Finland | Poland |
-| Canada | New Zealand (unclear) | Germany |
-| France | Sweden (proposed) | |
-| India | The Netherlands | |
-| Norway | United States | |
-| Russia | | |
-| South Africa | | |
-| United Kingom | | |
+| 1. Antigua and Barbuda | 1. Belgium | 1. Czech Republic |
+| 2. Australia | 2. Finland | 2. Poland |
+| 3. Canada | 3. New Zealand (unclear) | 3.Germany |
+| 4. France | 4. Sweden (proposed) | |
+| 5. India | 5. The Netherlands | |
+| 6. Norway | 6. United States | |
+| 7. Russia | | |
+| 8. South Africa | | |
+| 9. United Kingom | | |
  
 ## Server
 - [CentOS](https://www.centos.org/) - Community Enterprise Operating System for servers, workstations and desktop. Based on Red Hat Enterprise Linux.
