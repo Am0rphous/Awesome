@@ -1,11 +1,11 @@
 
-## Operating systems
+# Operating systems
 
 - [archiveos.org](https://archiveos.org) - Arhive of Operating Systems with Linux, BSD, DOS, Solaris and others.
-- [ClearOS Community Edition](https://www.clearos.com/clearfoundation/software/clearos-downloads) - OS for your Server, Network, and Gateway. Systems based on CentOS and Red Hat Enterprise Linux. [www.clearos.com](https://www.clearos.com)
-  - [Clear OS Knowledge Base](https://documentation.clearos.com/index:kb)
+- [DistroWatch.com](https://distrowatch.com/)
 
 ## IoT, embedded devices, tablets
+- [Fedora IoT](https://getfedora.org/en/iot/)
 - [LineageOS Android Distribution]()
 - [Ubunt Server](https://ubuntu.com)
 - [Ubuntu Touch](https://ubuntu-touch.io/get-ubuntu-touch)
@@ -18,9 +18,10 @@
 - [Zeroshell Linux Router](https://zeroshell.org/) - Routing and Bridging Firewall Solutions.
 
 ## Desktop
+- [Debian](https://www.debian.org)
+- [Fedora Workstation](https://getfedora.org/en/workstation)
 - [Manjaro](https://manjaro.org/)
 - [Solus](https://getsol.us/home/)
-- SUSE Linux Enterprise Desktop
 - [Ubunt Desktop](https://ubuntu.com/) - Cloud, servers, IoT, desktop.
 - [Qubes OS](https://www.qubes-os.org/downloads/) - Best Linux OS Designed for Maximum Security
 
@@ -59,8 +60,14 @@
 | 9. United Kingom | | |
  
 ## Server
+- [Arch Linux](https://www.archlinux.org/)
 - [CentOS](https://www.centos.org/) - Community Enterprise Operating System for servers, workstations and desktop. Based on Red Hat Enterprise Linux.
-- SUSE Linux Enterprise Server
+- [ClearOS Community Edition](https://www.clearos.com/clearfoundation/software/clearos-downloads) - OS for your Server, Network, and Gateway. Systems based on CentOS and Red Hat Enterprise Linux. [www.clearos.com](https://www.clearos.com)
+  - [Clear OS Knowledge Base](https://documentation.clearos.com/index:kb)
+- [Debian](https://www.debian.org)
+- [Fedora Server](https://getfedora.org/en/server)
+- [FreeNAS OS](https://www.freenas.org)
+- [TrueNAS](https://www.truenas.com)
 - [Ubunt Server](https://ubuntu.com) - Cloud, servers, IoT, desktop.
 
 ### Penetration Testing
