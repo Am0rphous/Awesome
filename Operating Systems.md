@@ -6,6 +6,7 @@
   - [Clear OS Knowledge Base](https://documentation.clearos.com/index:kb)
 
 ## IoT, embedded devices, tablets
+- [LineageOS Android Distribution]()
 - [Ubunt Server](https://ubuntu.com)
 - [Ubuntu Touch](https://ubuntu-touch.io/get-ubuntu-touch)
 
@@ -37,6 +38,24 @@
  - [Pop!_OS](https://pop.system76.com/)
  - [Solus OS](https://getsol.us/home/)
  - [Zorin OS](https://zorinos.com/)
+ 
+ ### Privacy
+ "Key disclosure laws, also known as mandatory key disclosure, is legislation that requires individuals to surrender cryptographic keys to law enforcement. The purpose is to allow access to material for confiscation or digital forensics purposes and use it either as evidence in a court of law or to enforce national security interests." [Wikipedia](https://en.wikipedia.org/wiki/Key_disclosure_law).
+ - [Tailes]()
+ - [Qubes]()
+ - [Whoonix]()
+ 
+| Key discolsure laws apply | Key disclosure may apply | Key disclosure laws don't apply |
+| ------------------------- | -------------------------|-------------------------------- |
+| Antigua and Barbuda | Belgium | Czech Republic |
+| Australia | Finland | Poland |
+| Canada | New Zealand (unclear) | Germany |
+| France | Sweden (proposed) | |
+| India | The Netherlands | |
+| Norway | United States | |
+| Russia | | |
+| South Africa | | |
+| United Kingom | | |
  
 ## Server
 - [CentOS](https://www.centos.org/) - Community Enterprise Operating System for servers, workstations and desktop. Based on Red Hat Enterprise Linux.
