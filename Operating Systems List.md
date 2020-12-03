@@ -1,15 +1,14 @@
 
 # Operating systems
 
-List
-- [A list of web resources]()
-- [IoT, embedded devices, tablets](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#iot-embedded-devices-tablets)
-- [Router and Firewall OSes]()
-- [Desktop OSes]()
-  - [Most beautiful Linux Distributions 2020 (alphabetic order)]()
-  - [Privacy]()
-- [Server OSes]()
-- [Pen-testing and security auditing]()
+1. [A list of web resources](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#a-list-of-web-resources)
+2. [IoT, embedded devices, tablets](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#iot-embedded-devices-tablets)
+3. [Router and Firewall OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#router-and-firewall-oses)
+4. [Desktop OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#desktop-oses)
+  4.1 [Most beautiful Linux Distributions 2020 (alphabetic order)](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#most-beautiful-linux-distributions-2020-alphabetic-order)
+  4.2 [Privacy focused OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#privacy-focused-oses)
+5. [Server OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#server-oses)
+6. [Pen-testing and security auditing](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#pen-testing-and-security-auditing)
 
 
 
@@ -55,7 +54,7 @@ List
  - [Solus OS](https://getsol.us/home/)
  - [Zorin OS](https://zorinos.com/)
  
- ### Privacy
+ ### Privacy focused OSes
 
  - [Tailes](https://tails.boum.org) - Portable operating system that protects against surveillance and censorship
  - [Qubes OS](https://www.qubes-os.org) - Edward Snowden said in a [Twitter message](https://twitter.com/Snowden/status/781493632293605376) "If you're serious about security, [@QubesOS](https://twitter.com/QubesOS) is the best OS available today. It's what I use, and free. Nobody does VM isolation better."
