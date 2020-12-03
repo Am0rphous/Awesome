@@ -1,6 +1,9 @@
 
 # Operating systems
 
+List
+- [IoT, embedded devices, tablets]()
+
 - [archiveos.org](https://archiveos.org) - Arhive of Operating Systems with Linux, BSD, DOS, Solaris and others.
 - [DistroWatch.com](https://distrowatch.com/)
 
