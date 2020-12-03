@@ -1,4 +1,6 @@
-## Artificial Intelligence
+# Artificial Intelligence Resources
+
+
 - [AI Cheatsheets](https://github.com/kailashahirwar/cheatsheets-ai) - Essential Cheat Sheets for deep learning and machine learning researchers.
 - [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2020.
 - [AIMA3e-Java (JDK 8+)](https://github.com/aimacode/aima-java) - Java implementation of algorithms from Russell And Norvig's "Artificial Intelligence - A Modern Approach" 
@@ -14,6 +16,7 @@
 - [Snake](https://github.com/chuyangliu/snake) - Artificial intelligence for the Snake game. 
 - [StringSifter](https://github.com/fireeye/stringsifter) - A machine learning tool that ranks strings based on their relevance for malware analysis.
 - [SUSI.AI server backend](https://github.com/fossasia/susi_server) - the Artificial Intelligence server for personal assistants.
+- [Transformers](https://github.com/huggingface/transformers) - Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
 
 ## AI Assistant
 - [Mycroft](https://github.com/mycroftai/mycroft-core) - Mycroft is a hackable open source voice assistant.
