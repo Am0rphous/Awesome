@@ -2,7 +2,13 @@
 # Operating systems
 
 List
-- [IoT, embedded devices, tablets]()
+- [IoT, embedded devices, tablets](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#iot-embedded-devices-tablets)
+- [Router and Firewall OS]()
+- [Desktop OS]()
+  - [Most beautiful Linux Distributions 2020 (alphabetic order)]()
+  - [Privacy]()
+- [Server]()
+- [en-testing and security auditing]()
 
 - [archiveos.org](https://archiveos.org) - Arhive of Operating Systems with Linux, BSD, DOS, Solaris and others.
 - [DistroWatch.com](https://distrowatch.com/)
@@ -13,14 +19,14 @@ List
 - [Ubunt Server](https://ubuntu.com)
 - [Ubuntu Touch](https://ubuntu-touch.io/get-ubuntu-touch)
 
-## Router and Firewall
+## Router and Firewall OS
 - [IPFire](https://www.ipfire.org/) - IPFire is a hardened, versatile, state-of-the-art Open Source firewall based on Linux.
 - [OpenWrt](https://openwrt.org/) - OpenWrt is an open source project for embedded operating systems based on Linux, primarily used on embedded devices to route network traffic.
 - [OPNsense](https://opnsense.org/) - Open source, easy-to-use and easy-to-build HardenedBSD based firewall and routing platform. 
 - [PFsense](https://www.pfsense.org) - Open source firewall/router computer software distribution based on FreeBSD.
 - [Zeroshell Linux Router](https://zeroshell.org/) - Routing and Bridging Firewall Solutions.
 
-## Desktop
+## Desktop OS
 - [Debian](https://www.debian.org)
 - [Fedora Workstation](https://getfedora.org/en/workstation)
 - [Manjaro](https://manjaro.org/)
@@ -28,7 +34,7 @@ List
 - [Ubunt Desktop](https://ubuntu.com/) - Cloud, servers, IoT, desktop.
 - [Qubes OS](https://www.qubes-os.org/downloads/) - Best Linux OS Designed for Maximum Security
 
- ### Most beautiful Linux Distributions 2020 (It is in alphabetic order btw)
+ ### Most beautiful Linux Distributions 2020 (alphabetic order)
   - [Deepin](https://www.deepin.org/en/) - based on Debian, features DDE, the Deepin Desktop Environment, built on Qt.
     - Be aware: There is conserns about analytics collected by Deepin that are sent to the Chinese government.
     - [Article: Deepin Linux: Security Threat or Safe to Use?](https://linuxinsider.com/story/deepin-linux-security-threat-or-safe-to-use-86044.html)
@@ -73,7 +79,7 @@ List
 - [TrueNAS](https://www.truenas.com)
 - [Ubunt Server](https://ubuntu.com) - Cloud, servers, IoT, desktop.
 
-### Penetration Testing
+### Pen-testing and security auditing
 - [BlackArch](https://www.blackarch.org/) - BlackArch Linux is an Arch Linux-based penetration testing distribution for penetration testers and security researchers.
 - [Kali](https://www.kali.org/) - Advanced Penetration Testing Distribution.
 - [Parrot](https://www.parrotsec.org/) - designed for penetration testing, vulnerability assessment and mitigation, computer forensics and anonymous web browsing. 
