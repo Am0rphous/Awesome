@@ -8,6 +8,7 @@
   - [githacktools.blogspot.com](https://githacktools.blogspot.com)
   - [hackforums.net](https://hackforums.net)
   - [leakzone.net](https://leakzone.net)
+  - [linuxbabe Community](https://community.linuxbabe.com)
   - [0ffset.net](https://0ffset.net) - IT Security blog
   - [phoronix.com/forums](https://www.phoronix.com/forums)
   - [Planet Virt Tools](https://planet.virt-tools.org) - Blogging about open source virtualization.
