@@ -9,6 +9,7 @@
 - [AdGuard](https://github.com/AdguardTeam/AdguardHome) - Network-wide ads & trackers blocking DNS server.
 
 ## Magic Mirror repos
+- [MMM-AVStock](https://github.com/lavolp3/MMM-AVStock) -  MagicMirror module for displaying stock price with Alphavantage API.
 - [MMM-AlexaControl](https://github.com/JoChef2/MMM-AlexaControl) -  Control your MagicMirror with Alexa.
 - [MMM-BackgroundSlideshow](https://github.com/darickc/MMM-BackgroundSlideshow) - Show a slideshow of images in the background. Great for a photo frame from instead of a mirror.
 - [MMM-CalendarWeek](https://github.com/heskja/MMM-CalendarWeek) - Alternative calendar module for MagicMirror.
@@ -16,6 +17,7 @@
 - [MMM-network-signal](https://github.com/PoOwAa/MMM-network-signal) -  Display a solid wifi logo as network signal for MagicMirror2.
 - [MMM-page-indicator](https://github.com/edward-shen/MMM-page-indicator) -  MagicMirror² module to display what page you're on.
 - [MMM-Page-Selector](https://github.com/Veldrovive/MMM-Page-Selector) - An easy way to set up and move between pages on a MagicMirror².
+- [MMM-Traffic](https://github.com/SamLewis0602/MMM-Traffic) - It uses the Google Maps Directions API to get current commute time using current and past traffic conditions. 
 - [MMM-SmartWebDisplay](https://github.com/AgP42/MMM-SmartWebDisplay) - The `MMM-SmartWebDisplay` module is for MagicMirror². It allow to display any web content to your MagicMirror.
 - [MMM-SystemStats](https://github.com/BenRoe/MMM-SystemStats) - A module for the MagicMirror, to display system stats (cpu tmp, free ram, cpu load).
 - [MMM-Voice-Commands](https://github.com/Veldrovive/MMM-Voice-Commands) - A simple voice command module for MagicMirror² that is highly configurable.
