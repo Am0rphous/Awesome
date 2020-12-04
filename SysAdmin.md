@@ -112,6 +112,7 @@ bro / zeek
 ## Chat / Communication
 - [Convos](https://convos.chat)
 - [HexChat](https://github.com/hexchat/hexchat) - IRC client for Windows and UNIX-like operating systems [hexchat.github.io](https://hexchat.github.io)
+- [Jitsi Meet](https://github.com/jitsi/jitsi-meet) - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [Kiwi IRC](https://kiwiirc.com)
 - [Neochat](https://github.com/KDE/neochat) - A client for matrix, the decentralized communication protoco.
 - [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app.
