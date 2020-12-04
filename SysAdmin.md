@@ -13,6 +13,7 @@
 - [Ebooks and PDFs](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#ebooks-and-pdfs)
 - [File Sharing](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#file-sharing)
 - [IDS, HIDS and IPS](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#ids-hids-and-ips)
+  - [Firewall](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#firewall)
 - [LDAP](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#ldap)
 - [Mail](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#mail)
 - [Monitoring](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#monitoring)
@@ -147,6 +148,7 @@ bro / zeek
 - [Snort3](https://github.com/snort3/snort3) - next generation Snort IPS (Intrusion Prevention System). [snort.org](https://snort.org/)
   - [snort-rules (unofficial)](https://github.com/codecat007/snort-rules) - An UNOFFICIAL Git Repository of Snort Rules(IDS rules) Releases. 
 - [Splunk Home](https://ethicalhackingguru.com/splunk-free-home/) - Restricted to 500 megabyte / day.
+- [SSHGuard](https://bitbucket.org/sshguard/sshguard/src/master/) - "_ protects hosts from brute-force attacks against SSH and other services. It aggregates system logs and blocks repeat offenders using one of several firewall backends._" [https://www.sshguard.net/]().
 - [Suricata](https://github.com/OISF/suricata) - Suricata is a network IDS, IPS and NSM engine. [suricata-ids.org](https://suricata-ids.org/)
   - [Suricata PT Open Ruleset](https://github.com/ptresearch/AttackDetection) - Attack Detection.
 - [Teler](https://github.com/kitabisa/teler) -  Real-time HTTP Intrusion Detection.
