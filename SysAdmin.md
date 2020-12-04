@@ -25,6 +25,7 @@
 - [Terminal / Shell](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#terminal--shell)
   - [Bash](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#bash)
 - [Security](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#security)
+  - [Security Tutorials](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#security-tutorials)
 - [Scripting](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#scripting)
 - [Utilities](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#utilities)
 - [Virtualization](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#virtualization)
@@ -235,17 +236,20 @@ implementation of the Domain Name System (DNS) protocol.
   - [Oh My Bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. [ohmybash.github.io](https://ohmybash.github.io/)
 
 ## Security
-- [40 Linux Server Hardening Security Tips [2019 edition]](https://www.cyberciti.biz/tips/linux-security.html)
 - [Acme-tiny](https://github.com/diafygi/acme-tiny) - A tiny script to issue and renew TLS certs from Let's Encrypt.
 - [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) - Machine Learning for Cyber Security.
 - [Bitwarden CLI](https://github.com/bitwarden/cli) - Full-featured command-line interface (CLI) tool to access and manage a Bitwarden vault
 - [Bitwarden Desktop](https://github.com/bitwarden/desktop) - The desktop vault (Windows, macOS, & Linux).
 - [Bitwarden Server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
-- [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server#firewall-with-ufw-uncomplicated-firewall) - An evolving how-to guide for securing a Linux server.
+
 - [KeePassXC](https://github.com/keepassxreboot/keepassxc) - Open source password manager for Windows, Mac and Linux. [keepassxc.org](https://keepassxc.org)
   - [KeePassXC Browser Extension](https://github.com/keepassxreboot/keepassxc-browser)
 - [SELinux Userspace](https://github.com/SELinuxProject/selinux) - Security Enhanced Linux (SELinux).
-
+ ### Security Tutorials
+  - [40 Linux Server Hardening Security Tips [2019 edition]](https://www.cyberciti.biz/tips/linux-security.html)
+  - [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server#firewall-with-ufw-uncomplicated-firewall) - An evolving how-to guide for securing a Linux server.
+  - [Set Up Automatic Security Update on Ubuntu](https://www.linuxbabe.com/ubuntu/automatic-security-update-unattended-upgrades-ubuntu)
+  
 ## Scripting
 - [Ubuntu post-installation script](https://github.com/nicolargo/ubuntupostinstall)
 - [Qoa](https://github.com/klaussinani/qoa) - Minimal interactive command-line prompts
