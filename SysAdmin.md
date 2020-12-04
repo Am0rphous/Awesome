@@ -223,27 +223,6 @@ upstream_recursive_servers:
 - [FireJail](https://github.com/netblue30/firejail) - SUID sandbox program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces, seccomp-bpf and Linux capabilities. [FireJail Homepage](https://firejail.wordpress.com/)
 - [Windows_Sandbox_Editor](https://github.com/damienvanrobaeys/Windows_Sandbox_Editor) - Generate and manage your windows sandbox.
   - [Run-in-Sandbox](https://github.com/damienvanrobaeys/Run-in-Sandbox) - Run PS1, VBS, EXE, MSI in Windows Sandbox very quickly just from a right-click.
-  
-## Terminal / Shell
-- [Awesome Shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-- [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display.
-- [Gnome-Terminal](https://gitlab.gnome.org/GNOME/gnome-terminal) - Default in all major Linux distributions.
-- [Hyper](https://github.com/vercel/hyper) -  A terminal built on web technologies. [www.hyper.is](https://hyper.is/)
-- [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)  A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. [ohmyz.sh](https://ohmyz.sh/)
-- [Guake](https://github.com/Guake/guake) -  Drop-down terminal for GNOME.
-- [Terminator](https://github.com/gnome-terminator/terminator) - Useful tool for arranging terminals.
-- [Tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix.
-- [Tilix](https://github.com/gnunn1/tilix/) - A tiling terminal emulator for Linux using GTK+ 3.
-- [Tmux](https://github.com/tmux/tmux) - tmux is a terminal multiplexer: it enables a number of terminals to be created, accessed, and controlled from a single screen.
-  - [Rainbarf](https://github.com/creaktive/rainbarf) - CPU/RAM/battery stats chart bar for tmux (and GNU screen).
-  - [tmux-mem-cpu-load](https://github.com/thewtex/tmux-mem-cpu-load) - CPU, RAM, and load monitor for use with tmux.
-  - [Tmux xPanes](https://github.com/greymd/tmux-xpanes) - Create multiple tmux terminals.
-- [Windows Terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place.
-  - [cascadia-code](https://github.com/microsoft/cascadia-code) - un, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal. 
-  ### Bash
-  - [Awesome Bash](https://github.com/awesome-lists/awesome-bash) -  A curated list of delightful Bash scripts and resources.
-  - [Debugging Bash Scripts](https://linuxconfig.org/how-to-debug-bash-scripts) - Usage of traditional techniques, xtrace, trap and other options.
-  - [Oh My Bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. [ohmybash.github.io](https://ohmybash.github.io/)
 
 ## Security
 - [Acme-tiny](https://github.com/diafygi/acme-tiny) - A tiny script to issue and renew TLS certs from Let's Encrypt.
@@ -253,6 +232,7 @@ upstream_recursive_servers:
 - [Bitwarden Server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
 - [KeePassXC](https://github.com/keepassxreboot/keepassxc) - Open source password manager for Windows, Mac and Linux. [keepassxc.org](https://keepassxc.org)
   - [KeePassXC Browser Extension](https://github.com/keepassxreboot/keepassxc-browser)
+- [LKRG - Linux Kernel Runtime Guard](https://www.openwall.com/lkrg) -  LKRG performs runtime integrity checking of the Linux kernel and detection of security vulnerability exploits against the kernel.
 - [SELinux Userspace](https://github.com/SELinuxProject/selinux) - Security Enhanced Linux (SELinux).
 - [Whonix security-misc](https://github.com/Whonix/security-misc) - Kernel Hardening; Protect Linux User Accounts against Brute Force Attacks; Improve Entropy Collection; Strong Linux User Account Separation; Enhances Misc Security Settings - https://www.whonix.org/wiki/Security-misc.
  ### Security Tutorials
@@ -276,6 +256,27 @@ upstream_recursive_servers:
 ## Scripting
 - [Ubuntu post-installation script](https://github.com/nicolargo/ubuntupostinstall)
 - [Qoa](https://github.com/klaussinani/qoa) - Minimal interactive command-line prompts
+
+## Terminal / Shell
+- [Awesome Shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
+- [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display.
+- [Gnome-Terminal](https://gitlab.gnome.org/GNOME/gnome-terminal) - Default in all major Linux distributions.
+- [Hyper](https://github.com/vercel/hyper) -  A terminal built on web technologies. [www.hyper.is](https://hyper.is/)
+- [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)  A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. [ohmyz.sh](https://ohmyz.sh/)
+- [Guake](https://github.com/Guake/guake) -  Drop-down terminal for GNOME.
+- [Terminator](https://github.com/gnome-terminator/terminator) - Useful tool for arranging terminals.
+- [Tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix.
+- [Tilix](https://github.com/gnunn1/tilix/) - A tiling terminal emulator for Linux using GTK+ 3.
+- [Tmux](https://github.com/tmux/tmux) - tmux is a terminal multiplexer: it enables a number of terminals to be created, accessed, and controlled from a single screen.
+  - [Rainbarf](https://github.com/creaktive/rainbarf) - CPU/RAM/battery stats chart bar for tmux (and GNU screen).
+  - [tmux-mem-cpu-load](https://github.com/thewtex/tmux-mem-cpu-load) - CPU, RAM, and load monitor for use with tmux.
+  - [Tmux xPanes](https://github.com/greymd/tmux-xpanes) - Create multiple tmux terminals.
+- [Windows Terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place.
+  - [cascadia-code](https://github.com/microsoft/cascadia-code) - un, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal. 
+  ### Bash
+  - [Awesome Bash](https://github.com/awesome-lists/awesome-bash) -  A curated list of delightful Bash scripts and resources.
+  - [Debugging Bash Scripts](https://linuxconfig.org/how-to-debug-bash-scripts) - Usage of traditional techniques, xtrace, trap and other options.
+  - [Oh My Bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. [ohmybash.github.io](https://ohmybash.github.io/)
 
 ## Utilities
 - [Balena Etcher](https://github.com/balena-io/etcher) -  Flash OS images to SD cards & USB drives, safely and easily.
