@@ -27,6 +27,7 @@
 - [MMM-SystemStats](https://github.com/BenRoe/MMM-SystemStats) - A module for the MagicMirror, to display system stats (cpu tmp, free ram, cpu load).
 - [MMM-SystemTemperature](https://github.com/MichMich/mmm-systemtemperature) - Display the temperature of your Raspberry Pi on your Magic Mirror.
 - [MMM-Voice-Commands](https://github.com/Veldrovive/MMM-Voice-Commands) - A simple voice command module for MagicMirror² that is highly configurable.
+- [MMM-WiFiPassword](https://github.com/TeraTech/MMM-WiFiPassword) - Magic Mirror Module that displays your WiFi network, password with QRCode.
 - [MMM-YouTube](https://github.com/Anonym-tsk/MMM-YouTube) - MagicMirror module for youtube player with runtime configuration and controllable by notification.
 
 ## Different Operatingsystems to run on Raspberry
