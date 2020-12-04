@@ -147,8 +147,8 @@ bro / zeek
   - [How to Install and Use PSAD IDS on Ubuntu Linux](https://blog.rapid7.com/2017/06/24/how-to-install-and-use-psad-ids-on-ubuntu-linux) - Nice Tutorial.
 - [Snort3](https://github.com/snort3/snort3) - next generation Snort IPS (Intrusion Prevention System). [snort.org](https://snort.org/)
   - [snort-rules (unofficial)](https://github.com/codecat007/snort-rules) - An UNOFFICIAL Git Repository of Snort Rules(IDS rules) Releases. 
-- [Splunk Home](https://ethicalhackingguru.com/splunk-free-home/) - Restricted to 500 megabyte / day.
-- [SSHGuard](https://bitbucket.org/sshguard/sshguard/src/master/) - "_ protects hosts from brute-force attacks against SSH and other services. It aggregates system logs and blocks repeat offenders using one of several firewall backends._" [https://www.sshguard.net/]().
+- [Splunk Home](https://ethicalhackingguru.com/splunk-free-home) - Restricted to 500 megabyte / day.
+- [SSHGuard](https://bitbucket.org/sshguard/sshguard/src/master) - "_Protects hosts from brute-force attacks against SSH and other services. It aggregates system logs and blocks repeat offenders using one of several firewall backends._" [sshguard.ne](https://www.sshguard.net/).
 - [Suricata](https://github.com/OISF/suricata) - Suricata is a network IDS, IPS and NSM engine. [suricata-ids.org](https://suricata-ids.org/)
   - [Suricata PT Open Ruleset](https://github.com/ptresearch/AttackDetection) - Attack Detection.
 - [Teler](https://github.com/kitabisa/teler) -  Real-time HTTP Intrusion Detection.
