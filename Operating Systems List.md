@@ -20,7 +20,7 @@
 
 ## IoT, embedded devices, tablets
 - [Fedora IoT](https://getfedora.org/en/iot/)
-- [LineageOS Android Distribution]()
+- [LineageOS Android Distribution](https://lineageos.org) - A free and open-source operating system for various devices, based on the Android mobile platform.
 - [Ubunt Server](https://ubuntu.com)
 - [Ubuntu Touch](https://ubuntu-touch.io/get-ubuntu-touch)
 
