@@ -249,7 +249,8 @@ implementation of the Domain Name System (DNS) protocol.
   - [40 Linux Server Hardening Security Tips [2019 edition]](https://www.cyberciti.biz/tips/linux-security.html)
   - [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server#firewall-with-ufw-uncomplicated-firewall) - An evolving how-to guide for securing a Linux server.
   - [Set Up Automatic Security Update on Ubuntu](https://www.linuxbabe.com/ubuntu/automatic-security-update-unattended-upgrades-ubuntu)
-  basically procedure: `sudo apt update && sudo apt install unattended-upgrades update-notifier-common`. If you can't install update-notifier-common, then install `reboot-notifier`. Open the file `/etc/apt/apt.conf.d/50unattended-upgrades` and make sure it conaints:
+  
+  Basically procedure: `sudo apt update && sudo apt install unattended-upgrades update-notifier-common`. If you can't install update-notifier-common, then install `reboot-notifier`. Open the file `/etc/apt/apt.conf.d/50unattended-upgrades` and make sure it conaints:
   ````
   Unattended-Upgrade::Remove-Unused-Kernel-Packages "true";
   Unattended-Upgrade::Remove-Unused-Dependencies "true";
