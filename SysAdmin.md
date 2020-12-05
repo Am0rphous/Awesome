@@ -194,7 +194,7 @@ upstream_recursive_servers:
     - [detection-rules](https://github.com/elastic/detection-rules) -  Rules for Elastic Security's detection engine.
   - [LogStash](https://github.com/elastic/logstash) -  Logstash - transport and process your logs, events, or other data.
   - [Kibana](https://github.com/elastic/kibana) -  browser-based analytics and search dashboard for Elasticsearch.
-  #### Good resources
+   #### Good resources
   - [ELK with Bro-based Application Layer Packet Classifier](https://github.com/hardenedlinux/Debian-GNU-Linux-Profiles/blob/master/NSM/docs/ELK_with_bro_ID_doc.mkd)
 - [Espionage](https://github.com/josh0xA/Espionage) - A Network Packet and Traffic Interceptor For Linux. Spoof ARP & Wiretap A Network. 
 - [Graylog](https://github.com/Graylog2/graylog2-server) - Free and open source log management.
@@ -208,6 +208,8 @@ upstream_recursive_servers:
 - [ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring 
 - [Sysmon](https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon) - provides detailed information about process creations, network connections, and changes to file creation time.
   - [Ossec Sysmon](https://github.com/Hestat/ossec-sysmon) - A Ruleset to enhance detection capabilities of Ossec using Sysmon.
+  - [Security Onion OS](https://securityonionsolutions.com)
+    - [Security Onion Documentation](https://docs.securityonion.net/en/2.3/index.html)
   - [Sysmon Modular](https://github.com/olafhartong/sysmon-modular) - A repository of sysmon configuration modules.
   - [Sysmon Search](https://github.com/JPCERTCC/SysmonSearch) - Investigate suspicious activity by visualizing Sysmon's event log.
   - [Sysmon Tools](https://github.com/nshalabi/SysmonTools) - Utilities for Sysmon.
