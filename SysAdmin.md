@@ -209,6 +209,7 @@ upstream_recursive_servers:
 - [Sysmon](https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon) - provides detailed information about process creations, network connections, and changes to file creation time.
   - [Ossec Sysmon](https://github.com/Hestat/ossec-sysmon) - A Ruleset to enhance detection capabilities of Ossec using Sysmon.
   - [Security Onion OS](https://securityonionsolutions.com)
+    - [Github: Security Onion 2.3.10](https://github.com/Security-Onion-Solutions/securityonion)
     - [Security Onion Documentation](https://docs.securityonion.net/en/2.3/index.html)
   - [Sysmon Modular](https://github.com/olafhartong/sysmon-modular) - A repository of sysmon configuration modules.
   - [Sysmon Search](https://github.com/JPCERTCC/SysmonSearch) - Investigate suspicious activity by visualizing Sysmon's event log.
