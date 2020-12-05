@@ -217,16 +217,17 @@ upstream_recursive_servers:
 ## Package Managers
 - [Brew / HomeBrew](https://brew.sh/) - Package Manager for Linux and MacOS.
 - [Brew Documentation](https://docs.brew.sh)
-Quick install:
-````
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-````
+
+   Quick install:
+   ````
+   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   ````
 - [Homebrew gathers anonymous aggregate user behaviour analytics using Google Analytics. ](https://docs.brew.sh/Analytics#opting-out)
-Brew uses 
-````
-export HOMEBREW_NO_ANALYTICS=1
-brew analytics off
-````
+   To opt out of analytics, run
+   ````
+   export HOMEBREW_NO_ANALYTICS=1
+   brew analytics off
+   ````
 - [Gem (RubyGems)](https://rubygems.org) - package management framework for Ruby.
 - [FlatPak](https://flatpak.org)
 - [Nixpkgs](https://github.com/NixOS/nixpkgs) - collection of over 60,000 software packages that can be installed with the Nix package manager [nixos.org](https://nixos.org).
