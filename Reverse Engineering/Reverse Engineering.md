@@ -73,7 +73,10 @@ https://github.com/WebAssembly/wabt
  - [AndroGuard docs](https://androguard.readthedocs.io/en/latest/index.html) - Documentation.
 - [Santuko Linux](https://santoku-linux.com) - Mobile forensics, mobile malware and mobile security.
 
-## WbebAssembly
+## Unsorted
+- [CryptoWall Analysis](https://github.com/ryancor/CryptoWall_Analysis) -  CryptoWall 3.0 Ransomware Reversing Documentation & Scripts.
+
+## WebAssembly
 - [Binaryen](https://github.com/WebAssembly/binaryen) - Compiler infrastructure and toolchain library for WebAssembly.
 - [WABT](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit.
 
