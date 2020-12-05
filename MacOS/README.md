@@ -17,8 +17,20 @@
 - [MacForge](https://github.com/MacEnhance/MacForge) - Plugin, App, and Theme store which includes plugin injection for macOS.
 
 ### Package Managers
-- [brew](https://github.com/Homebrew/brew) - package manager that makes it super easy to install different kinds of software and tools onto your Mac. [brew.sh](https://brew.sh/)
+- [Brew / HomeBrew](https://brew.sh/) - Package Manager for Linux and MacOS.
+- [Brew Documentation](https://docs.brew.sh)
 
+   Quick install:
+   ````
+   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   ````
+- [Homebrew gathers anonymous aggregate user behaviour analytics using Google Analytics. ](https://docs.brew.sh/Analytics#opting-out)
+   To opt out of analytics, run
+   ````
+   export HOMEBREW_NO_ANALYTICS=1
+   brew analytics off
+   ````
+   
 ## Macbook with Linux
 - [Linuxbrew Core](https://github.com/Homebrew/linuxbrew-core) - [Linuxbrew documentation](https://docs.brew.sh/Homebrew-on-Linux)
 - [mbp-2016-linux](https://github.com/Dunedan/mbp-2016-linux) - State of Linux on the MacBook Pro 2016 & 2017 
