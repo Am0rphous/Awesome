@@ -18,6 +18,7 @@
 - [MMM-AVStock](https://github.com/lavolp3/MMM-AVStock) -  MagicMirror module for displaying stock price with Alphavantage API.
 - [MMM-AlexaControl](https://github.com/JoChef2/MMM-AlexaControl) -  Control your MagicMirror with Alexa.
 - [MMM-BackgroundSlideshow](https://github.com/darickc/MMM-BackgroundSlideshow) - Show a slideshow of images in the background. Great for a photo frame from instead of a mirror.
+- [MMM-CalendarExt2](https://github.com/MMM-CalendarExt2/MMM-CalendarExt2) - Whole new build-up for MMM-CalendarExt.
 - [MMM-CalendarWeek](https://github.com/heskja/MMM-CalendarWeek) - Alternative calendar module for MagicMirror.
 - [MMM-cryptocurrency](https://github.com/matteodanelli/MMM-cryptocurrency) -  A MagicMirror module for crypto currencies value.
 - [MMM-ImageSlideshow](https://github.com/AdamMoses-GitHub/MMM-ImageSlideshow) -  Displays images one-at-a-time from local folders.
