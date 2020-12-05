@@ -215,6 +215,18 @@ upstream_recursive_servers:
 - [Zeek (Bro)](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know. [zeek.org](https://www.zeek.org)
 
 ## Package Managers
+- [Brew / HomeBrew](https://brew.sh/) - Package Manager for Linux and MacOS.
+- [Brew Documentation](https://docs.brew.sh)
+Quick install:
+````
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+````
+- [Homebrew gathers anonymous aggregate user behaviour analytics using Google Analytics. ](https://docs.brew.sh/Analytics#opting-out)
+Brew uses 
+````
+export HOMEBREW_NO_ANALYTICS=1
+brew analytics off
+````
 - [Gem (RubyGems)](https://rubygems.org) - package management framework for Ruby.
 - [FlatPak](https://flatpak.org)
 - [Nixpkgs](https://github.com/NixOS/nixpkgs) - collection of over 60,000 software packages that can be installed with the Nix package manager [nixos.org](https://nixos.org).
