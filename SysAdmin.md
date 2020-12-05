@@ -371,6 +371,7 @@ upstream_recursive_servers:
 - [Wordpress Comment Blacklist](https://github.com/splorp/wordpress-comment-blacklist) - A simple solution for WordPress comment spam.
   ### Web Analytics
   - [Matomo Web Analytics](https://matomo.org) - "_Google Analytics alternative that protects your data and your customers' privacy_" [matomo.org](https://matomo.org/).
-    - [Matamo Analytics for Wordpress](https://wordpress.org/plugins/matomo/)
+    - [Matamo Analytics for Wordpress](https://wordpress.org/plugins/matomo)
+    - [Matomo Tracking Panel](https://github.com/thiagoarrais/grafana-matomo-tracking-panel) -  Matomo Tracking Panel for Grafana.
     - [Tutorial: Install Matomo Web Analytics (Piwik) on Ubuntu 20.04 with Apache/Nginx](https://www.linuxbabe.com/ubuntu/install-matomo-web-analytics-piwik-ubuntu-20-04-apache-nginx)
 
