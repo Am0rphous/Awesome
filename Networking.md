@@ -12,6 +12,7 @@
   - [brdgrd (Bridge Guard)](https://github.com/NullHypothesis/brdgrd) - Protects Tor bridges from being scanned (and as a result blocked) by GFW probes. [How the Great Firewall of China is Blocking Tor](https://www.cs.kau.se/philwint/gfw/)
 - [Tor Proxy](https://onion.pet/) - Onion.pet - Tor2Web Darknet Proxy
 - [Tor2web](https://github.com/tor2web/Tor2web) - Tor2web is an HTTP proxy software that enables access to Tor Hidden Services by mean of common web browsers. [tor2web.org](https://www.tor2web.org/)
+[Nyx](https://nyx.torproject.org) - Command-line monitor for Tor. With this you can get detailed real-time information about your relay such as bandwidth usage, connections, logs, and much more.
 ## Relays
 - [Tor Relay Search](https://metrics.torproject.org/rs.html#)
 - [yui.cat](https://yui.cat) - List of relays
