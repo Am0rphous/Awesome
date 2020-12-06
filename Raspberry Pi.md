@@ -21,17 +21,21 @@
 - [MMM-CalendarExt2](https://github.com/MMM-CalendarExt2/MMM-CalendarExt2) - Whole new build-up for MMM-CalendarExt.
 - [MMM-CalendarWeek](https://github.com/heskja/MMM-CalendarWeek) - Alternative calendar module for MagicMirror.
 - [MMM-cryptocurrency](https://github.com/matteodanelli/MMM-cryptocurrency) -  A MagicMirror module for crypto currencies value.
+- [MMM-Facial-Recognition](https://github.com/paviro/MMM-Facial-Recognition) - This an extension for the MagicMirror. It provides facial recognition and module swapping based on the current user.
 - [MMM-ImageSlideshow](https://github.com/AdamMoses-GitHub/MMM-ImageSlideshow) -  Displays images one-at-a-time from local folders.
 - [MMM-network-signal](https://github.com/PoOwAa/MMM-network-signal) -  Display a solid wifi logo as network signal for MagicMirror2.
 - [MMM-page-indicator](https://github.com/edward-shen/MMM-page-indicator) -  MagicMirror² module to display what page you're on.
 - [MMM-Page-Selector](https://github.com/Veldrovive/MMM-Page-Selector) - An easy way to set up and move between pages on a MagicMirror².
 - [MMM-PIR-Sensor](https://github.com/paviro/MMM-PIR-Sensor) - This module can monitor a PIR motion sensor and put your mirror to sleep. 
+
 - [MMM-Traffic](https://github.com/SamLewis0602/MMM-Traffic) - It uses the Google Maps Directions API to get current commute time using current and past traffic conditions. 
 - [MMM-Screencast](https://github.com/kevinatown/MMM-Screencast) -  A module to cast to the magic mirror.
 - [MMM-SmartWebDisplay](https://github.com/AgP42/MMM-SmartWebDisplay) - The `MMM-SmartWebDisplay` module is for MagicMirror². It allow to display any web content to your MagicMirror.
+- [MMM-syslog](https://github.com/paviro/MMM-syslog) - API for sending notifications to your mirror.
 - [MMM-SystemStats](https://github.com/BenRoe/MMM-SystemStats) - A module for the MagicMirror, to display system stats (cpu tmp, free ram, cpu load).
 - [MMM-SystemTemperature](https://github.com/MichMich/mmm-systemtemperature) - Display the temperature of your Raspberry Pi on your Magic Mirror.
 - [MMM-Voice-Commands](https://github.com/Veldrovive/MMM-Voice-Commands) - A simple voice command module for MagicMirror² that is highly configurable.
+- [mmm-weatherchart](https://github.com/paphko/mmm-weatherchart) - Weather chart module for the magic mirror 2 project.
 - [MMM-WiFiPassword](https://github.com/TeraTech/MMM-WiFiPassword) - Magic Mirror Module that displays your WiFi network, password with QRCode.
 - [MMM-YouTube](https://github.com/Anonym-tsk/MMM-YouTube) - MagicMirror module for youtube player with runtime configuration and controllable by notification.
 
