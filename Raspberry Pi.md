@@ -25,6 +25,7 @@
 - [MMM-network-signal](https://github.com/PoOwAa/MMM-network-signal) -  Display a solid wifi logo as network signal for MagicMirror2.
 - [MMM-page-indicator](https://github.com/edward-shen/MMM-page-indicator) -  MagicMirror² module to display what page you're on.
 - [MMM-Page-Selector](https://github.com/Veldrovive/MMM-Page-Selector) - An easy way to set up and move between pages on a MagicMirror².
+- [MMM-PIR-Sensor](https://github.com/paviro/MMM-PIR-Sensor) - This module can monitor a PIR motion sensor and put your mirror to sleep. 
 - [MMM-Traffic](https://github.com/SamLewis0602/MMM-Traffic) - It uses the Google Maps Directions API to get current commute time using current and past traffic conditions. 
 - [MMM-Screencast](https://github.com/kevinatown/MMM-Screencast) -  A module to cast to the magic mirror.
 - [MMM-SmartWebDisplay](https://github.com/AgP42/MMM-SmartWebDisplay) - The `MMM-SmartWebDisplay` module is for MagicMirror². It allow to display any web content to your MagicMirror.
