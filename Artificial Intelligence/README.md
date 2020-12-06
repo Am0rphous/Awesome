@@ -25,3 +25,5 @@ Note: https://favouriteblog.com/50-best-github-artificial-intelligence/
 
 ## Machine Learning
 - [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) - Machine Learning for Cyber Security.
+- [Behaviour Suite for Reinforcement Learning (bsuite)](https://github.com/deepmind/bsuite) - bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent.
+- [Tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators [tvm.apache.org](https://tvm.apache.org).
