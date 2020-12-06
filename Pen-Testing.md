@@ -146,6 +146,12 @@ FTest, Lbd, Wafw00f
   ### Privelegies
   - [PYTMIPE & TMIPE](https://github.com/quentinhardy/pytmipe) - Python library and client for token manipulations and impersonations for privilege escalation on Windows 
 
+## Wargames
+- [0xf.at](https://www.0xf.at/) - 0xf.at (or oxfat it you prefer) is a website without logins or ads where you can solve password-riddles (so called hackits).
+- [hacking-lab.com](https://hacking-lab.com/index.html)
+- [Overthewire's Wargames](https://overthewire.org/wargames/) - wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games.
+- [pwnable.kr](https://pwnable.kr/)
+
 ## Web Application Analysis
  ### CMS & Framwork Identification
  ### Web Application Proxies
