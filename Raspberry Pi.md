@@ -15,6 +15,7 @@
 
 ## Magic Mirror repos
 - [Alexyak's Camera Module](https://github.com/alexyak/camera) - The camera module allows you to display a webcamera video feed on your MagicMirror.
+- [MMM-3Day-Forecast](https://github.com/nigel-daniels/MMM-3Day-Forecast) - MagicMirror 2 module to show detailed 3 day forcast using the Wunderground API.
 - [MMM-AVStock](https://github.com/lavolp3/MMM-AVStock) -  MagicMirror module for displaying stock price with Alphavantage API.
 - [MMM-AlexaControl](https://github.com/JoChef2/MMM-AlexaControl) -  Control your MagicMirror with Alexa.
 - [MMM-BackgroundSlideshow](https://github.com/darickc/MMM-BackgroundSlideshow) - Show a slideshow of images in the background. Great for a photo frame from instead of a mirror.
