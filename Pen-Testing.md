@@ -108,6 +108,7 @@ FTest, Lbd, Wafw00f
 - [o365-attack-toolkit](https://github.com/mdsecactivebreach/o365-attack-toolkit) - o365-attack-toolkit allows operators to perform an OAuth phishing attack and later on use the Microsoft Graph API to extract interesting information.
 
 ## Passwords
+- [Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots.
 - [CeWL](https://github.com/digininja/CeWL/) - spiders a URL to a specified depth and searches for words that can be used for password attacks. 
 
 
