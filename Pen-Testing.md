@@ -149,6 +149,7 @@ FTest, Lbd, Wafw00f
 ## Wargames
 - [0xf.at](https://www.0xf.at/) - 0xf.at (or oxfat it you prefer) is a website without logins or ads where you can solve password-riddles (so called hackits).
 - [hacking-lab.com](https://hacking-lab.com/index.html)
+- [hackthissite.org](https://hackthissite.org/) - free, safe and legal training ground for hackers to test and expand their ethical hacking skills with challenges, CTFs, and more. 
 - [Overthewire's Wargames](https://overthewire.org/wargames/) - wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games.
 - [pwnable.kr](https://pwnable.kr/)
 
