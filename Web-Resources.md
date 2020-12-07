@@ -58,6 +58,7 @@
 - [Hackingpassion.com](https://hackingpassion.com)
 - [Landoflinux.com](https://www.landoflinux.com/index.html) - free guides and tutorials for all things Linux.
 - [Linuxbabe.com](https://www.linuxbabe.com) - Lots of tutorials.
+- [lorn.tech](https://www.lorn.tech/) - masse nyttige podcasts.
 - [Itsfoss.com](https://itsfoss.com) - Open source related articles published on It’s FOSS.
 - [Linuxhint.com](https://linuxhint.com) - Lots of tutorials.
 - [Spyboy blog](https://spyboy.blog) - Learn ethical hacking , cyber security, computer programming, networking, android tricks and windows tricks.
