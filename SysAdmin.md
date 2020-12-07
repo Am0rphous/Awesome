@@ -77,7 +77,10 @@ bro / zeek
 - [StringSifter](https://github.com/fireeye/stringsifter) - A machine learning tool that ranks strings based on their relevance for malware analysis.
 - [vt-cli](https://github.com/VirusTotal/vt-cli) -  VirusTotal Command Line Interface. [virustotal.github.io/vt-cli/](https://virustotal.github.io/vt-cli/)
 - [Web Shell Detector](https://github.com/emposha/PHP-Shell-Detector) - PHP script that helps you find and identify php/cgi(perl)/asp/aspx shells. Web Shell Detector has a “web shells” signature database that helps to identify “web shell” up to 99%. [shelldetector.com](https://shelldetector.com/)
-- [Yara](https://github.com/virustotal/yara) - The pattern matching swiss knife. [virustotal.github.io/yara](https://virustotal.github.io/yara/)
+- [Yara](https://github.com/virustotal/yara) - The pattern matching swiss knife. [virustotal.github.io/yara](https://virustotal.github.io/yara)
+  - [Public Yara-Rules repo](https://github.com/Yara-Rules/rules) -  Repository of yara rules.
+  - [Yara for Atom](https://atom.io/packages/language-yara)
+  - [Yara for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=infosec-intern.yara)
 
   ### Analysis Tools Selfhosted
   - [Cuckoo Sandbox](https://cuckoosandbox.org) - Advanced, extremely modular, and 100% open source automated malware analysis system.
