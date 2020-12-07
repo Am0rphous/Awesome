@@ -151,6 +151,11 @@ PyCharm, Spyder, Sublime, Jupyter, Atom, Python IDLE, VSCode, Wing, Thonny PyDev
 - RedShift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. 
 - [Tui.calendar](https://github.com/nhn/tui.calendar) - JavaScript calendar that has everything you need. 
 
+ ### Podcast
+ - [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts.
+ - [CPod](https://github.com/z-------------/CPod) - A simple, beautiful podcast app for Windows, macOS, and Linux.
+ - [Winds](https://github.com/getstream/winds/) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io.
+
 ## Programming
 - [KDevelop](https://github.com/KDE/kdevelop) - Cross-platform IDE for C, C++, Python, QML/JavaScript and PHP.
 
