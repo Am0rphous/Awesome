@@ -16,6 +16,7 @@ Various resources, personal notes etc. I find interesting.
 - [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better.
 - [Awesome Humane Tech](https://github.com/humanetech-community/awesome-humane-tech)
 - [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk/)
+- [Awesome Learning Resources](https://github.com/lauragift21/awesome-learning-resources) - Awesome list of resources on Web Development.
 - [Awesome List](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics 
 - [Awesome Machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
 - [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) - Machine Learning for Cyber Security.
