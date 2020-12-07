@@ -12,6 +12,7 @@ Various resources, personal notes etc. I find interesting.
 ## A List of 'Awesome' entitled projects
 - [Awesome CLI](https://github.com/umutphp/awesome-cli)
 - [Awesome Cyber Security](https://github.com/alphaSeclab/awesome-cyber-security) - Currently contains 8000+ open source repositories, and not very well classified. 
+- [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts)
 - [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better.
 - [Awesome Humane Tech](https://github.com/humanetech-community/awesome-humane-tech)
 - [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk/)
