@@ -12,7 +12,7 @@ Various resources, personal notes etc. I find interesting.
 ## A List of 'Awesome' entitled projects
 - [Awesome CLI](https://github.com/umutphp/awesome-cli)
 - [Awesome Cyber Security](https://github.com/alphaSeclab/awesome-cyber-security) - Currently contains 8000+ open source repositories, and not very well classified. 
-- [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts)
+- [Awesome DevSecOps](https://github.com/devsecops/awesome-devsecops) - An authoritative list of awesome devsecops tools with the help from community experiments and contributions.
 - [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better.
 - [Awesome Humane Tech](https://github.com/humanetech-community/awesome-humane-tech)
 - [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk/)
@@ -21,6 +21,7 @@ Various resources, personal notes etc. I find interesting.
 - [Awesome Machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
 - [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) - Machine Learning for Cyber Security.
 - [Awesome Open Source](https://awesomeopensource.com) - Find Open Source By Searching, Browsing and Combining 7,000 Topics Across 59 Categories And 337,263 Projects
+- [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts)
 - [Awesome Search](https://awesomelists.top/)
 - [Awesome SSH](https://github.com/moul/awesome-ssh)
 - [Awesome-UNIX](https://github.com/sirredbeard/Awesome-UNIX) - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
