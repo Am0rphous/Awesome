@@ -44,3 +44,4 @@
 
 ## Productivity
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - A Caffeine clone for macOS. Prevents your Mac from going to sleep. 
+- [PodcastMenu](https://github.com/insidegui/PodcastMenu) - Put Overcast on your Mac's menu bar.
