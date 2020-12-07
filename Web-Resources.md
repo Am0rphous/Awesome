@@ -1,20 +1,21 @@
 
  ## Forums and blogs
   - [0x00sec.org](https://0x00sec.org)
-  - [blog.syscall.party](https://blog.syscall.party)
-  - [businessforum.zyxel.com](https://businessforum.zyxel.com)
-  - [cracked.to](https://cracked.to)
-  - [darkwebmafias.net](https://darkwebmafias.net)
-  - [githacktools.blogspot.com](https://githacktools.blogspot.com)
-  - [hackforums.net](https://hackforums.net)
-  - [leakzone.net](https://leakzone.net)
-  - [linuxbabe Community](https://community.linuxbabe.com)
+  - [Blog.syscall.party](https://blog.syscall.party)
+  - [Businessforum.zyxel.com](https://businessforum.zyxel.com)
+  - [Cracked.to](https://cracked.to)
+  - [Darkwebmafias.net](https://darkwebmafias.net)
+  - [Githacktools.blogspot.com](https://githacktools.blogspot.com)
+  - [Hackforums.net](https://hackforums.net)
+  - [Hackingarticles.in](hackingarticles.in) - Raj Chandel's Blog.
+  - [Leakzone.net](https://leakzone.net)
+  - [Linuxbabe Community](https://community.linuxbabe.com)
   - [0ffset.net](https://0ffset.net) - IT Security blog
-  - [phoronix.com/forums](https://www.phoronix.com/forums)
+  - [Phoronix.com/forums](https://www.phoronix.com/forums)
   - [Planet Virt Tools](https://planet.virt-tools.org) - Blogging about open source virtualization.
-  - [hackingarticles.in](hackingarticles.in) - Raj Chandel's Blog.
-  - [techtalk.comodo.com/blog](https://techtalk.comodo.com/blog)
-  - [ubuntubuzz.com](https://www.ubuntubuzz.com)
+  - [Reversinglabs.com](https://blog.reversinglabs.com)
+  - [Techtalk.comodo.com/blog](https://techtalk.comodo.com/blog)
+  - [Ubuntubuzz.com](https://www.ubuntubuzz.com)
 
 ## Games
 - https://www.slavehack2.com/
