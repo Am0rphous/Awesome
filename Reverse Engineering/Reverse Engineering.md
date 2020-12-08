@@ -12,6 +12,7 @@ https://github.com/WebAssembly/wabt
 - [Android Studio](https://developer.android.com/studio) - Provides the fastest tools for building apps on every type of Android device.
   - [IntelliJ Detekt Plugin](https://github.com/detekt/detekt-intellij-plugin) - Integrates detekt, a static code analysis tool for the Kotlin programming language, into IntelliJ.
 - [ApkUrlGrep](https://github.com/ndelphit/apkurlgrep) - Extract endpoints from APK files.
+- [ApkVuln](https://github.com/Josue87/apkvuln) - Static analysis of APKs with regular expressions.
 - [calabash-android](https://github.com/calabash/calabash-android) -  Automated Functional testing for Android using cucumber.
 - [Diggy](https://github.com/s0md3v/Diggy) - Extract endpoints from apk files. 
 - [repeato](https://www.repeato.app) - Painless Android UI testing via record & play.
