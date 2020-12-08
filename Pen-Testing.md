@@ -69,7 +69,10 @@ DNSMap, DNSRecon, DNSTracer, DNSWalk, Fierce, URLCrazy
  ### IDS/IPS Identification
 - [FragRouter]()
 FTest, Lbd, Wafw00f
- ### Network & Port Scanners
+ ### Network Enumeration & Port Scanners
+ - [IOXIDResolver](https://github.com/mubix/IOXIDResolver) - IOXIDResolver.py from AirBus Security.
+   - [The OXID Resolver (Part )]](https://airbus-cyber-security.com/the-oxid-resolver-part-1-remote-enumeration-of-network-interfaces-without-any-authentication/) – Remote enumeration of network interfaces without any authentication.
+   - [The OXID Resolver (Part 2)](https://airbus-cyber-security.com/the-oxid-resolver-part-2-accessing-a-remote-object-inside-dcom/) – Accessing a Remote Object inside DCOM
  - [NimScan](https://github.com/elddy/NimScan) - Really fast port scanner (With filtered option - Windows support only).
  
  ### OSINT Analysis
