@@ -67,6 +67,9 @@ Description: The Portable Executable format is a file format for executables, ob
 ## Process Analysis
 - [Process Dump (Windows))](https://github.com/glmcdona/Process-Dump) - Windows tool for dumping malware PE files from memory back to disk for analysis. 
 
+## Steganography
+- [DanielSchetritt's Steganography](https://github.com/DanielSchetritt/Steganography) - demonstration for a computer security class.
+
 Winpmem - The multi-platform memory acquisition tool. 
 https://github.com/Velocidex/WinPmem
 https://winpmem.velocidex.com/
