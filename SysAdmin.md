@@ -306,6 +306,9 @@ upstream_recursive_servers:
 - [ISOWriter](https://github.com/KaOSx/isowriter) - Tool for creating bootable installation USB flash drives, forked from rosa-imagewriter.
 - [UNetbootin](https://github.com/unetbootin/unetbootin) - UNetbootin installs Linux/BSD distributions to a partition or USB drive.
 - [WoeUSB](https://github.com/WoeUSB/WoeUSB) -  A Microsoft Windows® USB installation media preparer for GNU+Linux.
+### Testing
+- [Selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem. 
+
 
 ## Virtualization
 - [WebVirtCloud](https://github.com/retspen/webvirtcloud) - WebVirtCloud is virtualization web interface for admins and users.
