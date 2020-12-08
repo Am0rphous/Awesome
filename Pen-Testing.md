@@ -16,6 +16,9 @@ https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/
 - [pentest](https://github.com/jivoi/pentest)
 - [SLAE32 Certification Assignments](https://www.phrozen.io/docs/linux/slae32/)
 
+  ### Injection
+  - [Theevilbit's injection](https://github.com/theevilbit/injection)
+
 ## Active Directory / Domain
 - [Active Directory Exploitation Cheat Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet) - A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.
 - [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec/wiki) - CrackMapExec (a.k.a CME) is a post-exploitation tool that helps automate assessing the security of large Active Directory networks.
