@@ -124,9 +124,6 @@ FTest, Lbd, Wafw00f
 - [PowerExfil](https://github.com/1N3/PowerExfil) - A collection of data exfiltration scripts for Red Team assessments. 
 - [RedELK](https://github.com/outflanknl/RedELK) - Red Team's SIEM - tool for Red Teams used for tracking and alarming about Blue Team activities as well as better usability in long term operations.
 - [WSB-Detect](https://github.com/LloydLabs/wsb-detect) - Enables you to detect if you are running in Windows Sandbox ("WSB").
- ### Vulnerability Scanning
-- [vulscan - Vulnerability Scanning with Nmap](https://github.com/scipag/vulscan) - Advanced vulnerability scanning with Nmap NSE 
-  - [nmap_vulners](https://github.com/vulnersCom/nmap-vulners) -  NSE script based on Vulners.com API 
 
 ## Resources
 - [D00MFist's CTF Notes](https://github.com/D00MFist/security) - collection of notes picked up doing numerous CTFs.
@@ -143,12 +140,17 @@ FTest, Lbd, Wafw00f
 - [ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) - A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns. 
 
 ## Vulnerability Analysis
+
+  
 - [Legion](https://github.com/GoVanguard/legion/) - Open source, easy-to-use, super-extensible and semi-automated network penetration testing tool that aids in discovery, reconnaissance and exploitation of information systems. 
 - [Lynis](https://github.com/CISOfy/Lynis) - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional. 
 - [Nikto](https://github.com/sullo/nikto) - Nikto web server scanner.
 - [Nmap](https://github.com/nmap/nmap) - Network Mapper. Github mirror of official SVN repository. 
 - [Sn1per](https://github.com/1N3/Sn1per) - Automated pentest framework for offensive security experts.
 - [Unix-Privesc-Check](http://pentestmonkey.net/tools/audit/unix-privesc-check)
+- [vulscan - Vulnerability Scanning with Nmap](https://github.com/scipag/vulscan) - Advanced vulnerability scanning with Nmap NSE 
+  - [nmap_vulners](https://github.com/vulnersCom/nmap-vulners) - NSE script based on Vulners.com API.
+- [wp_hunter](https://github.com/Josue87/wp_hunter) - Static analysis of wordpress plugins.
   ### Privelegies
   - [PYTMIPE & TMIPE](https://github.com/quentinhardy/pytmipe) - Python library and client for token manipulations and impersonations for privilege escalation on Windows 
 
