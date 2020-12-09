@@ -12,6 +12,7 @@ https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/
 - [burpsuite](https://github.com/thehackingsage/burpsuite)
   - [Awesome Burp Extensions](https://github.com/snoopysecurity/awesome-burp-extensions) - A curated list of amazingly awesome Burp Extensions.
   - [IntruderPayloads](https://github.com/1N3/IntruderPayloads) - A collection of Burpsuite Intruder payloads, BurpBounty payloads, fuzz lists, malicious file uploads and web pentesting methodologies and checklists.
+- [captcha-crack-tools](https://github.com/evilsadko/captcha-crack-tools)
 - [katoolin3](https://github.com/s-h-3-l-l/katoolin3) - Automatically install all Kali linux tools.
 - [NetELF](https://github.com/XiphosResearch/netelf)
 - [nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use.
