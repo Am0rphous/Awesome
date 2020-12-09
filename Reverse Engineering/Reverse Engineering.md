@@ -41,7 +41,6 @@ https://github.com/WebAssembly/wabt
   - [JTAG Explained tutorial](https://blog.senr.io/blog/jtag-explained)
 - [x64dbg](https://github.com/x64dbg/x64dbg) - An open-source x64/x32 debugger for windows. 
 
-
 ## Decompilers
 - [JustDecompile Engine](https://github.com/telerik/JustDecompileEngine) - .NET decompiler.
 
@@ -53,10 +52,17 @@ https://github.com/WebAssembly/wabt
 
 ## Dynamic analysis
 
-## File Conversion
-- [Dex2Jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files.
-- [Enjarify](https://github.com/Storyyeller/enjarify) - tool for translating Dalvik bytecode to equivalent Java bytecode.
-- [Smali2Java](https://github.com/alexeysoshin/smali2java) - Recreate Java code from Smali.
+## File Analysis
+Linux commands
+````
+file              #determine file type
+getcap            #examine file capabilities
+````
+
+ ### File Conversion
+  - [Dex2Jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files.
+  - [Enjarify](https://github.com/Storyyeller/enjarify) - tool for translating Dalvik bytecode to equivalent Java bytecode.
+  - [Smali2Java](https://github.com/alexeysoshin/smali2java) - Recreate Java code from Smali.
 
 ## Frameworks
 - [Cutter](https://github.com/radareorg/cutter) - Free and open-source reverse engineering framework powered by radare2.
