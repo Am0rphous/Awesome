@@ -120,6 +120,7 @@ bro / zeek
 - [Jitsi Meet](https://github.com/jitsi/jitsi-meet) - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [Kiwi IRC](https://kiwiirc.com)
 - [Neochat](https://github.com/KDE/neochat) - A client for matrix, the decentralized communication protoco.
+- [Oragono](https://github.com/oragono/oragono) - A modern IRC server (daemon/ircd) written in Go.
 - [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app.
 - [TheLounge](https://thelounge.chat/) - self-hosted web IRC client.
 - [Quassel-irc](https://quassel-irc.org/)
