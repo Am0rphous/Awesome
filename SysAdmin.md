@@ -78,6 +78,7 @@ bro / zeek
 - [vt-cli](https://github.com/VirusTotal/vt-cli) -  VirusTotal Command Line Interface. [virustotal.github.io/vt-cli/](https://virustotal.github.io/vt-cli/)
 - [Web Shell Detector](https://github.com/emposha/PHP-Shell-Detector) - PHP script that helps you find and identify php/cgi(perl)/asp/aspx shells. Web Shell Detector has a “web shells” signature database that helps to identify “web shell” up to 99%. [shelldetector.com](https://shelldetector.com/)
 - [Yara](https://github.com/virustotal/yara) - The pattern matching swiss knife. [virustotal.github.io/yara](https://virustotal.github.io/yara)
+  - [Fireeye Red-Team's Yara rules](https://github.com/fireeye/red_team_tool_countermeasures/blob/master/all-yara.yar)
   - [Public Yara-Rules repo](https://github.com/Yara-Rules/rules) -  Repository of yara rules.
   - [Yara for Atom](https://atom.io/packages/language-yara)
   - [Yara for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=infosec-intern.yara)
@@ -168,7 +169,8 @@ upstream_recursive_servers:
 - [Psad](https://github.com/mrash/psad) - Intrusion Detection with iptables Logs.
   - [How to Install and Use PSAD IDS on Ubuntu Linux](https://blog.rapid7.com/2017/06/24/how-to-install-and-use-psad-ids-on-ubuntu-linux) - Nice Tutorial.
 - [Snort3](https://github.com/snort3/snort3) - next generation Snort IPS (Intrusion Prevention System). [snort.org](https://snort.org/)
-  - [snort-rules (unofficial)](https://github.com/codecat007/snort-rules) - An UNOFFICIAL Git Repository of Snort Rules(IDS rules) Releases. 
+  - [snort-rules (unofficial)](https://github.com/codecat007/snort-rules) - An UNOFFICIAL Git Repository of Snort Rules(IDS rules) Releases.
+  - [Fireeye Red-Team's Snort rules](https://github.com/fireeye/red_team_tool_countermeasures/blob/master/all-snort.rules)
 - [Splunk Home](https://ethicalhackingguru.com/splunk-free-home) - Restricted to 500 megabyte / day.
 - [SSHGuard](https://bitbucket.org/sshguard/sshguard/src/master) - "_Protects hosts from brute-force attacks against SSH and other services. It aggregates system logs and blocks repeat offenders using one of several firewall backends._" [sshguard.net](https://www.sshguard.net).
 - [Suricata](https://github.com/OISF/suricata) - Suricata is a network IDS, IPS and NSM engine. [suricata-ids.org](https://suricata-ids.org/)
