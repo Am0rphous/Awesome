@@ -11,6 +11,7 @@ Various resources, personal notes etc. I find interesting.
 
 ## A List of 'Awesome' entitled projects
 - [Awesome CLI](https://github.com/umutphp/awesome-cli)
+- [Awesome cve poc](https://github.com/qazbnm456/awesome-cve-poc) - A curated list of CVE PoCs.
 - [Awesome Cyber Security](https://github.com/alphaSeclab/awesome-cyber-security) - Currently contains 8000+ open source repositories, and not very well classified. 
 - [Awesome Design](https://github.com/gztchan/awesome-design) - Curated design resources.
 - [Awesome DevSecOps](https://github.com/devsecops/awesome-devsecops) - An authoritative list of awesome devsecops tools with the help from community experiments and contributions.
