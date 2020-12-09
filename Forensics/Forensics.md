@@ -65,6 +65,7 @@ Description: The Portable Executable format is a file format for executables, ob
 - [DynLogger](https://www.ntcore.com/?page_id=376) - logs all dynamically retrieved functions by reporting the module name and the requested function. It also logs loaded modules. It can come very handy when one wants to know a “hidden” function used by an application.
 
 ## Process Analysis
+- [Aes-finder](https://github.com/mmozeiko/aes-finder) - Utility to find AES keys in running processes.
 - [Process Dump (Windows))](https://github.com/glmcdona/Process-Dump) - Windows tool for dumping malware PE files from memory back to disk for analysis. 
 
 ## Steganography
