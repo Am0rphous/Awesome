@@ -124,7 +124,8 @@ FTest, Lbd, Wafw00f
 ## Red Team
 - [CloneVault](https://github.com/mdsecactivebreach/CloneVault) -  allows a red team operator to export and import entries including attributes from Windows Credential Manager. 
 - [FalconFriday](https://github.com/FalconForceTeam/FalconFriday) - hunting queries to detect offensive techniques.
-- [herpaderping](https://github.com/jxy-s/herpaderping) - Process Herpaderping proof of concept, tool, and technical deep dive. Process Herpaderping bypasses security products by obscuring the intentions of a process. 
+- [herpaderping](https://github.com/jxy-s/herpaderping) - Process Herpaderping proof of concept, tool, and technical deep dive. Process Herpaderping bypasses security products by obscuring the intentions of a process.
+- [pentest-tools.com](https://pentest-tools.com)
 - [PowerExfil](https://github.com/1N3/PowerExfil) - A collection of data exfiltration scripts for Red Team assessments. 
 - [RedELK](https://github.com/outflanknl/RedELK) - Red Team's SIEM - tool for Red Teams used for tracking and alarming about Blue Team activities as well as better usability in long term operations.
 - [WSB-Detect](https://github.com/LloydLabs/wsb-detect) - Enables you to detect if you are running in Windows Sandbox ("WSB").
@@ -143,9 +144,7 @@ FTest, Lbd, Wafw00f
 - [MITRE ATT&CK®](https://attack.mitre.org/) - Globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. Git: https://github.com/mitre-attack
 - [ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) - A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns. 
 
-## Vulnerability Analysis
-
-  
+## Vulnerability Analysis  
 - [Legion](https://github.com/GoVanguard/legion/) - Open source, easy-to-use, super-extensible and semi-automated network penetration testing tool that aids in discovery, reconnaissance and exploitation of information systems. 
 - [Lynis](https://github.com/CISOfy/Lynis) - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional. 
 - [Nikto](https://github.com/sullo/nikto) - Nikto web server scanner.
