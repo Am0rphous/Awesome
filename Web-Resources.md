@@ -63,6 +63,8 @@
 - [Linuxhint.com](https://linuxhint.com) - Lots of tutorials.
 - [Spyboy blog](https://spyboy.blog) - Learn ethical hacking , cyber security, computer programming, networking, android tricks and windows tricks.
 - [Thehacks.co](https://thehacks.co) - Latest Hacking Insights Tips & Guides.
+- [zeropointsecurity.co.uk/red-team-ops](https://www.zeropointsecurity.co.uk/red-team-ops) - Offensive Cyber
+Security Training.
 
 ## IT News
 - [jpcert.or.jp](https://www.jpcert.or.jp/english/) - JPCERT/CC is the first CSIRT (Computer Security Incident Response Team) established in Japan.
