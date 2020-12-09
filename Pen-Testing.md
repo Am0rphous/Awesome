@@ -37,6 +37,9 @@ https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/
 - [Win Brute Logon](https://github.com/DarkCoderSc/win-brute-logon) - Crack any Microsoft Windows users password without any privilege (Guest account included).
 - [ZipCrack](https://github.com/henriksb/ZipCrack) -  Crack password protected zip files.
 
+## CTF
+- [fbctf](https://github.com/facebookarchive/fbctf) - Platform to host Capture the Flag competitions.
+
 ## Exploitation Tools
 - [Armitage](https://github.com/rsmudge/armitage) - graphical cyber attack management tool for Metasploit that visualizes your targets, recommends exploits, and exposes the advanced capabilities of the framework. [Homepage](http://www.fastandeasyhacking.com)
 - [Byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers. [byob.dev](https://byob.dev/)
