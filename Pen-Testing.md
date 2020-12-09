@@ -30,6 +30,7 @@ https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/
 
 ## Blue Team
 - [BlueSpawn](https://github.com/ION28/BLUESPAWN) - An Active Defense and EDR software to empower Blue Teams.
+- [FireEye Red Team Tool Countermeasures](https://github.com/fireeye/red_team_tool_countermeasures) - Snort, Yara, ClamAV, HXIOC
 
 ## Brute Forcing
 - [SecList](https://github.com/danielmiessler/SecLists)
