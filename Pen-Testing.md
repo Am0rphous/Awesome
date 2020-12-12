@@ -7,6 +7,8 @@ https://gbhackers.com/hacking-tools-list/
 
 https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/
 
+#### Random list, got to sort it into correct category later.
+
 - [Awesome Security Trivia](https://github.com/qazbnm456/awesome-security-trivia) - Security Trivia that rare people know.
 - [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) - A curated list of Web Security materials and resources.
 - [burpsuite](https://github.com/thehackingsage/burpsuite)
@@ -20,6 +22,7 @@ https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/
 - [Penetration-Testing-Tools](https://github.com/mgeeky/Penetration-Testing-Tools) - A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements.
 - [pentest](https://github.com/jivoi/pentest)
 - [SLAE32 Certification Assignments](https://www.phrozen.io/docs/linux/slae32/)
+- [XSS-Payloads](https://github.com/RenwaX23/XSS-Payloads)
 
   ### Injection
   - [Theevilbit's injection](https://github.com/theevilbit/injection)
