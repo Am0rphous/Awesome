@@ -68,6 +68,9 @@ https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/
 - [DeviceDetector](https://github.com/matomo-org/device-detector) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model [devicedetector.net](http://devicedetector.net/).
 - [Nikto](https://github.com/sullo/nikto) - Web server scanner. [Documentation](https://cirt.net/nikto2-docs/)
 
+## iOS
+- [ToothPicker](https://github.com/seemoo-lab/toothpicker) - In-process, coverage-guided fuzzer for iOS.
+
 ### DNS Analysis
 - [AssetFinder](https://github.com/tomnomnom/assetfinder) - Find domains and subdomains related to a given domain.
 - [BlackWidow](https://github.com/1N3/BlackWidow) - A Python based web application scanner to gather OSINT and fuzz for OWASP vulnerabilities on a target website. 
