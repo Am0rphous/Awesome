@@ -385,6 +385,7 @@ upstream_recursive_servers:
 - [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) - A curated list of Web Security materials and resources.
 - [Apache](https://httpd.apache.org/) - Open-source web server for modern operating systems including UNIX and Windows. 
 - [Apache Kafka](https://kafka.apache.org/) - open-source distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications.
+- [csrf](https://github.com/gorilla/csrf) - gorilla/csrf provides Cross Site Request Forgery (CSRF) prevention middleware for Go web applications & services.
 - [Frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [Hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [NginX](https://nginx.org/en/) - an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server.
