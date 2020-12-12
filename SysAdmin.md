@@ -121,6 +121,7 @@ bro / zeek
 - [Kiwi IRC](https://kiwiirc.com)
 - [Neochat](https://github.com/KDE/neochat) - A client for matrix, the decentralized communication protoco.
 - [Oragono](https://github.com/oragono/oragono) - A modern IRC server (daemon/ircd) written in Go.
+- [PrivateBin](https://framabin.org/p/) - minimalist, open source online pastebin.
 - [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app.
 - [TheLounge](https://thelounge.chat/) - self-hosted web IRC client.
 - [Quassel-irc](https://quassel-irc.org/)
