@@ -66,6 +66,9 @@ https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/
  ### DLL
  - [Koppeling](https://github.com/monoxgas/Koppeling) - Adaptive DLL hijacking / dynamic export forwarding.
 
+## Fuzzers
+- [FZT](https://github.com/junegunn/fzf) - A command-line fuzzy finder.
+
 ## Information Gathering
 - [Autoenum](https://github.com/Gr1mmie/autoenum) - Automatic Service Enumeration Script.
 - [DeviceDetector](https://github.com/matomo-org/device-detector) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model [devicedetector.net](http://devicedetector.net/).
