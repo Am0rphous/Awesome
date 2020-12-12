@@ -175,7 +175,8 @@ upstream_recursive_servers:
   - [Fireeye Red-Team's Snort rules](https://github.com/fireeye/red_team_tool_countermeasures/blob/master/all-snort.rules)
 - [Splunk Home](https://ethicalhackingguru.com/splunk-free-home) - Restricted to 500 megabyte / day.
 - [SSHGuard](https://bitbucket.org/sshguard/sshguard/src/master) - "_Protects hosts from brute-force attacks against SSH and other services. It aggregates system logs and blocks repeat offenders using one of several firewall backends._" [sshguard.net](https://www.sshguard.net).
-- [Suricata](https://github.com/OISF/suricata) - Suricata is a network IDS, IPS and NSM engine. [suricata-ids.org](https://suricata-ids.org/)
+- [Suricata](https://github.com/OISF/suricata) - Suricata is a network IDS, IPS and NSM engine. [suricata-ids.org](https://suricata-ids.org)
+  - [SEPTun](https://github.com/pevma/SEPTun) - Suricata Extreme Performance Tuning guide.
   - [Suricata PT Open Ruleset](https://github.com/ptresearch/AttackDetection) - Attack Detection.
 - [Teler](https://github.com/kitabisa/teler) -  Real-time HTTP Intrusion Detection.
 - [TripWire](https://github.com/Tripwire/tripwire-open-source) - Security and data integrity tool for monitoring and alerting on file & directory changes. 
