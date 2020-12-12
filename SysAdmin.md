@@ -327,6 +327,7 @@ upstream_recursive_servers:
 - [LXD](https://linuxcontainers.org/lxd/)
 - [MiniKube](https://github.com/kubernetes/minikube) - minikube implements a local Kubernetes cluster on macOS, Linux, and Windows. [minikube.sigs.k8s.io](https://minikube.sigs.k8s.io/docs/)
 - [MiniShift](https://github.com/minishift/minishift) - open source tool that helps you run a single-node OpenShift cluster locally inside a VM. [okd.io](https://www.okd.io)
+- [The Moby Project](https://github.com/moby/moby) - a collaborative project for the container ecosystem to assemble container-based systems.
 
  #### Container orchestration 
  - [Kubernetes](https://kubernetes.io/)
