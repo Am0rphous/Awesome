@@ -358,6 +358,7 @@ upstream_recursive_servers:
   - [GNs3-gui](https://github.com/GNS3/gns3-gui) - GNS3 Graphical Network Simulator.
 - [GPing](https://github.com/orf/gping) - Ping, but with a graph.
 - [iputils](https://github.com/iputils/iputils) - The iputils package is set of small useful utilities for Linux networking (arp, clockdigg, ninfod, ping, rarpd, rdisc, tftpd, tracepath and traceroute6).
+- [Stenographer](https://github.com/google/stenographer) - packet capture solution which aims to quickly spool all packets to disk, then provide simple, fast access to subsets of those packets.
 - [The Shadow Simulator](https://github.com/shadow/shadow) - Shadow is a unique discrete-event network simulator that runs real applications like Tor, and distributed systems of thousands of nodes on a single machine. 
 
  ## Network Visualization
