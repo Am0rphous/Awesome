@@ -93,6 +93,8 @@ FTest, Lbd, Wafw00f
  
  ### OSINT Analysis
 - [Awesome OSINT](https://github.com/jivoi/awesome-osint) - A curated list of amazingly awesome OSINT.
+- [OSINT-SPY](https://github.com/SharadKumar97/OSINT-SPY) - Performs OSINT scan on email/domain/ip_address/organization using OSINT-SPY. It can be used by Data Miners, Infosec Researchers, Penetration Testers and cyber crime investigator in order to find deep information about their target.
+
  ### Route Analysis
  ### SMB Analysis
 - [Enum4Linux]()
