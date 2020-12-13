@@ -287,6 +287,9 @@ upstream_recursive_servers:
 - [Ubuntu post-installation script](https://github.com/nicolargo/ubuntupostinstall)
 - [Qoa](https://github.com/klaussinani/qoa) - Minimal interactive command-line prompts
 
+## Storage
+- [Nextcloud Server](https://github.com/nextcloud/server) - selfhostes storage server.
+
 ## Terminal / Shell
 - [Awesome Shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display.
