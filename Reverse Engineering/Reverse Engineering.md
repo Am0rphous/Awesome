@@ -34,6 +34,7 @@ https://github.com/WebAssembly/wabt
 - [Angr](https://github.com/angr/angr) -  A powerful and user-friendly binary analysis platform.
   - [Angr Documentation](https://github.com/angr/angr-doc)
   - [Angr Gui](https://github.com/angr/angr-management) - A GUI for angr.
+- [BinWalk](https://github.com/ReFirmLabs/binwalk) -  Firmware Analysis Tool.
 
 ## Debugging
 - [Bus Pirate](https://github.com/BusPirate/Bus_Pirate) - open source hacker multi-tool that talks to electronic stuff.
