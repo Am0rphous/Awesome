@@ -175,7 +175,6 @@ FTest, Lbd, Wafw00f
 - [vulscan - Vulnerability Scanning with Nmap](https://github.com/scipag/vulscan) - Advanced vulnerability scanning with Nmap NSE 
   - [nmap_vulners](https://github.com/vulnersCom/nmap-vulners) - NSE script based on Vulners.com API.
  #### Wordpress
- - [CMSeeK](https://github.com/Tuhinshubhra/CMSeeK) -  CMS Detection and Exploitation suite - Scan WordPress, Joomla, Drupal and over 180 other CMSs.
  - [wp_hunter](https://github.com/Josue87/wp_hunter) - Static analysis of wordpress plugins.
   ### Privelegies Analysis
   - [PYTMIPE & TMIPE](https://github.com/quentinhardy/pytmipe) - Python library and client for token manipulations and impersonations for privilege escalation on Windows 
@@ -189,6 +188,7 @@ FTest, Lbd, Wafw00f
 
 ## Web Application Analysis
  ### CMS & Framwork Identification
+  - [CMSeeK](https://github.com/Tuhinshubhra/CMSeeK) -  CMS Detection and Exploitation suite - Scan WordPress, Joomla, Drupal and over 180 other CMSs.
  ### Web Application Proxies
  ### Web Crawlers & Directory Brutefroce
  ### Web Vulnerability Scanners
