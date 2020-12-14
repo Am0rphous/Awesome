@@ -1,5 +1,7 @@
 # Networking
 
+Note for later: https://cybercoplabs.net/article/darknet-tools/
+
 ## Awesome
 - [awesome-network-stuff](https://github.com/alphaSeclab/awesome-network-stuff) - Resources about network security, including: Proxy/GFW/ReverseProxy/Tunnel/VPN/Tor/I2P, and MiTM/PortKnocking/NetworkSniff/NetworkAnalysis/etc。More than 1700 open source tools for now. Post incoming. 
 
@@ -13,8 +15,9 @@
 - [Tor Proxy](https://onion.pet/) - Onion.pet - Tor2Web Darknet Proxy
 - [Tor2web](https://github.com/tor2web/Tor2web) - Tor2web is an HTTP proxy software that enables access to Tor Hidden Services by mean of common web browsers. [tor2web.org](https://www.tor2web.org/)
 [Nyx](https://nyx.torproject.org) - Command-line monitor for Tor. With this you can get detailed real-time information about your relay such as bandwidth usage, connections, logs, and much more.
-## Relays
+## Relays, statistics, operators
 - [Exit Failures](https://arthuredelstein.net/exits/)
+- [OrNetStats](https://nusenu.github.io/OrNetStats/) - provides statistics about the Tor network and it operators.
 - [Setup for Middle/Guard Relay setup for Debian/Ubuntu](https://community.torproject.org/relay/setup/guard/debianubuntu)
 - [Relay Post-install and good practices](https://community.torproject.org/relay/setup/post-install)
 - [Tor Relay Search](https://metrics.torproject.org/rs.html#)
