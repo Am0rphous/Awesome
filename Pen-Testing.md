@@ -149,6 +149,7 @@ FTest, Lbd, Wafw00f
 - [CloneVault](https://github.com/mdsecactivebreach/CloneVault) -  allows a red team operator to export and import entries including attributes from Windows Credential Manager. 
 - [FalconFriday](https://github.com/FalconForceTeam/FalconFriday) - hunting queries to detect offensive techniques.
 - [herpaderping](https://github.com/jxy-s/herpaderping) - Process Herpaderping proof of concept, tool, and technical deep dive. Process Herpaderping bypasses security products by obscuring the intentions of a process.
+- [Lengjibo's RedTeamTools](https://github.com/lengjibo/RedTeamTools)
 - [pentest-tools.com](https://pentest-tools.com)
 - [PowerExfil](https://github.com/1N3/PowerExfil) - A collection of data exfiltration scripts for Red Team assessments. 
 - [RedELK](https://github.com/outflanknl/RedELK) - Red Team's SIEM - tool for Red Teams used for tracking and alarming about Blue Team activities as well as better usability in long term operations.
