@@ -35,6 +35,7 @@
 - [MMM-Remote-Control](https://github.com/Jopyth/MMM-Remote-Control) - Magic Mirror Module to shutdown or configure your mirror.
 - [MMM-Screencast](https://github.com/kevinatown/MMM-Screencast) -  A module to cast to the magic mirror.
 - [MMM-SmartWebDisplay](https://github.com/AgP42/MMM-SmartWebDisplay) - The `MMM-SmartWebDisplay` module is for MagicMirror². It allow to display any web content to your MagicMirror.
+- [MMM-StopwatchTimer](https://github.com/Klettner/MMM-StopwatchTimer) - Alert-style timer/stopwatch ⏳ MagicMirror-module, controllable via notifications or the MM-Remote android app.
 - [MMM-syslog](https://github.com/paviro/MMM-syslog) - API for sending notifications to your mirror.
 - [MMM-SystemStats](https://github.com/BenRoe/MMM-SystemStats) - A module for the MagicMirror, to display system stats (cpu tmp, free ram, cpu load).
 - [MMM-SystemTemperature](https://github.com/MichMich/mmm-systemtemperature) - Display the temperature of your Raspberry Pi on your Magic Mirror.
