@@ -15,6 +15,7 @@
 
 ## Magic Mirror repos
 - [Alexyak's Camera Module](https://github.com/alexyak/camera) - The camera module allows you to display a webcamera video feed on your MagicMirror.
+- [MM-Remote](https://github.com/Klettner/MM-Remote) - Android app to control your MagicMirror via smartphone.
 - [MMM-3Day-Forecast](https://github.com/nigel-daniels/MMM-3Day-Forecast) - MagicMirror 2 module to show detailed 3 day forcast using the Wunderground API.
 - [MMM-AVStock](https://github.com/lavolp3/MMM-AVStock) -  MagicMirror module for displaying stock price with Alphavantage API.
 - [MMM-AlexaControl](https://github.com/JoChef2/MMM-AlexaControl) -  Control your MagicMirror with Alexa.
@@ -31,13 +32,13 @@
 - [MMM-page-indicator](https://github.com/edward-shen/MMM-page-indicator) -  MagicMirror² module to display what page you're on.
 - [MMM-Page-Selector](https://github.com/Veldrovive/MMM-Page-Selector) - An easy way to set up and move between pages on a MagicMirror².
 - [MMM-PIR-Sensor](https://github.com/paviro/MMM-PIR-Sensor) - This module can monitor a PIR motion sensor and put your mirror to sleep. 
-
-- [MMM-Traffic](https://github.com/SamLewis0602/MMM-Traffic) - It uses the Google Maps Directions API to get current commute time using current and past traffic conditions. 
+- [MMM-Remote-Control](https://github.com/Jopyth/MMM-Remote-Control) - Magic Mirror Module to shutdown or configure your mirror.
 - [MMM-Screencast](https://github.com/kevinatown/MMM-Screencast) -  A module to cast to the magic mirror.
 - [MMM-SmartWebDisplay](https://github.com/AgP42/MMM-SmartWebDisplay) - The `MMM-SmartWebDisplay` module is for MagicMirror². It allow to display any web content to your MagicMirror.
 - [MMM-syslog](https://github.com/paviro/MMM-syslog) - API for sending notifications to your mirror.
 - [MMM-SystemStats](https://github.com/BenRoe/MMM-SystemStats) - A module for the MagicMirror, to display system stats (cpu tmp, free ram, cpu load).
 - [MMM-SystemTemperature](https://github.com/MichMich/mmm-systemtemperature) - Display the temperature of your Raspberry Pi on your Magic Mirror.
+- [MMM-Traffic](https://github.com/SamLewis0602/MMM-Traffic) - It uses the Google Maps Directions API to get current commute time using current and past traffic conditions.
 - [MMM-Voice-Commands](https://github.com/Veldrovive/MMM-Voice-Commands) - A simple voice command module for MagicMirror² that is highly configurable.
 - [MMM-Weatherchart](https://github.com/paphko/mmm-weatherchart) - Weather chart module for the magic mirror 2 project.
 - [MMM-weatherforecast](https://github.com/jharttech/MMM-weatherforecast) - Custom weather module based off of the MagicMirror default weatherforecast module. This edit allows the days to be shown across the screen with added icons.
