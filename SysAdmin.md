@@ -373,7 +373,13 @@ upstream_recursive_servers:
 
 ## Remoting
 - [PowerShell](https://github.com/PowerShell/PowerShell) - cross-platform (Windows, Linux, and macOS) automation and configuration tool/framework.
-  - [GraphicalTools](https://github.com/PowerShell/GraphicalTools) - Modules that mix PowerShell and GUIs/CUIs! - built on Avalonia and gui.cs 
+  - [GraphicalTools](https://github.com/PowerShell/GraphicalTools) - Modules that mix PowerShell and GUIs/CUIs! - built on Avalonia and gui.cs.
+  ````
+  Enable-PSRemoting -Force
+  set-item wsman:\localhost\Client\TrustedHosts -value *         #Every IP can connect
+  get-item wsman:\localhost\Client\TrustedHosts                  #Check the TrustedHost variable
+  Set-NetConnectionProfile -NetworkCategory Private
+  ````
 - [DropBear SSH](https://github.com/mkj/dropbear) - S smallish SSH server and client. [https://matt.ucc.asn.au/](https://matt.ucc.asn.au/)
 - [Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH) - Win32 port of OpenSSH.
 - [xrdp](https://github.com/neutrinolabs/xrdp) - Open source RDP server.
