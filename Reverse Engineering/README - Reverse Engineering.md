@@ -83,6 +83,9 @@ getcap            #examine file capabilities
  - [AndroGuard docs](https://androguard.readthedocs.io/en/latest/index.html) - Documentation.
 - [Santuko Linux](https://santoku-linux.com) - Mobile forensics, mobile malware and mobile security.
 
+## Processor
+- [x86reference](https://github.com/Barebit/x86reference) - X86 Opcode and Instruction Reference: [http://ref.x86asm.net](http://ref.x86asm.net)
+
 ## Unsorted
 - [CryptoWall Analysis](https://github.com/ryancor/CryptoWall_Analysis) -  CryptoWall 3.0 Ransomware Reversing Documentation & Scripts.
 
