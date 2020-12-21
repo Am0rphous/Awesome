@@ -68,6 +68,7 @@ https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/
 - [OfficePurge](https://github.com/fireeye/OfficePurge)
 - [PostEnum](https://github.com/mostaphabahadou/postenum) - Linux enumeration and privilege escalation tool. 
 - [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - A PowerShell Post-Exploitation Framework 
+- [rpc2socks](https://github.com/lexfo/rpc2socks) - Post-exploit tool that enables a SOCKS tunnel via a Windows host using an extensible custom RPC proto over SMB through a named pipe.
 - [SILENTTRINITY](https://github.com/byt3bl33d3r/SILENTTRINITY) - An asynchronous, collaborative post-exploitation agent powered by Python and .NET's DLR 
  ### DLL
  - [Koppeling](https://github.com/monoxgas/Koppeling) - Adaptive DLL hijacking / dynamic export forwarding.
