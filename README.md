@@ -40,7 +40,7 @@ Various resources, personal notes etc. I find interesting.
 - [Rirc](https://github.com/rcr/rirc) -  A terminal IRC client in C. [rcr.io/rirc](http://rcr.io/rirc/)
 - Quassel, HexChat, WeeChat, Konversation, XChat, Smuxi, Polari, KVIrc, ERC, : https://www.ubuntupit.com/top-20-best-irc-clients-for-linux-that-you-should-use-everyday/
 
- #### Terminal Clients
+  #### Terminal Clients
   - [Birch](https://github.com/dylanaraps/birch) -  An IRC client written in bash.
   - [Irssi](https://irssi.org/) - vpowerful text-mode IRC client.
 
