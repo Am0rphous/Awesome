@@ -134,7 +134,8 @@ FTest, Lbd, Wafw00f
 - [MiscTools](https://github.com/rasta-mouse/MiscTools) - Command Exec / Lateral movement via PsExec-like functionality.
 - [NAT Slipstreaming](https://github.com/samyk/slipstream) - NAT Slipstreaming allows an attacker to remotely access any TCP/UDP services bound to a victim machine, bypassing the victim’s NAT/firewall, just by the victim visiting a website.
 - [Natty-lipstream](https://github.com/wunderwuzzi23/natty-slipstream) -  Simplified NAT Slipstream server and client.
-- [NetblockTool](https://github.com/NetSPI/NetblockTool) -  Find netblocks owned by a company.
+- [NetblockTool](https://github.com/NetSPI/NetblockTool) - Find netblocks owned by a company.
+- [rsocks](https://github.com/brimstone/rsocks) - Tiny little reverse socks5 client & server (unencrypted).
 - [ShodanHat](https://github.com/HatBashBR/ShodanHat) -  search for hosts info with shodan.
 - [Tunneller](https://github.com/skx/tunneller) - Allow internal services, running on localhost, to be accessed over the internet.
 
