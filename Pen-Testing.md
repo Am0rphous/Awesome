@@ -58,6 +58,7 @@ https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/
 - [Armitage](https://github.com/rsmudge/armitage) - graphical cyber attack management tool for Metasploit that visualizes your targets, recommends exploits, and exposes the advanced capabilities of the framework. [Homepage](http://www.fastandeasyhacking.com)
 - [Byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers. [byob.dev](https://byob.dev/)
 - [CobaltStrike](https://www.cobaltstrike.com/) - Commercial, full-featured, penetration testing tool.
+  - [cobalt_strike_extension_kit](https://github.com/josephkingstone/cobalt_strike_extension_kit)
   - [CobaltStrike Training](https://www.cobaltstrike.com/training)
   - [Resources About Cobalt Strike](https://github.com/alphaSeclab/cobalt-strike) - Resources About Cobalt Strike. 100+ Tools And 200+ Posts.
   - [Rvrsh3ll'a BOF_Collection](https://github.com/rvrsh3ll/BOF_Collection) - Various Cobalt Strike BOFs.
