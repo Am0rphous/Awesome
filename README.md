@@ -150,10 +150,11 @@ PyCharm, Spyder, Sublime, Jupyter, Atom, Python IDLE, VSCode, Wing, Thonny PyDev
   - [dictionaries](https://www.freeoffice.com/en/download/dictionaries)
 - [LibreOffice](https://www.libreoffice.org/) - 
 
-## Productivity
+## Productivity Tools
 - [Albert Launcher](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher. [Homepage](https://albertlauncher.github.io/)
 - [GNOME Calendar](https://gitlab.gnome.org/GNOME/gnome-calendar) [gnome-calender github](https://github.com/GNOME/gnome-calendar)
 - [Joplin](https://github.com/laurent22/joplin) - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: [discourse.joplinapp.org](https://discourse.joplinapp.org/))
+- [HTML5 Binary Clock](https://github.com/AE0L/html5-binary-clock) - Binary Clock written in HTML5, CSS3, and Vanilla JS.
 - [KOrganizer](https://github.com/KDE/korganizer) - Organizational assistant, providing calendars and other similar functionality.
 - [MindNode](https://mindnode.com/download) - brainstorm and mind mapping.
   - [Dracula for MindNode](https://github.com/dracula/mindnode) - Dark theme for MindNode.
