@@ -183,10 +183,11 @@ FTest, Lbd, Wafw00f
 - [Unix-Privesc-Check](http://pentestmonkey.net/tools/audit/unix-privesc-check)
 - [vulscan - Vulnerability Scanning with Nmap](https://github.com/scipag/vulscan) - Advanced vulnerability scanning with Nmap NSE 
   - [nmap_vulners](https://github.com/vulnersCom/nmap-vulners) - NSE script based on Vulners.com API.
- #### Wordpress
- - [wp_hunter](https://github.com/Josue87/wp_hunter) - Static analysis of wordpress plugins.
+
   ### Privelegies Analysis
-  - [PYTMIPE & TMIPE](https://github.com/quentinhardy/pytmipe) - Python library and client for token manipulations and impersonations for privilege escalation on Windows 
+  - [PYTMIPE & TMIPE](https://github.com/quentinhardy/pytmipe) - Python library and client for token manipulations and impersonations for privilege escalation on Windows.
+  - [Sherlock](https://github.com/rasta-mouse/Sherlock) - PowerShell script to quickly find missing software patches for local privilege escalation vulnerabilities.
+  - [Watson](https://github.com/rasta-mouse/Watson) - Enumerate missing KBs and suggest exploits for useful Privilege Escalation vulnerabilities.
 
 ## Wargames
 - [0xf.at](https://www.0xf.at/) - 0xf.at (or oxfat it you prefer) is a website without logins or ads where you can solve password-riddles (so called hackits).
@@ -202,6 +203,7 @@ FTest, Lbd, Wafw00f
  ### Web Crawlers & Directory Brutefroce
  ### Web Vulnerability Scanners
  - [LinkFinder](https://github.com/GerbenJavado/LinkFinder) - A python script that finds endpoints in JavaScript files.
+ - [wp_hunter](https://github.com/Josue87/wp_hunter) - Static analysis of wordpress plugins.
 
 ## Wireless Attacks
 - [PRISM-AP](https://github.com/1N3/PRISM-AP) - An automated Wireless RogueAP MITM attack framework. 
