@@ -46,6 +46,7 @@
 - [MMM-WiFiPassword](https://github.com/TeraTech/MMM-WiFiPassword) - Magic Mirror Module that displays your WiFi network, password with QRCode.
 - [MMM-Wunderlist](https://github.com/paviro/MMM-Wunderlist) - This an extension for the MagicMirror. It can display your Wunderlist todos.
 - [MMM-YouTube](https://github.com/Anonym-tsk/MMM-YouTube) - MagicMirror module for youtube player with runtime configuration and controllable by notification.
+- [WallberryTheme](https://github.com/delightedCrow/WallberryTheme) - Bringing the WallberryTheme to MagicMirror².
 
 ## Different Operatingsystems to run on Raspberry
 - [Alpine Linux](https://wiki.alpinelinux.org/wiki/Raspberry_Pi)
