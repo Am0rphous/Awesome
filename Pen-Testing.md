@@ -139,9 +139,10 @@ FTest, Lbd, Wafw00f
 ## Obfuscation
 - [obfuscation-stuff](https://github.com/alphaSeclab/obfuscation-stuff) - Source Code Obfuscation And Binary Obfuscation, Multiple Languages And Multiple Platforms. Including 250+ Tools and 600+ Posts.
 
-## Payload
+## Payload Specific Tools
+- [CPLResourceRunner](https://github.com/rvrsh3ll/CPLResourceRunner) - Run shellcode from resource.
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF 
-- [pwndrop](https://github.com/kgretzky/pwndrop) - Self-deployable file hosting service for red teamers, allowing to easily upload and share payloads over HTTP and WebDAV. [breakdev.org/pwndrop](https://breakdev.org/pwndrop/)
+- [Pwndrop](https://github.com/kgretzky/pwndrop) - Self-deployable file hosting service for red teamers, allowing to easily upload and share payloads over HTTP and WebDAV. [breakdev.org/pwndrop](https://breakdev.org/pwndrop/)
 - [SharpShooter](https://github.com/mdsecactivebreach/SharpShooter) - Payload Generation Framework.
 
 ## Office
