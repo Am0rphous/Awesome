@@ -145,11 +145,6 @@ PyCharm, Spyder, Sublime, Jupyter, Atom, Python IDLE, VSCode, Wing, Thonny PyDev
 - [Soundcleod](https://github.com/salomvary/soundcleod) - SoundCloud for macOS and Windows.
 - [Soundnode App](https://github.com/Soundnode/soundnode-app) - Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API. 
 
-## Office
-- [FreeOffice](https://www.freeoffice.com)
-  - [dictionaries](https://www.freeoffice.com/en/download/dictionaries)
-- [LibreOffice](https://www.libreoffice.org/) - 
-
 ## Productivity Tools
 - [Albert Launcher](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher. [Homepage](https://albertlauncher.github.io/)
 - [GNOME Calendar](https://gitlab.gnome.org/GNOME/gnome-calendar) [gnome-calender github](https://github.com/GNOME/gnome-calendar)
@@ -160,6 +155,12 @@ PyCharm, Spyder, Sublime, Jupyter, Atom, Python IDLE, VSCode, Wing, Thonny PyDev
   - [Dracula for MindNode](https://github.com/dracula/mindnode) - Dark theme for MindNode.
 - RedShift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. 
 - [Tui.calendar](https://github.com/nhn/tui.calendar) - JavaScript calendar that has everything you need. 
+  ### Office Tools
+  - [FreeOffice](https://www.freeoffice.com)
+  - [dictionaries](https://www.freeoffice.com/en/download/dictionaries)
+  - [LibreOffice](https://www.libreoffice.org/)
+  - [SoftMaker Office](https://www.softmaker.com/en/softmaker-office-download) - Free for 30 days.
+
 
  ### Podcast
  - [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts.
