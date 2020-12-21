@@ -313,7 +313,9 @@ upstream_recursive_servers:
   - [Awesome Bash](https://github.com/awesome-lists/awesome-bash) -  A curated list of delightful Bash scripts and resources.
   - [Debugging Bash Scripts](https://linuxconfig.org/how-to-debug-bash-scripts) - Usage of traditional techniques, xtrace, trap and other options.
   - [Oh My Bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. [ohmybash.github.io](https://ohmybash.github.io/)
-
+  ### Web Browser in Terminal
+  - [Wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better).
+  
 ## Utilities
 - [Balena Etcher](https://github.com/balena-io/etcher) -  Flash OS images to SD cards & USB drives, safely and easily.
 - [ISOWriter](https://github.com/KaOSx/isowriter) - Tool for creating bootable installation USB flash drives, forked from rosa-imagewriter.
