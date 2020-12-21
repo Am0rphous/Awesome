@@ -379,6 +379,10 @@ upstream_recursive_servers:
   set-item wsman:\localhost\Client\TrustedHosts -value *         #Every IP can connect
   get-item wsman:\localhost\Client\TrustedHosts                  #Check the TrustedHost variable
   Set-NetConnectionProfile -NetworkCategory Private
+  netstat -ano | Select-String 5985                              #Powershell should run at this port, or 5986 (HTTPS)
+  New-PSSession –ComputerName <Netbios> -Port <Port>
+  Enter-PSSession –ComputerName 192.168.1.10 -Credentials(Get-Credentials Administrator)
+  nmap -v 192.168.1.10 -sV -Pn -p 5985,5986                      #Might be good to check that the port is open.
   ````
 - [DropBear SSH](https://github.com/mkj/dropbear) - S smallish SSH server and client. [https://matt.ucc.asn.au/](https://matt.ucc.asn.au/)
 - [Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH) - Win32 port of OpenSSH.
