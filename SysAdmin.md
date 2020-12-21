@@ -171,6 +171,7 @@ upstream_recursive_servers:
 - [Psad](https://github.com/mrash/psad) - Intrusion Detection with iptables Logs.
   - [How to Install and Use PSAD IDS on Ubuntu Linux](https://blog.rapid7.com/2017/06/24/how-to-install-and-use-psad-ids-on-ubuntu-linux) - Nice Tutorial.
 - [Snort3](https://github.com/snort3/snort3) - next generation Snort IPS (Intrusion Prevention System). [snort.org](https://snort.org/)
+  - [Eldondev's Snort rules](https://github.com/eldondev/Snort/tree/master/rules)
   - [snort-rules (unofficial)](https://github.com/codecat007/snort-rules) - An UNOFFICIAL Git Repository of Snort Rules(IDS rules) Releases.
   - [Fireeye Red-Team's Snort rules](https://github.com/fireeye/red_team_tool_countermeasures/blob/master/all-snort.rules)
 - [Splunk Home](https://ethicalhackingguru.com/splunk-free-home) - Restricted to 500 megabyte / day.
