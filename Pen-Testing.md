@@ -25,8 +25,6 @@ https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/
 - [SLAE32 Certification Assignments](https://www.phrozen.io/docs/linux/slae32/)
 - [XSS-Payloads](https://github.com/RenwaX23/XSS-Payloads)
 
-  ### Injection
-  - [Theevilbit's injection](https://github.com/theevilbit/injection)
 
 ## Active Directory / Domain
 - [Active Directory Exploitation Cheat Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet) - A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.
@@ -73,7 +71,10 @@ https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/
   ### DLL
   - [Koppeling](https://github.com/monoxgas/Koppeling) - Adaptive DLL hijacking / dynamic export forwarding.
   ### Process Injection
+  - [go-shellcode](https://github.com/brimstone/go-shellcode) - program to run shellcode as its own process, all from memory. This was written to defeat anti-virus detection.
+  - [Theevilbit's injection](https://github.com/theevilbit/injection)
   - [TikiTorch](https://github.com/rasta-mouse/TikiTorch) - Process Injection.
+  
 
 ## Fuzzers
 - [FZT](https://github.com/junegunn/fzf) - A command-line fuzzy finder.
