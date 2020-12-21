@@ -127,6 +127,7 @@ FTest, Lbd, Wafw00f
 
  ### Network Tools
  - [ARP-scan](https://github.com/royhills/arp-scan) - Scanning hosts on a network with the ARP protocol.
+ - [BruteShark](https://github.com/odedshimon/BruteShark) - Network Analysis Tool.
 - [Espionage](https://github.com/josh0xA/Espionage) - A Network Packet and Traffic Interceptor For Linux. Spoof ARP & Wiretap A Network. 
 - [Impacket](https://github.com/SecureAuthCorp/impacket)- [secureauth.com/labs/impacket](https://www.secureauth.com/labs/impacket)
 - [MiscTools](https://github.com/rasta-mouse/MiscTools) - Command Exec / Lateral movement via PsExec-like functionality.
