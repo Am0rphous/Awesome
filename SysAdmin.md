@@ -229,7 +229,8 @@ upstream_recursive_servers:
 
 ## Package Managers
 - [Brew / HomeBrew](https://brew.sh/) - Package Manager for Linux and MacOS.
-- [Brew Documentation](https://docs.brew.sh)
+  - [Brew Documentation](https://docs.brew.sh)
+  - [Homebrew Services](https://github.com/Homebrew/homebrew-services) - Manage background services with macOS' launchctl daemon manager.
 
    Quick install:
    ````
