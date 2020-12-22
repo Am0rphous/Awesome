@@ -84,7 +84,8 @@ https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/
 
 ## Fuzzers
 - [FZT](https://github.com/junegunn/fzf) - A command-line fuzzy finder.
-  ### iOS
+- [Wfuzz](https://github.com/xmendez/wfuzz) - Web application fuzzer.
+  ### iOS Specific
   - [ToothPicker](https://github.com/seemoo-lab/toothpicker) - In-process, coverage-guided fuzzer for iOS.
 
 
