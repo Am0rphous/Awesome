@@ -91,7 +91,8 @@ https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/
 
 ## Information Gathering
 - [Autoenum](https://github.com/Gr1mmie/autoenum) - Automatic Service Enumeration Script.
-- [DeviceDetector](https://github.com/matomo-org/device-detector) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model [devicedetector.net](http://devicedetector.net/).
+- [DeviceDetector](https://github.com/matomo-org/device-detector) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model [devicedetector.net](http://devicedetector.net).
+- [Metagoofil](https://github.com/laramies/metagoofil) - Metadata harvester.
 - [Nikto](https://github.com/sullo/nikto) - Web server scanner. [Documentation](https://cirt.net/nikto2-docs/)
 - [reNgine](https://github.com/yogeshojha/rengine) - automated reconnaissance framework meant for information gathering during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.
 
