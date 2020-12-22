@@ -146,6 +146,7 @@ FTest, Lbd, Wafw00f
 - [Tunneller](https://github.com/skx/tunneller) - Allow internal services, running on localhost, to be accessed over the internet.
 
 ## Obfuscation
+- [Article: PowerShell Obfuscation using SecureString](https://www.wietzebeukema.nl/blog/powershell-obfuscation-using-securestring)
 - [obfuscation-stuff](https://github.com/alphaSeclab/obfuscation-stuff) - Source Code Obfuscation And Binary Obfuscation, Multiple Languages And Multiple Platforms. Including 250+ Tools and 600+ Posts.
 
 ## Payload Specific Tools
@@ -160,7 +161,6 @@ FTest, Lbd, Wafw00f
 ## Passwords
 - [Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots.
 - [CeWL](https://github.com/digininja/CeWL/) - spiders a URL to a specified depth and searches for words that can be used for password attacks. 
-
 
 ## Red Team
 - [CloneVault](https://github.com/mdsecactivebreach/CloneVault) -  allows a red team operator to export and import entries including attributes from Windows Credential Manager. 
