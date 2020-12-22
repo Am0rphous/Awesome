@@ -35,7 +35,8 @@ https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/
 - [StandIn](https://github.com/FuzzySecurity/StandIn) - small AD post-compromise toolkit.
 - [WinPwn](https://github.com/S3cur3Th1sSh1t/WinPwn) -  Automation for internal Windows Penetrationtest / AD-Security.
 
-## Backdoor Factory
+## Backdoor Factor
+- [Backdoorplz](https://github.com/jfmaes/Backdoorplz) - adding a backdooruser using win32api.
 - [tomcatWarDeployer](https://github.com/mgeeky/tomcatWarDeployer) - Penetration testing tool intended to leverage Apache Tomcat credentials in order to automatically generate and deploy JSP Backdoor.
 - [ShellStack](https://github.com/Tuhinshubhra/shellstack) -  A PHP Based Tool That Helps You To Manage All Your Backdoored Websites Efficiently.
 
