@@ -75,6 +75,7 @@ https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/
   ### Process Injection
   - [go-shellcode](https://github.com/brimstone/go-shellcode) - program to run shellcode as its own process, all from memory. This was written to defeat anti-virus detection.
   - [Theevilbit's injection](https://github.com/theevilbit/injection)
+  - [SharpZipRunner](https://github.com/jfmaes/SharpZipRunner) - Executes position independent shellcode from an encrypted zip.
   - [TikiTorch](https://github.com/rasta-mouse/TikiTorch) - Process Injection.
   
 
