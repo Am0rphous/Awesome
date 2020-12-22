@@ -41,6 +41,7 @@
 - [MMM-SystemTemperature](https://github.com/MichMich/mmm-systemtemperature) - Display the temperature of your Raspberry Pi on your Magic Mirror.
 - [MMM-Traffic](https://github.com/SamLewis0602/MMM-Traffic) - It uses the Google Maps Directions API to get current commute time using current and past traffic conditions.
 - [MMM-Voice-Commands](https://github.com/Veldrovive/MMM-Voice-Commands) - A simple voice command module for MagicMirror² that is highly configurable.
+- [MMM-Wallpaper](https://github.com/kolbyjack/MMM-Wallpaper) - MagicMirror module to display wallpapers from various online sources.
 - [MMM-Weatherchart](https://github.com/paphko/mmm-weatherchart) - Weather chart module for the magic mirror 2 project.
 - [MMM-weatherforecast](https://github.com/jharttech/MMM-weatherforecast) - Custom weather module based off of the MagicMirror default weatherforecast module. This edit allows the days to be shown across the screen with added icons.
 - [MMM-WiFiPassword](https://github.com/TeraTech/MMM-WiFiPassword) - Magic Mirror Module that displays your WiFi network, password with QRCode.
