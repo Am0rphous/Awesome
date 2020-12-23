@@ -27,9 +27,10 @@
 - [MMM-GoogleBirthdaysProvider](https://github.com/PalatinCoder/MMM-GoogleBirthdaysProvider) -  MagicMirror² Module to include your Google Contacts' birthdays into the default calendar.
 - [MMM-GoogleCast](https://github.com/ferferga/MMM-GoogleCast) - See what's playing in your Google Cast device inside your MagicMirror.
 - [MMM-Facial-Recognition](https://github.com/paviro/MMM-Facial-Recognition) - This an extension for the MagicMirror. It provides facial recognition and module swapping based on the current user.
-- [MMM-ImageSlideshow](https://github.com/AdamMoses-GitHub/MMM-ImageSlideshow) -  Displays images one-at-a-time from local folders.
-- [MMM-network-signal](https://github.com/PoOwAa/MMM-network-signal) -  Display a solid wifi logo as network signal for MagicMirror2.
-- [MMM-page-indicator](https://github.com/edward-shen/MMM-page-indicator) -  MagicMirror² module to display what page you're on.
+- [MMM-ImageSlideshow](https://github.com/AdamMoses-GitHub/MMM-ImageSlideshow) - Displays images one-at-a-time from local folders.
+- [MMM-network-signal](https://github.com/PoOwAa/MMM-network-signal) - Display a solid wifi logo as network signal for MagicMirror2.
+- [MMM-OnScreenMenu](https://github.com/shbatm/MMM-OnScreenMenu) - MagicMirror² utility module that provides a simple on screen menu for control.
+- [MMM-page-indicator](https://github.com/edward-shen/MMM-page-indicator) - MagicMirror² module to display what page you're on.
 - [MMM-Page-Selector](https://github.com/Veldrovive/MMM-Page-Selector) - An easy way to set up and move between pages on a MagicMirror².
 - [MMM-PIR-Sensor](https://github.com/paviro/MMM-PIR-Sensor) - This module can monitor a PIR motion sensor and put your mirror to sleep. 
 - [MMM-Remote-Control](https://github.com/Jopyth/MMM-Remote-Control) - Magic Mirror Module to shutdown or configure your mirror.
