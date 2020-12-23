@@ -99,8 +99,10 @@ https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/
 ### DNS Analysis
 - [AssetFinder](https://github.com/tomnomnom/assetfinder) - Find domains and subdomains related to a given domain.
 - [BlackWidow](https://github.com/1N3/BlackWidow) - A Python based web application scanner to gather OSINT and fuzz for OWASP vulnerabilities on a target website. 
-- [DnsEnum]()
+- [DnsEnum](https://github.com/fwaeytens/dnsenum) - perl script that enumerates DNS information.
+
 DNSMap, DNSRecon, DNSTracer, DNSWalk, Fierce, URLCrazy
+
   #### DNS Attacking
   - [JudasDNS](https://github.com/mandatoryprogrammer/JudasDNS) - Nameserver DNS poisoning attacks made easy.
 
