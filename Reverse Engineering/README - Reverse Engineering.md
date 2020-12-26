@@ -60,10 +60,13 @@ file              #determine file type
 getcap            #examine file capabilities
 ````
 
- ### File Conversion
+  ### File Conversion
   - [Dex2Jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files.
   - [Enjarify](https://github.com/Storyyeller/enjarify) - tool for translating Dalvik bytecode to equivalent Java bytecode.
   - [Smali2Java](https://github.com/alexeysoshin/smali2java) - Recreate Java code from Smali.
+
+  ### PHP
+  - [reverse-php-malware](https://github.com/bediger4000/reverse-php-malware) - De-obfuscate and reverse engineer PHP malware.
 
 ## Frameworks
 - [Cutter](https://github.com/radareorg/cutter) - Free and open-source reverse engineering framework powered by radare2.
