@@ -17,6 +17,7 @@ https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/
 - [captcha-crack-tools](https://github.com/evilsadko/captcha-crack-tools)
 - [Dissonance](https://github.com/n00py/Dissonance) -  Rogue Synergy server.
 - [katoolin3](https://github.com/s-h-3-l-l/katoolin3) - Automatically install all Kali linux tools.
+- [meterpreter-av-bypass](https://github.com/n0a/meterpreter-av-bypass) - Bypass Windows Defender with py2exe from memory.
 - [NetELF](https://github.com/XiphosResearch/netelf)
 - [nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use.
 - [OSCE PREP](https://github.com/snoopysecurity/OSCE-Prep) - A list of freely available resources that can be used as a prerequisite before taking OSCE.
