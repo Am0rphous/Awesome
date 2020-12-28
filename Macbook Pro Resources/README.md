@@ -32,6 +32,7 @@
    ````
    
 ## Macbook with Linux
+- [bcwc_pcie](https://github.com/patjak/bcwc_pcie) - Reverse engineered Linux driver for the FacetimeHD (Broadcom 1570) PCIe webcam.
 - [Linuxbrew Core](https://github.com/Homebrew/linuxbrew-core) - [Linuxbrew documentation](https://docs.brew.sh/Homebrew-on-Linux)
 - [mbp-2016-linux](https://github.com/Dunedan/mbp-2016-linux) - State of Linux on the MacBook Pro 2016 & 2017.
 - [mbp-ubuntu-kernel](https://github.com/marcosfad/mbp-ubuntu-kernel) - Ubuntu Kernel for MacBook Pro (incl. T2 patches).
