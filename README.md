@@ -150,6 +150,7 @@ PyCharm, Spyder, Sublime, Jupyter, Atom, Python IDLE, VSCode, Wing, Thonny PyDev
 - [Shortwave](https://gitlab.gnome.org/World/Shortwave) - Find and listen to internet radio stations.
 - [Soundcleod](https://github.com/salomvary/soundcleod) - SoundCloud for macOS and Windows.
 - [Soundnode App](https://github.com/Soundnode/soundnode-app) - Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API. 
+- [Spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 
 ## Productivity Tools
 - [Albert Launcher](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher. [Homepage](https://albertlauncher.github.io/)
