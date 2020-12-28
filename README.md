@@ -75,6 +75,9 @@ Various resources, personal notes etc. I find interesting.
 - [Firefly III:](https://github.com/firefly-iii/firefly-iii) - a personal finances manager 
 - [portfolio](https://github.com/buchen/portfolio) - A simple tool to calculate the overall performance of an investment portfolio. [portfolio-performance.info](https://www.portfolio-performance.info/en/)
 
+## Food and Drinks
+- [Brewtarget](https://github.com/Brewtarget/brewtarget) - Brewtarget is free open-source brewing software, and a beer recipe creation tool available for Linux, Mac, and Windows. It automatically calculates color, bitterness, and other parameters for you while you drag and drop ingredients into the recipe.
+
 ## Games
 - [Games on Github](https://github.com/leereilly/games) - A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine. 
 
