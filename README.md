@@ -78,6 +78,9 @@ Various resources, personal notes etc. I find interesting.
 ## Games
 - [Games on Github](https://github.com/leereilly/games) - A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine. 
 
+## Geography
+- [GMT - Generic Mapping Tools](https://github.com/GenericMappingTools/gmt) - Open source collection of about 90 command-line tools for manipulating geographic and Cartesian data sets.
+
 ## IDE (Integrated Development Environment) and programming
 PyCharm, Spyder, Sublime, Jupyter, Atom, Python IDLE, VSCode, Wing, Thonny PyDev
 
