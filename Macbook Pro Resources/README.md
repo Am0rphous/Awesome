@@ -35,6 +35,7 @@
 - [Linuxbrew Core](https://github.com/Homebrew/linuxbrew-core) - [Linuxbrew documentation](https://docs.brew.sh/Homebrew-on-Linux)
 - [mbp-2016-linux](https://github.com/Dunedan/mbp-2016-linux) - State of Linux on the MacBook Pro 2016 & 2017 
 - [Roadrunner2's macbook12-spi-driver](https://github.com/roadrunner2/macbook12-spi-driver) - Input driver for the SPI keyboard / trackpad found on 12" MacBooks (2015 and later) and newer MacBook Pros (late 2016 through mid 2018), as well a simple touchbar and ambient-light-sensor driver for late 2016 MacBook Pro's and later.
+- [State of Linux on the MacBook Pro 2016 & 2017](https://github.com/Dunedan/mbp-2016-linux) - Provides an overview about Linux support for Apple's MacBook Pro 2016 and MacBook Pro 2017 models.
 
   ### Linux tools specificly for Macbook
   - [mbpfan](https://github.com/linux-on-mac/mbpfan) - A simple daemon to control fan speed on all MacBook/MacBook Pros (probably all Apple computers) for Linux Kernel 3 and newer 
