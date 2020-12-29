@@ -245,6 +245,7 @@ upstream_recursive_servers:
    export HOMEBREW_NO_ANALYTICS=1
    brew analytics off
    ````
+- [Chocolatey](https://github.com/chocolatey/choco) - Package manager for Windows.
 - [Gem (RubyGems)](https://rubygems.org) - package management framework for Ruby.
 - [FlatPak](https://flatpak.org)
 - [Nixpkgs](https://github.com/NixOS/nixpkgs) - collection of over 60,000 software packages that can be installed with the Nix package manager [nixos.org](https://nixos.org).
