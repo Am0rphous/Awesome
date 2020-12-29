@@ -1,13 +1,10 @@
-
 # Pen-Testing Tools
 
-Note for later:
 
-https://gbhackers.com/hacking-tools-list/
 
 https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/
 
-#### Random list, got to sort it into correct category later.
+### Random list, got to sort it into correct category later.
 
 - [Awesome Security Trivia](https://github.com/qazbnm456/awesome-security-trivia) - Security Trivia that rare people know.
 - [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) - A curated list of Web Security materials and resources.
@@ -15,6 +12,7 @@ https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/
   - [Awesome Burp Extensions](https://github.com/snoopysecurity/awesome-burp-extensions) - A curated list of amazingly awesome Burp Extensions.
   - [IntruderPayloads](https://github.com/1N3/IntruderPayloads) - A collection of Burpsuite Intruder payloads, BurpBounty payloads, fuzz lists, malicious file uploads and web pentesting methodologies and checklists.
 - [captcha-crack-tools](https://github.com/evilsadko/captcha-crack-tools)
+- [Collection of Hacking tools](https://gbhackers.com/hacking-tools-list/)
 - [Dissonance](https://github.com/n00py/Dissonance) -  Rogue Synergy server.
 - [katoolin3](https://github.com/s-h-3-l-l/katoolin3) - Automatically install all Kali linux tools.
 - [meterpreter-av-bypass](https://github.com/n0a/meterpreter-av-bypass) - Bypass Windows Defender with py2exe from memory.
