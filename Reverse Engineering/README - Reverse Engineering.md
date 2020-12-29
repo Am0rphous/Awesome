@@ -4,8 +4,10 @@
 For later:
 https://github.com/WebAssembly/wabt
 
-## Awesome
-- [awesome-reverse-engineering](https://github.com/alphaSeclab/awesome-reverse-engineering) - Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT) And Every Aspect! (More than 3500 open source tools and 2300 posts&videos).
+
+- [Awesome Reverse Engineering](https://github.com/alphaSeclab/awesome-reverse-engineering) - Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT) And Every Aspect! (More than 3500 open source tools and 2300 posts&videos).
+- [CyberChef](https://github.com/gchq/cyberchef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis.
+  - [gchq.github.io/CyberChef](https://gchq.github.io/CyberChef)
 
 ## Android
 - [alphaSeclab's android-security collection](https://github.com/alphaSeclab/android-security) -  Android Security Resources.
