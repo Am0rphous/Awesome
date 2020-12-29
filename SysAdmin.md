@@ -315,7 +315,10 @@ upstream_recursive_servers:
   ### Bash
   - [Awesome Bash](https://github.com/awesome-lists/awesome-bash) -  A curated list of delightful Bash scripts and resources.
   - [Debugging Bash Scripts](https://linuxconfig.org/how-to-debug-bash-scripts) - Usage of traditional techniques, xtrace, trap and other options.
-  - [Oh My Bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. [ohmybash.github.io](https://ohmybash.github.io/)
+  - [Oh My Bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. [ohmybash.github.io](https://ohmybash.github.io)
+  ### Dotfiles
+  - [Mohkale's DotFiles](https://github.com/mohkale/dotfiles)
+  - [Yadm - Yet Another Dotfiles Manager](https://github.com/TheLocehiliosan/yadm)
   ### Web Browser in Terminal
   - [browser-terminal](https://github.com/AE0L/browser-terminal) - A browser terminal made with Vanilla JavaScript.
   - [Wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better).
