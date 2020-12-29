@@ -115,9 +115,9 @@ DNSMap, DNSRecon, DNSTracer, DNSWalk, Fierce, URLCrazy
 FTest, Lbd, Wafw00f
  ### Network Enumeration & Port Scanners
  - [IOXIDResolver](https://github.com/mubix/IOXIDResolver) - IOXIDResolver.py from AirBus Security.
-   - [The OXID Resolver (Part )]](https://airbus-cyber-security.com/the-oxid-resolver-part-1-remote-enumeration-of-network-interfaces-without-any-authentication/) – Remote enumeration of network interfaces without any authentication.
-   - [The OXID Resolver (Part 2)](https://airbus-cyber-security.com/the-oxid-resolver-part-2-accessing-a-remote-object-inside-dcom/) – Accessing a Remote Object inside DCOM
- - [NimScan](https://github.com/elddy/NimScan) - Really fast port scanner (With filtered option - Windows support only).
+   - [The OXID Resolver (Part 1)]](https://airbus-cyber-security.com/the-oxid-resolver-part-1-remote-enumeration-of-network-interfaces-without-any-authentication) – Remote enumeration of network interfaces without any authentication.
+   - [The OXID Resolver (Part 2)](https://airbus-cyber-security.com/the-oxid-resolver-part-2-accessing-a-remote-object-inside-dcom/) – Accessing a Remote Object inside DCOM.
+ - [MasScan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
  
  ### OSINT Analysis
 - [Awesome OSINT](https://github.com/jivoi/awesome-osint) - A curated list of amazingly awesome OSINT.
