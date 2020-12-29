@@ -154,6 +154,9 @@ FTest, Lbd, Wafw00f
 - [ShodanHat](https://github.com/HatBashBR/ShodanHat) -  search for hosts info with shodan.
 - [Tunneller](https://github.com/skx/tunneller) - Allow internal services, running on localhost, to be accessed over the internet.
 
+## MiTM Tools
+- [Xerosploit](https://github.com/LionSec/xerosploit) - Efficient and advanced man in the middle framework.
+
 ## Obfuscation
 - [Article: PowerShell Obfuscation using SecureString](https://www.wietzebeukema.nl/blog/powershell-obfuscation-using-securestring)
 - [obfuscation-stuff](https://github.com/alphaSeclab/obfuscation-stuff) - Source Code Obfuscation And Binary Obfuscation, Multiple Languages And Multiple Platforms. Including 250+ Tools and 600+ Posts.
