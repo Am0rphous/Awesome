@@ -151,6 +151,8 @@ FTest, Lbd, Wafw00f
 - [rsocks](https://github.com/brimstone/rsocks) - Tiny little reverse socks5 client & server (unencrypted).
 - [ShodanHat](https://github.com/HatBashBR/ShodanHat) -  search for hosts info with shodan.
 - [Tunneller](https://github.com/skx/tunneller) - Allow internal services, running on localhost, to be accessed over the internet.
+  #### Lateral Movement
+  - [Living Off The Land Binaries and Scripts (and also Libraries)](https://lolbas-project.github.io)
 
 ## MiTM Tools
 - [Xerosploit](https://github.com/LionSec/xerosploit) - Efficient and advanced man in the middle framework.
