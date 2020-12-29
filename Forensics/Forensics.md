@@ -57,6 +57,8 @@
   - [plugins](https://github.com/volatilityfoundation/community).
 
 ## Network forensic tools
+- [CyberChef](https://github.com/gchq/cyberchef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis.
+  - [gchq.github.io/CyberChef](https://gchq.github.io/CyberChef)
 - [Flare-fakenet-ng](https://github.com/fireeye/flare-fakenet-ng) - Next Generation Dynamic Network Analysis Tool.
 - [Netsniff-ng](https://github.com/netsniff-ng/netsniff-ng) - A Swiss army knife for your daily Linux network plumbing. [netsniff-ng.org](http://netsniff-ng.org/)
 - [NetworkMiner](https://www.netresec.com/?page=Networkminer) - open source Network Forensic Analysis Tool (NFAT) for Windows (but also works in Linux / Mac OS X / FreeBSD). 
