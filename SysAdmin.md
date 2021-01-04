@@ -325,13 +325,16 @@ upstream_recursive_servers:
   - [Wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better).
   
 ## Utilities
-- [Balena Etcher](https://github.com/balena-io/etcher) -  Flash OS images to SD cards & USB drives, safely and easily.
-- [ISOWriter](https://github.com/KaOSx/isowriter) - Tool for creating bootable installation USB flash drives, forked from rosa-imagewriter.
-- [ripgrep-all](https://github.com/phiresky/ripgrep-all) - search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
-- [UNetbootin](https://github.com/unetbootin/unetbootin) - UNetbootin installs Linux/BSD distributions to a partition or USB drive.
-- [WoeUSB](https://github.com/WoeUSB/WoeUSB) -  A Microsoft Windows® USB installation media preparer for GNU+Linux.
-### Testing
-- [Selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem. 
+- [Git For Windows](https://gitforwindows.org/)
+- [RipGrep-All](https://github.com/phiresky/ripgrep-all) - search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
+
+  ### Create Bootable USB
+  - [Balena Etcher](https://github.com/balena-io/etcher) -  Flash OS images to SD cards & USB drives, safely and easily.
+  - [ISOWriter](https://github.com/KaOSx/isowriter) - Tool for creating bootable installation USB flash drives, forked from rosa-imagewriter.
+  - [UNetbootin](https://github.com/unetbootin/unetbootin) - UNetbootin installs Linux/BSD distributions to a partition or USB drive.
+  - [WoeUSB](https://github.com/WoeUSB/WoeUSB) -  A Microsoft Windows® USB installation media preparer for GNU+Linux.
+  ### Testing
+  - [Selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 
 
 ## Virtualization
