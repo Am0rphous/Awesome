@@ -325,7 +325,8 @@ upstream_recursive_servers:
   - [Wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better).
   
 ## Utilities
-- [Git For Windows](https://gitforwindows.org/)
+- [Git](https://github.com/git/git) - fast, scalable, distributed revision control system.
+- [Git For Windows](https://github.com/git-for-windows/git) - [https://gitforwindows.org](https://gitforwindows.org)
 - [RipGrep-All](https://github.com/phiresky/ripgrep-all) - search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 
   ### Create Bootable USB
