@@ -27,6 +27,7 @@ Various resources, personal notes etc. I find interesting.
 - [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts)
 - [Awesome Search](https://awesomelists.top/)
 - [Awesome SSH](https://github.com/moul/awesome-ssh)
+- [Awesome Termux](https://github.com/T4P4N/Awesome-Termux)
 - [Awesome UNIX](https://github.com/sirredbeard/Awesome-UNIX) - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
 - [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) - A curated list of Web Security materials and resources.
 - [Awesome WSL](https://github.com/sirredbeard/Awesome-WSL) - Awesome list dedicated to Windows Subsystem for Linux.
