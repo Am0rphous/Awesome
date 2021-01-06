@@ -65,11 +65,12 @@ https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/
   - [CobaltStrike Training](https://www.cobaltstrike.com/training)
   - [Resources About Cobalt Strike](https://github.com/alphaSeclab/cobalt-strike) - Resources About Cobalt Strike. 100+ Tools And 200+ Posts.
   - [Rvrsh3ll'a BOF_Collection](https://github.com/rvrsh3ll/BOF_Collection) - Various Cobalt Strike BOFs.
-- [fwexpl (old)](https://github.com/Cr4sh/fwexpl) - PC firmware exploitation tool and library.
+- [Fwexpl (old)](https://github.com/Cr4sh/fwexpl) - PC firmware exploitation tool and library.
 - [iBombShell](https://github.com/ElevenPaths/ibombshell) - Tool to deploy a post-exploitation prompt at any time
 - [Koadic](https://github.com/zerosum0x0/koadic) - Koadic C3 COM Command & Control - JScript RAT 
 - [OfficePurge](https://github.com/fireeye/OfficePurge)
 - [PostEnum](https://github.com/mostaphabahadou/postenum) - Linux enumeration and privilege escalation tool. 
+- [Pompem](https://github.com/rfunix/Pompem) -Exploit and Vulnerability Finder.
 - [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - A PowerShell Post-Exploitation Framework 
 - [rpc2socks](https://github.com/lexfo/rpc2socks) - Post-exploit tool that enables a SOCKS tunnel via a Windows host using an extensible custom RPC proto over SMB through a named pipe.
 - [SILENTTRINITY](https://github.com/byt3bl33d3r/SILENTTRINITY) - An asynchronous, collaborative post-exploitation agent powered by Python and .NET's DLR 
