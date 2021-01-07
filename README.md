@@ -11,7 +11,7 @@ Various resources, personal notes etc. I find interesting.
 
 ## A List of 'Awesome' entitled projects
 - [Awesome Azure Security](https://github.com/kmcquade/awesome-azure-security) - A curated list of awesome Microsoft Azure Security tools, guides, blogs, and other resources.
-- [Awesome CLI](https://github.com/umutphp/awesome-cli)
+- [Awesome CLI](https://github.com/umutphp/awesome-cli) - A simple command line tool to give you a fancy command line interface to dive into Awesome lists.
 - [Awesome cve poc](https://github.com/qazbnm456/awesome-cve-poc) - A curated list of CVE PoCs.
 - [Awesome Cyber Security](https://github.com/alphaSeclab/awesome-cyber-security) - Currently contains 8000+ open source repositories, and not very well classified. 
 - [Awesome Design](https://github.com/gztchan/awesome-design) - Curated design resources.
