@@ -7,7 +7,7 @@
 - [Backup](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#backup)
   - [Ransomware Decryptors](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#ransomware-decryptors)
 - [Benchmarking](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#benchmarking)
-- [Chat / Communication](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#chat--communication)
+- [Communication / Collaboration](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#chat--communication)
   - [Matrix](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#matrix)
 - [Configuration Management](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#configuration-management)
 - [DHCP](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#dhcp)
@@ -115,7 +115,7 @@ bro / zeek
   - [openbenchmarking.org](https://openbenchmarking.org) - Storage of Phoronix Test Suite benchmark result data (including optional system logs, etc).
   - [Phoronix Test Suite on Github](https://github.com/phoronix-test-suite/phoronix-test-suite) - The Phoronix Test Suite open-source, cross-platform automated testing/benchmarking software.
 
-## Chat / Communication
+## Communication / Collaboration
 - [Convos](https://convos.chat)
 - [HexChat](https://github.com/hexchat/hexchat) - IRC client for Windows and UNIX-like operating systems [hexchat.github.io](https://hexchat.github.io)
 - [Jitsi Meet](https://github.com/jitsi/jitsi-meet) - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
