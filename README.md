@@ -63,14 +63,18 @@ Various resources, personal notes etc. I find interesting.
   - [gnome-look.org](https://www.gnome-look.org)
 
 ## Development
-PyCharm, Spyder, Jupyter, Python IDLE, VSCode, Wing, Thonny PyDev
+PyCharm, Spyder, Jupyter , , 
 
 - [Atom](https://github.com/atom/atom) - Atom is a hackable text editor for the 21st century, built on Electron.
 - [CppCheck](https://github.com/danmar/cppcheck) -  static analysis of C/C++ code.
 - [Dart SDK](https://github.com/dart-lang/sdk) - Dart is an open-source, scalable programming language, with robust libraries and runtimes, for building web, server, and mobile apps.
 - [Emmet Sublime](https://github.com/sergeche/emmet-sublime) - Emmet for Sublime Text.
 - [Github Desktop](https://github.com/desktop/desktop) - open source Electron-based GitHub app. It is written in TypeScript and uses React [desktop.github.com/](https://desktop.github.com).
+- [Jupyter Notebook](https://github.com/jupyter/notebook) - web-based notebook environment for interactive computing.
 - [Sublime](https://www.sublimetext.com) - A sophisticated text editor for code, markup and prose.
+- [Thonny PyDev](https://github.com/thonny/thonny) - Python IDE for beginners.
+- [Visual Studio Code](https://github.com/Microsoft/vscode) - [code.visualstudio.com](https://code.visualstudio.com)
+- [Wing](https://github.com/kbrsh/wing) - A beautiful CSS framework designed for minimalists [kbrsh.github.io](https://kbrsh.github.io/wing/).
 
 ## E-books
 - [Calibre](https://github.com/kovidgoyal/calibre) - calibre is an e-book manager. It can view, convert, edit and catalog e-books in all of the major e-book formats.
