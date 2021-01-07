@@ -62,6 +62,13 @@ Various resources, personal notes etc. I find interesting.
     - [Windows 10 Theme for Linux](https://github.com/B00merang-Project/Windows-10) - Windows 10 Light theme for Linux (GTK).
   - [gnome-look.org](https://www.gnome-look.org)
 
+## Development
+PyCharm, Spyder, Sublime, Jupyter, Atom, Python IDLE, VSCode, Wing, Thonny PyDev
+
+- [CppCheck](https://github.com/danmar/cppcheck) -  static analysis of C/C++ code.
+- [Dart SDK](https://github.com/dart-lang/sdk) - Dart is an open-source, scalable programming language, with robust libraries and runtimes, for building web, server, and mobile apps.
+- [Github Desktop](https://github.com/desktop/desktop) - open source Electron-based GitHub app. It is written in TypeScript and uses React [desktop.github.com/](https://desktop.github.com).
+
 ## E-books
 - [Calibre](https://github.com/kovidgoyal/calibre) - calibre is an e-book manager. It can view, convert, edit and catalog e-books in all of the major e-book formats.
 - [Free Security eBooks](https://github.com/Hack-with-Github/Free-Security-eBooks) - A curated list of free Security and Pentesting related E-Books available on the Internet.
@@ -84,12 +91,6 @@ Various resources, personal notes etc. I find interesting.
 
 ## Geography
 - [GMT - Generic Mapping Tools](https://github.com/GenericMappingTools/gmt) - Open source collection of about 90 command-line tools for manipulating geographic and Cartesian data sets.
-
-## IDE (Integrated Development Environment) and programming
-PyCharm, Spyder, Sublime, Jupyter, Atom, Python IDLE, VSCode, Wing, Thonny PyDev
-
-- [CppCheck](https://github.com/danmar/cppcheck) -  static analysis of C/C++ code.
-- [Github Desktop](https://github.com/desktop/desktop) - open source Electron-based GitHub app. It is written in TypeScript and uses React [desktop.github.com/](https://desktop.github.com).
 
 ## InfoSec
 - [academy.attackiq.com](https://academy.attackiq.com)
