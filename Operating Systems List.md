@@ -2,6 +2,7 @@
 # Operating systems
 
 - [A list of web resources](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#a-list-of-web-resources)
+- [Create Your Own Custom Linux OS](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#create-your-own-custom-linux-os)
 - [IoT, embedded devices, tablets](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#iot-embedded-devices-tablets)
 - [Router and Firewall OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#router-and-firewall-oses)
 - [Desktop OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#desktop-oses)
@@ -19,7 +20,8 @@
 - [DistroWatch.com](https://distrowatch.com/)
 
 ## Create Your Own Custom Linux OS
-- [Linux From Scratch](http://www.linuxfromscratch.org/)
+- [Linux From Scratch](http://www.linuxfromscratch.org)
+- [Ubuntu Imager](https://github.com/Distroshare/distroshare-ubuntu-imager) - Creates an installable live CD from an installed Ubuntu or derivative distribution.
 
 ## IoT, embedded devices, tablets
 - [Fedora IoT](https://getfedora.org/en/iot/)
