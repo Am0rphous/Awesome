@@ -18,6 +18,9 @@
 - [archiveos.org](https://archiveos.org) - Arhive of Operating Systems with Linux, BSD, DOS, Solaris and others.
 - [DistroWatch.com](https://distrowatch.com/)
 
+## Create Your Own Custom Linux OS
+- [Linux From Scratch](http://www.linuxfromscratch.org/)
+
 ## IoT, embedded devices, tablets
 - [Fedora IoT](https://getfedora.org/en/iot/)
 - [LineageOS Android Distribution](https://lineageos.org) - A free and open-source operating system for various devices, based on the Android mobile platform.
