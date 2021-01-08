@@ -29,6 +29,7 @@
   - [Security Tutorials](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#security-tutorials)
 - [Scripting](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#scripting)
 - [Utilities](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#utilities)
+  - [Create Bootable USB](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#create-bootable-usb)
 - [Virtualization](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#virtualization)
   - [Container Technologies](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#container-technologies)
     - [Container orchestration](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#container-orchestration)
@@ -335,6 +336,7 @@ upstream_recursive_servers:
 
   ### Create Bootable USB
   - [Balena Etcher](https://github.com/balena-io/etcher) -  Flash OS images to SD cards & USB drives, safely and easily.
+  - [Cubic](https://launchpad.net/cubic) - Custom Ubuntu ISO Creator) is a GUI wizard to create a customized Ubuntu Live ISO image.
   - [ISOWriter](https://github.com/KaOSx/isowriter) - Tool for creating bootable installation USB flash drives, forked from rosa-imagewriter.
   - [UNetbootin](https://github.com/unetbootin/unetbootin) - UNetbootin installs Linux/BSD distributions to a partition or USB drive.
   - [WoeUSB](https://github.com/WoeUSB/WoeUSB) -  A Microsoft Windows® USB installation media preparer for GNU+Linux.
