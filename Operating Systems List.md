@@ -20,11 +20,12 @@
 - [DistroWatch.com](https://distrowatch.com/)
 
 ## Create Your Own Custom Linux OS
+- [Cubic](https://launchpad.net/cubic)
 - [Linux From Scratch](http://www.linuxfromscratch.org)
-- [Ubuntu Imager](https://github.com/Distroshare/distroshare-ubuntu-imager) - Creates an installable live CD from an installed Ubuntu or derivative distribution.
-- [Linux Respin](http://www.linuxrespin.org)
 - [Linux Live Kit](https://www.linux-live.org)
 - [Live Magic](https://chris-lamb.co.uk/projects/live-magic)
+- [Linux Respin](http://www.linuxrespin.org)
+- [Ubuntu Imager](https://github.com/Distroshare/distroshare-ubuntu-imager) - Creates an installable live CD from an installed Ubuntu or derivative distribution.
 
 ## IoT, embedded devices, tablets
 - [Fedora IoT](https://getfedora.org/en/iot/)
