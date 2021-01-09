@@ -37,7 +37,7 @@
 - [Network Tools](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#network-tools)
 - [Remoting](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#remoting)
 - [VPN - Virtual Private Network](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#vpn---virtual-private-network)
-- [Web / Proxy](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#web--proxy)
+- [Web / Proxy](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#web-and-proxy-tools)
   - [Web Analytics](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#web-analytics)
 
 
@@ -432,4 +432,5 @@ upstream_recursive_servers:
     - [Matamo Analytics for Wordpress](https://wordpress.org/plugins/matomo)
     - [Matomo Tracking Panel](https://github.com/thiagoarrais/grafana-matomo-tracking-panel) -  Matomo Tracking Panel for Grafana.
     - [Tutorial: Install Matomo Web Analytics (Piwik) on Ubuntu 20.04 with Apache/Nginx](https://www.linuxbabe.com/ubuntu/install-matomo-web-analytics-piwik-ubuntu-20-04-apache-nginx)
-
+  ### Web Development Tools
+  - [awesome-web-effect](https://github.com/lindelof/awesome-web-effect) - A series of exquisite and compact web page cool effects.
