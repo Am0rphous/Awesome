@@ -252,6 +252,7 @@ upstream_recursive_servers:
 - [Chocolatey](https://github.com/chocolatey/choco) - Package manager for Windows.
 - [Gem (RubyGems)](https://rubygems.org) - package management framework for Ruby.
 - [FlatPak](https://flatpak.org)
+- [Nimble](https://github.com/nim-lang/nimble#nimble-usage) - Package manager for the Nim programming language.
 - [Nixpkgs](https://github.com/NixOS/nixpkgs) - collection of over 60,000 software packages that can be installed with the Nix package manager [nixos.org](https://nixos.org).
 - [SnapD](https://snapcraft.io)
 
