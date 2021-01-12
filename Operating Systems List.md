@@ -41,12 +41,13 @@
 - [Zeroshell Linux Router](https://zeroshell.org/) - Routing and Bridging Firewall Solutions.
 
 ## Desktop OSes
+- [Asahi](https://asahilinux.org) - Asahi Linux aims to bring you a polished Linux experience on Apple Silicon Macs.
 - [Debian](https://www.debian.org)
 - [Fedora Workstation](https://getfedora.org/en/workstation)
-- [Manjaro](https://manjaro.org/)
-- [Solus](https://getsol.us/home/)
-- [Ubunt Desktop](https://ubuntu.com/) - Cloud, servers, IoT, desktop.
-- [Qubes OS](https://www.qubes-os.org/downloads/) - Best Linux OS Designed for Maximum Security
+- [Manjaro](https://manjaro.org)
+- [Solus](https://getsol.us/home)
+- [Ubunt Desktop](https://ubuntu.com) - Cloud, servers, IoT, desktop.
+- [Qubes OS](https://www.qubes-os.org/downloads) - Best Linux OS Designed for Maximum Security
 
  ### Most beautiful Linux Distributions 2020 (alphabetic order)
   - [Deepin](https://www.deepin.org/en/) - based on Debian, features DDE, the Deepin Desktop Environment, built on Qt.
