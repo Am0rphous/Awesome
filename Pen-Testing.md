@@ -53,6 +53,7 @@
 ## Exploitation Tools
 - [Armitage](https://github.com/rsmudge/armitage) - graphical cyber attack management tool for Metasploit that visualizes your targets, recommends exploits, and exposes the advanced capabilities of the framework. [Homepage](http://www.fastandeasyhacking.com)
 - [Byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers. [byob.dev](https://byob.dev/)
+- [ChromeTools](https://github.com/bats3c/ChromeTools) - A collection of tools to abuse chrome browser.
 - [CobaltStrike](https://www.cobaltstrike.com/) - Commercial, full-featured, penetration testing tool.
   - [Cobalt-arsenal](https://github.com/mgeeky/cobalt-arsenal) - collection of battle-tested Aggressor Scripts for Cobalt Strike 4.0+.
   - [Cobalt_strike_extension_kit](https://github.com/josephkingstone/cobalt_strike_extension_kit)
@@ -80,7 +81,9 @@
   - [SharpShooter](https://github.com/mdsecactivebreach/SharpShooter) - Payload Generation Framework.
   - [XSS-Payloads](https://github.com/RenwaX23/XSS-Payloads)
   ### Process Injection
+  - [cThreadHijack](https://github.com/connormcgarr/cThreadHijack) - Beacon Object File (BOF) for remote process injection via thread hijacking.
   - [go-shellcode](https://github.com/brimstone/go-shellcode) - program to run shellcode as its own process, all from memory. This was written to defeat anti-virus detection.
+  - [Process Hollowing](https://github.com/m0n0ph1/Process-Hollowing) - Great explanation of Process Hollowing (a Technique often used in Malware).
   - [Theevilbit's injection](https://github.com/theevilbit/injection)
   - [SharpZipRunner](https://github.com/jfmaes/SharpZipRunner) - Executes position independent shellcode from an encrypted zip.
   - [TikiTorch](https://github.com/rasta-mouse/TikiTorch) - Process Injection.
