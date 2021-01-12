@@ -187,12 +187,6 @@ FTest, Lbd, Wafw00f
 - [RedELK](https://github.com/outflanknl/RedELK) - Red Team's SIEM - tool for Red Teams used for tracking and alarming about Blue Team activities as well as better usability in long term operations.
 - [WSB-Detect](https://github.com/LloydLabs/wsb-detect) - Enables you to detect if you are running in Windows Sandbox ("WSB").
 
-## Resources
-- [D00MFist's CTF Notes](https://github.com/D00MFist/security) - collection of notes picked up doing numerous CTFs.
-- [GoVanguards list-infosec-encyclopedia](https://github.com/GoVanguard/list-infosec-encyclopedia) - A list of information security related awesome lists and other resources. 
-- [offsec_pdfs](https://github.com/jivoi/offsec_pdfs)
-- [pentest-bookmarks](https://github.com/jhaddix/pentest-bookmarks/blob/master/wiki/BookmarksList.wiki) - collection of handy bookmarks.
-
 ## Script Collections
 - [killswitch-GUI PenTesting Scripts](https://github.com/killswitch-GUI/PenTesting-Scripts) - Collection
 - [PowerShell-Suite](https://github.com/FuzzySecurity/PowerShell-Suite) - tools and resources.
@@ -201,8 +195,12 @@ FTest, Lbd, Wafw00f
 - [GG-AESY](https://github.com/jfmaes/GG-AESY) - Hide cool stuff in images.
 
 ## Techniques and Tactics resources
-- [MITRE ATT&CK®](https://attack.mitre.org/) - Globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. Git: https://github.com/mitre-attack
-- [ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) - A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns. 
+- [D00MFist's CTF Notes](https://github.com/D00MFist/security) - collection of notes picked up doing numerous CTFs.
+- [GoVanguards list-infosec-encyclopedia](https://github.com/GoVanguard/list-infosec-encyclopedia) - A list of information security related awesome lists and other resources.
+- [Jhaddix's pentest-bookmarks](https://github.com/jhaddix/pentest-bookmarks/blob/master/wiki/BookmarksList.wiki) - Collection of handy bookmarks.
+- [MITRE ATT&CK®](https://attack.mitre.org) - Globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. Git: https://github.com/mitre-attack
+- [Offsec_pdfs](https://github.com/jivoi/offsec_pdfs)
+- [ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) - A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns.
 
 ## Vulnerability Analysis  
 - [Legion](https://github.com/GoVanguard/legion/) - Open source, easy-to-use, super-extensible and semi-automated network penetration testing tool that aids in discovery, reconnaissance and exploitation of information systems. 
