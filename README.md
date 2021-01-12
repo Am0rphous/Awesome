@@ -197,7 +197,8 @@ PyCharm, Spyder, Jupyter , ,
   - [vxHexEditor](https://github.com/EUA/wxHexEditor) - [www.wxhexeditor.org](http://www.wxhexeditor.org/)
 
 ## Looking for projects and courses?
-- [FeatHub](https://feathub.com/)
+- [FeatHub](https://feathub.com)
+- [GitHunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub. [Hunt Online](https://kamranahmed.info/githunt)
 - [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) - A desktop application for downloading Udemy Courses 
 
 ## Security Autiting Tools
