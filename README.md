@@ -82,6 +82,7 @@ PyCharm, Spyder, Jupyter , ,
 
 ## E-books
 - [Calibre](https://github.com/kovidgoyal/calibre) - calibre is an e-book manager. It can view, convert, edit and catalog e-books in all of the major e-book formats.
+- [Free-programming-books](https://github.com/EbookFoundation/free-programming-books) - Freely available programming books.
 - [Free Security eBooks](https://github.com/Hack-with-Github/Free-Security-eBooks) - A curated list of free Security and Pentesting related E-Books available on the Internet.
 - [getbestbooks.com](https://getbestbooks.com/) - Free ebooks.
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. 
@@ -199,6 +200,7 @@ PyCharm, Spyder, Jupyter , ,
 ## Looking for projects and courses?
 - [FeatHub](https://feathub.com)
 - [GitHunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub. [Hunt Online](https://kamranahmed.info/githunt)
+- [Gitstar Ranking](https://gitstar-ranking.com) - Unofficial GitHub star ranking for users, organizations and repositories.
 - [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) - A desktop application for downloading Udemy Courses 
 
 ## Security Autiting Tools
