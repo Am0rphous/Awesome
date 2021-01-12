@@ -166,6 +166,7 @@ FTest, Lbd, Wafw00f
 
 ## Office
 - [o365-attack-toolkit](https://github.com/mdsecactivebreach/o365-attack-toolkit) - o365-attack-toolkit allows operators to perform an OAuth phishing attack and later on use the Microsoft Graph API to extract interesting information.
+- [OutlookParasite](https://github.com/vivami/OutlookParasite) - Outlook persistence using VSTO add-ins.
 
 ## Passwords
 - [Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots.
