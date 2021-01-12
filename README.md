@@ -197,7 +197,8 @@ PyCharm, Spyder, Jupyter , ,
   - [ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
   - [vxHexEditor](https://github.com/EUA/wxHexEditor) - [www.wxhexeditor.org](http://www.wxhexeditor.org/)
 
-## Looking for projects and courses?
+## Looking for projects, courses or inspiration?
+- [Ail-framework](https://github.com/ail-project/ail-framework) - Analysis Information Leak framework.
 - [FeatHub](https://feathub.com)
 - [GitHunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub. [Hunt Online](https://kamranahmed.info/githunt)
 - [Gitstar Ranking](https://gitstar-ranking.com) - Unofficial GitHub star ranking for users, organizations and repositories.
