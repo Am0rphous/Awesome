@@ -172,6 +172,10 @@ FTest, Lbd, Wafw00f
 - [Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots.
 - [CeWL](https://github.com/digininja/CeWL/) - spiders a URL to a specified depth and searches for words that can be used for password attacks. 
 
+## Report
+- [Public penetration testing reports](https://github.com/juliocesarfort/public-pentesting-reports) - Curated list of public penetration test reports released by several consulting firms and academic security groups.
+- [WriteHat](https://github.com/blacklanternsecurity/writehat) - A pentest reporting tool written in Python. Free yourself from Microsoft Word.
+
 ## Red Team
 - [CloneVault](https://github.com/mdsecactivebreach/CloneVault) -  allows a red team operator to export and import entries including attributes from Windows Credential Manager. 
 - [FalconFriday](https://github.com/FalconForceTeam/FalconFriday) - hunting queries to detect offensive techniques.
