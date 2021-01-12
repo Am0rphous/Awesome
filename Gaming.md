@@ -11,6 +11,7 @@
 - [WineTricks](https://github.com/Winetricks/winetricks) - Winetricks is an easy way to work around problems in Wine. [winehq.org](https://wiki.winehq.org/Winetricks)
 - [gamejolt.com/games?os=linux](https://gamejolt.com/games?os=linux) - Find great games.
   ### Games
+   - [MineSweeper](https://github.com/OGoodness/Minesweeper-Login) - Command Line version of MineSweeper for Unix-like systems (GNU/Linux, macOS, BSD).
    - [Quake Wars: Enemy Territory](https://www.splashdamage.com/games/enemy-territory-quake-wars/)
    - [Unreal Tournament](https://www.epicgames.com/unrealtournament/en-US/) - first-person shooter, with head-to-head multiplayer deathmatches being the primary focus of the game [Wikipedia](https://en.wikipedia.org./wiki/Unreal_tournament).
    - [Warsow - Warsow is Art of Respect and Sportsmanship Over the Web](https://warsow.net/) - Since 2005, Warsow is considered as one of the most skill-demanding games in the fast-paced arena shooter scene.[Discord](https://discord.com/invite/Z9UgZZM)
