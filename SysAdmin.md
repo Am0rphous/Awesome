@@ -331,6 +331,7 @@ upstream_recursive_servers:
   - [Yadm - Yet Another Dotfiles Manager](https://github.com/TheLocehiliosan/yadm)
   ### Web Browser in Terminal
   - [browser-terminal](https://github.com/AE0L/browser-terminal) - A browser terminal made with Vanilla JavaScript.
+  - [Haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
   - [Wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better).
   
 ## Utilities
