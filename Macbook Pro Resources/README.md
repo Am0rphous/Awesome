@@ -3,9 +3,6 @@
 ## Collection of various resources
 - [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
 - [Mac Apps](https://github.com/jeffreyjackson/mac-apps)
-- [MacOS Big Sur - Replacements Icons](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) -  Replacement icons for popular apps in the style of macOS Big Sur.
-- [macOS Fortress](https://github.com/essandess/macOS-Fortress) - Firewall and Privatizing Proxy for Trackers, Attackers, Malware, Adware, and Spammers with Anti-Virus On-Demand and On-Access Scanning (PF, squid, privoxy, hphosts, dshield, emergingthreats, hostsfile, PAC file, clamav).
-- [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
 - [Open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)
 
 ## Communication
@@ -16,7 +13,7 @@
 ## Tools
 - [MacForge](https://github.com/MacEnhance/MacForge) - Plugin, App, and Theme store which includes plugin injection for macOS.
 - [MacHack](https://github.com/kendfinger/MacHack) - Hidden Tools in macOS.
-
+- [MacOS Fortress](https://github.com/essandess/macOS-Fortress) - Firewall and Privatizing Proxy for Trackers, Attackers, Malware, Adware, and Spammers with Anti-Virus On-Demand and On-Access Scanning (PF, squid, privoxy, hphosts, dshield, emergingthreats, hostsfile, PAC file, clamav).
 ### Package Managers
 - [Brew / HomeBrew](https://brew.sh/) - Package Manager for Linux and MacOS.
 - [Brew Documentation](https://docs.brew.sh)
@@ -46,4 +43,6 @@
 ## Productivity
 - [Fanny](https://github.com/DanielStormApps/Fanny) - Monitor your Mac's fan speed and CPU/GPU temperature from your Notification Center. [fannywidget.com](https://www.fannywidget.com)
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - A Caffeine clone for macOS. Prevents your Mac from going to sleep. 
+- [MacOS Big Sur - Replacements Icons](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) -  Replacement icons for popular apps in the style of macOS Big Sur.
 - [PodcastMenu](https://github.com/insidegui/PodcastMenu) - Put Overcast on your Mac's menu bar.
+
