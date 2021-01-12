@@ -54,14 +54,15 @@
 - [Armitage](https://github.com/rsmudge/armitage) - graphical cyber attack management tool for Metasploit that visualizes your targets, recommends exploits, and exposes the advanced capabilities of the framework. [Homepage](http://www.fastandeasyhacking.com)
 - [Byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers. [byob.dev](https://byob.dev/)
 - [CobaltStrike](https://www.cobaltstrike.com/) - Commercial, full-featured, penetration testing tool.
-  - [cobalt-arsenal](https://github.com/mgeeky/cobalt-arsenal) - collection of battle-tested Aggressor Scripts for Cobalt Strike 4.0+.
-  - [cobalt_strike_extension_kit](https://github.com/josephkingstone/cobalt_strike_extension_kit)
+  - [Cobalt-arsenal](https://github.com/mgeeky/cobalt-arsenal) - collection of battle-tested Aggressor Scripts for Cobalt Strike 4.0+.
+  - [Cobalt_strike_extension_kit](https://github.com/josephkingstone/cobalt_strike_extension_kit)
   - [CobaltStrike Training](https://www.cobaltstrike.com/training)
   - [Resources About Cobalt Strike](https://github.com/alphaSeclab/cobalt-strike) - Resources About Cobalt Strike. 100+ Tools And 200+ Posts.
   - [Rvrsh3ll'a BOF_Collection](https://github.com/rvrsh3ll/BOF_Collection) - Various Cobalt Strike BOFs.
 - [Fwexpl (old)](https://github.com/Cr4sh/fwexpl) - PC firmware exploitation tool and library.
 - [iBombShell](https://github.com/ElevenPaths/ibombshell) - Tool to deploy a post-exploitation prompt at any time
-- [Koadic](https://github.com/zerosum0x0/koadic) - Koadic C3 COM Command & Control - JScript RAT 
+- [Koadic](https://github.com/zerosum0x0/koadic) - Koadic C3 COM Command & Control - JScript RAT.
+- [Malgen](https://github.com/cmsteffen-code/malgen) - Craft obfuscated, fileless PowerShell malware. 
 - [OfficePurge](https://github.com/fireeye/OfficePurge)
 - [PostEnum](https://github.com/mostaphabahadou/postenum) - Linux enumeration and privilege escalation tool. 
 - [Pompem](https://github.com/rfunix/Pompem) -Exploit and Vulnerability Finder.
