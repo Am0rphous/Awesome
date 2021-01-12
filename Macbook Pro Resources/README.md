@@ -15,6 +15,7 @@
 
 ## Tools
 - [MacForge](https://github.com/MacEnhance/MacForge) - Plugin, App, and Theme store which includes plugin injection for macOS.
+- [MacHack](https://github.com/kendfinger/MacHack) - Hidden Tools in macOS.
 
 ### Package Managers
 - [Brew / HomeBrew](https://brew.sh/) - Package Manager for Linux and MacOS.
