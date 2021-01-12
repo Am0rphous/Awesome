@@ -1,9 +1,5 @@
 # Pen-Testing Tools
 
-
-
-https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/
-
 ### Random list, got to sort it into correct category later.
 
 - [Awesome Security Trivia](https://github.com/qazbnm456/awesome-security-trivia) - Security Trivia that rare people know.
@@ -17,12 +13,10 @@ https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/
 - [katoolin3](https://github.com/s-h-3-l-l/katoolin3) - Automatically install all Kali linux tools.
 - [meterpreter-av-bypass](https://github.com/n0a/meterpreter-av-bypass) - Bypass Windows Defender with py2exe from memory.
 - [NetELF](https://github.com/XiphosResearch/netelf)
-- [nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use.
 - [OSCE PREP](https://github.com/snoopysecurity/OSCE-Prep) - A list of freely available resources that can be used as a prerequisite before taking OSCE.
 - [Penetration-Testing-Tools](https://github.com/mgeeky/Penetration-Testing-Tools) - A collection of more than 140+ tools, scripts, cheatsheets and other loots that I have developed over years for Red Teaming/Pentesting/IT Security audits purposes. Most of them came handy on at least one of my real-world engagements.
 - [pentest](https://github.com/jivoi/pentest)
-- [SLAE32 Certification Assignments](https://www.phrozen.io/docs/linux/slae32/)
-- [XSS-Payloads](https://github.com/RenwaX23/XSS-Payloads)
+- [SLAE32 Certification Assignments](https://www.phrozen.io/resources/a64cc3e5-57e0-4d44-9946-ce5ff4c4bb11)
 
 
 ## Active Directory / Domain
@@ -78,6 +72,8 @@ https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/
   - [Koppeling](https://github.com/monoxgas/Koppeling) - Adaptive DLL hijacking / dynamic export forwarding.
   - [ThreadJect](https://github.com/D4stiny/ThreadJect) - Manual DLL Injector using Thread Hijacking.
   - [TrustJack](https://github.com/jfmaes/TrustJack) - POC of [Hijacking DLLs in Windows](https://www.wietzebeukema.nl/blog/hijacking-dlls-in-windows)
+  ### Paylod
+  - [XSS-Payloads](https://github.com/RenwaX23/XSS-Payloads)
   ### Process Injection
   - [go-shellcode](https://github.com/brimstone/go-shellcode) - program to run shellcode as its own process, all from memory. This was written to defeat anti-virus detection.
   - [Theevilbit's injection](https://github.com/theevilbit/injection)
@@ -208,7 +204,8 @@ FTest, Lbd, Wafw00f
 - [Nikto](https://github.com/sullo/nikto) - Nikto web server scanner.
 - [Nmap](https://github.com/nmap/nmap) - Network Mapper. Github mirror of official SVN repository.
   - [Graphical userinterface - Zenmap front-end](https://nmap.org/zenmap)
-  - [Tutorial: How to use nmap nse scripts to find vulnerabilities](https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities/)
+  - [Tutorial: How to use nmap nse scripts to find vulnerabilities](https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities)
+- [Nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use.
 - [Sn1per](https://github.com/1N3/Sn1per) - Automated pentest framework for offensive security experts.
 - [Unix-Privesc-Check](http://pentestmonkey.net/tools/audit/unix-privesc-check)
 - [vulscan - Vulnerability Scanning with Nmap](https://github.com/scipag/vulscan) - Advanced vulnerability scanning with Nmap NSE 
