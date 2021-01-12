@@ -1,4 +1,5 @@
-# Awesome Resources (Under development)
+# Awesome
+
 
 _Freely accessing knowledge is an essential human right. Knowledge is the foundation for human potential, freedom and opportunity and everyone should have access to knowledge for free, without any restriction or limitation._ - [linuxbabe.com](https://www.linuxbabe.com/)
 
@@ -34,6 +35,7 @@ Various resources, personal notes etc. I find interesting.
 - [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome)
 
 ## Communication
+- [caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app.
  ### IRC
 - [Kirc](https://github.com/mcpcpc/kirc) -  A tiny IRC client written in POSIX C99.
 - [Pidgin](https://www.pidgin.im) - instant messaging program which lets you log in to accounts on multiple chat networks simultaneously. It runs on Windows, Linux, and other UNIX operating systems.
