@@ -72,7 +72,11 @@
   - [Koppeling](https://github.com/monoxgas/Koppeling) - Adaptive DLL hijacking / dynamic export forwarding.
   - [ThreadJect](https://github.com/D4stiny/ThreadJect) - Manual DLL Injector using Thread Hijacking.
   - [TrustJack](https://github.com/jfmaes/TrustJack) - POC of [Hijacking DLLs in Windows](https://www.wietzebeukema.nl/blog/hijacking-dlls-in-windows)
-  ### Paylod
+  ### Payloads
+  - [CPLResourceRunner](https://github.com/rvrsh3ll/CPLResourceRunner) - Run shellcode from resource.
+  - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF 
+  - [Pwndrop](https://github.com/kgretzky/pwndrop) - Self-deployable file hosting service for red teamers, allowing to easily upload and share payloads over HTTP and WebDAV. [breakdev.org/pwndrop](https://breakdev.org/pwndrop/)
+  - [SharpShooter](https://github.com/mdsecactivebreach/SharpShooter) - Payload Generation Framework.
   - [XSS-Payloads](https://github.com/RenwaX23/XSS-Payloads)
   ### Process Injection
   - [go-shellcode](https://github.com/brimstone/go-shellcode) - program to run shellcode as its own process, all from memory. This was written to defeat anti-virus detection.
@@ -160,12 +164,6 @@ FTest, Lbd, Wafw00f
 - [Article: PowerShell Obfuscation using SecureString](https://www.wietzebeukema.nl/blog/powershell-obfuscation-using-securestring)
 - [obfuscation-stuff](https://github.com/alphaSeclab/obfuscation-stuff) - Source Code Obfuscation And Binary Obfuscation, Multiple Languages And Multiple Platforms. Including 250+ Tools and 600+ Posts.
 
-## Payload Specific Tools
-- [CPLResourceRunner](https://github.com/rvrsh3ll/CPLResourceRunner) - Run shellcode from resource.
-- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF 
-- [Pwndrop](https://github.com/kgretzky/pwndrop) - Self-deployable file hosting service for red teamers, allowing to easily upload and share payloads over HTTP and WebDAV. [breakdev.org/pwndrop](https://breakdev.org/pwndrop/)
-- [SharpShooter](https://github.com/mdsecactivebreach/SharpShooter) - Payload Generation Framework.
-
 ## Office
 - [o365-attack-toolkit](https://github.com/mdsecactivebreach/o365-attack-toolkit) - o365-attack-toolkit allows operators to perform an OAuth phishing attack and later on use the Microsoft Graph API to extract interesting information.
 
@@ -190,7 +188,7 @@ FTest, Lbd, Wafw00f
 ## Steganography
 - [GG-AESY](https://github.com/jfmaes/GG-AESY) - Hide cool stuff in images.
 
-## Techniques and Tactics resources
+## Techniques and Tactical Resources
 - [D00MFist's CTF Notes](https://github.com/D00MFist/security) - collection of notes picked up doing numerous CTFs.
 - [GoVanguards list-infosec-encyclopedia](https://github.com/GoVanguard/list-infosec-encyclopedia) - A list of information security related awesome lists and other resources.
 - [Jhaddix's pentest-bookmarks](https://github.com/jhaddix/pentest-bookmarks/blob/master/wiki/BookmarksList.wiki) - Collection of handy bookmarks.
