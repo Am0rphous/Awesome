@@ -11,6 +11,7 @@
 - [Proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies.
 #### TOR - The Onion Router
 - [Onionbalance v3](https://github.com/asn-d6/onionbalance/) - mirror of (https://gitlab.torproject.org/asn/onionbalance).
+- [Real-World Onion Sites](https://github.com/alecmuffett/real-world-onion-sites#tech-and-software) - list of substantial, commercial-or-social-good mainstream websites which provide onion services.
 - [Tor](https://www.torproject.org/) - Tor is free and open-source software for enabling anonymous communication. The name derived from the acronym for the original software project name "The Onion Router". Tor directs Internet traffic through a free, worldwide, volunteer overlay network consisting of more than seven thousand relays to conceal a user's location and usage from anyone conducting network surveillance or traffic analysis.
   - [brdgrd (Bridge Guard)](https://github.com/NullHypothesis/brdgrd) - Protects Tor bridges from being scanned (and as a result blocked) by GFW probes. [How the Great Firewall of China is Blocking Tor](https://www.cs.kau.se/philwint/gfw/)
 - [Tor Proxy](https://onion.pet/) - Onion.pet - Tor2Web Darknet Proxy
