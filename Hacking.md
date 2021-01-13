@@ -1,5 +1,10 @@
 # InfoSec
 
+For later
+````
+https://github.com/S3cur3Th1sSh1t?tab=repositories
+````
+
 ### Random list, got to sort it into correct category later.
 
 - [Awesome-Hacking by Hack-with-Github](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers.
@@ -59,6 +64,7 @@
 - [Byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers. [byob.dev](https://byob.dev/)
 - [ChromeTools](https://github.com/bats3c/ChromeTools) - A collection of tools to abuse chrome browser.
 - [CobaltStrike](https://www.cobaltstrike.com/) - Commercial, full-featured, penetration testing tool.
+  - [BOF-Nim](https://github.com/byt3bl33d3r/BOF-Nim) - Cobalt Strike BOF Files with Nim.
   - [Cobalt-arsenal](https://github.com/mgeeky/cobalt-arsenal) - collection of battle-tested Aggressor Scripts for Cobalt Strike 4.0+.
   - [Cobalt_strike_extension_kit](https://github.com/josephkingstone/cobalt_strike_extension_kit)
   - [CobaltStrike Training](https://www.cobaltstrike.com/training)
