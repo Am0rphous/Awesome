@@ -190,7 +190,8 @@ PyCharm, Spyder, Jupyter , ,
 
 ## Programming
 - [KDevelop](https://github.com/KDE/kdevelop) - Cross-platform IDE for C, C++, Python, QML/JavaScript and PHP.
-
+- [Nim]()
+  - [nimwsnetproxy](https://github.com/skelsec/nimwsnetproxy) - websockets-tcp proxy in nim.
 ## Tools
 - [Inventory Hunter](https://github.com/EricJMarti/inventory-hunter) - Get notified as soon as your next CPU, GPU, or game console is in stock.
   ### Hex
