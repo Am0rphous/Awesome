@@ -152,9 +152,10 @@ PyCharm, Spyder, Jupyter , ,
    - [IPTVx](https://github.com/jankammerath/iptvx) - IPTV player and streamer for Linux that allows to play any stream that LibVLC can play, offers an overlay based on WebKit using HTML5, JavaScript and CSS and uses XMLTV data for EPG information. It allows the playback of URLs, files and can grab URLs from shell scripts. XMLTV EPG data can be downloaded from URLs or grabbed from shell scripts. 
 
   ### Sound Production
-- [Ardour](https://ardour.org/) - Record, Edit, and Mix on Linux, macOS and Windows
-- [Audacity](https://sourceforge.net/projects/audacity/)
-- [SoX - Sound eXchange](http://sox.sourceforge.net/Main/HomePage) - Swiss Army knife of sound processing programs. 
+  - [CubicSDR](https://github.com/cjcliffe/CubicSDR) - Cross-Platform Software-Defined Radio Application. [www.cubicsdr.com](http://www.cubicsdr.com/)
+  - [Ardour](https://ardour.org/) - Record, Edit, and Mix on Linux, macOS and Windows
+  - [Audacity](https://sourceforge.net/projects/audacity/)
+  - [SoX - Sound eXchange](http://sox.sourceforge.net/Main/HomePage) - Swiss Army knife of sound processing programs. 
 
  ### Music Apps
 - [Great Little Radio Player](https://sites.google.com/view/greatlittleradioplayer/home)
@@ -190,8 +191,11 @@ PyCharm, Spyder, Jupyter , ,
 
 ## Programming
 - [KDevelop](https://github.com/KDE/kdevelop) - Cross-platform IDE for C, C++, Python, QML/JavaScript and PHP.
-- [Nim]()
-  - [nimwsnetproxy](https://github.com/skelsec/nimwsnetproxy) - websockets-tcp proxy in nim.
+  ## Nim
+  - [GUI Options for Nim](https://matthiashager.com/gui-options-for-nim)
+  - [Nimwsnetproxy](https://github.com/skelsec/nimwsnetproxy) - websockets-tcp proxy in nim.
+  - [Nimx](https://github.com/yglukhov/nimx) - GUI library.
+  - [Wxnim](https://github.com/PMunch/wxnim) - Nim wrapper for wxWidgets.
 ## Tools
 - [Inventory Hunter](https://github.com/EricJMarti/inventory-hunter) - Get notified as soon as your next CPU, GPU, or game console is in stock.
   ### Hex
