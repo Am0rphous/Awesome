@@ -1,4 +1,4 @@
-# Pen-Testing Tools
+# InfoSec
 
 ### Random list, got to sort it into correct category later.
 
@@ -46,6 +46,8 @@
 - [Win Brute Logon](https://github.com/DarkCoderSc/win-brute-logon) - Crack any Microsoft Windows users password without any privilege (Guest account included).
 - [ZipCrack](https://github.com/henriksb/ZipCrack) -  Crack password protected zip files.
 
+## Bug Bounty
+- [EdOverflow's bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet) - A list of interesting payloads, tips and tricks for bug bounty hunters.
 ## CTF tools
 - [Docker-War](https://github.com/qazbnm456/Docker-War) - Docker based Wargame Platform - To practice your CTF skills.
 - [Fbctf](https://github.com/facebookarchive/fbctf) - Platform to host Capture the Flag competitions.
