@@ -2,6 +2,7 @@
 
 ### Random list, got to sort it into correct category later.
 
+- [Awesome Hacking by jekil](https://github.com/jekil/awesome-hacking) - Awesome hacking is an awesome collection of hacking tools.
 - [Awesome Security Trivia](https://github.com/qazbnm456/awesome-security-trivia) - Security Trivia that rare people know.
 - [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) - A curated list of Web Security materials and resources.
 - [burpsuite](https://github.com/thehackingsage/burpsuite)
@@ -203,6 +204,7 @@ FTest, Lbd, Wafw00f
 - [GoVanguards list-infosec-encyclopedia](https://github.com/GoVanguard/list-infosec-encyclopedia) - A list of information security related awesome lists and other resources.
 - [Jhaddix's pentest-bookmarks](https://github.com/jhaddix/pentest-bookmarks/blob/master/wiki/BookmarksList.wiki) - Collection of handy bookmarks.
 - [MITRE ATT&CK®](https://attack.mitre.org) - Globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. Git: https://github.com/mitre-attack
+  - [Ruped24's killchain](https://github.com/ruped24/killchain) - A unified console to perform the "kill chain" stages of attacks.
 - [Offsec_pdfs](https://github.com/jivoi/offsec_pdfs)
 - [ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) - A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns.
 
