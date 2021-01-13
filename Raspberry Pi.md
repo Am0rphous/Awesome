@@ -29,6 +29,7 @@
 - [MMM-Facial-Recognition](https://github.com/paviro/MMM-Facial-Recognition) - This an extension for the MagicMirror. It provides facial recognition and module swapping based on the current user.
 - [MMM-ImageSlideshow](https://github.com/AdamMoses-GitHub/MMM-ImageSlideshow) - Displays images one-at-a-time from local folders.
 - [MMM-network-signal](https://github.com/PoOwAa/MMM-network-signal) - Display a solid wifi logo as network signal for MagicMirror2.
+- [MMM-NewPIR](https://github.com/bugsounet/MMM-NewPIR) - MagicMirror Action with PIR Sensor.
 - [MMM-OnScreenMenu](https://github.com/shbatm/MMM-OnScreenMenu) - MagicMirror² utility module that provides a simple on screen menu for control.
 - [MMM-page-indicator](https://github.com/edward-shen/MMM-page-indicator) - MagicMirror² module to display what page you're on.
 - [MMM-Page-Selector](https://github.com/Veldrovive/MMM-Page-Selector) - An easy way to set up and move between pages on a MagicMirror².
