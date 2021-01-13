@@ -441,6 +441,8 @@ upstream_recursive_servers:
 - [Hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [NginX](https://nginx.org/en/) - an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server.
 - [Sanstorm](https://sandstorm.io/) - Sandstorm is an open source platform for self-hosting web apps
+- [Squid]()
+  - [SquidGuard](http://www.squidguard.org/)
 - [Wordpress Comment Blacklist](https://github.com/splorp/wordpress-comment-blacklist) - A simple solution for WordPress comment spam.
   ### Web Analytics
   - [Matomo Web Analytics](https://matomo.org) - "_Google Analytics alternative that protects your data and your customers' privacy_" [matomo.org](https://matomo.org/).
