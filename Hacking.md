@@ -2,7 +2,8 @@
 
 ### Random list, got to sort it into correct category later.
 
-- [Awesome Hacking by jekil](https://github.com/jekil/awesome-hacking) - Awesome hacking is an awesome collection of hacking tools.
+- [Awesome-Hacking by Hack-with-Github](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers.
+- [Awesome Hacking by Jekil](https://github.com/jekil/awesome-hacking) - Awesome hacking is an awesome collection of hacking tools.
 - [Awesome Security Trivia](https://github.com/qazbnm456/awesome-security-trivia) - Security Trivia that rare people know.
 - [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) - A curated list of Web Security materials and resources.
 - [burpsuite](https://github.com/thehackingsage/burpsuite)
