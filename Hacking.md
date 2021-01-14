@@ -124,6 +124,7 @@ https://github.com/S3cur3Th1sSh1t?tab=repositories
 DNSMap, DNSRecon, DNSTracer, DNSWalk, Fierce, URLCrazy
 
   #### DNS resources which might be practical in attacks
+  - [DNS_File_Transfers](https://github.com/warferik/DNS_File_Transfers) - DNS Server to transfer files to Windows using built in binaries.
   - [JudasDNS](https://github.com/mandatoryprogrammer/JudasDNS) - Nameserver DNS poisoning attacks made easy.
   - [Samuelcolvin's dnserver](https://github.com/samuelcolvin/dnserver) - Simple development DNS server written in python.
 
