@@ -28,6 +28,7 @@
 - [MMM-GoogleCast](https://github.com/ferferga/MMM-GoogleCast) - See what's playing in your Google Cast device inside your MagicMirror.
 - [MMM-Facial-Recognition](https://github.com/paviro/MMM-Facial-Recognition) - This an extension for the MagicMirror. It provides facial recognition and module swapping based on the current user.
 - [MMM-ImageSlideshow](https://github.com/AdamMoses-GitHub/MMM-ImageSlideshow) - Displays images one-at-a-time from local folders.
+- [MMM-MicrosoftToDo](https://github.com/thobach/MMM-MicrosoftToDo) - 3rd party module for MagicMirror that shows open tasks from task lists and allows to complete them as well. The tasks are retrieved from Microsoft To Do / Outlook.
 - [MMM-network-signal](https://github.com/PoOwAa/MMM-network-signal) - Display a solid wifi logo as network signal for MagicMirror2.
 - [MMM-NewPIR](https://github.com/bugsounet/MMM-NewPIR) - MagicMirror Action with PIR Sensor.
 - [MMM-OnScreenMenu](https://github.com/shbatm/MMM-OnScreenMenu) - MagicMirror² utility module that provides a simple on screen menu for control.
