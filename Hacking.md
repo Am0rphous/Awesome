@@ -79,7 +79,8 @@ https://github.com/S3cur3Th1sSh1t?tab=repositories
 - [PostEnum](https://github.com/mostaphabahadou/postenum) - Linux enumeration and privilege escalation tool. 
 - [Pompem](https://github.com/rfunix/Pompem) -Exploit and Vulnerability Finder.
 - [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - A PowerShell Post-Exploitation Framework 
-- [rpc2socks](https://github.com/lexfo/rpc2socks) - Post-exploit tool that enables a SOCKS tunnel via a Windows host using an extensible custom RPC proto over SMB through a named pipe.
+- [Rpc2socks](https://github.com/lexfo/rpc2socks) - Post-exploit tool that enables a SOCKS tunnel via a Windows host using an extensible custom RPC proto over SMB through a named pipe.
+- [SharpSploit](https://github.com/cobbr/SharpSploit) - SharpSploit is a .NET post-exploitation library written in C#.
 - [SILENTTRINITY](https://github.com/byt3bl33d3r/SILENTTRINITY) - An asynchronous, collaborative post-exploitation agent powered by Python and .NET's DLR 
   ### DLL
   - [Koppeling](https://github.com/monoxgas/Koppeling) - Adaptive DLL hijacking / dynamic export forwarding.
@@ -201,7 +202,8 @@ FTest, Lbd, Wafw00f
 - [WriteHat](https://github.com/blacklanternsecurity/writehat) - A pentest reporting tool written in Python. Free yourself from Microsoft Word.
 
 ## Red Team
-- [CloneVault](https://github.com/mdsecactivebreach/CloneVault) -  allows a red team operator to export and import entries including attributes from Windows Credential Manager. 
+- [CloneVault](https://github.com/mdsecactivebreach/CloneVault) -  allows a red team operator to export and import entries including attributes from Windows Credential Manager.
+- [Covenant](https://github.com/cobbr/Covenant) - Covenant is a collaborative .NET C2 framework for red teamers.
 - [FalconFriday](https://github.com/FalconForceTeam/FalconFriday) - hunting queries to detect offensive techniques.
 - [herpaderping](https://github.com/jxy-s/herpaderping) - Process Herpaderping proof of concept, tool, and technical deep dive. Process Herpaderping bypasses security products by obscuring the intentions of a process.
 - [Lengjibo's RedTeamTools](https://github.com/lengjibo/RedTeamTools)
