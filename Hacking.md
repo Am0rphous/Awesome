@@ -85,6 +85,7 @@ https://github.com/S3cur3Th1sSh1t?tab=repositories
   - [ThreadJect](https://github.com/D4stiny/ThreadJect) - Manual DLL Injector using Thread Hijacking.
   - [TrustJack](https://github.com/jfmaes/TrustJack) - POC of [Hijacking DLLs in Windows](https://www.wietzebeukema.nl/blog/hijacking-dlls-in-windows)
   ### Payloads
+  - [AssemblyRunner](https://github.com/warferik/AssemblyRunner) - C# Exe that can remotely retrieve C# assemblies for in-memory execution.
   - [CPLResourceRunner](https://github.com/rvrsh3ll/CPLResourceRunner) - Run shellcode from resource.
   - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF 
   - [Pwndrop](https://github.com/kgretzky/pwndrop) - Self-deployable file hosting service for red teamers, allowing to easily upload and share payloads over HTTP and WebDAV. [breakdev.org/pwndrop](https://breakdev.org/pwndrop/)
@@ -122,16 +123,18 @@ https://github.com/S3cur3Th1sSh1t?tab=repositories
 
 DNSMap, DNSRecon, DNSTracer, DNSWalk, Fierce, URLCrazy
 
-  #### DNS Attacking
+  #### DNS resources which might be practical in attacks
   - [JudasDNS](https://github.com/mandatoryprogrammer/JudasDNS) - Nameserver DNS poisoning attacks made easy.
+  - [Samuelcolvin's dnserver](https://github.com/samuelcolvin/dnserver) - Simple development DNS server written in python.
 
  ### IDS/IPS Identification
 - [FragRouter]()
 FTest, Lbd, Wafw00f
  ### Network Enumeration & Port Scanners
+ - [CScan.exe](https://github.com/warferik/CScan) - Simple C# Port Scanner.
  - [IOXIDResolver](https://github.com/mubix/IOXIDResolver) - IOXIDResolver.py from AirBus Security.
    - [The OXID Resolver (Part 1)]](https://airbus-cyber-security.com/the-oxid-resolver-part-1-remote-enumeration-of-network-interfaces-without-any-authentication) – Remote enumeration of network interfaces without any authentication.
-   - [The OXID Resolver (Part 2)](https://airbus-cyber-security.com/the-oxid-resolver-part-2-accessing-a-remote-object-inside-dcom/) – Accessing a Remote Object inside DCOM.
+   - [The OXID Resolver (Part 2)](https://airbus-cyber-security.com/the-oxid-resolver-part-2-accessing-a-remote-object-inside-dcom) – Accessing a Remote Object inside DCOM.
  - [MasScan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
  
  ### OSINT Analysis
