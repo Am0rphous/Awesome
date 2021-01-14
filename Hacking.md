@@ -47,11 +47,6 @@ https://github.com/S3cur3Th1sSh1t?tab=repositories
 - [BlueSpawn](https://github.com/ION28/BLUESPAWN) - An Active Defense and EDR software to empower Blue Teams.
 - [FireEye Red Team Tool Countermeasures](https://github.com/fireeye/red_team_tool_countermeasures) - Snort, Yara, ClamAV, HXIOC
 
-## Brute Forcing
-- [SecList](https://github.com/danielmiessler/SecLists)
-- [Win Brute Logon](https://github.com/DarkCoderSc/win-brute-logon) - Crack any Microsoft Windows users password without any privilege (Guest account included).
-- [ZipCrack](https://github.com/henriksb/ZipCrack) -  Crack password protected zip files.
-
 ## Bug Bounty
 - [EdOverflow's bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet) - A list of interesting payloads, tips and tricks for bug bounty hunters.
 ## CTF tools
@@ -190,12 +185,28 @@ FTest, Lbd, Wafw00f
 - [Carnivore](https://github.com/ReverendThing/Carnivore) - Microsoft External Attack Tool.
 - [OutlookParasite](https://github.com/vivami/OutlookParasite) - Outlook persistence using VSTO add-ins.
 
-## Passwords
+
+## Password and Brute Force related tools
+- [CeWL](https://github.com/digininja/CeWL/) - Spiders a URL to a specified depth and searches for words that can be used for password attacks. 
+- [CrackQ](https://github.com/f0cker/crackq) - A Python Hashcat cracking queue system.
 - [Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots.
-- [CeWL](https://github.com/digininja/CeWL/) - spiders a URL to a specified depth and searches for words that can be used for password attacks. 
+- [Pypal](https://github.com/f0cker/pypal) - Python port of Pipal for password analytics.
+- [SecList](https://github.com/danielmiessler/SecLists)
+- [Win Brute Logon](https://github.com/DarkCoderSc/win-brute-logon) - Crack any Microsoft Windows users password without any privilege (Guest account included).
+- [ZipCrack](https://github.com/henriksb/ZipCrack) -  Crack password protected zip files.
+
+
 
 ## Phishing
 - [MaskPhish](https://github.com/jaykali/maskphish) - Give a Mask to Phishing URL like a PRO.. A MUST have tool for Phishing.
+
+## Programming Languages
+- [Bash scripting]()
+- [C]()
+- [Nim](https://nim-lang.org) - Statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula.
+  - [OffensiveNim by byt3bl33d3r](https://github.com/byt3bl33d3r/OffensiveNim) - Weaponizing Nim.
+- [Python]()
+- [Ruby]()
 
 ## Reporting
 - [Public penetration testing reports](https://github.com/juliocesarfort/public-pentesting-reports) - Curated list of public penetration test reports released by several consulting firms and academic security groups.
