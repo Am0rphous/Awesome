@@ -33,7 +33,6 @@
 - [Koodous](https://koodous.com/)
 - [Virustotal](virustotal.com/) - Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community 
 
-
 ## Cheat Sheets
 - [zeltser.com - Analyzing Malicious Documents Cheat Sheet](https://zeltser.com/analyzing-malicious-documents/)
 
@@ -48,9 +47,11 @@
 - [TrID](https://mark0.net/soft-trid-e.html) -  Identify file types from their binary signatures. Win32, Linux 32/64-bit
   - [Online TrID File Identifier](https://mark0.net/onlinetrid.html) - Size <= 10 MB.
   - [TrIDNet (GUI)](https://mark0.net/soft-tridnet-e.html) - GUI version of TrID. Requires .NET for function [Install .NET on Linux](https://docs.microsoft.com/en-us/dotnet/core/install/linux)
+- [xxd](https://github.com/ConorOG/xxd) - hexdump utility.
   ### Commands (Usually default)
   ````
   file            #determine file type. E.g. "file word.doc"
+  hexdump         #ascii, decimal, hexadecimal, octal dump 
   ````
 
 ## Hardware
