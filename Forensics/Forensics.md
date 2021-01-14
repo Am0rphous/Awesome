@@ -44,6 +44,15 @@
 - [Detecting Malware With Memory Forensics with Hal Pomeranz (SANS Institute)](http://www.deer-run.com/~hal/Detect_Malware_w_Memory_Forensics.pdf)
 - [Free Malicious PDF Analysis E-book](http://didierstevens.com/files/data/malicious-pdf-analysis-ebook.zip) - Also within this folder and "Documents".
 
+## File Analysis
+- [TrID](https://mark0.net/soft-trid-e.html) -  Identify file types from their binary signatures. Win32, Linux 32/64-bit
+  - [Online TrID File Identifier](https://mark0.net/onlinetrid.html) - Size <= 10 MB.
+  - [TrIDNet (GUI)](https://mark0.net/soft-tridnet-e.html) - GUI version of TrID. Requires .NET for function [Install .NET on Linux](https://docs.microsoft.com/en-us/dotnet/core/install/linux)
+  ### Commands (Usually default)
+  ````
+  file            #determine file type. E.g. "file word.doc"
+  ````
+
 ## Hardware
 - [Board status](https://github.com/Ledger-Donjon/scaffold) - Donjon hardware tool for circuits security evaluation.
 ## Memory Forensics
@@ -68,7 +77,7 @@
 - [REMnux](https://remnux.org/) - REMnux® is a Linux toolkit for reverse-engineering and analyzing malicious software. REMnux provides a curated collection of free tools created by the community. Analysts can use it to investigate malware without having to find, install, and configure the tools. Lots of tools in /opt/ folder.
 
 
-## Portable Executable (PE) Analysis
+## PE (Portable Executable) Analysis
 Description: The Portable Executable format is a file format for executables, object code, DLLs and others used in 32-bit and 64-bit versions of Windows operating systems.
 - [Cerbero Suite](https://cerbero.io/)
 - [CFF Explorer / Explorer Suite](http://www.ntcore.com/exsuite.php)
