@@ -137,9 +137,9 @@ PyCharm, Spyder, Jupyter , ,
    - [Xtreme Download Manager](https://github.com/subhra74/xdm) -  Powerfull download accelerator and video downloader.
 
   ### Media Servers
-   - [forked-daapd](https://github.com/ejurgensen/forked-daapd) - Linux/FreeBSD DAAP (iTunes) and MPD media server with support for AirPlay devices (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio. 
-   - [Jellyfin](https://github.com/jellyfin/jellyfin) - Free Software Media System that puts you in control of managing and streaming your media. [jellyfin.org](https://jellyfin.org/)
-   - [Kodi](https://github.com/xbmc/xbmc) - award-winning free and open source home theater/media center software and entertainment hub for digital media. [kodi.tv](https://kodi.tv/)
+   - [Forked-daapd](https://github.com/ejurgensen/forked-daapd) - Linux/FreeBSD DAAP (iTunes) and MPD media server with support for AirPlay devices (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio. 
+   - [Jellyfin](https://github.com/jellyfin/jellyfin) - Free Software Media System that puts you in control of managing and streaming your media. [jellyfin.org](https://jellyfin.org)
+   - [Kodi](https://github.com/xbmc/xbmc) - award-winning free and open source home theater/media center software and entertainment hub for digital media. [kodi.tv](https://kodi.tv)
    - [Lidarr](https://github.com/lidarr/Lidarr) - Lidarr is a music collection manager for Usenet and BitTorrent users. [lidarr.audio](https://lidarr.audio/)
    - [Mopidy](https://github.com/mopidy/mopidy) - plays music from local disk, Spotify, SoundCloud, Google Play Music, and more. [Mopidy.com](https://mopidy.com/)
    - [Plex](https://www.plex.tv/) -  closed source media server + desktop application. [plex.tv](https://www.plex.tv/)
@@ -147,6 +147,9 @@ PyCharm, Spyder, Jupyter , ,
      - [Telly](https://github.com/tellytv/telly) - IPTV proxy for Plex Live written in Golang.
    - [Snapcast](https://github.com/badaix/snapcast) - Snapcast is a multiroom client-server audio player, where all clients are time synchronized with the server to play perfectly synced audio. [Homepage Snapcast](https://mjaggard.github.io/snapcast/)
 
+   #### Docker
+   - [Couchpotato by Linuxserver](https://hub.docker.com/r/linuxserver/couchpotato/)
+   - [Docker-bazarr](https://github.com/linuxserver/docker-bazarr) - Bazarr is a companion application to Sonarr and Radarr. It can manage and download subtitles based on your requirements.
    #### IP TV
    - [FreeTuxTV](https://github.com/freetuxtv/freetuxtv/) - FreetuxTV Internet television and radio player.
    - [IPTVx](https://github.com/jankammerath/iptvx) - IPTV player and streamer for Linux that allows to play any stream that LibVLC can play, offers an overlay based on WebKit using HTML5, JavaScript and CSS and uses XMLTV data for EPG information. It allows the playback of URLs, files and can grab URLs from shell scripts. XMLTV EPG data can be downloaded from URLs or grabbed from shell scripts. 
