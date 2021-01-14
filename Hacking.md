@@ -66,6 +66,7 @@ https://github.com/S3cur3Th1sSh1t?tab=repositories
 - [CobaltStrike](https://www.cobaltstrike.com/) - Commercial, full-featured, penetration testing tool.
   - [BOF-Nim](https://github.com/byt3bl33d3r/BOF-Nim) - Cobalt Strike BOF Files with Nim.
   - [Cobalt-arsenal](https://github.com/mgeeky/cobalt-arsenal) - collection of battle-tested Aggressor Scripts for Cobalt Strike 4.0+.
+  - [CobaltStrike-BOF](https://github.com/Yaxser/CobaltStrike-BOF) - Collection of beacon BOF written to learn windows and cobaltstrike.
   - [Cobalt_strike_extension_kit](https://github.com/josephkingstone/cobalt_strike_extension_kit)
   - [CobaltStrike Training](https://www.cobaltstrike.com/training)
   - [Resources About Cobalt Strike](https://github.com/alphaSeclab/cobalt-strike) - Resources About Cobalt Strike. 100+ Tools And 200+ Posts.
@@ -250,6 +251,8 @@ FTest, Lbd, Wafw00f
 - [pwnable.kr](https://pwnable.kr/)
 
 ## Web Application Analysis
+- [HandyHeaderHacker by kj0317](https://github.com/kj0317/HandyHeaderHacker) - Examine HTTP response headers for common security issues.
+- [HandyHeaderHacker by vpnguy-zz](https://github.com/vpnguy-zz/HandyHeaderHacker) - Examine HTTP response headers for common security issues.
  ### CMS & Framwork Identification
   - [CMSeeK](https://github.com/Tuhinshubhra/CMSeeK) -  CMS Detection and Exploitation suite - Scan WordPress, Joomla, Drupal and over 180 other CMSs.
  ### Web Application Proxies
