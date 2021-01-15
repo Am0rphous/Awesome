@@ -68,19 +68,18 @@
 - [zeropointsecurity.co.uk/red-team-ops](https://www.zeropointsecurity.co.uk/red-team-ops) - Offensive Cyber Security Training.
 
 ## Cyber Security News
+- [Cyware.com/hacker-news](https://cyware.com/hacker-news)
+- [DarkReading.com](https://www.darkreading.com)
+- [GovInfoSecurity.com](https://www.govinfosecurity.com)
+- [hackread.com](https://www.hackread.com)
+- [IronGeek.com](https://www.irongeek.com]
 - [jpcert.or.jp](https://www.jpcert.or.jp/english/) - JPCERT/CC is the first CSIRT (Computer Security Incident Response Team) established in Japan.
-- https://www.securityweek.com
-- https://www.govinfosecurity.com/
-- https://www.zdnet.com/
-- https://www.welivesecurity.com/
-- https://securitydiscovery.com/
-- https://www.darkreading.com/
-- https://news.ycombinator.com/
-- https://www.irongeek.com/
-
-  ### Hacking News
-  - https://thehackerstalk.com/
-  - https://thehackernews.com/
-  - [ThreatPost.com](https://threatpost.com)
-  - https://cyware.com/hacker-news
-  - https://www.hackread.com/
+- [News.YCombinator.com](https://news.ycombinator.com)
+- [TheCybersecurityPlace.com](https://thecybersecurityplace.com)
+- [TheHackerNews.com](https://thehackernews.com]
+- [TheHackerStalk.com](https://thehackerstalk.com]
+- [ThreatPost.com](https://threatpost.com)
+- [SecurityDiscovery.com](https://securitydiscovery.com]
+- [SecurityWeek.com](https://www.securityweek.com)
+- [WeLiveSecurity.com](https://www.welivesecurity.com]
+- [Zdnet.com](https://www.zdnet.com)
