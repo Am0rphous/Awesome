@@ -8,6 +8,7 @@
   - [Githacktools.blogspot.com](https://githacktools.blogspot.com)
   - [Hackforums.net](https://hackforums.net)
   - [Hackingarticles.in](hackingarticles.in) - Raj Chandel's Blog.
+  - [Homeofbannedhacker.blogspot.com](https://homeofbannedhacker.blogspot.com]
   - [Leakzone.net](https://leakzone.net)
   - [Linuxbabe Community](https://community.linuxbabe.com)
   - [0ffset.net](https://0ffset.net) - IT Security blog
