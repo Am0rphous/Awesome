@@ -49,23 +49,22 @@
 - [Ubunt Desktop](https://ubuntu.com) - Cloud, servers, IoT, desktop.
 - [Qubes OS](https://www.qubes-os.org/downloads) - Best Linux OS Designed for Maximum Security
 
- ### Most beautiful Linux Distributions 2020 (alphabetic order)
+ ### Most beautiful Linux Desktop Distributions 2020 (in alphabetic order)
   - [Deepin](https://www.deepin.org/en/) - based on Debian, features DDE, the Deepin Desktop Environment, built on Qt.
-    - Be aware: There is conserns about analytics collected by Deepin that are sent to the Chinese government.
+    - Be aware: There is conserns about analytics collected by Deepin which are sent to the Chinese government.
     - [Article: Deepin Linux: Security Threat or Safe to Use?](https://linuxinsider.com/story/deepin-linux-security-threat-or-safe-to-use-86044.html)
  - [Elementary OS](https://elementary.io/) - Good alternative for Windows and Mac.
- - [feren OS](https://ferenos.weebly.com/)
- - [eXtern OS](https://externos.io/)
+ - [feren OS](https://ferenos.weebly.com)
+ - [eXtern OS](https://externos.io)
  - [KDE Neon](https://neon.kde.org)
- - [KDE Plasma](https://kde.org/)
- - [Manjaro](https://manjaro.org/)
- - [Nitrux OS](https://nxos.org/)
- - [Pop!_OS](https://pop.system76.com/)
- - [Solus OS](https://getsol.us/home/)
- - [Zorin OS](https://zorinos.com/)
+ - [KDE Plasma](https://kde.org)
+ - [Manjaro](https://manjaro.org)
+ - [Nitrux OS](https://nxos.org)
+ - [Pop!_OS](https://pop.system76.com)
+ - [Solus OS](https://getsol.us/home)
+ - [Zorin OS](https://zorinos.com)
  
- ### Privacy focused OSes
-
+ ### Privacy focused Desktops
  - [Tailes](https://tails.boum.org) - Portable operating system that protects against surveillance and censorship
  - [Qubes OS](https://www.qubes-os.org) - Edward Snowden said in a [Twitter message](https://twitter.com/Snowden/status/781493632293605376) "_If you're serious about security, [@QubesOS](https://twitter.com/QubesOS) is the best OS available today. It's what I use, and free. Nobody does VM isolation better._"
  - [Whoonix](https://www.whonix.org) - "_Software That Can Anonymize Everything You Do Online_".
@@ -95,7 +94,7 @@
 - [TrueNAS](https://www.truenas.com)
 - [Ubunt Server](https://ubuntu.com) - Cloud, servers, IoT, desktop.
 
-### Pen-testing and security auditing
-- [BlackArch](https://www.blackarch.org/) - BlackArch Linux is an Arch Linux-based penetration testing distribution for penetration testers and security researchers.
-- [Kali](https://www.kali.org/) - Advanced Penetration Testing Distribution.
-- [Parrot](https://www.parrotsec.org/) - designed for penetration testing, vulnerability assessment and mitigation, computer forensics and anonymous web browsing. 
+## Pen-testing and security auditing
+- [BlackArch](https://www.blackarch.org) - BlackArch Linux is an Arch Linux-based penetration testing distribution for penetration testers and security researchers.
+- [Kali](https://www.kali.org) - Advanced Penetration Testing Distribution.
+- [Parrot](https://www.parrotsec.org) - designed for penetration testing, vulnerability assessment and mitigation, computer forensics and anonymous web browsing. 
