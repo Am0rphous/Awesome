@@ -242,6 +242,44 @@ upstream_recursive_servers:
 - [Wazuh](https://github.com/wazuh/wazuh/) - Wazuh is a free, open source and enterprise-ready security monitoring solution for threat detection, integrity monitoring, incident response and compliance. [wazuh.com](https://wazuh.com/)
 - [Zeek (Bro)](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know. [zeek.org](https://www.zeek.org)
 
+ ## Network Tools
+- [ARP-scan](https://github.com/royhills/arp-scan) - Scanning hosts on a network with the ARP protocol.
+- [Flare-fakenet-ng](https://github.com/fireeye/flare-fakenet-ng) - Next Generation Dynamic Network Analysis Tool.
+- [GNs3-server](https://github.com/GNS3/gns3-server) - The GNS3 server manages emulators such as Dynamips, VirtualBox or Qemu/KVM. [www.gns3.com](https://www.gns3.com/)
+  - [GNs3-gui](https://github.com/GNS3/gns3-gui) - GNS3 Graphical Network Simulator.
+- [GPing](https://github.com/orf/gping) - Ping, but with a graph.
+- [iputils](https://github.com/iputils/iputils) - The iputils package is set of small useful utilities for Linux networking (arp, clockdigg, ninfod, ping, rarpd, rdisc, tftpd, tracepath and traceroute6).
+- [Stenographer](https://github.com/google/stenographer) - packet capture solution which aims to quickly spool all packets to disk, then provide simple, fast access to subsets of those packets.
+- [The Shadow Simulator](https://github.com/shadow/shadow) - Shadow is a unique discrete-event network simulator that runs real applications like Tor, and distributed systems of thousands of nodes on a single machine. 
+  ### Network Visualization
+    - [Fantastic Full Source Code](https://github.com/besimorhino/project-fantastic) - visualizing tool made by InfoSec Innovations for exploring computer networks.
+    
+  ### Remoting
+  - [PowerShell](https://github.com/PowerShell/PowerShell) - cross-platform (Windows, Linux, and macOS) automation and configuration tool/framework.
+  - [GraphicalTools](https://github.com/PowerShell/GraphicalTools) - Modules that mix PowerShell and GUIs/CUIs! - built on Avalonia and gui.cs.
+  ````
+  Enable-PSRemoting -Force
+  set-item wsman:\localhost\Client\TrustedHosts -value *         #Every IP can connect
+  get-item wsman:\localhost\Client\TrustedHosts                  #Check the TrustedHost variable
+  Set-NetConnectionProfile -NetworkCategory Private
+  netstat -ano | Select-String 5985                              #Powershell should run at this port, or 5986 (HTTPS)
+  New-PSSession –ComputerName <Netbios> -Port <Port>
+  Enter-PSSession –ComputerName 192.168.1.10 -Credentials(Get-Credentials Administrator)
+  nmap -v 192.168.1.10 -sV -Pn -p 5985,5986                      #Might be good to check that the port is open.
+  ````
+- [DropBear SSH](https://github.com/mkj/dropbear) - S smallish SSH server and client. [https://matt.ucc.asn.au](https://matt.ucc.asn.au)
+- SSH
+  - [Portable OpenSSH](https://github.com/openssh/openssh-portable)
+  - [SSH Hardening with Security Onion](https://docs.securityonion.net/en/2.3/ssh.html)
+  - [Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH) - Win32 port of OpenSSH.
+- [xRDP](https://github.com/neutrinolabs/xrdp) - Open source RDP server.
+    #### VPN - Virtual Private Network
+    - [WireGuard](https://github.com/WireGuard) - WireGuard® is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. [Wireguard.com](https://www.wireguard.com/)
+      - [Wireguard-macOS-LinuxVM](https://github.com/mrash/Wireguard-macOS-LinuxVM) -  Send all traffic from macOS through Wireguard running on a Linux VM.
+    - [Tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. [Tailscale.com](https://www.tailscale.com)
+    - [OpenVPN](https://github.com/OpenVPN)
+      - [Autovpn2](https://github.com/ruped24/autovpn2) - OpenVPN VPN Gate Client for Linux, connects you to a random Free VPN in a country of your choice by country code.
+
 ## Package Managers
 - [Brew / HomeBrew](https://brew.sh/) - Package Manager for Linux and MacOS.
   - [Brew Documentation](https://docs.brew.sh)
@@ -263,27 +301,6 @@ upstream_recursive_servers:
 - [Nimble](https://github.com/nim-lang/nimble#nimble-usage) - Package manager for the Nim programming language.
 - [Nixpkgs](https://github.com/NixOS/nixpkgs) - collection of over 60,000 software packages that can be installed with the Nix package manager [nixos.org](https://nixos.org).
 - [SnapD](https://snapcraft.io)
-
-## Remoting
-- [PowerShell](https://github.com/PowerShell/PowerShell) - cross-platform (Windows, Linux, and macOS) automation and configuration tool/framework.
-  - [GraphicalTools](https://github.com/PowerShell/GraphicalTools) - Modules that mix PowerShell and GUIs/CUIs! - built on Avalonia and gui.cs.
-  ````
-  Enable-PSRemoting -Force
-  set-item wsman:\localhost\Client\TrustedHosts -value *         #Every IP can connect
-  get-item wsman:\localhost\Client\TrustedHosts                  #Check the TrustedHost variable
-  Set-NetConnectionProfile -NetworkCategory Private
-  netstat -ano | Select-String 5985                              #Powershell should run at this port, or 5986 (HTTPS)
-  New-PSSession –ComputerName <Netbios> -Port <Port>
-  Enter-PSSession –ComputerName 192.168.1.10 -Credentials(Get-Credentials Administrator)
-  nmap -v 192.168.1.10 -sV -Pn -p 5985,5986                      #Might be good to check that the port is open.
-  ````
-- [DropBear SSH](https://github.com/mkj/dropbear) - S smallish SSH server and client. [https://matt.ucc.asn.au](https://matt.ucc.asn.au)
-- SSH
-  - [Portable OpenSSH](https://github.com/openssh/openssh-portable)
-  - [SSH Hardening with Security Onion](https://docs.securityonion.net/en/2.3/ssh.html)
-  - [Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH) - Win32 port of OpenSSH.
-- [xRDP](https://github.com/neutrinolabs/xrdp) - Open source RDP server.
-
 
 ## Sandboxing tools
 - [BubbleWrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool
@@ -415,25 +432,7 @@ upstream_recursive_servers:
     - [oVirt documentation](https://www.ovirt.org/documentation)
   - [Qemu](https://www.qemu.org/) - generic and open source machine emulator and virtualizer.
     - [Qemu Docs](https://www.qemu.org/docs/master)
-  
- ## Network Tools
-- [ARP-scan](https://github.com/royhills/arp-scan) - Scanning hosts on a network with the ARP protocol.
-- [Flare-fakenet-ng](https://github.com/fireeye/flare-fakenet-ng) - Next Generation Dynamic Network Analysis Tool.
-- [GNs3-server](https://github.com/GNS3/gns3-server) - The GNS3 server manages emulators such as Dynamips, VirtualBox or Qemu/KVM. [www.gns3.com](https://www.gns3.com/)
-  - [GNs3-gui](https://github.com/GNS3/gns3-gui) - GNS3 Graphical Network Simulator.
-- [GPing](https://github.com/orf/gping) - Ping, but with a graph.
-- [iputils](https://github.com/iputils/iputils) - The iputils package is set of small useful utilities for Linux networking (arp, clockdigg, ninfod, ping, rarpd, rdisc, tftpd, tracepath and traceroute6).
-- [Stenographer](https://github.com/google/stenographer) - packet capture solution which aims to quickly spool all packets to disk, then provide simple, fast access to subsets of those packets.
-- [The Shadow Simulator](https://github.com/shadow/shadow) - Shadow is a unique discrete-event network simulator that runs real applications like Tor, and distributed systems of thousands of nodes on a single machine. 
-  ### Network Visualization
-    - [Fantastic Full Source Code](https://github.com/besimorhino/project-fantastic) - visualizing tool made by InfoSec Innovations for exploring computer networks.
-
-## VPN - Virtual Private Network
-- [WireGuard](https://github.com/WireGuard) - WireGuard® is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. [Wireguard.com](https://www.wireguard.com/)
-  - [Wireguard-macOS-LinuxVM](https://github.com/mrash/Wireguard-macOS-LinuxVM) -  Send all traffic from macOS through Wireguard running on a Linux VM.
-- [Tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. [Tailscale.com](https://www.tailscale.com)
-- [OpenVPN](https://github.com/OpenVPN)
-  - [Autovpn2](https://github.com/ruped24/autovpn2) - OpenVPN VPN Gate Client for Linux, connects you to a random Free VPN in a country of your choice by country code.
+ 
 
 ## Web and Proxy Tools
 - [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) - A curated list of Web Security materials and resources.
