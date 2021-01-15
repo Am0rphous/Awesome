@@ -89,6 +89,7 @@ https://github.com/S3cur3Th1sSh1t?tab=repositories
   - [SharpShooter](https://github.com/mdsecactivebreach/SharpShooter) - Payload Generation Framework.
   - [XSS-Payloads](https://github.com/RenwaX23/XSS-Payloads)
   ### Privelage, UAC, authorization
+  - [JAWS](https://github.com/411Hall/JAWS) - Just Another Windows (Enum) Script.
   - [UACME](https://github.com/hfiref0x/UACME) - Defeating Windows User Account Control by abusing built-in Windows AutoElevate backdoor.
   - [WinObjEx64](https://github.com/hfiref0x/WinObjEx64) - Windows Object Explorer 64-bit.
   ### Process Injection
@@ -193,6 +194,8 @@ FTest, Lbd, Wafw00f
 - [CeWL](https://github.com/digininja/CeWL/) - Spiders a URL to a specified depth and searches for words that can be used for password attacks. 
 - [CrackQ](https://github.com/f0cker/crackq) - A Python Hashcat cracking queue system.
 - [Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots.
+- [MSOLSpray](https://github.com/dafthack/MSOLSpray) - A password spraying tool for Microsoft Online accounts (Azure/O365).
+  - [TREVORspray](https://github.com/blacklanternsecurity/TREVORspray) - A featureful round-robin SOCKS proxy and Python O365 sprayer based on MSOLSpray which uses the Microsoft Graph API.
 - [Pypal](https://github.com/f0cker/pypal) - Python port of Pipal for password analytics.
 - [SecList](https://github.com/danielmiessler/SecLists)
 - [Win Brute Logon](https://github.com/DarkCoderSc/win-brute-logon) - Crack any Microsoft Windows users password without any privilege (Guest account included).
@@ -208,6 +211,7 @@ FTest, Lbd, Wafw00f
 - [C]()
 - [Nim](https://nim-lang.org) - Statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula.
   - [OffensiveNim by byt3bl33d3r](https://github.com/byt3bl33d3r/OffensiveNim) - Weaponizing Nim.
+  - [Nimble](https://github.com/nim-lang/nimble#nimble-run) - Package manager for the Nim programming language.
 - [Python]()
 - [Ruby]()
 
@@ -280,6 +284,7 @@ FTest, Lbd, Wafw00f
  - [wp_hunter](https://github.com/Josue87/wp_hunter) - Static analysis of wordpress plugins.
 
 ## Wireless Attacks
+- [Deauther](https://github.com/dom96/deauther) - CLI Deauther for macOS.
 - [PRISM-AP](https://github.com/1N3/PRISM-AP) - An automated Wireless RogueAP MITM attack framework. 
 - [Wi-PWN](https://github.com/samdenty/Wi-PWN) - ESP8266 Deauther with a material design WebUI.
 
