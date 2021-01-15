@@ -264,6 +264,27 @@ upstream_recursive_servers:
 - [Nixpkgs](https://github.com/NixOS/nixpkgs) - collection of over 60,000 software packages that can be installed with the Nix package manager [nixos.org](https://nixos.org).
 - [SnapD](https://snapcraft.io)
 
+## Remoting
+- [PowerShell](https://github.com/PowerShell/PowerShell) - cross-platform (Windows, Linux, and macOS) automation and configuration tool/framework.
+  - [GraphicalTools](https://github.com/PowerShell/GraphicalTools) - Modules that mix PowerShell and GUIs/CUIs! - built on Avalonia and gui.cs.
+  ````
+  Enable-PSRemoting -Force
+  set-item wsman:\localhost\Client\TrustedHosts -value *         #Every IP can connect
+  get-item wsman:\localhost\Client\TrustedHosts                  #Check the TrustedHost variable
+  Set-NetConnectionProfile -NetworkCategory Private
+  netstat -ano | Select-String 5985                              #Powershell should run at this port, or 5986 (HTTPS)
+  New-PSSession –ComputerName <Netbios> -Port <Port>
+  Enter-PSSession –ComputerName 192.168.1.10 -Credentials(Get-Credentials Administrator)
+  nmap -v 192.168.1.10 -sV -Pn -p 5985,5986                      #Might be good to check that the port is open.
+  ````
+- [DropBear SSH](https://github.com/mkj/dropbear) - S smallish SSH server and client. [https://matt.ucc.asn.au](https://matt.ucc.asn.au)
+- SSH
+  - [Portable OpenSSH](https://github.com/openssh/openssh-portable)
+  - [SSH Hardening with Security Onion](https://docs.securityonion.net/en/2.3/ssh.html)
+  - [Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH) - Win32 port of OpenSSH.
+- [xRDP](https://github.com/neutrinolabs/xrdp) - Open source RDP server.
+
+
 ## Sandboxing tools
 - [BubbleWrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool
 - [FireJail](https://github.com/netblue30/firejail) - SUID sandbox program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces, seccomp-bpf and Linux capabilities. [FireJail Homepage](https://firejail.wordpress.com/)
@@ -273,17 +294,16 @@ upstream_recursive_servers:
 ## Security
 - [Acme-tiny](https://github.com/diafygi/acme-tiny) - A tiny script to issue and renew TLS certs from Let's Encrypt.
 - [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) - Machine Learning for Cyber Security.
-- [Bitwarden CLI](https://github.com/bitwarden/cli) - Full-featured command-line interface (CLI) tool to access and manage a Bitwarden vault
-- [Bitwarden Desktop](https://github.com/bitwarden/desktop) - The desktop vault (Windows, macOS, & Linux).
-- [Bitwarden Server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
-- [KeePassXC](https://github.com/keepassxreboot/keepassxc) - Open source password manager for Windows, Mac and Linux. [keepassxc.org](https://keepassxc.org)
+- Bitwarden Password Manager
+  - [Bitwarden CLI](https://github.com/bitwarden/cli) - Full-featured command-line interface (CLI) tool to access and manage a Bitwarden vault
+  - [Bitwarden Desktop](https://github.com/bitwarden/desktop) - The desktop vault (Windows, macOS, & Linux).
+  - [Bitwarden Server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
+- KeePass Password Manager
+  - [KeePassXC](https://github.com/keepassxreboot/keepassxc) - Open source password manager for Windows, Mac and Linux. [keepassxc.org](https://keepassxc.org)
   - [KeePassXC Browser Extension](https://github.com/keepassxreboot/keepassxc-browser)
 - [LKRG - Linux Kernel Runtime Guard](https://www.openwall.com/lkrg) -  LKRG performs runtime integrity checking of the Linux kernel and detection of security vulnerability exploits against the kernel.
   - [Linux Kernel Runtime Guard (LKRG) for Debian, Whonix, Qubes, Kicksecure](https://www.whonix.org/wiki/Linux_Kernel_Runtime_Guard_LKRG)
 - [SELinux Userspace](https://github.com/SELinuxProject/selinux) - Security Enhanced Linux (SELinux).
-- SSH
-- [Portable OpenSSH](https://github.com/openssh/openssh-portable)
-  - [SSH Hardening with Security Onion](https://docs.securityonion.net/en/2.3/ssh.html)
 - [Whonix security-misc](https://github.com/Whonix/security-misc) - Kernel Hardening; Protect Linux User Accounts against Brute Force Attacks; Improve Entropy Collection; Strong Linux User Account Separation; Enhances Misc Security Settings - https://www.whonix.org/wiki/Security-misc.
  ### Security Tutorials
   - [40 Linux Server Hardening Security Tips [2019 edition]](https://www.cyberciti.biz/tips/linux-security.html)
@@ -349,7 +369,6 @@ upstream_recursive_servers:
   - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) - Dynamically generated stats for your github readmes.
 - [KDU (Windows)](https://github.com/hfiref0x/KDU) - Kernel Driver Utility.
 - [RipGrep-All](https://github.com/phiresky/ripgrep-all) - search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
-
   ### Create Bootable USB
   - [Balena Etcher](https://github.com/balena-io/etcher) -  Flash OS images to SD cards & USB drives, safely and easily.
   - [Cubic](https://launchpad.net/cubic) - Custom Ubuntu ISO Creator) is a GUI wizard to create a customized Ubuntu Live ISO image.
@@ -362,42 +381,40 @@ upstream_recursive_servers:
 
 ## Virtualization
 - [WebVirtCloud](https://github.com/retspen/webvirtcloud) - WebVirtCloud is virtualization web interface for admins and users.
+   ### Container Technologies
+  - [Docker](https://www.docker.com)
+    - [Docker Bench for Security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production. 
+    - [Docker Compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker.
+      - [Awesme Docker Compose](https://github.com/docker/awesome-compose) -  Awesome Docker Compose samples.
+    - [Images by linuxserver.io](https://fleet.linuxserver.io)
+  - [K3S](https://k3s.io/) - The certified Kubernetes distribution built for IoT & Edge computing
+  - [LXC](https://linuxcontainers.org/lxc/)
+    - [LXC Web Panel's dashboard (old)](https://github.com/lxc-webpanel/dashboard) - Might need flask `pip3 install flask`
+  - [LXD](https://linuxcontainers.org/lxd/)
+  - [MiniKube](https://github.com/kubernetes/minikube) - minikube implements a local Kubernetes cluster on macOS, Linux, and Windows. [minikube.sigs.k8s.io](https://minikube.sigs.k8s.io/docs/)
+  - [MiniShift](https://github.com/minishift/minishift) - open source tool that helps you run a single-node OpenShift cluster locally inside a VM. [okd.io](https://www.okd.io)
+  - [The Moby Project](https://github.com/moby/moby) - a collaborative project for the container ecosystem to assemble container-based systems.
 
- ### Container Technologies
-- [Docker](https://www.docker.com)
-  - [Docker Bench for Security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production. 
-  - [Docker Compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker.
-    - [Awesme Docker Compose](https://github.com/docker/awesome-compose) -  Awesome Docker Compose samples.
-  - [Images by linuxserver.io](https://fleet.linuxserver.io)
-- [K3S](https://k3s.io/) - The certified Kubernetes distribution built for IoT & Edge computing
-- [LXC](https://linuxcontainers.org/lxc/)
-  - [LXC Web Panel's dashboard (old)](https://github.com/lxc-webpanel/dashboard) - Might need flask `pip3 install flask`
-- [LXD](https://linuxcontainers.org/lxd/)
-- [MiniKube](https://github.com/kubernetes/minikube) - minikube implements a local Kubernetes cluster on macOS, Linux, and Windows. [minikube.sigs.k8s.io](https://minikube.sigs.k8s.io/docs/)
-- [MiniShift](https://github.com/minishift/minishift) - open source tool that helps you run a single-node OpenShift cluster locally inside a VM. [okd.io](https://www.okd.io)
-- [The Moby Project](https://github.com/moby/moby) - a collaborative project for the container ecosystem to assemble container-based systems.
+   #### Container orchestration
+   - Docker swarm
+   - [Kubernetes](https://kubernetes.io)
+     - [Kubernetes CheatSheets](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
+     - [MicroK8s](https://github.com/ubuntu/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge. [microk8s.io](https://microk8s.io)
+     - [Sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets.
+   - [Portainer](https://www.portainer.io/) - Open source container management tool for Kubernetes, Docker, Docker Swarm and Azure ACI. 
 
- #### Container orchestration
- - Docker swarm
- - [Kubernetes](https://kubernetes.io)
-   - [Kubernetes CheatSheets](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
-   - [MicroK8s](https://github.com/ubuntu/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge. [microk8s.io](https://microk8s.io)
-   - [Sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets.
- - [Portainer](https://www.portainer.io/) - Open source container management tool for Kubernetes, Docker, Docker Swarm and Azure ACI. 
-
- ### Machines
-
-- KVM
-  - [Kimchi](https://github.com/kimchi-project/kimchi) - HTML5 based management tool for KVM.
-  - [KVM Management Tools list](https://www.linux-kvm.org/page/Management_Tools) - Options available to manage kvm virtual machines.
-  - [Vmmaestro](https://github.com/mzch/vmmaestro) - Tiny control wrapper for KVM.
-- [Multipass](https://ubuntu.com/server/docs/virtualization-multipass) - Instant Ubuntu VMs (Windows, macOS and Linux)
-- [XCP-ng](https://xcp-ng.org/) - Virtualization platform based on Xen Source and Citrix® Hypervisor (formerly XenServer). XCP-ng stands for Xen Cloud Platform - New Generation.
-  - [XCP-ng documentation](https://xcp-ng.org/docs)
-- [oVirt](https://www.ovirt.org/) - Free open-source virtualization solution for your entire enterprise
-  - [oVirt documentation](https://www.ovirt.org/documentation)
-- [Qemu](https://www.qemu.org/) - generic and open source machine emulator and virtualizer.
-  - [Qemu Docs](https://www.qemu.org/docs/master)
+   ### Machines
+  - KVM
+    - [Kimchi](https://github.com/kimchi-project/kimchi) - HTML5 based management tool for KVM.
+    - [KVM Management Tools list](https://www.linux-kvm.org/page/Management_Tools) - Options available to manage kvm virtual machines.
+    - [Vmmaestro](https://github.com/mzch/vmmaestro) - Tiny control wrapper for KVM.
+  - [Multipass](https://ubuntu.com/server/docs/virtualization-multipass) - Instant Ubuntu VMs (Windows, macOS and Linux)
+  - [XCP-ng](https://xcp-ng.org/) - Virtualization platform based on Xen Source and Citrix® Hypervisor (formerly XenServer). XCP-ng stands for Xen Cloud Platform - New Generation.
+    - [XCP-ng documentation](https://xcp-ng.org/docs)
+  - [oVirt](https://www.ovirt.org/) - Free open-source virtualization solution for your entire enterprise
+    - [oVirt documentation](https://www.ovirt.org/documentation)
+  - [Qemu](https://www.qemu.org/) - generic and open source machine emulator and virtualizer.
+    - [Qemu Docs](https://www.qemu.org/docs/master)
   
  ## Network Tools
 - [ARP-scan](https://github.com/royhills/arp-scan) - Scanning hosts on a network with the ARP protocol.
@@ -408,26 +425,8 @@ upstream_recursive_servers:
 - [iputils](https://github.com/iputils/iputils) - The iputils package is set of small useful utilities for Linux networking (arp, clockdigg, ninfod, ping, rarpd, rdisc, tftpd, tracepath and traceroute6).
 - [Stenographer](https://github.com/google/stenographer) - packet capture solution which aims to quickly spool all packets to disk, then provide simple, fast access to subsets of those packets.
 - [The Shadow Simulator](https://github.com/shadow/shadow) - Shadow is a unique discrete-event network simulator that runs real applications like Tor, and distributed systems of thousands of nodes on a single machine. 
-
- ## Network Visualization
- - [Fantastic Full Source Code](https://github.com/besimorhino/project-fantastic) - visualizing tool made by InfoSec Innovations for exploring computer networks. 
-
-## Remoting
-- [PowerShell](https://github.com/PowerShell/PowerShell) - cross-platform (Windows, Linux, and macOS) automation and configuration tool/framework.
-  - [GraphicalTools](https://github.com/PowerShell/GraphicalTools) - Modules that mix PowerShell and GUIs/CUIs! - built on Avalonia and gui.cs.
-  ````
-  Enable-PSRemoting -Force
-  set-item wsman:\localhost\Client\TrustedHosts -value *         #Every IP can connect
-  get-item wsman:\localhost\Client\TrustedHosts                  #Check the TrustedHost variable
-  Set-NetConnectionProfile -NetworkCategory Private
-  netstat -ano | Select-String 5985                              #Powershell should run at this port, or 5986 (HTTPS)
-  New-PSSession –ComputerName <Netbios> -Port <Port>
-  Enter-PSSession –ComputerName 192.168.1.10 -Credentials(Get-Credentials Administrator)
-  nmap -v 192.168.1.10 -sV -Pn -p 5985,5986                      #Might be good to check that the port is open.
-  ````
-- [DropBear SSH](https://github.com/mkj/dropbear) - S smallish SSH server and client. [https://matt.ucc.asn.au/](https://matt.ucc.asn.au/)
-- [Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH) - Win32 port of OpenSSH.
-- [xrdp](https://github.com/neutrinolabs/xrdp) - Open source RDP server.
+  ### Network Visualization
+    - [Fantastic Full Source Code](https://github.com/besimorhino/project-fantastic) - visualizing tool made by InfoSec Innovations for exploring computer networks.
 
 ## VPN - Virtual Private Network
 - [WireGuard](https://github.com/WireGuard) - WireGuard® is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. [Wireguard.com](https://www.wireguard.com/)
