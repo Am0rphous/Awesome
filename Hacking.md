@@ -88,6 +88,9 @@ https://github.com/S3cur3Th1sSh1t?tab=repositories
   - [Pwndrop](https://github.com/kgretzky/pwndrop) - Self-deployable file hosting service for red teamers, allowing to easily upload and share payloads over HTTP and WebDAV. [breakdev.org/pwndrop](https://breakdev.org/pwndrop/)
   - [SharpShooter](https://github.com/mdsecactivebreach/SharpShooter) - Payload Generation Framework.
   - [XSS-Payloads](https://github.com/RenwaX23/XSS-Payloads)
+  ### Privelage, UAC, authorization
+  - [UACME](https://github.com/hfiref0x/UACME) - Defeating Windows User Account Control by abusing built-in Windows AutoElevate backdoor.
+  - [WinObjEx64](https://github.com/hfiref0x/WinObjEx64) - Windows Object Explorer 64-bit.
   ### Process Injection
   - [cThreadHijack](https://github.com/connormcgarr/cThreadHijack) - Beacon Object File (BOF) for remote process injection via thread hijacking.
   - [go-shellcode](https://github.com/brimstone/go-shellcode) - program to run shellcode as its own process, all from memory. This was written to defeat anti-virus detection.
