@@ -9,3 +9,17 @@
 - [TorBot](https://github.com/DedSecInside/TorBoT) - Dark Web OSINT Tool.
 - [toriptables2](https://github.com/ruped24/toriptables2) - Tor Iptables script is an anonymizer that sets up iptables and tor to route all services and traffic including DNS through the Tor network. 
 
+## Log Files and practical commands
+The `torrc` file contains info about where the log is stored with the `Log` option.
+Commands
+````
+sudo cat /var/log/syslog | grep tor -i
+sudo journalctl -f -u tor@default | grep bootstrapped -i
+sudo journalctl -u tor@default
+sudo updatedb && locate tor.log
+````
+Paths used for logs:
+````
+/var/log/tor                  # Linux
+/usr/local/var/log/tor.log    # MacOS
+````
