@@ -3,6 +3,7 @@
 - [Ad-block](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#ad-block)
   - [Blocklists](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#blocklists)
 - [Anti-Virus / malware and rootkit detectio](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#anti-virus--malware-and-rootkit-detection)
+  - [Analysis Tools Selfhosted](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#analysis-tools-selfhosted)
   - [Analysis Tools Online](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#analysis-tools-online)
 - [Backup](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#backup)
   - [Ransomware Decryptors](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#ransomware-decryptors)
@@ -10,8 +11,6 @@
 - [Communication / Collaboration](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#communication--collaboration)
   - [Matrix](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#matrix)
 - [Configuration Management](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#configuration-management)
-- [DHCP](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#dhcp)
-- [DNS](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#dns)
 - [Ebooks and PDFs](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#ebooks-and-pdfs)
 - [File Sharing](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#file-sharing)
 - [IDS, HIDS and IPS](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#ids-hids-and-ips)
@@ -21,22 +20,29 @@
 - [Monitoring](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#monitoring)
   - [ELK-stack](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#elk-stack)
   - [Good resources](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#good-resources)
+  - [Log Analysis](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#log-analysis)
+- [Network Tools](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#network-tools)
+  - [DHCP](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#dhcp)
+  - [DNS](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#dns)
+  - [Network Visualization](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#network-visualization)
+  - [Remoting](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#remoting)
+    - [VPN - Virtual Private Network](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#vpn---virtual-private-network)
+  - [Storage](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#storage)
 - [Package Managers](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#package-managers)
-- [Sandboxing tools](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#sandboxing-tools)
-- [Terminal / Shell](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#terminal--shell)
-  - [Bash](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#bash)
 - [Security](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#security)
+  - [Sandboxing tools](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#sandboxing-tools)
   - [Security Tutorials](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#security-tutorials)
 - [Scripting](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#scripting)
+- [Terminal / Shell](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#terminal--shell)
+  - [Bash](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#bash)
+  - [Dotfiles](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#dotfiles)
+  - [Web Browser in Terminal](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#web-browser-in-terminal)
 - [Utilities](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#utilities)
   - [Create Bootable USB](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#create-bootable-usb)
 - [Virtualization](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#virtualization)
   - [Container Technologies](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#container-technologies)
     - [Container orchestration](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#container-orchestration)
   - [Machines](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#machines)
-- [Network Tools](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#network-tools)
-- [Remoting](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#remoting)
-- [VPN - Virtual Private Network](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#vpn---virtual-private-network)
 - [Web / Proxy](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#web-and-proxy-tools)
   - [Web Analytics](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#web-analytics)
 
@@ -137,26 +143,6 @@ bro / zeek
 - [Ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Ansible Tower offers free for handling up to 10 nodes.
 - [wAuto](https://github.com/khchen/wAuto) - Windows automation module.
 
-## DHCP
-- [isc-dhcp-server](https://gitlab.isc.org/isc-projects/dhcp) - ISC DHCP is enterprise grade, open source solution for DHCP servers, relay agents, and clients, supports both IPv4 and IPv6, and is suitable for use in high-volume and high-reliability applications.
-  - [Glass](https://github.com/Akkadius/glass-isc-dhcp) - Glass - ISC DHCP Server Interface 
-
-## DNS
-- [Bind9](https://gitlab.isc.org/isc-projects/bind9) - BIND (Berkeley Internet Name Domain) is a complete, highly portable
-implementation of the Domain Name System (DNS) protocol.
-- [Unbound DNS](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver. [Homepage](https://nlnetlabs.nl/projects/unbound/about/)
-- [Stubby](https://github.com/getdnsapi/stubby) - Stubby is the name given to a mode of using getdns which enables it to act as a local DNS Privacy stub resolver (using DNS-over-TLS). 
-Make sure the file `/etc/stubby/stubby.yml` contains these upstreams settings
-````
-upstream_recursive_servers:
-  - address_data: 1.1.1.1
-    tls_port: 853
-    tls_auth_name: "cloudflare-dns.com"
-  - address_data: 1.0.0.1
-    tls_port: 853
-    tls_auth_name: "cloudflare-dns.com"
-````
-
 ## Ebooks and PDFs
 - [GeekGuide - Linux in the Time of Malware](https://www.linuxjournal.com/sites/default/files/2018-11/GeekGuide-Bit9-3.pdf)
 - [GeekGuide - SysAdmin 101](https://www.linuxjournal.com/sites/default/files/2018-12/SysAdmin101-Ebook.pdf)
@@ -200,12 +186,6 @@ upstream_recursive_servers:
 - [JXplorer](https://github.com/pegacat/jxplorer) - an open source LDAP browser.
 - [Openldap](https://github.com/openldap/openldap) - free, open-source implementation of the Lightweight Directory Access Protocol (LDAP) developed by the OpenLDAP Project.
 
-## Log Analysis
-- [PgBadger](https://github.com/darold/pgbadger) - A fast PostgreSQL Log Analyzer [pgbadger.darold.net](https://pgbadger.darold.net).
-  - [PgFormatter](https://github.com/darold/pgFormatter) - A PostgreSQL SQL syntax beautifier that can work as a console program or as a CGI. On-line demo site at [sqlformat.darold.net](http://sqlformat.darold.net).
-- [SendMailAnalyzer](https://github.com/darold/sendmailanalyzer) - Sendmail log Analyzer is a tool to monitor sendmail usage and generate HTML and graph reports. It reports all you ever wanted to know about email trafic on your network. You can also use it in ISP environment with per domain and per mailbox report.
-- [SquidAnalyzer](https://github.com/darold/squidanalyzer) - Squid Analyzer parses Squid proxy access log and reports general statistics about hits, bytes, users, networks, top URLs, and top second level domains. Statistic reports are oriented toward user and bandwidth control.
-
 ## Mail
 - [Roundcube webmail](https://github.com/roundcube/roundcubemail) - [roundcube.net](https://roundcube.net/)
 
@@ -241,6 +221,11 @@ upstream_recursive_servers:
 - [SysUsage](https://github.com/darold/sysusage) - SysUsage is a system monitoring and alarm reporting tool. It can generate historical graph views of CPU, memory, IO, network and disk usage, and very much more.
 - [Wazuh](https://github.com/wazuh/wazuh/) - Wazuh is a free, open source and enterprise-ready security monitoring solution for threat detection, integrity monitoring, incident response and compliance. [wazuh.com](https://wazuh.com/)
 - [Zeek (Bro)](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know. [zeek.org](https://www.zeek.org)
+  ### Log Analysis
+  - [PgBadger](https://github.com/darold/pgbadger) - A fast PostgreSQL Log Analyzer [pgbadger.darold.net](https://pgbadger.darold.net).
+  - [PgFormatter](https://github.com/darold/pgFormatter) - A PostgreSQL SQL syntax beautifier that can work as a console program or as a CGI. On-line demo site at [sqlformat.darold.net](http://sqlformat.darold.net).
+  - [SendMailAnalyzer](https://github.com/darold/sendmailanalyzer) - Sendmail log Analyzer is a tool to monitor sendmail usage and generate HTML and graph reports. It reports all you ever wanted to know about email trafic on your network. You can also use it in ISP environment with per domain and per mailbox report.
+  - [SquidAnalyzer](https://github.com/darold/squidanalyzer) - Squid Analyzer parses Squid proxy access log and reports general statistics about hits, bytes, users, networks, top URLs, and top second level domains. Statistic reports are oriented toward user and bandwidth control.
 
  ## Network Tools
 - [ARP-scan](https://github.com/royhills/arp-scan) - Scanning hosts on a network with the ARP protocol.
@@ -250,10 +235,27 @@ upstream_recursive_servers:
 - [GPing](https://github.com/orf/gping) - Ping, but with a graph.
 - [iputils](https://github.com/iputils/iputils) - The iputils package is set of small useful utilities for Linux networking (arp, clockdigg, ninfod, ping, rarpd, rdisc, tftpd, tracepath and traceroute6).
 - [Stenographer](https://github.com/google/stenographer) - packet capture solution which aims to quickly spool all packets to disk, then provide simple, fast access to subsets of those packets.
-- [The Shadow Simulator](https://github.com/shadow/shadow) - Shadow is a unique discrete-event network simulator that runs real applications like Tor, and distributed systems of thousands of nodes on a single machine. 
+- [The Shadow Simulator](https://github.com/shadow/shadow) - Shadow is a unique discrete-event network simulator that runs real applications like Tor, and distributed systems of thousands of nodes on a single machine.
+  ### DHCP
+  - [isc-dhcp-server](https://gitlab.isc.org/isc-projects/dhcp) - ISC DHCP is enterprise grade, open source solution for DHCP servers, relay agents, and clients, supports both IPv4 and IPv6, and is suitable for use in high-volume and high-reliability applications.
+  - [Glass](https://github.com/Akkadius/glass-isc-dhcp) - Glass - ISC DHCP Server Interface 
+  ### DNS
+  - [Bind9](https://gitlab.isc.org/isc-projects/bind9) - BIND (Berkeley Internet Name Domain) is a complete, highly portable
+implementation of the Domain Name System (DNS) protocol.
+  - [Unbound DNS](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver. [Homepage](https://nlnetlabs.nl/projects/unbound/about/)
+  - [Stubby](https://github.com/getdnsapi/stubby) - Stubby is the name given to a mode of using getdns which enables it to act as a local DNS Privacy stub resolver (using DNS-over-TLS). 
+Make sure the file `/etc/stubby/stubby.yml` contains these upstreams settings
+````
+upstream_recursive_servers:
+  - address_data: 1.1.1.1
+    tls_port: 853
+    tls_auth_name: "cloudflare-dns.com"
+  - address_data: 1.0.0.1
+    tls_port: 853
+    tls_auth_name: "cloudflare-dns.com"
+````
   ### Network Visualization
     - [Fantastic Full Source Code](https://github.com/besimorhino/project-fantastic) - visualizing tool made by InfoSec Innovations for exploring computer networks.
-    
   ### Remoting
   - [PowerShell](https://github.com/PowerShell/PowerShell) - cross-platform (Windows, Linux, and macOS) automation and configuration tool/framework.
   - [GraphicalTools](https://github.com/PowerShell/GraphicalTools) - Modules that mix PowerShell and GUIs/CUIs! - built on Avalonia and gui.cs.
@@ -279,6 +281,9 @@ upstream_recursive_servers:
     - [Tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. [Tailscale.com](https://www.tailscale.com)
     - [OpenVPN](https://github.com/OpenVPN)
       - [Autovpn2](https://github.com/ruped24/autovpn2) - OpenVPN VPN Gate Client for Linux, connects you to a random Free VPN in a country of your choice by country code.
+  ### Storage
+  - [Nextcloud Server](https://github.com/nextcloud/server) - Selfhosting storage server.
+
 
 ## Package Managers
 - [Brew / HomeBrew](https://brew.sh/) - Package Manager for Linux and MacOS.
@@ -302,12 +307,6 @@ upstream_recursive_servers:
 - [Nixpkgs](https://github.com/NixOS/nixpkgs) - collection of over 60,000 software packages that can be installed with the Nix package manager [nixos.org](https://nixos.org).
 - [SnapD](https://snapcraft.io)
 
-## Sandboxing tools
-- [BubbleWrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool
-- [FireJail](https://github.com/netblue30/firejail) - SUID sandbox program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces, seccomp-bpf and Linux capabilities. [FireJail Homepage](https://firejail.wordpress.com/)
-- [Windows_Sandbox_Editor](https://github.com/damienvanrobaeys/Windows_Sandbox_Editor) - Generate and manage your windows sandbox.
-  - [Run-in-Sandbox](https://github.com/damienvanrobaeys/Run-in-Sandbox) - Run PS1, VBS, EXE, MSI in Windows Sandbox very quickly just from a right-click.
-
 ## Security
 - [Acme-tiny](https://github.com/diafygi/acme-tiny) - A tiny script to issue and renew TLS certs from Let's Encrypt.
 - [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) - Machine Learning for Cyber Security.
@@ -322,7 +321,12 @@ upstream_recursive_servers:
   - [Linux Kernel Runtime Guard (LKRG) for Debian, Whonix, Qubes, Kicksecure](https://www.whonix.org/wiki/Linux_Kernel_Runtime_Guard_LKRG)
 - [SELinux Userspace](https://github.com/SELinuxProject/selinux) - Security Enhanced Linux (SELinux).
 - [Whonix security-misc](https://github.com/Whonix/security-misc) - Kernel Hardening; Protect Linux User Accounts against Brute Force Attacks; Improve Entropy Collection; Strong Linux User Account Separation; Enhances Misc Security Settings - https://www.whonix.org/wiki/Security-misc.
- ### Security Tutorials
+  ### Sandboxing tools
+  - [BubbleWrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool
+  - [FireJail](https://github.com/netblue30/firejail) - SUID sandbox program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces, seccomp-bpf and Linux capabilities. [FireJail Homepage](https://firejail.wordpress.com/)
+  - [Windows_Sandbox_Editor](https://github.com/damienvanrobaeys/Windows_Sandbox_Editor) - Generate and manage your windows sandbox.
+  - [Run-in-Sandbox](https://github.com/damienvanrobaeys/Run-in-Sandbox) - Run PS1, VBS, EXE, MSI in Windows Sandbox very quickly just from a right-click.
+  ### Security Tutorials
   - [40 Linux Server Hardening Security Tips [2019 edition]](https://www.cyberciti.biz/tips/linux-security.html)
   - [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server#firewall-with-ufw-uncomplicated-firewall) - An evolving how-to guide for securing a Linux server.
   - [Set Up Automatic Security Update on Ubuntu](https://www.linuxbabe.com/ubuntu/automatic-security-update-unattended-upgrades-ubuntu)
@@ -344,9 +348,6 @@ upstream_recursive_servers:
 - [Awesome-Scripts by DedSecInside](https://github.com/DedSecInside/Awesome-Scripts) - A collection of awesome scripts from developers around the globe.
 - [Ubuntu post-installation script](https://github.com/nicolargo/ubuntupostinstall)
 - [Qoa](https://github.com/klaussinani/qoa) - Minimal interactive command-line prompts
-
-## Storage
-- [Nextcloud Server](https://github.com/nextcloud/server) - selfhostes storage server.
 
 ## Terminal / Shell
 - [Awesome Shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
