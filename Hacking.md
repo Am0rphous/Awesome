@@ -38,11 +38,6 @@ https://github.com/S3cur3Th1sSh1t?tab=repositories
 - [StandIn](https://github.com/FuzzySecurity/StandIn) - small AD post-compromise toolkit.
 - [WinPwn](https://github.com/S3cur3Th1sSh1t/WinPwn) -  Automation for internal Windows Penetrationtest / AD-Security.
 
-## Backdoor Factor
-- [Backdoorplz](https://github.com/jfmaes/Backdoorplz) - adding a backdooruser using win32api.
-- [tomcatWarDeployer](https://github.com/mgeeky/tomcatWarDeployer) - Penetration testing tool intended to leverage Apache Tomcat credentials in order to automatically generate and deploy JSP Backdoor.
-- [ShellStack](https://github.com/Tuhinshubhra/shellstack) -  A PHP Based Tool That Helps You To Manage All Your Backdoored Websites Efficiently.
-
 ## Blue Team
 - [BlueSpawn](https://github.com/ION28/BLUESPAWN) - An Active Defense and EDR software to empower Blue Teams.
 - [FireEye Red Team Tool Countermeasures](https://github.com/fireeye/red_team_tool_countermeasures) - Snort, Yara, ClamAV, HXIOC
@@ -73,11 +68,15 @@ https://github.com/S3cur3Th1sSh1t?tab=repositories
 - [Malgen](https://github.com/cmsteffen-code/malgen) - Craft obfuscated, fileless PowerShell malware. 
 - [OfficePurge](https://github.com/fireeye/OfficePurge)
 - [PostEnum](https://github.com/mostaphabahadou/postenum) - Linux enumeration and privilege escalation tool. 
-- [Pompem](https://github.com/rfunix/Pompem) -Exploit and Vulnerability Finder.
+- [Pompem](https://github.com/rfunix/Pompem) - Exploit and Vulnerability Finder.
 - [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) - A PowerShell Post-Exploitation Framework 
 - [Rpc2socks](https://github.com/lexfo/rpc2socks) - Post-exploit tool that enables a SOCKS tunnel via a Windows host using an extensible custom RPC proto over SMB through a named pipe.
 - [SharpSploit](https://github.com/cobbr/SharpSploit) - SharpSploit is a .NET post-exploitation library written in C#.
-- [SILENTTRINITY](https://github.com/byt3bl33d3r/SILENTTRINITY) - An asynchronous, collaborative post-exploitation agent powered by Python and .NET's DLR 
+- [SILENTTRINITY](https://github.com/byt3bl33d3r/SILENTTRINITY) - An asynchronous, collaborative post-exploitation agent powered by Python and .NET's DLR.
+  ### Backdoor Specific
+  - [Backdoorplz](https://github.com/jfmaes/Backdoorplz) - Adding a backdooruser using win32api.
+  - [tomcatWarDeployer](https://github.com/mgeeky/tomcatWarDeployer) - Penetration testing tool intended to leverage Apache Tomcat credentials in order to automatically generate and deploy JSP Backdoor.
+  - [ShellStack](https://github.com/Tuhinshubhra/shellstack) -  A PHP Based Tool That Helps You To Manage All Your Backdoored Websites Efficiently.
   ### DLL
   - [Koppeling](https://github.com/monoxgas/Koppeling) - Adaptive DLL hijacking / dynamic export forwarding.
   - [ThreadJect](https://github.com/D4stiny/ThreadJect) - Manual DLL Injector using Thread Hijacking.
@@ -87,7 +86,7 @@ https://github.com/S3cur3Th1sSh1t?tab=repositories
   - [Armor](https://github.com/tokyoneon/Armor) - A simple Bash script designed to create encrypted macOS payloads capable of evading antivirus scanners.
   - [CPLResourceRunner](https://github.com/rvrsh3ll/CPLResourceRunner) - Run shellcode from resource.
   - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF 
-  - [Pwndrop](https://github.com/kgretzky/pwndrop) - Self-deployable file hosting service for red teamers, allowing to easily upload and share payloads over HTTP and WebDAV. [breakdev.org/pwndrop](https://breakdev.org/pwndrop/)
+  - [Pwndrop](https://github.com/kgretzky/pwndrop) - Self-deployable file hosting service for red teamers, allowing to easily upload and share payloads over HTTP and WebDAV. [breakdev.org/pwndrop](https://breakdev.org/pwndrop)
   - [SharpShooter](https://github.com/mdsecactivebreach/SharpShooter) - Payload Generation Framework.
   - [XSS-Payloads](https://github.com/RenwaX23/XSS-Payloads)
   ### Privelage, UAC, authorization
