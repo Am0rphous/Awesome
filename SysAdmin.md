@@ -283,6 +283,7 @@ upstream_recursive_servers:
       - [Autovpn2](https://github.com/ruped24/autovpn2) - OpenVPN VPN Gate Client for Linux, connects you to a random Free VPN in a country of your choice by country code.
   ### Storage
   - [Libvirt Storage Management](https://libvirt.org/index.html)
+  - [Lustre](https://www.lustre.org) - _Open-source, parallel file system that supports many requirements of leadership class HPC simulation environments.
   - [Nextcloud Server](https://github.com/nextcloud/server) - Selfhosting storage server.
   - [OpenDedupe](https://opendedup.org/odd) - _OpenDedup provides an open source filesystem, SDFS, that includes inline deduplication to local or cloud storage targets._
   - [PetaSAN](http://www.petasan.org) - _Open source Scale-Out SAN solution offering massive scalability and performance._
