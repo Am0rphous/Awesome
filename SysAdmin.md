@@ -282,8 +282,12 @@ upstream_recursive_servers:
     - [OpenVPN](https://github.com/OpenVPN)
       - [Autovpn2](https://github.com/ruped24/autovpn2) - OpenVPN VPN Gate Client for Linux, connects you to a random Free VPN in a country of your choice by country code.
   ### Storage
+  - [Libvirt Storage Management](https://libvirt.org/index.html)
   - [Nextcloud Server](https://github.com/nextcloud/server) - Selfhosting storage server.
-  - [Rockstor](http://rockstor.com) - BTRFS based NAS and private cloud storage solution. [Download Rockstor](https://sourceforge.net/projects/rockstor/files/).
+  - [OpenDedupe](https://opendedup.org/odd) - _OpenDedup provides an open source filesystem, SDFS, that includes inline deduplication to local or cloud storage targets._
+  - [PetaSAN](http://www.petasan.org) - _Open source Scale-Out SAN solution offering massive scalability and performance._
+  - [Rockstor](http://rockstor.com) - BTRFS based NAS and private cloud storage solution. [Download Rockstor](https://sourceforge.net/projects/rockstor/files).
+  - [XigmaNAS](https://www.xigmanas.com) - Open Source Storage NAS (Network-Attached Storage) distribution based on FreeBSD. [Download XimagaNAS](https://sourceforge.net/projects/xigmanas/files/)
 
 ## Package Managers
 - [Brew / HomeBrew](https://brew.sh/) - Package Manager for Linux and MacOS.
@@ -399,6 +403,8 @@ upstream_recursive_servers:
 ## Virtualization
 - [WebVirtCloud](https://github.com/retspen/webvirtcloud) - WebVirtCloud is virtualization web interface for admins and users.
    ### Cloud
+   - [Cloud Foundry](https://www.cloudfoundry.org) - [github.com/cloudfoundry](https://github.com/cloudfoundry)_Cloud Foundry provides a highly efficient, modern model for cloud native application delivery on top of Kubernetes._
+   - [Red Hat's OpenShift](https://www.openshift.com) - [github.com/openshift](https://github.com/openshift)_Red Hat OpenShift is the hybrid cloud platform of open possibility: powerful, so you can build anything and flexible, so it works anywhere._
    ### Container Technologies
   - [Docker](https://www.docker.com)
     - [Docker Bench for Security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production. 
@@ -420,7 +426,6 @@ upstream_recursive_servers:
      - [MicroK8s](https://github.com/ubuntu/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge. [microk8s.io](https://microk8s.io)
      - [Sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets.
    - [Portainer](https://www.portainer.io) - Open source container management tool for Kubernetes, Docker, Docker Swarm and Azure ACI.
-   - [Red Hat's OpenShift](https://www.openshift.com) - _Red Hat OpenShift is the hybrid cloud platform of open possibility: powerful, so you can build anything and flexible, so it works anywhere._
 
    ### Machines
   - KVM
