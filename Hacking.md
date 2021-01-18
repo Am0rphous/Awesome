@@ -56,7 +56,8 @@ https://github.com/S3cur3Th1sSh1t?tab=repositories
 
 ## Exploitation Tools
 - [Armitage](https://github.com/rsmudge/armitage) - graphical cyber attack management tool for Metasploit that visualizes your targets, recommends exploits, and exposes the advanced capabilities of the framework. [Homepage](http://www.fastandeasyhacking.com)
-- [Byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers. [byob.dev](https://byob.dev/)
+- [Byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers. [byob.dev](https://byob.dev)
+- [Chimera](https://github.com/tokyoneon/Chimera) - Chimera is a (shiny and very hack-ish) PowerShell obfuscation script designed to bypass AMSI and commercial antivirus solutions [null-byte.com/bypass-amsi-0333967/](https://null-byte.wonderhowto.com/how-to/hacking-windows-10-bypass-virustotal-amsi-detection-signatures-with-chimera-0333967).
 - [ChromeTools](https://github.com/bats3c/ChromeTools) - A collection of tools to abuse chrome browser.
 - [CobaltStrike](https://www.cobaltstrike.com/) - Commercial, full-featured, penetration testing tool.
   - [BOF-Nim](https://github.com/byt3bl33d3r/BOF-Nim) - Cobalt Strike BOF Files with Nim.
@@ -83,6 +84,7 @@ https://github.com/S3cur3Th1sSh1t?tab=repositories
   - [TrustJack](https://github.com/jfmaes/TrustJack) - POC of [Hijacking DLLs in Windows](https://www.wietzebeukema.nl/blog/hijacking-dlls-in-windows)
   ### Payloads
   - [AssemblyRunner](https://github.com/warferik/AssemblyRunner) - C# Exe that can remotely retrieve C# assemblies for in-memory execution.
+  - [Armor](https://github.com/tokyoneon/Armor) - A simple Bash script designed to create encrypted macOS payloads capable of evading antivirus scanners.
   - [CPLResourceRunner](https://github.com/rvrsh3ll/CPLResourceRunner) - Run shellcode from resource.
   - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF 
   - [Pwndrop](https://github.com/kgretzky/pwndrop) - Self-deployable file hosting service for red teamers, allowing to easily upload and share payloads over HTTP and WebDAV. [breakdev.org/pwndrop](https://breakdev.org/pwndrop/)
