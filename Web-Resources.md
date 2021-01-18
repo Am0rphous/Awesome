@@ -66,6 +66,8 @@
 - [Spyboy blog](https://spyboy.blog) - Learn ethical hacking , cyber security, computer programming, networking, android tricks and windows tricks.
 - [Thehacks.co](https://thehacks.co) - Latest Hacking Insights Tips & Guides.
 - [zeropointsecurity.co.uk/red-team-ops](https://www.zeropointsecurity.co.uk/red-team-ops) - Offensive Cyber Security Training.
+  ### PowerShell
+  - [Scriptigator.com](https://scriptigator.com)
 
 ## Cyber Security News
 - [Cyware.com/hacker-news](https://cyware.com/hacker-news)
