@@ -283,7 +283,7 @@ upstream_recursive_servers:
       - [Autovpn2](https://github.com/ruped24/autovpn2) - OpenVPN VPN Gate Client for Linux, connects you to a random Free VPN in a country of your choice by country code.
   ### Storage
   - [Nextcloud Server](https://github.com/nextcloud/server) - Selfhosting storage server.
-
+  - [Rockstor](http://rockstor.com) - BTRFS based NAS and private cloud storage solution. [Download Rockstor](https://sourceforge.net/projects/rockstor/files/).
 
 ## Package Managers
 - [Brew / HomeBrew](https://brew.sh/) - Package Manager for Linux and MacOS.
@@ -396,9 +396,9 @@ upstream_recursive_servers:
   ### Testing
   - [Selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 
-
 ## Virtualization
 - [WebVirtCloud](https://github.com/retspen/webvirtcloud) - WebVirtCloud is virtualization web interface for admins and users.
+   ### Cloud
    ### Container Technologies
   - [Docker](https://www.docker.com)
     - [Docker Bench for Security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production. 
@@ -419,7 +419,8 @@ upstream_recursive_servers:
      - [Kubernetes CheatSheets](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
      - [MicroK8s](https://github.com/ubuntu/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge. [microk8s.io](https://microk8s.io)
      - [Sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets.
-   - [Portainer](https://www.portainer.io/) - Open source container management tool for Kubernetes, Docker, Docker Swarm and Azure ACI. 
+   - [Portainer](https://www.portainer.io) - Open source container management tool for Kubernetes, Docker, Docker Swarm and Azure ACI.
+   - [Red Hat's OpenShift](https://www.openshift.com) - _Red Hat OpenShift is the hybrid cloud platform of open possibility: powerful, so you can build anything and flexible, so it works anywhere._
 
    ### Machines
   - KVM
