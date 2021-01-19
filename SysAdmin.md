@@ -288,6 +288,7 @@ upstream_recursive_servers:
   - [Lustre](https://www.lustre.org) - _Open-source, parallel file system that supports many requirements of leadership class HPC simulation environments.
   - [Nextcloud Server](https://github.com/nextcloud/server) - Selfhosting storage server.
   - [OpenDedupe](https://opendedup.org/odd) - _OpenDedup provides an open source filesystem, SDFS, that includes inline deduplication to local or cloud storage targets._
+  - [OpenZFS](https://github.com/openzfs/zfs) - _OpenZFS on Linux and FreeBSD._
   - [PetaSAN](http://www.petasan.org) - _Open source Scale-Out SAN solution offering massive scalability and performance._
   - [Rockstor](http://rockstor.com) - BTRFS based NAS and private cloud storage solution. [Download Rockstor](https://sourceforge.net/projects/rockstor/files).
   - [XigmaNAS](https://www.xigmanas.com) - Open Source Storage NAS (Network-Attached Storage) distribution based on FreeBSD. [Download XimagaNAS](https://sourceforge.net/projects/xigmanas/files/)
