@@ -24,6 +24,7 @@
 - [MMM-CalendarWeek](https://github.com/heskja/MMM-CalendarWeek) - Alternative calendar module for MagicMirror.
 - [MMM-COVID19](https://github.com/bibaldo/MMM-COVID19) - Module to track reported cases of COVID-19.
 - [MMM-Cryptocurrency](https://github.com/matteodanelli/MMM-cryptocurrency) -  A MagicMirror module for crypto currencies value.
+- [MMM-Globe](https://github.com/LukeSkywalker92/MMM-Globe) - Earth globe for MagicMirror2.
 - [MMM-GoogleBirthdaysProvider](https://github.com/PalatinCoder/MMM-GoogleBirthdaysProvider) -  MagicMirror² Module to include your Google Contacts' birthdays into the default calendar.
 - [MMM-GoogleCast](https://github.com/ferferga/MMM-GoogleCast) - See what's playing in your Google Cast device inside your MagicMirror.
 - [MMM-Facial-Recognition](https://github.com/paviro/MMM-Facial-Recognition) - This an extension for the MagicMirror. It provides facial recognition and module swapping based on the current user.
