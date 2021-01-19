@@ -27,19 +27,7 @@
 - [Linux Respin](http://www.linuxrespin.org)
 - [Ubuntu Imager](https://github.com/Distroshare/distroshare-ubuntu-imager) - Creates an installable live CD from an installed Ubuntu or derivative distribution.
 
-## IoT, embedded devices, tablets
-- [Fedora IoT](https://getfedora.org/en/iot/)
-- [LineageOS Android Distribution](https://lineageos.org) - A free and open-source operating system for various devices, based on the Android mobile platform.
-- [Ubunt Server](https://ubuntu.com)
-- [Ubuntu Touch](https://ubuntu-touch.io/get-ubuntu-touch)
-
-## Router and Firewall OSes
-- [IPFire](https://www.ipfire.org) - IPFire is a hardened, versatile, state-of-the-art Open Source firewall based on Linux.
-- [m0n0wall](https://m0n0.ch/wall/index.php) - _Embedded firewall distribution of FreeBSD._
-- [OpenWrt](https://openwrt.org) - OpenWrt is an open source project for embedded operating systems based on Linux, primarily used on embedded devices to route network traffic.
-- [OPNsense](https://opnsense.org) - Open source, easy-to-use and easy-to-build HardenedBSD based firewall and routing platform. 
-- [PFsense](https://www.pfsense.org) - Open source firewall/router computer software distribution based on FreeBSD.
-- [Zeroshell Linux Router](https://zeroshell.org) - Routing and Bridging Firewall Solutions.
+## Country Specific
 
 ## Desktop OSes
 - [Asahi](https://asahilinux.org) - Asahi Linux aims to bring you a polished Linux experience on Apple Silicon Macs.
@@ -82,7 +70,26 @@
 | 7. Russia | | |
 | 8. South Africa | | |
 | 9. United Kingom | | |
- 
+
+## IoT, embedded devices, tablets
+- [Fedora IoT](https://getfedora.org/en/iot/)
+- [LineageOS Android Distribution](https://lineageos.org) - A free and open-source operating system for various devices, based on the Android mobile platform.
+- [Ubunt Server](https://ubuntu.com)
+- [Ubuntu Touch](https://ubuntu-touch.io/get-ubuntu-touch)
+
+## Pen-testing and security auditing
+- [BlackArch](https://www.blackarch.org) - BlackArch Linux is an Arch Linux-based penetration testing distribution for penetration testers and security researchers.
+- [Kali](https://www.kali.org) - Advanced Penetration Testing Distribution.
+- [Parrot](https://www.parrotsec.org) - designed for penetration testing, vulnerability assessment and mitigation, computer forensics and anonymous web browsing. 
+
+## Router and Firewall OSes
+- [IPFire](https://www.ipfire.org) - IPFire is a hardened, versatile, state-of-the-art Open Source firewall based on Linux.
+- [m0n0wall](https://m0n0.ch/wall/index.php) - _Embedded firewall distribution of FreeBSD._
+- [OpenWrt](https://openwrt.org) - OpenWrt is an open source project for embedded operating systems based on Linux, primarily used on embedded devices to route network traffic.
+- [OPNsense](https://opnsense.org) - Open source, easy-to-use and easy-to-build HardenedBSD based firewall and routing platform. 
+- [PFsense](https://www.pfsense.org) - Open source firewall/router computer software distribution based on FreeBSD.
+- [Zeroshell Linux Router](https://zeroshell.org) - Routing and Bridging Firewall Solutions.
+
 ## Server OSes
 - [Arch Linux](https://www.archlinux.org)
 - [CentOS](https://www.centos.org/) - Community Enterprise Operating System for servers, workstations and desktop. Based on Red Hat Enterprise Linux.
@@ -99,7 +106,3 @@
   - [OpenMediaVault](https://github.com/openmediavault/openmediavault) - Based on Debian. Contains services like SSH, (S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and many more. [Doc](https://docs.openmediavault.org) [Forum](https://forum.openmediavault.org) [Blog](https://blog.openmediavault.org)
   - [TrueNAS](https://www.truenas.com)
 
-## Pen-testing and security auditing
-- [BlackArch](https://www.blackarch.org) - BlackArch Linux is an Arch Linux-based penetration testing distribution for penetration testers and security researchers.
-- [Kali](https://www.kali.org) - Advanced Penetration Testing Distribution.
-- [Parrot](https://www.parrotsec.org) - designed for penetration testing, vulnerability assessment and mitigation, computer forensics and anonymous web browsing. 
