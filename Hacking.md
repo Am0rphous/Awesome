@@ -73,10 +73,12 @@ https://github.com/S3cur3Th1sSh1t?tab=repositories
 - [Rpc2socks](https://github.com/lexfo/rpc2socks) - Post-exploit tool that enables a SOCKS tunnel via a Windows host using an extensible custom RPC proto over SMB through a named pipe.
 - [SharpSploit](https://github.com/cobbr/SharpSploit) - SharpSploit is a .NET post-exploitation library written in C#.
 - [SILENTTRINITY](https://github.com/byt3bl33d3r/SILENTTRINITY) - An asynchronous, collaborative post-exploitation agent powered by Python and .NET's DLR.
-  ### Backdoor Specific
+  ### Backdoor and Shell creation
   - [Arcane](https://github.com/tokyoneon/Arcane) - Arcane is a simple script designed to backdoor iOS packages (iphone-arm) and create the necessary resources for APT repositories.
   - [Backdoorplz](https://github.com/jfmaes/Backdoorplz) - Adding a backdooruser using win32api.
-  - [tomcatWarDeployer](https://github.com/mgeeky/tomcatWarDeployer) - Penetration testing tool intended to leverage Apache Tomcat credentials in order to automatically generate and deploy JSP Backdoor.
+  - [Chisel](https://github.com/jpillora/chisel) - _A fast TCP/UDP tunnel over HTTP._
+  - [Icmpsh](https://github.com/inquisb/icmpsh) - _Simple reverse ICMP shell._
+  - [TomcatWarDeployer](https://github.com/mgeeky/tomcatWarDeployer) - Penetration testing tool intended to leverage Apache Tomcat credentials in order to automatically generate and deploy JSP Backdoor.
   - [ShellStack](https://github.com/Tuhinshubhra/shellstack) -  A PHP Based Tool That Helps You To Manage All Your Backdoored Websites Efficiently.
   ### DLL
   - [Koppeling](https://github.com/monoxgas/Koppeling) - Adaptive DLL hijacking / dynamic export forwarding.
@@ -290,4 +292,5 @@ FTest, Lbd, Wafw00f
 - [Deauther](https://github.com/dom96/deauther) - CLI Deauther for macOS.
 - [PRISM-AP](https://github.com/1N3/PRISM-AP) - An automated Wireless RogueAP MITM attack framework. 
 - [Wi-PWN](https://github.com/samdenty/Wi-PWN) - ESP8266 Deauther with a material design WebUI.
+- [Wifresti](https://github.com/LionSec/wifresti) - _Find your wireless network password in Windows , Linux and Mac OS._
 
