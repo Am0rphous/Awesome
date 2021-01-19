@@ -1,19 +1,19 @@
 
 # Operating systems
 
-- [A list of web resources](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#a-list-of-web-resources)
-- [Create Your Own Custom Linux OS](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#create-your-own-custom-linux-os)
+1.  [A list of web resources](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#a-list-of-web-resources)
+2.  [Create Your Own Custom Linux OS](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#create-your-own-custom-linux-os)
+3.  [Country Specific](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#country-specific)
+4.  [Desktop OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#desktop-oses)
+    4.1  [Most beautiful Linux Distributions 2020 (alphabetic order)](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#most-beautiful-linux-distributions-2020-alphabetic-order)
+    4.2  [Privacy focused OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#privacy-focused-oses)
 - [IoT, embedded devices, tablets](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#iot-embedded-devices-tablets)
-- [Router and Firewall OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#router-and-firewall-oses)
-- [Desktop OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#desktop-oses)
-  - [Most beautiful Linux Distributions 2020 (alphabetic order)](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#most-beautiful-linux-distributions-2020-alphabetic-order)
-  - [Privacy focused OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#privacy-focused-oses)
-- [Server OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#server-oses)
-- [Pen-testing and security auditing](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#pen-testing-and-security-auditing)
-
+5.  [Pen-testing and security auditing](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#pen-testing-and-security-auditing)
+6.  [Router and Firewall OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#router-and-firewall-oses)
+7.  [Server OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#server-oses)
+    7.1  [NAS](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#nas)
 <br >
-
-
+<br >
 
 ## A list of web resources
 - [archiveos.org](https://archiveos.org) - Arhive of Operating Systems with Linux, BSD, DOS, Solaris and others.
