@@ -186,11 +186,11 @@ FTest, Lbd, Wafw00f
 - [Article: PowerShell Obfuscation using SecureString](https://www.wietzebeukema.nl/blog/powershell-obfuscation-using-securestring)
 - [obfuscation-stuff](https://github.com/alphaSeclab/obfuscation-stuff) - Source Code Obfuscation And Binary Obfuscation, Multiple Languages And Multiple Platforms. Including 250+ Tools and 600+ Posts.
 
-## Office
-- [o365-attack-toolkit](https://github.com/mdsecactivebreach/o365-attack-toolkit) - o365-attack-toolkit allows operators to perform an OAuth phishing attack and later on use the Microsoft Graph API to extract interesting information.
-- [Carnivore](https://github.com/ReverendThing/Carnivore) - Microsoft External Attack Tool.
-- [OutlookParasite](https://github.com/vivami/OutlookParasite) - Outlook persistence using VSTO add-ins.
-
+## Office and Windows Specific Tools
+- [Carnivore](https://github.com/ReverendThing/Carnivore) - _Microsoft External Attack Tool._
+- [O365-attack-toolkit](https://github.com/mdsecactivebreach/o365-attack-toolkit) - _o365-attack-toolkit allows operators to perform an OAuth phishing attack and later on use the Microsoft Graph API to extract interesting information._
+- [OutlookParasite](https://github.com/vivami/OutlookParasite) - _Outlook persistence using VSTO add-ins._
+- [SharpClipHistory](https://github.com/FSecureLABS/SharpClipHistory) - _SharpClipHistory is a .NET application written in C# that can be used to read the contents of a user's clipboard history in Windows 10 starting from the 1809 Build._
 
 ## Password and Brute Force related tools
 - [CeWL](https://github.com/digininja/CeWL/) - Spiders a URL to a specified depth and searches for words that can be used for password attacks. 
@@ -239,9 +239,10 @@ FTest, Lbd, Wafw00f
 ## Steganography
 - [GG-AESY](https://github.com/jfmaes/GG-AESY) - Hide cool stuff in images.
 
-## Techniques and Tactical Resources
+## Techniques, Collections and Tactical Resources
 - [D00MFist's CTF Notes](https://github.com/D00MFist/security) - collection of notes picked up doing numerous CTFs.
 - [GoVanguards list-infosec-encyclopedia](https://github.com/GoVanguard/list-infosec-encyclopedia) - A list of information security related awesome lists and other resources.
+- [Hacking-Tools-Repository](https://github.com/Gexos/Hacking-Tools-Repository) - _A list of security/hacking tools that have been collected from the internet._
 - [HackTricks](https://github.com/carlospolop/hacktricks) - trick/technique/whatever [carlospolop](https://github.com/carlospolop) have learnt in CTFs, real life apps and reading researches and news.
 - [Jhaddix's pentest-bookmarks](https://github.com/jhaddix/pentest-bookmarks/blob/master/wiki/BookmarksList.wiki) - Collection of handy bookmarks.
 - [MITRE ATT&CK®](https://attack.mitre.org) - Globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. Git: https://github.com/mitre-attack
