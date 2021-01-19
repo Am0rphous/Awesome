@@ -28,6 +28,11 @@
 - [Ubuntu Imager](https://github.com/Distroshare/distroshare-ubuntu-imager) - Creates an installable live CD from an installed Ubuntu or derivative distribution.
 
 ## Country Specific
+  ### Russian Federation
+  - Rosa Linux - Certified by FSTEC (Federal Service for Technical and Export Control of Russia)
+    - [Rosa Fresh](http://rosalinux.com/rosa-fresh) - Free and free system for home use.
+    - [Rosa Enterprise Linux Desktop](http://rosalinux.com/red)
+    - [Rosa Enterprise Linux Server](http://rosalinux.com/rels)
 
 ## Desktop OSes
 - [Asahi](https://asahilinux.org) - Asahi Linux aims to bring you a polished Linux experience on Apple Silicon Macs.
