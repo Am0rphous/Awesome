@@ -18,6 +18,7 @@
 ## A list of web resources
 - [archiveos.org](https://archiveos.org) - Arhive of Operating Systems with Linux, BSD, DOS, Solaris and others.
 - [DistroWatch.com](https://distrowatch.com)
+- [Hardware for Linux Trends](https://linux-hardware.org/?view=trends)
 
 ## Create Your Own Custom Linux OS
 - [Cubic](https://launchpad.net/cubic)
