@@ -153,6 +153,7 @@ FTest, Lbd, Wafw00f
    - [The OXID Resolver (Part 1)]](https://airbus-cyber-security.com/the-oxid-resolver-part-1-remote-enumeration-of-network-interfaces-without-any-authentication) – Remote enumeration of network interfaces without any authentication.
    - [The OXID Resolver (Part 2)](https://airbus-cyber-security.com/the-oxid-resolver-part-2-accessing-a-remote-object-inside-dcom) – Accessing a Remote Object inside DCOM.
  - [MasScan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
+ - [WhatBreach](https://github.com/Ekultek/WhatBreach) - _OSINT tool to find breached emails, databases, pastes, and relevant information._
  
  ### OSINT Analysis
 - [Awesome OSINT](https://github.com/jivoi/awesome-osint) - A curated list of amazingly awesome OSINT.
@@ -190,7 +191,9 @@ FTest, Lbd, Wafw00f
 - [NetblockTool](https://github.com/NetSPI/NetblockTool) - Find netblocks owned by a company.
 - [rsocks](https://github.com/brimstone/rsocks) - Tiny little reverse socks5 client & server (unencrypted).
 - [ShodanHat](https://github.com/HatBashBR/ShodanHat) -  search for hosts info with shodan.
+- [Sslh](https://github.com/brimstone/sslh) - _Listener that determines SSL, HTTP, SSH, or other connections on the same port._
 - [Tunneller](https://github.com/skx/tunneller) - Allow internal services, running on localhost, to be accessed over the internet.
+- [WhatWaf?](https://github.com/Ekultek/WhatWaf) - _Detect and bypass web application firewalls and protection systems._
   #### Lateral Movement
   - [Living Off The Land Binaries and Scripts (and also Libraries)](https://lolbas-project.github.io)
 
@@ -225,6 +228,7 @@ FTest, Lbd, Wafw00f
 
 ## Phishing
 - [MaskPhish](https://github.com/jaykali/maskphish) - Give a Mask to Phishing URL like a PRO.. A MUST have tool for Phishing.
+- [Muraena](https://github.com/muraenateam/muraena) - _Muraena is an almost-transparent reverse proxy aimed at automating phishing and post-phishing activities._
 
 
 ## Programming Languages
