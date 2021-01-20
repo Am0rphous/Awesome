@@ -3,6 +3,8 @@
 For later
 ````
 https://github.com/S3cur3Th1sSh1t?tab=repositories
+https://trailofbits.github.io/ctf/intro/find.html
+https://github.com/carlospolop
 ````
 
 ### Random list, got to sort it into correct category later.
