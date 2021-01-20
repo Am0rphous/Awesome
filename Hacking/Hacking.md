@@ -61,6 +61,7 @@ https://github.com/jas502n
   - [Cobalt-arsenal](https://github.com/mgeeky/cobalt-arsenal) - collection of battle-tested Aggressor Scripts for Cobalt Strike 4.0+.
   - [CobaltStrike-BOF](https://github.com/Yaxser/CobaltStrike-BOF) - Collection of beacon BOF written to learn windows and cobaltstrike.
   - [Cobalt_strike_extension_kit](https://github.com/josephkingstone/cobalt_strike_extension_kit)
+  - [Cobalt Strike Shellcode Generator (CSSG)](https://github.com/RCStep/CSSG)
   - [CobaltStrike Training](https://www.cobaltstrike.com/training)
   - [Resources About Cobalt Strike](https://github.com/alphaSeclab/cobalt-strike) - Resources About Cobalt Strike. 100+ Tools And 200+ Posts.
   - [Rvrsh3ll'a BOF_Collection](https://github.com/rvrsh3ll/BOF_Collection) - Various Cobalt Strike BOFs.
@@ -95,11 +96,12 @@ https://github.com/jas502n
   - [Pwndrop](https://github.com/kgretzky/pwndrop) - Self-deployable file hosting service for red teamers, allowing to easily upload and share payloads over HTTP and WebDAV. [breakdev.org/pwndrop](https://breakdev.org/pwndrop)
   - [SharpShooter](https://github.com/mdsecactivebreach/SharpShooter) - Payload Generation Framework.
   - [XSS-Payloads](https://github.com/RenwaX23/XSS-Payloads)
-  ### Privelage, UAC, authorization
+  ### Privilege, UAC, authorization
   - [JAWS](https://github.com/411Hall/JAWS) - Just Another Windows (Enum) Script.
   - [UACME](https://github.com/hfiref0x/UACME) - Defeating Windows User Account Control by abusing built-in Windows AutoElevate backdoor.
   - [WinObjEx64](https://github.com/hfiref0x/WinObjEx64) - Windows Object Explorer 64-bit.
   ### Process Injection
+  - [Alaris Shellcode Loader](https://github.com/cribdragg3r/Alaris) - _A protective and Low Level Shellcode Loader the defeats modern EDR systems._
   - [cThreadHijack](https://github.com/connormcgarr/cThreadHijack) - Beacon Object File (BOF) for remote process injection via thread hijacking.
   - [go-shellcode](https://github.com/brimstone/go-shellcode) - program to run shellcode as its own process, all from memory. This was written to defeat anti-virus detection.
   - [Process Hollowing](https://github.com/m0n0ph1/Process-Hollowing) - Great explanation of Process Hollowing (a Technique often used in Malware).
