@@ -5,6 +5,16 @@
 <br >
 <br >
 
+````
+https://github.com/ZecOps
+https://github.com/jas502n/CVE-2020-1947
+https://github.com/trustedsec/cve-2019-19781
+https://github.com/projectzeroindia/CVE-2019-19781
+https://github.com/adamyordan/cve-2019-1003000-jenkins-rce-poc
+https://github.com/Al1ex?tab=repositories&q=cve&type=&language=
+
+
+````
 #### 2020
 - [CVE-2020-36188](https://github.com/Al1ex/CVE-2020-36188) - _CVE-2020-36188 &&Jackson-databind RCE._
 - [CVE-2020-36184](https://github.com/Al1ex/CVE-2020-36184)
@@ -28,6 +38,7 @@
 #### 2019
 - [CVE-2019-12814](https://github.com/Al1ex/CVE-2019-12814) - _CVE-2019-12814:Jackson JDOM XSLTransformer Gadget._
 - [CVE-2019-12086](https://github.com/Al1ex/CVE-2019-12086)
+- [CVE-2020-0796](https://github.com/ZecOps/CVE-2020-0796-LPE-POC) - _CVE-2020-0796 Local Privilege Escalation POC._
 - [CVE-2019-0708](https://github.com/Ekultek/BlueKeep)
 - [CVE-2019-0230](https://github.com/Al1ex/CVE-2019-0230)
 
