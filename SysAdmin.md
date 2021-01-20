@@ -219,25 +219,26 @@ bro / zeek
     - [Security Onion Documentation](https://docs.securityonion.net/en/2.3/index.html)
   - [Sysmon Modular](https://github.com/olafhartong/sysmon-modular) - A repository of sysmon configuration modules.
   - [Sysmon Search](https://github.com/JPCERTCC/SysmonSearch) - Investigate suspicious activity by visualizing Sysmon's event log.
-  - [Sysmon Tools](https://github.com/nshalabi/SysmonTools) - Utilities for Sysmon.
-- [SysUsage](https://github.com/darold/sysusage) - SysUsage is a system monitoring and alarm reporting tool. It can generate historical graph views of CPU, memory, IO, network and disk usage, and very much more.
-- [Wazuh](https://github.com/wazuh/wazuh/) - Wazuh is a free, open source and enterprise-ready security monitoring solution for threat detection, integrity monitoring, incident response and compliance. [wazuh.com](https://wazuh.com/)
-- [Zeek (Bro)](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know. [zeek.org](https://www.zeek.org)
+  - [Sysmon Tools](https://github.com/nshalabi/SysmonTools) - _Utilities for Sysmon._
+- [SysUsage](https://github.com/darold/sysusage) - _SysUsage is a system monitoring and alarm reporting tool. It can generate historical graph views of CPU, memory, IO, network and disk usage, and very much more._
+- [Wazuh](https://github.com/wazuh/wazuh/) - W_azuh is a free, open source and enterprise-ready security monitoring solution for threat detection, integrity monitoring, incident response and compliance. [wazuh.com](https://wazuh.com)_
+- [Webmin](https://github.com/webmin/webmin) - _Powerful and flexible web-based server management control panel [www.webmin.com](http://www.webmin.com)_.
+- [Zeek (Bro)](https://github.com/zeek/zeek) - _Zeek is a powerful network analysis framework that is much different from the typical IDS you may know. [zeek.org](https://www.zeek.org)_
   ### Log Analysis
-  - [PgBadger](https://github.com/darold/pgbadger) - A fast PostgreSQL Log Analyzer [pgbadger.darold.net](https://pgbadger.darold.net).
-  - [PgFormatter](https://github.com/darold/pgFormatter) - A PostgreSQL SQL syntax beautifier that can work as a console program or as a CGI. On-line demo site at [sqlformat.darold.net](http://sqlformat.darold.net).
-  - [SendMailAnalyzer](https://github.com/darold/sendmailanalyzer) - Sendmail log Analyzer is a tool to monitor sendmail usage and generate HTML and graph reports. It reports all you ever wanted to know about email trafic on your network. You can also use it in ISP environment with per domain and per mailbox report.
-  - [SquidAnalyzer](https://github.com/darold/squidanalyzer) - Squid Analyzer parses Squid proxy access log and reports general statistics about hits, bytes, users, networks, top URLs, and top second level domains. Statistic reports are oriented toward user and bandwidth control.
+  - [PgBadger](https://github.com/darold/pgbadger) - _A fast PostgreSQL Log Analyzer [pgbadger.darold.net](https://pgbadger.darold.net)._
+  - [PgFormatter](https://github.com/darold/pgFormatter) - _A PostgreSQL SQL syntax beautifier that can work as a console program or as a CGI. On-line demo site at [sqlformat.darold.net](http://sqlformat.darold.net)._
+  - [SendMailAnalyzer](https://github.com/darold/sendmailanalyzer) - _Sendmail log Analyzer is a tool to monitor sendmail usage and generate HTML and graph reports. It reports all you ever wanted to know about email trafic on your network. You can also use it in ISP environment with per domain and per mailbox report._
+  - [SquidAnalyzer](https://github.com/darold/squidanalyzer) - _Squid Analyzer parses Squid proxy access log and reports general statistics about hits, bytes, users, networks, top URLs, and top second level domains. Statistic reports are oriented toward user and bandwidth control._
 
  ## Network Tools
-- [ARP-scan](https://github.com/royhills/arp-scan) - Scanning hosts on a network with the ARP protocol.
-- [Flare-fakenet-ng](https://github.com/fireeye/flare-fakenet-ng) - Next Generation Dynamic Network Analysis Tool.
-- [GNs3-server](https://github.com/GNS3/gns3-server) - The GNS3 server manages emulators such as Dynamips, VirtualBox or Qemu/KVM. [www.gns3.com](https://www.gns3.com/)
-  - [GNs3-gui](https://github.com/GNS3/gns3-gui) - GNS3 Graphical Network Simulator.
-- [GPing](https://github.com/orf/gping) - Ping, but with a graph.
-- [iputils](https://github.com/iputils/iputils) - The iputils package is set of small useful utilities for Linux networking (arp, clockdigg, ninfod, ping, rarpd, rdisc, tftpd, tracepath and traceroute6).
-- [Stenographer](https://github.com/google/stenographer) - packet capture solution which aims to quickly spool all packets to disk, then provide simple, fast access to subsets of those packets.
-- [The Shadow Simulator](https://github.com/shadow/shadow) - Shadow is a unique discrete-event network simulator that runs real applications like Tor, and distributed systems of thousands of nodes on a single machine.
+- [ARP-scan](https://github.com/royhills/arp-scan) - _Scanning hosts on a network with the ARP protocol._
+- [Flare-fakenet-ng](https://github.com/fireeye/flare-fakenet-ng) - _Next Generation Dynamic Network Analysis Tool._
+- [GNs3-server](https://github.com/GNS3/gns3-server) - _The GNS3 server manages emulators such as Dynamips, VirtualBox or Qemu/KVM. [www.gns3.com](https://www.gns3.com)_
+  - [GNs3-gui](https://github.com/GNS3/gns3-gui) - _GNS3 Graphical Network Simulator._
+- [GPing](https://github.com/orf/gping) - _Ping, but with a graph._
+- [iputils](https://github.com/iputils/iputils) - _The iputils package is set of small useful utilities for Linux networking (arp, clockdigg, ninfod, ping, rarpd, rdisc, tftpd, tracepath and traceroute6)._
+- [Stenographer](https://github.com/google/stenographer) - _packet capture solution which aims to quickly spool all packets to disk, then provide simple, fast access to subsets of those packets._
+- [The Shadow Simulator](https://github.com/shadow/shadow) - _Shadow is a unique discrete-event network simulator that runs real applications like Tor, and distributed systems of thousands of nodes on a single machine._
   ### DHCP
   - [isc-dhcp-server](https://gitlab.isc.org/isc-projects/dhcp) - ISC DHCP is enterprise grade, open source solution for DHCP servers, relay agents, and clients, supports both IPv4 and IPv6, and is suitable for use in high-volume and high-reliability applications.
   - [Glass](https://github.com/Akkadius/glass-isc-dhcp) - Glass - ISC DHCP Server Interface 
