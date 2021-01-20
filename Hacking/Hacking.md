@@ -5,6 +5,9 @@ https://github.com/S3cur3Th1sSh1t?tab=repositories
 https://trailofbits.github.io/ctf/intro/find.html
 https://github.com/carlospolop
 https://github.com/jas502n
+https://github.com/EnableSecurity
+https://github.com/QAX-A-Team
+
 ````
 
 ### Random list, got to sort it into correct category later.
@@ -109,7 +112,8 @@ https://github.com/jas502n
   - [Theevilbit's injection](https://github.com/theevilbit/injection)
   - [SharpZipRunner](https://github.com/jfmaes/SharpZipRunner) - Executes position independent shellcode from an encrypted zip.
   - [TikiTorch](https://github.com/rasta-mouse/TikiTorch) - Process Injection.
-  
+  ### VoIP
+  - [Sipvicious](https://github.com/EnableSecurity/sipvicious) - _SIPVicious OSS is a set of security tools that can be used to audit SIP based VoIP systems._
 
 ## Fuzzers
 - [FZT](https://github.com/junegunn/fzf) - A command-line fuzzy finder.
