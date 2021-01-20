@@ -354,6 +354,7 @@ upstream_recursive_servers:
   
 ## Scripting
 - [Awesome-Scripts by DedSecInside](https://github.com/DedSecInside/Awesome-Scripts) - A collection of awesome scripts from developers around the globe.
+- [PyWebView](https://github.com/r0x0r/pywebview) - _Build GUI for your Python program with JavaScript, HTML, and CSS._
 - [Ubuntu post-installation script](https://github.com/nicolargo/ubuntupostinstall)
 - [Qoa](https://github.com/klaussinani/qoa) - Minimal interactive command-line prompts
 
