@@ -117,17 +117,23 @@ https://github.com/carlospolop
 
 
 ## Information Gathering
-- [Autoenum](https://github.com/Gr1mmie/autoenum) - Automatic Service Enumeration Script.
-- [DeviceDetector](https://github.com/matomo-org/device-detector) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model [devicedetector.net](http://devicedetector.net).
-- [Metagoofil](https://github.com/laramies/metagoofil) - Metadata harvester.
-- [Nikto](https://github.com/sullo/nikto) - Web server scanner. [Documentation](https://cirt.net/nikto2-docs/)
-- [reNgine](https://github.com/yogeshojha/rengine) - automated reconnaissance framework meant for information gathering during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.
+- [Autoenum](https://github.com/Gr1mmie/autoenum) - _Automatic Service Enumeration Script._
+- [DeviceDetector](https://github.com/matomo-org/device-detector) - _The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model [devicedetector.net](http://devicedetector.net)._
+- [DnsShell](https://archive.codeplex.com/?p=dnsshell) - _A Microsoft DNS administration / management module written for PowerShell 2.0. DnsShell is developed in C#._
+  To get all A records in a zone [source](https://serverfault.com/questions/550385/export-all-hosts-from-dns-manager-using-powershell):
+  ````
+  Get-DnsRecord -RecordType A -ZoneName FQDN -Server ServerName
+  Get-DnsRecord -RecordType A -ZoneName FQDN -Server ServerName | % {Add-Content -Value $_ -Path filename.txt}
+  ````
+- [Metagoofil](https://github.com/laramies/metagoofil) - _Metadata harvester._
+- [Nikto](https://github.com/sullo/nikto) - _Web server scanner. [Documentation](https://cirt.net/nikto2-docs)_
+- [reNgine](https://github.com/yogeshojha/rengine) - _Automated reconnaissance framework meant for information gathering during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information._
 
-### DNS Analysis
-- [AssetFinder](https://github.com/tomnomnom/assetfinder) - Find domains and subdomains related to a given domain.
-- [BlackWidow](https://github.com/1N3/BlackWidow) - A Python based web application scanner to gather OSINT and fuzz for OWASP vulnerabilities on a target website. 
-- [DnsEnum](https://github.com/fwaeytens/dnsenum) - perl script that enumerates DNS information.
-- [GuBuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go.
+ ### DNS Analysis
+- [AssetFinder](https://github.com/tomnomnom/assetfinder) - _Find domains and subdomains related to a given domain._
+- [BlackWidow](https://github.com/1N3/BlackWidow) - _A Python based web application scanner to gather OSINT and fuzz for OWASP vulnerabilities on a target website._
+- [DnsEnum](https://github.com/fwaeytens/dnsenum) - _Perl script that enumerates DNS information._
+- [GuBuster](https://github.com/OJ/gobuster) - _Directory/File, DNS and VHost busting tool written in Go._
 
 DNSMap, DNSRecon, DNSTracer, DNSWalk, Fierce, URLCrazy
 
@@ -218,6 +224,7 @@ FTest, Lbd, Wafw00f
 ## Phishing
 - [MaskPhish](https://github.com/jaykali/maskphish) - Give a Mask to Phishing URL like a PRO.. A MUST have tool for Phishing.
 
+
 ## Programming Languages
 - [Bash scripting]()
 - [C]()
@@ -227,20 +234,23 @@ FTest, Lbd, Wafw00f
 - [Python]()
 - [Ruby]()
 
+
 ## Reporting
 - [Public penetration testing reports](https://github.com/juliocesarfort/public-pentesting-reports) - Curated list of public penetration test reports released by several consulting firms and academic security groups.
 - [WriteHat](https://github.com/blacklanternsecurity/writehat) - A pentest reporting tool written in Python. Free yourself from Microsoft Word.
 
+
 ## Red Team
-- [CloneVault](https://github.com/mdsecactivebreach/CloneVault) -  allows a red team operator to export and import entries including attributes from Windows Credential Manager.
-- [Covenant](https://github.com/cobbr/Covenant) - Covenant is a collaborative .NET C2 framework for red teamers.
-- [FalconFriday](https://github.com/FalconForceTeam/FalconFriday) - hunting queries to detect offensive techniques.
-- [herpaderping](https://github.com/jxy-s/herpaderping) - Process Herpaderping proof of concept, tool, and technical deep dive. Process Herpaderping bypasses security products by obscuring the intentions of a process.
+- [CloneVault](https://github.com/mdsecactivebreach/CloneVault) - _Allows a red team operator to export and import entries including attributes from Windows Credential Manager._
+- [Covenant](https://github.com/cobbr/Covenant) - _Covenant is a collaborative .NET C2 framework for red teamers._
+- [FalconFriday](https://github.com/FalconForceTeam/FalconFriday) - _Hunting queries to detect offensive techniques._
+- [herpaderping](https://github.com/jxy-s/herpaderping) - _Process Herpaderping proof of concept, tool, and technical deep dive. Process Herpaderping bypasses security products by obscuring the intentions of a process._
 - [Lengjibo's RedTeamTools](https://github.com/lengjibo/RedTeamTools)
 - [pentest-tools.com](https://pentest-tools.com)
-- [PowerExfil](https://github.com/1N3/PowerExfil) - A collection of data exfiltration scripts for Red Team assessments. 
-- [RedELK](https://github.com/outflanknl/RedELK) - Red Team's SIEM - tool for Red Teams used for tracking and alarming about Blue Team activities as well as better usability in long term operations.
-- [WSB-Detect](https://github.com/LloydLabs/wsb-detect) - Enables you to detect if you are running in Windows Sandbox ("WSB").
+- [PowerExfil](https://github.com/1N3/PowerExfil) - _A collection of data exfiltration scripts for Red Team assessments._
+- [RedELK](https://github.com/outflanknl/RedELK) - _Red Team's SIEM - tool for Red Teams used for tracking and alarming about Blue Team activities as well as better usability in long term operations._
+- [Vincent Yiu's blog - vincentyiu.com](https://vincentyiu.com) - Red Team blog.
+- [WSB-Detect](https://github.com/LloydLabs/wsb-detect) - _Enables you to detect if you are running in Windows Sandbox ("WSB")._
 
 ## Script Collections
 - [killswitch-GUI PenTesting Scripts](https://github.com/killswitch-GUI/PenTesting-Scripts) - Collection
@@ -258,6 +268,7 @@ FTest, Lbd, Wafw00f
 - [MITRE ATT&CK®](https://attack.mitre.org) - Globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. Git: https://github.com/mitre-attack
   - [Ruped24's killchain](https://github.com/ruped24/killchain) - A unified console to perform the "kill chain" stages of attacks.
 - [Offsec_pdfs](https://github.com/jivoi/offsec_pdfs)
+- [Pentest-tools by Al1ex](https://github.com/Al1ex/Pentest-tools) - _Intranet penetration tools._
 - [ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) - A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns.
 
 ## Vulnerability Analysis  
