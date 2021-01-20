@@ -28,6 +28,7 @@
 #### 2019
 - [CVE-2019-12814](https://github.com/Al1ex/CVE-2019-12814) - _CVE-2019-12814:Jackson JDOM XSLTransformer Gadget._
 - [CVE-2019-12086](https://github.com/Al1ex/CVE-2019-12086)
+- [CVE-2019-0708](https://github.com/Ekultek/BlueKeep)
 - [CVE-2019-0230](https://github.com/Al1ex/CVE-2019-0230)
 
 #### 2018
