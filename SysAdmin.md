@@ -259,8 +259,8 @@ upstream_recursive_servers:
   ### Network Visualization
     - [Fantastic Full Source Code](https://github.com/besimorhino/project-fantastic) - visualizing tool made by InfoSec Innovations for exploring computer networks.
   ### Remoting
-  - [PowerShell](https://github.com/PowerShell/PowerShell) - cross-platform (Windows, Linux, and macOS) automation and configuration tool/framework.
-  - [GraphicalTools](https://github.com/PowerShell/GraphicalTools) - Modules that mix PowerShell and GUIs/CUIs! - built on Avalonia and gui.cs.
+  - [PowerShell](https://github.com/PowerShell/PowerShell) - _Cross-platform (Windows, Linux, and macOS) automation and configuration tool/framework._
+    - [GraphicalTools](https://github.com/PowerShell/GraphicalTools) - _Modules that mix PowerShell and GUIs/CUIs! - built on Avalonia and gui.cs._
   ````
   Enable-PSRemoting -Force
   set-item wsman:\localhost\Client\TrustedHosts -value *         #Every IP can connect
@@ -269,9 +269,11 @@ upstream_recursive_servers:
   netstat -ano | Select-String 5985                              #Powershell should run at this port, or 5986 (HTTPS)
   New-PSSession –ComputerName <Netbios> -Port <Port>
   Enter-PSSession –ComputerName 192.168.1.10 -Credentials(Get-Credentials Administrator)
-  nmap -v 192.168.1.10 -sV -Pn -p 5985,5986                      #Might be good to check that the port is open.
+  nmap -v 192.168.1.10 -sV -Pn -p 5985,5986                      #Check if the port is open
   ````
 - [DropBear SSH](https://github.com/mkj/dropbear) - S smallish SSH server and client. [https://matt.ucc.asn.au](https://matt.ucc.asn.au)
+- Remote Desktop Applications
+  - [Remote Desktop Manager
 - SSH
   - [Portable OpenSSH](https://github.com/openssh/openssh-portable)
   - [SSH Hardening with Security Onion](https://docs.securityonion.net/en/2.3/ssh.html)
@@ -296,6 +298,7 @@ upstream_recursive_servers:
 ## Package Managers
 - [Brew / HomeBrew](https://brew.sh/) - Package Manager for Linux and MacOS.
   - [Brew Documentation](https://docs.brew.sh)
+  - [Homebrew-cask](https://github.com/Homebrew/homebrew-cask) - _A CLI workflow for the administration of macOS applications distributed as binaries._
   - [Homebrew Services](https://github.com/Homebrew/homebrew-services) - Manage background services with macOS' launchctl daemon manager.
 
    Quick install:
