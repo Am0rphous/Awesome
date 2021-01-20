@@ -147,6 +147,7 @@ FTest, Lbd, Wafw00f
  
  ### OSINT Analysis
 - [Awesome OSINT](https://github.com/jivoi/awesome-osint) - A curated list of amazingly awesome OSINT.
+- [osint.link](https://osint.link) - Open Source Intelligence (OSINT) Tools & Resources.
 - [OSINT-SPY](https://github.com/SharadKumar97/OSINT-SPY) - Performs OSINT scan on email/domain/ip_address/organization using OSINT-SPY. It can be used by Data Miners, Infosec Researchers, Penetration Testers and cyber crime investigator in order to find deep information about their target.
 - [TheHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT.
 
@@ -188,7 +189,8 @@ FTest, Lbd, Wafw00f
 
 ## Obfuscation
 - [Article: PowerShell Obfuscation using SecureString](https://www.wietzebeukema.nl/blog/powershell-obfuscation-using-securestring)
-- [obfuscation-stuff](https://github.com/alphaSeclab/obfuscation-stuff) - Source Code Obfuscation And Binary Obfuscation, Multiple Languages And Multiple Platforms. Including 250+ Tools and 600+ Posts.
+- [Javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - _A powerful obfuscator for JavaScript and Node.js_
+- [Obfuscation-stuff](https://github.com/alphaSeclab/obfuscation-stuff) - Source Code Obfuscation And Binary Obfuscation, Multiple Languages And Multiple Platforms. Including 250+ Tools and 600+ Posts.
 
 ## Office and Windows Specific Tools
 - [Carnivore](https://github.com/ReverendThing/Carnivore) - _Microsoft External Attack Tool._
