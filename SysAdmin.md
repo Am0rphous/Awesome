@@ -395,6 +395,8 @@ upstream_recursive_servers:
   - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) - Dynamically generated stats for your github readmes.
 - [KDU (Windows)](https://github.com/hfiref0x/KDU) - Kernel Driver Utility.
 - [RipGrep-All](https://github.com/phiresky/ripgrep-all) - search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
+- [USBUtils](https://github.com/gregkh/usbutils) - _USB utilities for Linux, including lsusb._
+  - [LsUSB](https://github.com/linuxhw/LsUSB) - _Most popular USB devices and lsusb reports._
   ### Create Bootable USB
   - [Balena Etcher](https://github.com/balena-io/etcher) -  Flash OS images to SD cards & USB drives, safely and easily.
   - [Cubic](https://launchpad.net/cubic) - Custom Ubuntu ISO Creator) is a GUI wizard to create a customized Ubuntu Live ISO image.
