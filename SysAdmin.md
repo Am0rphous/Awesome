@@ -134,6 +134,8 @@ bro / zeek
 - [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app.
 - [TheLounge](https://thelounge.chat) - self-hosted web IRC client.
 - [Quassel-irc](https://quassel-irc.org)
+  ### Information Sharing
+  - [OutLine](https://github.com/outline/outline) - _The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible._
   ### Matrix
   - [Gomuks](https://github.com/tulir/gomuks) - A terminal based Matrix client written in Go.
 
@@ -440,16 +442,17 @@ upstream_recursive_servers:
 
    ### Machines
   - KVM
-    - [Kimchi](https://github.com/kimchi-project/kimchi) - HTML5 based management tool for KVM.
-    - [KVM Management Tools list](https://www.linux-kvm.org/page/Management_Tools) - Options available to manage kvm virtual machines.
-    - [Vmmaestro](https://github.com/mzch/vmmaestro) - Tiny control wrapper for KVM.
-  - [Multipass](https://ubuntu.com/server/docs/virtualization-multipass) - Instant Ubuntu VMs (Windows, macOS and Linux)
-  - [XCP-ng](https://xcp-ng.org/) - Virtualization platform based on Xen Source and Citrix® Hypervisor (formerly XenServer). XCP-ng stands for Xen Cloud Platform - New Generation.
+    - [Kimchi](https://github.com/kimchi-project/kimchi) - _HTML5 based management tool for KVM._
+    - [KVM Management Tools list](https://www.linux-kvm.org/page/Management_Tools) - _Options available to manage kvm virtual machines._
+    - [Vmmaestro](https://github.com/mzch/vmmaestro) - _Tiny control wrapper for KVM._
+  - [Multipass](https://ubuntu.com/server/docs/virtualization-multipass) - _Instant Ubuntu VMs (Windows, macOS and Linux)_
+  - [XCP-ng](https://xcp-ng.org) - _Virtualization platform based on Xen Source and Citrix® Hypervisor (formerly XenServer). XCP-ng stands for Xen Cloud Platform - New Generation._
     - [XCP-ng documentation](https://xcp-ng.org/docs)
-  - [oVirt](https://www.ovirt.org/) - Free open-source virtualization solution for your entire enterprise
+  - [oVirt](https://www.ovirt.org) - _Free open-source virtualization solution for your entire enterprise._
     - [oVirt documentation](https://www.ovirt.org/documentation)
-  - [Qemu](https://www.qemu.org/) - generic and open source machine emulator and virtualizer.
+  - [Qemu](https://www.qemu.org) - _Generic and open source machine emulator and virtualizer._
     - [Qemu Docs](https://www.qemu.org/docs/master)
+    - [Qira](https://github.com/geohot/qira) - _QEMU Interactive Runtime Analyser._
  
 
 ## Web and Proxy Tools
