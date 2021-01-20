@@ -10,9 +10,10 @@ https://github.com/WebAssembly/wabt
   - [gchq.github.io/CyberChef](https://gchq.github.io/CyberChef)
 
 ## Android
-- [alphaSeclab's android-security collection](https://github.com/alphaSeclab/android-security) -  Android Security Resources.
+- [AlphaSeclab's android-security collection](https://github.com/alphaSeclab/android-security) -  Android Security Resources.
 - [Android Studio](https://developer.android.com/studio) - Provides the fastest tools for building apps on every type of Android device.
   - [IntelliJ Detekt Plugin](https://github.com/detekt/detekt-intellij-plugin) - Integrates detekt, a static code analysis tool for the Kotlin programming language, into IntelliJ.
+- [APKLab](https://github.com/Surendrajat/APKLab) - _Android Reverse Engineering WorkBench for VS Code._
 - [ApkUrlGrep](https://github.com/ndelphit/apkurlgrep) - Extract endpoints from APK files.
 - [ApkVuln](https://github.com/Josue87/apkvuln) - Static analysis of APKs with regular expressions.
 - [calabash-android](https://github.com/calabash/calabash-android) -  Automated Functional testing for Android using cucumber.
