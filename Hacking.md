@@ -284,6 +284,7 @@ FTest, Lbd, Wafw00f
 ## Web Application Analysis
 - [HandyHeaderHacker by kj0317](https://github.com/kj0317/HandyHeaderHacker) - Examine HTTP response headers for common security issues.
 - [HandyHeaderHacker by vpnguy-zz](https://github.com/vpnguy-zz/HandyHeaderHacker) - Examine HTTP response headers for common security issues.
+- [Kenzer](https://github.com/ARPSyndicate/kenzer) - _Automated web assets enumeration & scanning._
  ### CMS & Framwork Identification
   - [CMSeeK](https://github.com/Tuhinshubhra/CMSeeK) -  CMS Detection and Exploitation suite - Scan WordPress, Joomla, Drupal and over 180 other CMSs.
  ### Web Application Proxies
