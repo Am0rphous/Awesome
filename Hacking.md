@@ -200,10 +200,12 @@ FTest, Lbd, Wafw00f
 - [CeWL](https://github.com/digininja/CeWL/) - Spiders a URL to a specified depth and searches for words that can be used for password attacks. 
 - [CrackQ](https://github.com/f0cker/crackq) - A Python Hashcat cracking queue system.
 - [Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots.
+- [Mimikatz](https://github.com/gentilkiwi/mimikatz) - _A little tool to play with Windows security._
 - [MSOLSpray](https://github.com/dafthack/MSOLSpray) - A password spraying tool for Microsoft Online accounts (Azure/O365).
   - [TREVORspray](https://github.com/blacklanternsecurity/TREVORspray) - A featureful round-robin SOCKS proxy and Python O365 sprayer based on MSOLSpray which uses the Microsoft Graph API.
 - [Pypal](https://github.com/f0cker/pypal) - Python port of Pipal for password analytics.
 - [SecList](https://github.com/danielmiessler/SecLists)
+- [SharpKatz](https://github.com/b4rtik/SharpKatz) - _Porting of mimikatz sekurlsa::logonpasswords, sekurlsa::ekeys and lsadump::dcsync commands._
 - [Win Brute Logon](https://github.com/DarkCoderSc/win-brute-logon) - Crack any Microsoft Windows users password without any privilege (Guest account included).
 - [ZipCrack](https://github.com/henriksb/ZipCrack) -  Crack password protected zip files.
 
