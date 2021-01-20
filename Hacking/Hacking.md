@@ -104,6 +104,7 @@ https://github.com/jas502n
   - [Alaris Shellcode Loader](https://github.com/cribdragg3r/Alaris) - _A protective and Low Level Shellcode Loader the defeats modern EDR systems._
   - [cThreadHijack](https://github.com/connormcgarr/cThreadHijack) - Beacon Object File (BOF) for remote process injection via thread hijacking.
   - [go-shellcode](https://github.com/brimstone/go-shellcode) - program to run shellcode as its own process, all from memory. This was written to defeat anti-virus detection.
+  - [Ppdump-public](https://github.com/realoriginal/ppdump-public) - _Protected Process (Light) Dump: Uses Zemana AntiMalware Engine To Open a Privileged Handle to a PP/PPL Process And Inject MiniDumpWriteDump() Shellcode._
   - [Process Hollowing](https://github.com/m0n0ph1/Process-Hollowing) - Great explanation of Process Hollowing (a Technique often used in Malware).
   - [Theevilbit's injection](https://github.com/theevilbit/injection)
   - [SharpZipRunner](https://github.com/jfmaes/SharpZipRunner) - Executes position independent shellcode from an encrypted zip.
@@ -286,7 +287,9 @@ FTest, Lbd, Wafw00f
   - [Tutorial: How to use nmap nse scripts to find vulnerabilities](https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities)
 - [Nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use.
 - [Sn1per](https://github.com/1N3/Sn1per) - Automated pentest framework for offensive security experts.
+- [trivy](https://github.com/aquasecurity/trivy) - _ A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI._
 - [Unix-Privesc-Check](http://pentestmonkey.net/tools/audit/unix-privesc-check)
+- [Vuls](https://github.com/future-architect/vuls) - _Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices._
 - [vulscan - Vulnerability Scanning with Nmap](https://github.com/scipag/vulscan) - Advanced vulnerability scanning with Nmap NSE 
   - [nmap_vulners](https://github.com/vulnersCom/nmap-vulners) - NSE script based on Vulners.com API.
 
