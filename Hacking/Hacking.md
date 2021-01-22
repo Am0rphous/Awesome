@@ -8,6 +8,8 @@ https://github.com/jas502n
 https://github.com/EnableSecurity
 https://github.com/QAX-A-Team
 https://github.com/SecWiki
+https://github.com/Al1ex
+https://github.com/0xApt?tab=repositories
 
 ````
 
@@ -43,6 +45,9 @@ https://github.com/SecWiki
 - [LAPSDumper](https://github.com/n00py/LAPSDumper)
 - [StandIn](https://github.com/FuzzySecurity/StandIn) - small AD post-compromise toolkit.
 - [WinPwn](https://github.com/S3cur3Th1sSh1t/WinPwn) -  Automation for internal Windows Penetrationtest / AD-Security.
+
+## Automation, setup and install
+- [awesome-bbht](https://github.com/0xApt/awesome-bbht) - _A bash script that will automatically install a list of bug hunting tools that I find interesting for recon, exploitation, etc. (minus burp) For Ubuntu/Debain. Feel free to fork, and add your own tools._
 
 ## Blue Team
 - [BlueSpawn](https://github.com/ION28/BLUESPAWN) - An Active Defense and EDR software to empower Blue Teams.
