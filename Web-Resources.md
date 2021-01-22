@@ -70,6 +70,7 @@
   - [Scriptigator.com](https://scriptigator.com)
 
 ## Cyber Security News
+- [Cyberiqs.com/latestnews](https://cyberiqs.com/latestnews)
 - [Cyware.com/hacker-news](https://cyware.com/hacker-news)
 - [DarkReading.com](https://www.darkreading.com)
 - [GovInfoSecurity.com](https://www.govinfosecurity.com)
