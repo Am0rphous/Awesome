@@ -46,7 +46,15 @@
 - [Web / Proxy](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#web-and-proxy-tools)
   - [Web Analytics](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#web-analytics)
 
-
+````
+https://www.freedesktop.org/wiki/Software/
+https://www.freedesktop.org/wiki/Software/wmctrl/
+https://openvz.org/
+https://github.com/upptime/upptime
+https://u.is/en/
+https://github.com/Mr-Un1k0d3r/SCShell
+https://github.com/owncast/owncast
+https://github.com/leoanggal1/P-SAK
 Samhain Labs, https://www.la-samhna.de/services.html, docs: https://la-samhna.de/samhain/s_documentation.html
   - http://www.la-samhna.de/samhain/samhain-current.tar.gz
 
@@ -57,6 +65,7 @@ bro / zeek
 - [FireEye's ThreatPursuit-VM](https://github.com/fireeye/ThreatPursuit-VM) - A fully customizable, open-sourced Windows-based distribution focused on threat intelligence analysis and hunting designed for intel and malware analysts as well as threat hunters to get up and running quickly.
 - [RedWolfIntelligence's Open-Source-Security-List-](https://github.com/RedWolfIntelligence/Open-Source-Security-List-)
 - [sec-tool-list](https://github.com/alphaSeclab/sec-tool-list) - More than 21K security related open source tools, sorted by star count. Both in markdown and json format. 
+````
 
 ## Ad-block
 - [Blocky](https://github.com/0xERR0R/blocky) - DNS proxy as ad-blocker for local network.
