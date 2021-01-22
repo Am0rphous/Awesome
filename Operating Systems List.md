@@ -104,6 +104,7 @@
 - [Debian](https://www.debian.org)
 - [Fedora Server](https://getfedora.org/en/server)
 - [Rockstor](http://rockstor.com) - Personal Cloud Server, SMB Cloud Server, Traditional NAS server. [Download Rocktor](https://sourceforge.net/projects/rockstor/files/)
+- [Rocky Linux](https://rockylinux.org) - [github](https://github.com/rocky-linux/rocky) _Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS [rockylinux.org](https://rockylinux.org)._
 - [ScientificLinux](https://scientificlinux.org) - Enterprise Linux rebuild sponsored by Fermi National Accelerator Laboratory.
 - [Ubunt Server](https://ubuntu.com) - Cloud, servers, IoT, desktop.
   ### NAS
