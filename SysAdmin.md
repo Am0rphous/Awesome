@@ -335,6 +335,9 @@ upstream_recursive_servers:
   - [Linux Kernel Runtime Guard (LKRG) for Debian, Whonix, Qubes, Kicksecure](https://www.whonix.org/wiki/Linux_Kernel_Runtime_Guard_LKRG)
 - [SELinux Userspace](https://github.com/SELinuxProject/selinux) - Security Enhanced Linux (SELinux).
 - [Whonix security-misc](https://github.com/Whonix/security-misc) - Kernel Hardening; Protect Linux User Accounts against Brute Force Attacks; Improve Entropy Collection; Strong Linux User Account Separation; Enhances Misc Security Settings - https://www.whonix.org/wiki/Security-misc.
+  ### Linux Hardening Guides
+  - [Linux Kernel /etc/sysctl.conf Security Hardening](https://www.cyberciti.biz/faq/linux-kernel-etcsysctl-conf-security-hardening/)
+  
   ### Sandboxing tools
   - [BubbleWrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool
   - [FireJail](https://github.com/netblue30/firejail) - SUID sandbox program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces, seccomp-bpf and Linux capabilities. [FireJail Homepage](https://firejail.wordpress.com/)
