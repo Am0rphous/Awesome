@@ -7,6 +7,7 @@ https://github.com/carlospolop
 https://github.com/jas502n
 https://github.com/EnableSecurity
 https://github.com/QAX-A-Team
+https://github.com/SecWiki
 
 ````
 
@@ -314,6 +315,7 @@ FTest, Lbd, Wafw00f
 - [HandyHeaderHacker by vpnguy-zz](https://github.com/vpnguy-zz/HandyHeaderHacker) - Examine HTTP response headers for common security issues.
 - [Kenzer](https://github.com/ARPSyndicate/kenzer) - _Automated web assets enumeration & scanning._
  ### CMS & Framwork Identification
+  - [CMS-Hunter](https://github.com/SecWiki/CMS-Hunter) - _Content Management System Vulnerability Hunter [www.sec-wiki.com](https://www.sec-wiki.com)._
   - [CMSeeK](https://github.com/Tuhinshubhra/CMSeeK) -  CMS Detection and Exploitation suite - Scan WordPress, Joomla, Drupal and over 180 other CMSs.
  ### Web Application Proxies
  ### Web Crawlers & Directory Brutefroce
