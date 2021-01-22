@@ -277,6 +277,7 @@ upstream_recursive_servers:
 - [DropBear SSH](https://github.com/mkj/dropbear) - S smallish SSH server and client. [https://matt.ucc.asn.au](https://matt.ucc.asn.au)
 - Remote Desktop Applications
   - [Remote Desktop Manager Free](https://remotedesktopmanager.com) - Windows, Mac, Linux, Android & iOS.
+  Install it with e.g. `brew install --cask remote-desktop-manager-free`
 - SSH
   - [Portable OpenSSH](https://github.com/openssh/openssh-portable)
   - [SSH Hardening with Security Onion](https://docs.securityonion.net/en/2.3/ssh.html)
