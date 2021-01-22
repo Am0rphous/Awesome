@@ -28,7 +28,10 @@
    export HOMEBREW_NO_ANALYTICS=1
    brew analytics off
    ````
-   
+### Remote Desktop Applications
+- [Remote Desktop Manager Free](https://remotedesktopmanager.com/home/downloadfree) - Windows, Mac, Linux, Android & iOS.
+
+
 ## Macbook with Linux
 - [bcwc_pcie](https://github.com/patjak/bcwc_pcie) - Reverse engineered Linux driver for the FacetimeHD (Broadcom 1570) PCIe webcam.
 - [Hw-probe](https://github.com/linuxhw/hw-probe) - Probe for hardware, check operability and find drivers.
