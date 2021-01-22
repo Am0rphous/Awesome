@@ -17,20 +17,21 @@
   - [Installation on Docker](https://www.home-assistant.io/docs/installation/docker/)
 
 ## Magic Mirror repos
-- [Alexyak's Camera Module](https://github.com/alexyak/camera) - The camera module allows you to display a webcamera video feed on your MagicMirror.
-- [MM-Remote](https://github.com/Klettner/MM-Remote) - Android app to control your MagicMirror via smartphone.
-- [MMM-3Day-Forecast](https://github.com/nigel-daniels/MMM-3Day-Forecast) - MagicMirror 2 module to show detailed 3 day forcast using the Wunderground API.
-- [MMM-AVStock](https://github.com/lavolp3/MMM-AVStock) -  MagicMirror module for displaying stock price with Alphavantage API.
-- [MMM-AlexaControl](https://github.com/JoChef2/MMM-AlexaControl) -  Control your MagicMirror with Alexa.
-- [MMM-BackgroundSlideshow](https://github.com/darickc/MMM-BackgroundSlideshow) - Show a slideshow of images in the background. Great for a photo frame from instead of a mirror.
-- [MMM-CalendarExt2](https://github.com/MMM-CalendarExt2/MMM-CalendarExt2) - Whole new build-up for MMM-CalendarExt.
-- [MMM-CalendarWeek](https://github.com/heskja/MMM-CalendarWeek) - Alternative calendar module for MagicMirror.
-- [MMM-COVID19](https://github.com/bibaldo/MMM-COVID19) - Module to track reported cases of COVID-19.
-- [MMM-Cryptocurrency](https://github.com/matteodanelli/MMM-cryptocurrency) -  A MagicMirror module for crypto currencies value.
-- [MMM-Globe](https://github.com/LukeSkywalker92/MMM-Globe) - Earth globe for MagicMirror2.
-- [MMM-GoogleBirthdaysProvider](https://github.com/PalatinCoder/MMM-GoogleBirthdaysProvider) -  MagicMirror² Module to include your Google Contacts' birthdays into the default calendar.
-- [MMM-GoogleCast](https://github.com/ferferga/MMM-GoogleCast) - See what's playing in your Google Cast device inside your MagicMirror.
-- [MMM-Facial-Recognition](https://github.com/paviro/MMM-Facial-Recognition) - This an extension for the MagicMirror. It provides facial recognition and module swapping based on the current user.
+- [Alexyak's Camera Module](https://github.com/alexyak/camera) - _The camera module allows you to display a webcamera video feed on your MagicMirror._
+- [MM-Remote](https://github.com/Klettner/MM-Remote) - _Android app to control your MagicMirror via smartphone._
+- [MMM-3Day-Forecast](https://github.com/nigel-daniels/MMM-3Day-Forecast) - _MagicMirror 2 module to show detailed 3 day forcast using the Wunderground API._
+- [MMM-AVStock](https://github.com/lavolp3/MMM-AVStock) - _MagicMirror module for displaying stock price with Alphavantage API._
+- [MMM-AlexaControl](https://github.com/JoChef2/MMM-AlexaControl) - _Control your MagicMirror with Alexa._
+- [MMM-BackgroundSlideshow](https://github.com/darickc/MMM-BackgroundSlideshow) - _Show a slideshow of images in the background. Great for a photo frame from instead of a mirror._
+- [MMM-CalendarExt2](https://github.com/MMM-CalendarExt2/MMM-CalendarExt2) - _Whole new build-up for MMM-CalendarExt._
+- [MMM-CalendarWeek](https://github.com/heskja/MMM-CalendarWeek) - _Alternative calendar module for MagicMirror._
+- [MMM-COVID19](https://github.com/bibaldo/MMM-COVID19) - _Module to track reported cases of COVID-19._
+- [MMM-Cryptocurrency](https://github.com/matteodanelli/MMM-cryptocurrency) - _A MagicMirror module for crypto currencies value._
+- [MMM-Gestures](https://github.com/thobach/MMM-Gestures) - _MMM-Gestures is a head-less 3rd party module for MagicMirror that allows to control the Magic Mirror via gestures of two types of infrared sensors. Use cases include presence awareness to trigger compliments or go into sleep mode and scrolling through news tickers or view news details. _
+- [MMM-Globe](https://github.com/LukeSkywalker92/MMM-Globe) - _Earth globe for MagicMirror2._
+- [MMM-GoogleBirthdaysProvider](https://github.com/PalatinCoder/MMM-GoogleBirthdaysProvider) - _MagicMirror² Module to include your Google Contacts' birthdays into the default calendar._
+- [MMM-GoogleCast](https://github.com/ferferga/MMM-GoogleCast) - _See what's playing in your Google Cast device inside your MagicMirror._
+- [MMM-Facial-Recognition](https://github.com/paviro/MMM-Facial-Recognition) - _This an extension for the MagicMirror. It provides facial recognition and module swapping based on the current user._
 - [MMM-ImageSlideshow](https://github.com/AdamMoses-GitHub/MMM-ImageSlideshow) - Displays images one-at-a-time from local folders.
 - [MMM-MicrosoftToDo](https://github.com/thobach/MMM-MicrosoftToDo) - 3rd party module for MagicMirror that shows open tasks from task lists and allows to complete them as well. The tasks are retrieved from Microsoft To Do / Outlook.
 - [MMM-network-signal](https://github.com/PoOwAa/MMM-network-signal) - Display a solid wifi logo as network signal for MagicMirror2.
