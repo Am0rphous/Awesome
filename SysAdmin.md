@@ -487,6 +487,9 @@ upstream_recursive_servers:
     - [Matomo Tracking Panel](https://github.com/thiagoarrais/grafana-matomo-tracking-panel) -  Matomo Tracking Panel for Grafana.
     - [Tutorial: Install Matomo Web Analytics (Piwik) on Ubuntu 20.04 with Apache/Nginx](https://www.linuxbabe.com/ubuntu/install-matomo-web-analytics-piwik-ubuntu-20-04-apache-nginx)
   ### Web Development Tools
+  - [Angular](https://github.com/angular/angular) - [cli.angular.io](https://cli.angular.io)
+    - [Angular CLI](https://github.com/angular/angular-cli) - _TypeScript -based open-source web application framework._
+    - [Protractor]() - _E2E test framework for Angular apps [www.protractortest.org](http://www.protractortest.org)_
   - [awesome-web-effect](https://github.com/lindelof/awesome-web-effect) - A series of exquisite and compact web page cool effects.
   - [Bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
   - [Developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021.
