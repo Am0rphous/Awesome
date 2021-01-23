@@ -112,3 +112,6 @@
   - [OpenMediaVault](https://github.com/openmediavault/openmediavault) - Based on Debian. Contains services like SSH, (S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and many more. [Doc](https://docs.openmediavault.org) [Forum](https://forum.openmediavault.org) [Blog](https://blog.openmediavault.org)
   - [TrueNAS](https://www.truenas.com)
 
+## Unix OS
+- [FreeBSD](https://www.freebsd.org)
+- [OpenBSD](https://www.openbsd.org)
