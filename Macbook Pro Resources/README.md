@@ -8,9 +8,10 @@
 ## Communication
 - [ThunderBird](https://www.thunderbird.net)
   #### IRC clients
-  - [LimeChat](http://github.com/psychs/limechat) - IRC Client for Mac. [limechat.net/mac](http://limechat.net/mac/)
+  - [LimeChat](http://github.com/psychs/limechat) - IRC Client for Mac. [limechat.net/mac](http://limechat.net/mac)
 
 ## Tools
+- [Java on MacOS](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html) - Go and download the .dmg file and follow instructions.
 - [MacForge](https://github.com/MacEnhance/MacForge) - Plugin, App, and Theme store which includes plugin injection for macOS.
 - [MacHack](https://github.com/kendfinger/MacHack) - Hidden Tools in macOS.
 - [MacOS Fortress](https://github.com/essandess/macOS-Fortress) - Firewall and Privatizing Proxy for Trackers, Attackers, Malware, Adware, and Spammers with Anti-Virus On-Demand and On-Access Scanning (PF, squid, privoxy, hphosts, dshield, emergingthreats, hostsfile, PAC file, clamav).
