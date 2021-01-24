@@ -10,6 +10,7 @@ https://github.com/QAX-A-Team
 https://github.com/SecWiki
 https://github.com/Al1ex
 https://github.com/0xApt?tab=repositories
+https://github.com/tennc
 
 ````
 
@@ -88,10 +89,14 @@ https://github.com/0xApt?tab=repositories
   ### Backdoor and Shell creation
   - [Arcane](https://github.com/tokyoneon/Arcane) - Arcane is a simple script designed to backdoor iOS packages (iphone-arm) and create the necessary resources for APT repositories.
   - [Backdoorplz](https://github.com/jfmaes/Backdoorplz) - Adding a backdooruser using win32api.
+  - [C99 Shell](http://www.topshellv.com/shell/c99-shell)
+  - [C100](http://www.c99php.com/tag/c100-shell)
   - [Chisel](https://github.com/jpillora/chisel) - _A fast TCP/UDP tunnel over HTTP._
   - [Icmpsh](https://github.com/inquisb/icmpsh) - _Simple reverse ICMP shell._
-  - [TomcatWarDeployer](https://github.com/mgeeky/tomcatWarDeployer) - Penetration testing tool intended to leverage Apache Tomcat credentials in order to automatically generate and deploy JSP Backdoor.
+  - [R57 Shell](https://r57shell.net)
   - [ShellStack](https://github.com/Tuhinshubhra/shellstack) -  A PHP Based Tool That Helps You To Manage All Your Backdoored Websites Efficiently.
+  - [TomcatWarDeployer](https://github.com/mgeeky/tomcatWarDeployer) - Penetration testing tool intended to leverage Apache Tomcat credentials in order to automatically generate and deploy JSP Backdoor.
+  - [WebShell](https://github.com/tennc/webshell)
   ### DLL
   - [Koppeling](https://github.com/monoxgas/Koppeling) - Adaptive DLL hijacking / dynamic export forwarding.
   - [Printjacker](https://github.com/RedSection/printjacker) - Hijack Printconfig.dll to execute shellcode.
