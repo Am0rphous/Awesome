@@ -1,10 +1,11 @@
 # Networking
 
-- [Darknet-tools](ttps://cybercoplabs.net/article/darknet-tools)
+- [Darknet-tools](https://cybercoplabs.net/article/darknet-tools)
 - [Firehol's blocklist-ipsets](https://github.com/firehol/blocklist-ipsets) - ipsets dynamically updated with firehol's update-ipsets.sh script.
 
 ## Awesome
-- [awesome-network-stuff](https://github.com/alphaSeclab/awesome-network-stuff) - Resources about network security, including: Proxy/GFW/ReverseProxy/Tunnel/VPN/Tor/I2P, and MiTM/PortKnocking/NetworkSniff/NetworkAnalysis/etc。More than 1700 open source tools for now. Post incoming. 
+- [Awesome-network-stuff](https://github.com/alphaSeclab/awesome-network-stuff) - Resources about network security, including: Proxy/GFW/ReverseProxy/Tunnel/VPN/Tor/I2P, and MiTM/PortKnocking/NetworkSniff/NetworkAnalysis/etc。More than 1700 open source tools for now. Post incoming.
+- [FreeNet Project](https://freenetproject.org)
 
 ## Anonymity
 - [Haad's proxychains](https://github.com/haad/proxychains)
@@ -51,7 +52,7 @@
 - [The Shadow Simulator](https://github.com/shadow/shadow) - Shadow is a unique discrete-event network simulator that runs real applications like Tor, and distributed systems of thousands of nodes on a single machine. 
 
 ## Online Tools
-- [SSH Check](https://sshcheck.com/) - check a server's SSH capabilities.
+- [SSH Check](https://sshcheck.com/) - Check a server's SSH capabilities.
 
 ## Proxy
 - [Privoxy](https://www.privoxy.org/) - Privoxy is a non-caching web proxy with advanced filtering capabilities for enhancing privacy, modifying web page data and HTTP headers, controlling access, and removing ads and other obnoxious Internet junk.
