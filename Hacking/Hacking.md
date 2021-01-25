@@ -287,6 +287,8 @@ FTest, Lbd, Wafw00f
 - [Hacking-Tools-Repository](https://github.com/Gexos/Hacking-Tools-Repository) - _A list of security/hacking tools that have been collected from the internet._
 - [HackTricks](https://github.com/carlospolop/hacktricks) - trick/technique/whatever [carlospolop](https://github.com/carlospolop) have learnt in CTFs, real life apps and reading researches and news.
 - [Jhaddix's pentest-bookmarks](https://github.com/jhaddix/pentest-bookmarks/blob/master/wiki/BookmarksList.wiki) - Collection of handy bookmarks.
+- LOLBins
+  - [LOLBins: How cyber attackers bypass traditional security defenses](https://blog.teamascend.com/lolbins)
 - [MITRE ATT&CK®](https://attack.mitre.org) - Globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. Git: https://github.com/mitre-attack
   - [Ruped24's killchain](https://github.com/ruped24/killchain) - A unified console to perform the "kill chain" stages of attacks.
 - [Offsec_pdfs](https://github.com/jivoi/offsec_pdfs)
