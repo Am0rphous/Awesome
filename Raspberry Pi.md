@@ -1,5 +1,8 @@
 # Raspberry Pi
 
+- [Official Raspberry Pi Beginnger's Guide](https://www.raspberrypi.org/magpi-issues/Beginners_Guide_v1.pdf)
+- [Tutorial: Raspberry Pi](https://people.cs.clemson.edu/~yfeaste/cybersecurity/CPSC424/project/RaspberryPiTutorial.pdf)
+
 ## Ad-block software
 - [Blocky](https://github.com/0xERR0R/blocky) - DNS proxy as ad-blocker for local network.
 - [PiHole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements.
