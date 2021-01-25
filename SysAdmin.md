@@ -134,6 +134,7 @@ bro / zeek
 
 ## Communication / Collaboration
 - [Convos](https://convos.chat)
+- [Darkwire.io] - _End-to-end encrypted instant web chat [darkwire.io](https://darkwire.io)._
 - [HexChat](https://github.com/hexchat/hexchat) - IRC client for Windows and UNIX-like operating systems [hexchat.github.io](https://hexchat.github.io)
 - [Jitsi Meet](https://github.com/jitsi/jitsi-meet) - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [Kiwi IRC](https://kiwiirc.com)
