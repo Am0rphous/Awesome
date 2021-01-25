@@ -1,7 +1,5 @@
 # Raspberry Pi
 
-- [Raspberry Pi Alternatives](https://pimylifeup.com/raspberry-pi-alternatives/)
-
 ## Ad-block software
 - [Blocky](https://github.com/0xERR0R/blocky) - DNS proxy as ad-blocker for local network.
 - [PiHole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements.
@@ -10,6 +8,13 @@
   ### BlackLists
   - [DNSblacklist](https://github.com/farhanfaisal/DNSblacklist) - _A shell script to download malware domains from various sources, and configuring unbound DNS config file to be used as a local recursive DNS server._
   - [Exposure: Finding Malicious Domains Using Passive DNS Analysis](https://www.ndss-symposium.org/wp-content/uploads/2017/09/bilge2.pdf)
+
+## Alternatives to Raspberry Pi
+- [Arduino](https://www.arduino.cc)
+- [LattePanda](https://www.lattepanda.com)
+- [ODROID](https://www.hardkernel.com)
+- [Orange Pi 4B](http://www.orangepi.org/Orange%20Pi%204B/)
+- [Rock64](https://www.pine64.org/devices/single-board-computers/rock64/)
 
 ## Home Automation Software
 - [Domoticz](https://github.com/domoticz/domoticz) - Lets you monitor and configure various devices like: Lights, Switches, various sensors/meters like Temperature, Rain, Wind, UV, Electra, Gas, Water and much more.
