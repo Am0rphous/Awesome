@@ -128,6 +128,7 @@ https://github.com/tennc
 
 ## Fuzzers
 - [FZT](https://github.com/junegunn/fzf) - A command-line fuzzy finder.
+- [OneListForAll](https://github.com/six2dez/OneListForAll) - _Rockyou for web fuzzing._
 - [RPC Forge](https://github.com/sogeti-esec-lab/RPCForge) -  Windows RPC Python fuzzer.
 - [Wfuzz](https://github.com/xmendez/wfuzz) - Web application fuzzer.
   ### iOS Specific
@@ -205,6 +206,7 @@ FTest, Lbd, Wafw00f
 - [nc.exe](https://github.com/int0x33/nc.exe) - Netcat for windows 32/64 bit.
 - [Nc-network-sniffer](https://github.com/Nicoretti/nc-network-sniffer) - A simple network sniffer for linux.
 - [NetblockTool](https://github.com/NetSPI/NetblockTool) - Find netblocks owned by a company.
+- [ReconFTW](https://github.com/six2dez/reconftw) - _Simple script for full recon._
 - [rsocks](https://github.com/brimstone/rsocks) - Tiny little reverse socks5 client & server (unencrypted).
 - [ShodanHat](https://github.com/HatBashBR/ShodanHat) -  search for hosts info with shodan.
 - [Sslh](https://github.com/brimstone/sslh) - _Listener that determines SSL, HTTP, SSH, or other connections on the same port._
