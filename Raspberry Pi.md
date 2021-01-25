@@ -1,8 +1,5 @@
 # Raspberry Pi
 
-- [Official Raspberry Pi Beginnger's Guide](https://www.raspberrypi.org/magpi-issues/Beginners_Guide_v1.pdf)
-- [Tutorial: Raspberry Pi](https://people.cs.clemson.edu/~yfeaste/cybersecurity/CPSC424/project/RaspberryPiTutorial.pdf)
-
 ## Ad-block software
 - [Blocky](https://github.com/0xERR0R/blocky) - DNS proxy as ad-blocker for local network.
 - [PiHole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements.
@@ -18,6 +15,11 @@
 - [ODROID](https://www.hardkernel.com)
 - [Orange Pi 4B](http://www.orangepi.org/Orange%20Pi%204B/)
 - [Rock64](https://www.pine64.org/devices/single-board-computers/rock64/)
+
+## Guides, Help and Setup
+- [Official Raspberry Pi Beginnger's Guide](https://www.raspberrypi.org/magpi-issues/Beginners_Guide_v1.pdf)
+- [Tutorial: Raspberry Pi](https://people.cs.clemson.edu/~yfeaste/cybersecurity/CPSC424/project/RaspberryPiTutorial.pdf)
+- [Ziadoz' raspberry-pi-3-setup](https://github.com/ziadoz/raspberry-pi-3-setup)
 
 ## Home Automation Software
 - [Domoticz](https://github.com/domoticz/domoticz) - Lets you monitor and configure various devices like: Lights, Switches, various sensors/meters like Temperature, Rain, Wind, UV, Electra, Gas, Water and much more.
