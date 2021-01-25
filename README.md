@@ -79,6 +79,15 @@ PyCharm, Spyder, Jupyter , ,
 - [Thonny PyDev](https://github.com/thonny/thonny) - Python IDE for beginners.
 - [Visual Studio Code](https://github.com/Microsoft/vscode) - [code.visualstudio.com](https://code.visualstudio.com)
 - [Wing](https://github.com/kbrsh/wing) - A beautiful CSS framework designed for minimalists [kbrsh.github.io](https://kbrsh.github.io/wing/).
+ ### Programming
+ - [KDevelop](https://github.com/KDE/kdevelop) - _Cross-platform IDE for C, C++, Python, QML/JavaScript and PHP._
+  #### Nim
+  - [GUI Options for Nim](https://matthiashager.com/gui-options-for-nim)
+  - [Nimwsnetproxy](https://github.com/skelsec/nimwsnetproxy) - _Websockets-tcp proxy in nim._
+  - [Nimx](https://github.com/yglukhov/nimx) - _GUI library._
+  - [Wxnim](https://github.com/PMunch/wxnim) - _Nim wrapper for wxWidgets._
+  #### PHP
+  - [Awesome-PHP](https://github.com/ziadoz/awesome-php) - _A curated list of amazingly awesome PHP libraries, resources and shiny things._
 
 ## E-books
 - [Calibre](https://github.com/kovidgoyal/calibre) - calibre is an e-book manager. It can view, convert, edit and catalog e-books in all of the major e-book formats.
@@ -192,13 +201,6 @@ PyCharm, Spyder, Jupyter , ,
  - [CPod](https://github.com/z-------------/CPod) - A simple, beautiful podcast app for Windows, macOS, and Linux.
  - [Winds](https://github.com/getstream/winds/) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io.
 
-## Programming
-- [KDevelop](https://github.com/KDE/kdevelop) - Cross-platform IDE for C, C++, Python, QML/JavaScript and PHP.
-  ## Nim
-  - [GUI Options for Nim](https://matthiashager.com/gui-options-for-nim)
-  - [Nimwsnetproxy](https://github.com/skelsec/nimwsnetproxy) - websockets-tcp proxy in nim.
-  - [Nimx](https://github.com/yglukhov/nimx) - GUI library.
-  - [Wxnim](https://github.com/PMunch/wxnim) - Nim wrapper for wxWidgets.
 ## Tools
 - [Inventory Hunter](https://github.com/EricJMarti/inventory-hunter) - Get notified as soon as your next CPU, GPU, or game console is in stock.
   ### Hex
