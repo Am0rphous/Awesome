@@ -308,6 +308,9 @@ upstream_recursive_servers:
   - [PetaSAN](http://www.petasan.org) - _Open source Scale-Out SAN solution offering massive scalability and performance._
   - [Rockstor](http://rockstor.com) - BTRFS based NAS and private cloud storage solution. [Download Rockstor](https://sourceforge.net/projects/rockstor/files).
   - [XigmaNAS](https://www.xigmanas.com) - Open Source Storage NAS (Network-Attached Storage) distribution based on FreeBSD. [Download XimagaNAS](https://sourceforge.net/projects/xigmanas/files/)
+    ### URL Shorteners
+  - [Polr](https://github.com/cydrobolt/polr) - _🚡 A modern, powerful, and robust URL shortener [polrproject.org](https://polrproject.org)._
+  - [SLink](https://shlink.io) - _Keep control over all your shortened URLs, by serving them under your own domains, using this simple yet powerful tool._
 
 ## Package Managers
 - [Brew / HomeBrew](https://brew.sh/) - Package Manager for Linux and MacOS.
