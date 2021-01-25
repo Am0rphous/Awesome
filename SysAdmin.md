@@ -411,6 +411,7 @@ upstream_recursive_servers:
   - [Wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better).
   
 ## Utilities
+- [Deskreen](https://github.com/pavlobu/deskreen) - _Deskreen turns any device with a web browser to a second screen for your computer [deskreen.com](http://deskreen.com)._
 - [Git](https://github.com/git/git) - fast, scalable, distributed revision control system.
  - [Git For Windows](https://github.com/git-for-windows/git) - [https://gitforwindows.org](https://gitforwindows.org)
   - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) - Dynamically generated stats for your github readmes.
