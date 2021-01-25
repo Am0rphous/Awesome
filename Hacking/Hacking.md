@@ -289,6 +289,8 @@ FTest, Lbd, Wafw00f
 - [Jhaddix's pentest-bookmarks](https://github.com/jhaddix/pentest-bookmarks/blob/master/wiki/BookmarksList.wiki) - Collection of handy bookmarks.
 - LOLBins
   - [LOLBins: How cyber attackers bypass traditional security defenses](https://blog.teamascend.com/lolbins)
+  - [Living Off The Land Binaries and Scripts (and also Libraries)](https://lolbas-project.github.io/#)
+  - [LOLBAS – Living Off The Land Binaries And Scripts](https://kalilinuxtutorials.com/lolbas/)
 - [MITRE ATT&CK®](https://attack.mitre.org) - Globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. Git: https://github.com/mitre-attack
   - [Ruped24's killchain](https://github.com/ruped24/killchain) - A unified console to perform the "kill chain" stages of attacks.
 - [Offsec_pdfs](https://github.com/jivoi/offsec_pdfs)
