@@ -173,10 +173,11 @@ FTest, Lbd, Wafw00f
  - [WhatBreach](https://github.com/Ekultek/WhatBreach) - _OSINT tool to find breached emails, databases, pastes, and relevant information._
  
  ### OSINT Analysis
-- [Awesome OSINT](https://github.com/jivoi/awesome-osint) - A curated list of amazingly awesome OSINT.
-- [osint.link](https://osint.link) - Open Source Intelligence (OSINT) Tools & Resources.
-- [OSINT-SPY](https://github.com/SharadKumar97/OSINT-SPY) - Performs OSINT scan on email/domain/ip_address/organization using OSINT-SPY. It can be used by Data Miners, Infosec Researchers, Penetration Testers and cyber crime investigator in order to find deep information about their target.
-- [TheHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT.
+- [Awesome OSINT](https://github.com/jivoi/awesome-osint) - _A curated list of amazingly awesome OSINT._
+- [Osint.link](https://osint.link) - Open Source Intelligence (OSINT) Tools & Resources.
+- [OSINT-SPY](https://github.com/SharadKumar97/OSINT-SPY) - _Performs OSINT scan on email/domain/ip_address/organization using OSINT-SPY. It can be used by Data Miners, Infosec Researchers, Penetration Testers and cyber crime investigator in order to find deep information about their target._
+- [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) - _Advanced information gathering & OSINT framework for phone numbers._
+- [TheHarvester](https://github.com/laramies/theHarvester) - _E-mails, subdomains and names Harvester - OSINT._
 
  ### Route Analysis
  ### SMB Analysis
@@ -286,6 +287,7 @@ FTest, Lbd, Wafw00f
 ## Techniques, Collections and Tactical Resources
 - [D00MFist's CTF Notes](https://github.com/D00MFist/security) - collection of notes picked up doing numerous CTFs.
 - [GoVanguards list-infosec-encyclopedia](https://github.com/GoVanguard/list-infosec-encyclopedia) - A list of information security related awesome lists and other resources.
+- [Hacker Roadmap](https://github.com/sundowndev/hacker-roadmap) - _📌 Your beginner pen-testing start guide. A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking and web security._
 - [Hacking-Tools-Repository](https://github.com/Gexos/Hacking-Tools-Repository) - _A list of security/hacking tools that have been collected from the internet._
 - [HackTricks](https://github.com/carlospolop/hacktricks) - trick/technique/whatever [carlospolop](https://github.com/carlospolop) have learnt in CTFs, real life apps and reading researches and news.
 - [Jhaddix's pentest-bookmarks](https://github.com/jhaddix/pentest-bookmarks/blob/master/wiki/BookmarksList.wiki) - Collection of handy bookmarks.
