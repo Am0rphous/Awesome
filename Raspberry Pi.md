@@ -40,6 +40,7 @@
 - [MMM-OnScreenMenu](https://github.com/shbatm/MMM-OnScreenMenu) - MagicMirror² utility module that provides a simple on screen menu for control.
 - [MMM-page-indicator](https://github.com/edward-shen/MMM-page-indicator) - MagicMirror² module to display what page you're on.
 - [MMM-Page-Selector](https://github.com/Veldrovive/MMM-Page-Selector) - An easy way to set up and move between pages on a MagicMirror².
+- [MMM-pages](https://github.com/edward-shen/MMM-pages) - _Add pages to your MagicMirror²!_
 - [MMM-PIR-Sensor](https://github.com/paviro/MMM-PIR-Sensor) - This module can monitor a PIR motion sensor and put your mirror to sleep. 
 - [MMM-Remote-Control](https://github.com/Jopyth/MMM-Remote-Control) - Magic Mirror Module to shutdown or configure your mirror.
 - [MMM-Screencast](https://github.com/kevinatown/MMM-Screencast) -  A module to cast to the magic mirror.
