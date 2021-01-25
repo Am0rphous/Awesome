@@ -442,6 +442,8 @@ upstream_recursive_servers:
     - [Docker Compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker.
       - [Awesme Docker Compose](https://github.com/docker/awesome-compose) -  Awesome Docker Compose samples.
     - [Images by linuxserver.io](https://fleet.linuxserver.io)
+  - [Firecracker](https://github.com/firecracker-microvm/firecracker) - _Secure and fast microVMs for serverless computing [firecracker-microvm.github.io](https://firecracker-microvm.github.io)._
+    - [Firecracker Containerd](https://github.com/firecracker-microvm/firecracker-containerd) - _Firecracker-containerd enables containerd to manage containers as Firecracker microVMs._
   - [K3S](https://k3s.io/) - The certified Kubernetes distribution built for IoT & Edge computing
   - [LXC](https://linuxcontainers.org/lxc/)
     - [LXC Web Panel's dashboard (old)](https://github.com/lxc-webpanel/dashboard) - Might need flask `pip3 install flask`
