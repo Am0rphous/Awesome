@@ -75,6 +75,7 @@ PyCharm, Spyder, Jupyter , ,
 - [Jupyter Notebook](https://github.com/jupyter/notebook) - web-based notebook environment for interactive computing.
 - [PyCharm](https://www.jetbrains.com/pycharm) - Python IDE for Professional Developers.
 - [Socket.io](https://github.com/socketio/socket.io) - _Realtime application framework (Node.JS server)._
+  - [Socket.io-client](https://github.com/socketio/socket.io-client) - _Realtime application framework (client)._
 - [Spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder - The Scientific Python Development Environment.
 - [Sublime](https://www.sublimetext.com) - A sophisticated text editor for code, markup and prose.
 - [Thonny PyDev](https://github.com/thonny/thonny) - Python IDE for beginners.
