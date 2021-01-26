@@ -234,6 +234,7 @@ FTest, Lbd, Wafw00f
 - [CeWL](https://github.com/digininja/CeWL/) - Spiders a URL to a specified depth and searches for words that can be used for password attacks. 
 - [CrackQ](https://github.com/f0cker/crackq) - A Python Hashcat cracking queue system.
 - [Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots.
+- [HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - _Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。_
 - [Mimikatz](https://github.com/gentilkiwi/mimikatz) - _A little tool to play with Windows security._
 - [MSOLSpray](https://github.com/dafthack/MSOLSpray) - A password spraying tool for Microsoft Online accounts (Azure/O365).
   - [TREVORspray](https://github.com/blacklanternsecurity/TREVORspray) - A featureful round-robin SOCKS proxy and Python O365 sprayer based on MSOLSpray which uses the Microsoft Graph API.
@@ -340,6 +341,7 @@ FTest, Lbd, Wafw00f
  ### Web Vulnerability Scanners
  - [LinkFinder](https://github.com/GerbenJavado/LinkFinder) - A python script that finds endpoints in JavaScript files.
  - [wp_hunter](https://github.com/Josue87/wp_hunter) - Static analysis of wordpress plugins.
+ - [XSStrike](https://github.com/s0md3v/XSStrike) - _Most advanced XSS scanner._
 
 ## Wireless Attacks
 - [Deauther](https://github.com/dom96/deauther) - CLI Deauther for macOS.
