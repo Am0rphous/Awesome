@@ -48,6 +48,7 @@
 - [MMM-network-signal](https://github.com/PoOwAa/MMM-network-signal) - Display a solid wifi logo as network signal for MagicMirror2.
 - [MMM-NewPIR](https://github.com/bugsounet/MMM-NewPIR) - MagicMirror Action with PIR Sensor.
 - [MMM-OnScreenMenu](https://github.com/shbatm/MMM-OnScreenMenu) - MagicMirror² utility module that provides a simple on screen menu for control.
+- [MMM-OpenWeather24Hours](https://github.com/thobach/MMM-OpenWeather24Hours) - _MMM-DarkSky24Hours is a 3rd party module for MagicMirror that shows weather information for the next 24 hours. The weather data is taken from Dark Sky._
 - [MMM-page-indicator](https://github.com/edward-shen/MMM-page-indicator) - MagicMirror² module to display what page you're on.
 - [MMM-Page-Selector](https://github.com/Veldrovive/MMM-Page-Selector) - An easy way to set up and move between pages on a MagicMirror².
 - [MMM-pages](https://github.com/edward-shen/MMM-pages) - _Add pages to your MagicMirror²!_
@@ -104,7 +105,8 @@
   - [WeeWX](http://weewx.com) - free, open source, software program, written in Python, which interacts with your weather station to produce graphs, reports, and HTML pages.
   - [WX Forum](https://www.wxforum.net/)
 
-
+## Software for the Raspberry
+- [XBian](https://github.com/xbianonpi/xbian) - _XBMC on Raspberry Pi, Bleeding Edge [xbian.org](https://xbian.org)._
 
 
 
