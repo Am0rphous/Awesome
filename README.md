@@ -81,6 +81,8 @@ PyCharm, Spyder, Jupyter , ,
 - [Thonny PyDev](https://github.com/thonny/thonny) - Python IDE for beginners.
 - [Visual Studio Code](https://github.com/Microsoft/vscode) - [code.visualstudio.com](https://code.visualstudio.com)
 - [Wing](https://github.com/kbrsh/wing) - A beautiful CSS framework designed for minimalists [kbrsh.github.io](https://kbrsh.github.io/wing/).
+ ### Node.js
+ - [Pm2.io](https://pm2.io) - _PM2 is a production process manager for Node.js applications with a built-in load balancer. It allows you to keep applications alive forever, to reload them without downtime and to facilitate common system admin tasks._
  ### Programming
  - [KDevelop](https://github.com/KDE/kdevelop) - _Cross-platform IDE for C, C++, Python, QML/JavaScript and PHP._
   #### Nim
