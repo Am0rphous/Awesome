@@ -74,6 +74,7 @@ PyCharm, Spyder, Jupyter , ,
 - [Github Desktop](https://github.com/desktop/desktop) - open source Electron-based GitHub app. It is written in TypeScript and uses React [desktop.github.com/](https://desktop.github.com).
 - [Jupyter Notebook](https://github.com/jupyter/notebook) - web-based notebook environment for interactive computing.
 - [PyCharm](https://www.jetbrains.com/pycharm) - Python IDE for Professional Developers.
+- [Socket.io](https://github.com/socketio/socket.io) - _Realtime application framework (Node.JS server)._
 - [Spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder - The Scientific Python Development Environment.
 - [Sublime](https://www.sublimetext.com) - A sophisticated text editor for code, markup and prose.
 - [Thonny PyDev](https://github.com/thonny/thonny) - Python IDE for beginners.
