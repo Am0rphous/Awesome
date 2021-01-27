@@ -493,6 +493,7 @@ upstream_recursive_servers:
     - [Matamo Analytics for Wordpress](https://wordpress.org/plugins/matomo)
     - [Matomo Tracking Panel](https://github.com/thiagoarrais/grafana-matomo-tracking-panel) -  Matomo Tracking Panel for Grafana.
     - [Tutorial: Install Matomo Web Analytics (Piwik) on Ubuntu 20.04 with Apache/Nginx](https://www.linuxbabe.com/ubuntu/install-matomo-web-analytics-piwik-ubuntu-20-04-apache-nginx)
+  - [Umami](https://github.com/mikecao/umami) - _Umami is a simple, fast, website analytics alternative to Google Analytics._
   ### Web Development Tools
   - [Angular](https://github.com/angular/angular) - [cli.angular.io](https://cli.angular.io)
     - [Angular CLI](https://github.com/angular/angular-cli) - _TypeScript -based open-source web application framework._
