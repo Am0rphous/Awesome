@@ -271,6 +271,7 @@ upstream_recursive_servers:
 ````
   ### Network Visualization
     - [Fantastic Full Source Code](https://github.com/besimorhino/project-fantastic) - visualizing tool made by InfoSec Innovations for exploring computer networks.
+    - [Quark](https://github.com/s0md3v/Quark) - Quark is a data visualization framework.
   ### Remoting
   - [PowerShell](https://github.com/PowerShell/PowerShell) - _Cross-platform (Windows, Linux, and macOS) automation and configuration tool/framework._
     - [GraphicalTools](https://github.com/PowerShell/GraphicalTools) - _Modules that mix PowerShell and GUIs/CUIs! - built on Avalonia and gui.cs._
@@ -377,7 +378,8 @@ upstream_recursive_servers:
   
 ## Scripting
 - [Awesome-Scripts by DedSecInside](https://github.com/DedSecInside/Awesome-Scripts) - A collection of awesome scripts from developers around the globe.
-- [PyWebView](https://github.com/r0x0r/pywebview) - _Build GUI for your Python program with JavaScript, HTML, and CSS._
+- [HuePy](https://github.com/s0md3v/huepy) - Print awesomely in terminals.
+- [PyWebView](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS.
 - [Ubuntu post-installation script](https://github.com/nicolargo/ubuntupostinstall)
 - [Qoa](https://github.com/klaussinani/qoa) - Minimal interactive command-line prompts
 
