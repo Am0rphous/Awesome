@@ -91,8 +91,10 @@ https://github.com/tennc
   - [Backdoorplz](https://github.com/jfmaes/Backdoorplz) - Adding a backdooruser using win32api.
   - [C99 Shell](http://www.topshellv.com/shell/c99-shell)
   - [C100](http://www.c99php.com/tag/c100-shell)
-  - [Chisel](https://github.com/jpillora/chisel) - _A fast TCP/UDP tunnel over HTTP._
-  - [Icmpsh](https://github.com/inquisb/icmpsh) - _Simple reverse ICMP shell._
+  - [Chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP.
+  - [Cloak](https://github.com/s0md3v/Cloak) - Cloak can backdoor any python script with some tricks.
+  - [Icmpsh](https://github.com/inquisb/icmpsh) - Simple reverse ICMP shell.
+  - [Nano](https://github.com/s0md3v/nano) - Nano is a family of PHP web shells which are code golfed for stealth.
   - [R57 Shell](https://r57shell.net)
   - [ShellStack](https://github.com/Tuhinshubhra/shellstack) -  A PHP Based Tool That Helps You To Manage All Your Backdoored Websites Efficiently.
   - [TomcatWarDeployer](https://github.com/mgeeky/tomcatWarDeployer) - Penetration testing tool intended to leverage Apache Tomcat credentials in order to automatically generate and deploy JSP Backdoor.
