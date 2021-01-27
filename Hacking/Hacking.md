@@ -249,6 +249,7 @@ FTest, Lbd, Wafw00f
 ## Phishing
 - [MaskPhish](https://github.com/jaykali/maskphish) - Give a Mask to Phishing URL like a PRO.. A MUST have tool for Phishing.
 - [Muraena](https://github.com/muraenateam/muraena) - _Muraena is an almost-transparent reverse proxy aimed at automating phishing and post-phishing activities._
+- [smsisher](https://github.com/XiphosResearch/smsisher) - _SMS Phishing Tools._
 
 
 ## Programming Languages
@@ -339,6 +340,7 @@ FTest, Lbd, Wafw00f
  ### Web Application Proxies
  ### Web Crawlers & Directory Brutefroce
  ### Web Vulnerability Scanners
+ - [Inception](https://github.com/proabiral/inception) - _A highly configurable Framework for easy automated web scanning._
  - [LinkFinder](https://github.com/GerbenJavado/LinkFinder) - A python script that finds endpoints in JavaScript files.
  - [wp_hunter](https://github.com/Josue87/wp_hunter) - Static analysis of wordpress plugins.
  - [XSStrike](https://github.com/s0md3v/XSStrike) - _Most advanced XSS scanner._
