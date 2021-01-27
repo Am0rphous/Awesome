@@ -144,9 +144,10 @@ https://github.com/tennc
   Get-DnsRecord -RecordType A -ZoneName FQDN -Server ServerName
   Get-DnsRecord -RecordType A -ZoneName FQDN -Server ServerName | % {Add-Content -Value $_ -Path filename.txt}
   ````
-- [Metagoofil](https://github.com/laramies/metagoofil) - _Metadata harvester._
-- [Nikto](https://github.com/sullo/nikto) - _Web server scanner. [Documentation](https://cirt.net/nikto2-docs)_
-- [reNgine](https://github.com/yogeshojha/rengine) - _Automated reconnaissance framework meant for information gathering during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information._
+- [Metagoofil](https://github.com/laramies/metagoofil) - Metadata harvester._
+- [Nikto](https://github.com/sullo/nikto) - Web server scanner. [Documentation](https://cirt.net/nikto2-docs)
+- [ReconDog](https://github.com/s0md3v/ReconDog) - Reconnaissance Swiss Army Knife.
+- [reNgine](https://github.com/yogeshojha/rengine) - Automated reconnaissance framework meant for information gathering during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.
 
  ### DNS Analysis
 - [AssetFinder](https://github.com/tomnomnom/assetfinder) - _Find domains and subdomains related to a given domain._
@@ -172,12 +173,13 @@ FTest, Lbd, Wafw00f
  - [MasScan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
  - [WhatBreach](https://github.com/Ekultek/WhatBreach) - _OSINT tool to find breached emails, databases, pastes, and relevant information._
  
- ### OSINT Analysis
-- [Awesome OSINT](https://github.com/jivoi/awesome-osint) - _A curated list of amazingly awesome OSINT._
+ ### OSINT
+- [Awesome OSINT](https://github.com/jivoi/awesome-osint) - A curated list of amazingly awesome OSINT.
 - [Osint.link](https://osint.link) - Open Source Intelligence (OSINT) Tools & Resources.
-- [OSINT-SPY](https://github.com/SharadKumar97/OSINT-SPY) - _Performs OSINT scan on email/domain/ip_address/organization using OSINT-SPY. It can be used by Data Miners, Infosec Researchers, Penetration Testers and cyber crime investigator in order to find deep information about their target._
-- [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) - _Advanced information gathering & OSINT framework for phone numbers._
-- [TheHarvester](https://github.com/laramies/theHarvester) - _E-mails, subdomains and names Harvester - OSINT._
+- [OSINT-SPY](https://github.com/SharadKumar97/OSINT-SPY) - Performs OSINT scan on email/domain/ip_address/organization using OSINT-SPY. It can be used by Data Miners, Infosec Researchers, Penetration Testers and cyber crime investigator in order to find deep information about their target.
+- [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) - Advanced information gathering & OSINT framework for phone numbers.
+- [Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
+- [TheHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT.
 
  ### Route Analysis
  ### SMB Analysis
@@ -248,8 +250,9 @@ FTest, Lbd, Wafw00f
 
 ## Phishing
 - [MaskPhish](https://github.com/jaykali/maskphish) - Give a Mask to Phishing URL like a PRO.. A MUST have tool for Phishing.
-- [Muraena](https://github.com/muraenateam/muraena) - _Muraena is an almost-transparent reverse proxy aimed at automating phishing and post-phishing activities._
-- [smsisher](https://github.com/XiphosResearch/smsisher) - _SMS Phishing Tools._
+- [Muraena](https://github.com/muraenateam/muraena) - Muraena is an almost-transparent reverse proxy aimed at automating phishing and post-phishing activities.
+- [smsisher](https://github.com/XiphosResearch/smsisher) - SMS Phishing Tools.
+- [Ote](https://github.com/s0md3v/ote) - Generate Email, Register for anything, Get the OTP/Link.
 
 
 ## Programming Languages
@@ -311,11 +314,12 @@ FTest, Lbd, Wafw00f
   - [Graphical userinterface - Zenmap front-end](https://nmap.org/zenmap)
   - [Tutorial: How to use nmap nse scripts to find vulnerabilities](https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities)
 - [Nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use.
+- [Parth](https://github.com/s0md3v/Parth) - Heuristic Vulnerable Parameter Scanner.
 - [Sn1per](https://github.com/1N3/Sn1per) - Automated pentest framework for offensive security experts.
 - [Striker](https://github.com/s0md3v/Striker) - Striker is an offensive information and vulnerability scanner.
-- [trivy](https://github.com/aquasecurity/trivy) - _ A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI._
+- [trivy](https://github.com/aquasecurity/trivy) - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI.
 - [Unix-Privesc-Check](http://pentestmonkey.net/tools/audit/unix-privesc-check)
-- [Vuls](https://github.com/future-architect/vuls) - _Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices._
+- [Vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices.
 - [vulscan - Vulnerability Scanning with Nmap](https://github.com/scipag/vulscan) - Advanced vulnerability scanning with Nmap NSE 
   - [nmap_vulners](https://github.com/vulnersCom/nmap-vulners) - NSE script based on Vulners.com API.
 
@@ -332,6 +336,7 @@ FTest, Lbd, Wafw00f
 - [pwnable.kr](https://pwnable.kr/)
 
 ## Web Application Analysis
+- [Arjun](https://github.com/s0md3v/Arjun) - HTTP Parameter Discovery Suite.
 - [HandyHeaderHacker by kj0317](https://github.com/kj0317/HandyHeaderHacker) - Examine HTTP response headers for common security issues.
 - [HandyHeaderHacker by vpnguy-zz](https://github.com/vpnguy-zz/HandyHeaderHacker) - Examine HTTP response headers for common security issues.
 - [Kenzer](https://github.com/ARPSyndicate/kenzer) - _Automated web assets enumeration & scanning._
@@ -342,6 +347,7 @@ FTest, Lbd, Wafw00f
  ### Web Crawlers & Directory Brutefroce
  ### Web Vulnerability Scanners
  - [AwesomeXSS](https://github.com/s0md3v/AwesomeXSS) - Awesome XSS stuff.
+ - [Bolt](https://github.com/s0md3v/Bolt) - CSRF Scanner.
  - [Corsy](https://github.com/s0md3v/Corsy) - CORS Misconfiguration Scanner.
  - [Inception](https://github.com/proabiral/inception) - _A highly configurable Framework for easy automated web scanning._
  - [LinkFinder](https://github.com/GerbenJavado/LinkFinder) - A python script that finds endpoints in JavaScript files.
