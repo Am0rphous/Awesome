@@ -312,6 +312,7 @@ FTest, Lbd, Wafw00f
   - [Tutorial: How to use nmap nse scripts to find vulnerabilities](https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities)
 - [Nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use.
 - [Sn1per](https://github.com/1N3/Sn1per) - Automated pentest framework for offensive security experts.
+- [Striker](https://github.com/s0md3v/Striker) - Striker is an offensive information and vulnerability scanner.
 - [trivy](https://github.com/aquasecurity/trivy) - _ A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI._
 - [Unix-Privesc-Check](http://pentestmonkey.net/tools/audit/unix-privesc-check)
 - [Vuls](https://github.com/future-architect/vuls) - _Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices._
@@ -340,6 +341,8 @@ FTest, Lbd, Wafw00f
  ### Web Application Proxies
  ### Web Crawlers & Directory Brutefroce
  ### Web Vulnerability Scanners
+ - [AwesomeXSS](https://github.com/s0md3v/AwesomeXSS) - Awesome XSS stuff.
+ - [Corsy](https://github.com/s0md3v/Corsy) - CORS Misconfiguration Scanner.
  - [Inception](https://github.com/proabiral/inception) - _A highly configurable Framework for easy automated web scanning._
  - [LinkFinder](https://github.com/GerbenJavado/LinkFinder) - A python script that finds endpoints in JavaScript files.
  - [wp_hunter](https://github.com/Josue87/wp_hunter) - Static analysis of wordpress plugins.
