@@ -221,8 +221,9 @@ FTest, Lbd, Wafw00f
 ## MiTM Tools
 - [Xerosploit](https://github.com/LionSec/xerosploit) - Efficient and advanced man in the middle framework.
 
-## Obfuscation
+## Obfuscation and Deobfuscation
 - [Article: PowerShell Obfuscation using SecureString](https://www.wietzebeukema.nl/blog/powershell-obfuscation-using-securestring)
+- [Decodify](https://github.com/s0md3v/Decodify) - Detect and decode encoded strings, recursively.
 - [Javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - _A powerful obfuscator for JavaScript and Node.js_
 - [Obfuscation-stuff](https://github.com/alphaSeclab/obfuscation-stuff) - Source Code Obfuscation And Binary Obfuscation, Multiple Languages And Multiple Platforms. Including 250+ Tools and 600+ Posts.
 
@@ -232,11 +233,12 @@ FTest, Lbd, Wafw00f
 - [OutlookParasite](https://github.com/vivami/OutlookParasite) - _Outlook persistence using VSTO add-ins._
 - [SharpClipHistory](https://github.com/FSecureLABS/SharpClipHistory) - _SharpClipHistory is a .NET application written in C# that can be used to read the contents of a user's clipboard history in Windows 10 starting from the 1809 Build._
 
-## Password and Brute Force related tools
+## Password, cracking and Brute Force related tools
 - [CeWL](https://github.com/digininja/CeWL/) - Spiders a URL to a specified depth and searches for words that can be used for password attacks. 
 - [CrackQ](https://github.com/f0cker/crackq) - A Python Hashcat cracking queue system.
 - [Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots.
 - [HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - _Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。_
+- [Hash-Buster](https://github.com/s0md3v/Hash-Buster) - Crack hashes in seconds.
 - [Mimikatz](https://github.com/gentilkiwi/mimikatz) - _A little tool to play with Windows security._
 - [MSOLSpray](https://github.com/dafthack/MSOLSpray) - A password spraying tool for Microsoft Online accounts (Azure/O365).
   - [TREVORspray](https://github.com/blacklanternsecurity/TREVORspray) - A featureful round-robin SOCKS proxy and Python O365 sprayer based on MSOLSpray which uses the Microsoft Graph API.
@@ -315,6 +317,7 @@ FTest, Lbd, Wafw00f
   - [Tutorial: How to use nmap nse scripts to find vulnerabilities](https://hackingpassion.com/how-to-use-nmap-nse-scripts-to-find-vulnerabilities)
 - [Nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use.
 - [Parth](https://github.com/s0md3v/Parth) - Heuristic Vulnerable Parameter Scanner.
+- [Silver](https://github.com/s0md3v/Silver) - Mass scan IPs for vulnerable services.
 - [Sn1per](https://github.com/1N3/Sn1per) - Automated pentest framework for offensive security experts.
 - [Striker](https://github.com/s0md3v/Striker) - Striker is an offensive information and vulnerability scanner.
 - [trivy](https://github.com/aquasecurity/trivy) - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI.
@@ -339,12 +342,13 @@ FTest, Lbd, Wafw00f
 - [Arjun](https://github.com/s0md3v/Arjun) - HTTP Parameter Discovery Suite.
 - [HandyHeaderHacker by kj0317](https://github.com/kj0317/HandyHeaderHacker) - Examine HTTP response headers for common security issues.
 - [HandyHeaderHacker by vpnguy-zz](https://github.com/vpnguy-zz/HandyHeaderHacker) - Examine HTTP response headers for common security issues.
-- [Kenzer](https://github.com/ARPSyndicate/kenzer) - _Automated web assets enumeration & scanning._
+- [Kenzer](https://github.com/ARPSyndicate/kenzer) - Automated web assets enumeration & scanning.
  ### CMS & Framwork Identification
-  - [CMS-Hunter](https://github.com/SecWiki/CMS-Hunter) - _Content Management System Vulnerability Hunter [www.sec-wiki.com](https://www.sec-wiki.com)._
+  - [CMS-Hunter](https://github.com/SecWiki/CMS-Hunter) - Content Management System Vulnerability Hunter [www.sec-wiki.com](https://www.sec-wiki.com).
   - [CMSeeK](https://github.com/Tuhinshubhra/CMSeeK) -  CMS Detection and Exploitation suite - Scan WordPress, Joomla, Drupal and over 180 other CMSs.
  ### Web Application Proxies
  ### Web Crawlers & Directory Brutefroce
+ - [Breacher](https://github.com/s0md3v/Breacher) - An advanced multithreaded admin panel finder written in python.
  ### Web Vulnerability Scanners
  - [AwesomeXSS](https://github.com/s0md3v/AwesomeXSS) - Awesome XSS stuff.
  - [Bolt](https://github.com/s0md3v/Bolt) - CSRF Scanner.
