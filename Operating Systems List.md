@@ -41,6 +41,7 @@
 - [Debian](https://www.debian.org)
 - [Fedora Workstation](https://getfedora.org/en/workstation)
 - [Manjaro](https://manjaro.org)
+- [Serenity](https://github.com/SerenityOS/serenity) - _Graphical Unix-like operating system for x86 computers._
 - [Solus](https://getsol.us/home)
 - [Ubunt Desktop](https://ubuntu.com) - Cloud, servers, IoT, desktop.
 - [Qubes OS](https://www.qubes-os.org/downloads) - Best Linux OS Designed for Maximum Security
