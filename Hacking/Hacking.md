@@ -344,8 +344,10 @@ FTest, Lbd, Wafw00f
  - [XSStrike](https://github.com/s0md3v/XSStrike) - _Most advanced XSS scanner._
 
 ## Wireless Attacks
-- [Deauther](https://github.com/dom96/deauther) - CLI Deauther for macOS.
+- [Deauther](https://github.com/dom96/deauther) - CLI Deauther for macOS. Might need a library which comes by installing [termbox](https://github.com/nsf/termbox).
+- [Esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther) - _Affordable WiFi hacking platform for testing and learning._
 - [PRISM-AP](https://github.com/1N3/PRISM-AP) - An automated Wireless RogueAP MITM attack framework. 
 - [Wi-PWN](https://github.com/samdenty/Wi-PWN) - ESP8266 Deauther with a material design WebUI.
 - [Wifresti](https://github.com/LionSec/wifresti) - _Find your wireless network password in Windows , Linux and Mac OS._
+- [WiFiDuck](https://github.com/SpacehuhnTech/WiFiDuck) - _Wireless keystroke injection attack platform._
 
