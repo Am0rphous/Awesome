@@ -351,12 +351,14 @@ FTest, Lbd, Wafw00f
  ### Web Application Proxies
  ### Web Crawlers & Directory Brutefroce
  - [Breacher](https://github.com/s0md3v/Breacher) - An advanced multithreaded admin panel finder written in python.
+ - [DNSBrute](https://github.com/XiphosResearch/dnsbrute) - DNS Sub-domain brute forcer, in Python + gevent.
  ### Web Vulnerability Scanners
  - [AwesomeXSS](https://github.com/s0md3v/AwesomeXSS) - Awesome XSS stuff.
  - [Bolt](https://github.com/s0md3v/Bolt) - CSRF Scanner.
  - [Corsy](https://github.com/s0md3v/Corsy) - CORS Misconfiguration Scanner.
  - [Inception](https://github.com/proabiral/inception) - _A highly configurable Framework for easy automated web scanning._
  - [LinkFinder](https://github.com/GerbenJavado/LinkFinder) - A python script that finds endpoints in JavaScript files.
+ - [Phuzz](https://github.com/XiphosResearch/phuzz) - Find exploitable PHP files by parameter fuzzing and function call tracing.
  - [wp_hunter](https://github.com/Josue87/wp_hunter) - Static analysis of wordpress plugins.
  - [XSStrike](https://github.com/s0md3v/XSStrike) - _Most advanced XSS scanner._
 
