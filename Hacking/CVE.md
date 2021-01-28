@@ -41,14 +41,19 @@ https://github.com/Al1ex?tab=repositories&q=cve&type=&language=
 - [CVE-2019-12086](https://github.com/Al1ex/CVE-2019-12086)
 - [CVE-2020-0796](https://github.com/ZecOps/CVE-2020-0796-LPE-POC) - CVE-2020-0796 Local Privilege Escalation POC.
 - [CVE-2019-0708](https://github.com/Ekultek/BlueKeep)
+- [CVE-2019-0604](https://github.com/Voulnet/desharialize)
 - [CVE-2019-0230](https://github.com/Al1ex/CVE-2019-0230)
 
 #### 2018
 - [CVE-2018-1297](https://github.com/Al1ex/CVE-2018-1297) - EXP for CVE-2018-1297.
 - [CVE-2018-6389](https://github.com/s0md3v/Shiva) - Improved DOS exploit for wordpress websites.
+
 #### 2017
 - [CVE-2017-17485](https://github.com/Al1ex/CVE-2017-17485)
-- [CVE-2017-7529]() - Nginx versions since 0.5.6 up to and including 1.13.2 are vulnerable to integer overflow vulnerability in nginx range filter module resulting into leak of potentially sensitive information triggered by specially crafted request.
+- [CVE-2017-8759](https://github.com/Voulnet/CVE-2017-8759-Exploit-sample) - [FireEye Uncovers CVE-2017-8759](https://www.fireeye.com/blog/threat-research/2017/09/zero-day-used-to-distribute-finspy.html)
+- CVE-2017-7529] - Nginx versions since 0.5.6 up to and including 1.13.2 are vulnerable to integer overflow vulnerability in nginx range filter module resulting into leak of potentially sensitive information triggered by specially crafted request.
+  - [CVE-2017-7529 by Cyberk1w1](https://github.com/cyberk1w1/CVE-2017-7529/blob/master/main.py)
+  - [CVE-2017-7529 by Liusec](https://github.com/liusec/CVE-2017-7529)
 - [CVE-2017-10271](https://github.com/Al1ex/CVE-2017-10271)
 - [CVE-2017-3506](https://github.com/Al1ex/CVE-2017-3506)
 
