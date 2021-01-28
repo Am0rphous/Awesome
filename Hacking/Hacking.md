@@ -234,6 +234,7 @@ FTest, Lbd, Wafw00f
 - [O365-attack-toolkit](https://github.com/mdsecactivebreach/o365-attack-toolkit) - _o365-attack-toolkit allows operators to perform an OAuth phishing attack and later on use the Microsoft Graph API to extract interesting information._
 - [OutlookParasite](https://github.com/vivami/OutlookParasite) - _Outlook persistence using VSTO add-ins._
 - [SharpClipHistory](https://github.com/FSecureLABS/SharpClipHistory) - _SharpClipHistory is a .NET application written in C# that can be used to read the contents of a user's clipboard history in Windows 10 starting from the 1809 Build._
+- [SharpRDPCheck](https://github.com/3gstudent/SharpRDPCheck) - Use to check the valid account of the Remote Desktop Protocol(Support plaintext and ntlmhash).
 
 ## Password, cracking and Brute Force related tools
 - [CeWL](https://github.com/digininja/CeWL/) - Spiders a URL to a specified depth and searches for words that can be used for password attacks. 
@@ -241,6 +242,7 @@ FTest, Lbd, Wafw00f
 - [Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots.
 - [HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - _Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。_
 - [Hash-Buster](https://github.com/s0md3v/Hash-Buster) - Crack hashes in seconds.
+- [Hook-PasswordChangeNotify](https://github.com/3gstudent/Hook-PasswordChangeNotify) - Stealing passwords every time they change.
 - [Mimikatz](https://github.com/gentilkiwi/mimikatz) - _A little tool to play with Windows security._
 - [MSOLSpray](https://github.com/dafthack/MSOLSpray) - A password spraying tool for Microsoft Online accounts (Azure/O365).
   - [TREVORspray](https://github.com/blacklanternsecurity/TREVORspray) - A featureful round-robin SOCKS proxy and Python O365 sprayer based on MSOLSpray which uses the Microsoft Graph API.
@@ -307,6 +309,7 @@ FTest, Lbd, Wafw00f
 - [MITRE ATT&CK®](https://attack.mitre.org) - Globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. Git: https://github.com/mitre-attack
   - [Ruped24's killchain](https://github.com/ruped24/killchain) - A unified console to perform the "kill chain" stages of attacks.
 - [Offsec_pdfs](https://github.com/jivoi/offsec_pdfs)
+- [Pentest-and-Development-Tips](https://github.com/3gstudent/Pentest-and-Development-Tips) - A collection of pentest and development tips.
 - [Pentest-tools by Al1ex](https://github.com/Al1ex/Pentest-tools) - _Intranet penetration tools._
 - [ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) - A Threat hunter's playbook to aid the development of techniques and hypothesis for hunting campaigns.
 
