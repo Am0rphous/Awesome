@@ -15,6 +15,7 @@ https://github.com/bats3c
 https://gitee.com/explore/security-dev
 https://search.gitee.com/?skin=rec&type=repository&q=exploit&repo=&reponame=
 https://gitee.com/android_ios_test/kernel-exploits/tree/master/CVE-2016-2384
+https://github.com/theevilbit/macos
 
 ````
 
@@ -248,7 +249,8 @@ FTest, Lbd, Wafw00f
 - [SharpRDPCheck](https://github.com/3gstudent/SharpRDPCheck) - Use to check the valid account of the Remote Desktop Protocol(Support plaintext and ntlmhash).
 
 ## Password, cracking and Brute Force related tools
-- [CeWL](https://github.com/digininja/CeWL/) - Spiders a URL to a specified depth and searches for words that can be used for password attacks. 
+- [CeWL](https://github.com/digininja/CeWL/) - Spiders a URL to a specified depth and searches for words that can be used for password attacks.
+- [Cisco Type 7 Password Decrypter](https://github.com/theevilbit/ciscot7)
 - [CrackQ](https://github.com/f0cker/crackq) - A Python Hashcat cracking queue system.
 - [Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots.
 - [HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - _Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。_
