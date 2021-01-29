@@ -230,10 +230,10 @@ FTest, Lbd, Wafw00f
 - [Obfuscation-stuff](https://github.com/alphaSeclab/obfuscation-stuff) - Source Code Obfuscation And Binary Obfuscation, Multiple Languages And Multiple Platforms. Including 250+ Tools and 600+ Posts.
 
 ## Office and Windows Specific Tools
-- [Carnivore](https://github.com/ReverendThing/Carnivore) - _Microsoft External Attack Tool._
-- [O365-attack-toolkit](https://github.com/mdsecactivebreach/o365-attack-toolkit) - _o365-attack-toolkit allows operators to perform an OAuth phishing attack and later on use the Microsoft Graph API to extract interesting information._
-- [OutlookParasite](https://github.com/vivami/OutlookParasite) - _Outlook persistence using VSTO add-ins._
-- [SharpClipHistory](https://github.com/FSecureLABS/SharpClipHistory) - _SharpClipHistory is a .NET application written in C# that can be used to read the contents of a user's clipboard history in Windows 10 starting from the 1809 Build._
+- [Carnivore](https://github.com/ReverendThing/Carnivore) - Microsoft External Attack Tool.
+- [O365-attack-toolkit](https://github.com/mdsecactivebreach/o365-attack-toolkit) - o365-attack-toolkit allows operators to perform an OAuth phishing attack and later on use the Microsoft Graph API to extract interesting information.
+- [OutlookParasite](https://github.com/vivami/OutlookParasite) - Outlook persistence using VSTO add-ins.
+- [SharpClipHistory](https://github.com/FSecureLABS/SharpClipHistory) - SharpClipHistory is a .NET application written in C# that can be used to read the contents of a user's clipboard history in Windows 10 starting from the 1809 Build.
 - [SharpRDPCheck](https://github.com/3gstudent/SharpRDPCheck) - Use to check the valid account of the Remote Desktop Protocol(Support plaintext and ntlmhash).
 
 ## Password, cracking and Brute Force related tools
