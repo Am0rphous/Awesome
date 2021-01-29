@@ -48,8 +48,7 @@
 
  ### Most beautiful Linux Desktop Distributions 2020 (in alphabetic order)
   - [Deepin](https://www.deepin.org/en/) - based on Debian, features DDE, the Deepin Desktop Environment, built on Qt.
-    - Be aware: There is conserns about analytics collected by Deepin which are sent to the Chinese government.
-    - [Article: Deepin Linux: Security Threat or Safe to Use?](https://linuxinsider.com/story/deepin-linux-security-threat-or-safe-to-use-86044.html)
+    - Be aware - There is conserns about analytics collected by Deepin which are sent to the Chinese government [Deepin Linux: Security Threat or Safe to Use?](https://linuxinsider.com/story/deepin-linux-security-threat-or-safe-to-use-86044.html).
  - [Elementary OS](https://elementary.io/) - Good alternative for Windows and Mac.
  - [feren OS](https://ferenos.weebly.com)
  - [eXtern OS](https://externos.io)
