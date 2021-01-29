@@ -47,6 +47,8 @@
   - [Web Analytics](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#web-analytics)
 
 ````
+https://itsfoss.com/cryptpad/
+https://github.com/xwiki-labs/cryptpad
 https://www.freedesktop.org/wiki/Software/
 https://www.freedesktop.org/wiki/Software/wmctrl/
 https://openvz.org/
