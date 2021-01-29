@@ -38,6 +38,7 @@ https://github.com/Al1ex?tab=repositories&q=cve&type=&language=
 - [CVE-2020-1350](https://github.com/Al1ex/CVE-2020-1350) - Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019.
 
 #### 2019
+- [CVE-2019-20057](https://github.com/theevilbit/exploits/tree/master/CVE-2019-20057/PMCocoa)
 - [CVE-2019-12814](https://github.com/Al1ex/CVE-2019-12814) - CVE-2019-12814:Jackson JDOM XSLTransformer Gadget.
 - [CVE-2019-12086](https://github.com/Al1ex/CVE-2019-12086)
 - [CVE-2019-9730](https://github.com/jthuraisamy/CVE-2019-9730) - Synaptics Audio Driver LPE.
