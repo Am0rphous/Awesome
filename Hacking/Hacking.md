@@ -99,6 +99,8 @@ https://github.com/tennc
   - [ShellStack](https://github.com/Tuhinshubhra/shellstack) -  A PHP Based Tool That Helps You To Manage All Your Backdoored Websites Efficiently.
   - [TomcatWarDeployer](https://github.com/mgeeky/tomcatWarDeployer) - Penetration testing tool intended to leverage Apache Tomcat credentials in order to automatically generate and deploy JSP Backdoor.
   - [WebShell](https://github.com/tennc/webshell)
+  ### Evasion
+  - [SysWhispers](https://github.com/jthuraisamy/SysWhispers) - AV/EDR evasion via direct system calls.
   ### DLL
   - [Koppeling](https://github.com/monoxgas/Koppeling) - Adaptive DLL hijacking / dynamic export forwarding.
   - [Printjacker](https://github.com/RedSection/printjacker) - Hijack Printconfig.dll to execute shellcode.
