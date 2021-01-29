@@ -260,6 +260,7 @@ FTest, Lbd, Wafw00f
 
 
 ## Phishing
+- [Hunter.io](https://hunter.io)
 - [MaskPhish](https://github.com/jaykali/maskphish) - Give a Mask to Phishing URL like a PRO.. A MUST have tool for Phishing.
 - [Muraena](https://github.com/muraenateam/muraena) - Muraena is an almost-transparent reverse proxy aimed at automating phishing and post-phishing activities.
 - [smsisher](https://github.com/XiphosResearch/smsisher) - SMS Phishing Tools.
@@ -377,4 +378,4 @@ FTest, Lbd, Wafw00f
 - [Wi-PWN](https://github.com/samdenty/Wi-PWN) - ESP8266 Deauther with a material design WebUI.
 - [Wifresti](https://github.com/LionSec/wifresti) - _Find your wireless network password in Windows , Linux and Mac OS._
 - [WiFiDuck](https://github.com/SpacehuhnTech/WiFiDuck) - _Wireless keystroke injection attack platform._
-
+- [Wigle.net](https://www.wigle.net) - Maps and database of 802.11 wireless networks, with statistics, submitted by wardrivers, netstumblers, and net huggers.
