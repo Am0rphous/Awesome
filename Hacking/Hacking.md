@@ -79,6 +79,8 @@ https://gitee.com/android_ios_test/kernel-exploits/tree/master/CVE-2016-2384
   - [CobaltStrike Training](https://www.cobaltstrike.com/training)
   - [Resources About Cobalt Strike](https://github.com/alphaSeclab/cobalt-strike) - Resources About Cobalt Strike. 100+ Tools And 200+ Posts.
   - [Rvrsh3ll'a BOF_Collection](https://github.com/rvrsh3ll/BOF_Collection) - Various Cobalt Strike BOFs.
+- [Exploit_generator](https://github.com/theevilbit/exploit_generator) - Automated Exploit generation with WinDBG.
+  - [White Paper - Exploit generation automation with WinDBG.docx](https://github.com/theevilbit/exploit_generator/blob/master/White%20Paper%20-%20Exploit%20generation%20automation%20with%20WinDBG.docx)
 - [Fwexpl (old)](https://github.com/Cr4sh/fwexpl) - PC firmware exploitation tool and library.
 - [iBombShell](https://github.com/ElevenPaths/ibombshell) - Tool to deploy a post-exploitation prompt at any time
 - [Koadic](https://github.com/zerosum0x0/koadic) - Koadic C3 COM Command & Control - JScript RAT.
