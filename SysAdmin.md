@@ -136,6 +136,7 @@ bro / zeek
 
 ## Communication / Collaboration
 - [Convos](https://convos.chat)
+- [CryptPad](https://github.com/xwiki-labs/cryptpad) - Collaboration suite, encrypted and open-source.
 - [Darkwire.io] - _End-to-end encrypted instant web chat [darkwire.io](https://darkwire.io)._
 - [HexChat](https://github.com/hexchat/hexchat) - IRC client for Windows and UNIX-like operating systems [hexchat.github.io](https://hexchat.github.io)
 - [Jitsi Meet](https://github.com/jitsi/jitsi-meet) - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
@@ -300,6 +301,7 @@ upstream_recursive_servers:
     - [WireGuard](https://github.com/WireGuard) - WireGuard® is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. [Wireguard.com](https://www.wireguard.com/)
       - [Wireguard-macOS-LinuxVM](https://github.com/mrash/Wireguard-macOS-LinuxVM) -  Send all traffic from macOS through Wireguard running on a Linux VM.
     - [Tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. [Tailscale.com](https://www.tailscale.com)
+    - [Openconnect VPN Server](https://ocserv.gitlab.io/www/index.html) - Openconnect server (ocserv) is an SSL VPN server for administrators who require elaborate user management and control.
     - [OpenVPN](https://github.com/OpenVPN)
       - [Autovpn2](https://github.com/ruped24/autovpn2) - OpenVPN VPN Gate Client for Linux, connects you to a random Free VPN in a country of your choice by country code.
   ### Storage
