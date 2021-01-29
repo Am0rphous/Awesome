@@ -49,6 +49,7 @@
 - [KDE Neon](https://neon.kde.org)
 - [KDE Plasma](https://kde.org)
 - [Manjaro](https://manjaro.org)
+- [MX Linux](https://mxlinux.org) - Midweight Simple Stable Desktop OS.
 - [Nitrux OS](https://nxos.org)
 - [Pop!_OS](https://pop.system76.com)
 - [Rocky Linux](https://rockylinux.org) - An open enterprise operating system.
