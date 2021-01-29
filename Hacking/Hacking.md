@@ -101,6 +101,7 @@ https://github.com/tennc
   - [WebShell](https://github.com/tennc/webshell)
   ### Evasion
   - [SysWhispers](https://github.com/jthuraisamy/SysWhispers) - AV/EDR evasion via direct system calls.
+  - [TelemetrySourcerer](https://github.com/jthuraisamy/TelemetrySourcerer) - Enumerate and disable common sources of telemetry used by AV/EDR.
   ### DLL
   - [Koppeling](https://github.com/monoxgas/Koppeling) - Adaptive DLL hijacking / dynamic export forwarding.
   - [Printjacker](https://github.com/RedSection/printjacker) - Hijack Printconfig.dll to execute shellcode.
