@@ -96,11 +96,13 @@ https://github.com/tennc
   - [Icmpsh](https://github.com/inquisb/icmpsh) - Simple reverse ICMP shell.
   - [Nano](https://github.com/s0md3v/nano) - Nano is a family of PHP web shells which are code golfed for stealth.
   - [R57 Shell](https://r57shell.net)
+  - [ShellCodeFramework](https://github.com/mai1zhi2/ShellCodeFramework) - 绕3环的shellcode免杀框架.
   - [ShellStack](https://github.com/Tuhinshubhra/shellstack) -  A PHP Based Tool That Helps You To Manage All Your Backdoored Websites Efficiently.
   - [TomcatWarDeployer](https://github.com/mgeeky/tomcatWarDeployer) - Penetration testing tool intended to leverage Apache Tomcat credentials in order to automatically generate and deploy JSP Backdoor.
   - [WebShell](https://github.com/tennc/webshell)
   ### Evasion
   - [SysWhispers](https://github.com/jthuraisamy/SysWhispers) - AV/EDR evasion via direct system calls.
+    - [SysWhispers2_x86](https://github.com/mai1zhi2/SysWhispers2_x86) - X86 version of syswhispers2.
   - [TelemetrySourcerer](https://github.com/jthuraisamy/TelemetrySourcerer) - Enumerate and disable common sources of telemetry used by AV/EDR.
   ### DLL
   - [Koppeling](https://github.com/monoxgas/Koppeling) - Adaptive DLL hijacking / dynamic export forwarding.
