@@ -39,26 +39,24 @@
 ## Desktop OSes
 - [Asahi](https://asahilinux.org) - Asahi Linux aims to bring you a polished Linux experience on Apple Silicon Macs.
 - [Debian](https://www.debian.org)
+- [Deepin](https://www.deepin.org/en/) - based on Debian, features DDE, the Deepin Desktop Environment, built on Qt.
+  - Be aware - There is conserns about analytics collected by Deepin which are sent to the Chinese government [Deepin Linux: Security Threat or Safe to Use?](https://linuxinsider.com/story/deepin-linux-security-threat-or-safe-to-use-86044.html).
+- [Elementary OS](https://elementary.io) - Good alternative for Windows and Mac.
+- [eXtern OS](https://externos.io)
 - [Fedora Workstation](https://getfedora.org/en/workstation)
+- [Feren OS](https://ferenos.weebly.com)
+- [Garuda Linux](https://garudalinux.org)
+- [KDE Neon](https://neon.kde.org)
+- [KDE Plasma](https://kde.org)
 - [Manjaro](https://manjaro.org)
+- [Nitrux OS](https://nxos.org)
+- [Pop!_OS](https://pop.system76.com)
+- [Rocky Linux](https://rockylinux.org) - An open enterprise operating system.
 - [Serenity](https://github.com/SerenityOS/serenity) - _Graphical Unix-like operating system for x86 computers._
 - [Solus](https://getsol.us/home)
 - [Ubunt Desktop](https://ubuntu.com) - Cloud, servers, IoT, desktop.
 - [Qubes OS](https://www.qubes-os.org/downloads) - Best Linux OS Designed for Maximum Security
-
- ### Most beautiful Linux Desktop Distributions 2020 (in alphabetic order)
-  - [Deepin](https://www.deepin.org/en/) - based on Debian, features DDE, the Deepin Desktop Environment, built on Qt.
-    - Be aware - There is conserns about analytics collected by Deepin which are sent to the Chinese government [Deepin Linux: Security Threat or Safe to Use?](https://linuxinsider.com/story/deepin-linux-security-threat-or-safe-to-use-86044.html).
- - [Elementary OS](https://elementary.io/) - Good alternative for Windows and Mac.
- - [feren OS](https://ferenos.weebly.com)
- - [eXtern OS](https://externos.io)
- - [KDE Neon](https://neon.kde.org)
- - [KDE Plasma](https://kde.org)
- - [Manjaro](https://manjaro.org)
- - [Nitrux OS](https://nxos.org)
- - [Pop!_OS](https://pop.system76.com)
- - [Solus OS](https://getsol.us/home)
- - [Zorin OS](https://zorinos.com)
+- [Zorin OS](https://zorinos.com) 
  
  ### Privacy focused Desktops
  - [Tailes](https://tails.boum.org) - Portable operating system that protects against surveillance and censorship
@@ -105,7 +103,7 @@
 - [Debian](https://www.debian.org)
 - [Fedora Server](https://getfedora.org/en/server)
 - [Rockstor](http://rockstor.com) - Personal Cloud Server, SMB Cloud Server, Traditional NAS server. [Download Rocktor](https://sourceforge.net/projects/rockstor/files/)
-- [Rocky Linux](https://rockylinux.org) - [github](https://github.com/rocky-linux/rocky) _Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS [rockylinux.org](https://rockylinux.org)._
+- [Rocky Linux](https://rockylinux.org) - [github](https://github.com/rocky-linux/rocky) Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS [rockylinux.org](https://rockylinux.org).
 - [ScientificLinux](https://scientificlinux.org) - Enterprise Linux rebuild sponsored by Fermi National Accelerator Laboratory.
 - [Ubunt Server](https://ubuntu.com) - Cloud, servers, IoT, desktop.
   ### NAS
