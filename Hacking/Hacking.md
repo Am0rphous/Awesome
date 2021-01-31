@@ -16,6 +16,7 @@ https://gitee.com/explore/security-dev
 https://search.gitee.com/?skin=rec&type=repository&q=exploit&repo=&reponame=
 https://gitee.com/android_ios_test/kernel-exploits/tree/master/CVE-2016-2384
 https://github.com/theevilbit/macos
+https://github.com/clong/DetectionLab
 
 ````
 
@@ -299,7 +300,8 @@ FTest, Lbd, Wafw00f
 - [Lengjibo's RedTeamTools](https://github.com/lengjibo/RedTeamTools)
 - [pentest-tools.com](https://pentest-tools.com)
 - [PowerExfil](https://github.com/1N3/PowerExfil) - _A collection of data exfiltration scripts for Red Team assessments._
-- [RedELK](https://github.com/outflanknl/RedELK) - _Red Team's SIEM - tool for Red Teams used for tracking and alarming about Blue Team activities as well as better usability in long term operations._
+- [RedELK](https://github.com/outflanknl/RedELK) - Red Team's SIEM - tool for Red Teams used for tracking and alarming about Blue Team activities as well as better usability in long term operations.
+- [RedTeam-Tactics-and-Techniques](https://github.com/mantvydasb/RedTeam-Tactics-and-Techniques) - Red Teaming Tactics and Techniques.
 - [Vincent Yiu's blog - vincentyiu.com](https://vincentyiu.com) - Red Team blog.
 - [WSB-Detect](https://github.com/LloydLabs/wsb-detect) - _Enables you to detect if you are running in Windows Sandbox ("WSB")._
 
