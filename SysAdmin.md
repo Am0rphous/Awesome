@@ -1,6 +1,6 @@
 # System Administrator Tools
 
-- [Ad-block](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#ad-block)
+- [Ad-block and Spam](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#ad-block-and-spam)
   - [Blocklists](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#blocklists)
 - [Anti-Virus / malware and rootkit detectio](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#anti-virus--malware-and-rootkit-detection)
   - [Analysis Tools Selfhosted](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#analysis-tools-selfhosted)
