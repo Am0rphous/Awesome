@@ -28,6 +28,7 @@
   - [Remoting](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#remoting)
     - [VPN - Virtual Private Network](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#vpn---virtual-private-network)
   - [Storage](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#storage)
+    - [Online Storage Services](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#online-storage-services)
 - [Package Managers](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#package-managers)
 - [Security](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#security)
   - [Sandboxing tools](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#sandboxing-tools)
