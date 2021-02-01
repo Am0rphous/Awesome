@@ -97,6 +97,7 @@ https://github.com/clong/DetectionLab
   ### Backdoor and Shell creation
   - [Arcane](https://github.com/tokyoneon/Arcane) - Arcane is a simple script designed to backdoor iOS packages (iphone-arm) and create the necessary resources for APT repositories.
   - [Backdoorplz](https://github.com/jfmaes/Backdoorplz) - Adding a backdooruser using win32api.
+  - [C2](https://github.com/0xRick/c2) - A basic c2 / agent [0xrick.github.io/misc/c2](https://0xrick.github.io/misc/c2).
   - [C99 Shell](http://www.topshellv.com/shell/c99-shell)
   - [C100](http://www.c99php.com/tag/c100-shell)
   - [Chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP.
