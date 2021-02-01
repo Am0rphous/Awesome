@@ -62,10 +62,14 @@ https://github.com/clong/DetectionLab
 
 ## Bug Bounty
 - [EdOverflow's bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet) - A list of interesting payloads, tips and tricks for bug bounty hunters.
+
 ## CTF tools
+- [CTF-scripts by 0xRick](https://github.com/0xRick/CTF-scripts) - Hack The Box
 - [Docker-War](https://github.com/qazbnm456/Docker-War) - Docker based Wargame Platform - To practice your CTF skills.
 - [Fbctf](https://github.com/facebookarchive/fbctf) - Platform to host Capture the Flag competitions.
 - [VWGen](https://github.com/qazbnm456/VWGen) - Vulnerable Web applications Generator.
+  ### CTF challenges
+  - [Hack The Box](https://www.hackthebox.eu)
 
 ## Exploitation Tools
 - [Armitage](https://github.com/rsmudge/armitage) - graphical cyber attack management tool for Metasploit that visualizes your targets, recommends exploits, and exposes the advanced capabilities of the framework. [Homepage](http://www.fastandeasyhacking.com)
