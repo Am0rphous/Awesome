@@ -313,14 +313,16 @@ upstream_recursive_servers:
   - [PetaSAN](http://www.petasan.org) - _Open source Scale-Out SAN solution offering massive scalability and performance._
   - [Rockstor](http://rockstor.com) - BTRFS based NAS and private cloud storage solution. [Download Rockstor](https://sourceforge.net/projects/rockstor/files).
   - [XigmaNAS](https://www.xigmanas.com) - Open Source Storage NAS (Network-Attached Storage) distribution based on FreeBSD. [Download XimagaNAS](https://sourceforge.net/projects/xigmanas/files/)
-    ### URL Shorteners
-  - [Polr](https://github.com/cydrobolt/polr) - _🚡 A modern, powerful, and robust URL shortener [polrproject.org](https://polrproject.org)._
-  - [SLink](https://shlink.io) - _Keep control over all your shortened URLs, by serving them under your own domains, using this simple yet powerful tool._
+  #### Online Storage Services
+  - [DropBox](https://www.dropbox.com) - From 2 GB to ~16 GB depending of different opportunities.
+  - [Google Drive](https://drive.google.com) - 15 GB.
+  - [MEGASync](https://mega.io/sync) - 50 GB free, but after 6 months this will be reduced to 15 GB.
+  - [OneDrive](https://www.microsoft.com/nb-no/microsoft-365/onedrive/online-cloud-storage) - By Microsoft with 5GB free online storage.
 
 ## Package Managers
 - [Brew / HomeBrew](https://brew.sh/) - Package Manager for Linux and MacOS.
   - [Brew Documentation](https://docs.brew.sh)
-  - [Homebrew-cask](https://github.com/Homebrew/homebrew-cask) - _A CLI workflow for the administration of macOS applications distributed as binaries._
+  - [Homebrew-cask](https://github.com/Homebrew/homebrew-cask) - A CLI workflow for the administration of macOS applications distributed as binaries.
   - [Homebrew Services](https://github.com/Homebrew/homebrew-services) - Manage background services with macOS' launchctl daemon manager.
 
    Quick install:
@@ -480,6 +482,9 @@ upstream_recursive_servers:
     - [Qemu Docs](https://www.qemu.org/docs/master)
     - [Qira](https://github.com/geohot/qira) - _QEMU Interactive Runtime Analyser._
  
+## URL Shorteners
+- [Polr](https://github.com/cydrobolt/polr) - 🚡 A modern, powerful, and robust URL shortener [polrproject.org](https://polrproject.org).
+- [SLink](https://shlink.io) - Keep control over all your shortened URLs, by serving them under your own domains, using this simple yet powerful tool.
 
 ## Web and Proxy Tools
 - [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) - A curated list of Web Security materials and resources.
