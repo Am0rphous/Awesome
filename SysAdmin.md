@@ -142,6 +142,10 @@ bro / zeek
 - [HexChat](https://github.com/hexchat/hexchat) - IRC client for Windows and UNIX-like operating systems [hexchat.github.io](https://hexchat.github.io)
 - [Jitsi Meet](https://github.com/jitsi/jitsi-meet) - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [Kiwi IRC](https://kiwiirc.com)
+- [Mattermost](https://mattermost.com)
+  - [Mattermost Desktop Client](https://github.com/mattermost/desktop)
+  - [Mattermost CLI](https://github.com/mattermost/mmctl)
+  - [Mattermost Server](https://github.com/mattermost/mattermost-server)
 - [Neochat](https://github.com/KDE/neochat) - A client for matrix, the decentralized communication protoco.
 - [Oragono](https://github.com/oragono/oragono) - A modern IRC server (daemon/ircd) written in Go.
 - [PrivateBin](https://framabin.org/p) - minimalist, open source online pastebin.
