@@ -145,6 +145,7 @@ bro / zeek
 - [Mattermost](https://mattermost.com)
   - [Mattermost Desktop Client](https://github.com/mattermost/desktop)
   - [Mattermost CLI](https://github.com/mattermost/mmctl)
+  - [Mattermost Plugin Jitsi](https://github.com/mattermost/mattermost-plugin-jitsi) - Jitsi plugin for Mattermost 🔌
   - [Mattermost Server](https://github.com/mattermost/mattermost-server)
 - [Neochat](https://github.com/KDE/neochat) - A client for matrix, the decentralized communication protoco.
 - [Oragono](https://github.com/oragono/oragono) - A modern IRC server (daemon/ircd) written in Go.
