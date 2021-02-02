@@ -221,24 +221,27 @@ FTest, Lbd, Wafw00f
 
  ### Network Tools
  - [ARP-scan](https://github.com/royhills/arp-scan) - Scanning hosts on a network with the ARP protocol.
- - [BruteShark](https://github.com/odedshimon/BruteShark) - Network Analysis Tool.
-- [Espionage](https://github.com/josh0xA/Espionage) - A Network Packet and Traffic Interceptor For Linux. Spoof ARP & Wiretap A Network. 
-- [Impacket](https://github.com/SecureAuthCorp/impacket)- [secureauth.com/labs/impacket](https://www.secureauth.com/labs/impacket)
-- [MiscTools](https://github.com/rasta-mouse/MiscTools) - Command Exec / Lateral movement via PsExec-like functionality.
-- [NAT Slipstreaming](https://github.com/samyk/slipstream) - NAT Slipstreaming allows an attacker to remotely access any TCP/UDP services bound to a victim machine, bypassing the victim’s NAT/firewall, just by the victim visiting a website.
-- [Natty-lipstream](https://github.com/wunderwuzzi23/natty-slipstream) - Simplified NAT Slipstream server and client.
-- [nc.exe](https://github.com/int0x33/nc.exe) - Netcat for windows 32/64 bit.
-- [Nc-network-sniffer](https://github.com/Nicoretti/nc-network-sniffer) - A simple network sniffer for linux.
-- [NetblockTool](https://github.com/NetSPI/NetblockTool) - Find netblocks owned by a company.
-- [ReconFTW](https://github.com/six2dez/reconftw) - Simple script for full recon.
-- [rsocks](https://github.com/brimstone/rsocks) - Tiny little reverse socks5 client & server (unencrypted).
-- [ShodanHat](https://github.com/HatBashBR/ShodanHat) - Search for hosts info with shodan.
-- [Sslh](https://github.com/brimstone/sslh) - Listener that determines SSL, HTTP, SSH, or other connections on the same port.
-- [TCPDump](https://github.com/the-tcpdump-group/tcpdump) - The TCPdump network dissector [www.tcpdump.org](https://www.tcpdump.org).
-- [Tunneller](https://github.com/skx/tunneller) - Allow internal services, running on localhost, to be accessed over the internet.
-- [WhatWaf?](https://github.com/Ekultek/WhatWaf) - Detect and bypass web application firewalls and protection systems.
+ - [Impacket](https://github.com/SecureAuthCorp/impacket)- [secureauth.com/labs/impacket](https://www.secureauth.com/labs/impacket)
+ - [MiscTools](https://github.com/rasta-mouse/MiscTools) - Command Exec / Lateral movement via PsExec-like functionality.
+ - [NAT Slipstreaming](https://github.com/samyk/slipstream) - NAT Slipstreaming allows an attacker to remotely access any TCP/UDP services bound to a victim machine, bypassing the victim’s NAT/firewall, just by the victim visiting a website.
+ - [Natty-lipstream](https://github.com/wunderwuzzi23/natty-slipstream) - Simplified NAT Slipstream server and client.
+ - [nc.exe](https://github.com/int0x33/nc.exe) - Netcat for windows 32/64 bit.
+ - [NetblockTool](https://github.com/NetSPI/NetblockTool) - Find netblocks owned by a company.
+ - [ReconFTW](https://github.com/six2dez/reconftw) - Simple script for full recon.
+ - [rsocks](https://github.com/brimstone/rsocks) - Tiny little reverse socks5 client & server (unencrypted).
+ - [ShodanHat](https://github.com/HatBashBR/ShodanHat) - Search for hosts info with shodan.
+ - [Tunneller](https://github.com/skx/tunneller) - Allow internal services, running on localhost, to be accessed over the internet.
+ - [WhatWaf?](https://github.com/Ekultek/WhatWaf) - Detect and bypass web application firewalls and protection systems.
   #### Lateral Movement
   - [Living Off The Land Binaries and Scripts (and also Libraries)](https://lolbas-project.github.io)
+  #### Sniffers
+  - [Awesome PCAPTools](https://github.com/caesar0301/awesome-pcaptools) - A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.
+  - [BruteShark](https://github.com/odedshimon/BruteShark) - Network Analysis Tool.
+  - [Espionage](https://github.com/josh0xA/Espionage) - A Network Packet and Traffic Interceptor For Linux. Spoof ARP & Wiretap A Network.
+  - [HTTP-sniffer](https://github.com/caesar0301/http-sniffer) - A multi-threading tool to sniff TCP flow statistics and embedded HTTP headers from PCAP file. Each TCP flow carrying HTTP is exported to text file in json format.
+  - [Nc-network-sniffer](https://github.com/Nicoretti/nc-network-sniffer) - A simple network sniffer for linux.
+  - [Sslh](https://github.com/brimstone/sslh) - Listener that determines SSL, HTTP, SSH, or other connections on the same port.
+  - [TCPDump](https://github.com/the-tcpdump-group/tcpdump) - The TCPdump network dissector [www.tcpdump.org](https://www.tcpdump.org).
 
 ## MiTM Tools
 - [Xerosploit](https://github.com/LionSec/xerosploit) - Efficient and advanced man in the middle framework.
