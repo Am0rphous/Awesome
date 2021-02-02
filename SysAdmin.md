@@ -87,6 +87,16 @@ bro / zeek
 - [Chkrootkit](http://www.chkrootkit.org) - locally checks for signs of a rootkits.
 - [ClamAV](https://www.clamav.net) - ClamAV® is an open source antivirus engine for detecting trojans, viruses, malware & other malicious threats.
   - [ClamAV Documentation](https://github.com/Cisco-Talos/clamav-faq)
+  ````
+  service clamav-freshclam stop
+  freshclam                             #updates signatures
+  service clamav-freshclam restart      #restart the service after
+  clamscan --version                    #shows the version and date of signatures
+  /var/log/clamav/freshclam.log         #logfile
+  sigtool --info /var/lib/clamav/daily.cld
+  clamscan -r --bell -i /                      # display infected files and ring a bell when found
+  clamscan -r -i / &                           #run it as background. Run `jobs` to list it
+  ````
   - [SquidClamav](https://github.com/darold/squidclamav) - SquidClamAv is a dedicated ClamAV antivirus redirector for Squid. It can run antivirus checks based on filename regex, content-type regex, and more. It is easy to install and works even with heavy Squid access.
 - [HerdProtect](https://www.herdprotect.com/index.aspx) - Second line of defense malware scanning platform powered by 68 anti-malware engines in the cloud.
 - [Phishdetect-node](https://github.com/phishdetect/phishdetect-node) - Server component of PhishDetect.
