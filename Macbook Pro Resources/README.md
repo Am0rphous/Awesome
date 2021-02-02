@@ -17,11 +17,12 @@
 - [MacHack](https://github.com/kendfinger/MacHack) - Hidden Tools in macOS.
 - [MacOS Fortress](https://github.com/essandess/macOS-Fortress) - Firewall and Privatizing Proxy for Trackers, Attackers, Malware, Adware, and Spammers with Anti-Virus On-Demand and On-Access Scanning (PF, squid, privoxy, hphosts, dshield, emergingthreats, hostsfile, PAC file, clamav).
 - [Shield](https://github.com/theevilbit/Shield) - An app to protect against process injection on macOS.
+- [WineBottler](https://winebottler.kronenberg.org/) - Run .exe files on Macbook using Wine.
   ### Development
   - [Node-appDMG](https://github.com/LinusU/node-appdmg) - 💾 Generate your app dmgs.
-### Package Managers
-- [Brew / HomeBrew](https://brew.sh/) - Package Manager for Linux and MacOS.
-- [Brew Documentation](https://docs.brew.sh)
+  ### Package Managers
+  - [Brew / HomeBrew](https://brew.sh/) - Package Manager for Linux and MacOS.
+  - [Brew Documentation](https://docs.brew.sh)
 
    Quick install:
    ````
