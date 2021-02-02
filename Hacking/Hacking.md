@@ -230,12 +230,13 @@ FTest, Lbd, Wafw00f
 - [nc.exe](https://github.com/int0x33/nc.exe) - Netcat for windows 32/64 bit.
 - [Nc-network-sniffer](https://github.com/Nicoretti/nc-network-sniffer) - A simple network sniffer for linux.
 - [NetblockTool](https://github.com/NetSPI/NetblockTool) - Find netblocks owned by a company.
-- [ReconFTW](https://github.com/six2dez/reconftw) - _Simple script for full recon._
+- [ReconFTW](https://github.com/six2dez/reconftw) - Simple script for full recon.
 - [rsocks](https://github.com/brimstone/rsocks) - Tiny little reverse socks5 client & server (unencrypted).
-- [ShodanHat](https://github.com/HatBashBR/ShodanHat) -  search for hosts info with shodan.
-- [Sslh](https://github.com/brimstone/sslh) - _Listener that determines SSL, HTTP, SSH, or other connections on the same port._
+- [ShodanHat](https://github.com/HatBashBR/ShodanHat) - Search for hosts info with shodan.
+- [Sslh](https://github.com/brimstone/sslh) - Listener that determines SSL, HTTP, SSH, or other connections on the same port.
+- [TCPDump](https://github.com/the-tcpdump-group/tcpdump) - The TCPdump network dissector [www.tcpdump.org](https://www.tcpdump.org).
 - [Tunneller](https://github.com/skx/tunneller) - Allow internal services, running on localhost, to be accessed over the internet.
-- [WhatWaf?](https://github.com/Ekultek/WhatWaf) - _Detect and bypass web application firewalls and protection systems._
+- [WhatWaf?](https://github.com/Ekultek/WhatWaf) - Detect and bypass web application firewalls and protection systems.
   #### Lateral Movement
   - [Living Off The Land Binaries and Scripts (and also Libraries)](https://lolbas-project.github.io)
 
