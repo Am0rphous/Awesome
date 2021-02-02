@@ -11,6 +11,7 @@ https://github.com/SecWiki
 https://github.com/Al1ex
 https://github.com/0xApt?tab=repositories
 https://github.com/tennc
+https://github.com/mobdk
 https://github.com/bats3c
 https://gitee.com/explore/security-dev
 https://search.gitee.com/?skin=rec&type=repository&q=exploit&repo=&reponame=
