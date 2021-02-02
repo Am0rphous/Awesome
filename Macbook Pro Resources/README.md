@@ -18,6 +18,7 @@
 - [MacOS Fortress](https://github.com/essandess/macOS-Fortress) - Firewall and Privatizing Proxy for Trackers, Attackers, Malware, Adware, and Spammers with Anti-Virus On-Demand and On-Access Scanning (PF, squid, privoxy, hphosts, dshield, emergingthreats, hostsfile, PAC file, clamav).
 - [Shield](https://github.com/theevilbit/Shield) - An app to protect against process injection on macOS.
 - [WineBottler](https://winebottler.kronenberg.org/) - Run .exe files on Macbook using Wine. Logfile: `~/Library/Logs/Wine.log`
+- [WineHQ for MacOS](https://wiki.winehq.org/MacOS) - Requires `brew install xquartz` >= 2.7.7
   ### Development
   - [Node-appDMG](https://github.com/LinusU/node-appdmg) - 💾 Generate your app dmgs.
   ### Package Managers
