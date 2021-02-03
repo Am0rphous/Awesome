@@ -119,6 +119,7 @@ https://github.com/clong/DetectionLab
   - [SysWhispers](https://github.com/jthuraisamy/SysWhispers) - AV/EDR evasion via direct system calls.
     - [SysWhispers2_x86](https://github.com/mai1zhi2/SysWhispers2_x86) - X86 version of syswhispers2.
   - [TelemetrySourcerer](https://github.com/jthuraisamy/TelemetrySourcerer) - Enumerate and disable common sources of telemetry used by AV/EDR.
+  - [Qsecure-labs' PoC AVBypass](https://github.com/qsecure-labs/PoC) - PoC tool to help change text strings in a source file (e.g. executable) based on LeetSpeek or letter case [Traditional Signature Based Antivirus Evasion Tests](https://blog.qsecure.com.cy/posts/traditional-signature-based-antivirus-evasion-tests/).
   ### DLL
   - [Koppeling](https://github.com/monoxgas/Koppeling) - Adaptive DLL hijacking / dynamic export forwarding.
   - [Printjacker](https://github.com/RedSection/printjacker) - Hijack Printconfig.dll to execute shellcode.
@@ -312,6 +313,7 @@ FTest, Lbd, Wafw00f
 - [pentest-tools.com](https://pentest-tools.com)
 - [PowerExfil](https://github.com/1N3/PowerExfil) - _A collection of data exfiltration scripts for Red Team assessments._
 - [RedELK](https://github.com/outflanknl/RedELK) - Red Team's SIEM - tool for Red Teams used for tracking and alarming about Blue Team activities as well as better usability in long term operations.
+- [Overlord – Red Teaming Automation](https://github.com/qsecure-labs/overlord) - Overlord - Red Teaming Infrastructure Automation [blog.qsecure.com.cy/posts/overlord](https://blog.qsecure.com.cy/posts/overlord).
 - [RedTeam-Tactics-and-Techniques](https://github.com/mantvydasb/RedTeam-Tactics-and-Techniques) - Red Teaming Tactics and Techniques.
 - [Vincent Yiu's blog - vincentyiu.com](https://vincentyiu.com) - Red Team blog.
 - [WSB-Detect](https://github.com/LloydLabs/wsb-detect) - _Enables you to detect if you are running in Windows Sandbox ("WSB")._
