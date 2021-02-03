@@ -77,6 +77,12 @@
 | 8. South Africa | | |
 | 9. United Kingom | | |
 
+## Educational OS'es
+- [DebianEdu](https://wiki.debian.org/DebianEdu)
+- [Edubuntu](https://www.edubuntu.org) - "previously known as Ubuntu Education Edition, was an official derivative of the Ubuntu operating system designed for use in classrooms inside schools, homes and communities." [Wikipedia](https://en.wikipedia.org/wiki/Edubuntu)
+- [Qimo 4 Kids](http://www.qimo4kids.com) - "a Linux distribution designed for young users from 3 years old and above. Qimo is built on the top of Xubuntu and uses the Xfce desktop environment as default."
+- [Ubermix](http://www.ubermix.org) - "Built by educators with an eye towards student and teacher empowerment."
+
 ## IoT, embedded devices, tablets
 - [Fedora IoT](https://getfedora.org/en/iot/)
 - [LineageOS Android Distribution](https://lineageos.org) - A free and open-source operating system for various devices, based on the Android mobile platform.
