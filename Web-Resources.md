@@ -67,6 +67,7 @@
 - [lorn.tech](https://www.lorn.tech/) - masse nyttige podcasts.
 - [Itsfoss.com](https://itsfoss.com) - Open source related articles published on It’s FOSS.
 - [Linuxhint.com](https://linuxhint.com) - Lots of tutorials.
+- [SecJuice.com](https://www.secjuice.com) - Non-profit cyber goodness.
 - [Spyboy blog](https://spyboy.blog) - Learn ethical hacking , cyber security, computer programming, networking, android tricks and windows tricks.
 - [Thehacks.co](https://thehacks.co) - Latest Hacking Insights Tips & Guides.
 - [zeropointsecurity.co.uk/red-team-ops](https://www.zeropointsecurity.co.uk/red-team-ops) - Offensive Cyber Security Training.
