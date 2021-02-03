@@ -188,6 +188,7 @@ DNSMap, DNSRecon, DNSTracer, DNSWalk, Fierce, URLCrazy
  ### IDS/IPS Identification
 - [FragRouter]()
 FTest, Lbd, Wafw00f
+
  ### Network Enumeration & Port Scanners
  - [CScan.exe](https://github.com/warferik/CScan) - Simple C# Port Scanner.
  - [IOXIDResolver](https://github.com/mubix/IOXIDResolver) - IOXIDResolver.py from AirBus Security.
@@ -198,6 +199,8 @@ FTest, Lbd, Wafw00f
  
  ### OSINT
 - [Awesome OSINT](https://github.com/jivoi/awesome-osint) - A curated list of amazingly awesome OSINT.
+- [Intelligence X Public SDK](https://github.com/IntelligenceX/SDK) - Public SDK for Intelligence X [intelx.io](https://intelx.io).
+- [Open-Source-Intellingence-Resources](https://github.com/TCM-Course-Resources/Open-Source-Intellingence-Resources)
 - [Osint.link](https://osint.link) - Open Source Intelligence (OSINT) Tools & Resources.
 - [OSINT-SPY](https://github.com/SharadKumar97/OSINT-SPY) - Performs OSINT scan on email/domain/ip_address/organization using OSINT-SPY. It can be used by Data Miners, Infosec Researchers, Penetration Testers and cyber crime investigator in order to find deep information about their target.
 - [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) - Advanced information gathering & OSINT framework for phone numbers.
