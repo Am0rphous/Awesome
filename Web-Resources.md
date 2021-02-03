@@ -2,6 +2,7 @@
  ## Forums and blogs
   - [0x00sec.org](https://0x00sec.org)
   - [Blog.syscall.party](https://blog.syscall.party)
+  - [Blog.qsecure.com.cy/posts](https://blog.qsecure.com.cy/posts)
   - [Businessforum.zyxel.com](https://businessforum.zyxel.com)
   - [Cracked.to](https://cracked.to)
   - [Darkwebmafias.net](https://darkwebmafias.net)
