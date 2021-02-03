@@ -285,7 +285,8 @@ FTest, Lbd, Wafw00f
 - [Hunter.io](https://hunter.io)
 - [MaskPhish](https://github.com/jaykali/maskphish) - Give a Mask to Phishing URL like a PRO.. A MUST have tool for Phishing.
 - [Muraena](https://github.com/muraenateam/muraena) - Muraena is an almost-transparent reverse proxy aimed at automating phishing and post-phishing activities.
-- [smsisher](https://github.com/XiphosResearch/smsisher) - SMS Phishing Tools.
+- [Smsisher](https://github.com/XiphosResearch/smsisher) - SMS Phishing Tools.
+- [Sp00fer](https://github.com/qsecure-labs/Sp00fer) - Sp00fer is a tool for mail server testing (e.g. for open mail relays etc.) and for spoofing checks on specified domains [blog.qsecure.com.cy/posts/sp00fer/](blog.qsecure.com.cy/posts/sp00fer/)
 - [Ote](https://github.com/s0md3v/ote) - Generate Email, Register for anything, Get the OTP/Link.
 
 
