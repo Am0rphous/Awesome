@@ -276,6 +276,7 @@ FTest, Lbd, Wafw00f
 - [Mimikatz](https://github.com/gentilkiwi/mimikatz) - _A little tool to play with Windows security._
 - [MSOLSpray](https://github.com/dafthack/MSOLSpray) - A password spraying tool for Microsoft Online accounts (Azure/O365).
   - [TREVORspray](https://github.com/blacklanternsecurity/TREVORspray) - A featureful round-robin SOCKS proxy and Python O365 sprayer based on MSOLSpray which uses the Microsoft Graph API.
+- [Oblivion Data Leak Checker](https://github.com/loseys/Oblivion) - Data leak checker & OSINT Tool.
 - [Pypal](https://github.com/f0cker/pypal) - Python port of Pipal for password analytics.
 - [SecList](https://github.com/danielmiessler/SecLists)
 - [SharpKatz](https://github.com/b4rtik/SharpKatz) - _Porting of mimikatz sekurlsa::logonpasswords, sekurlsa::ekeys and lsadump::dcsync commands._
