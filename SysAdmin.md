@@ -86,19 +86,31 @@ bro / zeek
 - [AlphaSeclab's anti-av](https://github.com/alphaSeclab/anti-av) - Resources About Anti-Virus and Anti-Anti-Virus, including 200+ tools and 1300+ posts.
 - [Al-khaser](https://github.com/LordNoteworthy/al-khaser) - PoC "malware" application with good intentions that aims to stress your anti-malware system.
 - [Chkrootkit](http://www.chkrootkit.org) - locally checks for signs of a rootkits.
+  Compiling from scratch:
+  ````bash
+  wget ftp://ftp.pangeia.com.br/pub/seg/pac/chkrootkit.tar.gz
+  tar -xvf chkrootkit.tar.gz
+  cd chkrootkit-0.54/
+  make sense
+  ./chkrootkit
+  ````
 - [ClamAV](https://www.clamav.net) - ClamAV® is an open source antivirus engine for detecting trojans, viruses, malware & other malicious threats.
   - [ClamAV Documentation](https://github.com/Cisco-Talos/clamav-faq)
   ````
+  sudo apt install clamav clamav-daemon mailutils -y
   service clamav-freshclam stop
-  freshclam                             #updates signatures
-  service clamav-freshclam restart      #restart the service after
-  clamscan --version                    #shows the version and date of signatures
-  /var/log/clamav/freshclam.log         #logfile
+  sudo freshclam                                      #updates signatures
+  sudo wget https://database.clamav.net/daily.cvd     #download latest signature
+  sudo cp daily.cvd /var/lib/clamav/
+  service clamav-freshclam restart                    #restart the service after
+  clamscan --version                                  #shows the version and date of signatures
+  /var/log/clamav/freshclam.log                       #logfile
   sigtool --info /var/lib/clamav/daily.cld
-  clamscan -r --bell -i /                      # display infected files and ring a bell when found
-  clamscan -r -i / &                           #run it as background. Run `jobs` to list it
+  clamscan -r --bell -i /                             # display infected files and ring a bell when found
+  clamscan -r -i / &                                  #run it as background. Run `jobs` to list it
   ````
   - [SquidClamav](https://github.com/darold/squidclamav) - SquidClamAv is a dedicated ClamAV antivirus redirector for Squid. It can run antivirus checks based on filename regex, content-type regex, and more. It is easy to install and works even with heavy Squid access.
+  - [Tip](https://www.techrepublic.com/article/how-to-install-and-use-clamav-on-ubuntu-server-20-04/)
 - [HerdProtect](https://www.herdprotect.com/index.aspx) - Second line of defense malware scanning platform powered by 68 anti-malware engines in the cloud.
 - [Phishdetect-node](https://github.com/phishdetect/phishdetect-node) - Server component of PhishDetect.
 - [PHP Malware Finder](https://github.com/jvoisin/php-malware-finder) - Does its very best to detect obfuscated/dodgy code as well as files using PHP functions often used in malwares/webshells.
@@ -130,6 +142,12 @@ bro / zeek
   - [MetaDefender](https://metadefender.opswat.com/?lang=en)
   - [valkyrie.comodo.com](https://valkyrie.comodo.com) - Advanced File Analysis System.
   - [VirusTotal](https://www.virustotal.com/gui/) - Free service that analyzes suspicious files and URLs and facilitates the quick detection of viruses, worms, trojans, and all kinds of malware.
+  ### Test your AntiVirus
+  Download the eicar file to test your antivirus software.
+  By running `wget http://www.eicar.org/download/eicar.com`. The file looks like this
+  ````
+  X5O!P%@AP[4\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*
+  ````
 
   
 ## Backup
