@@ -86,6 +86,7 @@ https://github.com/clong/DetectionLab
   - [CobaltStrike Training](https://www.cobaltstrike.com/training)
   - [Resources About Cobalt Strike](https://github.com/alphaSeclab/cobalt-strike) - Resources About Cobalt Strike. 100+ Tools And 200+ Posts.
   - [Rvrsh3ll'a BOF_Collection](https://github.com/rvrsh3ll/BOF_Collection) - Various Cobalt Strike BOFs.
+  - [taowu-cobalt-strike](https://github.com/pandasec888/taowu-cobalt-strike/tree/english)
 - [Exploit_generator](https://github.com/theevilbit/exploit_generator) - Automated Exploit generation with WinDBG.
   - [White Paper - Exploit generation automation with WinDBG.docx](https://github.com/theevilbit/exploit_generator/blob/master/White%20Paper%20-%20Exploit%20generation%20automation%20with%20WinDBG.docx)
 - [Fwexpl (old)](https://github.com/Cr4sh/fwexpl) - PC firmware exploitation tool and library.
