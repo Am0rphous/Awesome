@@ -13,6 +13,7 @@
 - [Configuration Management](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#configuration-management)
 - [Ebooks and PDFs](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#ebooks-and-pdfs)
 - [File Sharing](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#file-sharing)
+- [Hardware](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#hardware)
 - [IDS, HIDS and IPS](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#ids-hids-and-ips)
   - [Firewall](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#firewall)
 - [LDAP](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#ldap)
@@ -184,6 +185,25 @@ bro / zeek
 - [piping-server](https://github.com/nwtgck/piping-server) - Infinitely transfer between every device over pure HTTP: designed for everyone including people using Unix pipe and even for browser users.
   - [piping-ui.org](https://piping-ui.org)
 - [Warpinator](https://github.com/linuxmint/warpinator) - Share files across the LAN 
+
+## Hardware
+- [Hardinfo](https://github.com/lpereira/hardinfo) - System profiler and benchmark tool for Linux systems [hardinfo.org](http://hardinfo.org).
+Commands
+````
+sudo dmidecode -t bios
+sudo dmidecode -t memory
+sudo dmidecode -t processor
+sudo dmidecode -t system
+sudo hdparm /dev/sda1           #SATA Devices
+sudo lshw
+sudo lshw -short
+sudo lshw -html > lshw.html
+lsusb -v
+lspci                           #PCI Devices
+lspci                           #verbose
+lspci -t                        #PCI Devices with tree format
+lsscsi                          #Print SCSI Devices Info
+````
 
 ## IDS, HIDS and IPS
 - [DenyHosts](https://github.com/denyhosts/denyhosts) - Automated host blocking from SSH brute force attacks.
@@ -510,6 +530,7 @@ upstream_recursive_servers:
 - [csrf](https://github.com/gorilla/csrf) - gorilla/csrf provides Cross Site Request Forgery (CSRF) prevention middleware for Go web applications & services.
 - [Frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [Hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
+- [Lwan Web Server](https://github.com/lpereira/lwan) - Experimental, scalable, high performance HTTP server.
 - [NginX](https://nginx.org/en/) - an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server.
 - [Sanstorm](https://sandstorm.io/) - Sandstorm is an open source platform for self-hosting web apps
 - [Squid]()
