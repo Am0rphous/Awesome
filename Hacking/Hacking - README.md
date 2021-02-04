@@ -206,6 +206,7 @@ FTest, Lbd, Wafw00f
 - [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) - Advanced information gathering & OSINT framework for phone numbers.
 - [Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
 - [TheHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT.
+- [UrlScan.io](https://urlscan.io)
 
  ### Route Analysis
  ### SMB Analysis
