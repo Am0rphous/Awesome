@@ -136,12 +136,17 @@ PyCharm, Spyder, Jupyter , ,
 ## Media
 
   ### Image
-  - [DarkTable](https://github.com/darktable-org/darktable) - open source photography workflow application and raw developer. A virtual lighttable and darkroom for photographers. [darktable.org](https://www.darktable.org/)
+  - [DarkTable](https://github.com/darktable-org/darktable) - open source photography workflow application and raw developer. A virtual lighttable and darkroom for photographers. [darktable.org](https://www.darktable.org)
+  - [DigiKam from KDE](https://www.digikam.org) - [Github](https://github.com/KDE/digikam) Advanced open-source digital photo management application that runs on Linux, Windows, and MacOS. The application provides a comprehensive set of tools for importing, managing, editing, and sharing photos and raw files.
   - [Drawio Online](https://app.diagrams.net/) - diagrams.net is open source, online, desktop and container deployable diagramming software. [Github drawio](https://github.com/jgraph/drawio)
   - [Drawio Desktop](https://github.com/jgraph/drawio-desktop) - drawio-desktop is a diagrams.net desktop app based on Electron.
+  - [GIMP](https://gitlab.gnome.org/GNOME/gimp) - GNU Image Manipulation Program [gimp.org](https://www.gimp.org)
   - [InkScape](https://inkscape.org) - A powerful, free design tool.
   - [Krita](https://github.com/KDE/krita) - Krita is a professional free and open source painting program.
+  - [LightZone](https://github.com/ktgw0316/LightZone) - LightZone is a photo editor for Mac, Windows, and Linux [lightzoneproject.org](http://lightzoneproject.org).
   - [Pinta](https://www.pinta-project.com) - Pinta is a free, open source program for drawing and image editing.
+  - [Pixeluvo](http://www.pixeluvo.com) - A Beautifully Designed Image and Photo Editor for Windows and Linux.
+  - [RawTherapee](https://github.com/Beep6581/RawTherapee) - A powerful cross-platform raw photo processing program [rawtherapee.com](https://rawtherapee.com).
    #### Graphs
    - [Gephi - The Open Graph Viz Platform](https://github.com/gephi/gephi) - award-winning open-source platform for visualizing and manipulating large graphs. For Linux, Mac and Windows.
    - [yEd Graph Editor](https://www.yworks.com/products/yed) - powerful desktop application that can be used to quickly and effectively generate high-quality diagrams.
