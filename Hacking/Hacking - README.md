@@ -160,9 +160,9 @@ https://github.com/clong/DetectionLab
 
 
 ## Information Gathering
-- [Autoenum](https://github.com/Gr1mmie/autoenum) - _Automatic Service Enumeration Script._
-- [DeviceDetector](https://github.com/matomo-org/device-detector) - _The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model [devicedetector.net](http://devicedetector.net)._
-- [DnsShell](https://archive.codeplex.com/?p=dnsshell) - _A Microsoft DNS administration / management module written for PowerShell 2.0. DnsShell is developed in C#._
+- [Autoenum](https://github.com/Gr1mmie/autoenum) - Automatic Service Enumeration Script.
+- [DeviceDetector](https://github.com/matomo-org/device-detector) - The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model [devicedetector.net](http://devicedetector.net).
+- [DnsShell](https://archive.codeplex.com/?p=dnsshell) - A Microsoft DNS administration / management module written for PowerShell 2.0. DnsShell is developed in C#.
   To get all A records in a zone [source](https://serverfault.com/questions/550385/export-all-hosts-from-dns-manager-using-powershell):
   ````
   Get-DnsRecord -RecordType A -ZoneName FQDN -Server ServerName
@@ -174,10 +174,13 @@ https://github.com/clong/DetectionLab
 - [reNgine](https://github.com/yogeshojha/rengine) - Automated reconnaissance framework meant for information gathering during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.
 
  ### DNS Analysis
-- [AssetFinder](https://github.com/tomnomnom/assetfinder) - _Find domains and subdomains related to a given domain._
-- [BlackWidow](https://github.com/1N3/BlackWidow) - _A Python based web application scanner to gather OSINT and fuzz for OWASP vulnerabilities on a target website._
-- [DnsEnum](https://github.com/fwaeytens/dnsenum) - _Perl script that enumerates DNS information._
-- [GuBuster](https://github.com/OJ/gobuster) - _Directory/File, DNS and VHost busting tool written in Go._
+- [AssetFinder](https://github.com/tomnomnom/assetfinder) - Find domains and subdomains related to a given domain.
+- [BlackWidow](https://github.com/1N3/BlackWidow) - A Python based web application scanner to gather OSINT and fuzz for OWASP vulnerabilities on a target website.
+- [DnsEnum](https://github.com/fwaeytens/dnsenum) - Perl script that enumerates DNS information.
+- [DNSx](https://github.com/projectdiscovery/dnsx) - Dnsx is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers.
+- [GuBuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go.
+- [Shuffledns](https://github.com/projectdiscovery/shuffledns) - shuffleDNS is a wrapper around massdns written in go that allows you to enumerate valid subdomains using active bruteforce as well as resolve subdomains with wildcard handling and easy input-output support.
+- [SubFinder](https://github.com/projectdiscovery/subfinder) - Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.
 
 DNSMap, DNSRecon, DNSTracer, DNSWalk, Fierce, URLCrazy
 
@@ -196,6 +199,7 @@ FTest, Lbd, Wafw00f
    - [The OXID Resolver (Part 1)]](https://airbus-cyber-security.com/the-oxid-resolver-part-1-remote-enumeration-of-network-interfaces-without-any-authentication) – Remote enumeration of network interfaces without any authentication.
    - [The OXID Resolver (Part 2)](https://airbus-cyber-security.com/the-oxid-resolver-part-2-accessing-a-remote-object-inside-dcom) – Accessing a Remote Object inside DCOM.
  - [MasScan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
+ - [Naabu](https://github.com/projectdiscovery/naabu) - A fast port scanner written in go with focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests.
  - [WhatBreach](https://github.com/Ekultek/WhatBreach) - _OSINT tool to find breached emails, databases, pastes, and relevant information._
  
  ### OSINT
