@@ -33,11 +33,38 @@ https://github.com/WebAssembly/wabt
   - [AndroidRipper](https://github.com/reverse-unina/AndroidRipper) - A toolset for the automatic GUI testing of mobile Android Applications. 
   - [Appium](https://github.com/appium/appium) - open-source, cross-platform test automation tool for native, hybrid, and mobile web and desktop apps.
 
-## Binary Analysis
+## [Binary Analysis](https://www.gnu.org/software/binutils/)
 - [Angr](https://github.com/angr/angr) -  A powerful and user-friendly binary analysis platform.
   - [Angr Documentation](https://github.com/angr/angr-doc)
   - [Angr Gui](https://github.com/angr/angr-management) - A GUI for angr.
 - [BinWalk](https://github.com/ReFirmLabs/binwalk) -  Firmware Analysis Tool.
+
+## GNU Binutils
+- [GitWeb Interface](https://sourceware.org/git/gitweb.cgi?p=binutils-gdb.git)
+Main tools:
+````bash
+ld      #the GNU linker     Main tool one
+as      #the GNU assembler  Main tool two!
+
+addr2line     # Converts addresses into filenames and line numbers.
+ar            # A utility for creating, modifying and extracting from archives.
+c++filt       # Filter to demangle encoded C++ symbols.
+dlltool       # Creates files for building and using DLLs.
+gold          # A new, faster, ELF only linker, still in beta test.
+gprof         # Displays profiling information.
+nlmconv       # Converts object code into an NLM.
+nm            # Lists symbols from object files.
+objcopy       # Copies and translates object files.
+objdump       # Displays information from object files.
+ranlib        # Generates an index to the contents of an archive.
+readelf       # Displays information from any ELF format object file.
+size          # Lists the section sizes of an object or archive file.
+strings       # Lists printable strings from files.
+strip         # Discards symbols.
+windmc        # A Windows compatible message compiler.
+windres       # A compiler for Windows resource files.
+````
+
 
 ## Debugging
 - [Bus Pirate](https://github.com/BusPirate/Bus_Pirate) - open source hacker multi-tool that talks to electronic stuff.
