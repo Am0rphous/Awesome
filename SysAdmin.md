@@ -112,6 +112,7 @@ bro / zeek
   - [SquidClamav](https://github.com/darold/squidclamav) - SquidClamAv is a dedicated ClamAV antivirus redirector for Squid. It can run antivirus checks based on filename regex, content-type regex, and more. It is easy to install and works even with heavy Squid access.
   - [Tip](https://www.techrepublic.com/article/how-to-install-and-use-clamav-on-ubuntu-server-20-04/)
 - [HerdProtect](https://www.herdprotect.com/index.aspx) - Second line of defense malware scanning platform powered by 68 anti-malware engines in the cloud.
+- [Intezer Labs](https://github.com/intezer)
 - [Phishdetect-node](https://github.com/phishdetect/phishdetect-node) - Server component of PhishDetect.
 - [PHP Malware Finder](https://github.com/jvoisin/php-malware-finder) - Does its very best to detect obfuscated/dodgy code as well as files using PHP functions often used in malwares/webshells.
 - [PhpMussel](https://github.com/phpMussel/phpMussel) - PHP-based anti-virus anti-trojan anti-malware solution.
@@ -137,6 +138,7 @@ bro / zeek
   - [Avira Analysis](https://www.avira.com/en/analysis/submit)
   - [Fortiguard onlinescanner](https://www.fortiguard.com/faq/onlinescanner)
   - [Hybrid-Analysis](https://www.hybrid-analysis.com/) - free malware analysis service.
+  - [Intezer Analyze](https://analyze.intezer.com/sign-in)
   - [Jotti's malware scan](https://virusscan.jotti.org/)
   - [Kyspersky Viruscheck](https://opentip.kaspersky.com/)
   - [MetaDefender](https://metadefender.opswat.com/?lang=en)
