@@ -13,7 +13,7 @@ https://github.com/projectzeroindia/CVE-2019-19781
 https://github.com/adamyordan/cve-2019-1003000-jenkins-rce-poc
 https://github.com/Al1ex?tab=repositories&q=cve&type=&language=
 ````
-
+- [0day-security-software-vulnerability-analysis-technology](https://github.com/jas502n/0day-security-software-vulnerability-analysis-technology)
 - [XiphosResearch's exploits](https://github.com/XiphosResearch/exploits) - Miscellaneous exploit code.
 
 #### 2020
@@ -21,6 +21,7 @@ https://github.com/Al1ex?tab=repositories&q=cve&type=&language=
 - [CVE-2020-36184](https://github.com/Al1ex/CVE-2020-36184)
 - [CVE-2020-36179](https://github.com/Al1ex/CVE-2020-36179)
 - [CVE-2020-35728](https://github.com/Al1ex/CVE-2020-35728) - CVE-2020-35728 & Jackson-databind RCE.
+- [CVE-2020-26259](https://github.com/jas502n/CVE-2020-26259)
 - [CVE-2020-17530](https://github.com/Al1ex/CVE-2020-17530) - Simple test Project for S2-061 which can be used to analysis the detail of this vulnerability.
 - [CVE-2020-16938](https://github.com/ioncodes/CVE-2020-16938) - Bypassing NTFS permissions to read any files as unprivileged user.
 - [CVE-2020-14645](https://github.com/Al1ex/CVE-2020-14645) - Weblogic CVE-2020-14645 UniversalExtractor JNDI injection getDatabaseMetaData().
