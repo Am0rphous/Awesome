@@ -181,9 +181,16 @@ bro / zeek
 - [Neochat](https://github.com/KDE/neochat) - A client for matrix, the decentralized communication protoco.
 - [Oragono](https://github.com/oragono/oragono) - A modern IRC server (daemon/ircd) written in Go.
 - [PrivateBin](https://framabin.org/p) - minimalist, open source online pastebin.
+- [Quassel-irc](https://quassel-irc.org)
+- [Signal](https://www.signal.org)
+  - [Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
+  - [Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - Private Messenger for Windows, Mac, and Linux.
+  - [Signal-iOS](https://github.com/signalapp/Signal-iOS) - A private messenger for iOS.
+  - [Signal-Server](https://github.com/signalapp/Signal-Server) - Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS.
 - [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app.
 - [TheLounge](https://thelounge.chat) - self-hosted web IRC client.
-- [Quassel-irc](https://quassel-irc.org)
+- [Tox Chat](https://tox.chat/)
+- [Wire](https://github.com/wireapp/wire) - [app.wire.com](https://app.wire.com/auth/)
   ### Information Sharing
   - [OutLine](https://github.com/outline/outline) - _The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible._
   ### Matrix
@@ -552,6 +559,7 @@ upstream_recursive_servers:
 - [Hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [Lwan Web Server](https://github.com/lpereira/lwan) - Experimental, scalable, high performance HTTP server.
 - [NginX](https://nginx.org/en/) - an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server.
+- [Proxify](https://github.com/projectdiscovery/proxify) - Swiss Army knife Proxy tool for HTTP/HTTPS traffic capture, manipulation, and replay on the go.
 - [Sanstorm](https://sandstorm.io/) - Sandstorm is an open source platform for self-hosting web apps
 - [Squid]()
   - [SquidGuard](http://www.squidguard.org/)
