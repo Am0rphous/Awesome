@@ -203,7 +203,11 @@ PyCharm, Spyder, Jupyter , ,
 - [KOrganizer](https://github.com/KDE/korganizer) - Organizational assistant, providing calendars and other similar functionality.
 - [MindNode](https://mindnode.com/download) - brainstorm and mind mapping.
   - [Dracula for MindNode](https://github.com/dracula/mindnode) - Dark theme for MindNode.
-- RedShift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. 
+- RedShift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings
+- [Taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
+  - [
+How to Manage Your Tasks in the Terminal with Taskbook
+](https://www.maketecheasier.com/manage-tasks-in-terminal-with-taskbook/)
 - [Tui.calendar](https://github.com/nhn/tui.calendar) - JavaScript calendar that has everything you need. 
   ### Office Tools
   - [FreeOffice](https://www.freeoffice.com)
