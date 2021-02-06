@@ -16,4 +16,5 @@
 - [Nuke Private Data (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/nukeprivatedata/) - One-click toolbar button optionally deletes: cookies, browser cache, browsing history, download history, website file systems, form autocomplete data, indexedDB data, local storage, plugin data, data cached by service workers, saved passwords.
 - [Snowflake by The Tor Project](https://snowflake.torproject.org) - Snowflake is a WebRTC pluggable transport for Tor.
 - [PhishDetect Extension](https://github.com/phishdetect/phishdetect-extension) - Browser extension that complements the PhishDetect service.
+- [Privacy Badger by EFF Technologists](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
 - [uBlock Origin](https://github.com/gorhill/uBlock) - An efficient blocker for Chromium and Firefox. Fast and lean. [ublockorigin.com](https://ublockorigin.com/)
