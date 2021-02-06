@@ -195,6 +195,7 @@ PyCharm, Spyder, Jupyter , ,
 - [Spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 
 ## Productivity Tools
+- [Ao](https://github.com/klaussinani/ao) - Elegant Microsoft To-Do desktop app [klaussinani.github.io/ao](https://klaussinani.github.io/ao).
 - [Albert Launcher](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher. [Homepage](https://albertlauncher.github.io/)
 - [GNOME Calendar](https://gitlab.gnome.org/GNOME/gnome-calendar) [gnome-calender github](https://github.com/GNOME/gnome-calendar)
 - [Joplin](https://github.com/laurent22/joplin) - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: [discourse.joplinapp.org](https://discourse.joplinapp.org/))
