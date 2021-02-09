@@ -136,6 +136,18 @@ PyCharm, Spyder, Jupyter , ,
 - [Linux_command_line](https://github.com/learnbyexample/Linux_command_line) - Introduction to Linux commands and Shell scripting.
 - [Scripting_course](https://github.com/learnbyexample/scripting_course) - A reference guide to Linux command line, Vim and Scripting.
 
+## Linux Software
+- [All AWESOME Linux Applications and Tools](https://www.fossmint.com/awesome-linux-software/)
+- [Linux.softpedia.com](https://linux.softpedia.com/)
+
+## Looking for software, projects, courses or inspiration?
+- [Ail-framework](https://github.com/ail-project/ail-framework) - Analysis Information Leak framework.
+- [FeatHub](https://feathub.com)
+- [GitHunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub. [Hunt Online](https://kamranahmed.info/githunt)
+- [Gitstar Ranking](https://gitstar-ranking.com) - Unofficial GitHub star ranking for users, organizations and repositories.
+- [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) - A desktop application for downloading Udemy Courses.
+
+
 ## Media
 - [Multimedia and Television Support on Linux](https://www.linuxtv.org)
 
@@ -228,12 +240,6 @@ How to Manage Your Tasks in the Terminal with Taskbook
   - [ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
   - [vxHexEditor](https://github.com/EUA/wxHexEditor) - [www.wxhexeditor.org](http://www.wxhexeditor.org/)
 
-## Looking for projects, courses or inspiration?
-- [Ail-framework](https://github.com/ail-project/ail-framework) - Analysis Information Leak framework.
-- [FeatHub](https://feathub.com)
-- [GitHunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub. [Hunt Online](https://kamranahmed.info/githunt)
-- [Gitstar Ranking](https://gitstar-ranking.com) - Unofficial GitHub star ranking for users, organizations and repositories.
-- [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) - A desktop application for downloading Udemy Courses 
 
 ## Security Autiting Tools
 - [Lynis](https://github.com/CISOfy/Lynis)
