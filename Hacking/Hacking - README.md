@@ -406,9 +406,10 @@ FTest, Lbd, Wafw00f
  - [wp_hunter](https://github.com/Josue87/wp_hunter) - Static analysis of wordpress plugins.
  - [XSStrike](https://github.com/s0md3v/XSStrike) - _Most advanced XSS scanner._
 
-## Wireless Attacks
+## Wireless Attacking
 - [Deauther](https://github.com/dom96/deauther) - CLI Deauther for macOS. Might need a library which comes by installing [termbox](https://github.com/nsf/termbox).
 - [Esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther) - _Affordable WiFi hacking platform for testing and learning._
+- [Fern Wifi Cracker](https://github.com/savio-code/fern-wifi-cracker) - The program is able to crack and recover WEP/WPA/WPS keys and also run other network based attacks on wireless or ethernet based networks.
 - [PRISM-AP](https://github.com/1N3/PRISM-AP) - An automated Wireless RogueAP MITM attack framework. 
 - [Wi-PWN](https://github.com/samdenty/Wi-PWN) - ESP8266 Deauther with a material design WebUI.
 - [Wifresti](https://github.com/LionSec/wifresti) - _Find your wireless network password in Windows , Linux and Mac OS._
