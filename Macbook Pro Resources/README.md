@@ -11,7 +11,7 @@
   - [LimeChat](http://github.com/psychs/limechat) - IRC Client for Mac. [limechat.net/mac](http://limechat.net/mac)
 
 ## Tools
-- [Eul](https://github.com/gao-sun/eul) - 🖥️ _macOS status monitoring app written in SwiftUI._
+- [Eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
 - [Java](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html) - Go and download the .dmg file and follow instructions.
 - [MacForge](https://github.com/MacEnhance/MacForge) - Plugin, App, and Theme store which includes plugin injection for macOS.
 - [MacHack](https://github.com/kendfinger/MacHack) - Hidden Tools in macOS.
@@ -37,7 +37,11 @@
    ````
 ### Remote Desktop Applications
 - [Remote Desktop Manager Free](https://remotedesktopmanager.com/home/downloadfree) - Windows, Mac, Linux, Android & iOS.
-
+### Virtualization
+- [QEMU](https://www.qemu.org/download/#macos) - May be installed with `brew install qemu`.
+- [Parallels Desktop ($)](https://www.parallels.com/eu/) - The fastest, easiest and most powerful application for running Windows on Mac—without rebooting. Includes 30+ utilities to simplify everyday tasks on Mac and Windows.
+- [VirtualBox](https://www.virtualbox.org)
+- [VMWare Fusion](https://www.vmware.com/products/fusion/fusion-evaluation.html)
 
 ## Macbook with Linux
 - [bcwc_pcie](https://github.com/patjak/bcwc_pcie) - Reverse engineered Linux driver for the FacetimeHD (Broadcom 1570) PCIe webcam.
