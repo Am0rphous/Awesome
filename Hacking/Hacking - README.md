@@ -117,6 +117,7 @@ https://github.com/clong/DetectionLab
   - [TomcatWarDeployer](https://github.com/mgeeky/tomcatWarDeployer) - Penetration testing tool intended to leverage Apache Tomcat credentials in order to automatically generate and deploy JSP Backdoor.
   - [WebShell](https://github.com/tennc/webshell)
   ### Evasion
+  - [DKMC](https://github.com/Mr-Un1k0d3r/DKMC) - DKMC - Dont kill my cat - Malicious payload evasion tool.
   - [SysWhispers](https://github.com/jthuraisamy/SysWhispers) - AV/EDR evasion via direct system calls.
     - [SysWhispers2_x86](https://github.com/mai1zhi2/SysWhispers2_x86) - X86 version of syswhispers2.
   - [TelemetrySourcerer](https://github.com/jthuraisamy/TelemetrySourcerer) - Enumerate and disable common sources of telemetry used by AV/EDR.
@@ -311,11 +312,6 @@ FTest, Lbd, Wafw00f
 - [Ruby]()
 
 
-## Reporting
-- [Public penetration testing reports](https://github.com/juliocesarfort/public-pentesting-reports) - Curated list of public penetration test reports released by several consulting firms and academic security groups.
-- [WriteHat](https://github.com/blacklanternsecurity/writehat) - A pentest reporting tool written in Python. Free yourself from Microsoft Word.
-
-
 ## Red Team
 - [CloneVault](https://github.com/mdsecactivebreach/CloneVault) - _Allows a red team operator to export and import entries including attributes from Windows Credential Manager._
 - [Covenant](https://github.com/cobbr/Covenant) - _Covenant is a collaborative .NET C2 framework for red teamers._
@@ -327,8 +323,15 @@ FTest, Lbd, Wafw00f
 - [RedELK](https://github.com/outflanknl/RedELK) - Red Team's SIEM - tool for Red Teams used for tracking and alarming about Blue Team activities as well as better usability in long term operations.
 - [Overlord – Red Teaming Automation](https://github.com/qsecure-labs/overlord) - Overlord - Red Teaming Infrastructure Automation [blog.qsecure.com.cy/posts/overlord](https://blog.qsecure.com.cy/posts/overlord).
 - [RedTeam-Tactics-and-Techniques](https://github.com/mantvydasb/RedTeam-Tactics-and-Techniques) - Red Teaming Tactics and Techniques.
+- [RedTeamScripts by  Mr-Un1k0d3r](https://github.com/Mr-Un1k0d3r/RedTeamScripts) - Repo with various Red Team scripts.
 - [Vincent Yiu's blog - vincentyiu.com](https://vincentyiu.com) - Red Team blog.
 - [WSB-Detect](https://github.com/LloydLabs/wsb-detect) - _Enables you to detect if you are running in Windows Sandbox ("WSB")._
+
+## Reporting
+- [Public penetration testing reports](https://github.com/juliocesarfort/public-pentesting-reports) - Curated list of public penetration test reports released by several consulting firms and academic security groups.
+- [WriteHat](https://github.com/blacklanternsecurity/writehat) - A pentest reporting tool written in Python. Free yourself from Microsoft Word.
+
+
 
 ## Script Collections
 - [killswitch-GUI PenTesting Scripts](https://github.com/killswitch-GUI/PenTesting-Scripts) - Collection
