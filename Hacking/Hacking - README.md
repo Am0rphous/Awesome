@@ -170,6 +170,7 @@ https://github.com/clong/DetectionLab
   ````
 - [Metagoofil](https://github.com/laramies/metagoofil) - Metadata harvester._
 - [Nikto](https://github.com/sullo/nikto) - Web server scanner. [Documentation](https://cirt.net/nikto2-docs)
+- [OWASP Amass](https://github.com/OWASP/Amass) - In-depth Attack Surface Mapping and Asset Discovery [owasp.org/www-project-amass](https://owasp.org/www-project-amass/).
 - [ReconDog](https://github.com/s0md3v/ReconDog) - Reconnaissance Swiss Army Knife.
 - [reNgine](https://github.com/yogeshojha/rengine) - Automated reconnaissance framework meant for information gathering during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.
 
