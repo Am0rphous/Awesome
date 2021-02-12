@@ -9,7 +9,7 @@
 <br >  4.2 [Privacy focused OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#privacy-focused-oses)
 5. [IoT, embedded devices, tablets](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#iot-embedded-devices-tablets)
 6. [Pen-testing and security auditing](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#pen-testing-and-security-auditing)
-7. [Router and Firewall OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#router-and-firewall-oses)
+7. [Router and Firewall OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#router-and-firewall-oses)
 8. [Server OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#server-oses)
 <br >  8.1 [NAS](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#nas)
 9. [Unix OS](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#unix-os)
@@ -96,6 +96,8 @@
 
 ## Router and Firewall OSes
 - [BSD Router](https://bsdrp.net) - Free open source software router distribution based on embedded FreeBSD.
+- [DD-WRT](https://dd-wrt.com) - DD-WRT is a Linux based alternative OpenSource firmware suitable for a great variety of WLAN routers and embedded systems.
+- [FreshTomato](https://freshtomato.org/)
 - [IPFire](https://www.ipfire.org) - IPFire is a hardened, versatile, state-of-the-art Open Source firewall based on Linux.
 - [m0n0wall](https://m0n0.ch/wall/index.php) - _Embedded firewall distribution of FreeBSD._
 - [OpenWrt](https://openwrt.org) - OpenWrt is an open source project for embedded operating systems based on Linux, primarily used on embedded devices to route network traffic.
