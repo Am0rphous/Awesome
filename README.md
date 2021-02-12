@@ -190,7 +190,12 @@ PyCharm, Spyder, Jupyter , ,
    #### IP TV
    - [FreeTuxTV](https://github.com/freetuxtv/freetuxtv/) - FreetuxTV Internet television and radio player.
    - [IPTVx](https://github.com/jankammerath/iptvx) - IPTV player and streamer for Linux that allows to play any stream that LibVLC can play, offers an overlay based on WebKit using HTML5, JavaScript and CSS and uses XMLTV data for EPG information. It allows the playback of URLs, files and can grab URLs from shell scripts. XMLTV EPG data can be downloaded from URLs or grabbed from shell scripts. 
-
+   #### Music
+   - [AirSonic](https://github.com/airsonic/airsonic) - 📡 ☁️ 🎶Airsonic, a Free and Open Source community driven media server (fork of Subsonic and Libresonic).
+     - [Airsonic-Advanced](https://github.com/airsonic-advanced/airsonic-advanced) - modern implementation of the Airsonic fork with several key performance and feature enhancements.
+     - [Airsonic Frontend](https://github.com/tamland/airsonic-frontend) - Modern UI for Airsonic / Subsonic.
+   - [Gonic](https://github.com/sentriz/gonic) - Music streaming server / subsonic server API implementation.
+   
   ### Sound Production
   - [CubicSDR](https://github.com/cjcliffe/CubicSDR) - Cross-Platform Software-Defined Radio Application. [www.cubicsdr.com](http://www.cubicsdr.com/)
   - [Ardour](https://ardour.org/) - Record, Edit, and Mix on Linux, macOS and Windows
