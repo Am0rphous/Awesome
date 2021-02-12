@@ -2,8 +2,10 @@
 
 ## Collection of various resources
 - [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
+- [Awesome macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
+- [Awesome macOS open source applications by  serhii-londar](https://github.com/serhii-londar/open-source-mac-os-apps)
 - [Mac Apps](https://github.com/jeffreyjackson/mac-apps)
-- [Open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)
+
 
 ## Communication
 - [ThunderBird](https://www.thunderbird.net)
