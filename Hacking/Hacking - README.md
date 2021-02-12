@@ -338,6 +338,7 @@ FTest, Lbd, Wafw00f
 
 
 ## Script Collections
+- [AggressorAssessor](https://github.com/FortyNorthSecurity/AggressorAssessor) - Aggressor scripts for phases of a pen test or red team assessment.
 - [killswitch-GUI PenTesting Scripts](https://github.com/killswitch-GUI/PenTesting-Scripts) - Collection
 - [PowerShell-Suite](https://github.com/FuzzySecurity/PowerShell-Suite) - tools and resources.
 
