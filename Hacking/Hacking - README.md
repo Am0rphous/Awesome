@@ -29,6 +29,7 @@ https://github.com/clong/DetectionLab
 - [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) - A curated list of Web Security materials and resources.
 - [burpsuite](https://github.com/thehackingsage/burpsuite)
   - [Awesome Burp Extensions](https://github.com/snoopysecurity/awesome-burp-extensions) - A curated list of amazingly awesome Burp Extensions.
+  - [BurpKit](https://github.com/allfro/BurpKit) - Next-gen BurpSuite penetration testing tool.
   - [IntruderPayloads](https://github.com/1N3/IntruderPayloads) - A collection of Burpsuite Intruder payloads, BurpBounty payloads, fuzz lists, malicious file uploads and web pentesting methodologies and checklists.
 - [captcha-crack-tools](https://github.com/evilsadko/captcha-crack-tools)
 - [Collection of Hacking tools](https://gbhackers.com/hacking-tools-list/)
