@@ -102,6 +102,7 @@ https://github.com/clong/DetectionLab
 - [SharpSploit](https://github.com/cobbr/SharpSploit) - SharpSploit is a .NET post-exploitation library written in C#.
 - [SILENTTRINITY](https://github.com/byt3bl33d3r/SILENTTRINITY) - An asynchronous, collaborative post-exploitation agent powered by Python and .NET's DLR.
   ### Backdoor and Shell creation
+  - [Apache backdoor](https://github.com/tom0li/Apache-backdoor)
   - [Arcane](https://github.com/tokyoneon/Arcane) - Arcane is a simple script designed to backdoor iOS packages (iphone-arm) and create the necessary resources for APT repositories.
   - [Backdoorplz](https://github.com/jfmaes/Backdoorplz) - Adding a backdooruser using win32api.
   - [C2](https://github.com/0xRick/c2) - A basic c2 / agent [0xrick.github.io/misc/c2](https://0xrick.github.io/misc/c2).
@@ -146,8 +147,10 @@ https://github.com/clong/DetectionLab
   - [go-shellcode](https://github.com/brimstone/go-shellcode) - program to run shellcode as its own process, all from memory. This was written to defeat anti-virus detection.
   - [Ppdump-public](https://github.com/realoriginal/ppdump-public) - _Protected Process (Light) Dump: Uses Zemana AntiMalware Engine To Open a Privileged Handle to a PP/PPL Process And Inject MiniDumpWriteDump() Shellcode._
   - [Process Hollowing](https://github.com/m0n0ph1/Process-Hollowing) - Great explanation of Process Hollowing (a Technique often used in Malware).
-  - [Theevilbit's injection](https://github.com/theevilbit/injection)
+  - [sakeInject](https://github.com/aaaddress1/sakeInject) - Windows PE - TLS (Thread Local Storage) Injector in C/C++.
   - [SharpZipRunner](https://github.com/jfmaes/SharpZipRunner) - Executes position independent shellcode from an encrypted zip.
+  - [Theevilbit's injection](https://github.com/theevilbit/injection)
+
   - [TikiTorch](https://github.com/rasta-mouse/TikiTorch) - Process Injection.
   ### VoIP
   - [Sipvicious](https://github.com/EnableSecurity/sipvicious) - _SIPVicious OSS is a set of security tools that can be used to audit SIP based VoIP systems._
