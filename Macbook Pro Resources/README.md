@@ -13,7 +13,12 @@
   - [LimeChat](http://github.com/psychs/limechat) - IRC Client for Mac. [limechat.net/mac](http://limechat.net/mac)
   
 ## Music
+- [Beardedspice](https://github.com/beardedspice/beardedspice) - Mac Media Keys for the Masses.
+- [Cumulus](https://github.com/gillesdemey/Cumulus) - ☁️ A SoundCloud player that lives in your menubar.
 - [eqMac](https://github.com/bitgapp/eqMac) - macOS System-wide Audio Equalizer 🎧 [eqmac.app](https://eqmac.app).
+- [SoundCleod](https://github.com/salomvary/soundcleod) - SoundCloud for macOS and Windows.
+- [Soundnode](https://www.soundnodeapp.com) - An opensource SoundCloud app for Desktop.
+- [Vox](https://vox.rocks/) - Premium Mac Music Player for Hi-Res music through the popular sources.
 
 ## Tools
 - [Eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
