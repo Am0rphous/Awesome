@@ -40,6 +40,8 @@
   ````
   ### Development
   - [Node-appDMG](https://github.com/LinusU/node-appdmg) - 💾 Generate your app dmgs.
+  - [Rumps](https://github.com/jaredks/rumps) - Ridiculously Uncomplicated macOS Python Statusbar apps.
+  - [Tray Example](https://github.com/kevinsawicki/tray-example) - Electron Tray Mac OS X Example App.
   ### Package Managers
   - [Brew / HomeBrew](https://brew.sh/) - Package Manager for Linux and MacOS.
   - [Brew Documentation](https://docs.brew.sh)
