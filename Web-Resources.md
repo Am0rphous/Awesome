@@ -69,6 +69,7 @@
 - [Linuxhint.com](https://linuxhint.com) - Lots of tutorials.
 - [SecJuice.com](https://www.secjuice.com) - Non-profit cyber goodness.
 - [Spyboy blog](https://spyboy.blog) - Learn ethical hacking , cyber security, computer programming, networking, android tricks and windows tricks.
+- [ss64](https://ss64.com) - Reference guide containing syntax and examples for the most prevalent computing commands (Database and Operating System).
 - [Thehacks.co](https://thehacks.co) - Latest Hacking Insights Tips & Guides.
 - [zeropointsecurity.co.uk/red-team-ops](https://www.zeropointsecurity.co.uk/red-team-ops) - Offensive Cyber Security Training.
   ### PowerShell
