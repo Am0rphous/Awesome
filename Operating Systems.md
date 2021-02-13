@@ -99,7 +99,11 @@
 - [DD-WRT](https://dd-wrt.com) - DD-WRT is a Linux based alternative OpenSource firmware suitable for a great variety of WLAN routers and embedded systems.
 - [FreshTomato](https://freshtomato.org/)
 - [IPFire](https://www.ipfire.org) - IPFire is a hardened, versatile, state-of-the-art Open Source firewall based on Linux.
-- [m0n0wall](https://m0n0.ch/wall/index.php) - _Embedded firewall distribution of FreeBSD._
+- [m0n0wall](https://m0n0.ch/wall/index.php) - Embedded firewall distribution of FreeBSD.
+- [MikroTik](https://mikrotik.com)
+  - [RouterOS Scripts](https://github.com/eworm-de/routeros-scripts)
+  - [RouterOS Security Research](https://github.com/tenable/routeros) - RouterOS Security Research Tooling and Proof of Concept.
+  - [winbox-mac](https://github.com/nrlquaker/winbox-mac) - MikroTik Winbox bundled into macOS app with Wine.
 - [OpenWrt](https://openwrt.org) - OpenWrt is an open source project for embedded operating systems based on Linux, primarily used on embedded devices to route network traffic.
 - [OPNsense](https://opnsense.org) - Open source, easy-to-use and easy-to-build HardenedBSD based firewall and routing platform. 
 - [PFsense](https://www.pfsense.org) - Open source firewall/router computer software distribution based on FreeBSD.
