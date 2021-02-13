@@ -206,7 +206,8 @@ FTest, Lbd, Wafw00f
    - [The OXID Resolver (Part 2)](https://airbus-cyber-security.com/the-oxid-resolver-part-2-accessing-a-remote-object-inside-dcom) – Accessing a Remote Object inside DCOM.
  - [MasScan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
  - [Naabu](https://github.com/projectdiscovery/naabu) - A fast port scanner written in go with focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests.
- - [WhatBreach](https://github.com/Ekultek/WhatBreach) - _OSINT tool to find breached emails, databases, pastes, and relevant information._
+ - [UPNP_info](https://github.com/tenable/upnp_info) - A simple script for discovery and analysis of UPnP servers.
+ - [WhatBreach](https://github.com/Ekultek/WhatBreach) - OSINT tool to find breached emails, databases, pastes, and relevant information.
  
  ### OSINT
 - [Awesome OSINT](https://github.com/jivoi/awesome-osint) - A curated list of amazingly awesome OSINT.
