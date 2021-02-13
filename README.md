@@ -72,6 +72,7 @@ PyCharm, Spyder, Jupyter , ,
   - [GhostText-for-Atom](https://github.com/GhostText/GhostText-for-Atom) - Allows live editing of Chrome/Firefox text area or JS Code editor content with Atom using WebSockets.
 - [CppCheck](https://github.com/danmar/cppcheck) -  static analysis of C/C++ code.
 - [Dart SDK](https://github.com/dart-lang/sdk) - Dart is an open-source, scalable programming language, with robust libraries and runtimes, for building web, server, and mobile apps.
+- [Electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS .
 - [Emmet Sublime](https://github.com/sergeche/emmet-sublime) - Emmet for Sublime Text.
 - [GhostText](https://github.com/GhostText/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
 - [Github Desktop](https://github.com/desktop/desktop) - open source Electron-based GitHub app. It is written in TypeScript and uses React [desktop.github.com/](https://desktop.github.com).
@@ -85,14 +86,14 @@ PyCharm, Spyder, Jupyter , ,
 - [Visual Studio Code](https://github.com/Microsoft/vscode) - [code.visualstudio.com](https://code.visualstudio.com)
 - [Wing](https://github.com/kbrsh/wing) - A beautiful CSS framework designed for minimalists [kbrsh.github.io](https://kbrsh.github.io/wing/).
  ### Node.js
- - [Pm2.io](https://pm2.io) - _PM2 is a production process manager for Node.js applications with a built-in load balancer. It allows you to keep applications alive forever, to reload them without downtime and to facilitate common system admin tasks._
+ - [Pm2.io](https://pm2.io) - PM2 is a production process manager for Node.js applications with a built-in load balancer. It allows you to keep applications alive forever, to reload them without downtime and to facilitate common system admin tasks.
  ### Programming
- - [KDevelop](https://github.com/KDE/kdevelop) - _Cross-platform IDE for C, C++, Python, QML/JavaScript and PHP._
+ - [KDevelop](https://github.com/KDE/kdevelop) - Cross-platform IDE for C, C++, Python, QML/JavaScript and PHP.
   #### JavaScript
-  - [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - _30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days. This challenge may take up to 100 days, please just follow your own pace._
+  - [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days. This challenge may take up to 100 days, please just follow your own pace.
   #### Nim
   - [GUI Options for Nim](https://matthiashager.com/gui-options-for-nim)
-  - [Nimwsnetproxy](https://github.com/skelsec/nimwsnetproxy) - _Websockets-tcp proxy in nim._
+  - [Nimwsnetproxy](https://github.com/skelsec/nimwsnetproxy) - Websockets-tcp proxy in nim.
   - [Nimx](https://github.com/yglukhov/nimx) - _GUI library._
   - [Wxnim](https://github.com/PMunch/wxnim) - _Nim wrapper for wxWidgets._
   #### PHP
