@@ -69,6 +69,7 @@ https://github.com/clong/DetectionLab
 - [CTF-scripts by 0xRick](https://github.com/0xRick/CTF-scripts) - Hack The Box
 - [Docker-War](https://github.com/qazbnm456/Docker-War) - Docker based Wargame Platform - To practice your CTF skills.
 - [Fbctf](https://github.com/facebookarchive/fbctf) - Platform to host Capture the Flag competitions.
+- [Orangetw - My-CTF-Web-Challenges](https://github.com/orangetw/My-CTF-Web-Challenges) - Collection of CTF Web challenges I made.
 - [VWGen](https://github.com/qazbnm456/VWGen) - Vulnerable Web applications Generator.
   ### CTF challenges
   - [Hack The Box](https://www.hackthebox.eu)
@@ -117,6 +118,7 @@ https://github.com/clong/DetectionLab
   - [ShellCodeFramework](https://github.com/mai1zhi2/ShellCodeFramework) - 绕3环的shellcode免杀框架.
   - [ShellStack](https://github.com/Tuhinshubhra/shellstack) -  A PHP Based Tool That Helps You To Manage All Your Backdoored Websites Efficiently.
   - [TomcatWarDeployer](https://github.com/mgeeky/tomcatWarDeployer) - Penetration testing tool intended to leverage Apache Tomcat credentials in order to automatically generate and deploy JSP Backdoor.
+  - [Tsh (8 years old)](https://github.com/orangetw/tsh) - Tiny SHell is an open-source UNIX backdoor.
   - [WebShell](https://github.com/tennc/webshell)
   ### Evasion
   - [DKMC](https://github.com/Mr-Un1k0d3r/DKMC) - DKMC - Dont kill my cat - Malicious payload evasion tool.
