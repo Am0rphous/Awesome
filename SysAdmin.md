@@ -575,11 +575,13 @@ upstream_recursive_servers:
 - [Proxify](https://github.com/projectdiscovery/proxify) - Swiss Army knife Proxy tool for HTTP/HTTPS traffic capture, manipulation, and replay on the go.
 - [Sanstorm](https://sandstorm.io/) - Sandstorm is an open source platform for self-hosting web apps
 - [Squid]()
-  - [SquidGuard](http://www.squidguard.org/)
+  - [SquidGuard](http://www.squidguard.org)
 - [Wordpress Comment Blacklist](https://github.com/splorp/wordpress-comment-blacklist) - A simple solution for WordPress comment spam.
   ### Web Hosting Services worth checking out
   - [000webhost.com](https://www.000webhost.com)
-  - [OSU Open Source Lab](https://osuosl.org)
+  - [Hetzner Cloud](https://www.hetzner.com/cloud)
+    - [awesome-hcloud](https://github.com/hetznercloud/awesome-hcloud) - A curated list of awesome libraries, tools, and integrations for Hetzner Cloud.
+  - [Osu Open Source Lab](https://osuosl.org)
   ### Web Analytics
   - [AWStats - Advanced Web Statistics](https://github.com/eldy/awstats) -[www.awstats.org](https://www.awstats.org/) _AWStats (Advanced Web Statistics) is a powerful, full-featured web server logfile analyzer which shows you all your Web statistics including: visitors, pages, hits, hours, search engines, keywords used to find your site, broken links, robots and many more..._
   - [Matomo Web Analytics](https://matomo.org) - "_Google Analytics alternative that protects your data and your customers' privacy_" [matomo.org](https://matomo.org/).
