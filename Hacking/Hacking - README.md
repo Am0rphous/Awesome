@@ -399,6 +399,7 @@ FTest, Lbd, Wafw00f
 - [HandyHeaderHacker by kj0317](https://github.com/kj0317/HandyHeaderHacker) - Examine HTTP response headers for common security issues.
 - [HandyHeaderHacker by vpnguy-zz](https://github.com/vpnguy-zz/HandyHeaderHacker) - Examine HTTP response headers for common security issues.
 - [Kenzer](https://github.com/ARPSyndicate/kenzer) - Automated web assets enumeration & scanning.
+- [ZAP - Zed Attack Proxy](https://www.zaproxy.org) - Widely used web app scanner.
  ### CMS & Framwork Identification
   - [CMS-Hunter](https://github.com/SecWiki/CMS-Hunter) - Content Management System Vulnerability Hunter [www.sec-wiki.com](https://www.sec-wiki.com).
   - [CMSeeK](https://github.com/Tuhinshubhra/CMSeeK) -  CMS Detection and Exploitation suite - Scan WordPress, Joomla, Drupal and over 180 other CMSs.
@@ -414,7 +415,7 @@ FTest, Lbd, Wafw00f
  - [LinkFinder](https://github.com/GerbenJavado/LinkFinder) - A python script that finds endpoints in JavaScript files.
  - [Phuzz](https://github.com/XiphosResearch/phuzz) - Find exploitable PHP files by parameter fuzzing and function call tracing.
  - [wp_hunter](https://github.com/Josue87/wp_hunter) - Static analysis of wordpress plugins.
- - [XSStrike](https://github.com/s0md3v/XSStrike) - _Most advanced XSS scanner._
+ - [XSStrike](https://github.com/s0md3v/XSStrike) - Most advanced XSS scanner.
 
 ## Wireless Attacking
 - [Deauther](https://github.com/dom96/deauther) - CLI Deauther for macOS. Might need a library which comes by installing [termbox](https://github.com/nsf/termbox).
