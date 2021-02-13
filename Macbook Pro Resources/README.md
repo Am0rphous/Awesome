@@ -11,6 +11,9 @@
 - [ThunderBird](https://www.thunderbird.net)
   #### IRC clients
   - [LimeChat](http://github.com/psychs/limechat) - IRC Client for Mac. [limechat.net/mac](http://limechat.net/mac)
+  
+## Music
+- [eqMac](https://github.com/bitgapp/eqMac) - macOS System-wide Audio Equalizer 🎧 [eqmac.app](https://eqmac.app).
 
 ## Tools
 - [Eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
