@@ -21,6 +21,15 @@
 - [Shield](https://github.com/theevilbit/Shield) - An app to protect against process injection on macOS.
 - [WineBottler](https://winebottler.kronenberg.org) - Run .exe files on Macbook using Wine. Logfile: `~/Library/Logs/Wine.log`
 - [WineHQ for MacOS](https://wiki.winehq.org/MacOS) - Requires `brew install xquartz` >= 2.7.7. [xquartz.org](https://www.xquartz.org) `brew cask install wine-stable`
+  ### Creating Bootable USB
+  - dd - check my [Disk CheatSheet notes](https://github.com/Am0rphous/CheatSheets/blob/main/Linux/Disk.md)
+  - diskutil command. Procedure is as follows
+  ````
+  diskutil list
+  diskutil unmountDisk /dev/disknumber
+  sudo dd if=/path/to/image.iso of=/dev/rdisknumber bs=1m>
+  sudo dd if=/Users/user_name/Downloads/CentOS-8-x86_64-boot.iso of=/dev/rdisk2
+  ````
   ### Development
   - [Node-appDMG](https://github.com/LinusU/node-appdmg) - 💾 Generate your app dmgs.
   ### Package Managers
