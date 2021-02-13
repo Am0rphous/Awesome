@@ -500,6 +500,13 @@ upstream_recursive_servers:
   ### Create Bootable USB
   - [Balena Etcher](https://github.com/balena-io/etcher) -  Flash OS images to SD cards & USB drives, safely and easily.
   - [Cubic](https://launchpad.net/cubic) - Custom Ubuntu ISO Creator) is a GUI wizard to create a customized Ubuntu Live ISO image.
+  - [Diskutil (macOS, BSD systems)](https://ss64.com/osx/diskutil.html) - Modify, verify and repail local disks. Procedure is as follows:
+  ````
+  diskutil list
+  diskutil unmountDisk /dev/disknumber
+  sudo dd if=/path/to/image.iso of=/dev/rdisknumber bs=1m>
+  sudo dd if=/Users/user_name/Downloads/CentOS-8-x86_64-boot.iso of=/dev/rdisk2
+  ````
   - [ISOWriter](https://github.com/KaOSx/isowriter) - Tool for creating bootable installation USB flash drives, forked from rosa-imagewriter.
   - [Rufus (Windows)](https://rufus.ie) - The Reliable USB Formatting Utility.
   - [UNetbootin](https://github.com/unetbootin/unetbootin) - UNetbootin installs Linux/BSD distributions to a partition or USB drive.
