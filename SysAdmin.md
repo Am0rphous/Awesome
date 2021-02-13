@@ -448,13 +448,6 @@ upstream_recursive_servers:
   APT::Periodic::Update-Package-Lists "1";
   APT::Periodic::Unattended-Upgrade "1";
   ````
-  
-## Scripting
-- [Awesome-Scripts by DedSecInside](https://github.com/DedSecInside/Awesome-Scripts) - A collection of awesome scripts from developers around the globe.
-- [HuePy](https://github.com/s0md3v/huepy) - Print awesomely in terminals.
-- [PyWebView](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS.
-- [Ubuntu post-installation script](https://github.com/nicolargo/ubuntupostinstall)
-- [Qoa](https://github.com/klaussinani/qoa) - Minimal interactive command-line prompts
 
 ## Terminal / Shell
 - [Awesome Shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -481,8 +474,17 @@ upstream_recursive_servers:
   - [Debugging Bash Scripts](https://linuxconfig.org/how-to-debug-bash-scripts) - Usage of traditional techniques, xtrace, trap and other options.
   - [Oh My Bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. [ohmybash.github.io](https://ohmybash.github.io)
   ### Dotfiles
+  - [chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right.
+    - [ansi-styles](https://github.com/chalk/ansi-styles) - ANSI escape codes for styling strings in the terminal.
   - [Mohkale's DotFiles](https://github.com/mohkale/dotfiles)
   - [Yadm - Yet Another Dotfiles Manager](https://github.com/TheLocehiliosan/yadm)
+  ## Scripting
+  - [Awesome-Scripts by DedSecInside](https://github.com/DedSecInside/Awesome-Scripts) - A collection of awesome scripts from developers around the globe.
+  - [HuePy](https://github.com/s0md3v/huepy) - Print awesomely in terminals.
+  - [PyWebView](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS.
+  - [Ubuntu post-installation script](https://github.com/nicolargo/ubuntupostinstall)
+  - [Qoa](https://github.com/klaussinani/qoa) - Minimal interactive command-line prompts
+
   ### Web Browser in Terminal
   - [browser-terminal](https://github.com/AE0L/browser-terminal) - A browser terminal made with Vanilla JavaScript.
   - [Haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
