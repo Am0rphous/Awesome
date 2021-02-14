@@ -58,6 +58,7 @@ https://github.com/upptime/upptime
 https://u.is/en/
 https://github.com/Mr-Un1k0d3r/SCShell
 https://github.com/owncast/owncast
+https://github.com/jaredthecoder/awesome-vehicle-security
 https://github.com/leoanggal1/P-SAK
 Samhain Labs, https://www.la-samhna.de/services.html, docs: https://la-samhna.de/samhain/s_documentation.html
   - http://www.la-samhna.de/samhain/samhain-current.tar.gz
