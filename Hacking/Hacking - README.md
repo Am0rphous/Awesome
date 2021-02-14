@@ -221,6 +221,7 @@ FTest, Lbd, Wafw00f
 - [Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
 - [TheHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT.
 - [UrlScan.io](https://urlscan.io)
+- [WhatBreach](https://github.com/Ekultek/WhatBreach) - OSINT tool to find breached emails, databases, pastes, and relevant information.
 
  ### Route Analysis
  ### SMB Analysis
