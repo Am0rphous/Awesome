@@ -128,6 +128,7 @@ PyCharm, Spyder, Jupyter , ,
 - [academy.attackiq.com](https://academy.attackiq.com)
 - MITRE ATT&CK - https://attack.mitre.org/
         - https://mitre-attack.github.io/attack-navigator/enterprise/
+- [TaskBook(https://github.com/klaussinani/taskbook/blob/master/.gitattributes) - asks, boards & notes for the command-line habitat 
 
 ## Learning resources
 - [Command Line Text Processing](https://github.com/learnbyexample/Command-line-text-processing#ebook) - From finding text to search and replace, from sorting to beautifying text and more. [Gitbook](https://learnbyexample.gitbooks.io/command-line-text-processing/content/)
