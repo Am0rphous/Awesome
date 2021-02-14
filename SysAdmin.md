@@ -455,6 +455,7 @@ upstream_recursive_servers:
 - [Boxen](https://github.com/sindresorhus/boxen) - Create boxes in the terminal.
   - [Boxen-cli](https://github.com/sindresorhus/boxen-cli) - Create boxes in the terminal.
   - [ink-box](https://github.com/sindresorhus/ink-box) - Styled box component for Ink.
+- [CANalyse](https://github.com/KartheekLade/CANalyse) -  A tool to analyze log files!
 - [Cool Retro Term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display.
 - [Gnome-Terminal](https://gitlab.gnome.org/GNOME/gnome-terminal) - Default in all major Linux distributions.
 - [Hyper](https://github.com/vercel/hyper) -  A terminal built on web technologies. [www.hyper.is](https://hyper.is/)
