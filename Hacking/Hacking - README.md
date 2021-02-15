@@ -422,10 +422,12 @@ FTest, Lbd, Wafw00f
  - [AwesomeXSS](https://github.com/s0md3v/AwesomeXSS) - Awesome XSS stuff.
  - [Bolt](https://github.com/s0md3v/Bolt) - CSRF Scanner.
  - [Corsy](https://github.com/s0md3v/Corsy) - CORS Misconfiguration Scanner.
+ - [DalFox](https://github.com/hahwul/dalfox) - 🌘🦊 DalFox(Finder Of XSS) / Parameter Analysis and XSS Scanning tool based on golang.
  - [Inception](https://github.com/proabiral/inception) - _A highly configurable Framework for easy automated web scanning._
  - [LinkFinder](https://github.com/GerbenJavado/LinkFinder) - A python script that finds endpoints in JavaScript files.
  - [Phuzz](https://github.com/XiphosResearch/phuzz) - Find exploitable PHP files by parameter fuzzing and function call tracing.
  - [wp_hunter](https://github.com/Josue87/wp_hunter) - Static analysis of wordpress plugins.
+ - [XSpear](https://github.com/hahwul/XSpear) - Powerfull XSS Scanning and Parameter analysis tool&gem.
  - [XSStrike](https://github.com/s0md3v/XSStrike) - Most advanced XSS scanner.
 
 ## Wireless Attacking
