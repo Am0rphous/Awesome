@@ -146,11 +146,12 @@ https://github.com/clong/DetectionLab
   - [UACME](https://github.com/hfiref0x/UACME) - Defeating Windows User Account Control by abusing built-in Windows AutoElevate backdoor.
   - [WinObjEx64](https://github.com/hfiref0x/WinObjEx64) - Windows Object Explorer 64-bit.
   ### Process Injection
-  - [Alaris Shellcode Loader](https://github.com/cribdragg3r/Alaris) - _A protective and Low Level Shellcode Loader the defeats modern EDR systems._
+  - [Alaris Shellcode Loader](https://github.com/cribdragg3r/Alaris) - A protective and Low Level Shellcode Loader the defeats modern EDR systems.
   - [cThreadHijack](https://github.com/connormcgarr/cThreadHijack) - Beacon Object File (BOF) for remote process injection via thread hijacking.
   - [go-shellcode](https://github.com/brimstone/go-shellcode) - program to run shellcode as its own process, all from memory. This was written to defeat anti-virus detection.
-  - [Ppdump-public](https://github.com/realoriginal/ppdump-public) - _Protected Process (Light) Dump: Uses Zemana AntiMalware Engine To Open a Privileged Handle to a PP/PPL Process And Inject MiniDumpWriteDump() Shellcode._
+  - [Ppdump-public](https://github.com/realoriginal/ppdump-public) - Protected Process (Light) Dump: Uses Zemana AntiMalware Engine To Open a Privileged Handle to a PP/PPL Process And Inject MiniDumpWriteDump() Shellcode.
   - [Process Hollowing](https://github.com/m0n0ph1/Process-Hollowing) - Great explanation of Process Hollowing (a Technique often used in Malware).
+  - [Ridgway](https://github.com/m0rv4i/Ridgway) - A quick tool for hiding a new process running shellcode.
   - [sakeInject](https://github.com/aaaddress1/sakeInject) - Windows PE - TLS (Thread Local Storage) Injector in C/C++.
   - [SharpZipRunner](https://github.com/jfmaes/SharpZipRunner) - Executes position independent shellcode from an encrypted zip.
   - [Theevilbit's injection](https://github.com/theevilbit/injection)
@@ -355,9 +356,10 @@ FTest, Lbd, Wafw00f
 ## Techniques, Collections and Tactical Resources
 - [D00MFist's CTF Notes](https://github.com/D00MFist/security) - collection of notes picked up doing numerous CTFs.
 - [GoVanguards list-infosec-encyclopedia](https://github.com/GoVanguard/list-infosec-encyclopedia) - A list of information security related awesome lists and other resources.
-- [Hacker Roadmap](https://github.com/sundowndev/hacker-roadmap) - _📌 Your beginner pen-testing start guide. A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking and web security._
-- [Hacking-Tools-Repository](https://github.com/Gexos/Hacking-Tools-Repository) - _A list of security/hacking tools that have been collected from the internet._
+- [Hacker Roadmap](https://github.com/sundowndev/hacker-roadmap) - 📌 Your beginner pen-testing start guide. A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking and web security.
+- [Hacking-Tools-Repository](https://github.com/Gexos/Hacking-Tools-Repository) - A list of security/hacking tools that have been collected from the internet.
 - [HackTricks](https://github.com/carlospolop/hacktricks) - trick/technique/whatever [carlospolop](https://github.com/carlospolop) have learnt in CTFs, real life apps and reading researches and news.
+- [Infosec Tool List Update December 2020](https://medium.com/@markmotig/infosec-tool-list-update-december-2020-b1a21904b5ca) -  list of security tools as of December 2020.
 - [Jhaddix's pentest-bookmarks](https://github.com/jhaddix/pentest-bookmarks/blob/master/wiki/BookmarksList.wiki) - Collection of handy bookmarks.
 - LOLBins
   - [LOLBins: How cyber attackers bypass traditional security defenses](https://blog.teamascend.com/lolbins)
