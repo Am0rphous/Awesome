@@ -91,6 +91,7 @@ PyCharm, Spyder, Jupyter , ,
  - [KDevelop](https://github.com/KDE/kdevelop) - Cross-platform IDE for C, C++, Python, QML/JavaScript and PHP.
   #### JavaScript
   - [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days. This challenge may take up to 100 days, please just follow your own pace.
+  - [Babel](https://babeljs.io/) - JavaScript compiler.
   #### Nim
   - [GUI Options for Nim](https://matthiashager.com/gui-options-for-nim)
   - [Nimwsnetproxy](https://github.com/skelsec/nimwsnetproxy) - Websockets-tcp proxy in nim.
