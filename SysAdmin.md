@@ -362,7 +362,7 @@ upstream_recursive_servers:
   Install it with e.g. `brew install --cask remote-desktop-manager-free`
 - SSH
   - [Portable OpenSSH](https://github.com/openssh/openssh-portable)
-  - [SSH Hardening](https://github.com/Am0rphous/Bash/blob/master/Security/ssh-hardening.md)
+  - [SSH Hardening](https://github.com/Am0rphous/CheatSheets/blob/main/Linux/ssh-hardening.md)
   - [SSH Hardening with Security Onion](https://docs.securityonion.net/en/2.3/ssh.html)
   - [Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH) - Win32 port of OpenSSH.
 - [xRDP](https://github.com/neutrinolabs/xrdp) - Open source RDP server.
