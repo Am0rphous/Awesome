@@ -357,6 +357,7 @@ FTest, Lbd, Wafw00f
 
 ## Steganography
 - [GG-AESY](https://github.com/jfmaes/GG-AESY) - Hide cool stuff in images.
+- [Steghide Brute Force Tool](https://github.com/Va5c0/Steghide-Brute-Force-Tool) - Execute a brute force attack with Steghide to file with hide information and password established.
 
 ## Techniques, Collections and Tactical Resources
 - [D00MFist's CTF Notes](https://github.com/D00MFist/security) - collection of notes picked up doing numerous CTFs.
