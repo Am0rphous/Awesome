@@ -39,6 +39,7 @@ https://github.com/Al1ex?tab=repositories&q=cve&type=&language=
 - [CVE-2020-5902](https://github.com/Al1ex/CVE-2020-5902)
 - [CVE-2020-2883](https://github.com/Al1ex/CVE-2020-2883)
 - [CVE-2020-1350](https://github.com/Al1ex/CVE-2020-1350) - Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019.
+- [CVE-2020-0796](https://github.com/danigargu/CVE-2020-0796) - CVE-2020-0796 - Windows SMBv3 LPE exploit #SMBGhost.
 
 #### 2019
 - [CVE-2019-20057](https://github.com/theevilbit/exploits/tree/master/CVE-2019-20057/PMCocoa)
