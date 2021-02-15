@@ -299,11 +299,14 @@ lsscsi                          #Print SCSI Devices Info
     - [Security Onion Documentation](https://docs.securityonion.net/en/2.3/index.html)
   - [Sysmon Modular](https://github.com/olafhartong/sysmon-modular) - A repository of sysmon configuration modules.
   - [Sysmon Search](https://github.com/JPCERTCC/SysmonSearch) - Investigate suspicious activity by visualizing Sysmon's event log.
-  - [Sysmon Tools](https://github.com/nshalabi/SysmonTools) - _Utilities for Sysmon._
-- [SysUsage](https://github.com/darold/sysusage) - _SysUsage is a system monitoring and alarm reporting tool. It can generate historical graph views of CPU, memory, IO, network and disk usage, and very much more._
-- [Wazuh](https://github.com/wazuh/wazuh/) - W_azuh is a free, open source and enterprise-ready security monitoring solution for threat detection, integrity monitoring, incident response and compliance. [wazuh.com](https://wazuh.com)_
-- [Webmin](https://github.com/webmin/webmin) - _Powerful and flexible web-based server management control panel [www.webmin.com](http://www.webmin.com)_.
-- [Zeek (Bro)](https://github.com/zeek/zeek) - _Zeek is a powerful network analysis framework that is much different from the typical IDS you may know. [zeek.org](https://www.zeek.org)_
+  - [Sysmon Tools](https://github.com/nshalabi/SysmonTools) - Utilities for Sysmon.
+- [SysUsage](https://github.com/darold/sysusage) - SysUsage is a system monitoring and alarm reporting tool. It can generate historical graph views of CPU, memory, IO, network and disk usage, and very much more.
+- [Wazuh](https://github.com/wazuh/wazuh/) - Wazuh is a free, open source and enterprise-ready security monitoring solution for threat detection, integrity monitoring, incident response and compliance. [wazuh.com](https://wazuh.com)
+- [Webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel [www.webmin.com](http://www.webmin.com).
+- [Zeek (Bro)](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know. [zeek.org](https://www.zeek.org)
+  ## Attack Surface Monitoring
+- [Awesome Attack Surface Monitoring](https://github.com/0xtavian/awesome-attack-surface-monitoring) - Curated list of open-source & paid Attack Surface Monitoring (ASM) tools. 
+
   ### Log Analysis
   - [PgBadger](https://github.com/darold/pgbadger) - _A fast PostgreSQL Log Analyzer [pgbadger.darold.net](https://pgbadger.darold.net)._
   - [PgFormatter](https://github.com/darold/pgFormatter) - _A PostgreSQL SQL syntax beautifier that can work as a console program or as a CGI. On-line demo site at [sqlformat.darold.net](http://sqlformat.darold.net)._
