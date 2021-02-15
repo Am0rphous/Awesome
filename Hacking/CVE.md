@@ -17,7 +17,7 @@ https://github.com/Al1ex?tab=repositories&q=cve&type=&language=
 - [XiphosResearch's exploits](https://github.com/XiphosResearch/exploits) - Miscellaneous exploit code.
 
 #### 2020
-- [CVE-2020-36188](https://github.com/Al1ex/CVE-2020-36188) - _CVE-2020-36188 &&Jackson-databind RCE._
+- [CVE-2020-36188](https://github.com/Al1ex/CVE-2020-36188) - CVE-2020-36188 && Jackson-databind RCE.
 - [CVE-2020-36184](https://github.com/Al1ex/CVE-2020-36184)
 - [CVE-2020-36179](https://github.com/Al1ex/CVE-2020-36179)
 - [CVE-2020-35728](https://github.com/Al1ex/CVE-2020-35728) - CVE-2020-35728 & Jackson-databind RCE.
@@ -25,6 +25,7 @@ https://github.com/Al1ex?tab=repositories&q=cve&type=&language=
 - [CVE-2020-26217](https://github.com/Al1ex/CVE-2020-26217)
 - [CVE-2020-17530](https://github.com/Al1ex/CVE-2020-17530) - Simple test Project for S2-061 which can be used to analysis the detail of this vulnerability.
 - [CVE-2020-16938](https://github.com/ioncodes/CVE-2020-16938) - Bypassing NTFS permissions to read any files as unprivileged user.
+- [CVE-2020-15931](https://github.com/optiv/CVE-2020-15931) - Netwrix Account Lockout Examiner 4.1 Domain Admin Account Credential Disclosure Vulnerability.
 - [CVE-2020-14645](https://github.com/Al1ex/CVE-2020-14645) - Weblogic CVE-2020-14645 UniversalExtractor JNDI injection getDatabaseMetaData().
 - [CVE-2020-14195](https://github.com/Al1ex/CVE-2020-14195) - Simple test for FasterXML jackson-databind.
 - [CVE-2020-11652](https://github.com/Al1ex/CVE-2020-11652)
