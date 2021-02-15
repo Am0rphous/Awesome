@@ -99,6 +99,8 @@ https://github.com/clong/DetectionLab
 - [iBombShell](https://github.com/ElevenPaths/ibombshell) - Tool to deploy a post-exploitation prompt at any time
 - [Koadic](https://github.com/zerosum0x0/koadic) - Koadic C3 COM Command & Control - JScript RAT.
 - [Malgen](https://github.com/cmsteffen-code/malgen) - Craft obfuscated, fileless PowerShell malware. 
+- [Metasploit Framework](https://github.com/rapid7/metasploit-framework)
+  - [mad-metasploit](https://github.com/hahwul/mad-metasploit) - etasploit custom modules, plugins, resource script and.. awesome metasploit collection.
 - [OfficePurge](https://github.com/fireeye/OfficePurge)
 - [PostEnum](https://github.com/mostaphabahadou/postenum) - Linux enumeration and privilege escalation tool. 
 - [Pompem](https://github.com/rfunix/Pompem) - Exploit and Vulnerability Finder.
