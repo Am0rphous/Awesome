@@ -59,6 +59,7 @@
 ## Learning material
 - [Academy.hackthebox.eu](https://academy.hackthebox.eu)
 - [Cyberciti.biz](https://www.cyberciti.biz) - Linux / Unix tutorials for new and seasoned sysadmin || developers.
+- [DevConnected.com](https://devconnected.com/)
 - [Geek-university.com](https://geek-university.com) - Free, high-quality IT tutorials
 - [Golinuxcloud.com](https://www.golinuxcloud.com/)
 - [Hackingpassion.com](https://hackingpassion.com)
