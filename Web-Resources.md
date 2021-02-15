@@ -9,6 +9,7 @@
   - [Githacktools.blogspot.com](https://githacktools.blogspot.com)
   - [Hackforums.net](https://hackforums.net)
   - [Hackingarticles.in](hackingarticles.in) - Raj Chandel's Blog.
+  - [Hahwul](https://www.hahwul.com) - Security engineer, Developer and H4cker.
   - [Homeofbannedhacker.blogspot.com](https://homeofbannedhacker.blogspot.com]
   - [Leakzone.net](https://leakzone.net)
   - [Linuxbabe Community](https://community.linuxbabe.com)
