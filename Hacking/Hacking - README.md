@@ -52,7 +52,8 @@ https://github.com/clong/DetectionLab
 - [DeathStar](https://github.com/byt3bl33d3r/DeathStar) - Automate getting Domain Admin using Empire 
 - [Empire](https://github.com/EmpireProject/Empire) - Empire is a PowerShell and Python post-exploitation agent. [www.powershellempire.com](http://www.powershellempire.com/). (no longer supported)
 - [LAPSDumper](https://github.com/n00py/LAPSDumper)
-- [StandIn](https://github.com/FuzzySecurity/StandIn) - small AD post-compromise toolkit.
+- [StandIn](https://github.com/FuzzySecurity/StandIn) - Small AD post-compromise toolkit.
+- [Talon](https://github.com/optiv/Talon) - A password guessing tool that targets the Kerberos and LDAP services within the Windows Active Directory environment.
 - [WinPwn](https://github.com/S3cur3Th1sSh1t/WinPwn) -  Automation for internal Windows Penetrationtest / AD-Security.
 
 ## Automation, setup and install
@@ -137,6 +138,7 @@ https://github.com/clong/DetectionLab
   - [CPLResourceRunner](https://github.com/rvrsh3ll/CPLResourceRunner) - Run shellcode from resource.
   - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF 
   - [Pwndrop](https://github.com/kgretzky/pwndrop) - Self-deployable file hosting service for red teamers, allowing to easily upload and share payloads over HTTP and WebDAV. [breakdev.org/pwndrop](https://breakdev.org/pwndrop)
+  - [ScareCrow](https://github.com/optiv/ScareCrow) - ScareCrow - Payload creation framework designed around EDR bypass.
   - [SharpShooter](https://github.com/mdsecactivebreach/SharpShooter) - Payload Generation Framework.
   - [XSS-Payloads](https://github.com/RenwaX23/XSS-Payloads)
   ### Privilege, UAC, authorization
