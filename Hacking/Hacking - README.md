@@ -273,6 +273,7 @@ FTest, Lbd, Wafw00f
 ## Obfuscation and Deobfuscation
 - [Article: PowerShell Obfuscation using SecureString](https://www.wietzebeukema.nl/blog/powershell-obfuscation-using-securestring)
 - [Decodify](https://github.com/s0md3v/Decodify) - Detect and decode encoded strings, recursively.
+- [Hidden](https://github.com/JKornev/hidden) - Windows driver with usermode interface which can hide objects of file-system and registry, protect processes and etc.
 - [Javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator) - _A powerful obfuscator for JavaScript and Node.js_
 - [Obfuscation-stuff](https://github.com/alphaSeclab/obfuscation-stuff) - Source Code Obfuscation And Binary Obfuscation, Multiple Languages And Multiple Platforms. Including 250+ Tools and 600+ Posts.
 
