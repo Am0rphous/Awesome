@@ -56,6 +56,9 @@ https://github.com/clong/DetectionLab
 - [Talon](https://github.com/optiv/Talon) - A password guessing tool that targets the Kerberos and LDAP services within the Windows Active Directory environment.
 - [WinPwn](https://github.com/S3cur3Th1sSh1t/WinPwn) -  Automation for internal Windows Penetrationtest / AD-Security.
 
+## Attack Surface Monitoring
+- [Awesome Attack Surface Monitoring](https://github.com/0xtavian/awesome-attack-surface-monitoring) - Curated list of open-source & paid Attack Surface Monitoring (ASM) tools. 
+
 ## Automation, setup and install
 - [awesome-bbht](https://github.com/0xApt/awesome-bbht) - _A bash script that will automatically install a list of bug hunting tools that I find interesting for recon, exploitation, etc. (minus burp) For Ubuntu/Debain. Feel free to fork, and add your own tools._
 
