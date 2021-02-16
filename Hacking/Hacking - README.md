@@ -400,7 +400,9 @@ FTest, Lbd, Wafw00f
   - [PYTMIPE & TMIPE](https://github.com/quentinhardy/pytmipe) - Python library and client for token manipulations and impersonations for privilege escalation on Windows.
   - [Sherlock](https://github.com/rasta-mouse/Sherlock) - PowerShell script to quickly find missing software patches for local privilege escalation vulnerabilities.
   - [Watson](https://github.com/rasta-mouse/Watson) - Enumerate missing KBs and suggest exploits for useful Privilege Escalation vulnerabilities.
-
+  ### Containers
+  - [ThreatMapper](https://github.com/deepfence/ThreatMapper) - Identify vulnerabilities in running containers, images, hosts and repositories.
+  
 ## Wargames
 - [0xf.at](https://www.0xf.at/) - 0xf.at (or oxfat it you prefer) is a website without logins or ads where you can solve password-riddles (so called hackits).
 - [hacking-lab.com](https://hacking-lab.com/index.html)
