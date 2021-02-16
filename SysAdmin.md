@@ -359,6 +359,7 @@ upstream_recursive_servers:
   ````
 - [DropBear SSH](https://github.com/mkj/dropbear) - S smallish SSH server and client. [https://matt.ucc.asn.au](https://matt.ucc.asn.au)
 - [ElecTerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp client(linux, mac, win).
+- [mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
 - Remote Desktop Applications
   - [Remote Desktop Manager Free](https://remotedesktopmanager.com) - Windows, Mac, Linux, Android & iOS.
   Install it with e.g. `brew install --cask remote-desktop-manager-free`
