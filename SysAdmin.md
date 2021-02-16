@@ -211,8 +211,9 @@ bro / zeek
 ## File Sharing
 - [Muon SSH Terminal/SFTP client (Formerly Snowflake)](https://github.com/subhra74/snowflake) -  Graphical SFTP client and terminal emulator with helpful utilities.
 - [OnionShare](https://github.com/micahflee/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network [onionshare.org](https://onionshare.org).
-- [piping-server](https://github.com/nwtgck/piping-server) - Infinitely transfer between every device over pure HTTP: designed for everyone including people using Unix pipe and even for browser users.
+- [Piping-server](https://github.com/nwtgck/piping-server) - Infinitely transfer between every device over pure HTTP: designed for everyone including people using Unix pipe and even for browser users.
   - [piping-ui.org](https://piping-ui.org)
+- [Serve by Vercel](https://github.com/vercel/serve) - Static file serving and directory listing.
 - [Warpinator](https://github.com/linuxmint/warpinator) - Share files across the LAN 
 
 ## Hardware
