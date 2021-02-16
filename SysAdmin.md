@@ -598,8 +598,9 @@ upstream_recursive_servers:
   - [Umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
   ### Web Development Tools
   - [Angular](https://github.com/angular/angular) - [cli.angular.io](https://cli.angular.io)
-    - [Angular CLI](https://github.com/angular/angular-cli) - _TypeScript -based open-source web application framework._
-    - [Protractor]() - _E2E test framework for Angular apps [www.protractortest.org](http://www.protractortest.org)_
+    - [Angular CLI](https://github.com/angular/angular-cli) - TypeScript -based open-source web application framework.
+    - [Protractor]() - E2E test framework for Angular apps [www.protractortest.org](http://www.protractortest.org)
+  - [Ant Design](https://github.com/ant-design/ant-design) - 🌈 A UI Design Language and React UI library.
   - [awesome-web-effect](https://github.com/lindelof/awesome-web-effect) - A series of exquisite and compact web page cool effects.
   - [Bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
   - [Developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021.
