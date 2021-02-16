@@ -204,6 +204,10 @@ bro / zeek
 - [Ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Ansible Tower offers free for handling up to 10 nodes.
 - [wAuto](https://github.com/khchen/wAuto) - Windows automation module.
 
+## Dell Spesific Tools
+- [iDRAC-Redfish-Scripting](https://github.com/dell/iDRAC-Redfish-Scripting) - Python and PowerShell scripting for Dell EMC PowerEdge iDRAC REST API with DMTF Redfish.
+- [ilo4_toolbox](https://github.com/airbus-seclab/ilo4_toolbox) - Toolbox for HPE iLO4 & iLO5 analysis.
+
 ## Ebooks and PDFs
 - [GeekGuide - Linux in the Time of Malware](https://www.linuxjournal.com/sites/default/files/2018-11/GeekGuide-Bit9-3.pdf)
 - [GeekGuide - SysAdmin 101](https://www.linuxjournal.com/sites/default/files/2018-12/SysAdmin101-Ebook.pdf)
