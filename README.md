@@ -149,6 +149,7 @@ PyCharm, Spyder, Jupyter , ,
 ## Looking for software, projects, courses or inspiration?
 - [Ail-framework](https://github.com/ail-project/ail-framework) - Analysis Information Leak framework.
 - [FeatHub](https://feathub.com)
+- [Electronjs.org/apps](https://www.electronjs.org/apps)
 - [GitHunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub. [Hunt Online](https://kamranahmed.info/githunt)
 - [Gitstar Ranking](https://gitstar-ranking.com) - Unofficial GitHub star ranking for users, organizations and repositories.
 - [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) - A desktop application for downloading Udemy Courses.
@@ -220,6 +221,9 @@ PyCharm, Spyder, Jupyter , ,
 - [Soundcleod](https://github.com/salomvary/soundcleod) - SoundCloud for macOS and Windows.
 - [Soundnode App](https://github.com/Soundnode/soundnode-app) - Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API. 
 - [Spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
+
+## News, RSS Feed
+- [Homura](https://github.com/Saul-Mirone/homura) - Elegant RSS reader.
 
 ## Productivity Tools
 - [Ao](https://github.com/klaussinani/ao) - Elegant Microsoft To-Do desktop app [klaussinani.github.io/ao](https://klaussinani.github.io/ao).
