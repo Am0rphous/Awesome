@@ -58,6 +58,7 @@ Various resources, personal notes etc. I find interesting.
 - [GKrellM](http://gkrellm.srcbox.net/) - single process stack of system monitors.
 - [Plank](https://github.com/ricotz/plank) - Simple dock.
 - [Rainmeter](https://github.com/rainmeter/rainmeter) - (maybe run rainmeter in wine on linux?)
+- [SpaceEye](https://github.com/KYDronePilot/SpaceEye) - Live satellite imagery for your desktop background.
   #### Inspiration
   - [b00merang.weebly.com](https://b00merang.weebly.com/)
     - [macOS 11 'Big Sur'](https://github.com/B00merang-Project/macOS) - macOS theme for Gnome and GTK-based desktops.
@@ -224,16 +225,15 @@ PyCharm, Spyder, Jupyter , ,
 - [Ao](https://github.com/klaussinani/ao) - Elegant Microsoft To-Do desktop app [klaussinani.github.io/ao](https://klaussinani.github.io/ao).
 - [Albert Launcher](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher. [Homepage](https://albertlauncher.github.io/)
 - [GNOME Calendar](https://gitlab.gnome.org/GNOME/gnome-calendar) [gnome-calender github](https://github.com/GNOME/gnome-calendar)
-- [Joplin](https://github.com/laurent22/joplin) - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: [discourse.joplinapp.org](https://discourse.joplinapp.org/))
+- [Joplin](https://github.com/laurent22/joplin) - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: [discourse.joplinapp.org](https://discourse.joplinapp.org)
+- [HDFM](https://github.com/KYDronePilot/hdfm) - A program that displays weather and traffic maps received from NRSC-5 (HDFM) radio station.
 - [HTML5 Binary Clock](https://github.com/AE0L/html5-binary-clock) - Binary Clock written in HTML5, CSS3, and Vanilla JS.
 - [KOrganizer](https://github.com/KDE/korganizer) - Organizational assistant, providing calendars and other similar functionality.
 - [MindNode](https://mindnode.com/download) - brainstorm and mind mapping.
   - [Dracula for MindNode](https://github.com/dracula/mindnode) - Dark theme for MindNode.
 - RedShift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings
 - [Taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
-  - [
-How to Manage Your Tasks in the Terminal with Taskbook
-](https://www.maketecheasier.com/manage-tasks-in-terminal-with-taskbook/)
+  - [How to Manage Your Tasks in the Terminal with Taskbook](https://www.maketecheasier.com/manage-tasks-in-terminal-with-taskbook/)
 - [Tui.calendar](https://github.com/nhn/tui.calendar) - JavaScript calendar that has everything you need. 
   ### Office Tools
   - [FreeOffice](https://www.freeoffice.com)
