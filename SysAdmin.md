@@ -11,6 +11,7 @@
 - [Communication / Collaboration](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#communication--collaboration)
   - [Matrix](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#matrix)
 - [Configuration Management](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#configuration-management)
+- [Dell Spesific Tools](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#dell-spesific-tools)
 - [Ebooks and PDFs](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#ebooks-and-pdfs)
 - [File Sharing](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#file-sharing)
 - [Hardware](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#hardware)
