@@ -357,6 +357,7 @@ upstream_recursive_servers:
   nmap -v 192.168.1.10 -sV -Pn -p 5985,5986                      #Check if the port is open
   ````
 - [DropBear SSH](https://github.com/mkj/dropbear) - S smallish SSH server and client. [https://matt.ucc.asn.au](https://matt.ucc.asn.au)
+- [ElecTerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp client(linux, mac, win).
 - Remote Desktop Applications
   - [Remote Desktop Manager Free](https://remotedesktopmanager.com) - Windows, Mac, Linux, Android & iOS.
   Install it with e.g. `brew install --cask remote-desktop-manager-free`
