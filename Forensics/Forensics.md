@@ -81,7 +81,8 @@
 ## Operating Systems specialized for forensics
 - [DEFT Linux](http://na.mirror.garr.it/mirrors/deft/) - DEFT Linux A Linux Distribution For Computer Forensics
 - [REMnux](https://remnux.org/) - REMnux® is a Linux toolkit for reverse-engineering and analyzing malicious software. REMnux provides a curated collection of free tools created by the community. Analysts can use it to investigate malware without having to find, install, and configure the tools. Lots of tools in /opt/ folder.
-
+- [SIFT Workstation](https://digital-forensics.sans.org/community/downloads)
+  - [SIFT CLI](https://github.com/teamdfir/sift-cli) - CLI tool to manage a SIFT Install.
 
 ## PE (Portable Executable) Analysis
 Description: The Portable Executable format is a file format for executables, object code, DLLs and others used in 32-bit and 64-bit versions of Windows operating systems.
