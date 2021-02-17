@@ -39,9 +39,10 @@
 ## Cloud
 - [Sparrow](https://github.com/cisagov/Sparrow) - Sparrow.ps1 was created by CISA's Cloud Forensics team to help detect possible compromised accounts and applications in the Azure/m365 environment.
 
-## Document Collection
+## Documents, Whitepapers and related resources
 - [Detecting Malware With Memory Forensics with Hal Pomeranz (SANS Institute)](http://www.deer-run.com/~hal/Detect_Malware_w_Memory_Forensics.pdf)
 - [Free Malicious PDF Analysis E-book](http://didierstevens.com/files/data/malicious-pdf-analysis-ebook.zip) - Also within this folder and "Documents".
+- [SANS Forensics Whitepapers](https://digital-forensics.sans.org/community/whitepapers) - Papers written by forensic practitioners seeking GCFA, GCFE, and GREM Gold.
 
 ## File Analysis
 - [TrID](https://mark0.net/soft-trid-e.html) -  Identify file types from their binary signatures. Win32, Linux 32/64-bit
