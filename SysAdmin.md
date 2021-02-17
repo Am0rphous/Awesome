@@ -314,6 +314,7 @@ lsscsi                          #Print SCSI Devices Info
 - [Awesome Attack Surface Monitoring](https://github.com/0xtavian/awesome-attack-surface-monitoring) - Curated list of open-source & paid Attack Surface Monitoring (ASM) tools. 
 
   ### Log Analysis
+  - [AwStats](https://www.awstats.org/) - Powerful and featureful web server log analyzer.
   - [PgBadger](https://github.com/darold/pgbadger) - _A fast PostgreSQL Log Analyzer [pgbadger.darold.net](https://pgbadger.darold.net)._
   - [PgFormatter](https://github.com/darold/pgFormatter) - _A PostgreSQL SQL syntax beautifier that can work as a console program or as a CGI. On-line demo site at [sqlformat.darold.net](http://sqlformat.darold.net)._
   - [SendMailAnalyzer](https://github.com/darold/sendmailanalyzer) - _Sendmail log Analyzer is a tool to monitor sendmail usage and generate HTML and graph reports. It reports all you ever wanted to know about email trafic on your network. You can also use it in ISP environment with per domain and per mailbox report._
