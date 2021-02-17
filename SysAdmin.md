@@ -563,18 +563,21 @@ upstream_recursive_servers:
    - [ThreatMapper](https://github.com/deepfence/ThreatMapper) - Identify vulnerabilities in running containers, images, hosts and repositories.
    ### Machines
   - KVM
-    - [Kimchi](https://github.com/kimchi-project/kimchi) - _HTML5 based management tool for KVM._
-    - [KVM Management Tools list](https://www.linux-kvm.org/page/Management_Tools) - _Options available to manage kvm virtual machines._
-    - [Vmmaestro](https://github.com/mzch/vmmaestro) - _Tiny control wrapper for KVM._
-  - [Multipass](https://ubuntu.com/server/docs/virtualization-multipass) - _Instant Ubuntu VMs (Windows, macOS and Linux)_
-  - [XCP-ng](https://xcp-ng.org) - _Virtualization platform based on Xen Source and Citrix® Hypervisor (formerly XenServer). XCP-ng stands for Xen Cloud Platform - New Generation._
-    - [XCP-ng documentation](https://xcp-ng.org/docs)
-  - [oVirt](https://www.ovirt.org) - _Free open-source virtualization solution for your entire enterprise._
+    - [Kimchi](https://github.com/kimchi-project/kimchi) - HTML5 based management tool for KVM.
+    - [KVM Management Tools list](https://www.linux-kvm.org/page/Management_Tools) - Options available to manage kvm virtual machines.
+    - [Vmmaestro](https://github.com/mzch/vmmaestro) - Tiny control wrapper for KVM.
+  - [Multipass](https://ubuntu.com/server/docs/virtualization-multipass) - Instant Ubuntu VMs (Windows, macOS and Linux)
+  - [oVirt](https://www.ovirt.org) - Free open-source virtualization solution for your entire enterprise.
     - [oVirt documentation](https://www.ovirt.org/documentation)
-  - [Qemu](https://www.qemu.org) - _Generic and open source machine emulator and virtualizer._
+  - [VirtualBox](https://www.virtualbox.org)
+  - [VMWare Fusion (macOS)](https://www.vmware.com/products/fusion/fusion-evaluation.html)
+    - [Open Virtualization Format Tool (ovftool)](https://code.vmware.com/web/tool/4.4.0/ovf) - VMware OVF Tool is a command-line utility that allows you to import and export OVF packages to and from many VMware products.
+  - [Qemu](https://www.qemu.org) - Generic and open source machine emulator and virtualizer.
     - [Qemu Docs](https://www.qemu.org/docs/master)
-    - [Qira](https://github.com/geohot/qira) - _QEMU Interactive Runtime Analyser._
- 
+    - [Qira](https://github.com/geohot/qira) - QEMU Interactive Runtime Analyser.
+  - [XCP-ng](https://xcp-ng.org) - Virtualization platform based on Xen Source and Citrix® Hypervisor (formerly XenServer). XCP-ng stands for Xen Cloud Platform - New Generation.
+    - [XCP-ng documentation](https://xcp-ng.org/docs)
+
 ## URL Shorteners
 - [Polr](https://github.com/cydrobolt/polr) - 🚡 A modern, powerful, and robust URL shortener [polrproject.org](https://polrproject.org).
 - [SLink](https://shlink.io) - Keep control over all your shortened URLs, by serving them under your own domains, using this simple yet powerful tool.
