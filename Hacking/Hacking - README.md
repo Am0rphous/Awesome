@@ -193,6 +193,8 @@ https://github.com/clong/DetectionLab
 - [AssetFinder](https://github.com/tomnomnom/assetfinder) - Find domains and subdomains related to a given domain.
 - [BlackWidow](https://github.com/1N3/BlackWidow) - A Python based web application scanner to gather OSINT and fuzz for OWASP vulnerabilities on a target website.
 - [DnsEnum](https://github.com/fwaeytens/dnsenum) - Perl script that enumerates DNS information.
+- [DnsDumpster.org](dnsdumpster.com)
+  - [DNSDumpsterPS](https://github.com/cottinghamd/DNSDumpsterPS/blob/master/dnsdumpster.ps1) - DNS Dumpster Query in PowerShell.
 - [DNSx](https://github.com/projectdiscovery/dnsx) - Dnsx is a fast and multi-purpose DNS toolkit allow to run multiple DNS queries of your choice with a list of user-supplied resolvers.
 - [GuBuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go.
 - [Shuffledns](https://github.com/projectdiscovery/shuffledns) - shuffleDNS is a wrapper around massdns written in go that allows you to enumerate valid subdomains using active bruteforce as well as resolve subdomains with wildcard handling and easy input-output support.
