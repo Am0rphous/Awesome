@@ -208,6 +208,9 @@ bro / zeek
 - [Ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Ansible Tower offers free for handling up to 10 nodes.
 - [wAuto](https://github.com/khchen/wAuto) - Windows automation module.
 
+## Databases
+- [Redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps [redis.io](http://redis.io).
+
 ## Dell Spesific Tools
 - [iDRAC-Redfish-Scripting](https://github.com/dell/iDRAC-Redfish-Scripting) - Python and PowerShell scripting for Dell EMC PowerEdge iDRAC REST API with DMTF Redfish.
 - [ilo4_toolbox](https://github.com/airbus-seclab/ilo4_toolbox) - Toolbox for HPE iLO4 & iLO5 analysis.
@@ -598,6 +601,7 @@ upstream_recursive_servers:
 - [Frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [Hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [Lwan Web Server](https://github.com/lpereira/lwan) - Experimental, scalable, high performance HTTP server.
+- [MkChain](https://github.com/trimstray/mkchain) -  Open source tool to help you build a valid SSL certificate chain.
 - [NginX](https://nginx.org/en/) - an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server.
 - [Proxify](https://github.com/projectdiscovery/proxify) - Swiss Army knife Proxy tool for HTTP/HTTPS traffic capture, manipulation, and replay on the go.
 - [Sanstorm](https://sandstorm.io/) - Sandstorm is an open source platform for self-hosting web apps
