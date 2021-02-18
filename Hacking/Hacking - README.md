@@ -51,7 +51,9 @@ https://github.com/clong/DetectionLab
   - [SharpMapExec](https://github.com/cube0x0/SharpMapExec) - A sharpen version of CrackMapExec.
 - [DeathStar](https://github.com/byt3bl33d3r/DeathStar) - Automate getting Domain Admin using Empire 
 - [Empire](https://github.com/EmpireProject/Empire) - Empire is a PowerShell and Python post-exploitation agent. [www.powershellempire.com](http://www.powershellempire.com/). (no longer supported)
-- [LAPSDumper](https://github.com/n00py/LAPSDumper)
+- LAPS
+  - [LAPSDumper](https://github.com/n00py/LAPSDumper)
+  - [SharpLAPS](https://github.com/swisskyrepo/SharpLAPS) - Retrieve LAPS password from the LDAP.
 - [StandIn](https://github.com/FuzzySecurity/StandIn) - Small AD post-compromise toolkit.
 - [Talon](https://github.com/optiv/Talon) - A password guessing tool that targets the Kerberos and LDAP services within the Windows Active Directory environment.
 - [WinPwn](https://github.com/S3cur3Th1sSh1t/WinPwn) -  Automation for internal Windows Penetrationtest / AD-Security.
@@ -202,10 +204,11 @@ https://github.com/clong/DetectionLab
 
 DNSMap, DNSRecon, DNSTracer, DNSWalk, Fierce, URLCrazy
 
-  #### DNS resources which might be practical in attacks
+  #### Offensive DNS operations
   - [DNS_File_Transfers](https://github.com/warferik/DNS_File_Transfers) - DNS Server to transfer files to Windows using built in binaries.
   - [JudasDNS](https://github.com/mandatoryprogrammer/JudasDNS) - Nameserver DNS poisoning attacks made easy.
   - [Samuelcolvin's dnserver](https://github.com/samuelcolvin/dnserver) - Simple development DNS server written in python.
+  - [Whonow DNS Server](https://github.com/brannondorsey/whonow) - A "malicious" DNS server for executing DNS Rebinding attacks on the fly (public instance running on rebind.network:53).
 
  ### IDS/IPS Identification
 - [FragRouter]()
