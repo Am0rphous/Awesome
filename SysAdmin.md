@@ -227,6 +227,11 @@ bro / zeek
 - [Serve by Vercel](https://github.com/vercel/serve) - Static file serving and directory listing.
 - [Warpinator](https://github.com/linuxmint/warpinator) - Share files across the LAN 
 
+## Firewall
+- iptables
+  - [iptables-essentials](https://github.com/trimstray/iptables-essentials) -  Iptables Essentials: Common Firewall Rules and Commands.
+- [UFW - ]()
+
 ## Hardware
 - [Hardinfo](https://github.com/lpereira/hardinfo) - System profiler and benchmark tool for Linux systems [hardinfo.org](http://hardinfo.org).
 Commands
@@ -268,9 +273,6 @@ lsscsi                          #Print SCSI Devices Info
 - [Teler](https://github.com/kitabisa/teler) -  Real-time HTTP Intrusion Detection.
 - [TripWire](https://github.com/Tripwire/tripwire-open-source) - Security and data integrity tool for monitoring and alerting on file & directory changes. 
 - [Wazuh](https://github.com/wazuh/wazuh/) - free and open source platform used for threat prevention, detection, and response. It is capable of protecting workloads across on-premises, virtualized, containerized, and cloud-based environments.
-  ### Firewall
-  - iptables
-  - [UFW - ]()
 
 ## LDAP
 - [Apache Directory Studio](https://directory.apache.org/studio/) - complete directory tooling platform intended to be used with any LDAP server however it is particularly designed for use with ApacheDS. 
