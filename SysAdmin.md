@@ -450,6 +450,7 @@ upstream_recursive_servers:
 - [Whonix security-misc](https://github.com/Whonix/security-misc) - Kernel Hardening; Protect Linux User Accounts against Brute Force Attacks; Improve Entropy Collection; Strong Linux User Account Separation; Enhances Misc Security Settings - https://www.whonix.org/wiki/Security-misc.
 
   ### Linux Hardening Guides
+  - [linux-hardening-checklist](https://github.com/trimstray/linux-hardening-checklist) - Simple checklist to help you deploying the most important areas of the GNU/Linux production systems - work in progress.
   - [Linux Kernel /etc/sysctl.conf Security Hardening](https://www.cyberciti.biz/faq/linux-kernel-etcsysctl-conf-security-hardening/)
   - [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).
   - [test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
@@ -518,13 +519,20 @@ upstream_recursive_servers:
   - [browser-terminal](https://github.com/AE0L/browser-terminal) - A browser terminal made with Vanilla JavaScript.
   - [Haxor-news](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor: A Hacker News command line interface (CLI).
   - [Wetty](https://github.com/butlerx/wetty) - Terminal in browser over http/https. (Ajaxterm/Anyterm alternative, but much better).
-  
+
+
+## URL Shorteners
+- [Polr](https://github.com/cydrobolt/polr) - 🚡 A modern, powerful, and robust URL shortener [polrproject.org](https://polrproject.org).
+- [SLink](https://shlink.io) - Keep control over all your shortened URLs, by serving them under your own domains, using this simple yet powerful tool.
+
+
 ## Utilities
 - [Deskreen](https://github.com/pavlobu/deskreen) - _Deskreen turns any device with a web browser to a second screen for your computer [deskreen.com](http://deskreen.com)._
 - [Git](https://github.com/git/git) - fast, scalable, distributed revision control system.
  - [Git For Windows](https://github.com/git-for-windows/git) - [https://gitforwindows.org](https://gitforwindows.org)
   - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) - Dynamically generated stats for your github readmes.
 - [KDU (Windows)](https://github.com/hfiref0x/KDU) - Kernel Driver Utility.
+- [reload.sh](https://github.com/trimstray/reload.sh) - Wipe, reinstall or restore your system from running GNU/Linux distribution. Via SSH, without rebooting.
 - [RipGrep-All](https://github.com/phiresky/ripgrep-all) - search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [USBUtils](https://github.com/gregkh/usbutils) - _USB utilities for Linux, including lsusb._
   - [LsUSB](https://github.com/linuxhw/LsUSB) - _Most popular USB devices and lsusb reports._
@@ -594,10 +602,6 @@ upstream_recursive_servers:
     - [Qira](https://github.com/geohot/qira) - QEMU Interactive Runtime Analyser.
   - [XCP-ng](https://xcp-ng.org) - Virtualization platform based on Xen Source and Citrix® Hypervisor (formerly XenServer). XCP-ng stands for Xen Cloud Platform - New Generation.
     - [XCP-ng documentation](https://xcp-ng.org/docs)
-
-## URL Shorteners
-- [Polr](https://github.com/cydrobolt/polr) - 🚡 A modern, powerful, and robust URL shortener [polrproject.org](https://polrproject.org).
-- [SLink](https://shlink.io) - Keep control over all your shortened URLs, by serving them under your own domains, using this simple yet powerful tool.
 
 ## Web and Proxy Tools
 - [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) - A curated list of Web Security materials and resources.
