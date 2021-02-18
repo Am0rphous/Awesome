@@ -535,6 +535,8 @@ upstream_recursive_servers:
   - [WoeUSB](https://github.com/WoeUSB/WoeUSB) -  A Microsoft Windows® USB installation media preparer for GNU+Linux.
   ### Testing
   - [Selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
+  ### Troubleshooting
+  - [htrace.sh](https://github.com/trimstray/htrace.sh) -  My simple Swiss Army knife for http/https troubleshooting and profiling.
 
 ## Virtualization
 - [WebVirtCloud](https://github.com/retspen/webvirtcloud) - WebVirtCloud is virtualization web interface for admins and users.
