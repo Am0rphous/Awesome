@@ -230,6 +230,8 @@ FTest, Lbd, Wafw00f
 - [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) - Advanced information gathering & OSINT framework for phone numbers.
 - [Photon](https://github.com/s0md3v/Photon) - Incredibly fast crawler designed for OSINT.
 - [TheHarvester](https://github.com/laramies/theHarvester) - E-mails, subdomains and names Harvester - OSINT.
+- [Shodan.io](https://www.shodan.io) - Search engine for IoT
+  - [awesome-shodan-queries]() -  🔍 A collection of interesting, funny, and depressing search queries to plug into https://shodan.io/ 👩‍💻
 - [UrlScan.io](https://urlscan.io)
 - [WhatBreach](https://github.com/Ekultek/WhatBreach) - OSINT tool to find breached emails, databases, pastes, and relevant information.
 
@@ -392,6 +394,7 @@ FTest, Lbd, Wafw00f
 - [Silver](https://github.com/s0md3v/Silver) - Mass scan IPs for vulnerable services.
 - [Sn1per](https://github.com/1N3/Sn1per) - Automated pentest framework for offensive security experts.
 - [Striker](https://github.com/s0md3v/Striker) - Striker is an offensive information and vulnerability scanner.
+- [SubTake](https://github.com/jakejarvis/subtake) - Automatic finder for subdomains vulnerable to takeover. Written in Go, based on @haccer's subjack.
 - [trivy](https://github.com/aquasecurity/trivy) - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI.
 - [Unix-Privesc-Check](http://pentestmonkey.net/tools/audit/unix-privesc-check)
 - [Vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices.
