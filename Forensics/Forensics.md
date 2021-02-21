@@ -5,7 +5,8 @@
 - [Log2timeline's Plaso](https://github.com/log2timeline/plaso) - Super timeline all the things.
   - [Documentation](https://plaso.readthedocs.io/en/latest/)
 
-## Analysis of Office Documents
+## Analysis of Office Documents (e.g. pdf)
+- [AnalyzePDF](https://github.com/hiddenillusion/AnalyzePDF) - Tool to help analyze PDF files.
 - [officeparser.py](https://github.com/unixfreak0037/officeparser) - Extract embedded files and macros from office documents. 
 - [Oletools](https://github.com/decalage2/oletools/) - python tools to analyze MS OLE2 files (Structured Storage, Compound File Binary Format) and MS Office documents, for malware analysis, forensics and debugging. Tools:
   - [oleid](https://github.com/decalage2/oletools/wiki/oleid) - Tools to analyze malicious documents. Note for later: http://www.decalage.info/python/oletools
@@ -37,7 +38,11 @@
 - [zeltser.com - Analyzing Malicious Documents Cheat Sheet](https://zeltser.com/analyzing-malicious-documents/)
 
 ## Cloud
+- [Cloud Forensics Utils](https://github.com/google/cloud-forensics-utils) - Python library to carry out DFIR analysis on the Cloud.
 - [Sparrow](https://github.com/cisagov/Sparrow) - Sparrow.ps1 was created by CISA's Cloud Forensics team to help detect possible compromised accounts and applications in the Azure/m365 environment.
+
+## Collaboration tools
+- [Timesketch](https://github.com/google/timesketch) - Collaborative forensic timeline analysis.
 
 ## Documents, Whitepapers and related resources
 - [Detecting Malware With Memory Forensics with Hal Pomeranz (SANS Institute)](http://www.deer-run.com/~hal/Detect_Malware_w_Memory_Forensics.pdf)
