@@ -87,6 +87,7 @@
 
 ## PE (Portable Executable) Analysis
 Description: The Portable Executable format is a file format for executables, object code, DLLs and others used in 32-bit and 64-bit versions of Windows operating systems.
+- [AnalyzePE](https://github.com/hiddenillusion/AnalyzePE) - Wraps around various tools and provides some additional checks/information to produce a centralized report of a PE file.
 - [Cerbero Suite](https://cerbero.io/)
 - [CFF Explorer / Explorer Suite](http://www.ntcore.com/exsuite.php)
 - [DynLogger](https://www.ntcore.com/?page_id=376) - logs all dynamically retrieved functions by reporting the module name and the requested function. It also logs loaded modules. It can come very handy when one wants to know a “hidden” function used by an application.
