@@ -73,7 +73,7 @@
 - [Volatility](https://github.com/volatilityfoundation/volatility) - An advanced memory forensics framework [www.volatilityfoundation.org](https://www.volatilityfoundation.org/). [Githbu wiki](https://github.com/volatilityfoundation/volatility/wiki).
   - [MalConfScan](https://github.com/JPCERTCC/MalConfScan) - Volatility plugin for extracts configuration data of known malware.
 - [volatility3](https://github.com/volatilityfoundation/volatility3)
-  - [plugins](https://github.com/volatilityfoundation/community).
+  - [plugins](https://github.com/volatilityfoundation/community) - Volatility plugins developed and maintained by the community.
 
 ## Network forensic tools
 - [CyberChef](https://github.com/gchq/cyberchef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis.
