@@ -325,10 +325,11 @@ lsscsi                          #Print SCSI Devices Info
 
   ### Log Analysis
   - [AwStats](https://www.awstats.org/) - Powerful and featureful web server log analyzer.
-  - [PgBadger](https://github.com/darold/pgbadger) - _A fast PostgreSQL Log Analyzer [pgbadger.darold.net](https://pgbadger.darold.net)._
-  - [PgFormatter](https://github.com/darold/pgFormatter) - _A PostgreSQL SQL syntax beautifier that can work as a console program or as a CGI. On-line demo site at [sqlformat.darold.net](http://sqlformat.darold.net)._
-  - [SendMailAnalyzer](https://github.com/darold/sendmailanalyzer) - _Sendmail log Analyzer is a tool to monitor sendmail usage and generate HTML and graph reports. It reports all you ever wanted to know about email trafic on your network. You can also use it in ISP environment with per domain and per mailbox report._
-  - [SquidAnalyzer](https://github.com/darold/squidanalyzer) - _Squid Analyzer parses Squid proxy access log and reports general statistics about hits, bytes, users, networks, top URLs, and top second level domains. Statistic reports are oriented toward user and bandwidth control._
+  - [GoAccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
+  - [PgBadger](https://github.com/darold/pgbadger) - A fast PostgreSQL Log Analyzer [pgbadger.darold.net](https://pgbadger.darold.net).
+  - [PgFormatter](https://github.com/darold/pgFormatter) - A PostgreSQL SQL syntax beautifier that can work as a console program or as a CGI. On-line demo site at [sqlformat.darold.net](http://sqlformat.darold.net).
+  - [SendMailAnalyzer](https://github.com/darold/sendmailanalyzer) - Sendmail log Analyzer is a tool to monitor sendmail usage and generate HTML and graph reports. It reports all you ever wanted to know about email trafic on your network. You can also use it in ISP environment with per domain and per mailbox report.
+  - [SquidAnalyzer](https://github.com/darold/squidanalyzer) - Squid Analyzer parses Squid proxy access log and reports general statistics about hits, bytes, users, networks, top URLs, and top second level domains. Statistic reports are oriented toward user and bandwidth control.
 
  ## Network Tools
 - [ARP-scan](https://github.com/royhills/arp-scan) - Scanning hosts on a network with the ARP protocol.
