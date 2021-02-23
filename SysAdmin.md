@@ -413,6 +413,12 @@ upstream_recursive_servers:
   - [Google Drive](https://drive.google.com) - 15 GB.
   - [MEGASync](https://mega.io/sync) - 50 GB free, but after 6 months this will be reduced to 15 GB.
   - [OneDrive](https://www.microsoft.com/nb-no/microsoft-365/onedrive/online-cloud-storage) - By Microsoft with 5GB free online storage.
+  ##### Clients
+  - [ExpanDrive](https://www.expandrive.com/expandrive-for-linux/) - It supports Google Drive, OneDrive, Dropbox, Amazon S3, Box, SFTP, FTP, BackBlaze B2 and more.
+  - [iSync](https://www.insynchq.com/downloads) - Insync extends Google Drive & OneDrive's web functionality to your desktop.
+  - [onedrive](https://packages.ubuntu.com/bionic/onedrive) - Ubuntu folder synchronization with OneDrive. Install `sudo apt install onedrive`
+  - [OneDrive Client for Linux](https://github.com/abraunegg/onedrive/) - [abraunegg.github.io](https://abraunegg.github.io)
+  - [Rclone](https://rclone.org/onedrive/)
 
 ## Package Managers
 - [Brew / HomeBrew](https://brew.sh/) - Package Manager for Linux and MacOS.
