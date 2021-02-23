@@ -618,7 +618,9 @@ upstream_recursive_servers:
 - [Sanstorm](https://sandstorm.io/) - Sandstorm is an open source platform for self-hosting web apps
 - [Squid]()
   - [SquidGuard](http://www.squidguard.org)
-- [Wordpress Comment Blacklist](https://github.com/splorp/wordpress-comment-blacklist) - A simple solution for WordPress comment spam.
+- Wordpress
+  - [GamiPress](https://gamipress.com) - GamiPress lets you award your users with digital rewards for interacting with your WordPress website.
+  - [Wordpress Comment Blacklist](https://github.com/splorp/wordpress-comment-blacklist) - A simple solution for WordPress comment spam.
   ### Web Hosting Services worth checking out
   - [000webhost.com](https://www.000webhost.com)
   - [Hetzner Cloud](https://www.hetzner.com/cloud)
