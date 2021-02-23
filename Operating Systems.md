@@ -4,7 +4,7 @@
 1. [A list of web resources](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#a-list-of-web-resources)
 2. [Create Your Own Custom Linux OS](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#create-your-own-custom-linux-os)
 3. [Country Specific](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#country-specific)
-4. [Desktop OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#desktop-oses)
+4. [Desktop OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#desktop-oses)
 <br >  4.1 [Most beautiful Linux Distributions 2020 (alphabetic order)](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#most-beautiful-linux-distributions-2020-alphabetic-order)
 <br >  4.2 [Privacy focused OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#privacy-focused-oses)
 5. [IoT, embedded devices, tablets](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#iot-embedded-devices-tablets)
@@ -44,6 +44,7 @@
 - [Elementary OS](https://elementary.io) - Good alternative for Windows and Mac.
 - [eXtern OS](https://externos.io)
 - [Fedora Workstation](https://getfedora.org/en/workstation)
+- [Fedora Silverblue](https://silverblue.fedoraproject.org/) - Immutable desktop operating system. Aiming at good support for container-focused workflows, this variant of Fedora Workstation targets developer communities.
 - [Feren OS](https://ferenos.weebly.com)
 - [Garuda Linux](https://garudalinux.org)
 - [KDE Neon](https://neon.kde.org)
