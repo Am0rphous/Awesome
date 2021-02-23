@@ -28,9 +28,11 @@
 - [Domoticz](https://github.com/domoticz/domoticz) - Lets you monitor and configure various devices like: Lights, Switches, various sensors/meters like Temperature, Rain, Wind, UV, Electra, Gas, Water and much more.
 - [Home-assistant's operating-system](https://github.com/home-assistant/operating-system) - Operating System (formerly HassOS) is an operating system optimized for hosting [Home Assistant](https://www.home-assistant.io) and its [Add-ons](https://www.home-assistant.io/addons)
   - [Installation on Docker](https://www.home-assistant.io/docs/installation/docker)
-- [Homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
-- [homebridge-hue](https://github.com/ebaauw/homebridge-hue) - Homebridge plugin for Philips Hue and/or deCONZ.
-- [Zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - _Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨_
+- [Homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient [homebridge.io](https://homebridge.io).
+- [homebridge-config-ui-x](https://github.com/oznu/homebridge-config-ui-x) - The Homebridge UI. Monitor, configure and backup Homebridge from a browser.
+  - [homebridge-hue](https://github.com/ebaauw/homebridge-hue) - Homebridge plugin for Philips Hue and/or deCONZ.
+  - [homebridge-ws](https://github.com/ebaauw/homebridge-ws) -  Homebridege plugin for virtual weather station.
+- [Zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 
 ## Magic Mirror repos
 - [Alexyak's Camera Module](https://github.com/alexyak/camera) - _The camera module allows you to display a webcamera video feed on your MagicMirror._
