@@ -148,7 +148,8 @@ PyCharm, Spyder, Jupyter , ,
 
 ## Linux Software
 - [All AWESOME Linux Applications and Tools](https://www.fossmint.com/awesome-linux-software/)
-- [Linux.softpedia.com](https://linux.softpedia.com/)
+- [Linux.softpedia.com](https://linux.softpedia.com)
+- [Linux App Finder](https://linuxappfinder.com/)
 
 ## Looking for software, projects, courses or inspiration?
 - [Ail-framework](https://github.com/ail-project/ail-framework) - Analysis Information Leak framework.
