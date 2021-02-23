@@ -527,15 +527,15 @@ upstream_recursive_servers:
 
 
 ## Utilities
-- [Deskreen](https://github.com/pavlobu/deskreen) - _Deskreen turns any device with a web browser to a second screen for your computer [deskreen.com](http://deskreen.com)._
+- [Deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser to a second screen for your computer [deskreen.com](http://deskreen.com).
 - [Git](https://github.com/git/git) - fast, scalable, distributed revision control system.
  - [Git For Windows](https://github.com/git-for-windows/git) - [https://gitforwindows.org](https://gitforwindows.org)
   - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) - Dynamically generated stats for your github readmes.
 - [KDU (Windows)](https://github.com/hfiref0x/KDU) - Kernel Driver Utility.
 - [reload.sh](https://github.com/trimstray/reload.sh) - Wipe, reinstall or restore your system from running GNU/Linux distribution. Via SSH, without rebooting.
 - [RipGrep-All](https://github.com/phiresky/ripgrep-all) - search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
-- [USBUtils](https://github.com/gregkh/usbutils) - _USB utilities for Linux, including lsusb._
-  - [LsUSB](https://github.com/linuxhw/LsUSB) - _Most popular USB devices and lsusb reports._
+- [USBUtils](https://github.com/gregkh/usbutils) - USB utilities for Linux, including lsusb.
+  - [LsUSB](https://github.com/linuxhw/LsUSB) - Most popular USB devices and lsusb reports.
   ### Create Bootable USB
   - [Balena Etcher](https://github.com/balena-io/etcher) -  Flash OS images to SD cards & USB drives, safely and easily.
   - [Cubic](https://launchpad.net/cubic) - Custom Ubuntu ISO Creator) is a GUI wizard to create a customized Ubuntu Live ISO image.
@@ -555,11 +555,15 @@ upstream_recursive_servers:
   ### Troubleshooting
   - [htrace.sh](https://github.com/trimstray/htrace.sh) -  My simple Swiss Army knife for http/https troubleshooting and profiling.
 
+
+
 ## Virtualization
 - [WebVirtCloud](https://github.com/retspen/webvirtcloud) - WebVirtCloud is virtualization web interface for admins and users.
+
    ### Cloud
-   - [Cloud Foundry](https://www.cloudfoundry.org) - [github.com/cloudfoundry](https://github.com/cloudfoundry)_Cloud Foundry provides a highly efficient, modern model for cloud native application delivery on top of Kubernetes._
-   - [Red Hat's OpenShift](https://www.openshift.com) - [github.com/openshift](https://github.com/openshift)_Red Hat OpenShift is the hybrid cloud platform of open possibility: powerful, so you can build anything and flexible, so it works anywhere._
+   - [Cloud Foundry](https://www.cloudfoundry.org) - [github.com/cloudfoundry](https://github.com/cloudfoundry) Cloud Foundry provides a highly efficient, modern model for cloud native application delivery on top of Kubernetes._
+   - [Red Hat's OpenShift](https://www.openshift.com) - [github.com/openshift](https://github.com/openshift) Red Hat OpenShift is the hybrid cloud platform of open possibility: powerful, so you can build anything and flexible, so it works anywhere.
+
    ### Container Technologies
   - [Docker](https://www.docker.com)
     - [Docker Bench for Security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production. 
@@ -567,8 +571,8 @@ upstream_recursive_servers:
       - [Awesme Docker Compose](https://github.com/docker/awesome-compose) -  Awesome Docker Compose samples.
     - [Images by linuxserver.io](https://fleet.linuxserver.io)
     - [SecretScanner](https://github.com/deepfence/SecretScanner) - Find secrets and passwords in container images and file systems.
-  - [Firecracker](https://github.com/firecracker-microvm/firecracker) - _Secure and fast microVMs for serverless computing [firecracker-microvm.github.io](https://firecracker-microvm.github.io)._
-    - [Firecracker Containerd](https://github.com/firecracker-microvm/firecracker-containerd) - _Firecracker-containerd enables containerd to manage containers as Firecracker microVMs._
+  - [Firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing [firecracker-microvm.github.io](https://firecracker-microvm.github.io).
+    - [Firecracker Containerd](https://github.com/firecracker-microvm/firecracker-containerd) - Firecracker-containerd enables containerd to manage containers as Firecracker microVMs.
   - [K3S](https://k3s.io/) - The certified Kubernetes distribution built for IoT & Edge computing
   - [LXC](https://linuxcontainers.org/lxc/)
     - [LXC Web Panel's dashboard (old)](https://github.com/lxc-webpanel/dashboard) - Might need flask `pip3 install flask`
@@ -576,6 +580,7 @@ upstream_recursive_servers:
   - [MiniKube](https://github.com/kubernetes/minikube) - minikube implements a local Kubernetes cluster on macOS, Linux, and Windows. [minikube.sigs.k8s.io](https://minikube.sigs.k8s.io/docs/)
   - [MiniShift](https://github.com/minishift/minishift) - open source tool that helps you run a single-node OpenShift cluster locally inside a VM. [okd.io](https://www.okd.io)
   - [The Moby Project](https://github.com/moby/moby) - a collaborative project for the container ecosystem to assemble container-based systems.
+  - [RunC](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification.
 
    #### Container orchestration
    - Docker swarm
@@ -586,6 +591,7 @@ upstream_recursive_servers:
    - [Portainer](https://www.portainer.io) - Open source container management tool for Kubernetes, Docker, Docker Swarm and Azure ACI.
    #### Container Security
    - [ThreatMapper](https://github.com/deepfence/ThreatMapper) - Identify vulnerabilities in running containers, images, hosts and repositories.
+
    ### Machines
   - KVM
     - [Kimchi](https://github.com/kimchi-project/kimchi) - HTML5 based management tool for KVM.
@@ -621,11 +627,13 @@ upstream_recursive_servers:
 - Wordpress
   - [GamiPress](https://gamipress.com) - GamiPress lets you award your users with digital rewards for interacting with your WordPress website.
   - [Wordpress Comment Blacklist](https://github.com/splorp/wordpress-comment-blacklist) - A simple solution for WordPress comment spam.
+
   ### Web Hosting Services worth checking out
   - [000webhost.com](https://www.000webhost.com)
   - [Hetzner Cloud](https://www.hetzner.com/cloud)
     - [awesome-hcloud](https://github.com/hetznercloud/awesome-hcloud) - A curated list of awesome libraries, tools, and integrations for Hetzner Cloud.
   - [Osu Open Source Lab](https://osuosl.org)
+
   ### Web Analytics
   - [AWStats - Advanced Web Statistics](https://github.com/eldy/awstats) -[www.awstats.org](https://www.awstats.org/) _AWStats (Advanced Web Statistics) is a powerful, full-featured web server logfile analyzer which shows you all your Web statistics including: visitors, pages, hits, hours, search engines, keywords used to find your site, broken links, robots and many more..._
   - [Matomo Web Analytics](https://matomo.org) - "_Google Analytics alternative that protects your data and your customers' privacy_" [matomo.org](https://matomo.org/).
@@ -634,6 +642,7 @@ upstream_recursive_servers:
     - [Tutorial: Install Matomo Web Analytics (Piwik) on Ubuntu 20.04 with Apache/Nginx](https://www.linuxbabe.com/ubuntu/install-matomo-web-analytics-piwik-ubuntu-20-04-apache-nginx)
   - [SuperCookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
   - [Umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
+
   ### Web Development Tools
   - [Angular](https://github.com/angular/angular) - [cli.angular.io](https://cli.angular.io)
     - [Angular CLI](https://github.com/angular/angular-cli) - TypeScript -based open-source web application framework.
