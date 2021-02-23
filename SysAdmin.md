@@ -13,7 +13,7 @@
   - [Matrix](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#matrix)
 - [Configuration Management](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#configuration-management)
 - [Dell Spesific Tools](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#dell-spesific-tools)
-- [Ebooks and PDFs](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#ebooks-and-pdfs)
+- [Ebooks, PDFs] and helpful resources(https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#ebooks-pdfs-and-helpful-resources)
 - [File Sharing](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#file-sharing)
 - [Hardware](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#hardware)
 - [IDS, HIDS and IPS](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#ids-hids-and-ips)
