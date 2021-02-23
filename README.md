@@ -59,6 +59,10 @@ Various resources, personal notes etc. I find interesting.
 - [Plank](https://github.com/ricotz/plank) - Simple dock.
 - [Rainmeter](https://github.com/rainmeter/rainmeter) - (maybe run rainmeter in wine on linux?)
 - [SpaceEye](https://github.com/KYDronePilot/SpaceEye) - Live satellite imagery for your desktop background.
+  #### Extensions
+  - [compiz-alike-magic-lamp-effect](https://github.com/hermes83/compiz-alike-magic-lamp-effect) - Compiz alike magic lamp effect for GNOME Shell.
+  - [compiz-alike-windows-effect](https://github.com/hermes83/compiz-alike-windows-effect) - Compiz alike windows effect for GNOME Shell.
+
   #### Inspiration
   - [b00merang.weebly.com](https://b00merang.weebly.com/)
     - [macOS 11 'Big Sur'](https://github.com/B00merang-Project/macOS) - macOS theme for Gnome and GTK-based desktops.
