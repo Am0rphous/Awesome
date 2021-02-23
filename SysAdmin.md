@@ -206,6 +206,7 @@ bro / zeek
 - [Guide To Install Missing Firmware in Debian](https://www.techbrackets.com/install-missing-firmware-debian/) - Looking to install missing firmware in Debian or Ubuntu, then use this step by step guide.
 - [Puppet](https://github.com/puppetlabs/puppet/) - Server automation framework and application. [Puppet.com](https://puppet.com/)
 - [Ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Ansible Tower offers free for handling up to 10 nodes.
+- [reload.sh](https://github.com/trimstray/reload.sh) - Wipe, reinstall or restore your system from running GNU/Linux distribution. Via SSH, without rebooting.
 - [wAuto](https://github.com/khchen/wAuto) - Windows automation module.
 
 ## Databases
@@ -537,7 +538,6 @@ upstream_recursive_servers:
  - [Git For Windows](https://github.com/git-for-windows/git) - [https://gitforwindows.org](https://gitforwindows.org)
   - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) - Dynamically generated stats for your github readmes.
 - [KDU (Windows)](https://github.com/hfiref0x/KDU) - Kernel Driver Utility.
-- [reload.sh](https://github.com/trimstray/reload.sh) - Wipe, reinstall or restore your system from running GNU/Linux distribution. Via SSH, without rebooting.
 - [RipGrep-All](https://github.com/phiresky/ripgrep-all) - search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [USBUtils](https://github.com/gregkh/usbutils) - USB utilities for Linux, including lsusb.
   - [LsUSB](https://github.com/linuxhw/LsUSB) - Most popular USB devices and lsusb reports.
