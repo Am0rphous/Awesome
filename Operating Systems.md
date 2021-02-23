@@ -12,7 +12,7 @@
 7. [Router and Firewall OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#router-and-firewall-oses)
 8. [Server OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#server-oses)
 <br >  8.1 [NAS](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#nas)
-9. [Unix OS](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#unix-os)
+9. [Unix OS](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#unix-os)
 <br >
 <br >
 
@@ -121,11 +121,16 @@
 - [Rocky Linux](https://rockylinux.org) - [github](https://github.com/rocky-linux/rocky) Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS [rockylinux.org](https://rockylinux.org).
 - [ScientificLinux](https://scientificlinux.org) - Enterprise Linux rebuild sponsored by Fermi National Accelerator Laboratory.
 - [Ubunt Server](https://ubuntu.com) - Cloud, servers, IoT, desktop.
+- 
   ### NAS
   - [FreeNAS OS](https://www.freenas.org)
   - [OpenMediaVault](https://github.com/openmediavault/openmediavault) - Based on Debian. Contains services like SSH, (S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and many more. [Doc](https://docs.openmediavault.org) [Forum](https://forum.openmediavault.org) [Blog](https://blog.openmediavault.org)
   - [TrueNAS](https://www.truenas.com)
+  - [XigmaNAS](https://www.xigmanas.com/index.php?id=6)
 
 ## Unix OS
+- [DragonFly FreeBSD](https://www.dragonflybsd.org)
 - [FreeBSD](https://www.freebsd.org)
+- [GhostBSD](https://www.ghostbsd.org) - A simple, elegant desktop BSD Operating System.
+- [HardenedBSD](https://www.hardenedbsd.org)
 - [OpenBSD](https://www.openbsd.org)
