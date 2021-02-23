@@ -133,4 +133,9 @@
 - [FreeBSD](https://www.freebsd.org)
 - [GhostBSD](https://www.ghostbsd.org) - A simple, elegant desktop BSD Operating System.
 - [HardenedBSD](https://www.hardenedbsd.org)
+- [MidnightBSD](https://www.midnightbsd.org)
 - [OpenBSD](https://www.openbsd.org)
+
+## Virtualization
+- [Citrix XenServer](https://docs.citrix.com/en-us/xenserver.html)
+- [Xen XCP-ng](https://xcp-ng.org/) - Open source virtualization solution with pro support options for the most demanding companies. 
