@@ -210,6 +210,7 @@ bro / zeek
 - [wAuto](https://github.com/khchen/wAuto) - Windows automation module.
 
 ## Databases
+- [MariaDB Server](https://github.com/MariaDB/server) - MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.
 - [Redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps [redis.io](http://redis.io).
 
 ## Dell Spesific Tools
