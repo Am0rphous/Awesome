@@ -484,15 +484,13 @@ upstream_recursive_servers:
 - [Boxen](https://github.com/sindresorhus/boxen) - Create boxes in the terminal.
   - [Boxen-cli](https://github.com/sindresorhus/boxen-cli) - Create boxes in the terminal.
   - [ink-box](https://github.com/sindresorhus/ink-box) - Styled box component for Ink.
-- [CANalyse](https://github.com/KartheekLade/CANalyse) -  A tool to analyze log files!
-- [Cool Retro Term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display.
+- [CANalyse](https://github.com/KartheekLade/CANalyse) - A tool to analyze log files!
 - [Gnome-Terminal](https://gitlab.gnome.org/GNOME/gnome-terminal) - Default in all major Linux distributions.
-- [Hyper](https://github.com/vercel/hyper) -  A terminal built on web technologies. [www.hyper.is](https://hyper.is/)
-- [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)  A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. [ohmyz.sh](https://ohmyz.sh/)
-- [Guake](https://github.com/Guake/guake) -  Drop-down terminal for GNOME.
+- [Hyper](https://github.com/vercel/hyper) - A terminal built on web technologies. [www.hyper.is](https://hyper.is/)
+- [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) - A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. [ohmyz.sh](https://ohmyz.sh/)
+- [Guake](https://github.com/Guake/guake) - Drop-down terminal for GNOME.
 - [Terminator](https://github.com/gnome-terminator/terminator) - Useful tool for arranging terminals.
 - [Tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix.
-- [Tilix](https://github.com/gnunn1/tilix/) - A tiling terminal emulator for Linux using GTK+ 3.
 - [Tmux](https://github.com/tmux/tmux) - tmux is a terminal multiplexer: it enables a number of terminals to be created, accessed, and controlled from a single screen.
   - [Rainbarf](https://github.com/creaktive/rainbarf) - CPU/RAM/battery stats chart bar for tmux (and GNU screen).
   - [tmux-mem-cpu-load](https://github.com/thewtex/tmux-mem-cpu-load) - CPU, RAM, and load monitor for use with tmux.
@@ -503,12 +501,19 @@ upstream_recursive_servers:
   - [Awesome Bash](https://github.com/awesome-lists/awesome-bash) -  A curated list of delightful Bash scripts and resources.
   - [Debugging Bash Scripts](https://linuxconfig.org/how-to-debug-bash-scripts) - Usage of traditional techniques, xtrace, trap and other options.
   - [Oh My Bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. [ohmybash.github.io](https://ohmybash.github.io)
+
   ### Dotfiles
   - [chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right.
     - [ansi-styles](https://github.com/chalk/ansi-styles) - ANSI escape codes for styling strings in the terminal.
   - [Mohkale's DotFiles](https://github.com/mohkale/dotfiles)
   - [Yadm - Yet Another Dotfiles Manager](https://github.com/TheLocehiliosan/yadm)
-  ## Scripting
+
+  ### Emulators
+  - [Cool Retro Term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display.
+  - [eDEX-UI](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+  - [Tilix](https://github.com/gnunn1/tilix/) - A tiling terminal emulator for Linux using GTK+ 3.
+
+  ### Scripting
   - [Awesome-Scripts by DedSecInside](https://github.com/DedSecInside/Awesome-Scripts) - A collection of awesome scripts from developers around the globe.
   - [HuePy](https://github.com/s0md3v/huepy) - Print awesomely in terminals.
   - [PyWebView](https://github.com/r0x0r/pywebview) - Build GUI for your Python program with JavaScript, HTML, and CSS.
