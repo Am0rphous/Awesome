@@ -10,6 +10,7 @@
 - [Phoenicis PlayOnLinux](https://github.com/PhoenicisOrg/phoenicis) - Software which allows you to easily install and use numerous games and apps designed to run with Windows. [phoenicis.org](https://phoenicis.org/)
 - [www.playOnLinux.com](https://www.playonlinux.com/en/) - [Supported app list](https://www.playonlinux.com/en/supported_apps-1-0.html)
 - [PlayOnLinux4](https://github.com/PlayOnLinux/POL-POM-4) - PlayOnLinux 4 repository
+- [Wine](https://github.com/wine-mirror/wine) - Program which allows running Microsoft Windows programs (including DOS, Windows 3.x, Win32, and Win64 executables) on Unix.
 - [WineTricks](https://github.com/Winetricks/winetricks) - Winetricks is an easy way to work around problems in Wine. [winehq.org](https://wiki.winehq.org/Winetricks)
 - [gamejolt.com/games?os=linux](https://gamejolt.com/games?os=linux) - Find great games.
   ### Games
