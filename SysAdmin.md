@@ -561,6 +561,12 @@ upstream_recursive_servers:
     sudo bluetooth [on/off]
     sudo wwan [on/off]
     ````
+   - [SlimbookBattery](https://slimbook.es/en/tutoriales/aplicaciones-slimbook/398-slimbook-battery-3-application-for-optimize-battery-of-your-laptop) - Optimize yout battery life. [Slimbook official PPA](https://launchpad.net/~slimbook/+archive/ubuntu/slimbook)
+     Procedure:
+     ````
+     sudo add-apt-repository ppa:slimbook/slimbook
+     sudo apt-get install slimbookbattery
+     ````
   ### Testing
   - [Selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
   ### Troubleshooting
