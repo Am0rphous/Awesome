@@ -550,6 +550,17 @@ upstream_recursive_servers:
   - [Rufus (Windows)](https://rufus.ie) - The Reliable USB Formatting Utility.
   - [UNetbootin](https://github.com/unetbootin/unetbootin) - UNetbootin installs Linux/BSD distributions to a partition or USB drive.
   - [WoeUSB](https://github.com/WoeUSB/WoeUSB) -  A Microsoft Windows® USB installation media preparer for GNU+Linux.
+  ### Power and Battery
+  - [PowerTop](https://github.com/fenrus75/powertop) - Tool used to diagnose issues with power consumption and power management.
+  - [TLP](https://github.com/linrunner/TLP) - Optimize Linux Laptop Battery Life.
+    Usefull commands
+    ````powershell
+    sudo tlp start
+    sudo tlp-stat
+    sudo wifi [on/off]
+    sudo bluetooth [on/off]
+    sudo wwan [on/off]
+    ````
   ### Testing
   - [Selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
   ### Troubleshooting
