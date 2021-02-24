@@ -107,6 +107,8 @@
    - [RetroPie](https://retropie.org.uk/) - RetroPie allows you to turn your Raspberry Pi, ODroid C1/C2, or PC into a retro-gaming machine [RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup).
 
 ## Projects
+- [AmpliPi](https://github.com/micro-nova/AmpliPi) - Whole House Audio System 🔊
+
 ### Weather Station
 - [Linux Weather Station Tutorial/inspo](https://www.landoflinux.com/linux_raspberry_pi_weather_station.html) - how to set up a Weather Station and a Raspberry Pi.
   - [WeeWX](http://weewx.com) - free, open source, software program, written in Python, which interacts with your weather station to produce graphs, reports, and HTML pages.
