@@ -104,6 +104,9 @@ Description: The Portable Executable format is a file format for executables, ob
 - [Aes-finder](https://github.com/mmozeiko/aes-finder) - Utility to find AES keys in running processes.
 - [Process Dump (Windows))](https://github.com/glmcdona/Process-Dump) - Windows tool for dumping malware PE files from memory back to disk for analysis. 
 
+## Static Analysis
+- [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
+
 ## Steganography
 - [DanielSchetritt's Steganography](https://github.com/DanielSchetritt/Steganography) - demonstration for a computer security class.
 - [Steghide Brute Force Tool](https://github.com/Va5c0/Steghide-Brute-Force-Tool) - Execute a brute force attack with Steghide to file with hide information and password established.
