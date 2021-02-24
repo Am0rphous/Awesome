@@ -185,6 +185,7 @@ bro / zeek
 - [Kiwi IRC](https://kiwiirc.com)
 - [Mattermost](https://mattermost.com)
   - [Mattermost Desktop Client](https://github.com/mattermost/desktop)
+  - [Mattermost Docker](https://github.com/mattermost/mattermost-docker) - Dockerfile for mattermost in production.
   - [Mattermost CLI](https://github.com/mattermost/mmctl)
   - [Mattermost Plugin Jitsi](https://github.com/mattermost/mattermost-plugin-jitsi) - Jitsi plugin for Mattermost 🔌
   - [Mattermost Server](https://github.com/mattermost/mattermost-server)
@@ -192,6 +193,7 @@ bro / zeek
 - [Oragono](https://github.com/oragono/oragono) - A modern IRC server (daemon/ircd) written in Go.
 - [PrivateBin](https://framabin.org/p) - minimalist, open source online pastebin.
 - [Quassel-irc](https://quassel-irc.org)
+- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The ultimate Free Open Source Solution for team communications.
 - [Signal](https://www.signal.org)
   - [Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
   - [Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - Private Messenger for Windows, Mac, and Linux.
