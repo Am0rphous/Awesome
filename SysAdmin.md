@@ -2,7 +2,6 @@
 
 - [Ad-block and Spam](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#ad-block-and-spam)
   - [Blocklists](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#blocklists)
-  - [Threatlist](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#Threatlist)
 - [Anti-Virus / malware and rootkit detectio](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#anti-virus--malware-and-rootkit-detection)
   - [Analysis Tools Selfhosted](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#analysis-tools-selfhosted)
   - [Analysis Tools Online](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#analysis-tools-online)
@@ -82,11 +81,16 @@ bro / zeek
   - [PADD](https://github.com/pi-hole/PADD) - PADD (formerly Chronometer2) is a more expansive version of the original chronometer.sh that is included with Pi-Hole. PADD provides in-depth information about your Pi-hole.
 - [SpamCop](https://www.spamcop.net) - SpamCop is the premier service for reporting spam. SpamCop determines the origin of unwanted email and reports it to the relevant Internet service providers.
 #### Blocklists
-  - [Notracking's hosts-blocklists](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage.
-  - [Trick77's ipset-blacklist](https://github.com/trick77/ipset-blacklist) - A bash script to ban large numbers of IP addresses published in blacklists. 
-#### Threatlist
- - [emergingthreats.net](https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt)
- - 
+  - [binarydefense.com/banlist.txt](https://www.binarydefense.com/banlist.txt)
+  - [hosts-blocklists by Notracking](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage.
+  - [iplists.firehol.org](https://iplists.firehol.org)
+    - [firehol_level3](https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level3.netset)
+  - [ipset-blacklist by Trick77](https://github.com/trick77/ipset-blacklist) - A bash script to ban large numbers of IP addresses published in blacklists.
+  - [Proofpoint Emerging Threats Rules](https://rules.emergingthreats.net/blockrules/)
+    - [compromised-ips.txt by emergingthreats.net](https://rules.emergingthreats.net/blockrules/compromised-ips.txt)
+    - [emerging-Block-IPs.txt by emergingthreats.net](https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt)
+
+
 ## Anti-Virus / malware and rootkit detection
 - [AlphaSeclab's anti-av](https://github.com/alphaSeclab/anti-av) - Resources About Anti-Virus and Anti-Anti-Virus, including 200+ tools and 1300+ posts.
 - [Al-khaser](https://github.com/LordNoteworthy/al-khaser) - PoC "malware" application with good intentions that aims to stress your anti-malware system.
@@ -269,11 +273,13 @@ lsscsi                          #Print SCSI Devices Info
   - [How to Install and Use PSAD IDS on Ubuntu Linux](https://blog.rapid7.com/2017/06/24/how-to-install-and-use-psad-ids-on-ubuntu-linux) - Nice Tutorial.
 - [Snort3](https://github.com/snort3/snort3) - next generation Snort IPS (Intrusion Prevention System). [snort.org](https://snort.org/)
   - [Eldondev's Snort rules](https://github.com/eldondev/Snort/tree/master/rules)
+  - [ET OPEN Ruleset Download Instructions](https://rules.emergingthreats.net/OPEN_download_instructions.html) - Emergingthreats.
   - [snort-rules (unofficial)](https://github.com/codecat007/snort-rules) - An UNOFFICIAL Git Repository of Snort Rules(IDS rules) Releases.
   - [Fireeye Red-Team's Snort rules](https://github.com/fireeye/red_team_tool_countermeasures/blob/master/all-snort.rules)
 - [Splunk Home](https://ethicalhackingguru.com/splunk-free-home) - Restricted to 500 megabyte / day.
 - [SSHGuard](https://bitbucket.org/sshguard/sshguard/src/master) - "_Protects hosts from brute-force attacks against SSH and other services. It aggregates system logs and blocks repeat offenders using one of several firewall backends._" [sshguard.net](https://www.sshguard.net).
 - [Suricata](https://github.com/OISF/suricata) - Suricata is a network IDS, IPS and NSM engine. [suricata-ids.org](https://suricata-ids.org)
+  - [ET OPEN Ruleset Download Instructions](https://rules.emergingthreats.net/OPEN_download_instructions.html) - Emergingthreats.
   - [SEPTun](https://github.com/pevma/SEPTun) - Suricata Extreme Performance Tuning guide.
   - [Suricata PT Open Ruleset](https://github.com/ptresearch/AttackDetection) - Attack Detection.
 - [Teler](https://github.com/kitabisa/teler) -  Real-time HTTP Intrusion Detection.
