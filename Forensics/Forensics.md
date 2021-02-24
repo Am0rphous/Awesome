@@ -49,6 +49,9 @@
 - [Free Malicious PDF Analysis E-book](http://didierstevens.com/files/data/malicious-pdf-analysis-ebook.zip) - Also within this folder and "Documents".
 - [SANS Forensics Whitepapers](https://digital-forensics.sans.org/community/whitepapers) - Papers written by forensic practitioners seeking GCFA, GCFE, and GREM Gold.
 
+## evidence collection 
+- [AutoLLR](https://github.com/Dead-Simple-Scripts/AutoLLR) - Script to automate Linux live evidence collection.
+
 ## File Analysis
 - [TrID](https://mark0.net/soft-trid-e.html) -  Identify file types from their binary signatures. Win32, Linux 32/64-bit
   - [Online TrID File Identifier](https://mark0.net/onlinetrid.html) - Size <= 10 MB.
