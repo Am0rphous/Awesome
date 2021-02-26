@@ -238,19 +238,6 @@ PyCharm, Spyder, Jupyter , ,
 - [Joplin](https://github.com/laurent22/joplin) - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: [discourse.joplinapp.org](https://discourse.joplinapp.org)
 - [HDFM](https://github.com/KYDronePilot/hdfm) - A program that displays weather and traffic maps received from NRSC-5 (HDFM) radio station.
 - [HTML5 Binary Clock](https://github.com/AE0L/html5-binary-clock) - Binary Clock written in HTML5, CSS3, and Vanilla JS.
-- [Howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux.
-  Tip:
-  ````
-  sudo add-apt-repository ppa:boltgolt/howdy
-  sudo apt install howdy
-  sudo howdy add
-  sudo howdy -U username add
-  sudo howdy list
-  sudo howdy remove face_ID
-  sudo howdy clear
-  sudo howdy disable 1            #disable it
-  sudo howdy disable 0            #enable it
-  ````
 - [KOrganizer](https://github.com/KDE/korganizer) - Organizational assistant, providing calendars and other similar functionality.
 - [MindNode](https://mindnode.com/download) - brainstorm and mind mapping.
   - [Dracula for MindNode](https://github.com/dracula/mindnode) - Dark theme for MindNode.
@@ -263,7 +250,21 @@ PyCharm, Spyder, Jupyter , ,
   - [dictionaries](https://www.freeoffice.com/en/download/dictionaries)
   - [LibreOffice](https://www.libreoffice.org/)
   - [SoftMaker Office](https://www.softmaker.com/en/softmaker-office-download) - Free for 30 days.
-
+  ### Security
+  - [Howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux.
+  Commands:
+  ````powershell
+  sudo add-apt-repository ppa:boltgolt/howdy
+  sudo apt install howdy
+  sudo howdy add
+  sudo howdy -U myUserName add
+  sudo howdy config                 # device_path should be e.g. /dev/video0
+  sudo howdy list
+  sudo howdy remove face_ID
+  sudo howdy clear
+  sudo howdy disable 1            #disable it
+  sudo howdy disable 0            #enable it
+  ````
 
  ### Podcast
  - [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts.
