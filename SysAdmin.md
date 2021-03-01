@@ -393,7 +393,7 @@ upstream_recursive_servers:
 - [DropBear SSH](https://github.com/mkj/dropbear) - S smallish SSH server and client. [https://matt.ucc.asn.au](https://matt.ucc.asn.au)
 - [ElecTerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp client(linux, mac, win).
 - [mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
-- Remote Desktop Applications
+- RDP Applications
   - [Remmina](https://github.com/FreeRDP/Remmina) - Mirror of [https://gitlab.com/Remmina/Remmina](https://gitlab.com/Remmina/Remmina) The GTK+ Remmina Remote Desktop Client.
   - [Remote Desktop Manager Free](https://remotedesktopmanager.com) - Windows, Mac, Linux, Android & iOS.
   Install it with e.g. `brew install --cask remote-desktop-manager-free`
@@ -403,6 +403,9 @@ upstream_recursive_servers:
   - [SSH Hardening](https://github.com/Am0rphous/CheatSheets/blob/main/Linux/ssh-hardening.md)
   - [SSH Hardening with Security Onion](https://docs.securityonion.net/en/2.3/ssh.html)
   - [Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH) - Win32 port of OpenSSH.
+- VNC (Virtual Network Computing)
+  - [tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server.
+    - [xVNC](http://xvnc.sourceforge.net/)
     #### VPN - Virtual Private Network
     - [IPsec VPN Server Auto Setup Scripts](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2.
     - [IPsec VPN Server on Docker](https://github.com/hwdsl2/docker-ipsec-vpn-server) - Docker image to run an IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2.
