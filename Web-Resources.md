@@ -81,6 +81,7 @@
 ## Cyber Security News
 - [Cyberiqs.com/latestnews](https://cyberiqs.com/latestnews)
 - [Cyware.com/hacker-news](https://cyware.com/hacker-news)
+- [Decipher](https://duo.com/decipher) - Security news that informs and inspires.
 - [DarkReading.com](https://www.darkreading.com)
 - [GovInfoSecurity.com](https://www.govinfosecurity.com)
 - [hackread.com](https://www.hackread.com)
