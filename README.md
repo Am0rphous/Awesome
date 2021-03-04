@@ -230,6 +230,8 @@ PyCharm, Spyder, Jupyter , ,
 
 ## News, RSS Feed
 - [Homura](https://github.com/Saul-Mirone/homura) - Elegant RSS reader.
+- [RSS-Bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it.
+- [RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible.
 
 ## Productivity Tools
 - [Ao](https://github.com/klaussinani/ao) - Elegant Microsoft To-Do desktop app [klaussinani.github.io/ao](https://klaussinani.github.io/ao).
