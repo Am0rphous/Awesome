@@ -638,6 +638,7 @@ upstream_recursive_servers:
    #### Container orchestration
    - Docker swarm
    - [Kubernetes](https://kubernetes.io)
+     - [Awesome-Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources 🚢🎉.
      - [Kubernetes CheatSheets](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
      - [MicroK8s](https://github.com/ubuntu/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge. [microk8s.io](https://microk8s.io)
      - [Sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets.
@@ -663,7 +664,9 @@ upstream_recursive_servers:
     - [Qira](https://github.com/geohot/qira) - QEMU Interactive Runtime Analyser.
   - [XCP-ng](https://xcp-ng.org) - Virtualization platform based on Xen Source and Citrix® Hypervisor (formerly XenServer). XCP-ng stands for Xen Cloud Platform - New Generation.
     - [XCP-ng documentation](https://xcp-ng.org/docs)
-
+   #### VM prep
+   - [prepare-ubuntu-18.04-template.sh](https://github.com/jimangel/ubuntu-18.04-scripts/blob/master/prepare-ubuntu-18.04-template.sh)
+   
 ## Web and Proxy Tools
 - [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) - A curated list of Web Security materials and resources.
 - [Apache](https://httpd.apache.org/) - Open-source web server for modern operating systems including UNIX and Windows. 
