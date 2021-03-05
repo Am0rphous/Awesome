@@ -224,6 +224,7 @@ bro / zeek
 - [ilo4_toolbox](https://github.com/airbus-seclab/ilo4_toolbox) - Toolbox for HPE iLO4 & iLO5 analysis.
 
 ## DNS
+- [DNS Proxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support.
 - [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols [simplednscrypt.org](https://www.simplednscrypt.org).
 
 ## Ebooks, PDFs and helpful resources
