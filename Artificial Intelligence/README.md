@@ -29,5 +29,10 @@ Note: https://favouriteblog.com/50-best-github-artificial-intelligence/
 ## Machine Learning
 - [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) - Machine Learning for Cyber Security.
 - [Behaviour Suite for Reinforcement Learning (bsuite)](https://github.com/deepmind/bsuite) - bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent.
-- [Tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone.
 - [Tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators [tvm.apache.org](https://tvm.apache.org).
+
+### Tensorflow
+- [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) - TensorFlow - A curated list of dedicated resources [tensorflow.org](http://tensorflow.org).
+- [Tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone.
+- [FaceRank](https://github.com/fendouai/FaceRank) - FaceRank - Rank Face by CNN Model based on TensorFlow (add keras version). FaceRank-人脸打分基于 TensorFlow (新增 Keras 版本) 的 CNN 模型（QQ群：167122861）。技术支持：[http://tensorflow123.com](http://tensorflow123.com).
+
