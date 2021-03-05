@@ -77,6 +77,12 @@
   - [MalConfScan](https://github.com/JPCERTCC/MalConfScan) - Volatility plugin for extracts configuration data of known malware.
 - [volatility3](https://github.com/volatilityfoundation/volatility3)
   - [plugins](https://github.com/volatilityfoundation/community) - Volatility plugins developed and maintained by the community.
+Commands
+````powershell
+sudo strings /dev/mem > mem-strings.txt
+sudo strings /dev/mem | less
+sudo strings -w /dev/mem | less
+````
 
 ## Network forensic tools
 - [CyberChef](https://github.com/gchq/cyberchef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis.
