@@ -19,7 +19,8 @@ Various resources, personal notes etc. I find interesting.
 - [Awesome DevSecOps](https://github.com/devsecops/awesome-devsecops) - An authoritative list of awesome devsecops tools with the help from community experiments and contributions.
 - [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better.
 - [Awesome Humane Tech](https://github.com/humanetech-community/awesome-humane-tech)
-- [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk/)
+- [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk)
+- [Awesome Industrial Control System Security](https://github.com/hslatman/awesome-industrial-control-system-security) - A curated list of resources related to Industrial Control System (ICS) security.
 - [Awesome Learning Resources](https://github.com/lauragift21/awesome-learning-resources) - Awesome list of resources on Web Development.
 - [Awesome List](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics 
 - [Awesome Machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
