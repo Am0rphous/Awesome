@@ -1,5 +1,7 @@
 # Windows
 
+- [Digital Forensics and Incident Response](https://tajdini.net/blog/forensics-and-security/digital-forensics-and-incident-response/)
+
 ## Exchange
 - [Detect webshells dropped on Microsoft Exchange servers after 0day compromises]() - Detect webshells dropped on Microsoft Exchange servers exploited through "proxylogon" group of vulnerabilites (CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065).
   - [Http-vuln-exchange.nse](https://github.com/GossiTheDog/scanning/blob/main/http-vuln-exchange.nse) - Check for Exchange Server CVEs CVE-2021-26855, CVE-2021-26857, CVE-2021-26858 and CVE-2021-27065 using Outlook Web App path data.
