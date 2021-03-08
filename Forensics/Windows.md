@@ -2,7 +2,7 @@
 
 ## Exchange
 - [Detect webshells dropped on Microsoft Exchange servers after 0day compromises]() - Detect webshells dropped on Microsoft Exchange servers exploited through "proxylogon" group of vulnerabilites (CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065).
-
+  - [Scan Exchange log files for indicators of compromise](https://www.microsoft.com/security/blog/2021/03/02/hafnium-targeting-exchange-servers/#scan-log) - The Exchange Server team released a script for checking HAFNIUM indicators of compromise (IOCs).
 ## Memory
 - [Blackbone](https://github.com/DarthTon/Blackbone) - Windows memory hacking library.
 - [MemProcFS](https://github.com/ufrisk/MemProcFS) - The Memory Process File System.
