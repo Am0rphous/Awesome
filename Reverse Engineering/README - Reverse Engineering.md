@@ -78,6 +78,7 @@ windres       # A compiler for Windows resource files.
 ## Disassemblers
 "takes one from binary to assembler–which is much lower level and is more difficult to read for humans."
  IDA Pro, Binary Ninja and radare2
+- [Capstone](https://github.com/aquynh/capstone) - Capstone disassembly/disassembler framework: Core (Arm, Arm64, BPF, EVM, M68K, M680X, MOS65xx, Mips, PPC, RISCV, Sparc, SystemZ, TMS320C64x, Web Assembly, X86, X86_64, XCore) + bindings.
 - [Smali](https://github.com/JesusFreke/smali) - assembler/disassembler for the dex format used by dalvik, Android's Java VM implementation.
 - [Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler, assembler, and disassembler.
 
