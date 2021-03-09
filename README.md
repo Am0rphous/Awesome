@@ -230,6 +230,7 @@ PyCharm, Spyder, Jupyter , ,
 - [Spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 
 ## News, RSS Feed
+- [CyberSecurityRSS](https://github.com/zer0yu/CyberSecurityRSS) - CyberSecurityRSS: 优秀的网络安全知识来源 / A collection of cybersecurity rss to make you better!.
 - [Homura](https://github.com/Saul-Mirone/homura) - Elegant RSS reader.
 - [RSS-Bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it.
 - [RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible.
