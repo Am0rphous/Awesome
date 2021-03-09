@@ -105,8 +105,10 @@ bro / zeek
   ````
 - [ClamAV](https://www.clamav.net) - ClamAV® is an open source antivirus engine for detecting trojans, viruses, malware & other malicious threats.
   - [ClamAV Documentation](https://github.com/Cisco-Talos/clamav-faq)
+  - [ClamTk](https://github.com/dave-theunsub/clamtk) - An easy to use, light-weight, on-demand virus scanner for Linux systems.
   ````
   sudo apt install clamav clamav-daemon mailutils -y
+  sudo apt-get install clamtk                         #frontend / gui
   service clamav-freshclam stop
   sudo freshclam                                      #updates signatures
   sudo wget https://database.clamav.net/daily.cvd     #download latest signature
