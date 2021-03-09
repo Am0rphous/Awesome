@@ -124,6 +124,7 @@ bro / zeek
   - [Tip](https://www.techrepublic.com/article/how-to-install-and-use-clamav-on-ubuntu-server-20-04)
 - [HerdProtect](https://www.herdprotect.com/index.aspx) - Second line of defense malware scanning platform powered by 68 anti-malware engines in the cloud.
 - [Intezer Labs](https://github.com/intezer)
+- [linux-malware-detect](https://github.com/rfxn/linux-malware-detect) - Linux Malware Detection (LMD) [R-fx Networks](https://www.rfxn.com/projects/linux-malware-detect/).
 - [Malware-ioc by ESET](https://github.com/eset/malware-ioc) - Indicators of Compromises (IOC) of our various investigations.
 - [Phishdetect-node](https://github.com/phishdetect/phishdetect-node) - Server component of PhishDetect.
 - [PHP Malware Finder](https://github.com/jvoisin/php-malware-finder) - Does its very best to detect obfuscated/dodgy code as well as files using PHP functions often used in malwares/webshells.
