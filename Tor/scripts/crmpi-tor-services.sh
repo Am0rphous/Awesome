@@ -17,13 +17,13 @@ EOF
 cat >> /etc/tor/torrc.2<< EOF
 SocksPort 9070
 ControlPort 9071
-DataDirectory /var/lib/tor1
+DataDirectory /var/lib/tor2
 EOF
 
 cat >> /etc/tor/torrc.3<< EOF
 SocksPort 9080
 ControlPort 9081
-DataDirectory /var/lib/tor1
+DataDirectory /var/lib/tor3
 EOF
 
 sudo touch /etc/systemd/system/tor1.service
@@ -80,6 +80,10 @@ ExecStart=/usr/sbin/tor -f /etc/tor/torrc.3
 [Install]
 WantedBy=multi-user.target
 EOF
+
+chown -R debian-tor /var/lib/tor1/*
+chown -R debian-tor /var/lib/tor2/*
+chown -R debian-tor /var/lib/tor3/*
 
 systemctl enable tor1.service
 systemctl enable tor2.service
