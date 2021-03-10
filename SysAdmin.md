@@ -1,6 +1,5 @@
 # System Administrator Tools
-- [Active Directory](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#active-directory)
-  - 
+- [Active Directory & LDAP](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#active-directory--ldap)
 - [Ad-block and Spam](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#ad-block-and-spam)
   - [Blocklists](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#blocklists)
 - [Anti-Virus / malware and rootkit detectio](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#anti-virus--malware-and-rootkit-detection)
@@ -18,7 +17,6 @@
 - [Hardware](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#hardware)
 - [IDS, HIDS and IPS](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#ids-hids-and-ips)
   - [Firewall](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#firewall)
-- [LDAP](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#ldap)
 - [Mail](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#mail)
 - [Monitoring](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#monitoring)
   - [ELK-stack](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#elk-stack)
@@ -75,8 +73,11 @@ bro / zeek
 ````
 
 ## Active Directory & LDAP
-- [OpenLDAP](https://github.com/openldap/openldap) - work is part of OpenLDAP Software [www.openldap.org](http://www.openldap.org).
-  ### LDAP
+- [Apache Directory Studio](https://directory.apache.org/studio/) - complete directory tooling platform intended to be used with any LDAP server however it is particularly designed for use with ApacheDS. 
+- [FreeIPA](https://github.com/freeipa/freeipa) -  Mirror of FreeIPA, an integrated security information management solution. [freeipa.org](https://www.freeipa.org)
+- [JXplorer](https://github.com/pegacat/jxplorer) - an open source LDAP browser.
+- [Openldap](https://github.com/openldap/openldap) - free, open-source implementation of the Lightweight Directory Access Protocol (LDAP) developed by the OpenLDAP Project.
+
 
 ## Ad-block and Spam
 - [AdGuard](https://github.com/AdguardTeam/AdguardHome) - Network-wide ads & trackers blocking DNS server.
@@ -296,12 +297,6 @@ lsscsi                          #Print SCSI Devices Info
 - [Teler](https://github.com/kitabisa/teler) -  Real-time HTTP Intrusion Detection.
 - [TripWire](https://github.com/Tripwire/tripwire-open-source) - Security and data integrity tool for monitoring and alerting on file & directory changes. 
 - [Wazuh](https://github.com/wazuh/wazuh/) - free and open source platform used for threat prevention, detection, and response. It is capable of protecting workloads across on-premises, virtualized, containerized, and cloud-based environments.
-
-## LDAP
-- [Apache Directory Studio](https://directory.apache.org/studio/) - complete directory tooling platform intended to be used with any LDAP server however it is particularly designed for use with ApacheDS. 
-- [FreeIPA](https://github.com/freeipa/freeipa) -  Mirror of FreeIPA, an integrated security information management solution. [freeipa.org](https://www.freeipa.org)
-- [JXplorer](https://github.com/pegacat/jxplorer) - an open source LDAP browser.
-- [Openldap](https://github.com/openldap/openldap) - free, open-source implementation of the Lightweight Directory Access Protocol (LDAP) developed by the OpenLDAP Project.
 
 ## Mail
 - [Roundcube webmail](https://github.com/roundcube/roundcubemail) - [roundcube.net](https://roundcube.net/)
