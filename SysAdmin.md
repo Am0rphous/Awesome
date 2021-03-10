@@ -1,5 +1,6 @@
 # System Administrator Tools
 - [Active Directory & LDAP](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#active-directory--ldap)
+  - [Security](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#security
 - [Ad-block and Spam](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#ad-block-and-spam)
   - [Blocklists](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#blocklists)
 - [Anti-Virus / malware and rootkit detectio](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#anti-virus--malware-and-rootkit-detection)
@@ -77,7 +78,9 @@ bro / zeek
 - [FreeIPA](https://github.com/freeipa/freeipa) -  Mirror of FreeIPA, an integrated security information management solution. [freeipa.org](https://www.freeipa.org)
 - [JXplorer](https://github.com/pegacat/jxplorer) - an open source LDAP browser.
 - [Openldap](https://github.com/openldap/openldap) - free, open-source implementation of the Lightweight Directory Access Protocol (LDAP) developed by the OpenLDAP Project.
-
+  ### Security
+  - [WatchAD](https://github.com/0Kee-Team/WatchAD) - AD Security Intrusion Detection System.
+    - [WatchAD-Web](https://github.com/0Kee-Team/WatchAD-Web) - A simple web platform for WatchAD.
 
 ## Ad-block and Spam
 - [AdGuard](https://github.com/AdguardTeam/AdguardHome) - Network-wide ads & trackers blocking DNS server.
