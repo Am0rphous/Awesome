@@ -74,7 +74,7 @@ bro / zeek
 - [sec-tool-list](https://github.com/alphaSeclab/sec-tool-list) - More than 21K security related open source tools, sorted by star count. Both in markdown and json format. 
 ````
 
-## Active Directory / LDAP
+## Active Directory & LDAP
 - [OpenLDAP](https://github.com/openldap/openldap) - work is part of OpenLDAP Software [www.openldap.org](http://www.openldap.org).
   ### LDAP
 
