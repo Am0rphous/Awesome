@@ -82,6 +82,8 @@ PyCharm, Spyder, Jupyter , ,
 - [Emmet Sublime](https://github.com/sergeche/emmet-sublime) - Emmet for Sublime Text.
 - [GhostText](https://github.com/GhostText/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
 - [Github Desktop](https://github.com/desktop/desktop) - open source Electron-based GitHub app. It is written in TypeScript and uses React [desktop.github.com/](https://desktop.github.com).
+- [INGInious](https://github.com/UCL-INGI/INGInious) - INGInious is a secure and automated exercises assessment platform using your own tests, also providing a pluggable interface with your existing LMS.
+  - [INGInious plugins](https://github.com/UCL-INGI/INGInious-plugins) - A list of open-source plugins for your INGInious instance.
 - [Jupyter Notebook](https://github.com/jupyter/notebook) - web-based notebook environment for interactive computing.
 - [PyCharm](https://www.jetbrains.com/pycharm) - Python IDE for Professional Developers.
 - [Socket.io](https://github.com/socketio/socket.io) - _Realtime application framework (Node.JS server)._
