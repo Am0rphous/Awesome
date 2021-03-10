@@ -133,6 +133,9 @@ PyCharm, Spyder, Jupyter , ,
 ## Geography
 - [GMT - Generic Mapping Tools](https://github.com/GenericMappingTools/gmt) - Open source collection of about 90 command-line tools for manipulating geographic and Cartesian data sets.
 
+## Hardware
+- [Inventory Hunter](https://github.com/EricJMarti/inventory-hunter) - Get notified as soon as your next CPU, GPU, or game console is in stock.
+
 ## InfoSec
 - [academy.attackiq.com](https://academy.attackiq.com)
 - MITRE ATT&CK - https://attack.mitre.org/
@@ -277,25 +280,13 @@ PyCharm, Spyder, Jupyter , ,
  - [Winds](https://github.com/getstream/winds/) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io.
 
 ## Tools
-- [Inventory Hunter](https://github.com/EricJMarti/inventory-hunter) - Get notified as soon as your next CPU, GPU, or game console is in stock.
   ### Hex
   - [ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
   - [vxHexEditor](https://github.com/EUA/wxHexEditor) - [www.wxhexeditor.org](http://www.wxhexeditor.org/)
 
 ## Torrent
-- [qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client  [www.qbittorrent.org](https://www.qbittorrent.org).
+- [qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client [www.qbittorrent.org](https://www.qbittorrent.org).
   ### Streaming torrent
   - [https://torrent.express](https://torrent.express)
 
-## Security Autiting Tools
-- [Lynis](https://github.com/CISOfy/Lynis)
-- Nikto
 
-## DashBoards
-- [Grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More 
-  - [Grafana dashboards for MySQL and MongoDB](https://github.com/percona/grafana-dashboards) - Grafana dashboards for MySQL and MongoDB monitoring using Prometheus 
-
-Malicious
-Bruteforce
-- [Brutemap](https://github.com/brutemap-dev/brutemap) - open source penetration testing tool that automates testing accounts to the site's login page, based on Dictionary Attack
-- [StegCracker](https://github.com/Paradoxis/StegCracker) - Steganography brute-force utility to uncover hidden data inside files 
