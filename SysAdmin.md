@@ -318,6 +318,8 @@ lsscsi                          #Print SCSI Devices Info
    #### Good resources
   - [ELK with Bro-based Application Layer Packet Classifier](https://github.com/hardenedlinux/Debian-GNU-Linux-Profiles/blob/master/NSM/docs/ELK_with_bro_ID_doc.mkd)
 - [Espionage](https://github.com/josh0xA/Espionage) - A Network Packet and Traffic Interceptor For Linux. Spoof ARP & Wiretap A Network. 
+- [Grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More.
+  - [Grafana dashboards for MySQL and MongoDB](https://github.com/percona/grafana-dashboards) - Grafana dashboards for MySQL and MongoDB monitoring using Prometheus.
 - [Graylog](https://github.com/Graylog2/graylog2-server) - Free and open source log management.
   - [Graylog Content Pack for Watchguard](https://github.com/ThoZed/graylog-cp-watchguard) - Graylog Content Pack for Watchguard Fireware Logging.
 - [Hastic Server](https://github.com/hastic/hastic-server) - Hastic data management server for analyzing patterns and anomalies from Grafana.
