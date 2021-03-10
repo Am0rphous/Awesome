@@ -282,6 +282,10 @@ PyCharm, Spyder, Jupyter , ,
   - [ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
   - [vxHexEditor](https://github.com/EUA/wxHexEditor) - [www.wxhexeditor.org](http://www.wxhexeditor.org/)
 
+## Torrent
+- [qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client  [www.qbittorrent.org](https://www.qbittorrent.org).
+  ### Streaming torrent
+  - [https://torrent.express](https://torrent.express)
 
 ## Security Autiting Tools
 - [Lynis](https://github.com/CISOfy/Lynis)
