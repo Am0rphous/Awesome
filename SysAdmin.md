@@ -73,6 +73,10 @@ bro / zeek
 - [sec-tool-list](https://github.com/alphaSeclab/sec-tool-list) - More than 21K security related open source tools, sorted by star count. Both in markdown and json format. 
 ````
 
+## Active Directory
+- [OpenLDAP](https://github.com/openldap/openldap) - work is part of OpenLDAP Software [www.openldap.org](http://www.openldap.org).
+  ### LDAP
+
 ## Ad-block and Spam
 - [AdGuard](https://github.com/AdguardTeam/AdguardHome) - Network-wide ads & trackers blocking DNS server.
 - [Blocky](https://github.com/0xERR0R/blocky) - DNS proxy as ad-blocker for local network.
