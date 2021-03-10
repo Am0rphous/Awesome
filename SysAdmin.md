@@ -81,6 +81,7 @@ bro / zeek
   ### Security
   - [WatchAD](https://github.com/0Kee-Team/WatchAD) - AD Security Intrusion Detection System.
     - [WatchAD-Web](https://github.com/0Kee-Team/WatchAD-Web) - A simple web platform for WatchAD.
+  - [WinPwn](https://github.com/S3cur3Th1sSh1t/WinPwn) - Automation for internal Windows Penetrationtest / AD-Security.
 
 ## Ad-block and Spam
 - [AdGuard](https://github.com/AdguardTeam/AdguardHome) - Network-wide ads & trackers blocking DNS server.
