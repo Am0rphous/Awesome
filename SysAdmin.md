@@ -672,6 +672,11 @@ upstream_recursive_servers:
   - [VirtualBox](https://www.virtualbox.org)
   - [VMWare Fusion (macOS)](https://www.vmware.com/products/fusion/fusion-evaluation.html)
     - [Open Virtualization Format Tool (ovftool)](https://code.vmware.com/web/tool/4.4.0/ovf) - VMware OVF Tool is a command-line utility that allows you to import and export OVF packages to and from many VMware products.
+    - Commands
+      ````
+      /Applications/VMware\ OVF\ Tool/ovftool --version
+      /Applications/VMware\ OVF\ Tool/ovftool --help 
+      ````
   - [Qemu](https://www.qemu.org) - Generic and open source machine emulator and virtualizer.
     - [Qemu Docs](https://www.qemu.org/docs/master)
     - [Qira](https://github.com/geohot/qira) - QEMU Interactive Runtime Analyser.
