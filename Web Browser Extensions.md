@@ -2,6 +2,7 @@
 
 - [Adblock Plus](https://gitlab.com/eyeo/adblockplus/adblockpluschrome) - open-source browser extension for content-filtering and ad blocking.
 - [AdBlocker Ultimate (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/adblocker-ultimate/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) - Completely remove ALL ads. No “acceptable” ads or whitelisted advertisers allowed. This free extensions also helps block trackers and malware.
+- [AdNauseam](https://addons.mozilla.org/en-US/firefox/addon/adnauseam/) - Blocking ads and fighting back against advertising surveillance.
 - [Dark Reader](https://github.com/darkreader/darkreader) - Inverts brightness of web pages and aims to reduce eyestrain while you browse the web. [darkreader.org](https://darkreader.org/)
 - [Decentraleyes](https://decentraleyes.org/) - A web browser extension that emulates Content Delivery Networks to improve your online privacy.
   - [Development repo](https://git.synz.io/Synzvato/decentraleyes)
