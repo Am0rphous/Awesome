@@ -202,6 +202,7 @@ bro / zeek
   - [Mattermost Docker](https://github.com/mattermost/mattermost-docker) - Dockerfile for mattermost in production.
   - [Mattermost CLI](https://github.com/mattermost/mmctl)
   - [Mattermost Plugin Jitsi](https://github.com/mattermost/mattermost-plugin-jitsi) - Jitsi plugin for Mattermost 🔌
+    - [RSSFeed Plugin](https://integrations.mattermost.com/rssfeed-plugin/)
   - [Mattermost Server](https://github.com/mattermost/mattermost-server)
 - [Neochat](https://github.com/KDE/neochat) - A client for matrix, the decentralized communication protoco.
 - [Oragono](https://github.com/oragono/oragono) - A modern IRC server (daemon/ircd) written in Go.
