@@ -14,6 +14,8 @@
 - [HTTPS Everywhere](https://github.com/EFForg/https-everywhere) - A browser extension that encrypts your communications with many websites that offer HTTPS but still allow unencrypted connections. [www.eff.org/https-everywhere](https://www.eff.org/https-everywhere)
 - [NoScript Security Suite](https://github.com/hackademix/noscript) - Allow active content to run only from sites you trust, and protect yourself against XSS and Clickjacking attacks, "Spectre", "Meltdown" and other JavaScript exploits. [noscript.net](https://noscript.net/)
 - [Nuke Private Data (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/nukeprivatedata/) - One-click toolbar button optionally deletes: cookies, browser cache, browsing history, download history, website file systems, form autocomplete data, indexedDB data, local storage, plugin data, data cached by service workers, saved passwords.
+- [Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) - Translate your page in real time using Google or Yandex.
+  - [Add-On FireFox - Translate Web Pages by Filipe Ps](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 - [Snowflake by The Tor Project](https://snowflake.torproject.org) - Snowflake is a WebRTC pluggable transport for Tor.
 - [PhishDetect Extension](https://github.com/phishdetect/phishdetect-extension) - Browser extension that complements the PhishDetect service.
 - [Privacy Badger by EFF Technologists](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
