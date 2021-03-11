@@ -702,6 +702,7 @@ upstream_recursive_servers:
 - [Squid]()
   - [SquidGuard](http://www.squidguard.org)
 - Wordpress
+  - [Elementor](https://elementor.com) - The World's Leading WordPress Website Builder.
   - [GamiPress](https://gamipress.com) - GamiPress lets you award your users with digital rewards for interacting with your WordPress website.
   - [Wordpress Comment Blacklist](https://github.com/splorp/wordpress-comment-blacklist) - A simple solution for WordPress comment spam.
 
