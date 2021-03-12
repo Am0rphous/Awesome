@@ -18,7 +18,9 @@
 - [Tor Proxy](https://onion.pet/) - Onion.pet - Tor2Web Darknet Proxy
 - [Tor2web](https://github.com/tor2web/Tor2web) - Tor2web is an HTTP proxy software that enables access to Tor Hidden Services by mean of common web browsers. [tor2web.org](https://www.tor2web.org/)
 [Nyx](https://nyx.torproject.org) - Command-line monitor for Tor. With this you can get detailed real-time information about your relay such as bandwidth usage, connections, logs, and much more.
+- [Wiki - TorFAQ](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/TorFAQ#CanexitnodeseavesdroponcommunicationsIsntthatbad)
 - [Wiki - TorPlusVPN](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/TorPlusVPN)
+
   ##### Relays, statistics, operators
   - [Exit Failures](https://arthuredelstein.net/exits/)
   - [OrNetStats](https://nusenu.github.io/OrNetStats/) - provides statistics about the Tor network and it operators.
