@@ -23,6 +23,7 @@
 
   ##### Relays, statistics, operators
   - [Exit Failures](https://arthuredelstein.net/exits/)
+  - [How can I get Tor to fully make use of my high capacity connection?](https://archives.seul.org/or/relays/Aug-2010/msg00034.html)
   - [OrNetStats](https://nusenu.github.io/OrNetStats/) - provides statistics about the Tor network and it operators.
   - [Setup for Middle/Guard Relay setup for Debian/Ubuntu](https://community.torproject.org/relay/setup/guard/debianubuntu)
   - [Relay Post-install and good practices](https://community.torproject.org/relay/setup/post-install)
