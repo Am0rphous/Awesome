@@ -686,7 +686,7 @@ upstream_recursive_servers:
     - [XCP-ng documentation](https://xcp-ng.org/docs)
    #### VM prep
    - [prepare-ubuntu-18.04-template.sh](https://github.com/jimangel/ubuntu-18.04-scripts/blob/master/prepare-ubuntu-18.04-template.sh)
-   
+
 ## Web and Proxy Tools
 - [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) - A curated list of Web Security materials and resources.
 - [Apache](https://httpd.apache.org/) - Open-source web server for modern operating systems including UNIX and Windows. 
@@ -730,3 +730,11 @@ upstream_recursive_servers:
   - [awesome-web-effect](https://github.com/lindelof/awesome-web-effect) - A series of exquisite and compact web page cool effects.
   - [Bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
   - [Developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021.
+
+## Web Browser
+- [Brave Browser](https://brave.com/download/)
+- [Mozilla Firefox](https://www.mozilla.org)
+  - [Pale Moon](https://www.palemoon.org/)
+- [Tor Browser](https://www.torproject.org)
+- [Waterfox](https://www.waterfox.net/)
+- 
