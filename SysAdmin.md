@@ -641,6 +641,7 @@ upstream_recursive_servers:
   - [Firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing [firecracker-microvm.github.io](https://firecracker-microvm.github.io).
     - [Firecracker Containerd](https://github.com/firecracker-microvm/firecracker-containerd) - Firecracker-containerd enables containerd to manage containers as Firecracker microVMs.
   - [K3S](https://k3s.io/) - The certified Kubernetes distribution built for IoT & Edge computing
+    - [kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes.
   - [LXC](https://linuxcontainers.org/lxc/)
     - [LXC Web Panel's dashboard (old)](https://github.com/lxc-webpanel/dashboard) - Might need flask `pip3 install flask`
   - [LXD](https://linuxcontainers.org/lxd/)
