@@ -732,9 +732,12 @@ upstream_recursive_servers:
   - [Developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021.
 
 ## Web Browser
+- [Chromium](https://www.chromium.org/) - With Chromium, you get rid of all the tracking features that Google Chrome boasts.
+  - [ungoogled-chromium Github](https://github.com/Eloston/ungoogled-chromium)
 - [Brave Browser](https://brave.com/download/)
 - [Mozilla Firefox](https://www.mozilla.org)
   - [Pale Moon](https://www.palemoon.org/)
 - [Tor Browser](https://www.torproject.org)
 - [Waterfox](https://www.waterfox.net/)
-- 
+  ### Privacy focused
+  - [IceCat](https://www.gnu.org/software/gnuzilla/)
