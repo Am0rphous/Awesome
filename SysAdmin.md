@@ -86,7 +86,7 @@ bro / zeek
 ## Ad-block and Spam
 - [AdGuard](https://github.com/AdguardTeam/AdguardHome) - Network-wide ads & trackers blocking DNS server.
 - [Known DNS Providers](https://kb.adguard.com/en/general/dns-providers#cloudflare-dns)
-- e.g.
+- note
   ````powershell
   #upstream dns
   tls://1.1.1.1
