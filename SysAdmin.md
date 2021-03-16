@@ -85,6 +85,16 @@ bro / zeek
 
 ## Ad-block and Spam
 - [AdGuard](https://github.com/AdguardTeam/AdguardHome) - Network-wide ads & trackers blocking DNS server.
+- [Known DNS Providers](https://kb.adguard.com/en/general/dns-providers#cloudflare-dns)
+- e.g.
+  ````powershell
+  #upstream dns
+  tls://1.1.1.1
+  #boorstrap:
+  1.1.1.1
+  2606:4700:4700::1111
+  2606:4700:4700::1001
+  ````
 - [Blocky](https://github.com/0xERR0R/blocky) - DNS proxy as ad-blocker for local network.
 - [PiHole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements.
   - [Docker Pi-hole](https://github.com/pi-hole/docker-pi-hole) -  Pi-hole in a docker container.
