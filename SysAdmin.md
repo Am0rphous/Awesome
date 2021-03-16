@@ -209,6 +209,7 @@ bro / zeek
 - [PrivateBin](https://framabin.org/p) - minimalist, open source online pastebin.
 - [Quassel-irc](https://quassel-irc.org)
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The ultimate Free Open Source Solution for team communications.
+  - [Rocket.Chat.RaspberryPi](https://github.com/RocketChat/Rocket.Chat.RaspberryPi)
 - [Signal](https://www.signal.org)
   - [Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
   - [Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - Private Messenger for Windows, Mac, and Linux.
