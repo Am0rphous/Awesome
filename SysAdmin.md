@@ -750,7 +750,9 @@ upstream_recursive_servers:
 - [Brave Browser](https://brave.com/download/)
 - [Mozilla Firefox](https://www.mozilla.org)
   - [Pale Moon](https://www.palemoon.org/)
-- [Tor Browser](https://www.torproject.org)
+
 - [Waterfox](https://www.waterfox.net/)
   ### Privacy focused
   - [IceCat](https://www.gnu.org/software/gnuzilla/)
+  - [Tenta](https://tenta.com/)
+  - [Tor Browser](https://www.torproject.org)
