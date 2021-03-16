@@ -91,6 +91,7 @@ bro / zeek
   - [PADD](https://github.com/pi-hole/PADD) - PADD (formerly Chronometer2) is a more expansive version of the original chronometer.sh that is included with Pi-Hole. PADD provides in-depth information about your Pi-hole.
 - [SpamCop](https://www.spamcop.net) - SpamCop is the premier service for reporting spam. SpamCop determines the origin of unwanted email and reports it to the relevant Internet service providers.
 #### Blocklists
+  - [AdGuard CNAME Tracker List](https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt)
   - [binarydefense.com/banlist.txt](https://www.binarydefense.com/banlist.txt)
   - [hosts-blocklists by Notracking](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage.
   - [iplists.firehol.org](https://iplists.firehol.org)
