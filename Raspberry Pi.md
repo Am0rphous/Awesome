@@ -1,5 +1,6 @@
 # Raspberry Pi
 
+- [system_info](https://github.com/kencormack/system_info) - A Raspberry Pi System Configuration Reporting Tool.
 - [TinyUSB](https://github.com/hathach/tinyusb) - _An open source cross-platform USB stack for embedded system._
 
 ## Ad-block software
