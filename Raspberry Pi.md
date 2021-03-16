@@ -1,5 +1,7 @@
 # Raspberry Pi
 
+- [Index of /magpi-issues (The MagPi Magazine)](https://www.raspberrypi.org/magpi-issues/)
+  - [The MagPi - Issue 85 September 2019](https://www.raspberrypi.org/magpi-issues/MagPi85.pdf)
 - [system_info](https://github.com/kencormack/system_info) - A Raspberry Pi System Configuration Reporting Tool.
 - [TinyUSB](https://github.com/hathach/tinyusb) - _An open source cross-platform USB stack for embedded system._
 
