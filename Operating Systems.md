@@ -129,12 +129,12 @@
   - [XigmaNAS](https://www.xigmanas.com/index.php?id=6)
 
 ## Unix OS
-- [DragonFly FreeBSD](https://www.dragonflybsd.org)
-- [FreeBSD](https://www.freebsd.org)
-- [GhostBSD](https://www.ghostbsd.org) - A simple, elegant desktop BSD Operating System.
-- [HardenedBSD](https://www.hardenedbsd.org)
-- [MidnightBSD](https://www.midnightbsd.org)
-- [OpenBSD](https://www.openbsd.org)
+- [DragonFly BSD](https://www.dragonflybsd.org)
+- [Free BSD](https://www.freebsd.org)
+- [Ghost BSD](https://www.ghostbsd.org) - A simple, elegant desktop BSD Operating System.
+- [Hardened BSD](https://www.hardenedbsd.org)
+- [Midnight BSD](https://www.midnightbsd.org)
+- [Open BSD](https://www.openbsd.org)
 
 ## Virtualization
 - [Citrix XenServer](https://docs.citrix.com/en-us/xenserver.html)
