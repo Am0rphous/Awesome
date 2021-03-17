@@ -50,8 +50,6 @@
   - [Web Analytics](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#web-analytics)
 
 ````
-https://itsfoss.com/cryptpad/
-https://github.com/xwiki-labs/cryptpad
 https://www.freedesktop.org/wiki/Software/
 https://www.freedesktop.org/wiki/Software/wmctrl/
 https://openvz.org/
@@ -753,6 +751,10 @@ upstream_recursive_servers:
 
 - [Waterfox](https://www.waterfox.net/)
   ### Privacy focused
+  - [Bromite](https://www.bromite.org) - Bromite a Chromium fork with ad blocking and privacy enhancements; take back your browser!
   - [IceCat](https://www.gnu.org/software/gnuzilla/)
   - [Tenta](https://tenta.com/)
   - [Tor Browser](https://www.torproject.org)
+  ### Search Engines
+  - [DuckDuckGo[https://duckduckgo.com]
+  - [Qwant](https://www.qwant.com/)
