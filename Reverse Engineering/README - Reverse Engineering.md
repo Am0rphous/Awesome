@@ -38,7 +38,9 @@ https://github.com/WebAssembly/wabt
 - [Angr](https://github.com/angr/angr) -  A powerful and user-friendly binary analysis platform.
   - [Angr Documentation](https://github.com/angr/angr-doc)
   - [Angr Gui](https://github.com/angr/angr-management) - A GUI for angr.
-- [BinWalk](https://github.com/ReFirmLabs/binwalk) -  Firmware Analysis Tool.
+- [BinWalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool.
+### PE - Portable Executables binaries
+- [Pev](https://github.com/merces/pev) - The PE file analysis toolkit.
 
 ## GNU Binutils
 - [GitWeb Interface](https://sourceware.org/git/gitweb.cgi?p=binutils-gdb.git)
