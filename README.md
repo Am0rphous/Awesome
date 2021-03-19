@@ -122,6 +122,7 @@ PyCharm, Spyder, Jupyter , ,
 ## Encryption
 - [Encrypting Kali Setup Tutorial (working pr. 10.11.20)](https://www.informaticar.net/how-to-manually-partition-and-encrypt-kali-linux/)
 - [Sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets 
+- [VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt.
 
 ## Finance
 - [Firefly III:](https://github.com/firefly-iii/firefly-iii) - a personal finances manager 
