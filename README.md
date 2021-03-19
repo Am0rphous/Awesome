@@ -50,6 +50,7 @@ Various resources, personal notes etc. I find interesting.
   - [Irssi](https://irssi.org/) - vpowerful text-mode IRC client.
 
 ## Cryptocurrency
+- [Bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree.
 - [bitcoin-chart-cli](https://github.com/madnight/bitcoin-chart-cli) - Bitcoin chart for the terminal as command line util.
 - [cryptocurrency-calculator-cli](https://github.com/madnight/cryptocurrency-calculator-cli) - Cryptocurrency Converter Calculator as command line util.
 
