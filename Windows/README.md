@@ -18,12 +18,12 @@
 - [Secunia Personal Software Inspector](https://secunia-personal-software-inspector.en.softonic.com/#older-versions) - Discover security vulnerabilities.
 - [Screwed-Drivers](https://github.com/eclypsium/Screwed-Drivers) - "Screwed Drivers" centralized information source for code references, links, etc.
 
-### Activate sandboxing in Windows Defender
+  ### Activate sandboxing in Windows Defender
 ````
 1. Open Start and Search for "CMD" or "Command Prompt”
 2. Right Click on it and select "Run as administrator."
 3. Type: "setx /M MP_FORCE_USE_SANDBOX 1" and then press ENTER
 4. Then restart your computer, that’s it
-
 ````
-
+## Terminal / CMD / PowerShell
+- [awesome-windows-command-line](https://github.com/Awesome-Windows/awesome-windows-command-line) - ◼️ Use your Windows terminal to do awesome things.
