@@ -546,6 +546,7 @@ upstream_recursive_servers:
   - [Boxen-cli](https://github.com/sindresorhus/boxen-cli) - Create boxes in the terminal.
   - [ink-box](https://github.com/sindresorhus/ink-box) - Styled box component for Ink.
 - [CANalyse](https://github.com/KartheekLade/CANalyse) - A tool to analyze log files!
+- [cross-platform-terminal-characters](https://github.com/ehmicky/cross-platform-terminal-characters) - All the characters that work on most terminals and most operating systems.
 - [Gnome-Terminal](https://gitlab.gnome.org/GNOME/gnome-terminal) - Default in all major Linux distributions.
 - [Hyper](https://github.com/vercel/hyper) - A terminal built on web technologies. [www.hyper.is](https://hyper.is/)
 - [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) - A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. [ohmyz.sh](https://ohmyz.sh/)
