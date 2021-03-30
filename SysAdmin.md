@@ -263,6 +263,7 @@ bro / zeek
 - [Piping-server](https://github.com/nwtgck/piping-server) - Infinitely transfer between every device over pure HTTP: designed for everyone including people using Unix pipe and even for browser users.
   - [piping-ui.org](https://piping-ui.org)
 - [Serve by Vercel](https://github.com/vercel/serve) - Static file serving and directory listing.
+- [Updog](https://github.com/sc0tfree/updog) - Updog is a replacement for Python's SimpleHTTPServer. It allows uploading and downloading via HTTP/S, can set ad hoc SSL certificates and use http basic auth.
 - [Warpinator](https://github.com/linuxmint/warpinator) - Share files across the LAN 
 
 ## Firewall
