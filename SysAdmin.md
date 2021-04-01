@@ -425,8 +425,9 @@ upstream_recursive_servers:
   - [Remote Desktop Manager Free](https://remotedesktopmanager.com) - Windows, Mac, Linux, Android & iOS.
   Install it with e.g. `brew install --cask remote-desktop-manager-free`
   - [xRDP](https://github.com/neutrinolabs/xrdp) - Open source RDP server.
-- SSH
+- [SSH](https://www.openssh.com)
   - [Portable OpenSSH](https://github.com/openssh/openssh-portable)
+  - [SSH-Weak-DH](https://github.com/AonCyberLabs/SSH-Weak-DH)
   - [SSH Hardening](https://github.com/Am0rphous/CheatSheets/blob/main/Linux/ssh-hardening.md)
   - [SSH Hardening with Security Onion](https://docs.securityonion.net/en/2.3/ssh.html)
   - [Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH) - Win32 port of OpenSSH.
