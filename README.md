@@ -28,6 +28,7 @@ Various resources, personal notes etc. I find interesting.
 - [Awesome Open Source](https://awesomeopensource.com) - Find Open Source By Searching, Browsing and Combining 7,000 Topics Across 59 Categories And 337,263 Projects
 - [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts)
 - [Awesome Search](https://awesomelists.top/)
+- [Awesome Selfhosted](https://gitlab.com/awesome-selfhosted/awesome-selfhosted)
 - [Awesome SSH](https://github.com/moul/awesome-ssh)
 - [Awesome Termux](https://github.com/T4P4N/Awesome-Termux)
 - [Awesome UNIX](https://github.com/sirredbeard/Awesome-UNIX) - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
