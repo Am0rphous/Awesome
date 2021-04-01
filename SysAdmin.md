@@ -448,6 +448,7 @@ upstream_recursive_servers:
     - [Openconnect VPN Server](https://ocserv.gitlab.io/www/index.html) - Openconnect server (ocserv) is an SSL VPN server for administrators who require elaborate user management and control.
     - [OpenVPN](https://github.com/OpenVPN)
       - [Autovpn2](https://github.com/ruped24/autovpn2) - OpenVPN VPN Gate Client for Linux, connects you to a random Free VPN in a country of your choice by country code.
+      - [ovpn-admin](https://github.com/flant/ovpn-admin) - Simple web UI to manage OpenVPN users.
   ### Storage
   - [Libvirt Storage Management](https://libvirt.org/index.html)
   - [Lustre](https://www.lustre.org) - Open-source, parallel file system that supports many requirements of leadership class HPC simulation environments.
