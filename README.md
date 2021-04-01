@@ -22,7 +22,8 @@ Various resources, personal notes etc. I find interesting.
 - [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk)
 - [Awesome Industrial Control System Security](https://github.com/hslatman/awesome-industrial-control-system-security) - A curated list of resources related to Industrial Control System (ICS) security.
 - [Awesome Learning Resources](https://github.com/lauragift21/awesome-learning-resources) - Awesome list of resources on Web Development.
-- [Awesome List](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics 
+- [Awesome List](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics.
+- [Awesome Linux](https://github.com/inputsh/awesome-linux) - 🐧 A list of awesome projects and resources that make Linux even more awesome. 🐧
 - [Awesome Machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
 - [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) - Machine Learning for Cyber Security.
 - [Awesome Open Source](https://awesomeopensource.com) - Find Open Source By Searching, Browsing and Combining 7,000 Topics Across 59 Categories And 337,263 Projects
