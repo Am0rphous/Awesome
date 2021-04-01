@@ -230,6 +230,8 @@ bro / zeek
 - [Tox Chat](https://tox.chat/)
 - [Wire](https://github.com/wireapp/wire) - [app.wire.com](https://app.wire.com/auth/)
   ### Information Sharing
+  - [GitLab](https://about.gitlab.com/install/) - web-based DevOps lifecycle tool that provides a Git-repository manager providing wiki, issue-tracking and continuous integration and deployment pipeline features, using an open-source license, developed by GitLab Inc.
+    - [Gitlab-watchman](https://github.com/PaperMtn/gitlab-watchman) - Monitoring GitLab for sensitive data shared publicly.
   - [OutLine](https://github.com/outline/outline) - _The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible._
   ### Matrix
   - [Gomuks](https://github.com/tulir/gomuks) - A terminal based Matrix client written in Go.
