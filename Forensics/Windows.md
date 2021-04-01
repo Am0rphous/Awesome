@@ -2,6 +2,9 @@
 
 - [Digital Forensics and Incident Response](https://tajdini.net/blog/forensics-and-security/digital-forensics-and-incident-response/)
 
+## Event Log
+- [APT-Hunter](https://github.com/ahmedkhlief/APT-Hunter) - APT-Hunter is Threat Hunting tool for windows event logs which made by purple team mindset to provide detect APT movements hidden in the sea of windows event logs to decrease the time to uncover suspicious activity.
+
 ## Exchange
 - [Detect webshells dropped on Microsoft Exchange servers after 0day compromises]() - Detect webshells dropped on Microsoft Exchange servers exploited through "proxylogon" group of vulnerabilites (CVE-2021-26855, CVE-2021-26857, CVE-2021-26858, CVE-2021-27065).
   - [Http-vuln-exchange.nse](https://github.com/GossiTheDog/scanning/blob/main/http-vuln-exchange.nse) - Check for Exchange Server CVEs CVE-2021-26855, CVE-2021-26857, CVE-2021-26858 and CVE-2021-27065 using Outlook Web App path data.
