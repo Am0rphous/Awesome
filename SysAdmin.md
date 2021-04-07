@@ -439,9 +439,6 @@ upstream_recursive_servers:
     #### VPN - Virtual Private Network
     - [IPsec VPN Server Auto Setup Scripts](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2.
     - [IPsec VPN Server on Docker](https://github.com/hwdsl2/docker-ipsec-vpn-server) - Docker image to run an IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2.
-    - [WireGuard](https://github.com/WireGuard) - WireGuard® is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. [Wireguard.com](https://www.wireguard.com/)
-      - [Wireguard-macOS-LinuxVM](https://github.com/mrash/Wireguard-macOS-LinuxVM) -  Send all traffic from macOS through Wireguard running on a Linux VM.
-    - [Tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. [Tailscale.com](https://www.tailscale.com)
     - [OpenConnect](https://github.com/openconnect/openconnect) - SSL VPN client initially created to support Cisco's AnyConnect SSL VPN.
         [infradead.org/openconnect](https://www.infradead.org/openconnect/index.html)
         Brew: `brew install openconnect`
@@ -449,6 +446,13 @@ upstream_recursive_servers:
     - [OpenVPN](https://github.com/OpenVPN)
       - [Autovpn2](https://github.com/ruped24/autovpn2) - OpenVPN VPN Gate Client for Linux, connects you to a random Free VPN in a country of your choice by country code.
       - [ovpn-admin](https://github.com/flant/ovpn-admin) - Simple web UI to manage OpenVPN users.
+    - [WireGuard](https://github.com/WireGuard) - WireGuard® is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. [Wireguard.com](https://www.wireguard.com/)
+      - [Tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. [Tailscale.com](https://www.tailscale.com)
+      - [Tinc VPN](https://tinc-vpn.org/) - Tinc is an open-source, self-routing, mesh networking protocol and software implementation used for compressed and encrypted virtual private networks. 
+        - [How to install tinc VPN on Ubuntu Linux 16.04 LTS](https://www.cyberciti.biz/faq/how-to-install-tinc-vpn-on-ubuntu-linux-16-04-to-secure-traffic/)
+      - [Ubuntu 20.04 set up WireGuard VPN server](https://www.cyberciti.biz/faq/ubuntu-20-04-set-up-wireguard-vpn-server/)
+      - [Wireguard-macOS-LinuxVM](https://github.com/mrash/Wireguard-macOS-LinuxVM) -  Send all traffic from macOS through Wireguard running on a Linux VM.
+
   ### Storage
   - [Libvirt Storage Management](https://libvirt.org/index.html)
   - [Lustre](https://www.lustre.org) - Open-source, parallel file system that supports many requirements of leadership class HPC simulation environments.
