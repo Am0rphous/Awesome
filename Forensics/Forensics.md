@@ -82,7 +82,7 @@ Commands
 ````powershell
 sudo strings /dev/mem > mem-strings.txt
 sudo strings /dev/mem | less
-sudo strings -w /dev/mem | less
+sudo strings -w /dev/mem | less                   #-w = includes whitespace
 ````
 
 ## Network forensic tools
