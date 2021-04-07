@@ -98,6 +98,9 @@
 ## Router and Firewall OSes
 - [BSD Router](https://bsdrp.net) - Free open source software router distribution based on embedded FreeBSD.
 - [DD-WRT](https://dd-wrt.com) - DD-WRT is a Linux based alternative OpenSource firmware suitable for a great variety of WLAN routers and embedded systems.
+  - [DD-WRT - Log](https://svn.dd-wrt.com/log/)
+  - [DD-WRT - Timeline with changes](https://svn.dd-wrt.com/timeline)
+  - [Download DD-WRT](ftp://ftp.dd-wrt.com/betas/)
 - [FreshTomato](https://freshtomato.org/)
 - [IPFire](https://www.ipfire.org) - IPFire is a hardened, versatile, state-of-the-art Open Source firewall based on Linux.
 - [m0n0wall](https://m0n0.ch/wall/index.php) - Embedded firewall distribution of FreeBSD.
