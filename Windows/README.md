@@ -13,6 +13,9 @@
 ## Media
 - [OSMC (Open Source Media Center)](https://osmc.tv)
 
+## Productivity
+- [GreenShot](https://github.com/greenshot/greenshot) - Greenshot is a light-weight screenshot software tool for Windows.
+
 ## Security and Protection
 - [EmoCheck](https://github.com/JPCERTCC/EmoCheck) - Emotet detection tool for Windows OS.
 - [Secunia Personal Software Inspector](https://secunia-personal-software-inspector.en.softonic.com/#older-versions) - Discover security vulnerabilities.
