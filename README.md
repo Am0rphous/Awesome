@@ -250,20 +250,21 @@ PyCharm, Spyder, Jupyter , ,
 - [RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible.
 
 ## Productivity Tools
-- [Ao](https://github.com/klaussinani/ao) - Elegant Microsoft To-Do desktop app [klaussinani.github.io/ao](https://klaussinani.github.io/ao).
 - [Albert Launcher](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher. [Homepage](https://albertlauncher.github.io/)
 - [GNOME Calendar](https://gitlab.gnome.org/GNOME/gnome-calendar) [gnome-calender github](https://github.com/GNOME/gnome-calendar)
-- [Joplin](https://github.com/laurent22/joplin) - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: [discourse.joplinapp.org](https://discourse.joplinapp.org)
 - [HDFM](https://github.com/KYDronePilot/hdfm) - A program that displays weather and traffic maps received from NRSC-5 (HDFM) radio station.
 - [HTML5 Binary Clock](https://github.com/AE0L/html5-binary-clock) - Binary Clock written in HTML5, CSS3, and Vanilla JS.
 - [KOrganizer](https://github.com/KDE/korganizer) - Organizational assistant, providing calendars and other similar functionality.
-- [MindNode](https://mindnode.com/download) - brainstorm and mind mapping.
-  - [Dracula for MindNode](https://github.com/dracula/mindnode) - Dark theme for MindNode.
 - [Pomatez](https://github.com/roldanjr/pomatez) - Stay Focused. Take a Break.
 - RedShift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings
-- [Taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
-  - [How to Manage Your Tasks in the Terminal with Taskbook](https://www.maketecheasier.com/manage-tasks-in-terminal-with-taskbook/)
-- [Tui.calendar](https://github.com/nhn/tui.calendar) - JavaScript calendar that has everything you need. 
+- [Tui.calendar](https://github.com/nhn/tui.calendar) - JavaScript calendar that has everything you need.
+  ### Nota Taking Apps
+  - [Ao](https://github.com/klaussinani/ao) - Elegant Microsoft To-Do desktop app [klaussinani.github.io/ao](https://klaussinani.github.io/ao).
+  - [Joplin](https://github.com/laurent22/joplin) - An open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: [discourse.joplinapp.org](https://discourse.joplinapp.org)
+  - [MindNode](https://mindnode.com/download) - brainstorm and mind mapping.
+    - [Dracula for MindNode](https://github.com/dracula/mindnode) - Dark theme for MindNode.
+  - [Taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
+    - [How to Manage Your Tasks in the Terminal with Taskbook](https://www.maketecheasier.com/manage-tasks-in-terminal-with-taskbook/)
   ### Office Tools
   - [FreeOffice](https://www.freeoffice.com)
   - [dictionaries](https://www.freeoffice.com/en/download/dictionaries)
