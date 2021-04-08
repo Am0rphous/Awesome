@@ -67,13 +67,15 @@ Various resources, personal notes etc. I find interesting.
   #### Extensions
   - [compiz-alike-magic-lamp-effect](https://github.com/hermes83/compiz-alike-magic-lamp-effect) - Compiz alike magic lamp effect for GNOME Shell.
   - [compiz-alike-windows-effect](https://github.com/hermes83/compiz-alike-windows-effect) - Compiz alike windows effect for GNOME Shell.
-
   #### Inspiration
   - [b00merang.weebly.com](https://b00merang.weebly.com/)
     - [macOS 11 'Big Sur'](https://github.com/B00merang-Project/macOS) - macOS theme for Gnome and GTK-based desktops.
     - [Unity 8](https://github.com/B00merang-Project/Unity-8) - Theme mimicking Unity 8's design.
     - [Windows 10 Theme for Linux](https://github.com/B00merang-Project/Windows-10) - Windows 10 Light theme for Linux (GTK).
   - [gnome-look.org](https://www.gnome-look.org)
+  #### Theme Tutorials
+  - [How to Make Ubuntu 20.04 Look Like Mac OS](https://azatb.com/2020/10/12/how-to-make-ubuntu-20-04-look-like-mac-os-linux-hint/)
+  
 
 ## Development
 PyCharm, Spyder, Jupyter , , 
