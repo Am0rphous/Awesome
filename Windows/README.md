@@ -13,6 +13,9 @@
 ## Media
 - [OSMC (Open Source Media Center)](https://osmc.tv)
 
+## Network
+- [TraceWrangler - Packet Capture Toolkit](https://www.tracewrangler.com)
+
 ## Productivity
 - [GreenShot](https://github.com/greenshot/greenshot) - Greenshot is a light-weight screenshot software tool for Windows.
 
