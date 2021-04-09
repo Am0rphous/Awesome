@@ -60,8 +60,9 @@
 - [xxd](https://github.com/ConorOG/xxd) - hexdump utility.
   ### Commands (Usually default)
   ````
-  file            #determine file type. E.g. "file word.doc"
-  hexdump         #ascii, decimal, hexadecimal, octal dump 
+  file            # determine file type. E.g. "file word.doc"
+  hexdump         # ascii, decimal, hexadecimal, octal dump
+  strings         #  print the sequences of printable characters in files
   ````
 
 ## Hardware
