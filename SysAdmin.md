@@ -197,6 +197,7 @@ bro / zeek
 - [KasperSky's Free Ransomware Decryptors](https://noransom.kaspersky.com/)
 
 ## Benchmarking
+- [peakperf](https://github.com/Dr-Noob/peakperf) - Microbenchmark to achieve peak performance on x86_64 CPUs and NVIDIA GPUs.
 - [phoronix-test-suite.com](https://www.phoronix-test-suite.com) - Open-Source, Automated Benchmarking.
   - [openbenchmarking.org](https://openbenchmarking.org) - Storage of Phoronix Test Suite benchmark result data (including optional system logs, etc).
   - [Phoronix Test Suite on Github](https://github.com/phoronix-test-suite/phoronix-test-suite) - The Phoronix Test Suite open-source, cross-platform automated testing/benchmarking software.
