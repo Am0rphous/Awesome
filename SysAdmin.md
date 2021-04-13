@@ -336,7 +336,7 @@ lsscsi                          #Print SCSI Devices Info
     - [detection-rules](https://github.com/elastic/detection-rules) -  Rules for Elastic Security's detection engine.
   - [LogStash](https://github.com/elastic/logstash) -  Logstash - transport and process your logs, events, or other data.
   - [Kibana](https://github.com/elastic/kibana) -  browser-based analytics and search dashboard for Elasticsearch.
-   #### Good resources
+   #### Good resources regarding ELK-stack
   - [ELK with Bro-based Application Layer Packet Classifier](https://github.com/hardenedlinux/Debian-GNU-Linux-Profiles/blob/master/NSM/docs/ELK_with_bro_ID_doc.mkd)
 - [Espionage](https://github.com/josh0xA/Espionage) - A Network Packet and Traffic Interceptor For Linux. Spoof ARP & Wiretap A Network. 
 - [Grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More.
@@ -351,6 +351,7 @@ lsscsi                          #Print SCSI Devices Info
 - [NetworkMiner](https://www.netresec.com/?page=Networkminer) - open source Network Forensic Analysis Tool (NFAT) for Windows (but also works in Linux / Mac OS X / FreeBSD). 
 - [ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring.
 - [OpenNMS](https://github.com/OpenNMS/opennms) - Enterprise-Grade Open-Source Network Management Platform [www.opennms.org](http://www.opennms.org).
+- [pSpy](https://github.com/DominicBreuker/pspy) - Monitor linux processes without root permissions
 - [Security Onion OS](https://securityonionsolutions.com)
   - [Github: Security Onion 2.3.10](https://github.com/Security-Onion-Solutions/securityonion)
   - [Security Onion Documentation](https://docs.securityonion.net/en/2.3/index.html)
