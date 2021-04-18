@@ -16,8 +16,6 @@
 #### MacOS only
 Check this later: https://www.bosstechy.com/best-android-emulators-for-mac-os/
 
-- []()
-
 https://developer.android.com/studio/
 
 Note for later: HorizonCalendar - https://github.com/airbnb/HorizonCalendar
