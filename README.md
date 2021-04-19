@@ -182,6 +182,7 @@ PyCharm, Spyder, Jupyter , ,
 
 ## Media
 - [Multimedia and Television Support on Linux](https://www.linuxtv.org)
+- [Wwmark](https://github.com/mylamour/Wwmark) - Watermark Swiss Army Knife.
   ### Image
   - [DarkTable](https://github.com/darktable-org/darktable) - open source photography workflow application and raw developer. A virtual lighttable and darkroom for photographers. [darktable.org](https://www.darktable.org)
   - [DigiKam from KDE](https://www.digikam.org) - [Github](https://github.com/KDE/digikam) Advanced open-source digital photo management application that runs on Linux, Windows, and MacOS. The application provides a comprehensive set of tools for importing, managing, editing, and sharing photos and raw files.
