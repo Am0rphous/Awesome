@@ -11,7 +11,7 @@
 6. [Pen-testing and security auditing](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#pen-testing-and-security-auditing)
 7. [Router and Firewall OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#router-and-firewall-oses)
 8. [Server OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#server-oses)
-<br >  8.1 [NAS](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#nas)
+<br >  8.1 [NAS](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#nas)
 9. [Unix OS](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#unix-os)
 <br >
 <br >
