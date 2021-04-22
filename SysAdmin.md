@@ -449,6 +449,7 @@ upstream_recursive_servers:
     - [OpenVPN](https://github.com/OpenVPN)
       - [Autovpn2](https://github.com/ruped24/autovpn2) - OpenVPN VPN Gate Client for Linux, connects you to a random Free VPN in a country of your choice by country code.
       - [ovpn-admin](https://github.com/flant/ovpn-admin) - Simple web UI to manage OpenVPN users.
+    - [Streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
     - [WireGuard](https://github.com/WireGuard) - WireGuard® is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. [Wireguard.com](https://www.wireguard.com/)
       - [Tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. [Tailscale.com](https://www.tailscale.com)
       - [Tinc VPN](https://tinc-vpn.org/) - Tinc is an open-source, self-routing, mesh networking protocol and software implementation used for compressed and encrypted virtual private networks. 
