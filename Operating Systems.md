@@ -2,7 +2,7 @@
 # Operating systems
 
 1. [A list of web resources](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#a-list-of-web-resources)
-2. [BOOT / BIOS]()
+2. [BOOT / BIOS](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#boot--bios)
 3. [Create Your Own Custom Linux OS](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#create-your-own-custom-linux-os)
 4. [Country Specific](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#country-specific)
 5. [Desktop OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#desktop-oses)
