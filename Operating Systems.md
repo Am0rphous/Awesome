@@ -2,9 +2,10 @@
 # Operating systems
 
 1. [A list of web resources](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#a-list-of-web-resources)
-2. [Create Your Own Custom Linux OS](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#create-your-own-custom-linux-os)
-3. [Country Specific](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#country-specific)
-4. [Desktop OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#desktop-oses)
+2. [BOOT / BIOS]()
+3. [Create Your Own Custom Linux OS](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#create-your-own-custom-linux-os)
+4. [Country Specific](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#country-specific)
+5. [Desktop OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#desktop-oses)
 <br >  4.1 [Most beautiful Linux Distributions 2020 (alphabetic order)](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#most-beautiful-linux-distributions-2020-alphabetic-order)
 <br >  4.2 [Privacy focused OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#privacy-focused-oses)
 5. [IoT, embedded devices, tablets](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#iot-embedded-devices-tablets)
@@ -20,6 +21,9 @@
 - [archiveos.org](https://archiveos.org) - Arhive of Operating Systems with Linux, BSD, DOS, Solaris and others.
 - [DistroWatch.com](https://distrowatch.com)
 - [Hardware for Linux Trends](https://linux-hardware.org/?view=trends)
+
+## BOOT / BIOS
+- [CoreBoot]() - Coreboot is a Free Software project aimed at replacing the proprietary BIOS (firmware) found in most computers. coreboot performs a little bit of hardware initialization and then executes additional boot logic, called a payload.
 
 ## Create Your Own Custom Linux OS
 - [Cubic](https://launchpad.net/cubic)
