@@ -38,6 +38,8 @@
 - [FindFrontableDomains](https://github.com/rvrsh3ll/FindFrontableDomains) - Search for potential frontable domains.
 - [Geneva](https://github.com/Kkevsterrr/geneva) - automated censorship evasion for the client-side and server-side 
   - [Article: Geneva tool lets you bypass censorship by merely doing nothing](https://www.hackread.com/geneva-tool-bypass-censorship-by-doing-nothing/)
+- [Global Socket](https://github.com/hackerschoice/gsocket) - Connect like there is no firewall. Securely.
+  - [Binary](https://github.com/hackerschoice/binary) - Binary and Static Releases.
 - [ICMPTunnel](https://github.com/DhavalKapil/icmptunnel) - Transparently tunnel your IP traffic through ICMP echo and reply packets. [dhavalkapil.com/icmptunnel/](https://dhavalkapil.com/icmptunnel/)
 - [Udp2raw-tunnel](https://github.com/wangyu-/udp2raw-tunnel) - A Tunnel which turns UDP Traffic into Encrypted FakeTCP/UDP/ICMP Traffic by using Raw Socket, helps you Bypass UDP FireWalls(or Unstable UDP Environment).
 - [VPN Pivot](https://github.com/0x36/VPNPivot) - Explore the network using VPNPivot tool.
