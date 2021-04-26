@@ -122,6 +122,10 @@ bro / zeek
   cd chkrootkit-0.54/
   make sense
   ./chkrootkit
+  ./chkrootkit -r /mnt/                         # check this folder and it's sub folders
+  ./chkrootkit -p /cdrom/bin:/floppy/mybin      # adds binary paths
+  ./chkrootkit -x | more
+  ./chkrootkit -x | egrep '^/'                  # pathnames inside system commands
   ````
 - [ClamAV](https://www.clamav.net) - ClamAV® is an open source antivirus engine for detecting trojans, viruses, malware & other malicious threats.
   - [ClamAV Documentation](https://github.com/Cisco-Talos/clamav-faq)
