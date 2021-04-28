@@ -229,6 +229,7 @@ PyCharm, Spyder, Jupyter , ,
      - [Airsonic-Advanced](https://github.com/airsonic-advanced/airsonic-advanced) - modern implementation of the Airsonic fork with several key performance and feature enhancements.
      - [Airsonic Frontend](https://github.com/tamland/airsonic-frontend) - Modern UI for Airsonic / Subsonic.
    - [Gonic](https://github.com/sentriz/gonic) - Music streaming server / subsonic server API implementation.
+   - [Icecast-Server](https://gitlab.xiph.org/xiph/icecast-server) - Icecast streaming media server.
    - [Subsonic](http://www.subsonic.org/pages/index.jsp) - Music streaming server.
      - [Subsonic App List](http://www.subsonic.org/pages/apps.jsp)
    - [Ultrasonic](https://github.com/ultrasonic/ultrasonic) - Free and open-source music streaming Android client for Subsonic API compatible servers.
