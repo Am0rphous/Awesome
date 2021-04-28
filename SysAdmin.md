@@ -545,19 +545,6 @@ upstream_recursive_servers:
   - [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server#firewall-with-ufw-uncomplicated-firewall) - An evolving how-to guide for securing a Linux server.
   - [Set Up Automatic Security Update on Ubuntu](https://www.linuxbabe.com/ubuntu/automatic-security-update-unattended-upgrades-ubuntu)
   - [Unattended-upgrades](https://github.com/mvo5/unattended-upgrades) - Automatic installation of security upgrades on apt based systems.
-  
-  Basically procedure: `sudo apt update && sudo apt install unattended-upgrades update-notifier-common`. If you can't install update-notifier-common, then install `reboot-notifier`. Open the file `/etc/apt/apt.conf.d/50unattended-upgrades` and make sure it conaints:
-  ````
-  Unattended-Upgrade::Remove-Unused-Kernel-Packages "true";
-  Unattended-Upgrade::Remove-Unused-Dependencies "true";
-  Unattended-Upgrade::Automatic-Reboot "true";
-  Unattended-Upgrade::Automatic-Reboot-Time "06:00";
-  ````
-  Enable automatic Security Update by opening the file `/etc/apt/apt.conf.d/20auto-upgrades` and make sure it contains
-  ````
-  APT::Periodic::Update-Package-Lists "1";
-  APT::Periodic::Unattended-Upgrade "1";
-  ````
 
 ## Terminal / Shell
 - [Awesome Shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
