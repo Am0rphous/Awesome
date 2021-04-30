@@ -3,7 +3,7 @@
   - [Security](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#security)
 - [Ad-block and Spam](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#ad-block-and-spam)
   - [Blocklists](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#blocklists)
-- [Anti-Virus / malware and rootkit detectio](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#anti-virus--malware-and-rootkit-detection)
+- [Anti-Virus / malware and rootkit detection](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#anti-virus--malware-and-rootkit-detection)
   - [Analysis Tools Selfhosted](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#analysis-tools-selfhosted)
   - [Analysis Tools Online](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#analysis-tools-online)
 - [Backup](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#backup)
@@ -122,7 +122,7 @@ bro / zeek
   cd chkrootkit-0.54/
   make sense
   ./chkrootkit
-  ./chkrootkit -r /mnt/                         # check this folder and it's sub folders
+  ./chkrootkit -r /mnt/                         # specifies new root directory
   ./chkrootkit -p /cdrom/bin:/floppy/mybin      # adds binary paths
   ./chkrootkit -x | more
   ./chkrootkit -x | egrep '^/'                  # pathnames inside system commands
