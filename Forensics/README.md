@@ -84,7 +84,17 @@
   - [MalConfScan](https://github.com/JPCERTCC/MalConfScan) - Volatility plugin for extracts configuration data of known malware.
 - [volatility3](https://github.com/volatilityfoundation/volatility3)
   - [plugins](https://github.com/volatilityfoundation/community) - Volatility plugins developed and maintained by the community.
-Commands
+Vilatility commands
+````powershell
+python vol.py -f image.raw imageinfo
+python vol.py -f image.raw –profile=Win7SPI1x64 pslist
+python vol.py -f image.raw –profile=Win7SPI1x64 pslist netscan
+python vol.py -f image.raw –profile=Win7SPI1x64 pslist netscan |grep -vi closed
+python vol.py -f image.raw –profile=Win7SPI1x64 psxview 
+
+````
+
+Linux Commands
 ````powershell
 sudo strings /dev/mem > mem-strings.txt
 sudo strings /dev/mem | less
