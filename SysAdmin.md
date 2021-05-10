@@ -650,6 +650,7 @@ upstream_recursive_servers:
 
 
 ## Virtualization
+- [GraalVM](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere 🚀
 - [WebVirtCloud](https://github.com/retspen/webvirtcloud) - WebVirtCloud is virtualization web interface for admins and users.
 
    ### Cloud
