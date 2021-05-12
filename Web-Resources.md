@@ -1,4 +1,24 @@
 
+## Cyber Security News
+- [Cyberiqs.com/latestnews](https://cyberiqs.com/latestnews)
+- [Cyware.com/hacker-news](https://cyware.com/hacker-news)
+- [Decipher](https://duo.com/decipher) - Security news that informs and inspires.
+- [DarkReading.com](https://www.darkreading.com)
+- [GovInfoSecurity.com](https://www.govinfosecurity.com)
+- [hackread.com](https://www.hackread.com)
+- [IronGeek.com](https://www.irongeek.com]
+- [Isc.sans.edu](https://isc.sans.edu)
+- [jpcert.or.jp](https://www.jpcert.or.jp/english/) - JPCERT/CC is the first CSIRT (Computer Security Incident Response Team) established in Japan.
+- [News.YCombinator.com](https://news.ycombinator.com)
+- [TheCybersecurityPlace.com](https://thecybersecurityplace.com)
+- [TheHackerNews.com](https://thehackernews.com]
+- [TheHackerStalk.com](https://thehackerstalk.com]
+- [ThreatPost.com](https://threatpost.com)
+- [SecurityDiscovery.com](https://securitydiscovery.com]
+- [SecurityWeek.com](https://www.securityweek.com)
+- [WeLiveSecurity.com](https://www.welivesecurity.com]
+- [Zdnet.com](https://www.zdnet.com)
+
  ## Forums and blogs
   - [0x00sec.org](https://0x00sec.org)
   - [Blog.syscall.party](https://blog.syscall.party)
@@ -78,22 +98,5 @@
   ### PowerShell
   - [Scriptigator.com](https://scriptigator.com)
 
-## Cyber Security News
-- [Cyberiqs.com/latestnews](https://cyberiqs.com/latestnews)
-- [Cyware.com/hacker-news](https://cyware.com/hacker-news)
-- [Decipher](https://duo.com/decipher) - Security news that informs and inspires.
-- [DarkReading.com](https://www.darkreading.com)
-- [GovInfoSecurity.com](https://www.govinfosecurity.com)
-- [hackread.com](https://www.hackread.com)
-- [IronGeek.com](https://www.irongeek.com]
-- [Isc.sans.edu](https://isc.sans.edu)
-- [jpcert.or.jp](https://www.jpcert.or.jp/english/) - JPCERT/CC is the first CSIRT (Computer Security Incident Response Team) established in Japan.
-- [News.YCombinator.com](https://news.ycombinator.com)
-- [TheCybersecurityPlace.com](https://thecybersecurityplace.com)
-- [TheHackerNews.com](https://thehackernews.com]
-- [TheHackerStalk.com](https://thehackerstalk.com]
-- [ThreatPost.com](https://threatpost.com)
-- [SecurityDiscovery.com](https://securitydiscovery.com]
-- [SecurityWeek.com](https://www.securityweek.com)
-- [WeLiveSecurity.com](https://www.welivesecurity.com]
-- [Zdnet.com](https://www.zdnet.com)
+## Privacy
+- [privacytools.io](https://www.privacytools.io/)
