@@ -747,6 +747,7 @@ upstream_recursive_servers:
 
   ### Web Analytics
   - [AWStats - Advanced Web Statistics](https://github.com/eldy/awstats) -[www.awstats.org](https://www.awstats.org/) _AWStats (Advanced Web Statistics) is a powerful, full-featured web server logfile analyzer which shows you all your Web statistics including: visitors, pages, hits, hours, search engines, keywords used to find your site, broken links, robots and many more..._
+  - [Koko Analytics](https://github.com/ibericode/koko-analytics) - Privacy-friendly analytics for your WordPress site. 
   - [Matomo Web Analytics](https://matomo.org) - "_Google Analytics alternative that protects your data and your customers' privacy_" [matomo.org](https://matomo.org/).
     - [Matamo Analytics for Wordpress](https://wordpress.org/plugins/matomo)
     - [Matomo Tracking Panel](https://github.com/thiagoarrais/grafana-matomo-tracking-panel) -  Matomo Tracking Panel for Grafana.
