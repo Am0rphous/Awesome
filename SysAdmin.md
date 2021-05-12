@@ -361,6 +361,7 @@ lsscsi                          #Print SCSI Devices Info
   - [Security Onion Documentation](https://docs.securityonion.net/en/2.3/index.html)
 - [Sysmon](https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon) - provides detailed information about process creations, network connections, and changes to file creation time.
   - [Ossec Sysmon](https://github.com/Hestat/ossec-sysmon) - A Ruleset to enhance detection capabilities of Ossec using Sysmon.
+  - [Sysmon Community Guide by TrustedSec](https://github.com/trustedsec/SysmonCommunityGuide) - TrustedSec Sysinternals Sysmon Community Guide.
   - [Sysmon Modular](https://github.com/olafhartong/sysmon-modular) - A repository of sysmon configuration modules.
   - [Sysmon Search](https://github.com/JPCERTCC/SysmonSearch) - Investigate suspicious activity by visualizing Sysmon's event log.
   - [Sysmon Tools](https://github.com/nshalabi/SysmonTools) - Utilities for Sysmon.
