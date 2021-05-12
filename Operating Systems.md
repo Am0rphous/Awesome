@@ -61,10 +61,10 @@
 - [Serenity](https://github.com/SerenityOS/serenity) - _Graphical Unix-like operating system for x86 computers._
 - [Solus](https://getsol.us/home)
 - [Ubunt Desktop](https://ubuntu.com) - Cloud, servers, IoT, desktop.
-- [Qubes OS](https://www.qubes-os.org/downloads) - Best Linux OS Designed for Maximum Security
+- [Qubes OS](https://www.qubes-os.org/downloads) - OS designed for privacy and security.
 - [Zorin OS](https://zorinos.com) 
  
- ### Privacy focused Desktops
+ ### Privacy and security focused Desktops
  - [PureOS](https://pureos.net/) - Privacy and security focused Debian-based dstribution.
  - [Tailes](https://tails.boum.org) - Portable operating system that protects against surveillance and censorship
  - [Qubes OS](https://www.qubes-os.org) - Edward Snowden said in a [Twitter message](https://twitter.com/Snowden/status/781493632293605376) "_If you're serious about security, [@QubesOS](https://twitter.com/QubesOS) is the best OS available today. It's what I use, and free. Nobody does VM isolation better._"
