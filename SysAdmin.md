@@ -688,6 +688,7 @@ upstream_recursive_servers:
      - [Sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets.
      - [ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables.
    - [Podman](https://github.com/containers/podman) - A tool for managing OCI containers and pods. OCI = Open Container Initiative.
+   - [Replacing Docker Compose with Podman (Debian)](https://thesynack.com/posts/docker-compose-podman/)
    - [Portainer](https://www.portainer.io) - Open source container management tool for Kubernetes, Docker, Docker Swarm and Azure ACI.
    #### Various
    - [CTop](https://github.com/bcicen/ctop/) - Top-like interface for container metrics [ctop.sh](https://ctop.sh).
