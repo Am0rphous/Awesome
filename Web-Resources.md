@@ -79,6 +79,7 @@
 
 ## Learning material
 - [Academy.hackthebox.eu](https://academy.hackthebox.eu)
+- [Awesome Self Hosted](https://selfhosted.libhunt.com/)
 - [Cyberciti.biz](https://www.cyberciti.biz) - Linux / Unix tutorials for new and seasoned sysadmin || developers.
 - [DevConnected.com](https://devconnected.com/)
 - [Geek-university.com](https://geek-university.com) - Free, high-quality IT tutorials
