@@ -95,6 +95,9 @@
 - [Ubuntu Touch](https://ubuntu-touch.io/get-ubuntu-touch)
   ### Mobile Operating Systems
   #### Android-based Operating Systems
+  - [CalyxOS](https://calyxos.org) - CalyxOS is a custom ROM based on the Android Open Source Project with Pixel phones. It aims to be secure and private by default including a number of good choices for default applications. It also supports verified boot.
+  - [GrapheneOS](https://grapheneos.org) - GrapheneOS (formerly known as CopperheadOS) is a free and open-source security- and privacy-focused mobile operating system built on top of the Android Open Source Project. It currently specifically targets devices offering strong hardware security.
+  - [LineageOS](https://www.lineageos.org) - LineageOS is a custom ROM based on the Android Open Source Project with official support for a wide variety of devices. The project is the successor to the popular CyanogenMod project, focusing on system control and customization, device longevity, and privacy. For security reasons, we do not recommend third-party builds of LineageOS for unsupported devices.
 
 ## Pen-testing and security auditing
 - [BlackArch](https://www.blackarch.org) - BlackArch Linux is an Arch Linux-based penetration testing distribution for penetration testers and security researchers.
