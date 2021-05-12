@@ -100,3 +100,6 @@
 
 ## Privacy
 - [privacytools.io](https://www.privacytools.io/)
+
+## Social Media
+- [Mastodon](https://joinmastodon.org/)
