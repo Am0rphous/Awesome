@@ -107,6 +107,7 @@
   - [Download DD-WRT](ftp://ftp.dd-wrt.com/betas/)
 - [FreshTomato](https://freshtomato.org/)
 - [IPFire](https://www.ipfire.org) - IPFire is a hardened, versatile, state-of-the-art Open Source firewall based on Linux.
+- [LibreCMC](LibreCMC) - LibreCMC is a set of fully free embedded Operating Systems for general purpose computers. The Project aims to give its users freedom and control over the software that runs on their hardware. Most of the hardware that libreCMC supports includes a wide range of routers and some small single board computers.
 - [m0n0wall](https://m0n0.ch/wall/index.php) - Embedded firewall distribution of FreeBSD.
 - [MikroTik](https://mikrotik.com)
   - [RouterOS Scripts](https://github.com/eworm-de/routeros-scripts)
