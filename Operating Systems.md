@@ -1,7 +1,7 @@
 
 # Operating systems
 
-1. [A list of web resources](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#a-list-of-web-resources)
+1. [A list of web resources](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#a-list-of-web-resources)
 2. [BOOT / BIOS](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#boot--bios)
 3. [Create Your Own Custom Linux OS](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#create-your-own-custom-linux-os)
 4. [Country Specific](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems%20List.md#country-specific)
@@ -93,6 +93,8 @@
 - [LineageOS Android Distribution](https://lineageos.org) - A free and open-source operating system for various devices, based on the Android mobile platform.
 - [Ubunt Server](https://ubuntu.com)
 - [Ubuntu Touch](https://ubuntu-touch.io/get-ubuntu-touch)
+  ### Mobile Operating Systems
+  #### Android-based Operating Systems
 
 ## Pen-testing and security auditing
 - [BlackArch](https://www.blackarch.org) - BlackArch Linux is an Arch Linux-based penetration testing distribution for penetration testers and security researchers.
