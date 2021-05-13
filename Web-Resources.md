@@ -79,16 +79,17 @@
 
 ## Learning material
 - [Academy.hackthebox.eu](https://academy.hackthebox.eu)
-- [Awesome Self Hosted](https://selfhosted.libhunt.com/)
+- [Awesome Self Hosted](https://selfhosted.libhunt.com)
 - [Cyberciti.biz](https://www.cyberciti.biz) - Linux / Unix tutorials for new and seasoned sysadmin || developers.
-- [DevConnected.com](https://devconnected.com/)
+- [DevConnected.com](https://devconnected.com)
 - [Geek-university.com](https://geek-university.com) - Free, high-quality IT tutorials
-- [Golinuxcloud.com](https://www.golinuxcloud.com/)
+- [Golinuxcloud.com](https://www.golinuxcloud.com)
 - [Hackingpassion.com](https://hackingpassion.com)
 - [Landoflinux.com](https://www.landoflinux.com/index.html) - free guides and tutorials for all things Linux.
 - [Linux.com](https://www.linux.com)
 - [Linuxbabe.com](https://www.linuxbabe.com) - Lots of tutorials.
-- [lorn.tech](https://www.lorn.tech/) - masse nyttige podcasts.
+- [Linux Training Academy](https://www.linuxtrainingacademy.com) - _"We Help IT Professionals Level-Up Their Careers by Teaching Them Practical Linux Skills."_
+- [lorn.tech](https://www.lorn.tech) - masse nyttige podcasts.
 - [Itsfoss.com](https://itsfoss.com) - Open source related articles published on It’s FOSS.
 - [Linuxhint.com](https://linuxhint.com) - Lots of tutorials.
 - [SecJuice.com](https://www.secjuice.com) - Non-profit cyber goodness.
