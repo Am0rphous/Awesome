@@ -19,6 +19,9 @@
 - [WeLiveSecurity.com](https://www.welivesecurity.com)
 - [Zdnet.com](https://www.zdnet.com)
 
+## E-books, PDF's and other documents
+- [TradePub.com](https://sf.tradepub.com) - The top resource for free professional and technical research, white papers, case studies, magazines, and eBooks.
+
  ## Forums and blogs
   - [0x00sec.org](https://0x00sec.org)
   - [Blog.syscall.party](https://blog.syscall.party)
