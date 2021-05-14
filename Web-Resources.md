@@ -20,6 +20,10 @@
 - [Zdnet.com](https://www.zdnet.com)
 
 ## E-books, PDF's and other documents
+- [Free-programming-books](https://github.com/EbookFoundation/free-programming-books) - Freely available programming books.
+- [Free Security eBooks](https://github.com/Hack-with-Github/Free-Security-eBooks) - A curated list of free Security and Pentesting related E-Books available on the Internet.
+- [getbestbooks.com](https://getbestbooks.com/) - Free ebooks.
+- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. 
 - [TradePub.com](https://sf.tradepub.com) - The top resource for free professional and technical research, white papers, case studies, magazines, and eBooks.
 
  ## Forums and blogs
