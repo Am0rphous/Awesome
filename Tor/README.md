@@ -26,4 +26,8 @@ Paths used for logs:
 - [tor_ip_switcher](https://github.com/ruped24/tor_ip_switcher) - tor_ip_switcher is useful for making any DoS attack look like a DDoS attack. Works with toriptables2.
 - [TorBot](https://github.com/DedSecInside/TorBoT) - Dark Web OSINT Tool.
 - [toriptables2](https://github.com/ruped24/toriptables2) - Tor Iptables script is an anonymizer that sets up iptables and tor to route all services and traffic including DNS through the Tor network. 
+
+### Onion Services
+- TorStatus - https://jlve2y45zacpbz6s.tor2web.io
+- TorStatus V3 Service - https://.tor2web.io:8443
 - 
