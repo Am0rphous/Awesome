@@ -3,7 +3,7 @@
 
 ## Setup
 - [www.torproject.org/download/](https://www.torproject.org/download/)
-Linux
+<br>Linux
 ````powershell
 sudo apt install tor torbrowser-launcher
 sudo service tor status
