@@ -10,7 +10,7 @@ Various resources, personal notes etc. I find interesting.
 - https://www.findbestopensource.com/projects
 
 
-## A List of 'Awesome' entitled projects
+## A list of 'awesome' entitled projects
 - [Awesome Azure Security](https://github.com/kmcquade/awesome-azure-security) - A curated list of awesome Microsoft Azure Security tools, guides, blogs, and other resources.
 - [Awesome CLI](https://github.com/umutphp/awesome-cli) - A simple command line tool to give you a fancy command line interface to dive into Awesome lists.
 - [Awesome cve poc](https://github.com/qazbnm456/awesome-cve-poc) - A curated list of CVE PoCs.
@@ -28,7 +28,8 @@ Various resources, personal notes etc. I find interesting.
 - [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) - Machine Learning for Cyber Security.
 - [Awesome Open Source](https://awesomeopensource.com) - Find Open Source By Searching, Browsing and Combining 7,000 Topics Across 59 Categories And 337,263 Projects
 - [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts)
-- [Awesome Search](https://awesomelists.top/)
+- [Awesome Search](https://awesomelists.top)
+  - [awesome-search by frutik](https://github.com/frutik/awesome-search) - Awesome Search - this is all about the (e-commerce) search and its awesomeness.
 - [Awesome Selfhosted](https://gitlab.com/awesome-selfhosted/awesome-selfhosted)
 - [Awesome SSH](https://github.com/moul/awesome-ssh)
 - [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin#metric--metric-collection) -  MOVED/ARCHIVED A curated list of amazingly awesome open source sysadmin resources.
