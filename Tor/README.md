@@ -29,5 +29,3 @@ Paths used for logs:
 
 ### Onion Services
 - TorStatus - https://jlve2y45zacpbz6s.tor2web.io
-- TorStatus V3 Service - https://.tor2web.io:8443
-- 
