@@ -58,9 +58,10 @@ onionshare-cli --receive --persistent ~/anon-dropbox.session --public        # s
 - [TorBot](https://github.com/DedSecInside/TorBoT) - Dark Web OSINT Tool.
 - [toriptables2](https://github.com/ruped24/toriptables2) - Tor Iptables script is an anonymizer that sets up iptables and tor to route all services and traffic including DNS through the Tor network.
 - [TorStatus](https://torstatus.rueckgr.at)
+  - TorStatus - https://jlve2y45zacpbz6s.tor2web.io
   - [TorStatus Github](https://github.com/paulchen/torstatus)
 
 ### Onion Services
 - DuckDuckGo - https://3g2upl4pq6kufc4m.onion/
 - ProtonMail - https://protonirockerxow.onion
-- TorStatus - https://jlve2y45zacpbz6s.tor2web.io
+
