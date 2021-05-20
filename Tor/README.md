@@ -43,4 +43,6 @@ Paths used for logs:
   - [TorStatus Github](https://github.com/paulchen/torstatus)
 
 ### Onion Services
+- DuckDuckGo - https://3g2upl4pq6kufc4m.onion/
+- ProtonMail - https://protonirockerxow.onion
 - TorStatus - https://jlve2y45zacpbz6s.tor2web.io
