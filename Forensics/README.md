@@ -67,7 +67,8 @@
   ````
   file            # determine file type. E.g. "file word.doc"
   hexdump         # ascii, decimal, hexadecimal, octal dump
-  strings         #  print the sequences of printable characters in files
+  stat            # display file or file system status.
+  strings         # print the sequences of printable characters in files
   ````
 
 ## Hardware
