@@ -25,9 +25,9 @@ Paths used for logs:
 - [Real-world-onion-sites](https://github.com/alecmuffett/real-world-onion-sites) - list of substantial, commercial-or-social-good mainstream websites which provide onion services. 
 - [tor_ip_switcher](https://github.com/ruped24/tor_ip_switcher) - tor_ip_switcher is useful for making any DoS attack look like a DDoS attack. Works with toriptables2.
 - [TorBot](https://github.com/DedSecInside/TorBoT) - Dark Web OSINT Tool.
-- [toriptables2](https://github.com/ruped24/toriptables2) - Tor Iptables script is an anonymizer that sets up iptables and tor to route all services and traffic including DNS through the Tor network. 
+- [toriptables2](https://github.com/ruped24/toriptables2) - Tor Iptables script is an anonymizer that sets up iptables and tor to route all services and traffic including DNS through the Tor network.
+- [TorStatus](https://torstatus.rueckgr.at)
+  - [TorStatus Github](https://github.com/paulchen/torstatus)
 
 ### Onion Services
 - TorStatus - https://jlve2y45zacpbz6s.tor2web.io
-  - TorStatus Clearnet - https://torstatus.rueckgr.at
-  - [TorStatus Github](https://github.com/paulchen/torstatus)
