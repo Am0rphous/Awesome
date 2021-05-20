@@ -54,6 +54,7 @@
 - [AutoLLR](https://github.com/Dead-Simple-Scripts/AutoLLR) - Script to automate Linux live evidence collection.
 
 ## File Analysis
+- [Debsums](https://manpages.ubuntu.com/manpages/trusty/man1/debsums.1.html) - check the MD5 sums of installed Debian packages.
 - [TrID](https://mark0.net/soft-trid-e.html) -  Identify file types from their binary signatures. Win32, Linux 32/64-bit
   - [Online TrID File Identifier](https://mark0.net/onlinetrid.html) - Size <= 10 MB.
   - [TrIDNet (GUI)](https://mark0.net/soft-tridnet-e.html) - GUI version of TrID. Requires .NET for function [Install .NET on Linux](https://docs.microsoft.com/en-us/dotnet/core/install/linux)
