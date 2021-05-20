@@ -28,6 +28,23 @@ Paths used for logs:
 /var/log/tor                  # Linux
 /usr/local/var/log/tor.log    # MacOS
 ````
+
+## OnionShare
+- [onionshare.org](https://onionshare.org)
+- [OnionShare's github](https://github.com/micahflee/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network.
+- [OnionShare's Documentation](https://docs.onionshare.org)
+  - [Command-line Interface Documentation](https://docs.onionshare.org/2.3.1/en/advanced.html#command-line-interface)
+Mac Setup
+````powershell
+brew install --cask onionshare
+````
+Linux setup
+````powershell
+sudo apt install onionshare
+onionshare-cli --chat                                                        # start a chat server
+onionshare-cli --receive --persistent ~/anon-dropbox.session --public        # start a persistent anonymous dropbox
+````
+
 ## Resources
 - [DEEP_WEB_LINKS_COLLECTION.md](https://gist.github.com/vyach-vasiliev/045af4c70cf2ed35c6091b4705093017)
 - [Fresh Onions TOR Hidden Service Crawler](https://github.com/dirtyfilthy/freshonions-torscraper) - Fresh Onions is an open source TOR spider / hidden service onion crawler hosted at zlal32teyptf4tvi.onion.
