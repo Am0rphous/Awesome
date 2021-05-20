@@ -29,3 +29,5 @@ Paths used for logs:
 
 ### Onion Services
 - TorStatus - https://jlve2y45zacpbz6s.tor2web.io
+  - TorStatus Clearnet - https://torstatus.rueckgr.at
+  - [TorStatus Github](https://github.com/paulchen/torstatus)
