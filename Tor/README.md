@@ -1,9 +1,22 @@
 ## The Onion Router
 
 
-## Log Files and practical commands
-The `torrc` file contains info about where the log is stored with the `Log` option.
-Commands
+## Setup
+- [www.torproject.org/download/](https://www.torproject.org/download/)
+- Linux
+````powershell
+sudo apt install tor torbrowser-launcher
+sudo service tor status
+netstat -tulpn | grep tor
+````
+#### Install proxychains-ng to be able to run programs over Tor
+````powershell
+sudo apt install proxychains-ng -y
+proxychains curl ifconfig.me                 # should list tor IP
+proxychains program-name program-options
+````
+
+### Log Files and practical commands
 ````
 sudo cat /var/log/syslog | grep tor -i
 sudo journalctl -f -u tor@default | grep bootstrapped -i
