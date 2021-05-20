@@ -34,7 +34,7 @@ Paths used for logs:
 - [OnionShare's github](https://github.com/micahflee/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network.
 - [OnionShare's Documentation](https://docs.onionshare.org)
   - [Command-line Interface Documentation](https://docs.onionshare.org/2.3.1/en/advanced.html#command-line-interface)
-Mac Setup
+<br>Mac Setup
 ````powershell
 brew install --cask onionshare
 ````
