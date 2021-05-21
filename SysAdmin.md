@@ -509,7 +509,6 @@ upstream_recursive_servers:
 - [SnapD](https://snapcraft.io)
 
 ## Security Tools
-- [Acme-tiny](https://github.com/diafygi/acme-tiny) - A tiny script to issue and renew TLS certs from Let's Encrypt.
 - [AppArmor](https://gitlab.com/apparmor/apparmor) - AppArmor is an effective and easy-to-use Linux application security system. AppArmor proactively protects the operating system and applications from external or internal threats, even zero-day attacks, by enforcing good behavior and preventing both known and unknown application flaws from being exploited.
 - [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) - Machine Learning for Cyber Security.
 - Bitwarden Password Manager
@@ -526,6 +525,10 @@ upstream_recursive_servers:
 - [SELinux Userspace](https://github.com/SELinuxProject/selinux) - Security Enhanced Linux (SELinux).
 - [Usb.Events](https://github.com/Jinjinov/Usb.Events) - Subscribe to the Inserted and Removed events to be notified when a USB drive is plugged in or unplugged, or when a USB device is connected or disconnected. Usb.Events is a .NET Standard 2.0 library and uses WMI on Windows, libudev on Linux and IOKit on macOS.
 - [Whonix security-misc](https://github.com/Whonix/security-misc) - Kernel Hardening; Protect Linux User Accounts against Brute Force Attacks; Improve Entropy Collection; Strong Linux User Account Separation; Enhances Misc Security Settings - https://www.whonix.org/wiki/Security-misc.
+
+  ### Certificates
+  - [Acme-tiny](https://github.com/diafygi/acme-tiny) - A tiny script to issue and renew TLS certs from Let's Encrypt.
+  - [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 
   ### Linux Hardening Guides
   - [Guide to Deploying Diffie-Hellman for TLS](https://weakdh.org/sysadmin.html)
