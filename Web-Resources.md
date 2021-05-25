@@ -104,6 +104,8 @@
 - [ss64](https://ss64.com) - Reference guide containing syntax and examples for the most prevalent computing commands (Database and Operating System).
 - [Thehacks.co](https://thehacks.co) - Latest Hacking Insights Tips & Guides.
 - [zeropointsecurity.co.uk/red-team-ops](https://www.zeropointsecurity.co.uk/red-team-ops) - Offensive Cyber Security Training.
+  ### E-books
+  - [pdfdrive.com](https://www.pdfdrive.com/) - Search engine for PDF, Mobi, epub and other e-book files.
   ### PowerShell
   - [Scriptigator.com](https://scriptigator.com)
 
