@@ -107,8 +107,14 @@
   ### PowerShell
   - [Scriptigator.com](https://scriptigator.com)
 
+## Music
+- [Old Time Radio](https://oldtime.radio/)
+
 ## Privacy
 - [privacytools.io](https://www.privacytools.io/)
+
+## Random
+- [elephind.com](https://elephind.com) - Search the world's historic newspaper archives.
 
 ## Social Media
 - [Mastodon](https://joinmastodon.org/)
