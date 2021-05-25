@@ -27,6 +27,7 @@
 
 ## Create Your Own Custom Linux OS
 - [Cubic](https://launchpad.net/cubic)
+- [Debian Custom ISO Scripts and Tutorial](https://github.com/RackunSec/debian-custom-iso-scripts) - These are scripts I made to help with the design and customization of a Debian ISO (Primarily WeakerThan Linux).
 - [Linux From Scratch](http://www.linuxfromscratch.org)
 - [Linux Live Kit](https://www.linux-live.org)
 - [Live Magic](https://chris-lamb.co.uk/projects/live-magic)
