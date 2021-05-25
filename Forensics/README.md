@@ -5,6 +5,7 @@
 - [cPTS](https://github.com/reviewscientific2020/cPTS) -  Carve for potential timestamps.
 - [Log2timeline's Plaso](https://github.com/log2timeline/plaso) - Super timeline all the things.
   - [Documentation](https://plaso.readthedocs.io/en/latest/)
+- [guide-to-quick-forensics by securitywithoutborders](https://github.com/securitywithoutborders/guide-to-quick-forensics) - Guide to Quick Forensics.
 
 ## Analysis of Office Documents (e.g. pdf)
 - [AnalyzePDF](https://github.com/hiddenillusion/AnalyzePDF) - Tool to help analyze PDF files.
