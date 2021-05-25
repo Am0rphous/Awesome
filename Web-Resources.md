@@ -116,5 +116,8 @@
 ## Random
 - [elephind.com](https://elephind.com) - Search the world's historic newspaper archives.
 
+## Research
+- [Core](https://core.ac.uk/) - The world’s largest collection of open access research papers.
+
 ## Social Media
 - [Mastodon](https://joinmastodon.org/)
