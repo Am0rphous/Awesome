@@ -39,6 +39,7 @@
   - [Hahwul](https://www.hahwul.com) - Security engineer, Developer and H4cker.
   - [Homeofbannedhacker.blogspot.com](https://homeofbannedhacker.blogspot.com)
   - [Hosakacorp.net](https://hosakacorp.net)
+  - [igor-blue.github.io](https://igor-blue.github.io)
   - [Leakzone.net](https://leakzone.net)
   - [Linuxbabe Community](https://community.linuxbabe.com)
   - [0ffset.net](https://0ffset.net) - IT Security blog
