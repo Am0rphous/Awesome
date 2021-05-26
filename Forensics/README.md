@@ -73,6 +73,12 @@
   strings         # print the sequences of printable characters in files
   ````
 
+## Firmware
+- [Binwalk](https://github.com/ReFirmLabs/binwalk) - Binwalk is a fast, easy to use tool for analyzing, reverse engineering, and extracting firmware images.
+  ````powershell
+  binwalk -e -M bzImage
+  ````
+
 ## Hardware
 - [Board status](https://github.com/Ledger-Donjon/scaffold) - Donjon hardware tool for circuits security evaluation.
 - [ilo4_toolbox](https://github.com/airbus-seclab/ilo4_toolbox) - Toolbox for HPE iLO4 & iLO5 analysis.
