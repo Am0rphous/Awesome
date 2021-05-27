@@ -16,6 +16,7 @@
 - [Tor](https://www.torproject.org/) - Tor is free and open-source software for enabling anonymous communication. The name derived from the acronym for the original software project name "The Onion Router". Tor directs Internet traffic through a free, worldwide, volunteer overlay network consisting of more than seven thousand relays to conceal a user's location and usage from anyone conducting network surveillance or traffic analysis.
   - [brdgrd (Bridge Guard)](https://github.com/NullHypothesis/brdgrd) - Protects Tor bridges from being scanned (and as a result blocked) by GFW probes. [How the Great Firewall of China is Blocking Tor](https://www.cs.kau.se/philwint/gfw/)
 - [Tor Proxy](https://onion.pet/) - Onion.pet - Tor2Web Darknet Proxy
+- [tor-proxy by Narasimha1997](https://github.com/Narasimha1997/tor-proxy) - An experimental Tor-Proxy serivce written in Go using Go-proxy and Go-libtor.
 - [Tor2web](https://github.com/tor2web/Tor2web) - Tor2web is an HTTP proxy software that enables access to Tor Hidden Services by mean of common web browsers. [tor2web.org](https://www.tor2web.org/)
 [Nyx](https://nyx.torproject.org) - Command-line monitor for Tor. With this you can get detailed real-time information about your relay such as bandwidth usage, connections, logs, and much more.
 - [Wiki - TorFAQ](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/TorFAQ#CanexitnodeseavesdroponcommunicationsIsntthatbad)
