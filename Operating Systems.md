@@ -23,7 +23,8 @@
 - [Hardware for Linux Trends](https://linux-hardware.org/?view=trends)
 
 ## BOOT / BIOS
-- [CoreBoot]() - Coreboot is a Free Software project aimed at replacing the proprietary BIOS (firmware) found in most computers. coreboot performs a little bit of hardware initialization and then executes additional boot logic, called a payload.
+- [Coreboot](https://github.com/coreboot/coreboot) - [coreboot.org](https://coreboot.org) - Coreboot is a Free Software project aimed at replacing the proprietary BIOS (firmware) found in most computers. coreboot performs a little bit of hardware initialization and then executes additional boot logic, called a payload.
+- [Documentation Coreboot](https://doc.coreboot.org/#)
 
 ## Create Your Own Custom Linux OS
 - [Cubic](https://launchpad.net/cubic)
