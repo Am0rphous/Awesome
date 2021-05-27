@@ -24,7 +24,8 @@
 
 ## BOOT / BIOS
 - [Coreboot](https://github.com/coreboot/coreboot) - [coreboot.org](https://coreboot.org) - Coreboot is a Free Software project aimed at replacing the proprietary BIOS (firmware) found in most computers. coreboot performs a little bit of hardware initialization and then executes additional boot logic, called a payload.
-- [Documentation Coreboot](https://doc.coreboot.org/#)
+  - [Documentation Coreboot](https://doc.coreboot.org/#)
+- [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) - OpenCore bootloader.
 
 ## Create Your Own Custom Linux OS
 - [Cubic](https://launchpad.net/cubic)
