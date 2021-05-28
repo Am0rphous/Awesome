@@ -1,4 +1,7 @@
 # System Administrator Tools
+
+_"A good admin is a paranoid one. A better admin is both paranoid and prepared. - Unknown"_
+
 - [Active Directory & LDAP](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#active-directory--ldap)
   - [Security](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#security)
 - [Ad-block and Spam](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#ad-block-and-spam)
