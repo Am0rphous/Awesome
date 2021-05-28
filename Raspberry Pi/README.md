@@ -122,6 +122,7 @@
   - [WX Forum](https://www.wxforum.net/)
 - [Web-rpi-fm](https://github.com/dawiddyd/web-rpi-fm) - Web interface for Raspberry Pi fm transmitter. Made using Vue.js and Python.
 ## Software for the Raspberry
+- [Mjpg-streamer](https://github.com/jacksonliam/mjpg-streamer) - Fork of http://sourceforge.net/projects/mjpg-streamer. Mjpg-streamer is a command line application that copies JPEG frames from one or more input plugins to multiple output plugins. It can be used to stream JPEG files over an IP-based network from a webcam to various types of viewers such as Chrome, Firefox, Cambozola, VLC, mplayer, and other software capable of receiving MJPG streams.
 - [XBian](https://github.com/xbianonpi/xbian) - _XBMC on Raspberry Pi, Bleeding Edge [xbian.org](https://xbian.org)._
 
 
