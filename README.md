@@ -52,6 +52,8 @@ Various resources, personal notes etc. I find interesting.
   #### IRC Terminal Clients
   - [Birch](https://github.com/dylanaraps/birch) - An IRC client written in bash.
   - [Irssi](https://irssi.org/) - vpowerful text-mode IRC client.
+  ### Voice
+  - [Mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software.
 
 ## Cryptocurrency
 - [Bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree.
