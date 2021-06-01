@@ -88,8 +88,6 @@ Various resources, personal notes etc. I find interesting.
   
 
 ## Development
-PyCharm, Spyder, Jupyter , , 
-
 - [Atom](https://github.com/atom/atom) - Atom is a hackable text editor for the 21st century, built on Electron.
   - [GhostText-for-Atom](https://github.com/GhostText/GhostText-for-Atom) - Allows live editing of Chrome/Firefox text area or JS Code editor content with Atom using WebSockets.
 - [CppCheck](https://github.com/danmar/cppcheck) -  static analysis of C/C++ code.
@@ -110,10 +108,13 @@ PyCharm, Spyder, Jupyter , ,
 - [Visual Studio Code](https://github.com/Microsoft/vscode) - [code.visualstudio.com](https://code.visualstudio.com)
 - [Wing](https://github.com/kbrsh/wing) - A beautiful CSS framework designed for minimalists [kbrsh.github.io](https://kbrsh.github.io/wing/).
  ### Icons
- - [icon](https://github.com/bung87/icon) - Icon file generator for Windows, macOS, Web.
- - [npm-icon-gen](https://github.com/akabekobeko/npm-icon-gen) - Icon file generator for Windows, macOS, Web.
+ - [100+ Awesome Free Icons Sets by designwall.com](https://www.designwall.com/blog/100-awesome-free-icons-sets/)
+ - [Fontawesome.com's icons](https://fontawesome.com/v4.7/icons/)
+ - [Icon](https://github.com/bung87/icon) - Icon file generator for Windows, macOS, Web.
+ - [Npm-icon-gen](https://github.com/akabekobeko/npm-icon-gen) - Icon file generator for Windows, macOS, Web.
 
- ### Node.js
+ ### Node.js - Open-source and cross-platform JavaScript runtime environment.
+ - [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs) - ⚡ Delightful Node.js packages and resources.
  - [Pm2.io](https://pm2.io) - PM2 is a production process manager for Node.js applications with a built-in load balancer. It allows you to keep applications alive forever, to reload them without downtime and to facilitate common system admin tasks.
  ### Programming
  - [KDevelop](https://github.com/KDE/kdevelop) - Cross-platform IDE for C, C++, Python, QML/JavaScript and PHP.
