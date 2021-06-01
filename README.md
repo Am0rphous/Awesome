@@ -43,6 +43,10 @@ Various resources, personal notes etc. I find interesting.
 - [Caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app.
 - [Instagram-web-api](https://github.com/jlobos/instagram-web-api#instagramcredentials-opts) - 🤳 Instagram Private Web API client for Node.
 - [mastodon](https://github.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community.
+  ### E-mail
+  - [Thunderbird](https://www.thunderbird.net)
+    - [Thunderbird Extensions](ps://addons.thunderbird.net)
+      - [Owl for Exchange](https://addons.thunderbird.net/thunderbird/addon/owl-for-exchange/?src=search) - Allows you to use your Exchange email accounts that use Outlook Web Access (OWA) with Thunderbird [beonex.com/owl](https://www.beonex.com/owl).
   ### IRC
 - [Kirc](https://github.com/mcpcpc/kirc) -  A tiny IRC client written in POSIX C99.
 - [Pidgin](https://www.pidgin.im) - instant messaging program which lets you log in to accounts on multiple chat networks simultaneously. It runs on Windows, Linux, and other UNIX operating systems.
