@@ -662,20 +662,20 @@ upstream_recursive_servers:
 
 
 ## Virtualization
-- [GraalVM](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere 🚀
+- [IsardVDI](https://github.com/isard-vdi/isard) - Isard VDI. Open Source KVM Virtual Desktops based on KVM Linux and dockers [isardvdi.com](https://isardvdi.com).
 - [WebVirtCloud](https://github.com/retspen/webvirtcloud) - WebVirtCloud is virtualization web interface for admins and users.
 
-   ### Cloud
-   - [Cloud Foundry](https://www.cloudfoundry.org) - [github.com/cloudfoundry](https://github.com/cloudfoundry) Cloud Foundry provides a highly efficient, modern model for cloud native application delivery on top of Kubernetes.
-   - [Red Hat's OpenShift](https://www.openshift.com) - [github.com/openshift](https://github.com/openshift) Red Hat OpenShift is the hybrid cloud platform of open possibility: powerful, so you can build anything and flexible, so it works anywhere.
+  ### Cloud
+  - [Cloud Foundry](https://www.cloudfoundry.org) - [github.com/cloudfoundry](https://github.com/cloudfoundry) Cloud Foundry provides a highly efficient, modern model for cloud native application delivery on top of Kubernetes.
+  - [Red Hat's OpenShift](https://www.openshift.com) - [github.com/openshift](https://github.com/openshift) Red Hat OpenShift is the hybrid cloud platform of open possibility: powerful, so you can build anything and flexible, so it works anywhere.
 
-   ### Container Technologies
+  ### Container Technologies
   - [Docker](https://www.docker.com)
-    - [Docker Bench for Security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production. 
-    - [Docker Compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker.
+   - [Docker Bench for Security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production. 
+   - [Docker Compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker.
       - [Awesme Docker Compose](https://github.com/docker/awesome-compose) -  Awesome Docker Compose samples.
-    - [Images by linuxserver.io](https://fleet.linuxserver.io)
-    - [SecretScanner](https://github.com/deepfence/SecretScanner) - Find secrets and passwords in container images and file systems.
+   - [Images by linuxserver.io](https://fleet.linuxserver.io)
+   - [SecretScanner](https://github.com/deepfence/SecretScanner) - Find secrets and passwords in container images and file systems.
   - [Firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing [firecracker-microvm.github.io](https://firecracker-microvm.github.io).
     - [Firecracker Containerd](https://github.com/firecracker-microvm/firecracker-containerd) - Firecracker-containerd enables containerd to manage containers as Firecracker microVMs.
   - [K3S](https://k3s.io/) - The certified Kubernetes distribution built for IoT & Edge computing
@@ -683,28 +683,29 @@ upstream_recursive_servers:
   - [LXC](https://linuxcontainers.org/lxc/)
     - [LXC Web Panel's dashboard (old)](https://github.com/lxc-webpanel/dashboard) - Might need flask `pip3 install flask`
   - [LXD](https://linuxcontainers.org/lxd/)
-  - [MiniKube](https://github.com/kubernetes/minikube) - minikube implements a local Kubernetes cluster on macOS, Linux, and Windows. [minikube.sigs.k8s.io](https://minikube.sigs.k8s.io/docs/)
-  - [MiniShift](https://github.com/minishift/minishift) - open source tool that helps you run a single-node OpenShift cluster locally inside a VM. [okd.io](https://www.okd.io)
-  - [The Moby Project](https://github.com/moby/moby) - a collaborative project for the container ecosystem to assemble container-based systems.
+  - [MiniKube](https://github.com/kubernetes/minikube) - Minikube implements a local Kubernetes cluster on macOS, Linux, and Windows. [minikube.sigs.k8s.io](https://minikube.sigs.k8s.io/docs/)
+  - [MiniShift](https://github.com/minishift/minishift) - Open source tool that helps you run a single-node OpenShift cluster locally inside a VM. [okd.io](https://www.okd.io)
+  - [The Moby Project](https://github.com/moby/moby) - A collaborative project for the container ecosystem to assemble container-based systems.
   - [RunC](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification.
 
-   #### Container orchestration
-   - Docker swarm
-   - [Kubernetes](https://kubernetes.io)
-     - [Awesome-Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources 🚢🎉.
-     - [Kubernetes CheatSheets](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
-     - [KubiScan](https://github.com/cyberark/KubiScan) - A tool to scan Kubernetes cluster for risky permissions.
-     - [MicroK8s](https://github.com/ubuntu/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge. [microk8s.io](https://microk8s.io)
-     - [Sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets.
-     - [ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables.
-   - [Podman](https://github.com/containers/podman) - A tool for managing OCI containers and pods. OCI = Open Container Initiative.
-   - [Replacing Docker Compose with Podman (Debian)](https://thesynack.com/posts/docker-compose-podman/)
-   - [Portainer](https://www.portainer.io) - Open source container management tool for Kubernetes, Docker, Docker Swarm and Azure ACI.
+  #### Container orchestration
+  - Docker swarm
+  - [Kubernetes](https://kubernetes.io)
+    - [Awesome-Kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources 🚢🎉.
+    - [Kubernetes CheatSheets](https://github.com/dennyzhang/cheatsheet-kubernetes-A4)
+    - [KubiScan](https://github.com/cyberark/KubiScan) - A tool to scan Kubernetes cluster for risky permissions.
+    - [MicroK8s](https://github.com/ubuntu/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge. [microk8s.io](https://microk8s.io)
+    - [Sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets.
+    - [ufw-docker](https://github.com/chaifeng/ufw-docker) - To fix the Docker and UFW security flaw without disabling iptables.
+  - [Podman](https://github.com/containers/podman) - A tool for managing OCI containers and pods. OCI = Open Container Initiative.
+    - [Replacing Docker Compose with Podman (Debian)](https://thesynack.com/posts/docker-compose-podman/)
+  - [Portainer](https://www.portainer.io) - Open source container management tool for Kubernetes, Docker, Docker Swarm and Azure ACI.
    #### Various
    - [CTop](https://github.com/bcicen/ctop/) - Top-like interface for container metrics [ctop.sh](https://ctop.sh).
    - [ThreatMapper](https://github.com/deepfence/ThreatMapper) - Identify vulnerabilities in running containers, images, hosts and repositories.
 
-   ### Machines
+   ### Virtual Machines
+   - [GraalVM](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere 🚀.
   - KVM
     - [Kimchi](https://github.com/kimchi-project/kimchi) - HTML5 based management tool for KVM.
     - [KVM Management Tools list](https://www.linux-kvm.org/page/Management_Tools) - Options available to manage kvm virtual machines.
@@ -712,11 +713,11 @@ upstream_recursive_servers:
   - [Multipass](https://ubuntu.com/server/docs/virtualization-multipass) - Instant Ubuntu VMs (Windows, macOS and Linux)
   - [oVirt](https://www.ovirt.org) - Free open-source virtualization solution for your entire enterprise.
     - [oVirt documentation](https://www.ovirt.org/documentation)
-  - [VirtualBox](https://www.virtualbox.org)
+  - [VirtualBox](https://www.virtualbox.org) - Hypervisor by Oracle (formerly by Sun) for Windows, Linux, macOS, and Solaris.
   - [VMWare Fusion (macOS)](https://www.vmware.com/products/fusion/fusion-evaluation.html)
     - [Open Virtualization Format Tool (ovftool)](https://code.vmware.com/web/tool/4.4.0/ovf) - VMware OVF Tool is a command-line utility that allows you to import and export OVF packages to and from many VMware products.
     - Commands
-      ````
+      ````powershell
       /Applications/VMware\ OVF\ Tool/ovftool --version
       /Applications/VMware\ OVF\ Tool/ovftool --help 
       ````
@@ -725,8 +726,8 @@ upstream_recursive_servers:
     - [Qira](https://github.com/geohot/qira) - QEMU Interactive Runtime Analyser.
   - [XCP-ng](https://xcp-ng.org) - Virtualization platform based on Xen Source and Citrix® Hypervisor (formerly XenServer). XCP-ng stands for Xen Cloud Platform - New Generation.
     - [XCP-ng documentation](https://xcp-ng.org/docs)
-   #### VM prep
-   - [prepare-ubuntu-18.04-template.sh](https://github.com/jimangel/ubuntu-18.04-scripts/blob/master/prepare-ubuntu-18.04-template.sh)
+    #### VM prep
+    - [prepare-ubuntu-18.04-template.sh](https://github.com/jimangel/ubuntu-18.04-scripts/blob/master/prepare-ubuntu-18.04-template.sh)
 
 ## Web and Proxy Tools
 - [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) - A curated list of Web Security materials and resources.
@@ -779,14 +780,13 @@ upstream_recursive_servers:
   - [ungoogled-chromium Github](https://github.com/Eloston/ungoogled-chromium)
 - [Brave Browser](https://brave.com/download/)
 - [Mozilla Firefox](https://www.mozilla.org)
-  - [Pale Moon](https://www.palemoon.org/)
-
-- [Waterfox](https://www.waterfox.net/)
+  - [Pale Moon](https://www.palemoon.org)
+- [Waterfox](https://www.waterfox.net)
   ### Privacy focused
   - [Bromite](https://www.bromite.org) - Bromite a Chromium fork with ad blocking and privacy enhancements; take back your browser!
-  - [IceCat](https://www.gnu.org/software/gnuzilla/)
-  - [Tenta](https://tenta.com/)
+  - [IceCat](https://www.gnu.org/software/gnuzilla)
+  - [Tenta](https://tenta.com)
   - [Tor Browser](https://www.torproject.org)
   ### Search Engines
-  - [DuckDuckGo[https://duckduckgo.com]
-  - [Qwant](https://www.qwant.com/)
+  - [DuckDuckGo](https://duckduckgo.com)
+  - [Qwant](https://www.qwant.com)
