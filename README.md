@@ -44,6 +44,7 @@ Various resources, personal notes etc. I find interesting.
 - [Instagram-web-api](https://github.com/jlobos/instagram-web-api#instagramcredentials-opts) - 🤳 Instagram Private Web API client for Node.
 - [mastodon](https://github.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community.
   ### E-mail
+  - [Roundcube Webmail](https://github.com/roundcube/roundcubemail) - [roundcube.net](https://roundcube.net/)
   - [Thunderbird](https://www.thunderbird.net)
     - [Thunderbird Extensions](ps://addons.thunderbird.net)
       - [DeepDark for Thunderbird](https://addons.thunderbird.net/thunderbird/addon/deepdark-for-thunderbird/?src=cb-dl-rating) - Dark mode for Thunderbird UI.
