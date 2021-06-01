@@ -46,6 +46,8 @@ Various resources, personal notes etc. I find interesting.
   ### E-mail
   - [Thunderbird](https://www.thunderbird.net)
     - [Thunderbird Extensions](ps://addons.thunderbird.net)
+      - [DeepDark for Thunderbird](https://addons.thunderbird.net/thunderbird/addon/deepdark-for-thunderbird/?src=cb-dl-rating) - Dark mode for Thunderbird UI.
+      - [Enigmail](https://addons.thunderbird.net/thunderbird/addon/enigmail/?src=cb-dl-users) - OpenPGP message encryption and authentication for Thunderbird.
       - [Owl for Exchange](https://addons.thunderbird.net/thunderbird/addon/owl-for-exchange/?src=search) - Allows you to use your Exchange email accounts that use Outlook Web Access (OWA) with Thunderbird [beonex.com/owl](https://www.beonex.com/owl).
   ### IRC
 - [Kirc](https://github.com/mcpcpc/kirc) -  A tiny IRC client written in POSIX C99.
@@ -56,7 +58,7 @@ Various resources, personal notes etc. I find interesting.
   #### IRC Terminal Clients
   - [Birch](https://github.com/dylanaraps/birch) - An IRC client written in bash.
   - [Irssi](https://irssi.org/) - vpowerful text-mode IRC client.
-  ### Voice
+  ### VoIP
   - [Mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software.
 
 ## Cryptocurrency
