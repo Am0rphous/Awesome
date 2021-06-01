@@ -48,6 +48,8 @@ Various resources, personal notes etc. I find interesting.
     - [Thunderbird Extensions](ps://addons.thunderbird.net)
       - [DeepDark for Thunderbird](https://addons.thunderbird.net/thunderbird/addon/deepdark-for-thunderbird/?src=cb-dl-rating) - Dark mode for Thunderbird UI.
       - [Enigmail](https://addons.thunderbird.net/thunderbird/addon/enigmail/?src=cb-dl-users) - OpenPGP message encryption and authentication for Thunderbird.
+      - [Message Filters](http://kb.mozillazine.org/Filters_(Thunderbird)#Creating_and_editing_filters)
+      - [How can I get Thunderbird to read msgFilterRules.dat?](https://support.mozilla.org/en-US/questions/1269514)
       - [Owl for Exchange](https://addons.thunderbird.net/thunderbird/addon/owl-for-exchange/?src=search) - Allows you to use your Exchange email accounts that use Outlook Web Access (OWA) with Thunderbird [beonex.com/owl](https://www.beonex.com/owl).
       - [Just Report It](https://addons.thunderbird.net/thunderbird/addon/just-report-it/?src=cb-dl-recentlyadded) - Just Report It (https://justreport.it) is an email plugin which tackles spam the right way. Report emails straight to SpamCop, the Registrar, a custom email address or any combination in between!
   ### IRC
