@@ -21,7 +21,6 @@ _"A good admin is a paranoid one. A better admin is both paranoid and prepared. 
 - [Hardware](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#hardware)
 - [IDS, HIDS and IPS](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#ids-hids-and-ips)
   - [Firewall](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#firewall)
-- [Mail](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#mail)
 - [Monitoring](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#monitoring)
   - [ELK-stack](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#elk-stack)
   - [Good resources](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#good-resources)
@@ -329,9 +328,6 @@ lsscsi                          #Print SCSI Devices Info
 - [Teler](https://github.com/kitabisa/teler) -  Real-time HTTP Intrusion Detection.
 - [TripWire](https://github.com/Tripwire/tripwire-open-source) - Security and data integrity tool for monitoring and alerting on file & directory changes. 
 - [Wazuh](https://github.com/wazuh/wazuh/) - free and open source platform used for threat prevention, detection, and response. It is capable of protecting workloads across on-premises, virtualized, containerized, and cloud-based environments.
-
-## Mail
-- [Roundcube webmail](https://github.com/roundcube/roundcubemail) - [roundcube.net](https://roundcube.net/)
 
 ## Monitoring
 - [Adminator HTML5 Admin Template](https://github.com/puikinsh/Adminator-admin-dashboard) - Adminator is a easy to use and well design admin dashboard template for web apps, websites, services and more.
