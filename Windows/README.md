@@ -1,6 +1,7 @@
 # |/|/ 1 |/| |) 0 |/|/ 5
 
-- [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - 💻 🎉 An awesome & curated list of best applications and tools for Windows. 
+- [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - 💻 🎉 An awesome & curated list of best applications and tools for Windows.
+- [FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
 
 ## Anti-Virus and Anti-Rootkit
 - [OpenArk](https://github.com/BlackINT3/OpenArk) - OpenArk is an open source anti-rookit(ARK) tool for Windows [openark.blackint3.com](https://openark.blackint3.com).
