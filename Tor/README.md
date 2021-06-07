@@ -54,6 +54,7 @@ onionshare-cli --receive --persistent ~/anon-dropbox.session --public        # s
 - [Multitor](https://github.com/trimstray/multitor) -  Create multiple TOR instances with a load-balancing.
 - [Onion-Hunter](https://github.com/cribdragg3r/Onion-Hunter) - _Hunt and Analyze Tor Onion Sites._
 - [Onion-link-list](https://github.com/DanWin/onion-link-list) - A set of scripts to list tor hidden services.
+- [PICKYONION](https://github.com/maliciousgroup/PICKYONION) - PICKYONION is a private red team python library focused on leveraging TOR to establish secure communication and hidden service hosting.
 - [Real-world-onion-sites](https://github.com/alecmuffett/real-world-onion-sites) - list of substantial, commercial-or-social-good mainstream websites which provide onion services. 
 - [tor_ip_switcher](https://github.com/ruped24/tor_ip_switcher) - tor_ip_switcher is useful for making any DoS attack look like a DDoS attack. Works with toriptables2.
 - [TorBot](https://github.com/DedSecInside/TorBoT) - Dark Web OSINT Tool.
