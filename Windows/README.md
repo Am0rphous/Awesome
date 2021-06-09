@@ -1,13 +1,16 @@
 # |/|/ 1 |/| |) 0 |/|/ 5
 
 - [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - 💻 🎉 An awesome & curated list of best applications and tools for Windows.
-- [FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
+
 
 ## Anti-Virus and Anti-Rootkit
 - [OpenArk](https://github.com/BlackINT3/OpenArk) - OpenArk is an open source anti-rookit(ARK) tool for Windows [openark.blackint3.com](https://openark.blackint3.com).
 
-## Information Collection
+## Hardware
 - [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - Gathers info about processor, mainboard, chipset, memory ++.
+- [FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
+  - [FanControl.HWInfo](https://github.com/Rem0o/FanControl.HWInfo) - Plugin for FanControl that provides support for HWInfo sensors using its shared memory feature.
+  - [FanControl.DellPlugin](https://github.com/Rem0o/FanControl.DellPlugin) - Plugin for FanControl that provides support for Dell laptops using DellFanManagement.
 - [GPU-Z](https://www.techpowerup.com/download/techpowerup-gpu-z) - Lightweight utility designed to give you all information about your video card and GPU.
 - [Speccy](https://www.ccleaner.com/speccy) - Light system information tool, free and pro version.
 
