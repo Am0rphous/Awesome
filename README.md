@@ -145,6 +145,7 @@ Various resources, personal notes etc. I find interesting.
 
 ## Encryption
 - [Encrypting Kali Setup Tutorial (working pr. 10.11.20)](https://www.informaticar.net/how-to-manually-partition-and-encrypt-kali-linux/)
+- [LibreCrypt](https://github.com/t-d-k/LibreCrypt) - LibreCrypt: Transparent on-the-fly disk encryption for Windows. LUKS compatible.
 - [Sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets 
 - [VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt.
 
