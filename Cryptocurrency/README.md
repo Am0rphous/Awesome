@@ -4,6 +4,13 @@
 - [bitfinex.com](https://www.bitfinex.com/)
 - [pancakeswap](https://exchange.pancakeswap.finance/#/swap)
 
+## IOTA
+- [Documentation](https://github.com/iotaledger/documentation) - This is where we host content for the documentation portal.
+- [FireFly Wallet](https://github.com/iotaledger/firefly) - IOTA's New Wallet.
+- [Iota-news.com](https://iota-news.com)
+- [IOTAtangle](https://github.com/glumb/IOTAtangle) - IOTA Tangle Visualiser 🦔 http://tangle.glumb.de/?DARK_MODE=true
+- [Trinity Wallet (discontinued)](https://github.com/iotaledger/trinity-wallet) - The IOTA Trinity Wallet - available on App Store, Google Play and all major Desktop platforms.
+
 ## News
 - [cryptocurrency-news-analysis](https://github.com/CyberPunkMetalHead/cryptocurrency-news-analysis) - This python module can analyse cryptocurrency news for any number of coins given and return a sentiment. Can be easily integrated with a Trading bot to keep an eye on the news.
 
