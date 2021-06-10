@@ -2,6 +2,7 @@
 
 ## Exchanges
 - [bitfinex.com](https://www.bitfinex.com/)
+- [Guarda Exchange](https://guarda.com/exchange/)
 - [pancakeswap](https://exchange.pancakeswap.finance/#/swap)
 
 ## IOTA
@@ -19,3 +20,6 @@
 ## Trading
 - [Binance-News-Sentiment-Bot](https://github.com/CyberPunkMetalHead/Binance-News-Sentiment-Bot) - This is a fully functioning Binance trading bot that takes into account the news sentiment for the top 100 crypto feeds. If you like this project consider donating though the Brave browser to allow me to continuously improve the script.
 - [Binance-volatility-trading-bot](https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot) - This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though the Brave browser to allow me to continuously improve the script.
+
+## Wallets
+- [Guarda Desktop Crypto Wallet](https://guarda.com/desktop/)
