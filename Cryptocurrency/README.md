@@ -9,6 +9,8 @@
 - [FireFly Wallet](https://github.com/iotaledger/firefly) - IOTA's New Wallet.
 - [Iota-news.com](https://iota-news.com)
 - [IOTAtangle](https://github.com/glumb/IOTAtangle) - IOTA Tangle Visualiser 🦔 http://tangle.glumb.de/?DARK_MODE=true
+- [IOTA Tangle Explorer](https://explorer.iota.org)
+- [Public IOTA nodes](https://comnet.thetangle.org/nodes)
 - [Trinity Wallet (discontinued)](https://github.com/iotaledger/trinity-wallet) - The IOTA Trinity Wallet - available on App Store, Google Play and all major Desktop platforms.
 
 ## News
