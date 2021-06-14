@@ -193,14 +193,15 @@ Various resources, personal notes etc. I find interesting.
 - [Gitstar Ranking](https://gitstar-ranking.com) - Unofficial GitHub star ranking for users, organizations and repositories.
 - [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) - A desktop application for downloading Udemy Courses.
 
-
 ## Media
 - [Multimedia and Television Support on Linux](https://www.linuxtv.org)
+- [System Color Picker](https://github.com/sindresorhus/System-Color-Picker) - The macOS color picker as an app with more features 
 - [Wwmark](https://github.com/mylamour/Wwmark) - Watermark Swiss Army Knife.
   ### Image
   - [DarkTable](https://github.com/darktable-org/darktable) - open source photography workflow application and raw developer. A virtual lighttable and darkroom for photographers. [darktable.org](https://www.darktable.org)
   - [DigiKam from KDE](https://www.digikam.org) - [Github](https://github.com/KDE/digikam) Advanced open-source digital photo management application that runs on Linux, Windows, and MacOS. The application provides a comprehensive set of tools for importing, managing, editing, and sharing photos and raw files.
   - [GIMP](https://gitlab.gnome.org/GNOME/gimp) - GNU Image Manipulation Program [gimp.org](https://www.gimp.org)
+  - [Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac.
   - [InkScape](https://inkscape.org) - A powerful, free design tool.
   - [Krita](https://github.com/KDE/krita) - Krita is a professional free and open source painting program.
   - [LightZone](https://github.com/ktgw0316/LightZone) - LightZone is a photo editor for Mac, Windows, and Linux [lightzoneproject.org](http://lightzoneproject.org).
