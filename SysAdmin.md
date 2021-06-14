@@ -373,6 +373,7 @@ lsscsi                          #Print SCSI Devices Info
   ## Process monitoring
   - [ProcDump (Windows)](https://docs.microsoft.com/en-us/sysinternals/downloads/procdump) - ProcDump is a command-line utility whose primary purpose is monitoring an application for CPU spikes and generating crash dumps during a spike that an administrator or developer can use to determine the cause of the spike. 
   ## Attack Surface Monitoring
+- [Attack Surface Analyzer](https://github.com/microsoft/AttackSurfaceAnalyzer) -  Attack Surface Analyzer can help you analyze your operating system's security configuration for changes during software installation.
 - [Awesome Attack Surface Monitoring](https://github.com/0xtavian/awesome-attack-surface-monitoring) - Curated list of open-source & paid Attack Surface Monitoring (ASM) tools.
   ### Log Analysis
   - [AwStats](https://www.awstats.org/) - Powerful and featureful web server log analyzer.
