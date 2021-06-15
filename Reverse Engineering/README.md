@@ -19,7 +19,8 @@ https://github.com/WebAssembly/wabt
 - [ApkVuln](https://github.com/Josue87/apkvuln) - Static analysis of APKs with regular expressions.
 - [calabash-android](https://github.com/calabash/calabash-android) -  Automated Functional testing for Android using cucumber.
 - [Diggy](https://github.com/s0md3v/Diggy) - Extract endpoints from apk files. 
-- [repeato](https://www.repeato.app) - Painless Android UI testing via record & play.
+- [Keyfinder](https://github.com/CERTCC/keyfinder) - A tool for finding and analyzing private (and public) key files, including support for Android APK files.
+- [Repeato](https://www.repeato.app) - Painless Android UI testing via record & play.
 
   ### Android Decompilers
   "A decompiler takes one from a binary to source code–or something similarly high-level that can easily be read by humans."
