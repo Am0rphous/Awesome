@@ -447,6 +447,7 @@ upstream_recursive_servers:
   - [tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server.
     - [xVNC](http://xvnc.sourceforge.net/)
     #### VPN - Virtual Private Network
+    - [Hyprspace](https://github.com/hyprspace/hyprspace) - A Lightweight VPN Built on top of Libp2p for Truly Distributed Networks.
     - [IPsec VPN Server Auto Setup Scripts](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2.
     - [IPsec VPN Server on Docker](https://github.com/hwdsl2/docker-ipsec-vpn-server) - Docker image to run an IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2.
     - [OpenConnect](https://github.com/openconnect/openconnect) - SSL VPN client initially created to support Cisco's AnyConnect SSL VPN.
