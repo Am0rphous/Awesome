@@ -39,6 +39,7 @@ https://github.com/WebAssembly/wabt
   - [Angr Documentation](https://github.com/angr/angr-doc)
   - [Angr Gui](https://github.com/angr/angr-management) - A GUI for angr.
 - [BinWalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool.
+- [DBA](https://github.com/s0i37/DBA) - Dynamic Binary Analysis scripts.
 ### PE - Portable Executables binaries
 - [Pev](https://github.com/merces/pev) - The PE file analysis toolkit.
 
