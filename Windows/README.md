@@ -22,6 +22,7 @@
 
 ## Productivity
 - [GreenShot](https://github.com/greenshot/greenshot) - Greenshot is a light-weight screenshot software tool for Windows.
+- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity.
 
 ## Security and Protection
 - [EmoCheck](https://github.com/JPCERTCC/EmoCheck) - Emotet detection tool for Windows OS.
