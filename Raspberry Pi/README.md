@@ -27,6 +27,7 @@
 
 ## Guides, Help and Setup
 - [Official Raspberry Pi Beginnger's Guide](https://www.raspberrypi.org/magpi-issues/Beginners_Guide_v1.pdf)
+- [Raspberry Pi Encrypted Boot with SSH](https://github.com/ViRb3/pi-encrypted-boot-ssh) - 🔑 Raspberry Pi Encrypted Boot with Remote SSH.
 - [Tutorial: Raspberry Pi](https://people.cs.clemson.edu/~yfeaste/cybersecurity/CPSC424/project/RaspberryPiTutorial.pdf)
 - [Ziadoz' raspberry-pi-3-setup](https://github.com/ziadoz/raspberry-pi-3-setup)
 
