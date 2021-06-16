@@ -127,6 +127,7 @@
   - [RouterOS Security Research](https://github.com/tenable/routeros) - RouterOS Security Research Tooling and Proof of Concept.
   - [winbox-mac](https://github.com/nrlquaker/winbox-mac) - MikroTik Winbox bundled into macOS app with Wine.
 - [OpenWrt](https://openwrt.org) - OpenWrt is an open source project for embedded operating systems based on Linux, primarily used on embedded devices to route network traffic.
+  - [Table of Hardware: Firmware downloads](https://openwrt.org/toh/views/toh_fwdownload) - table shows firmware download urls for all devices listed in the Table of Hardware.
 - [OPNsense](https://opnsense.org) - Open source, easy-to-use and easy-to-build HardenedBSD based firewall and routing platform. 
 - [PFsense](https://www.pfsense.org) - Open source firewall/router computer software distribution based on FreeBSD.
 - [Zeroshell Linux Router](https://zeroshell.org) - Routing and Bridging Firewall Solutions.
