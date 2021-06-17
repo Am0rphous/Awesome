@@ -64,6 +64,7 @@ onionshare-cli --receive --persistent ~/anon-dropbox.session --public        # s
   - [TorStatus Github](https://github.com/paulchen/torstatus)
 
 ### Onion Services
-- DuckDuckGo - https://3g2upl4pq6kufc4m.onion/
+- DuckDuckGo - https://3g2upl4pq6kufc4m.onion
+- Index of torproject.org - http://sdscoq7snqtznauu.onion
 - ProtonMail - https://protonirockerxow.onion
 
