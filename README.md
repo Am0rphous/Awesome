@@ -323,6 +323,7 @@ Various resources, personal notes etc. I find interesting.
  - [Winds](https://github.com/getstream/winds/) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io.
 
 ## Tools
+- [Napkin-text-analysis](https://github.com/adulau/napkin-text-analysis) - Napkin is a simple tool to produce statistical analysis of a text.
   ### Hex
   - [ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
   - [vxHexEditor](https://github.com/EUA/wxHexEditor) - [www.wxhexeditor.org](http://www.wxhexeditor.org/)
