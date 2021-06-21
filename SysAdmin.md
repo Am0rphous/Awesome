@@ -262,7 +262,8 @@ bro / zeek
 
 ## DNS
 - [DNS Proxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support.
-- [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols [simplednscrypt.org](https://www.simplednscrypt.org).
+- [Dnscrypt Proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols [simplednscrypt.org](https://www.simplednscrypt.org).
+- [Lists of public DNSCrypt and DoH servers](https://github.com/DNSCrypt/dnscrypt-resolvers) - Lists of public DNSCrypt / DoH DNS servers and DNS relays.
 
 ## Ebooks, PDFs and helpful resources
 - [GeekGuide - Linux in the Time of Malware](https://www.linuxjournal.com/sites/default/files/2018-11/GeekGuide-Bit9-3.pdf)
