@@ -97,6 +97,7 @@ Various resources, personal notes etc. I find interesting.
   - [GhostText-for-Atom](https://github.com/GhostText/GhostText-for-Atom) - Allows live editing of Chrome/Firefox text area or JS Code editor content with Atom using WebSockets.
 - [CppCheck](https://github.com/danmar/cppcheck) -  static analysis of C/C++ code.
 - [Dart SDK](https://github.com/dart-lang/sdk) - Dart is an open-source, scalable programming language, with robust libraries and runtimes, for building web, server, and mobile apps.
+- [DocToc](https://doctoc.herokuapp.com/) - Generates table of content for markdown files inside github repositories Tweet.
 - [Electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS .
 - [Emmet Sublime](https://github.com/sergeche/emmet-sublime) - Emmet for Sublime Text.
 - [GhostText](https://github.com/GhostText/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
