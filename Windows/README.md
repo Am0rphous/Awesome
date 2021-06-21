@@ -18,6 +18,7 @@
 - [OSMC (Open Source Media Center)](https://osmc.tv)
 
 ## Network
+- [Proxychains-windows](https://github.com/shunf4/proxychains-windows) - Windows and Cygwin port of proxychains, based on MinHook and DLL Injection.
 - [TraceWrangler - Packet Capture Toolkit](https://www.tracewrangler.com)
 
 ## Productivity
