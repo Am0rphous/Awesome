@@ -41,6 +41,7 @@ https://github.com/WebAssembly/wabt
   - [Angr Gui](https://github.com/angr/angr-management) - A GUI for angr.
 - [BinWalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool.
 - [DBA](https://github.com/s0i37/DBA) - Dynamic Binary Analysis scripts.
+- [Viper](https://github.com/viper-framework/viper) -Viper is a binary analysis and management framework.
 ### PE - Portable Executables binaries
 - [Pev](https://github.com/merces/pev) - The PE file analysis toolkit.
 
