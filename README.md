@@ -137,6 +137,8 @@ Various resources, personal notes etc. I find interesting.
     #### PHP
     - [Awesome-PHP](https://github.com/ziadoz/awesome-php) - _A curated list of amazingly awesome PHP libraries, resources and shiny things._
     - [Laravel](https://github.com/laravel/laravel) - _A PHP framework for web artisans._
+      - [laravel.com](https://laravel.com)
+      - [Laravel Passport](https://github.com/laravel/passport) - Laravel Passport provides OAuth2 server support to Laravel.
 
 ## DVD-ripping
 - [Asunder](http://littlesvr.ca/asunder/) - Asunder is a graphical Audio CD ripper and encoder for Linux. You can use it to save tracks from an Audio CD as any of WAV, MP3, OGG, FLAC, Opus, WavPack, Musepack, AAC, and Monkey's Audio files.
