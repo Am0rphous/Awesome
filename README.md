@@ -29,6 +29,7 @@ Various resources, personal notes etc. I find interesting.
 - [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) - Machine Learning for Cyber Security.
 - [Awesome Open Source](https://awesomeopensource.com) - Find Open Source By Searching, Browsing and Combining 7,000 Topics Across 59 Categories And 337,263 Projects
 - [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts)
+- [Awesome Security Apis](https://github.com/jaegeral/security-apis) - A collective list of public APIs for use in security. Contributions welcome.
 - [Awesome Search](https://awesomelists.top)
   - [awesome-search by frutik](https://github.com/frutik/awesome-search) - Awesome Search - this is all about the (e-commerce) search and its awesomeness.
 - [Awesome Selfhosted](https://gitlab.com/awesome-selfhosted/awesome-selfhosted)
