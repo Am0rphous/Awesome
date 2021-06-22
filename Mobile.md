@@ -1,21 +1,14 @@
 
 
-## Android Emulator
-
-    AVD (Android Virtual Device)
-    Genymotion
-    Bliss OS
-    Anbox
-- [Android-x86]()
+## Android
+- [Anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system.
+  - [Anbox docs](https://github.com/anbox/docs)
+  - [Anbox kernel modules](https://github.com/anbox/anbox-modules)
+  - [How to Run Android Apps on Ubuntu Linux with Anbox](https://www.maketecheasier.com/run-android-apps-on-ubuntu/)
+- [AVD (Android Virtual Device)](https://developer.android.com/studio/run/managing-avds)
 - [NoxPlayer](https://www.bignox.com/) - Free Android emulator for Windows and MacOS.
 - [OsmAnd - Offline mobile maps & navigation](https://osmand.net/) - OsmAnd - OpenStreetMap Automated Navigation Directions is a map and navigation app for Android and iOS.
 
-### iOS
+## iOS
 - [Cydia Impactor](https://cydiaimpactor.biz/download/) https://cydiaimpactor.online/cydia-impactor-alternative/ - application that can sideload any IPA file through a Windows, Mac or Linux PC to any kind of iDevice. 
 
-#### MacOS only
-Check this later: https://www.bosstechy.com/best-android-emulators-for-mac-os/
-
-https://developer.android.com/studio/
-
-Note for later: HorizonCalendar - https://github.com/airbnb/HorizonCalendar
