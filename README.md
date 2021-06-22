@@ -185,11 +185,6 @@ Various resources, personal notes etc. I find interesting.
 - [Linux_command_line](https://github.com/learnbyexample/Linux_command_line) - Introduction to Linux commands and Shell scripting.
 - [Scripting_course](https://github.com/learnbyexample/scripting_course) - A reference guide to Linux command line, Vim and Scripting.
 
-## Linux Software
-- [All AWESOME Linux Applications and Tools](https://www.fossmint.com/awesome-linux-software/)
-- [Linux.softpedia.com](https://linux.softpedia.com)
-- [Linux App Finder](https://linuxappfinder.com/)
-
 ## Looking for software, projects, courses or inspiration?
 - [Ail-framework](https://github.com/ail-project/ail-framework) - Analysis Information Leak framework.
 - [FeatHub](https://feathub.com)
@@ -321,6 +316,12 @@ Various resources, personal notes etc. I find interesting.
  - [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts.
  - [CPod](https://github.com/z-------------/CPod) - A simple, beautiful podcast app for Windows, macOS, and Linux.
  - [Winds](https://github.com/getstream/winds/) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io.
+
+## Software
+- [All AWESOME Linux Applications and Tools](https://www.fossmint.com/awesome-linux-software/)
+- [FossHub](https://www.fosshub.com/) - Free Open-Source Software
+- [Linux.softpedia.com](https://linux.softpedia.com)
+- [Linux App Finder](https://linuxappfinder.com/)
 
 ## Tools
 - [Napkin-text-analysis](https://github.com/adulau/napkin-text-analysis) - Napkin is a simple tool to produce statistical analysis of a text.
