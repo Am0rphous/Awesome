@@ -48,6 +48,7 @@
 
 ## Desktop OSes
 - [Asahi](https://asahilinux.org) - Asahi Linux aims to bring you a polished Linux experience on Apple Silicon Macs.
+- [Bliss OS - Android for your PC](https://blissos.org) - An Open Source OS, based on Android, that incorporates many optimizations, features, and expanded device support. And it is available for just about any Chromebook, Windows/Linux PC or tablet released in the last 4 years.
 - [Debian](https://www.debian.org)
 - [Deepin](https://www.deepin.org/en/) - based on Debian, features DDE, the Deepin Desktop Environment, built on Qt.
   - Be aware - There is conserns about analytics collected by Deepin which are sent to the Chinese government [Deepin Linux: Security Threat or Safe to Use?](https://linuxinsider.com/story/deepin-linux-security-threat-or-safe-to-use-86044.html).
@@ -96,6 +97,7 @@
 - [Ubermix](http://www.ubermix.org) - "Built by educators with an eye towards student and teacher empowerment."
 
 ## IoT, embedded devices, tablets
+- [Bliss OS - Android for your PC](https://blissos.org) - An Open Source OS, based on Android, that incorporates many optimizations, features, and expanded device support. And it is available for just about any Chromebook, Windows/Linux PC or tablet released in the last 4 years.
 - [Fedora IoT](https://getfedora.org/en/iot/)
 - [LineageOS Android Distribution](https://lineageos.org) - A free and open-source operating system for various devices, based on the Android mobile platform.
 - [Ubunt Server](https://ubuntu.com)
