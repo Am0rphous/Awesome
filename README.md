@@ -298,6 +298,7 @@ _Freely accessing knowledge is an essential human right. Knowledge is the founda
     - [AirSonic](https://github.com/airsonic/airsonic) - 📡 ☁️ 🎶Airsonic, a Free and Open Source community driven media server (fork of Subsonic and Libresonic).
       - [Airsonic-Advanced](https://github.com/airsonic-advanced/airsonic-advanced) - modern implementation of the Airsonic fork with several key performance and feature enhancements.
       - [Airsonic Frontend](https://github.com/tamland/airsonic-frontend) - Modern UI for Airsonic / Subsonic.
+    - [Funkwhale for YunoHost](https://github.com/YunoHost-Apps/funkwhale_ynh) - A modern, convivial and free music server on YunoHost.
     - [Gonic](https://github.com/sentriz/gonic) - Music streaming server / subsonic server API implementation.
     - [Icecast-Server](https://gitlab.xiph.org/xiph/icecast-server) - Icecast streaming media server.
     - [Subsonic](http://www.subsonic.org/pages/index.jsp) - Music streaming server.
@@ -371,10 +372,18 @@ _Freely accessing knowledge is an essential human right. Knowledge is the founda
 
 ## Social Media
 - [Diaspora](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network.
-  ## Microblogging
+  ### Image Hosting
+  - [PixelFed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
+  
+  ### Blogging
   - [Mastodon](https://github.com/tootsuite/mastodon) - Mastodon is a free, open-source social network server based on ActivityPub where users can follow friends and discover new ones. On Mastodon, users can publish anything they want: links, pictures, text, video. All Mastodon servers are interoperable as a federated network (users on one server can seamlessly communicate with users from another one, including non-Mastodon software that implements ActivityPub)!
   - [Friendica](https://github.com/friendica/friendica) - Friendica Communications Platform.
+  - [Plume](https://github.com/Plume-org/Plume) - Plume is a federated blogging engine, based on ActivityPub. It is written in Rust, with the Rocket framework, and Diesel to interact with the database. The front-end uses Ructe templates, WASM and SCSS.
+  ### Music
+  - [Funkwhale](https://funkwhale.audio/) - Funkwhale is a community-driven project that lets you listen and share music and audio within a decentralized, open network.
+    - [Funkwhale Docker Container](https://github.com/michaelmob/docker-funkwhale) - All-in-one funkwhale docker image.
   ### Video Hosting
+  - [PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser.
 
 ## Tools
 - [Napkin-text-analysis](https://github.com/adulau/napkin-text-analysis) - Napkin is a simple tool to produce statistical analysis of a text.
