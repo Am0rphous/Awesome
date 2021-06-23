@@ -18,6 +18,7 @@ _Freely accessing knowledge is an essential human right. Knowledge is the founda
 - [Development](https://github.com/Am0rphous/Awesome/blob/master/README.md#development)
   - [Icons](https://github.com/Am0rphous/Awesome/blob/master/README.md#icons)
   - [Programming](https://github.com/Am0rphous/Awesome/blob/master/README.md#programming)
+    - [Electron](https://github.com/Am0rphous/Awesome/blob/master/README.md#electron)
     - [HTML](https://github.com/Am0rphous/Awesome/blob/master/README.md#html)
     - [JavaScript](https://github.com/Am0rphous/Awesome/blob/master/README.md#javascript)
     - [Nim](https://github.com/Am0rphous/Awesome/blob/master/README.md#nim)
