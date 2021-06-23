@@ -9,8 +9,39 @@ Various resources, personal notes etc. I find interesting.
 - https://github.com/AryToNeX/Glasscord
 - https://www.findbestopensource.com/projects
 
+- []()
+- [Communication](https://github.com/Am0rphous/Awesome/blob/master/README.md#communication)
+  - [E-mail](https://github.com/Am0rphous/Awesome/blob/master/README.md#e-mail)
+  - [IRC](https://github.com/Am0rphous/Awesome/blob/master/README.md#irc)
+    - [IRC Terminal Clients](https://github.com/Am0rphous/Awesome/blob/master/README.md#irc-terminal-clients)
+  - [VoIP](https://github.com/Am0rphous/Awesome/blob/master/README.md#voip)
+- [Cryptocurrency](https://github.com/Am0rphous/Awesome/blob/master/README.md#cryptocurrency)
+- [Desktop customization tools](https://github.com/Am0rphous/Awesome/blob/master/README.md#desktop-customization-tools)
+  - [Extensions](https://github.com/Am0rphous/Awesome/blob/master/README.md#extensions)
+  - [Inspiration](https://github.com/Am0rphous/Awesome/blob/master/README.md#inspiration)
+- [Theme Tutorials](https://github.com/Am0rphous/Awesome/blob/master/README.md#theme-tutorials)
+- [Development](https://github.com/Am0rphous/Awesome/blob/master/README.md#development)
+  - [Icons](https://github.com/Am0rphous/Awesome/blob/master/README.md#icons)
+  - [Programming](https://github.com/Am0rphous/Awesome/blob/master/README.md#programming)
+    - [HTML](https://github.com/Am0rphous/Awesome/blob/master/README.md#html)
+    - [JavaScript](https://github.com/Am0rphous/Awesome/blob/master/README.md#javascript)
+    - [Nim](https://github.com/Am0rphous/Awesome/blob/master/README.md#nim)
+    - [Node.js](https://github.com/Am0rphous/Awesome/blob/master/README.md#nodejs---open-source-and-cross-platform-javascript-runtime-environment)
+    - [PHP](https://github.com/Am0rphous/Awesome/blob/master/README.md#php)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- 
 
-## A list of 'awesome' entitled projects
+
+
+
+## Awesome entitled projects
 - [Awesome Azure Security](https://github.com/kmcquade/awesome-azure-security) - A curated list of awesome Microsoft Azure Security tools, guides, blogs, and other resources.
 - [Awesome Cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - 🍻 awesome cheatsheet.
 - [Awesome CLI](https://github.com/umutphp/awesome-cli) - A simple command line tool to give you a fancy command line interface to dive into Awesome lists.
@@ -62,9 +93,9 @@ Various resources, personal notes etc. I find interesting.
 - [Polari](https://github.com/GNOME/polari) - source IRC client for the GNOME desktop environment. [wiki.gnome.org/Apps/Polari](https://wiki.gnome.org/Apps/Polari)
 - [Rirc](https://github.com/rcr/rirc) -  A terminal IRC client in C. [rcr.io/rirc](http://rcr.io/rirc/)
 - Quassel, HexChat, WeeChat, Konversation, XChat, Smuxi, Polari, KVIrc, ERC, : https://www.ubuntupit.com/top-20-best-irc-clients-for-linux-that-you-should-use-everyday/
-  #### IRC Terminal Clients
-  - [Birch](https://github.com/dylanaraps/birch) - An IRC client written in bash.
-  - [Irssi](https://irssi.org/) - vpowerful text-mode IRC client.
+    #### IRC Terminal Clients
+    - [Birch](https://github.com/dylanaraps/birch) - An IRC client written in bash.
+    - [Irssi](https://irssi.org/) - vpowerful text-mode IRC client.
   ### VoIP
   - [Mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software.
 
