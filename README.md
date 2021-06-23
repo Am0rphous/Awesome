@@ -26,6 +26,7 @@ _Freely accessing knowledge is an essential human right. Knowledge is the founda
 - [E-books](https://github.com/Am0rphous/Awesome/blob/master/README.md#e-books)
 - [Encryption](https://github.com/Am0rphous/Awesome/blob/master/README.md#encryption)
 - [Finance](https://github.com/Am0rphous/Awesome/blob/master/README.md#finance)
+- [Finding Software](https://github.com/Am0rphous/Awesome/blob/master/README.md#finding-software)
 - [Food and Drinks](https://github.com/Am0rphous/Awesome/blob/master/README.md#food-and-drinks)
 - [Games](https://github.com/Am0rphous/Awesome/blob/master/README.md#games)
 - [Geography](https://github.com/Am0rphous/Awesome/blob/master/README.md#geography)
@@ -49,22 +50,11 @@ _Freely accessing knowledge is an essential human right. Knowledge is the founda
   - [Nota Taking Apps](https://github.com/Am0rphous/Awesome/blob/master/README.md#nota-taking-apps)
   - [Office Tools](https://github.com/Am0rphous/Awesome/blob/master/README.md#office-tools)
   - [Security](https://github.com/Am0rphous/Awesome/blob/master/README.md#security)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- 
-
-
-
+- [Tools](https://github.com/Am0rphous/Awesome/blob/master/README.md#tools)
+  - [DVD-ripping](https://github.com/Am0rphous/Awesome/blob/master/README.md#dvd-ripping)
+  - [Hex](https://github.com/Am0rphous/Awesome/blob/master/README.md#hex)
+  - [Torrent](https://github.com/Am0rphous/Awesome/blob/master/README.md#torrent)
+    - [Streaming torrent](https://github.com/Am0rphous/Awesome/blob/master/README.md#streaming-torrent)
 
 ## Awesome entitled projects
 - [Awesome Azure Security](https://github.com/kmcquade/awesome-azure-security) - A curated list of awesome Microsoft Azure Security tools, guides, blogs, and other resources.
