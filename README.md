@@ -369,6 +369,13 @@ _Freely accessing knowledge is an essential human right. Knowledge is the founda
   sudo howdy disable 0            #enable it
   ````
 
+## Social Media
+- [Diaspora](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network.
+  ## Microblogging
+  - [Mastodon](https://github.com/tootsuite/mastodon) - Mastodon is a free, open-source social network server based on ActivityPub where users can follow friends and discover new ones. On Mastodon, users can publish anything they want: links, pictures, text, video. All Mastodon servers are interoperable as a federated network (users on one server can seamlessly communicate with users from another one, including non-Mastodon software that implements ActivityPub)!
+  - [Friendica](https://github.com/friendica/friendica) - Friendica Communications Platform.
+  ### Video Hosting
+
 ## Tools
 - [Napkin-text-analysis](https://github.com/adulau/napkin-text-analysis) - Napkin is a simple tool to produce statistical analysis of a text.
   ### DVD-ripping
