@@ -321,7 +321,8 @@ Various resources, personal notes etc. I find interesting.
 - [All AWESOME Linux Applications and Tools](https://www.fossmint.com/awesome-linux-software/)
 - [FossHub](https://www.fosshub.com/) - Free Open-Source Software
 - [Linux.softpedia.com](https://linux.softpedia.com)
-- [Linux App Finder](https://linuxappfinder.com/)
+- [Linux App Finder](https://linuxappfinder.com)
+- [pling.com](https://www.pling.com) - Pling.com is part of Opendesktop.org. It is the Store section, where creators can publish their libre products and content and get a small compensation each time a product is downloaded or media is viewed, limited on the amount of donations available for each section.
 
 ## Tools
 - [Napkin-text-analysis](https://github.com/adulau/napkin-text-analysis) - Napkin is a simple tool to produce statistical analysis of a text.
