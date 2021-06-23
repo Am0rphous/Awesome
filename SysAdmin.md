@@ -569,6 +569,7 @@ upstream_recursive_servers:
 - [cross-platform-terminal-characters](https://github.com/ehmicky/cross-platform-terminal-characters) - All the characters that work on most terminals and most operating systems.
 - [Gnome-Terminal](https://gitlab.gnome.org/GNOME/gnome-terminal) - Default in all major Linux distributions.
 - [Hyper](https://github.com/vercel/hyper) - A terminal built on web technologies. [www.hyper.is](https://hyper.is/)
+- [modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) - A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. [ohmyz.sh](https://ohmyz.sh/)
 - [Guake](https://github.com/Guake/guake) - Drop-down terminal for GNOME.
 - [Terminator](https://github.com/gnome-terminator/terminator) - Useful tool for arranging terminals.
