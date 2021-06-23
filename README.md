@@ -42,12 +42,13 @@ _Freely accessing knowledge is an essential human right. Knowledge is the founda
   - [IP-TV](https://github.com/Am0rphous/Awesome/blob/master/README.md#ip-tv)
   - [Music](https://github.com/Am0rphous/Awesome/blob/master/README.md#music)
   - [Sound Production](https://github.com/Am0rphous/Awesome/blob/master/README.md#sound-production)
-- [Music Apps](https://github.com/Am0rphous/Awesome/blob/master/README.md#music-apps)
-- []()
-- []()
-- []()
-- []()
-- []()
+    - [Music Apps](https://github.com/Am0rphous/Awesome/blob/master/README.md#music-apps)
+    - [Podcast]()
+- [News, RSS Feed](https://github.com/Am0rphous/Awesome/blob/master/README.md#news-rss-feed)
+- [Productivity Tools](https://github.com/Am0rphous/Awesome/blob/master/README.md#productivity-tools)
+  - [Nota Taking Apps](https://github.com/Am0rphous/Awesome/blob/master/README.md#nota-taking-apps)
+  - [Office Tools](https://github.com/Am0rphous/Awesome/blob/master/README.md#office-tools)
+  - [Security](https://github.com/Am0rphous/Awesome/blob/master/README.md#security)
 - []()
 - []()
 - []()
@@ -302,12 +303,12 @@ _Freely accessing knowledge is an essential human right. Knowledge is the founda
       - [Subsonic App List](http://www.subsonic.org/pages/apps.jsp)
     - [Ultrasonic](https://github.com/ultrasonic/ultrasonic) - Free and open-source music streaming Android client for Subsonic API compatible servers.
    
-    ### Sound Production
+    ##### Sound Production
     - [CubicSDR](https://github.com/cjcliffe/CubicSDR) - Cross-Platform Software-Defined Radio Application. [www.cubicsdr.com](http://www.cubicsdr.com/)
     - [Ardour](https://ardour.org/) - Record, Edit, and Mix on Linux, macOS and Windows
     - [Audacity](https://sourceforge.net/projects/audacity/)
     - [SoX - Sound eXchange](http://sox.sourceforge.net/Main/HomePage) - Swiss Army knife of sound processing programs. 
-      ### Music Apps
+      ###### Music Apps
       - [Great Little Radio Player](https://sites.google.com/view/greatlittleradioplayer/home)
       - [Guayadeque](https://github.com/anonbeat/Guayadeque) - music management program designed for all music enthusiasts. [guayadeque.org](http://www.guayadeque.org/)
       - [midomi.com](https://www.midomi.com/) - Online SoundHound alternative.
@@ -316,6 +317,11 @@ _Freely accessing knowledge is an essential human right. Knowledge is the founda
       - [Soundcleod](https://github.com/salomvary/soundcleod) - SoundCloud for macOS and Windows.
       - [Soundnode App](https://github.com/Soundnode/soundnode-app) - Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API. 
       - [Spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
+        - ####### Podcast
+         - [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts.
+         - [CPod](https://github.com/z-------------/CPod) - A simple, beautiful podcast app for Windows, macOS, and Linux.
+         - [Winds](https://github.com/getstream/winds/) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io.
+
 
 ## News, RSS Feed
 - [CyberSecurityRSS](https://github.com/zer0yu/CyberSecurityRSS) - CyberSecurityRSS: 优秀的网络安全知识来源 / A collection of cybersecurity rss to make you better!.
@@ -361,11 +367,6 @@ _Freely accessing knowledge is an essential human right. Knowledge is the founda
   sudo howdy disable 1            #disable it
   sudo howdy disable 0            #enable it
   ````
-
- ### Podcast
- - [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts.
- - [CPod](https://github.com/z-------------/CPod) - A simple, beautiful podcast app for Windows, macOS, and Linux.
- - [Winds](https://github.com/getstream/winds/) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io.
 
 ## Software
 - [All AWESOME Linux Applications and Tools](https://www.fossmint.com/awesome-linux-software/)
