@@ -39,6 +39,22 @@ _Freely accessing knowledge is an essential human right. Knowledge is the founda
   - [Video](https://github.com/Am0rphous/Awesome/blob/master/README.md#video)
   - [Media Servers](https://github.com/Am0rphous/Awesome/blob/master/README.md#media-servers)
     - [Docker](https://github.com/Am0rphous/Awesome/blob/master/README.md#docker)
+  - [IP-TV](https://github.com/Am0rphous/Awesome/blob/master/README.md#ip-tv)
+  - [Music](https://github.com/Am0rphous/Awesome/blob/master/README.md#music)
+  - [Sound Production](https://github.com/Am0rphous/Awesome/blob/master/README.md#sound-production)
+- [Music Apps](https://github.com/Am0rphous/Awesome/blob/master/README.md#music-apps)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 - []()
 - []()
 - []()
@@ -291,16 +307,15 @@ _Freely accessing knowledge is an essential human right. Knowledge is the founda
     - [Ardour](https://ardour.org/) - Record, Edit, and Mix on Linux, macOS and Windows
     - [Audacity](https://sourceforge.net/projects/audacity/)
     - [SoX - Sound eXchange](http://sox.sourceforge.net/Main/HomePage) - Swiss Army knife of sound processing programs. 
-
- ### Music Apps
-- [Great Little Radio Player](https://sites.google.com/view/greatlittleradioplayer/home)
-- [Guayadeque](https://github.com/anonbeat/Guayadeque) - music management program designed for all music enthusiasts. [guayadeque.org](http://www.guayadeque.org/)
-- [midomi.com](https://www.midomi.com/) - Online SoundHound alternative.
-- [Radio Tray](http://radiotray.sourceforge.net/) - online radio streaming player that runs on a Linux system tray.
-- [Shortwave](https://gitlab.gnome.org/World/Shortwave) - Find and listen to internet radio stations.
-- [Soundcleod](https://github.com/salomvary/soundcleod) - SoundCloud for macOS and Windows.
-- [Soundnode App](https://github.com/Soundnode/soundnode-app) - Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API. 
-- [Spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
+      ### Music Apps
+      - [Great Little Radio Player](https://sites.google.com/view/greatlittleradioplayer/home)
+      - [Guayadeque](https://github.com/anonbeat/Guayadeque) - music management program designed for all music enthusiasts. [guayadeque.org](http://www.guayadeque.org/)
+      - [midomi.com](https://www.midomi.com/) - Online SoundHound alternative.
+      - [Radio Tray](http://radiotray.sourceforge.net/) - online radio streaming player that runs on a Linux system tray.
+      - [Shortwave](https://gitlab.gnome.org/World/Shortwave) - Find and listen to internet radio stations.
+      - [Soundcleod](https://github.com/salomvary/soundcleod) - SoundCloud for macOS and Windows.
+      - [Soundnode App](https://github.com/Soundnode/soundnode-app) - Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API. 
+      - [Spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 
 ## News, RSS Feed
 - [CyberSecurityRSS](https://github.com/zer0yu/CyberSecurityRSS) - CyberSecurityRSS: 优秀的网络安全知识来源 / A collection of cybersecurity rss to make you better!.
