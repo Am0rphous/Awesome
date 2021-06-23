@@ -44,6 +44,7 @@
 
 ## Magic Mirror repos
 - [Alexyak's Camera Module](https://github.com/alexyak/camera) - _The camera module allows you to display a webcamera video feed on your MagicMirror._
+- [MagicMirror-Module-Template]() -This is a module to help developers to start building their own modules for the [MagicMirror](https://github.com/MichMich/MagicMirror).
 - [MM-Remote](https://github.com/Klettner/MM-Remote) - _Android app to control your MagicMirror via smartphone._
 - [MMM-3Day-Forecast](https://github.com/nigel-daniels/MMM-3Day-Forecast) - _MagicMirror 2 module to show detailed 3 day forcast using the Wunderground API._
 - [MMM-AVStock](https://github.com/lavolp3/MMM-AVStock) - _MagicMirror module for displaying stock price with Alphavantage API._
@@ -59,6 +60,7 @@
 - [MMM-GoogleCast](https://github.com/ferferga/MMM-GoogleCast) - _See what's playing in your Google Cast device inside your MagicMirror._
 - [MMM-Facial-Recognition](https://github.com/paviro/MMM-Facial-Recognition) - _This an extension for the MagicMirror. It provides facial recognition and module swapping based on the current user._
 - [MMM-ImageSlideshow](https://github.com/AdamMoses-GitHub/MMM-ImageSlideshow) - Displays images one-at-a-time from local folders.
+- [MMM-ImagesPhotos](https://github.com/roramirez/MMM-ImagesPhotos) - Show images and photos in your MagicMirror.
 - [MMM-MicrosoftToDo](https://github.com/thobach/MMM-MicrosoftToDo) - 3rd party module for MagicMirror that shows open tasks from task lists and allows to complete them as well. The tasks are retrieved from Microsoft To Do / Outlook.
 - [MMM-network-signal](https://github.com/PoOwAa/MMM-network-signal) - Display a solid wifi logo as network signal for MagicMirror2.
 - [MMM-NewPIR](https://github.com/bugsounet/MMM-NewPIR) - MagicMirror Action with PIR Sensor.
