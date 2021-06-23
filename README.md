@@ -23,9 +23,22 @@ _Freely accessing knowledge is an essential human right. Knowledge is the founda
     - [Nim](https://github.com/Am0rphous/Awesome/blob/master/README.md#nim)
     - [Node.js](https://github.com/Am0rphous/Awesome/blob/master/README.md#nodejs---open-source-and-cross-platform-javascript-runtime-environment)
     - [PHP](https://github.com/Am0rphous/Awesome/blob/master/README.md#php)
-- []()
-- []()
-- []()
+- [E-books](https://github.com/Am0rphous/Awesome/blob/master/README.md#e-books)
+- [Encryption](https://github.com/Am0rphous/Awesome/blob/master/README.md#encryption)
+- [Finance](https://github.com/Am0rphous/Awesome/blob/master/README.md#finance)
+- [Food and Drinks](https://github.com/Am0rphous/Awesome/blob/master/README.md#food-and-drinks)
+- [Games](https://github.com/Am0rphous/Awesome/blob/master/README.md#games)
+- [Geography](https://github.com/Am0rphous/Awesome/blob/master/README.md#geography)
+- [Hardware](https://github.com/Am0rphous/Awesome/blob/master/README.md#hardware)
+- [InfoSec](https://github.com/Am0rphous/Awesome/blob/master/README.md#infosec)
+- [Learning resources](https://github.com/Am0rphous/Awesome/blob/master/README.md#learning-resources)
+- [Looking for software, projects, courses or inspiration?](https://github.com/Am0rphous/Awesome/blob/master/README.md#looking-for-software-projects-courses-or-inspiration)
+- [Media](https://github.com/Am0rphous/Awesome/blob/master/README.md#media)
+  - [Image](https://github.com/Am0rphous/Awesome/blob/master/README.md#image)
+    - [Graphs and Diagrams](https://github.com/Am0rphous/Awesome/blob/master/README.md#graphs-and-diagrams)
+  - [Video](https://github.com/Am0rphous/Awesome/blob/master/README.md#video)
+  - [Media Servers](https://github.com/Am0rphous/Awesome/blob/master/README.md#media-servers)
+    - [Docker](https://github.com/Am0rphous/Awesome/blob/master/README.md#docker)
 - []()
 - []()
 - []()
@@ -256,29 +269,28 @@ _Freely accessing knowledge is an essential human right. Knowledge is the founda
      - [Omni](https://github.com/tidusjar/Ombi) - Want a Movie or TV Show on Plex or Emby? Use Ombi. [omni.io](https://ombi.io/)
      - [Telly](https://github.com/tellytv/telly) - IPTV proxy for Plex Live written in Golang.
    - [Snapcast](https://github.com/badaix/snapcast) - Snapcast is a multiroom client-server audio player, where all clients are time synchronized with the server to play perfectly synced audio. [Homepage Snapcast](https://mjaggard.github.io/snapcast/)
-
-   #### Docker
-   - [Couchpotato by Linuxserver](https://hub.docker.com/r/linuxserver/couchpotato/)
-   - [Docker-bazarr](https://github.com/linuxserver/docker-bazarr) - Bazarr is a companion application to Sonarr and Radarr. It can manage and download subtitles based on your requirements.
-   #### IP-TV
-   - [FreeTuxTV](https://github.com/freetuxtv/freetuxtv/) - FreetuxTV Internet television and radio player.
-   - [IPTV by iptv-org](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world.
-   - [IPTVx](https://github.com/jankammerath/iptvx) - IPTV player and streamer for Linux that allows to play any stream that LibVLC can play, offers an overlay based on WebKit using HTML5, JavaScript and CSS and uses XMLTV data for EPG information. It allows the playback of URLs, files and can grab URLs from shell scripts. XMLTV EPG data can be downloaded from URLs or grabbed from shell scripts. 
-   #### Music
-   - [AirSonic](https://github.com/airsonic/airsonic) - 📡 ☁️ 🎶Airsonic, a Free and Open Source community driven media server (fork of Subsonic and Libresonic).
-     - [Airsonic-Advanced](https://github.com/airsonic-advanced/airsonic-advanced) - modern implementation of the Airsonic fork with several key performance and feature enhancements.
-     - [Airsonic Frontend](https://github.com/tamland/airsonic-frontend) - Modern UI for Airsonic / Subsonic.
-   - [Gonic](https://github.com/sentriz/gonic) - Music streaming server / subsonic server API implementation.
-   - [Icecast-Server](https://gitlab.xiph.org/xiph/icecast-server) - Icecast streaming media server.
-   - [Subsonic](http://www.subsonic.org/pages/index.jsp) - Music streaming server.
-     - [Subsonic App List](http://www.subsonic.org/pages/apps.jsp)
-   - [Ultrasonic](https://github.com/ultrasonic/ultrasonic) - Free and open-source music streaming Android client for Subsonic API compatible servers.
+    #### Docker
+    - [Couchpotato by Linuxserver](https://hub.docker.com/r/linuxserver/couchpotato/)
+    - [Docker-bazarr](https://github.com/linuxserver/docker-bazarr) - Bazarr is a companion application to Sonarr and Radarr. It can manage and download subtitles based on your requirements.
+    #### IP-TV
+    - [FreeTuxTV](https://github.com/freetuxtv/freetuxtv/) - FreetuxTV Internet television and radio player.
+    - [IPTV by iptv-org](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world.
+    - [IPTVx](https://github.com/jankammerath/iptvx) - IPTV player and streamer for Linux that allows to play any stream that LibVLC can play, offers an overlay based on WebKit using HTML5, JavaScript and CSS and uses XMLTV data for EPG information. It allows the playback of URLs, files and can grab URLs from shell scripts. XMLTV EPG data can be downloaded from URLs or grabbed from shell scripts. 
+    #### Music
+    - [AirSonic](https://github.com/airsonic/airsonic) - 📡 ☁️ 🎶Airsonic, a Free and Open Source community driven media server (fork of Subsonic and Libresonic).
+      - [Airsonic-Advanced](https://github.com/airsonic-advanced/airsonic-advanced) - modern implementation of the Airsonic fork with several key performance and feature enhancements.
+      - [Airsonic Frontend](https://github.com/tamland/airsonic-frontend) - Modern UI for Airsonic / Subsonic.
+    - [Gonic](https://github.com/sentriz/gonic) - Music streaming server / subsonic server API implementation.
+    - [Icecast-Server](https://gitlab.xiph.org/xiph/icecast-server) - Icecast streaming media server.
+    - [Subsonic](http://www.subsonic.org/pages/index.jsp) - Music streaming server.
+      - [Subsonic App List](http://www.subsonic.org/pages/apps.jsp)
+    - [Ultrasonic](https://github.com/ultrasonic/ultrasonic) - Free and open-source music streaming Android client for Subsonic API compatible servers.
    
-  ### Sound Production
-  - [CubicSDR](https://github.com/cjcliffe/CubicSDR) - Cross-Platform Software-Defined Radio Application. [www.cubicsdr.com](http://www.cubicsdr.com/)
-  - [Ardour](https://ardour.org/) - Record, Edit, and Mix on Linux, macOS and Windows
-  - [Audacity](https://sourceforge.net/projects/audacity/)
-  - [SoX - Sound eXchange](http://sox.sourceforge.net/Main/HomePage) - Swiss Army knife of sound processing programs. 
+    ### Sound Production
+    - [CubicSDR](https://github.com/cjcliffe/CubicSDR) - Cross-Platform Software-Defined Radio Application. [www.cubicsdr.com](http://www.cubicsdr.com/)
+    - [Ardour](https://ardour.org/) - Record, Edit, and Mix on Linux, macOS and Windows
+    - [Audacity](https://sourceforge.net/projects/audacity/)
+    - [SoX - Sound eXchange](http://sox.sourceforge.net/Main/HomePage) - Swiss Army knife of sound processing programs. 
 
  ### Music Apps
 - [Great Little Radio Player](https://sites.google.com/view/greatlittleradioplayer/home)
