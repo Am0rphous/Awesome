@@ -3,13 +3,8 @@
 
 _Freely accessing knowledge is an essential human right. Knowledge is the foundation for human potential, freedom and opportunity and everyone should have access to knowledge for free, without any restriction or limitation._ - [linuxbabe.com](https://www.linuxbabe.com/)
 
-Various resources, personal notes etc. I find interesting.
 
-- https://github.com/D00MFist/security
-- https://github.com/AryToNeX/Glasscord
-- https://www.findbestopensource.com/projects
-
-- []()
+- [Awesome entitled projects](https://github.com/Am0rphous/Awesome/blob/master/README.md#awesome-entitled-projects)
 - [Communication](https://github.com/Am0rphous/Awesome/blob/master/README.md#communication)
   - [E-mail](https://github.com/Am0rphous/Awesome/blob/master/README.md#e-mail)
   - [IRC](https://github.com/Am0rphous/Awesome/blob/master/README.md#irc)
