@@ -170,6 +170,7 @@ _Freely accessing knowledge is an essential human right. Knowledge is the founda
   - [KDevelop](https://github.com/KDE/kdevelop) - Cross-platform IDE for C, C++, Python, QML/JavaScript and PHP.
     #### Electron
     - [Awesome Electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron.
+    - [Glasstron](https://github.com/AryToNeX/Glasstron) - The go-to solution to Electron composition effects, such as blurry windows.
     #### HTML
     - [HEAD](https://github.com/joshbuchea/HEAD) - 🗿 A list of everything that *could* go in the head of your document.
     #### JavaScript
@@ -240,6 +241,7 @@ _Freely accessing knowledge is an essential human right. Knowledge is the founda
 ## Looking for software, projects, courses or inspiration?
 - [Ail-framework](https://github.com/ail-project/ail-framework) - Analysis Information Leak framework.
 - [FeatHub](https://feathub.com)
+- [www.findbestopensource.com/projects](https://www.findbestopensource.com/projects)
 - [Electronjs.org/apps](https://www.electronjs.org/apps)
 - [GitHunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub. [Hunt Online](https://kamranahmed.info/githunt)
 - [Gitstar Ranking](https://gitstar-ranking.com) - Unofficial GitHub star ranking for users, organizations and repositories.
