@@ -165,9 +165,10 @@ _Freely accessing knowledge is an essential human right. Knowledge is the founda
   - [Fontawesome.com's icons](https://fontawesome.com/v4.7/icons/)
   - [Icon](https://github.com/bung87/icon) - Icon file generator for Windows, macOS, Web.
   - [Npm-icon-gen](https://github.com/akabekobeko/npm-icon-gen) - Icon file generator for Windows, macOS, Web.
-
   ### Programming
   - [KDevelop](https://github.com/KDE/kdevelop) - Cross-platform IDE for C, C++, Python, QML/JavaScript and PHP.
+    #### Electron
+    - [Awesome Electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron.
     #### HTML
     - [HEAD](https://github.com/joshbuchea/HEAD) - 🗿 A list of everything that *could* go in the head of your document.
     #### JavaScript
