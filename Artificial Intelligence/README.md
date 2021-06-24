@@ -36,3 +36,7 @@ Note: https://favouriteblog.com/50-best-github-artificial-intelligence/
 - [Tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone.
 - [FaceRank](https://github.com/fendouai/FaceRank) - FaceRank - Rank Face by CNN Model based on TensorFlow (add keras version). FaceRank-人脸打分基于 TensorFlow (新增 Keras 版本) 的 CNN 模型（QQ群：167122861）。技术支持：[http://tensorflow123.com](http://tensorflow123.com).
 
+## Text Analysis
+- [fastText](https://github.com/facebookresearch/fastText) -  Library for fast text representation and classification.
+- [Napkin-text-analysis](https://github.com/adulau/napkin-text-analysis) - Napkin is a simple tool to produce statistical analysis of a text.
+
