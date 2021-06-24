@@ -102,6 +102,7 @@ _Freely accessing knowledge is an essential human right. Knowledge is the founda
       - [Message Filters](http://kb.mozillazine.org/Filters_(Thunderbird)#Creating_and_editing_filters)
       - [How can I get Thunderbird to read msgFilterRules.dat?](https://support.mozilla.org/en-US/questions/1269514)
       - [Owl for Exchange](https://addons.thunderbird.net/thunderbird/addon/owl-for-exchange/?src=search) - Allows you to use your Exchange email accounts that use Outlook Web Access (OWA) with Thunderbird [beonex.com/owl](https://www.beonex.com/owl).
+      - [Profiles - Where Thunderbird stores your messages and other user data](https://support.mozilla.org/en-US/kb/profiles-where-thunderbird-stores-user-data?redirectslug=profiles-tb&redirectlocale=en-US)
       - [Just Report It](https://addons.thunderbird.net/thunderbird/addon/just-report-it/?src=cb-dl-recentlyadded) - Just Report It (https://justreport.it) is an email plugin which tackles spam the right way. Report emails straight to SpamCop, the Registrar, a custom email address or any combination in between!
   ### IRC
 - [Kirc](https://github.com/mcpcpc/kirc) -  A tiny IRC client written in POSIX C99.
