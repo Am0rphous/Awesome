@@ -338,6 +338,8 @@ _Freely accessing knowledge is an essential human right. Knowledge is the founda
 - [HDFM](https://github.com/KYDronePilot/hdfm) - A program that displays weather and traffic maps received from NRSC-5 (HDFM) radio station.
 - [HTML5 Binary Clock](https://github.com/AE0L/html5-binary-clock) - Binary Clock written in HTML5, CSS3, and Vanilla JS.
 - [KOrganizer](https://github.com/KDE/korganizer) - Organizational assistant, providing calendars and other similar functionality.
+- [Open-event-frontend](https://github.com/fossasia/open-event-frontend) - The frontend for the Open Event API Server
+- [Open-event-server](https://github.com/fossasia/open-event-server) - The Open Event Organizer Server to Manage Events http://open-event-api.herokuapp.com
 - [Pomatez](https://github.com/roldanjr/pomatez) - Stay Focused. Take a Break.
 - RedShift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings
 - [Tui.calendar](https://github.com/nhn/tui.calendar) - JavaScript calendar that has everything you need.
