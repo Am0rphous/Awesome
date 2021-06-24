@@ -388,7 +388,6 @@ _Freely accessing knowledge is an essential human right. Knowledge is the founda
   - [PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser.
 
 ## Tools
-- [Napkin-text-analysis](https://github.com/adulau/napkin-text-analysis) - Napkin is a simple tool to produce statistical analysis of a text.
   ### DVD-ripping
   - [Asunder](http://littlesvr.ca/asunder/) - Asunder is a graphical Audio CD ripper and encoder for Linux. You can use it to save tracks from an Audio CD as any of WAV, MP3, OGG, FLAC, Opus, WavPack, Musepack, AAC, and Monkey's Audio files.
   ### Hex
