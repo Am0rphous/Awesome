@@ -754,9 +754,13 @@ upstream_recursive_servers:
 - [Squid]()
   - [SquidGuard](http://www.squidguard.org)
 - Wordpress
+  - [Automattic's Free Themes](https://github.com/Automattic/themes) - WordPress.com themes.
+  - [Calypso](https://github.com/Automattic/wp-calypso) - The JavaScript and API powered WordPress.com. [developer.wordpress.com/calypso/](https://developer.wordpress.com/calypso/)
   - [Elementor](https://elementor.com) - The World's Leading WordPress Website Builder.
   - [GamiPress](https://gamipress.com) - GamiPress lets you award your users with digital rewards for interacting with your WordPress website.
+  - [Jetpack](https://github.com/Automattic/jetpack) - Security, performance, marketing, and design tools — Jetpack is made by WordPress experts to make WP sites safer and faster, and help you grow your traffic.
   - [Wordpress Comment Blacklist](https://github.com/splorp/wordpress-comment-blacklist) - A simple solution for WordPress comment spam.
+  - [WP-Desktop](https://github.com/Automattic/wp-desktop) - WordPress.com for Desktop.
 
   ### Web Hosting Services worth checking out
   - [000webhost.com](https://www.000webhost.com)
