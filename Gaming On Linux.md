@@ -1,7 +1,8 @@
 # Gaming
-- [www.gamingonlinux.com](https://www.gamingonlinux.com/)
+- [gamingonlinux.com](https://www.gamingonlinux.com/)
 - [Hardware for Linux Trends](https://linux-hardware.org/?view=trends)
   - [Github repo - Trends in Hardware](https://github.com/linuxhw/Trends)
+  - [PCI passthrough via OVMF](https://wiki.archlinux.org/title/PCI_passthrough_via_OVMF) - Arch wiki
 
 ## Peripherals
 - [AntiMicro](https://github.com/AntiMicro/antimicro) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
