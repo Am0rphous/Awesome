@@ -376,6 +376,7 @@ _Freely accessing knowledge is an essential human right. Knowledge is the founda
 
 ## Social Media
 - [Diaspora](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network.
+- [Ramme](https://github.com/terkelg/ramme) - **(Archived)** Unofficial Instagram Desktop App. 
   ### Image Hosting
   - [PixelFed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
   
