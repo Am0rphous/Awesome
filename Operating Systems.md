@@ -64,6 +64,7 @@
 - [Garuda Linux](https://garudalinux.org)
 - [KDE Neon](https://neon.kde.org)
 - [KDE Plasma](https://kde.org)
+- [Linux Lite](https://www.linuxliteos.com/) - Based on Debian and Ubuntu. Lightweigth OS. Perfect OS if you want to go from Windows to a Windows-like OS but want it to be Linux.
 - [Manjaro](https://manjaro.org)
 - [MX Linux](https://mxlinux.org) - Midweight Simple Stable Desktop OS.
 - [Nitrux OS](https://nxos.org)
