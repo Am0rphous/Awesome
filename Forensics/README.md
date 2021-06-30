@@ -140,6 +140,9 @@ Description: The Portable Executable format is a file format for executables, ob
 - [Aes-finder](https://github.com/mmozeiko/aes-finder) - Utility to find AES keys in running processes.
 - [Process Dump (Windows))](https://github.com/glmcdona/Process-Dump) - Windows tool for dumping malware PE files from memory back to disk for analysis. 
 
+## Recover deletes files
+- [Recoverpy](https://github.com/PabloLec/recoverpy) - A TUI to recover overwritten or deleted data.
+
 ## Static Analysis
 - [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 
