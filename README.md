@@ -269,6 +269,7 @@ _Freely accessing knowledge is an essential human right. Knowledge is the founda
    - [cloud.smartdraw.com](https://cloud.smartdraw.com)
    - [Drawio Desktop](https://github.com/jgraph/drawio-desktop) - drawio-desktop is a diagrams.net desktop app based on Electron.
      - [Drawio - app.diagrams.net](https://app.diagrams.net) - diagrams.net is open source, online, desktop and container deployable diagramming software.
+   - [ExcaliDraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams.
    - [Gephi - The Open Graph Viz Platform](https://github.com/gephi/gephi) - award-winning open-source platform for visualizing and manipulating large graphs. For Linux, Mac and Windows.
    - [yEd Graph Editor](https://www.yworks.com/products/yed) - powerful desktop application that can be used to quickly and effectively generate high-quality diagrams.
 
