@@ -154,6 +154,7 @@ _Freely accessing knowledge is an essential human right. Knowledge is the founda
 - [INGInious](https://github.com/UCL-INGI/INGInious) - INGInious is a secure and automated exercises assessment platform using your own tests, also providing a pluggable interface with your existing LMS.
   - [INGInious plugins](https://github.com/UCL-INGI/INGInious-plugins) - A list of open-source plugins for your INGInious instance.
 - [Jupyter Notebook](https://github.com/jupyter/notebook) - web-based notebook environment for interactive computing.
+- [Prompts](https://github.com/terkelg/prompts#selectmessage-choices-initial-hint-warn) - ❯ Lightweight, beautiful and user-friendly interactive prompts.
 - [PyCharm](https://www.jetbrains.com/pycharm) - Python IDE for Professional Developers.
 - [Socket.io](https://github.com/socketio/socket.io) - _Realtime application framework (Node.JS server)._
   - [Socket.io-client](https://github.com/socketio/socket.io-client) - _Realtime application framework (client)._
