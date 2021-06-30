@@ -2,6 +2,11 @@
 - [Hardware for Linux Trends](https://linux-hardware.org/?view=trends)
   - [Github repo - Trends in Hardware](https://github.com/linuxhw/Trends)
 
+## Peripherals
+- [AntiMicro](https://github.com/AntiMicro/antimicro) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
+- [CKB](https://github.com/ccMSC/ckb) - RGB Driver for Linux and OS X.
+- [Piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices.
+
 ## OS dedicated for gaming
 - [SteamOS](https://store.steampowered.com/steamos) - SteamOS is the primary operating system for the Steam Machine gaming platform by Valve. It is based on the Debian distribution of Linux.
 
