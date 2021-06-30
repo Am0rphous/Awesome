@@ -347,11 +347,12 @@ _Freely accessing knowledge is an essential human right. Knowledge is the founda
 - [Pomatez](https://github.com/roldanjr/pomatez) - Stay Focused. Take a Break.
 - RedShift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings
 - [Tui.calendar](https://github.com/nhn/tui.calendar) - JavaScript calendar that has everything you need.
-  ### Nota Taking Apps
+  ### Note Taking Apps
   - [Ao](https://github.com/klaussinani/ao) - Elegant Microsoft To-Do desktop app [klaussinani.github.io/ao](https://klaussinani.github.io/ao).
   - [Joplin](https://github.com/laurent22/joplin) - An open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: [discourse.joplinapp.org](https://discourse.joplinapp.org)
   - [MindNode](https://mindnode.com/download) - brainstorm and mind mapping.
     - [Dracula for MindNode](https://github.com/dracula/mindnode) - Dark theme for MindNode.
+  - [Simplenote for Electron](https://github.com/Automattic/simplenote-electron) - Simplenote for Web, Windows, and Linux.
   - [Notion](https://www.notion.so) - All-in-one workspace.
   - [Taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
     - [How to Manage Your Tasks in the Terminal with Taskbook](https://www.maketecheasier.com/manage-tasks-in-terminal-with-taskbook/)
