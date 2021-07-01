@@ -21,6 +21,15 @@
 - [Soundnode](https://www.soundnodeapp.com) - An opensource SoundCloud app for Desktop.
 - [Vox](https://vox.rocks/) - Premium Mac Music Player for Hi-Res music through the popular sources.
 
+## Network
+- [LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall.
+  - Install with `brew install lulu`
+  ### Proxy
+  - [clashX](https://github.com/yichengchen/clashX) - A rule based proxy For Mac base on Clash.
+  - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX.
+  ### Security
+  - [ReiKey](https://github.com/objective-see/ReiKey) - Malware and other applications may install persistent keyboard "event taps" to intercept your keystrokes. ReiKey can scan, detect, and monitor for such taps!
+
 ## Tools
 - [Eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
 - [Java](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html) - Go and download the .dmg file and follow instructions.
