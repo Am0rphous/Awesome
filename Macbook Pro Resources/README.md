@@ -12,7 +12,10 @@
 - [ThunderBird](https://www.thunderbird.net)
   #### IRC
   - [LimeChat](http://github.com/psychs/limechat) - IRC Client for Mac. [limechat.net/mac](http://limechat.net/mac)
-  
+
+## Monitoring
+- [ProcessMonitor](https://github.com/objective-see/ProcessMonitor) - Process Monitor Library (based on Apple's new Endpoint Security Framework.
+
 ## Music
 - [Beardedspice](https://github.com/beardedspice/beardedspice) - Mac Media Keys for the Masses.
 - [Cumulus](https://github.com/gillesdemey/Cumulus) - ☁️ A SoundCloud player that lives in your menubar.
