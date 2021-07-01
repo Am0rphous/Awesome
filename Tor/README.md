@@ -50,6 +50,7 @@ onionshare-cli --receive --persistent ~/anon-dropbox.session --public        # s
 
 ## Resources
 - [DEEP_WEB_LINKS_COLLECTION.md](https://gist.github.com/vyach-vasiliev/045af4c70cf2ed35c6091b4705093017)
+- [Eschalot](https://github.com/ReclaimYourPrivacy/eschalot) - It is important to stress that we have not written this piece of software (see LICENSE).
 - [Fresh Onions TOR Hidden Service Crawler](https://github.com/dirtyfilthy/freshonions-torscraper) - Fresh Onions is an open source TOR spider / hidden service onion crawler hosted at zlal32teyptf4tvi.onion.
 - [Hosting](https://github.com/DanWin/hosting) - Setup for a Tor based shared web hosting server.
 - [Multitor](https://github.com/trimstray/multitor) -  Create multiple TOR instances with a load-balancing.
