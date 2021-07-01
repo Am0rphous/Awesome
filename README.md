@@ -346,7 +346,8 @@ _Freely accessing knowledge is an essential human right. Knowledge is the founda
 - [Open-event-frontend](https://github.com/fossasia/open-event-frontend) - The frontend for the Open Event API Server
 - [Open-event-server](https://github.com/fossasia/open-event-server) - The Open Event Organizer Server to Manage Events http://open-event-api.herokuapp.com
 - [Pomatez](https://github.com/roldanjr/pomatez) - Stay Focused. Take a Break.
-- RedShift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings
+- RedShift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings.
+- [Touchégg](https://github.com/JoseExposito/touchegg) - Linux multi-touch gesture recognizer. Touchégg is an app that runs in the background and transform the gestures you make on your touchpad or touchscreen into visible actions in your desktop.
 - [Tui.calendar](https://github.com/nhn/tui.calendar) - JavaScript calendar that has everything you need.
   ### Note Taking Apps
   - [Ao](https://github.com/klaussinani/ao) - Elegant Microsoft To-Do desktop app [klaussinani.github.io/ao](https://klaussinani.github.io/ao).
