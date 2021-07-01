@@ -348,6 +348,7 @@ _Freely accessing knowledge is an essential human right. Knowledge is the founda
 - [Pomatez](https://github.com/roldanjr/pomatez) - Stay Focused. Take a Break.
 - RedShift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings.
 - [Touchégg](https://github.com/JoseExposito/touchegg) - Linux multi-touch gesture recognizer. Touchégg is an app that runs in the background and transform the gestures you make on your touchpad or touchscreen into visible actions in your desktop.
+  - [Touché](https://github.com/JoseExposito/touche) - The desktop application to configure Touchégg.
 - [Tui.calendar](https://github.com/nhn/tui.calendar) - JavaScript calendar that has everything you need.
   ### Note Taking Apps
   - [Ao](https://github.com/klaussinani/ao) - Elegant Microsoft To-Do desktop app [klaussinani.github.io/ao](https://klaussinani.github.io/ao).
