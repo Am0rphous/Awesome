@@ -113,8 +113,12 @@
  ### Operatingsystems for gaming
    - [Batocera.linux](https://github.com/batocera-linux/batocera.linux) - [www.batocera.org](https://batocera.org)
    - [Lakka](https://github.com/libretro/Lakka-LibreELEC) - Lakka is a lightweight Linux distribution that transforms a small computer into a full blown retrogaming console [lakka.tv](http://www.lakka.tv).
-   - [Retro Arch](https://github.com/libretro/RetroArch) - RetroArch is a frontend for emulators, game engines and media players [www.retroarch.com](https://www.retroarch.com).
+   - [RetroArch](https://github.com/libretro/RetroArch) - RetroArch is a frontend for emulators, game engines and media players [www.retroarch.com](https://www.retroarch.com).
+     - Install it as a snap package with `sudo snap install retroarch`
    - [RetroPie](https://retropie.org.uk/) - RetroPie allows you to turn your Raspberry Pi, ODroid C1/C2, or PC into a retro-gaming machine [RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup).
+     ## Gaming Software
+     - [dosbox / dosbox-staging](https://github.com/dosbox-staging/dosbox-staging) - DOS/x86 emulator focusing on ease of use.
+       - Install with `sudo apt install dosbox`
 
 ## Projects
 - [AmpliPi](https://github.com/micro-nova/AmpliPi) - Whole House Audio System 🔊
@@ -127,7 +131,4 @@
 ## Software for the Raspberry
 - [Mjpg-streamer](https://github.com/jacksonliam/mjpg-streamer) - Fork of http://sourceforge.net/projects/mjpg-streamer. Mjpg-streamer is a command line application that copies JPEG frames from one or more input plugins to multiple output plugins. It can be used to stream JPEG files over an IP-based network from a webcam to various types of viewers such as Chrome, Firefox, Cambozola, VLC, mplayer, and other software capable of receiving MJPG streams.
 - [XBian](https://github.com/xbianonpi/xbian) - _XBMC on Raspberry Pi, Bleeding Edge [xbian.org](https://xbian.org)._
-
-
-
 
