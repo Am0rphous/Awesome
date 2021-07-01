@@ -61,6 +61,7 @@ _Freely accessing knowledge is an essential human right. Knowledge is the founda
 - [Awesome Azure Security](https://github.com/kmcquade/awesome-azure-security) - A curated list of awesome Microsoft Azure Security tools, guides, blogs, and other resources.
 - [Awesome Cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - 🍻 awesome cheatsheet.
 - [Awesome CLI](https://github.com/umutphp/awesome-cli) - A simple command line tool to give you a fancy command line interface to dive into Awesome lists.
+- [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [Awesome cve poc](https://github.com/qazbnm456/awesome-cve-poc) - A curated list of CVE PoCs.
 - [Awesome Cyber Security](https://github.com/alphaSeclab/awesome-cyber-security) - Currently contains 8000+ open source repositories, and not very well classified. 
 - [Awesome Design](https://github.com/gztchan/awesome-design) - Curated design resources.
