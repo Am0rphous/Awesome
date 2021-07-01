@@ -28,6 +28,7 @@
   - [clashX](https://github.com/yichengchen/clashX) - A rule based proxy For Mac base on Clash.
   - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX.
   ### Security
+  - [DoNotDisturb](https://github.com/objective-see/DoNotDisturb) - Detect Evil Maid Attacks. 'Do Not Disturb' (DnD) is a free open-source security tool for macOS that aims to detect unauthorized physical access to your laptop!
   - [ReiKey](https://github.com/objective-see/ReiKey) - Malware and other applications may install persistent keyboard "event taps" to intercept your keystrokes. ReiKey can scan, detect, and monitor for such taps!
 
 ## Tools
