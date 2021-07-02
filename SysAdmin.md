@@ -215,6 +215,8 @@ bro / zeek
 - [Darkwire.io] - _End-to-end encrypted instant web chat [darkwire.io](https://darkwire.io)._
 - [HexChat](https://github.com/hexchat/hexchat) - IRC client for Windows and UNIX-like operating systems [hexchat.github.io](https://hexchat.github.io)
 - [Jitsi Meet](https://github.com/jitsi/jitsi-meet) - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+  - [Jibri](https://github.com/jitsi/jibri) - Jitsi BRoadcasting Infrastructure. Jibri provides services for recording or streaming a Jitsi Meet conference.
+  - [Set Up Jibri for Jitsi Recording/Streaming](https://nerdonthestreet.com/s/15) - This tutorial will demonstrate how to install Jibri to add recording and streaming functionality to a Jitsi Meet server.
 - [Kiwi IRC](https://kiwiirc.com)
 - [Mattermost](https://mattermost.com)
   - [Mattermost Desktop Client](https://github.com/mattermost/desktop)
