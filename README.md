@@ -406,6 +406,7 @@ _Freely accessing knowledge is an essential human right. Knowledge is the founda
   - [ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
   - [vxHexEditor](https://github.com/EUA/wxHexEditor) - [www.wxhexeditor.org](http://www.wxhexeditor.org/)
   ### Torrent
+  - [Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
   - [qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client [www.qbittorrent.org](https://www.qbittorrent.org).
     ### Streaming torrent
     - [https://torrent.express](https://torrent.express)
