@@ -626,6 +626,7 @@ upstream_recursive_servers:
  - [Git For Windows](https://github.com/git-for-windows/git) - [https://gitforwindows.org](https://gitforwindows.org)
   - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) - Dynamically generated stats for your github readmes.
 - [KDU (Windows)](https://github.com/hfiref0x/KDU) - Kernel Driver Utility.
+- [RHash](https://github.com/rhash/RHash) - Great utility for computing hash sums.
 - [RipGrep-All](https://github.com/phiresky/ripgrep-all) - search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [USBUtils](https://github.com/gregkh/usbutils) - USB utilities for Linux, including lsusb.
   - [LsUSB](https://github.com/linuxhw/LsUSB) - Most popular USB devices and lsusb reports.
