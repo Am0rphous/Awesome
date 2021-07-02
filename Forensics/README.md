@@ -89,6 +89,7 @@
 ## Memory Forensics
 - [FireEye Redline](https://www.fireeye.com/services/freeware/redline.html) -  free endpoint security tool, provides host investigative capabilities to users to find signs of malicious activity through memory and file analysis and the development of a threat assessment profile.
 - [LiME](https://github.com/504ensicsLabs/LiME) - LiME (or Linux Memory Extractor) is a tool that allows the capture of volatile memory (RAM) from a running Linux device.
+- [Memscan](https://github.com/angusshire/memscan) - memscan is a command line utility for scanning a user-mode process's memory. It is compatible with 64-bit Windows, and will not work on 32-bit Windows. For speed, the scan does not support non-aligned addresses.
 - [PCILeech](https://github.com/ufrisk/pcileech) - Direct Memory Access (DMA) Attack Software.
 - [Rekalll Memory Forensics Framework](https://github.com/google/rekall) - The Rekall Framework is a completely open collection of tools, implemented in Python under the Apache and GNU General Public License, for the extraction and analysis of digital artifacts computer systems.
   - [Rekall Memory Forensics with Michael Cohen (Google)](https://digital-forensics.sans.org/summit-archives/dfirprague14/Rekall_Memory_Forensics_Michael_Cohen.pdf)
