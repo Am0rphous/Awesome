@@ -18,7 +18,8 @@ https://github.com/WebAssembly/wabt
 - [ApkUrlGrep](https://github.com/ndelphit/apkurlgrep) - Extract endpoints from APK files.
 - [ApkVuln](https://github.com/Josue87/apkvuln) - Static analysis of APKs with regular expressions.
 - [calabash-android](https://github.com/calabash/calabash-android) -  Automated Functional testing for Android using cucumber.
-- [Diggy](https://github.com/s0md3v/Diggy) - Extract endpoints from apk files. 
+- [Diggy](https://github.com/s0md3v/Diggy) - Extract endpoints from apk files.
+- [JByteMod-Beta](https://github.com/GraxCode/JByteMod-Beta) - JByteMod is a multifunctional bytecode editor with syntax highlighting and live decompiling and method graphing. The successor of JByteMod: https://github.com/GraxCode/Cafebabe
 - [Keyfinder](https://github.com/CERTCC/keyfinder) - A tool for finding and analyzing private (and public) key files, including support for Android APK files.
 - [Repeato](https://www.repeato.app) - Painless Android UI testing via record & play.
 
