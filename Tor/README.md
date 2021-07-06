@@ -2,6 +2,7 @@
 
 - [How can I setup Bitcoin to be anonymous with Tor?](https://bitcoin.stackexchange.com/questions/70069/how-can-i-setup-bitcoin-to-be-anonymous-with-tor)
 - [tor-proxy](https://github.com/Narasimha1997/tor-proxy) - An experimental Tor-Proxy serivce written in Go using Go-proxy and Go-libtor.
+- [Tor Flow Chart](tps://torflow.uncharted.software)
 
 ## Setup
 - [www.torproject.org/download/](https://www.torproject.org/download/)
