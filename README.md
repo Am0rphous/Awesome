@@ -315,6 +315,7 @@ _Freely accessing knowledge is an essential human right. Knowledge is the founda
     - [Audacity](https://sourceforge.net/projects/audacity/)
     - [SoX - Sound eXchange](http://sox.sourceforge.net/Main/HomePage) - Swiss Army knife of sound processing programs. 
       ###### Music Apps
+      - [Auryo](https://github.com/Superjo149/auryo/) - Unofficial Soundcloud Desktop App.
       - [Great Little Radio Player](https://sites.google.com/view/greatlittleradioplayer/home)
       - [Guayadeque](https://github.com/anonbeat/Guayadeque) - music management program designed for all music enthusiasts. [guayadeque.org](http://www.guayadeque.org/)
       - [midomi.com](https://www.midomi.com/) - Online SoundHound alternative.
