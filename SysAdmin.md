@@ -131,6 +131,7 @@ bro / zeek
   ````
 - [ClamAV](https://www.clamav.net) - ClamAV® is an open source antivirus engine for detecting trojans, viruses, malware & other malicious threats.
   - [ClamAV Documentation](https://github.com/Cisco-Talos/clamav-faq)
+  - [ClamAVscan](https://github.com/crash0ver1d3/ClamAVscan/blob/master/USB_01_autoscan) - Utilizing ClamAV, automatically scan USB drive for virus or malware, once mounted to a Raspberry Pi, or Linux device.
   - [ClamTk](https://github.com/dave-theunsub/clamtk) - An easy to use, light-weight, on-demand virus scanner for Linux systems.
   ````
   sudo apt install clamav clamav-daemon mailutils -y
