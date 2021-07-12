@@ -469,6 +469,7 @@ upstream_recursive_servers:
       - [Tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. [Tailscale.com](https://www.tailscale.com)
       - [Tinc VPN](https://tinc-vpn.org/) - Tinc is an open-source, self-routing, mesh networking protocol and software implementation used for compressed and encrypted virtual private networks. 
         - [How to install tinc VPN on Ubuntu Linux 16.04 LTS](https://www.cyberciti.biz/faq/how-to-install-tinc-vpn-on-ubuntu-linux-16-04-to-secure-traffic/)
+      - [Macos-menubar-wireguard](https://github.com/aequitas/macos-menubar-wireguard) - macOS menubar icon for WireGuard/wg-quick.
       - [Ubuntu 20.04 set up WireGuard VPN server](https://www.cyberciti.biz/faq/ubuntu-20-04-set-up-wireguard-vpn-server/)
       - [Wireguard-macOS-LinuxVM](https://github.com/mrash/Wireguard-macOS-LinuxVM) -  Send all traffic from macOS through Wireguard running on a Linux VM.
 
