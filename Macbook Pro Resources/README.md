@@ -4,6 +4,7 @@
 - [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
 - [Awesome macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
 - [Awesome macOS open source applications by  serhii-londar](https://github.com/serhii-londar/open-source-mac-os-apps)
+- [Cmatrix](https://github.com/levithomason/cmatrix) - The original Matrix effect for your Mac terminal.
 - [Download-BigSur](https://github.com/chris1111/Download-BigSur) - Simple macOS Appplication for downloading macOS Big Sur 11.
 - [Mac Apps](https://github.com/jeffreyjackson/mac-apps)
 
