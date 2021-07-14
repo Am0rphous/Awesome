@@ -49,7 +49,7 @@ onionshare-cli --chat                                                        # s
 onionshare-cli --receive --persistent ~/anon-dropbox.session --public        # start a persistent anonymous dropbox
 ````
 
-## Resources
+## Useful Resources
 - [DEEP_WEB_LINKS_COLLECTION.md](https://gist.github.com/vyach-vasiliev/045af4c70cf2ed35c6091b4705093017)
 - [Eschalot](https://github.com/ReclaimYourPrivacy/eschalot) - It is important to stress that we have not written this piece of software (see LICENSE).
 - [Fresh Onions TOR Hidden Service Crawler](https://github.com/dirtyfilthy/freshonions-torscraper) - Fresh Onions is an open source TOR spider / hidden service onion crawler hosted at zlal32teyptf4tvi.onion.
@@ -59,6 +59,7 @@ onionshare-cli --receive --persistent ~/anon-dropbox.session --public        # s
 - [Onion-link-list](https://github.com/DanWin/onion-link-list) - A set of scripts to list tor hidden services.
 - [PICKYONION](https://github.com/maliciousgroup/PICKYONION) - PICKYONION is a private red team python library focused on leveraging TOR to establish secure communication and hidden service hosting.
 - [Real-world-onion-sites](https://github.com/alecmuffett/real-world-onion-sites) - list of substantial, commercial-or-social-good mainstream websites which provide onion services. 
+- [stem.torproject.org](https://stem.torproject.org)
 - [tor_ip_switcher](https://github.com/ruped24/tor_ip_switcher) - tor_ip_switcher is useful for making any DoS attack look like a DDoS attack. Works with toriptables2.
 - [TorBot](https://github.com/DedSecInside/TorBoT) - Dark Web OSINT Tool.
 - [toriptables2](https://github.com/ruped24/toriptables2) - Tor Iptables script is an anonymizer that sets up iptables and tor to route all services and traffic including DNS through the Tor network.
