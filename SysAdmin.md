@@ -465,15 +465,16 @@ upstream_recursive_servers:
       - [OpenVPN Admin](https://github.com/Chocobozzz/OpenVPN-Admin) - Administrate its OpenVPN with a web interface (logs visualisations, users managing...) and a SQL database.
       - [Ovpn-admin](https://github.com/flant/ovpn-admin) - Simple web UI to manage OpenVPN users.
     - [Streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
-    - [WireGuard](https://github.com/WireGuard) - WireGuard® is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. [Wireguard.com](https://www.wireguard.com/)
+    - [WireGuard](https://github.com/WireGuard) - WireGuard® is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. [Wireguard.com](https://www.wireguard.com)
+      - [Macos-menubar-wireguard](https://github.com/aequitas/macos-menubar-wireguard) - macOS menubar icon for WireGuard/wg-quick.
       - [Subspace](https://github.com/subspacecloud/subspace) - A simple WireGuard VPN server GUI.
         - [Subspace fork](https://github.com/subspacecommunity/subspace) - A fork of the simple WireGuard VPN server GUI community maintained.
       - [Tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. [Tailscale.com](https://www.tailscale.com)
       - [Tinc VPN](https://tinc-vpn.org/) - Tinc is an open-source, self-routing, mesh networking protocol and software implementation used for compressed and encrypted virtual private networks. 
         - [How to install tinc VPN on Ubuntu Linux 16.04 LTS](https://www.cyberciti.biz/faq/how-to-install-tinc-vpn-on-ubuntu-linux-16-04-to-secure-traffic/)
-      - [Macos-menubar-wireguard](https://github.com/aequitas/macos-menubar-wireguard) - macOS menubar icon for WireGuard/wg-quick.
       - [Ubuntu 20.04 set up WireGuard VPN server](https://www.cyberciti.biz/faq/ubuntu-20-04-set-up-wireguard-vpn-server/)
       - [Wireguard-macOS-LinuxVM](https://github.com/mrash/Wireguard-macOS-LinuxVM) -  Send all traffic from macOS through Wireguard running on a Linux VM.
+      - [Wireguard Whitepaper](https://www.wireguard.com/papers/wireguard.pdf) - WireGuard: Next Generation Kernel Network Tunnel.
 
   ### Storage
   - [Libvirt Storage Management](https://libvirt.org/index.html)
