@@ -118,6 +118,9 @@
 ## Music
 - [Old Time Radio](https://oldtime.radio/)
 
+## News
+- [Trustnodes.com](https://www.trustnodes.com)
+
 ## Privacy
 - [privacytools.io](https://www.privacytools.io/)
 
