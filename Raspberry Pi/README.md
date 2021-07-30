@@ -43,6 +43,7 @@
 - [Zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 
 ## Magic Mirror repos
+- [particles.js](https://github.com/VincentGarreau/particles.js/) - A lightweight JavaScript library for creating particles.
 - [Alexyak's Camera Module](https://github.com/alexyak/camera) - _The camera module allows you to display a webcamera video feed on your MagicMirror._
 - [MagicMirror-Module-Template]() -This is a module to help developers to start building their own modules for the [MagicMirror](https://github.com/MichMich/MagicMirror).
 - [MM-Remote](https://github.com/Klettner/MM-Remote) - _Android app to control your MagicMirror via smartphone._
