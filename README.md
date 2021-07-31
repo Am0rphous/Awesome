@@ -178,7 +178,7 @@ _Freely accessing knowledge is an essential human right. Knowledge is the founda
     #### HTML
     - [HEAD](https://github.com/joshbuchea/HEAD) - 🗿 A list of everything that *could* go in the head of your document.
     #### Java
-    - [IntelliJ IDEA](https://www.jetbrains.com/idea/) - IntelliJ IDEA is an integrated development environment (IDE) for Java development. It’s developed by JetBrains.
+    - [IntelliJ IDEA](https://www.jetbrains.com/idea/) - IntelliJ IDEA is an integrated development environment (IDE) for Java development. It’s developed by JetBrains. [Github](https://github.com/JetBrains/intellij-community)
     #### JavaScript
     - [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days. This challenge may take up to 100 days, please just follow your own pace.
     - [Babel](https://babeljs.io/) - JavaScript compiler.
