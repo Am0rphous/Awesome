@@ -20,6 +20,7 @@ _Freely accessing knowledge is an essential human right. Knowledge is the founda
   - [Programming](https://github.com/Am0rphous/Awesome/blob/master/README.md#programming)
     - [Electron](https://github.com/Am0rphous/Awesome/blob/master/README.md#electron)
     - [HTML](https://github.com/Am0rphous/Awesome/blob/master/README.md#html)
+    - [Java](https://github.com/Am0rphous/Awesome/blob/master/README.md#java)
     - [JavaScript](https://github.com/Am0rphous/Awesome/blob/master/README.md#javascript)
     - [Nim](https://github.com/Am0rphous/Awesome/blob/master/README.md#nim)
     - [Node.js](https://github.com/Am0rphous/Awesome/blob/master/README.md#nodejs---open-source-and-cross-platform-javascript-runtime-environment)
@@ -176,6 +177,8 @@ _Freely accessing knowledge is an essential human right. Knowledge is the founda
     - [Glasstron](https://github.com/AryToNeX/Glasstron) - The go-to solution to Electron composition effects, such as blurry windows.
     #### HTML
     - [HEAD](https://github.com/joshbuchea/HEAD) - 🗿 A list of everything that *could* go in the head of your document.
+    #### Java
+    - [IntelliJ IDEA](https://www.jetbrains.com/idea/) - IntelliJ IDEA is an integrated development environment (IDE) for Java development. It’s developed by JetBrains.
     #### JavaScript
     - [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days. This challenge may take up to 100 days, please just follow your own pace.
     - [Babel](https://babeljs.io/) - JavaScript compiler.
