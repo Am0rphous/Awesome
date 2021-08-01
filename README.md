@@ -95,6 +95,7 @@ _Freely accessing knowledge is an essential human right. Knowledge is the founda
 - [Instagram-web-api](https://github.com/jlobos/instagram-web-api#instagramcredentials-opts) - 🤳 Instagram Private Web API client for Node.
 - [mastodon](https://github.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community.
   ### E-mail
+  - [ElectronMail](https://github.com/vladimiry/ElectronMail) - Unofficial ProtonMail Desktop App.
   - [Post Quantum Mail](https://github.com/swapravo/pqm-client) - Quantum-safe anonymous encrypted emails. [postquantummail.com](https://postquantummail.com)
   - [Roundcube Webmail](https://github.com/roundcube/roundcubemail) - [roundcube.net](https://roundcube.net)
   - [Thunderbird](https://www.thunderbird.net)
