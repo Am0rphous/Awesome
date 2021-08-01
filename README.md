@@ -118,6 +118,7 @@ _Freely accessing knowledge is an essential human right. Knowledge is the founda
     - [Irssi](https://irssi.org/) - vpowerful text-mode IRC client.
   ### VoIP
   - [Mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software.
+  - [Rocket Streaming Audio Server](https://www.rocketbroadcaster.com/streaming-audio-server) - Rocket Streaming Audio Server broadcasts live audio over HTTP(S), and is a modern replacement for Icecast and SHOUTcast.
 
 ## Cryptocurrency
 - [Bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree.
