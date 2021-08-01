@@ -8,7 +8,8 @@ _Freely accessing knowledge is an essential human right. Knowledge is the founda
 - [Communication](https://github.com/Am0rphous/Awesome/blob/master/README.md#communication)
   - [E-mail](https://github.com/Am0rphous/Awesome/blob/master/README.md#e-mail)
   - [IRC](https://github.com/Am0rphous/Awesome/blob/master/README.md#irc)
-    - [IRC Terminal Clients](https://github.com/Am0rphous/Awesome/blob/master/README.md#irc-terminal-clients)
+    - [IRC Clients](https://github.com/Am0rphous/Awesome/blob/master/README.md#irc-clients)
+    - [IRC Servers](https://github.com/Am0rphous/Awesome/blob/master/README.md#irc-servers)
   - [VoIP](https://github.com/Am0rphous/Awesome/blob/master/README.md#voip)
 - [Cryptocurrency](https://github.com/Am0rphous/Awesome/blob/master/README.md#cryptocurrency)
 - [Desktop customization tools](https://github.com/Am0rphous/Awesome/blob/master/README.md#desktop-customization-tools)
@@ -108,14 +109,16 @@ _Freely accessing knowledge is an essential human right. Knowledge is the founda
       - [Profiles - Where Thunderbird stores your messages and other user data](https://support.mozilla.org/en-US/kb/profiles-where-thunderbird-stores-user-data?redirectslug=profiles-tb&redirectlocale=en-US)
       - [Just Report It](https://addons.thunderbird.net/thunderbird/addon/just-report-it/?src=cb-dl-recentlyadded) - Just Report It (https://justreport.it) is an email plugin which tackles spam the right way. Report emails straight to SpamCop, the Registrar, a custom email address or any combination in between!
   ### IRC
+    #### IRC Clients
+- [Birch](https://github.com/dylanaraps/birch) - An IRC client written in bash.
+- [Irssi](https://irssi.org/) - vpowerful text-mode IRC client.
 - [Kirc](https://github.com/mcpcpc/kirc) -  A tiny IRC client written in POSIX C99.
+- [LimeChat](https://github.com/psychs/limechat) - IRC Client for Mac.
 - [Pidgin](https://www.pidgin.im) - instant messaging program which lets you log in to accounts on multiple chat networks simultaneously. It runs on Windows, Linux, and other UNIX operating systems.
 - [Polari](https://github.com/GNOME/polari) - source IRC client for the GNOME desktop environment. [wiki.gnome.org/Apps/Polari](https://wiki.gnome.org/Apps/Polari)
 - [Rirc](https://github.com/rcr/rirc) -  A terminal IRC client in C. [rcr.io/rirc](http://rcr.io/rirc/)
 - Quassel, HexChat, WeeChat, Konversation, XChat, Smuxi, Polari, KVIrc, ERC, : https://www.ubuntupit.com/top-20-best-irc-clients-for-linux-that-you-should-use-everyday/
-    #### IRC Terminal Clients
-    - [Birch](https://github.com/dylanaraps/birch) - An IRC client written in bash.
-    - [Irssi](https://irssi.org/) - vpowerful text-mode IRC client.
+    #### IRC Servers
   ### VoIP
   - [Mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software.
   - [Rocket Streaming Audio Server](https://www.rocketbroadcaster.com/streaming-audio-server) - Rocket Streaming Audio Server broadcasts live audio over HTTP(S), and is a modern replacement for Icecast and SHOUTcast.
