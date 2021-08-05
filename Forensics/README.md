@@ -146,6 +146,8 @@ Description: The Portable Executable format is a file format for executables, ob
 
 ## Smartphone Devices
 - [MVT](https://github.com/mvt-project/mvt) - MVT is a forensic tool to look for signs of infection in smartphone devices.
+### Android
+- [Snoopdroid 2](https://github.com/botherder/snoopdroid2) - Snoopdroid 2 is a portable tool to simplify the acquisition of relevant forensic data from Android devices. It is the successor of Snoopdroid, re-written in Go and leveraging official adb binaries.
 
 ## Static Analysis
 - [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
