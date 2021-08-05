@@ -26,6 +26,7 @@
 - [Vox](https://vox.rocks/) - Premium Mac Music Player for Hi-Res music through the popular sources.
 
 ## Network
+- [LocationSimulator](https://github.com/Schlaubischlump/LocationSimulator) - MacOS 10.15 / 11.0 application to spoof your iOS / iPadOS or iPhoneSimulator device location. WatchOS and TvOS are partially supported.
 - [LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall.
   - Install with `brew install lulu`
   ### Proxy
