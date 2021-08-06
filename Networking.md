@@ -46,7 +46,11 @@
 - [VPN Pivot](https://github.com/0x36/VPNPivot) - Explore the network using VPNPivot tool.
 - [WsTunnel](https://github.com/erebe/wstunnel) - Tunneling over websocket protocol - Static binary available.
 
-## Deep Packet Inspection
+## Packet Capture
+- [Extract-tls-secrets](https://github.com/neykov/extract-tls-secrets) - Decrypt HTTPS/TLS connections on the fly with Wireshark.
+- [Wireshark](https://github.com/wireshark/wireshark) - wireshark.org
+
+### Deep Packet Inspection
 - [deep-packet-inspection](https://devopedia.org/deep-packet-inspection)
 - [DPI Using GPUs pdf](https://on-demand.gputechconf.com/gtc/2017/presentation/s7468-wenji-wu-network-traffic-analysis-using-gpus.pdf) - Deep Packet Inspection Using GPUs
 - [WireCAP](https://wirecap.fnal.gov/) - a Novel Packet Capture Engine for Commodity NICs in High-speed Networks
