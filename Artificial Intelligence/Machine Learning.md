@@ -20,3 +20,4 @@ Towards Deep Learning
 -	Sequence prediction problems have been around for a long time
 -	These include a wide range of problems: From predicting sales to finding patterns in stock markets’ data, from understanding movie plots to recognizing your way of speech, from language translations to predicting your next work on your iPhone’s keyboard.
 
+- [camera-classifier](https://github.com/NeuralNine/camera-classifier) - A Python application that uses camera input to train a SVM to respond to specific actions.
