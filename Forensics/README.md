@@ -7,6 +7,7 @@
   - [Documentation](https://plaso.readthedocs.io/en/latest/)
 - [Guide-to-quick-forensics by securitywithoutborders](https://github.com/securitywithoutborders/guide-to-quick-forensics) - Guide to Quick Forensics.
 - [The CERT Linux Forensics Tools Repository - LiFTeR](https://forensics.cert.org/)
+- [Velociraptor](https://github.com/Velocidex/velociraptor) - Velociraptor is an advanced digital forensic and incident response tool that enhances your visibility into your endpoints. [Docs](https://docs.velociraptor.app/)
 
 ## Analysis of Office Documents (e.g. pdf)
 - [AnalyzePDF](https://github.com/hiddenillusion/AnalyzePDF) - Tool to help analyze PDF files.
