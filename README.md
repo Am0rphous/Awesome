@@ -37,7 +37,7 @@ _Freely accessing knowledge is an essential human right. Knowledge is the founda
 - [Looking for software, projects, courses or inspiration?](https://github.com/Am0rphous/Awesome/blob/master/README.md#looking-for-software-projects-courses-or-inspiration)
 - [Media](https://github.com/Am0rphous/Awesome/blob/master/README.md#media)
   - [Image](https://github.com/Am0rphous/Awesome/blob/master/README.md#image)
-    - [Graphs, Charts and Diagrams](https://github.com/Am0rphous/Awesome/blob/master/README.md#graphs-,-charts-and-diagrams)
+    - [Graphs, Charts and Diagrams](https://github.com/Am0rphous/Awesome/blob/master/README.md#graphs-charts-and-diagrams)
   - [Video](https://github.com/Am0rphous/Awesome/blob/master/README.md#video)
   - [Media Servers](https://github.com/Am0rphous/Awesome/blob/master/README.md#media-servers)
     - [Docker](https://github.com/Am0rphous/Awesome/blob/master/README.md#docker)
@@ -287,6 +287,7 @@ _Freely accessing knowledge is an essential human right. Knowledge is the founda
    - [HighchartTable](http://highcharttable.org/)
    - [LynxKite](https://github.com/lynxkite/lynxkite) - LynxKite is a complete graph data science platform for very large graphs and other datasets. It seamlessly combines the benefits of a friendly graphical interface and a powerful Python API.
    - [Protovis](https://mbostock.github.io/protovis/)
+   - [RAWGraphs](https://github.com/rawgraphs/rawgraphs-app) - A web interface to create custom vector-based visualizations on top of RAWGraphs core.
    - [www.jqplot.com](http://www.jqplot.com) - jqPlot is a plotting and charting plugin for the jQuery Javascript framework. jqPlot produces beautiful line, bar and pie charts with many features.
    - [yEd Graph Editor](https://www.yworks.com/products/yed) - Powerful desktop application that can be used to quickly and effectively generate high-quality diagrams.
   ### Video
