@@ -1,8 +1,6 @@
 # Awesome
 
-
-_Freely accessing knowledge is an essential human right. Knowledge is the foundation for human potential, freedom and opportunity and everyone should have access to knowledge for free, without any restriction or limitation._ - [linuxbabe.com](https://www.linuxbabe.com/)
-
+_Freely accessing knowledge is an essential human right. Knowledge is the foundation for human potential, freedom and opportunity and everyone should have access to knowledge for free, without any restriction or limitation._ - [linuxbabe.com](https://www.linuxbabe.com)
 
 - [Awesome entitled projects](https://github.com/Am0rphous/Awesome/blob/master/README.md#awesome-entitled-projects)
 - [Communication](https://github.com/Am0rphous/Awesome/blob/master/README.md#communication)
@@ -39,7 +37,7 @@ _Freely accessing knowledge is an essential human right. Knowledge is the founda
 - [Looking for software, projects, courses or inspiration?](https://github.com/Am0rphous/Awesome/blob/master/README.md#looking-for-software-projects-courses-or-inspiration)
 - [Media](https://github.com/Am0rphous/Awesome/blob/master/README.md#media)
   - [Image](https://github.com/Am0rphous/Awesome/blob/master/README.md#image)
-    - [Graphs and Diagrams](https://github.com/Am0rphous/Awesome/blob/master/README.md#graphs-and-diagrams)
+    - [Graphs, Charts and Diagrams](https://github.com/Am0rphous/Awesome/blob/master/README.md#graphs-,-charts-and-diagrams)
   - [Video](https://github.com/Am0rphous/Awesome/blob/master/README.md#video)
   - [Media Servers](https://github.com/Am0rphous/Awesome/blob/master/README.md#media-servers)
     - [Docker](https://github.com/Am0rphous/Awesome/blob/master/README.md#docker)
@@ -275,14 +273,22 @@ _Freely accessing knowledge is an essential human right. Knowledge is the founda
   - [Pinta](https://www.pinta-project.com) - Pinta is a free, open source program for drawing and image editing.
   - [Pixeluvo](http://www.pixeluvo.com) - A Beautifully Designed Image and Photo Editor for Windows and Linux.
   - [RawTherapee](https://github.com/Beep6581/RawTherapee) - A powerful cross-platform raw photo processing program [rawtherapee.com](https://rawtherapee.com).
-   #### Graphs and Diagrams
+   #### Graphs, Charts and Diagrams
+   - [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the `<canvas>` tag.
+   - [Chartist.js](https://github.com/gionkunz/chartist-js) - Simple responsive charts.
    - [cloud.smartdraw.com](https://cloud.smartdraw.com)
+   - [D3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. 📊📈🎉 
    - [Drawio Desktop](https://github.com/jgraph/drawio-desktop) - drawio-desktop is a diagrams.net desktop app based on Electron.
      - [Drawio - app.diagrams.net](https://app.diagrams.net) - diagrams.net is open source, online, desktop and container deployable diagramming software.
+   - [Dygraphs](https://dygraphs.com) - dygraphs is a fast, flexible open source JavaScript charting library.
    - [ExcaliDraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams.
+   - [Flot](https://www.flotcharts.org/)
    - [Gephi - The Open Graph Viz Platform](https://github.com/gephi/gephi) - award-winning open-source platform for visualizing and manipulating large graphs. For Linux, Mac and Windows.
-   - [yEd Graph Editor](https://www.yworks.com/products/yed) - powerful desktop application that can be used to quickly and effectively generate high-quality diagrams.
-
+   - [HighchartTable](http://highcharttable.org/)
+   - [LynxKite](https://github.com/lynxkite/lynxkite) - LynxKite is a complete graph data science platform for very large graphs and other datasets. It seamlessly combines the benefits of a friendly graphical interface and a powerful Python API.
+   - [Protovis](https://mbostock.github.io/protovis/)
+   - [www.jqplot.com](http://www.jqplot.com) - jqPlot is a plotting and charting plugin for the jQuery Javascript framework. jqPlot produces beautiful line, bar and pie charts with many features.
+   - [yEd Graph Editor](https://www.yworks.com/products/yed) - Powerful desktop application that can be used to quickly and effectively generate high-quality diagrams.
   ### Video
    - [Kap](https://github.com/wulkano/Kap) -  An open-source screen recorder built with web technology.
    - [Kazam](https://github.com/hzbd/kazam) - Kazam is a simple screen recording program that will capture the content of your screen.
