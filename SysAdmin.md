@@ -392,6 +392,7 @@ lsscsi                          #Print SCSI Devices Info
 
  ## Network Tools
 - [ARP-scan](https://github.com/royhills/arp-scan) - Scanning hosts on a network with the ARP protocol.
+- [Egress-Assess](https://github.com/FortyNorthSecurity/Egress-Assess) - Egress-Assess is a tool used to test egress data detection capabilities.
 - [Flare-fakenet-ng](https://github.com/fireeye/flare-fakenet-ng) - Next Generation Dynamic Network Analysis Tool.
 - [GNs3-server](https://github.com/GNS3/gns3-server) - The GNS3 server manages emulators such as Dynamips, VirtualBox or Qemu/KVM. [www.gns3.com](https://www.gns3.com)
   - [GNs3-gui](https://github.com/GNS3/gns3-gui) - GNS3 Graphical Network Simulator.
