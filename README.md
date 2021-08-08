@@ -117,6 +117,9 @@ _Freely accessing knowledge is an essential human right. Knowledge is the founda
 - [Rirc](https://github.com/rcr/rirc) -  A terminal IRC client in C. [rcr.io/rirc](http://rcr.io/rirc/)
 - Quassel, HexChat, WeeChat, Konversation, XChat, Smuxi, Polari, KVIrc, ERC, : https://www.ubuntupit.com/top-20-best-irc-clients-for-linux-that-you-should-use-everyday/
     #### IRC Servers
+    - [ngIRCd](https://ngircd.barton.de/) -  ngIRCd is a free, portable and lightweight Internet Relay Chat server for small or private networks, developed under the GNU General Public License (GPL).
+    - [Ratbox ircd](https://www.ratbox.org/) - ircd-ratbox originated as a fork of ircd-hybrid. Although designed with EFNet in mind, it’s heavily used on many other networks due to it’s performance and modularity.
+
   ### VoIP
   - [Mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software.
   - [Rocket Streaming Audio Server](https://www.rocketbroadcaster.com/streaming-audio-server) - Rocket Streaming Audio Server broadcasts live audio over HTTP(S), and is a modern replacement for Icecast and SHOUTcast.
