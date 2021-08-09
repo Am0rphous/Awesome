@@ -9,6 +9,9 @@
 - [Documentation](https://github.com/iotaledger/documentation) - This is where we host content for the documentation portal.
 - [FireFly Wallet](https://github.com/iotaledger/firefly) - IOTA's New Wallet.
 - [Hornet](https://github.com/gohornet/hornet) - HORNET is a powerful IOTA fullnode software.
+  - [Docs](https://hornet.docs.iota.org/getting_started/using_docker.html)
+  - [Get peers for your node!](https://nodesharing.wisewolf.de/)
+  - [Mainnet - Autopeering](https://tanglebay.com/mainnet-autopeering/)
 - [Iota-news.com](https://iota-news.com)
 - [IOTAtangle](https://github.com/glumb/IOTAtangle) - IOTA Tangle Visualiser 🦔 http://tangle.glumb.de/?DARK_MODE=true
 - [IOTA Tangle Explorer](https://explorer.iota.org)
