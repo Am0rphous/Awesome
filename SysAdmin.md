@@ -721,7 +721,8 @@ upstream_recursive_servers:
 
    ### Virtual Machines
    - [GraalVM](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere 🚀.
-  - KVM
+   - [HAXM](https://github.com/intel/haxm) - HAXM is a cross-platform hardware-assisted virtualization engine (hypervisor), widely used as an accelerator for Android Emulator and QEMU. It has always supported running on Windows and macOS, and has been ported to other host operating systems as well, such as Linux and NetBSD.
+   - KVM
     - [Kimchi](https://github.com/kimchi-project/kimchi) - HTML5 based management tool for KVM.
     - [KVM Management Tools list](https://www.linux-kvm.org/page/Management_Tools) - Options available to manage kvm virtual machines.
     - [Vmmaestro](https://github.com/mzch/vmmaestro) - Tiny control wrapper for KVM.
