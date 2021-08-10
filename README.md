@@ -1,6 +1,6 @@
 # Awesome
 
-_Freely accessing knowledge is an essential human right. Knowledge is the foundation for human potential, freedom and opportunity and everyone should have access to knowledge for free, without any restriction or limitation._ - [linuxbabe.com](https://www.linuxbabe.com)
+_"Freely accessing knowledge is an essential human right. Knowledge is the foundation for human potential, freedom and opportunity and everyone should have access to knowledge for free, without any restriction or limitation."_ - [Linuxbabe.com](https://www.linuxbabe.com)
 
 - [Awesome entitled projects](https://github.com/Am0rphous/Awesome/blob/master/README.md#awesome-entitled-projects)
 - [Communication](https://github.com/Am0rphous/Awesome/blob/master/README.md#communication)
