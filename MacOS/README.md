@@ -106,6 +106,9 @@
   ### Automation
   - [Hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua.
   - [Mjolnir](https://github.com/mjolnirapp/mjolnir) - Lightweight automation and productivity app for OS X.
+  ### Office Tools
+  - [Craft](https://www.craft.do/) - A fresh take on documents.
+  
   ### Time
   - [Countdown](https://github.com/funway/Countdown) - A countdown task App on macOS.
   - [MenubarCountdown](https://github.com/kristopherjohnson/MenubarCountdown) - Menubar countdown timer for macOS.
