@@ -99,7 +99,8 @@
 ## Productivity
 - [AirUnlock-for-Mac (Archived)](https://github.com/pinetum/AirUnlock-for-Mac) - Using android phone to establish a connection with your Mac via Bluetooth low-energy (BLE), controlling Mac lock state (Lock or Unlock).
 - [Fanny](https://github.com/DanielStormApps/Fanny) - Monitor your Mac's fan speed and CPU/GPU temperature from your Notification Center. [fannywidget.com](https://www.fannywidget.com)
-- [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - A Caffeine clone for macOS. Prevents your Mac from going to sleep. 
+- [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - A Caffeine clone for macOS. Prevents your Mac from going to sleep.
+- [Klaxon](https://github.com/knowsuchagency/klaxon) - Send Mac OS (or notifiers) notifications from the terminal or Python programs.
 - [MacOS Big Sur - Replacements Icons](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) -  Replacement icons for popular apps in the style of macOS Big Sur.
 - [PodcastMenu](https://github.com/insidegui/PodcastMenu) - Put Overcast on your Mac's menu bar.
   ### Automation
