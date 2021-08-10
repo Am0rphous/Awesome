@@ -24,6 +24,7 @@ _Freely accessing knowledge is an essential human right. Knowledge is the founda
     - [Nim](https://github.com/Am0rphous/Awesome/blob/master/README.md#nim)
     - [Node.js](https://github.com/Am0rphous/Awesome/blob/master/README.md#nodejs---open-source-and-cross-platform-javascript-runtime-environment)
     - [PHP](https://github.com/Am0rphous/Awesome/blob/master/README.md#php)
+    - [Python](https://github.com/Am0rphous/Awesome/blob/master/README.md#php)
 - [E-books](https://github.com/Am0rphous/Awesome/blob/master/README.md#e-books)
 - [Encryption](https://github.com/Am0rphous/Awesome/blob/master/README.md#encryption)
 - [Finance](https://github.com/Am0rphous/Awesome/blob/master/README.md#finance)
@@ -194,7 +195,7 @@ _Freely accessing knowledge is an essential human right. Knowledge is the founda
     - [Nimx](https://github.com/yglukhov/nimx) - _GUI library._
     - [Wxnim](https://github.com/PMunch/wxnim) - _Nim wrapper for wxWidgets._
 
-    ### Node.js - Open-source and cross-platform JavaScript runtime environment.
+    #### Node.js - Open-source and cross-platform JavaScript runtime environment.
     - [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs) - ⚡ Delightful Node.js packages and resources.
     - [Pm2.io](https://pm2.io) - PM2 is a production process manager for Node.js applications with a built-in load balancer. It allows you to keep applications alive forever, to reload them without downtime and to facilitate common system admin tasks.
     #### PHP
@@ -202,6 +203,8 @@ _Freely accessing knowledge is an essential human right. Knowledge is the founda
     - [Laravel](https://github.com/laravel/laravel) - _A PHP framework for web artisans._
       - [laravel.com](https://laravel.com)
       - [Laravel Passport](https://github.com/laravel/passport) - Laravel Passport provides OAuth2 server support to Laravel.
+    #### Python
+    - [Textual](https://github.com/willmcgugan/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
 
 ## E-books
 - [Check Am0rphous Web-Resources.md](https://github.com/Am0rphous/Awesome/blob/master/Web-Resources.md)
