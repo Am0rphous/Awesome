@@ -27,3 +27,6 @@
 
 ## Wallets
 - [Guarda Desktop Crypto Wallet](https://guarda.com/desktop/)
+
+## Widgets
+- [Cryptowidgets](https://github.com/sxiii/cryptowidgets) - Collection of crypto widgets that are helpful for traders & crypto users.
