@@ -83,6 +83,7 @@ _Freely accessing knowledge is an essential human right. Knowledge is the founda
 - [Awesome Search](https://awesomelists.top)
   - [awesome-search by frutik](https://github.com/frutik/awesome-search) - Awesome Search - this is all about the (e-commerce) search and its awesomeness.
 - [Awesome Selfhosted](https://gitlab.com/awesome-selfhosted/awesome-selfhosted)
+- [Awesome Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture) - A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles.
 - [Awesome SSH](https://github.com/moul/awesome-ssh)
 - [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin#metric--metric-collection) -  MOVED/ARCHIVED A curated list of amazingly awesome open source sysadmin resources.
 - [Awesome Termux](https://github.com/T4P4N/Awesome-Termux)
