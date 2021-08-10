@@ -341,7 +341,8 @@ lsscsi                          #Print SCSI Devices Info
 - [AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - Free admin dashboard template based on Bootstrap 4. [adminlte.io](https://adminlte.io)
 - [BashTop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor.
 - [Bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor.
-- [Elastic stack (ELK) on Docker](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose. 
+- [Elastic stack (ELK) on Docker](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
+- [Supervisor](https://github.com/Supervisor/supervisor) - Supervisor is a client/server system that allows its users to control a number of processes on UNIX-like operating systems.
   #### ELK-stack
   - [Elasticsearch](https://github.com/elastic/elasticsearch) - Open Source, Distributed, RESTful Search Engine.
     - [detection-rules](https://github.com/elastic/detection-rules) -  Rules for Elastic Security's detection engine.
