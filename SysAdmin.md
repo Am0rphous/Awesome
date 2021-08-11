@@ -443,44 +443,44 @@ upstream_recursive_servers:
   ````
 - [DropBear SSH](https://github.com/mkj/dropbear) - S smallish SSH server and client. [https://matt.ucc.asn.au](https://matt.ucc.asn.au)
 - [ElecTerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp client(linux, mac, win).
-- [mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
 - RDP Applications
+  - [mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
   - [Remmina](https://github.com/FreeRDP/Remmina) - Mirror of [https://gitlab.com/Remmina/Remmina](https://gitlab.com/Remmina/Remmina) The GTK+ Remmina Remote Desktop Client.
   - [Remote Desktop Manager Free](https://remotedesktopmanager.com) - Windows, Mac, Linux, Android & iOS.
   Install it with e.g. `brew install --cask remote-desktop-manager-free`
   - [xRDP](https://github.com/neutrinolabs/xrdp) - Open source RDP server.
+  - VNC (Virtual Network Computing)
+    - [TigerVNC](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server.
+    - [xVNC](http://xvnc.sourceforge.net/)
 - [SSH](https://www.openssh.com)
   - [Portable OpenSSH](https://github.com/openssh/openssh-portable)
   - [SSH-Weak-DH](https://github.com/AonCyberLabs/SSH-Weak-DH)
   - [SSH Hardening](https://github.com/Am0rphous/CheatSheets/blob/main/Linux/ssh-hardening.md)
   - [SSH Hardening with Security Onion](https://docs.securityonion.net/en/2.3/ssh.html)
   - [Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH) - Win32 port of OpenSSH.
-- VNC (Virtual Network Computing)
-  - [tigervnc](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server.
-    - [xVNC](http://xvnc.sourceforge.net/)
-    #### VPN - Virtual Private Network
-    - [Hyprspace](https://github.com/hyprspace/hyprspace) - A Lightweight VPN Built on top of Libp2p for Truly Distributed Networks.
-    - [IPsec VPN Server Auto Setup Scripts](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2.
-    - [IPsec VPN Server on Docker](https://github.com/hwdsl2/docker-ipsec-vpn-server) - Docker image to run an IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2.
-    - [OpenConnect](https://github.com/openconnect/openconnect) - SSL VPN client initially created to support Cisco's AnyConnect SSL VPN.
-        [infradead.org/openconnect](https://www.infradead.org/openconnect/index.html)
-        Brew: `brew install openconnect`
-    - [Openconnect VPN Server](https://ocserv.gitlab.io/www/index.html) - Openconnect server (ocserv) is an SSL VPN server for administrators who require elaborate user management and control.
-    - [OpenVPN](https://github.com/OpenVPN)
-      - [Autovpn2](https://github.com/ruped24/autovpn2) - OpenVPN VPN Gate Client for Linux, connects you to a random Free VPN in a country of your choice by country code.
-      - [OpenVPN Admin](https://github.com/Chocobozzz/OpenVPN-Admin) - Administrate its OpenVPN with a web interface (logs visualisations, users managing...) and a SQL database.
-      - [Ovpn-admin](https://github.com/flant/ovpn-admin) - Simple web UI to manage OpenVPN users.
-    - [Streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
-    - [WireGuard](https://github.com/WireGuard) - WireGuard® is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. [Wireguard.com](https://www.wireguard.com)
-      - [Macos-menubar-wireguard](https://github.com/aequitas/macos-menubar-wireguard) - macOS menubar icon for WireGuard/wg-quick.
-      - [Subspace](https://github.com/subspacecloud/subspace) - A simple WireGuard VPN server GUI.
-        - [Subspace fork](https://github.com/subspacecommunity/subspace) - A fork of the simple WireGuard VPN server GUI community maintained.
-      - [Tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. [Tailscale.com](https://www.tailscale.com)
-      - [Tinc VPN](https://tinc-vpn.org/) - Tinc is an open-source, self-routing, mesh networking protocol and software implementation used for compressed and encrypted virtual private networks. 
-        - [How to install tinc VPN on Ubuntu Linux 16.04 LTS](https://www.cyberciti.biz/faq/how-to-install-tinc-vpn-on-ubuntu-linux-16-04-to-secure-traffic/)
-      - [Ubuntu 20.04 set up WireGuard VPN server](https://www.cyberciti.biz/faq/ubuntu-20-04-set-up-wireguard-vpn-server/)
-      - [Wireguard-macOS-LinuxVM](https://github.com/mrash/Wireguard-macOS-LinuxVM) -  Send all traffic from macOS through Wireguard running on a Linux VM.
-      - [Wireguard Whitepaper](https://www.wireguard.com/papers/wireguard.pdf) - WireGuard: Next Generation Kernel Network Tunnel.
+  #### VPN - Virtual Private Network
+  - [Hyprspace](https://github.com/hyprspace/hyprspace) - A Lightweight VPN Built on top of Libp2p for Truly Distributed Networks.
+  - [IPsec VPN Server Auto Setup Scripts](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2.
+  - [IPsec VPN Server on Docker](https://github.com/hwdsl2/docker-ipsec-vpn-server) - Docker image to run an IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2.
+  - [OpenConnect](https://github.com/openconnect/openconnect) - SSL VPN client initially created to support Cisco's AnyConnect SSL VPN.
+      [infradead.org/openconnect](https://www.infradead.org/openconnect/index.html)
+      Brew: `brew install openconnect`
+  - [Openconnect VPN Server](https://ocserv.gitlab.io/www/index.html) - Openconnect server (ocserv) is an SSL VPN server for administrators who require elaborate user management and control.
+  - [OpenVPN](https://github.com/OpenVPN)
+    - [Autovpn2](https://github.com/ruped24/autovpn2) - OpenVPN VPN Gate Client for Linux, connects you to a random Free VPN in a country of your choice by country code.
+    - [OpenVPN Admin](https://github.com/Chocobozzz/OpenVPN-Admin) - Administrate its OpenVPN with a web interface (logs visualisations, users managing...) and a SQL database.
+    - [Ovpn-admin](https://github.com/flant/ovpn-admin) - Simple web UI to manage OpenVPN users.
+  - [Streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
+  - [WireGuard](https://github.com/WireGuard) - WireGuard® is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. [Wireguard.com](https://www.wireguard.com)
+    - [Macos-menubar-wireguard](https://github.com/aequitas/macos-menubar-wireguard) - macOS menubar icon for WireGuard/wg-quick.
+    - [Subspace](https://github.com/subspacecloud/subspace) - A simple WireGuard VPN server GUI.
+      - [Subspace fork](https://github.com/subspacecommunity/subspace) - A fork of the simple WireGuard VPN server GUI community maintained.
+    - [Tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. [Tailscale.com](https://www.tailscale.com)
+    - [Tinc VPN](https://tinc-vpn.org/) - Tinc is an open-source, self-routing, mesh networking protocol and software implementation used for compressed and encrypted virtual private networks. 
+      - [How to install tinc VPN on Ubuntu Linux 16.04 LTS](https://www.cyberciti.biz/faq/how-to-install-tinc-vpn-on-ubuntu-linux-16-04-to-secure-traffic/)
+    - [Ubuntu 20.04 set up WireGuard VPN server](https://www.cyberciti.biz/faq/ubuntu-20-04-set-up-wireguard-vpn-server/)
+    - [Wireguard-macOS-LinuxVM](https://github.com/mrash/Wireguard-macOS-LinuxVM) -  Send all traffic from macOS through Wireguard running on a Linux VM.
+    - [Wireguard Whitepaper](https://www.wireguard.com/papers/wireguard.pdf) - WireGuard: Next Generation Kernel Network Tunnel.
 
   ### Storage
   - [Libvirt Storage Management](https://libvirt.org/index.html)
@@ -510,8 +510,7 @@ upstream_recursive_servers:
   - [Brew Documentation](https://docs.brew.sh)
   - [Homebrew-cask](https://github.com/Homebrew/homebrew-cask) - A CLI workflow for the administration of macOS applications distributed as binaries.
   - [Homebrew Services](https://github.com/Homebrew/homebrew-services) - Manage background services with macOS' launchctl daemon manager.
-
-   Quick install:
+  - Quick install:
    ````
    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
    ````
@@ -526,7 +525,7 @@ upstream_recursive_servers:
 - [FlatPak](https://flatpak.org)
 - [Nimble](https://github.com/nim-lang/nimble#nimble-usage) - Package manager for the Nim programming language.
 - [Nixpkgs](https://github.com/NixOS/nixpkgs) - collection of over 60,000 software packages that can be installed with the Nix package manager [nixos.org](https://nixos.org).
-- [SnapD](https://snapcraft.io)
+- [Snapd](https://snapcraft.io)
 
 ## Security Tools
 - [AppArmor](https://gitlab.com/apparmor/apparmor) - AppArmor is an effective and easy-to-use Linux application security system. AppArmor proactively protects the operating system and applications from external or internal threats, even zero-day attacks, by enforcing good behavior and preventing both known and unknown application flaws from being exploited.
