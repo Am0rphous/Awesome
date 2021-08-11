@@ -233,6 +233,7 @@ bro / zeek
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The ultimate Free Open Source Solution for team communications.
   - [RC-Trending](https://github.com/frontendwizard/rc-trending) - News feed from multiple sources right into rocket chat.
   - [Rocket.Chat.RaspberryPi](https://github.com/RocketChat/Rocket.Chat.RaspberryPi)
+  - [Rocketchat-Cryptoconvert](https://github.com/nicholasfoden/rocketchat-cryptoconvert) - rocket.chat app to convert between cryptocurrencies using the cryptocompare API.
 - [Signal](https://www.signal.org)
   - [Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
   - [Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - Private Messenger for Windows, Mac, and Linux.
