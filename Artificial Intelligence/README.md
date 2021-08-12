@@ -12,6 +12,7 @@
   - [DeepStack_ExDark](https://github.com/OlafenwaMoses/DeepStack_ExDark) - A DeepStack custom model for detecting common objects in dark/night images and videos.
 - [Fairseq](https://github.com/pytorch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [ImageAI](https://github.com/OlafenwaMoses/ImageAI) - A python library built to empower developers to build applications and systems with self-contained Computer Vision capabilities.
+  - [ImageAIDocumentation](https://github.com/OlafenwaMoses/ImageAIDocumentation) - Official English Documentation of ImageAI.
 - [Malmo](https://github.com/microsoft/malmo) - Project Malmo is a platform for Artificial Intelligence experimentation and research built on top of Minecraft. 
 - [OpenCog](https://github.com/opencog/opencog) - A framework for integrated Artificial Intelligence & Artificial General Intelligence (AGI) 
 - [Ruby Warrior](https://github.com/ryanb/ruby-warrior) - Game written in Ruby for learning Ruby and artificial intelligence. 
