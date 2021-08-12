@@ -25,3 +25,4 @@ Towards Deep Learning
 - [Camera Classifier](https://github.com/NeuralNine/camera-classifier) - A Python application that uses camera input to train a SVM to respond to specific actions.
 - [Machine Learning and Security](https://github.com/13o-bbr-bbq/machine_learning_security) - Source code about machine learning and security.
 - [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 25 lessons, 50 quizzes, classic Machine Learning for all.
+- [Machine Learning for Cyber Security](https://github.com/wtsxDev/Machine-Learning-for-Cyber-Security) - Curated list of tools and resources related to the use of machine learning for cyber security.
