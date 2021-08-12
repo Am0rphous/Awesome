@@ -21,7 +21,7 @@ Towards Deep Learning
 -	These include a wide range of problems: From predicting sales to finding patterns in stock markets’ data, from understanding movie plots to recognizing your way of speech, from language translations to predicting your next work on your iPhone’s keyboard.
 
 ## Resources
-
+- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [Camera Classifier](https://github.com/NeuralNine/camera-classifier) - A Python application that uses camera input to train a SVM to respond to specific actions.
 - [Emojifier](https://github.com/Anandesh-Sharma/Emojifier) - Recognizes faces in real time and predict emoji according to the emotion.
 - [Machine Learning and Security](https://github.com/13o-bbr-bbq/machine_learning_security) - Source code about machine learning and security.
