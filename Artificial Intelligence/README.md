@@ -34,7 +34,8 @@ Note: https://favouriteblog.com/50-best-github-artificial-intelligence/
 - [Tinygrad](https://github.com/geohot/tinygrad)
 - [TorchFusion](https://github.com/johnolafenwa/TorchFusion) - A modern deep learning framework built to accelerate research and development of AI systems.
 
-## Detection
+## Detection / Recognition
+- [Action-Net](https://github.com/OlafenwaMoses/Action-Net) - A dataset of images for artificial intelligence models to recognize human actions.
 - [FireNET](https://github.com/OlafenwaMoses/FireNET) - A deep learning model for detecting fire in video and camera streams.
 - [Traffic-Net](https://github.com/OlafenwaMoses/Traffic-Net) - A dataset of traffic, fire and accident images for training deep learning models.
 
@@ -45,6 +46,9 @@ Note: https://favouriteblog.com/50-best-github-artificial-intelligence/
 - [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) - Machine Learning for Cyber Security.
 - [Behaviour Suite for Reinforcement Learning (bsuite)](https://github.com/deepmind/bsuite) - bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent.
 - [Tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators [tvm.apache.org](https://tvm.apache.org).
+
+## Neural Networks 
+- [CNNArchitectures](https://github.com/OlafenwaMoses/CNNArchitectures) - Code implementation of major Convolutional Neural Networks.
 
 ### Tensorflow
 - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) - TensorFlow - A curated list of dedicated resources [tensorflow.org](http://tensorflow.org).
