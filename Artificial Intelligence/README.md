@@ -29,6 +29,7 @@
 Note: https://favouriteblog.com/50-best-github-artificial-intelligence/
 
 ## Deep Learning
+- [Deep Learning (PyTorch) - ND101 v7]() - Projects and exercises for the latest Deep Learning ND program [course/deep-learning-nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101).
 - [Keras](https://github.com/keras-team/keras) - Deep Learning for humans. Keras is a deep learning API written in Python, running on top of the machine learning platform TensorFlow. It was developed with a focus on enabling fast experimentation. Being able to go from idea to result as fast as possible is key to doing good research.
   - [DenseNet-Keras](https://github.com/flyyufelix/DenseNet-Keras) - DenseNet Implementation in Keras with ImageNet Pretrained Models.
 - [Tinygrad](https://github.com/geohot/tinygrad)
