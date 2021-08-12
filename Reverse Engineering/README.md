@@ -26,6 +26,7 @@ https://github.com/WebAssembly/wabt
   ### Android Decompilers
   "A decompiler takes one from a binary to source code–or something similarly high-level that can easily be read by humans."
   - [APKTool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files.
+  - [Apkx](https://github.com/b-mueller/apkx) - One-Step APK Decompilation With Multiple Backends.
   - [Bytecode Viewer](https://github.com/Konloch/bytecode-viewer) - A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More). [bytecodeviewer.com](https://bytecodeviewer.com/)
   - [JadX](https://github.com/skylot/jadx) - Dex to Java decompiler. Command line and GUI tools for producing Java source code from Android Dex and Apk files
   - JD Project
