@@ -8,6 +8,8 @@
 - [AirSim](https://github.com/microsoft/airsim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft.
 - [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [Bilibilili](https://github.com/Bingzi-Li/bilibilili) - A face-recognition-based attendance taking system.
+- [DeepStack](https://github.com/johnolafenwa/DeepStack) - The World's Leading Cross Platform AI Engine for Edge Devices.
+  - [DeepStack_ExDark](https://github.com/OlafenwaMoses/DeepStack_ExDark) - A DeepStack custom model for detecting common objects in dark/night images and videos.
 - [Fairseq](https://github.com/pytorch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [ImageAI](https://github.com/OlafenwaMoses/ImageAI) - A python library built to empower developers to build applications and systems with self-contained Computer Vision capabilities.
 - [Malmo](https://github.com/microsoft/malmo) - Project Malmo is a platform for Artificial Intelligence experimentation and research built on top of Minecraft. 
@@ -27,6 +29,14 @@ Note: https://favouriteblog.com/50-best-github-artificial-intelligence/
 
 ## Deep Learning Specific
 - [Tinygrad](https://github.com/geohot/tinygrad)
+- [TorchFusion](https://github.com/johnolafenwa/TorchFusion) - A modern deep learning framework built to accelerate research and development of AI systems.
+
+## Detection
+- [FireNET](https://github.com/OlafenwaMoses/FireNET) - A deep learning model for detecting fire in video and camera streams.
+- [Traffic-Net](https://github.com/OlafenwaMoses/Traffic-Net) - A dataset of traffic, fire and accident images for training deep learning models.
+
+### Face / Emotions
+- FacEmoji](https://github.com/PiotrDabrowskey/facemoji) - Detects face and its emotion, draws according emoji over face.
 
 ## Machine Learning
 - [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) - Machine Learning for Cyber Security.
