@@ -88,6 +88,7 @@
  
  ### Privacy and security focused Desktops
  - [PureOS](https://pureos.net/) - Privacy and security focused Debian-based dstribution.
+ - [PwOSS Mobile/Desktop/Server](https://pwoss.org/)
  - [Tailes](https://tails.boum.org) - Portable operating system that protects against surveillance and censorship
  - [Qubes OS](https://www.qubes-os.org) - Edward Snowden said in a [Twitter message](https://twitter.com/Snowden/status/781493632293605376) "_If you're serious about security, [@QubesOS](https://twitter.com/QubesOS) is the best OS available today. It's what I use, and free. Nobody does VM isolation better._"
  - [Whoonix](https://www.whonix.org) - "_Software That Can Anonymize Everything You Do Online_".
@@ -157,6 +158,7 @@
   - [Clear OS Knowledge Base](https://documentation.clearos.com/index:kb)
 - [Debian](https://www.debian.org)
 - [Fedora Server](https://getfedora.org/en/server)
+- [PwOSS Server](https://pwoss.org/)
 - [Rockstor](http://rockstor.com) - Personal Cloud Server, SMB Cloud Server, Traditional NAS server. [Download Rocktor](https://sourceforge.net/projects/rockstor/files/)
 - [Rocky Linux](https://rockylinux.org) - [github](https://github.com/rocky-linux/rocky) Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS [rockylinux.org](https://rockylinux.org).
 - [ScientificLinux](https://scientificlinux.org) - Enterprise Linux rebuild sponsored by Fermi National Accelerator Laboratory.
