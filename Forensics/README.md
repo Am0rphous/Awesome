@@ -2,10 +2,12 @@
 - [Awesome Forensics](https://github.com/alphaSeclab/awesome-forensics) - Awesome Forensics Resources. Almost 300 open source forensics tools, and 600 blog posts about forensics. 
 - [Awesome Forensics by cugu](https://github.com/Cugu/awesome-forensics) - A curated list of awesome forensic analysis tools and resources.
 - [CppCheck](https://github.com/danmar/cppcheck) -  static analysis of C/C++ code [cppcheck.sourceforge.net](http://cppcheck.sourceforge.net/).
-- [cPTS](https://github.com/reviewscientific2020/cPTS) -  Carve for potential timestamps.
+- [cPTS](https://github.com/reviewscientific2020/cPTS) - Carve for potential timestamps.
+- [ForensicsTools](https://github.com/mesquidar/ForensicsTools) - A list of free and open forensics analysis tools and other resources.
 - [Log2timeline's Plaso](https://github.com/log2timeline/plaso) - Super timeline all the things.
   - [Documentation](https://plaso.readthedocs.io/en/latest/)
 - [Guide-to-quick-forensics by securitywithoutborders](https://github.com/securitywithoutborders/guide-to-quick-forensics) - Guide to Quick Forensics.
+- [Paladin](https://sumuri.com/software/paladin/)
 - [The CERT Linux Forensics Tools Repository - LiFTeR](https://forensics.cert.org/)
 - [Velociraptor](https://github.com/Velocidex/velociraptor) - Velociraptor is an advanced digital forensic and incident response tool that enhances your visibility into your endpoints. [Docs](https://docs.velociraptor.app/)
 
