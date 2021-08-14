@@ -369,6 +369,7 @@ lsscsi                          #Print SCSI Devices Info
 - [NetworkMiner](https://www.netresec.com/?page=Networkminer) - open source Network Forensic Analysis Tool (NFAT) for Windows (but also works in Linux / Mac OS X / FreeBSD). 
 - [ntopng](https://github.com/ntop/ntopng) - Web-based Traffic and Security Network Traffic Monitoring.
 - [OpenNMS](https://github.com/OpenNMS/opennms) - Enterprise-Grade Open-Source Network Management Platform [www.opennms.org](http://www.opennms.org).
+- [OSQuery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [pSpy](https://github.com/DominicBreuker/pspy) - Monitor linux processes without root permissions
 - [Security Onion OS](https://securityonionsolutions.com)
   - [Github: Security Onion 2.3.10](https://github.com/Security-Onion-Solutions/securityonion)
