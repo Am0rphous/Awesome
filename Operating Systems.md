@@ -7,7 +7,7 @@
 - [Country Specific](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#country-specific)
 - [Desktop OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#desktop-oses)
   - [Privacy and security focused Desktops](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#privacy-and-security-focused-desktops)
-- [Educational OS'es](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#educational-oses) - OSes preferred within edu.
+- [Educational OS'es](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#educational-oses)
 - [IoT, embedded devices, tablets](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#iot-embedded-devices-tablets)
   - [Mobile Operating Systems](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#mobile-operating-systems)
     - [Android-based Operating Systems](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#android-based-operating-systems)
