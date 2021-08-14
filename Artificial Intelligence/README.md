@@ -37,6 +37,7 @@ Note: https://favouriteblog.com/50-best-github-artificial-intelligence/
 
 ## Detection / Recognition / Vision
 - [Action-Net](https://github.com/OlafenwaMoses/Action-Net) - A dataset of images for artificial intelligence models to recognize human actions.
+  - [DeepStack_ActionNET](https://github.com/OlafenwaMoses/DeepStack_ActionNET) - Provides a custom DeepStack model that has been trained and can be used for creating a new object detection API for detecting 16 human actions present in the ActionNET Dataset dataset.
 - [FireNET](https://github.com/OlafenwaMoses/FireNET) - A deep learning model for detecting fire in video and camera streams.
 - [Strawberries](https://github.com/alexlouden/strawberries) - Computer vision on 🍓.
 - [Traffic-Net](https://github.com/OlafenwaMoses/Traffic-Net) - A dataset of traffic, fire and accident images for training deep learning models.
