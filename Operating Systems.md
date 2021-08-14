@@ -1,19 +1,22 @@
 
 # Operating systems
 
-1. [A list of web resources](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#a-list-of-web-resources)
-2. [BOOT / BIOS](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#boot--bios)
-3. [Create Your Own Custom Linux OS](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#create-your-own-custom-linux-os)
-4. [Country Specific](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#country-specific)
-5. [Desktop OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#desktop-oses)
-<br >  4.1 [Most beautiful Linux Distributions 2020 (alphabetic order)](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#most-beautiful-linux-distributions-2020-alphabetic-order)
-<br >  4.2 [Privacy focused OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#privacy-and-security-focused-desktops)
-5. [IoT, embedded devices, tablets](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#iot-embedded-devices-tablets)
-6. [Pen-testing and security auditing](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#pen-testing-and-security-auditing)
-7. [Router and Firewall OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#router-and-firewall-oses)
-8. [Server OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#server-oses)
-<br >  8.1 [NAS](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#nas)
-9. [Unix OS](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#unix-os)
+- [A list of web resources](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#a-list-of-web-resources)
+- [BOOT / BIOS](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#boot--bios)
+- [Create Your Own Custom Linux OS](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#create-your-own-custom-linux-os)
+- [Country Specific](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#country-specific)
+- [Desktop OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#desktop-oses)
+  - [Privacy and security focused Desktops](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#privacy-and-security-focused-desktops)
+- [Educational OS'es](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#educational-oses) - OSes preferred within edu.
+- [IoT, embedded devices, tablets](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#iot-embedded-devices-tablets)
+  - [Mobile Operating Systems](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#mobile-operating-systems)
+    - [Android-based Operating Systems](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#android-based-operating-systems)
+- [Pen-testing and security auditing](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#pen-testing-and-security-auditing)
+- [Router and Firewall OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#router-and-firewall-oses)
+- [Server OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#server-oses)
+  - [NAS](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#nas)
+- [Unix OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#unix-oses)
+- [Virtualization](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#virtualization)
 <br >
 <br >
 
@@ -172,7 +175,7 @@
   - [TrueNAS](https://www.truenas.com)
   - [XigmaNAS](https://www.xigmanas.com/index.php?id=6)
 
-## Unix OS
+## Unix OSes
 - [DragonFly BSD](https://www.dragonflybsd.org)
 - [Free BSD](https://www.freebsd.org)
 - [Ghost BSD](https://www.ghostbsd.org) - A simple, elegant desktop BSD Operating System.
@@ -185,7 +188,7 @@
 - [Xen XCP-ng](https://xcp-ng.org/) - Open source virtualization solution with pro support options for the most demanding companies. 
 
 
-Random lisr od OSes
-`
+Random list of OSes,  sort through it later
+````
 Debian, Ubuntu, CentOS, RHEL, Deepin, Fedora, SLES, openSUSE, MX Linux, Manjaro, Linux Mint, Endless OS, Elementary OS, Solus, Linx, Zorin, antiX, PClinuxOS, Arch, ArcoLinux, ArchLabs, BackArch, Obarun, Artix Linux, Puppy Linux, Tails, Slax, Kali, Mageia, Slackware, Q4OS, Archman, Gentoo, Pentoo, NixOS, Ubuntu Kylin, Lubuntu, Xubuntu, Kubuntu, Ubuntu MATE, Ubuntu Budgie, Ubuntu Studio, Bluestar, OpenMandriva, ExTiX, Netrunner, ALT Linux, Nitrux, Peppermint, KDE neon, Linux Lite, Parrot OS, Qubes, Pop OS, ROSA, Void Linux, Star Linux, EndeavourOS, MakuluLinux, Voyager, Feren, ArchBang, LXLE, Knoppix, Robolinux, Calculate Linux, Clear Linux, Pure OS, Oracle Linux, Trident, Septor, Porteus, Devuan, GoboLinux, 4MLinux, Simplicity Linux, Zeroshell, Android-x86, netboot.xyz, Slitaz, SuperGrub2Disk, Proxmox VE, Kaspersky Rescue, SystemRescueCD, MemTest86, MiniTool Partition Wizard, Parted Magic, veket, Sabayon, Scientific, alpine, ClearOS, CloneZilla, Berry Linux, Trisquel, Ataraxia Linux, Minimal Linux Live, BackBox Linux, Emmabuntüs, ESET SysRescue Live,Nova Linux, AV Linux, RoboLinux, NuTyX, IPFire, SELKS, ZStack, Enso Linux, Security Onion, Network Security Toolkit, Absolute Linux, TinyCore, Springdale Linux, Frost Linux, Shark Linux, LinuxFX, Snail Linux, Astra Linux, Namib Linux, Resilient Linux, Virage Linux, Blackweb Security OS, R-DriveImage, O-O.DiskImage, Macrium, ToOpPy LINUX, GNU Guix, YunoHost, foxclone, siduction, Adelie Linux, Elive, Pardus, CDlinux, AcademiX, Austrumi, Zenwalk, Anarchy, DuZeru, BigLinux, OpenMediaVault, Ubuntu DP, Exe GNU/Linux, 3CX Phone System, KANOTIX, Grml, Karoshi, PrimTux, ArchStrike, CAELinux, Refracta, Cucumber, Fatdog, ForLEx, Hanthana, Kwort, MiniNo, Redcore, Runtu, Asianux, Clu Linux Live, Uruk, OB2D, BlueOnyx, Finnix, HamoniKR, Parabola, LinHES, LinuxConsole, BEE free, Untangle, Pearl, Thinstation, TurnKey, tuxtrans, Neptune, HefftorLinux, GeckoLinux, Mabox Linux, Zentyal, Maui, Reborn OS, SereneLinux , SkyWave Linux, Kaisen Linux, Regata OS, TROM-Jaro, DRBL Linux, Chalet OS, Chapeau, Desa OS, BlankOn, OpenMamba, Frugalware, Kibojoe Linux, Revenge OS, Tsurugi Linux, Drauger OS, Hash Linux, gNewSense, Ikki Boot, SteamOS, Hyperbola, VyOS, EasyNAS, SuperGamer, Live Raizo, Swift Linux, RebeccaBlackOS, Daphile, CRUX, Univention, Ufficio Zero, Rescuezilla, Phoenix OS, Garuda Linux, Mll, NethServer, OSGeoLive, Easy OS, Volumio, FreedomBox, paldo, UBOS, Recalbox, batocera, Lakka, LibreELEC, Pardus Topluluk, Pinguy, KolibriOS, Elastix, Arya, Omoikane, Omarine, Endian Firewall, Hamara, Rocks Cluster, MorpheusArch, Redo, Slackel, SME Server, APODIO, Smoothwall, Dragora, Linspire, Secure-K OS, Peach OSI, Photon, Plamo, SuperX, Bicom, Ploplinux, HP SPP, LliureX, Freespire, DietPi, BOSS, Webconverger, Lunar, TENS, Source Mage, RancherOS, T2, Vine, Pisi, blackPanther, mAid, Acronis, Active.Boot, AOMEI, Boot.Repair, CAINE, DaRT, EasyUEFI, R-Drive, PrimeOS, Avira Rescue System, bitdefender, Checkra1n Linux, Lenovo Diagnostics, Clover, Bliss-OS, Lenovo BIOS Update, Arcabit Rescue Disk,
-`
+````
