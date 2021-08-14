@@ -1,5 +1,8 @@
 # Macbook Pro Resources
 
+## Anti-Virus, Anti-Malware, Rootkits and infections
+- [Dylib Hijack Scanner](https://objective-see.com/products/dhs.html)
+
 ## Collection of various resources
 - [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
 - [Awesome macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
