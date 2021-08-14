@@ -76,6 +76,7 @@ _"Freely accessing knowledge is an essential human right. Knowledge is the found
 - [Awesome Linux](https://github.com/inputsh/awesome-linux) - 🐧 A list of awesome projects and resources that make Linux even more awesome. 🐧
 - [Awesome Machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
 - [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) - Machine Learning for Cyber Security.
+- [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
 - [Awesome Open Source](https://awesomeopensource.com) - Find Open Source By Searching, Browsing and Combining 7,000 Topics Across 59 Categories And 337,263 Projects
 - [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts)
 - [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
@@ -89,6 +90,7 @@ _"Freely accessing knowledge is an essential human right. Knowledge is the found
 - [Awesome Termux](https://github.com/T4P4N/Awesome-Termux)
 - [Awesome UNIX](https://github.com/sirredbeard/Awesome-UNIX) - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
 - [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) - A curated list of Web Security materials and resources.
+- [Awesome Workflow Engines](https://github.com/meirwah/awesome-workflow-engines) - A curated list of awesome open source workflow engines.
 - [Awesome WSL](https://github.com/sirredbeard/Awesome-WSL) - Awesome list dedicated to Windows Subsystem for Linux.
 - [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome)
 
