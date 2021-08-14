@@ -731,6 +731,7 @@ upstream_recursive_servers:
     - [KVM Management Tools list](https://www.linux-kvm.org/page/Management_Tools) - Options available to manage kvm virtual machines.
     - [Vmmaestro](https://github.com/mzch/vmmaestro) - Tiny control wrapper for KVM.
   - [Multipass](https://ubuntu.com/server/docs/virtualization-multipass) - Instant Ubuntu VMs (Windows, macOS and Linux)
+  - [Nanos VMs](https://github.com/nanovms/nanos) - A kernel designed to run one and only one application in a virtualized environment. [nanos.org](https://nanos.org)
   - [oVirt](https://www.ovirt.org) - Free open-source virtualization solution for your entire enterprise.
     - [oVirt documentation](https://www.ovirt.org/documentation)
   - [Virtlyst](https://github.com/cutelyst/Virtlyst) - Web interface to manage virtual machines with libvirt.
