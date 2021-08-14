@@ -261,6 +261,7 @@ _"Freely accessing knowledge is an essential human right. Knowledge is the found
 
 ## Looking for software, projects, courses or inspiration?
 - [Ail-framework](https://github.com/ail-project/ail-framework) - Analysis Information Leak framework.
+- [AwesomeOpenSource](https://awesomeopensource.com/)
 - [FeatHub](https://feathub.com)
 - [FindBestPpenSource.com/projects](https://www.findbestopensource.com/projects)
 - [Electronjs.org/apps](https://www.electronjs.org/apps)
