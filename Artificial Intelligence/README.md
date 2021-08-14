@@ -35,9 +35,10 @@ Note: https://favouriteblog.com/50-best-github-artificial-intelligence/
 - [Tinygrad](https://github.com/geohot/tinygrad)
 - [TorchFusion](https://github.com/johnolafenwa/TorchFusion) - A modern deep learning framework built to accelerate research and development of AI systems.
 
-## Detection / Recognition
+## Detection / Recognition / Vision
 - [Action-Net](https://github.com/OlafenwaMoses/Action-Net) - A dataset of images for artificial intelligence models to recognize human actions.
 - [FireNET](https://github.com/OlafenwaMoses/FireNET) - A deep learning model for detecting fire in video and camera streams.
+- [Strawberries](https://github.com/alexlouden/strawberries) - Computer vision on 🍓.
 - [Traffic-Net](https://github.com/OlafenwaMoses/Traffic-Net) - A dataset of traffic, fire and accident images for training deep learning models.
 
 ### Face / Emotions
