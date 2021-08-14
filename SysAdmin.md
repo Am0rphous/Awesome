@@ -762,6 +762,7 @@ upstream_recursive_servers:
 - [Caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS.
   - [CertMagic](https://github.com/caddyserver/certmagic) - Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal.
 - [Csrf](https://github.com/gorilla/csrf) - gorilla/csrf provides Cross Site Request Forgery (CSRF) prevention middleware for Go web applications & services.
+- [DNScrypt-proxy 2](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [FastTunnel](https://github.com/SpringHgui/FastTunnel) - NAT 内网穿透 远程内网计算机 域名访问内网站点 反向代理内网服务 花生壳 端口转发 http代理 微信 小程序 expose a local server behind a NAT or firewall to the internet like ngrok and frp. NAT ssh proxy tunnel reverse-proxy.
 - [Frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [Hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
