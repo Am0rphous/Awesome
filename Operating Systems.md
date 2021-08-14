@@ -1,6 +1,8 @@
 
 # Operating systems
 
+- [Don't use Windows 10 - It's a privacy nightmare](https://www.privacytools.io/operating-systems/#win10)
+
 - [A list of web resources](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#a-list-of-web-resources)
 - [BOOT / BIOS](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#boot--bios)
 - [Create Your Own Custom Linux OS](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#create-your-own-custom-linux-os)
