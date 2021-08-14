@@ -96,6 +96,7 @@ bro / zeek
   2606:4700:4700::1001
   ````
 - [Blocky](https://github.com/0xERR0R/blocky) - DNS proxy as ad-blocker for local network.
+- [Energized Protection - block ⚡](https://github.com/EnergizedProtection/block) - Let's make an annoyance free, better open internet, altogether!
 - [PiHole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements.
   - [Docker Pi-hole](https://github.com/pi-hole/docker-pi-hole) -  Pi-hole in a docker container.
   - [PADD](https://github.com/pi-hole/PADD) - PADD (formerly Chronometer2) is a more expansive version of the original chronometer.sh that is included with Pi-Hole. PADD provides in-depth information about your Pi-hole.
@@ -103,6 +104,7 @@ bro / zeek
 #### Blocklists
   - [AdGuard CNAME Tracker List](https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt)
   - [binarydefense.com/banlist.txt](https://www.binarydefense.com/banlist.txt)
+  - [EasyList](https://github.com/easylist/easylist) - EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List).
   - [hosts-blocklists by Notracking](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage.
   - [iplists.firehol.org](https://iplists.firehol.org)
     - [firehol_level3](https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level3.netset)
