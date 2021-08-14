@@ -113,6 +113,7 @@
 - [Ubermix](http://www.ubermix.org) - "Built by educators with an eye towards student and teacher empowerment."
 
 ## IoT, embedded devices, tablets
+- [Alpine Linux](https://www.alpinelinux.org) - [Alpine Gitlab](https://gitlab.alpinelinux.org)
 - [Bliss OS - Android for your PC](https://blissos.org) - An Open Source OS, based on Android, that incorporates many optimizations, features, and expanded device support. And it is available for just about any Chromebook, Windows/Linux PC or tablet released in the last 4 years.
 - [Fedora IoT](https://getfedora.org/en/iot/)
 - [LineageOS Android Distribution](https://lineageos.org) - A free and open-source operating system for various devices, based on the Android mobile platform.
@@ -131,6 +132,7 @@
 - [Parrot](https://www.parrotsec.org) - designed for penetration testing, vulnerability assessment and mitigation, computer forensics and anonymous web browsing. 
 
 ## Router and Firewall OSes
+- [Alpine Linux](https://www.alpinelinux.org) - [Alpine Gitlab](https://gitlab.alpinelinux.org)
 - [BSD Router](https://bsdrp.net) - Free open source software router distribution based on embedded FreeBSD.
 - [DD-WRT](https://dd-wrt.com) - DD-WRT is a Linux based alternative OpenSource firmware suitable for a great variety of WLAN routers and embedded systems.
   - [DD-WRT - Log](https://svn.dd-wrt.com/log/)
