@@ -201,6 +201,7 @@ _"Freely accessing knowledge is an essential human right. Knowledge is the found
 
     #### Node.js - Open-source and cross-platform JavaScript runtime environment.
     - [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs) - ⚡ Delightful Node.js packages and resources.
+    - [Playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
     - [Pm2.io](https://pm2.io) - PM2 is a production process manager for Node.js applications with a built-in load balancer. It allows you to keep applications alive forever, to reload them without downtime and to facilitate common system admin tasks.
     #### PHP
     - [Awesome-PHP](https://github.com/ziadoz/awesome-php) - _A curated list of amazingly awesome PHP libraries, resources and shiny things._
