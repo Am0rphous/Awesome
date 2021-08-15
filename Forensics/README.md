@@ -155,6 +155,7 @@ Description: The Portable Executable format is a file format for executables, ob
 - [Recoverpy](https://github.com/PabloLec/recoverpy) - A TUI to recover overwritten or deleted data.
 
 ## Smartphone Devices
+- [House](https://github.com/nccgroup/house) - A runtime mobile application analysis toolkit with a Web GUI, powered by Frida, written in Python.
 - [MVT](https://github.com/mvt-project/mvt) - MVT is a forensic tool to look for signs of infection in smartphone devices.
 ### Android
 - [Snoopdroid 2](https://github.com/botherder/snoopdroid2) - Snoopdroid 2 is a portable tool to simplify the acquisition of relevant forensic data from Android devices. It is the successor of Snoopdroid, re-written in Go and leveraging official adb binaries.
