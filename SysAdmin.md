@@ -212,6 +212,9 @@ bro / zeek
   - [openbenchmarking.org](https://openbenchmarking.org) - Storage of Phoronix Test Suite benchmark result data (including optional system logs, etc).
   - [Phoronix Test Suite on Github](https://github.com/phoronix-test-suite/phoronix-test-suite) - The Phoronix Test Suite open-source, cross-platform automated testing/benchmarking software.
 
+## Cloud
+- [ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool.
+
 ## Communication / Collaboration
 - [Convos](https://convos.chat)
 - [CryptPad](https://github.com/xwiki-labs/cryptpad) - Collaboration suite, encrypted and open-source.
