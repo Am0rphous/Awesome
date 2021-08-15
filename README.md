@@ -166,11 +166,11 @@ _"Freely accessing knowledge is an essential human right. Knowledge is the found
 - [Github Desktop](https://github.com/desktop/desktop) - open source Electron-based GitHub app. It is written in TypeScript and uses React [desktop.github.com/](https://desktop.github.com).
 - [INGInious](https://github.com/UCL-INGI/INGInious) - INGInious is a secure and automated exercises assessment platform using your own tests, also providing a pluggable interface with your existing LMS.
   - [INGInious plugins](https://github.com/UCL-INGI/INGInious-plugins) - A list of open-source plugins for your INGInious instance.
-- [Jupyter Notebook](https://github.com/jupyter/notebook) - web-based notebook environment for interactive computing.
+- [Jupyter Notebook](https://github.com/jupyter/notebook) - Web-based notebook environment for interactive computing.
 - [Prompts](https://github.com/terkelg/prompts#selectmessage-choices-initial-hint-warn) - ❯ Lightweight, beautiful and user-friendly interactive prompts.
 - [PyCharm](https://www.jetbrains.com/pycharm) - Python IDE for Professional Developers.
-- [Socket.io](https://github.com/socketio/socket.io) - _Realtime application framework (Node.JS server)._
-  - [Socket.io-client](https://github.com/socketio/socket.io-client) - _Realtime application framework (client)._
+- [Socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server).
+  - [Socket.io-client](https://github.com/socketio/socket.io-client) - Realtime application framework (client).
 - [Spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder - The Scientific Python Development Environment.
 - [Sublime](https://www.sublimetext.com) - A sophisticated text editor for code, markup and prose.
 - [Thonny PyDev](https://github.com/thonny/thonny) - Python IDE for beginners.
@@ -213,6 +213,9 @@ _"Freely accessing knowledge is an essential human right. Knowledge is the found
     - [Rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
       - [Enrich](https://github.com/pycontribs/enrich) - Enrich adds few missing features to the wonderful rich library.
     - [Textual](https://github.com/willmcgugan/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
+    #### Web
+    - [Phoenix framework](https://github.com/phoenixframework/phoenix) - [www.phoenixframework.org](https://www.phoenixframework.org)
+      - [Sobelow](https://github.com/nccgroup/sobelow) - Sobelow is a security-focused static analysis tool for the Phoenix framework. For security researchers, it is a useful tool for getting a quick view of points-of-interest. For project maintainers, it can be used to prevent the introduction of a number of common vulnerabilities.
 
 ## E-books
 - [Check Am0rphous Web-Resources.md](https://github.com/Am0rphous/Awesome/blob/master/Web-Resources.md)
