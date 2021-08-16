@@ -95,9 +95,6 @@ _"Freely accessing knowledge is an essential human right. Knowledge is the found
 - [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome)
 
 ## Communication
-- [Caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app.
-- [Instagram-web-api](https://github.com/jlobos/instagram-web-api#instagramcredentials-opts) - 🤳 Instagram Private Web API client for Node.
-- [mastodon](https://github.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community.
   ### E-mail
   - [ElectronMail](https://github.com/vladimiry/ElectronMail) - Unofficial ProtonMail Desktop App.
   - [Post Quantum Mail](https://github.com/swapravo/pqm-client) - Quantum-safe anonymous encrypted emails. [postquantummail.com](https://postquantummail.com)
@@ -421,11 +418,15 @@ Based on that data, you can find the most popular ones and their alternatives.
   ````
 
 ## Social Media
+- [Caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app.
+- [Mastodon](https://github.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community.
 - [Diaspora](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network.
   ### Images
   - [PixelFed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
     #### Instagram
+    - [IGdm Messenger](https://github.com/igdmapps/igdm) - Desktop application for Instagram DMs.
     - [InstagramMacOS](https://github.com/LukaMarr/InstagramMacOS) - Poster — Instagram upload & view client for MacOS. 📷 [lukamarr.github.io/InstagramMacOS](https://lukamarr.github.io/InstagramMacOS)
+    - [Instagram-web-api](https://github.com/jlobos/instagram-web-api#instagramcredentials-opts) - 🤳 Instagram Private Web API client for Node.
     - [Ramme](https://github.com/terkelg/ramme) - **(Archived)** Unofficial Instagram Desktop App. 
   
   ### Blogging
