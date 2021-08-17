@@ -44,7 +44,7 @@ _"Freely accessing knowledge is an essential human right. Knowledge is the found
     - [Docker](https://github.com/Am0rphous/Awesome/blob/master/README.md#docker)
   - [IP-TV](https://github.com/Am0rphous/Awesome/blob/master/README.md#ip-tv)
   - [Music](https://github.com/Am0rphous/Awesome/blob/master/README.md#music)
-  - [Sound Production](https://github.com/Am0rphous/Awesome/blob/master/README.md#sound-production)
+    - [Sound Production](https://github.com/Am0rphous/Awesome/blob/master/README.md#sound-production)
     - [Music Apps](https://github.com/Am0rphous/Awesome/blob/master/README.md#music-apps)
     - [Podcast]()
 - [News, RSS Feed](https://github.com/Am0rphous/Awesome/blob/master/README.md#news-rss-feed)
@@ -342,7 +342,9 @@ Based on that data, you can find the most popular ones and their alternatives.
     - [Subsonic](http://www.subsonic.org/pages/index.jsp) - Music streaming server.
       - [Subsonic App List](http://www.subsonic.org/pages/apps.jsp)
     - [Ultrasonic](https://github.com/ultrasonic/ultrasonic) - Free and open-source music streaming Android client for Subsonic API compatible servers.
-   
+    ##### Radio
+    - [Great Little Radio Player](https://sites.google.com/site/glrpgreatlittleradioplayer/home)
+    - [Strimio](https://www.strimio.com) - A Beautiful Modern Radio Streaming App. [snap package](https://snapcraft.io/strimio-desktop)
     ##### Sound Production
     - [CubicSDR](https://github.com/cjcliffe/CubicSDR) - Cross-Platform Software-Defined Radio Application. [www.cubicsdr.com](http://www.cubicsdr.com/)
     - [Ardour](https://ardour.org/) - Record, Edit, and Mix on Linux, macOS and Windows
@@ -358,7 +360,7 @@ Based on that data, you can find the most popular ones and their alternatives.
       - [Soundcleod](https://github.com/salomvary/soundcleod) - SoundCloud for macOS and Windows.
       - [Soundnode App](https://github.com/Soundnode/soundnode-app) - Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API. 
       - [Spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
-        - ###### Podcast
+         ###### Podcast
          - [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts.
          - [CPod](https://github.com/z-------------/CPod) - A simple, beautiful podcast app for Windows, macOS, and Linux.
          - [Winds](https://github.com/getstream/winds/) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io.
