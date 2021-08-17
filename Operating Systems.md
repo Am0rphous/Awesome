@@ -125,6 +125,7 @@
 - [Ubunt Server](https://ubuntu.com)
 - [Ubuntu Touch](https://ubuntu-touch.io/get-ubuntu-touch)
   ### Mobile Operating Systems
+  - [Sailfish OS](https://sailfishos.org/) - Sailfish OS is a secure mobile operating system optimized to run on smartphones and tablets, and also easily adaptable to all kinds of embedded devices and use cases. The fourth generation, Sailfish 4, boasts a multitude of new enablers to support different ecosystem projects, be it private corporate solutions or public sector governmental deployments.
   #### Android-based Operating Systems
   - [CalyxOS](https://calyxos.org) - CalyxOS is a custom ROM based on the Android Open Source Project with Pixel phones. It aims to be secure and private by default including a number of good choices for default applications. It also supports verified boot.
   - [CopperheadOS](https://copperhead.co/android/) - Secure Android built for encrypted and secure phones by a privacy focused company. Available as security-centric and privacy focused Google-free Android for the latest Pixel devices.
