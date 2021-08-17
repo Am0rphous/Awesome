@@ -242,8 +242,16 @@ _"Freely accessing knowledge is an essential human right. Knowledge is the found
 ## Games
 - [Games on Github](https://github.com/leereilly/games) - A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine. 
 
-## Geography
+## Geography and maps
+- [Cruiser](https://wiki.openstreetmap.org/wiki/Cruiser)
+- [FoxtrotGPS](https://www.foxtrotgps.org/) - FoxtrotGPS is an easy to use, free & open-source GPS/GIS application that works well on small screens, and is especially suited to touch input.
+- [Gnome Maps](https://github.com/GNOME/gnome-maps) - Read-only mirror of [gitlab.gnome.org/GNOME/gnome-maps](https://gitlab.gnome.org/GNOME/gnome-map).
 - [GMT - Generic Mapping Tools](https://github.com/GenericMappingTools/gmt) - Open source collection of about 90 command-line tools for manipulating geographic and Cartesian data sets.
+- [Gradio](https://github.com/haecker-felix/gradio/) - A GTK3 app for finding and listening to internet radio stations.
+- [GraphHopper Routing Engine](https://github.com/graphhopper/graphhopper) - Open source routing engine for OpenStreetMap. Use it as Java library or server.
+- [MapSCII](https://github.com/rastapasta/mapscii) - world_map MapSCII is a Braille & ASCII world map renderer for your console - enter => telnet mapscii.me <= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows.
+- [Marble](https://marble.kde.org/) - Marble is an open source map viewer, atlas explorer and globe viewer. Developed by the KDE team, Marble allows you to plan routes and it can search for maps from multiple sources.
+- [Pure Maps]() - Maps and navigation.
 
 ## Hardware
 - [Inventory Hunter](https://github.com/EricJMarti/inventory-hunter) - Get notified as soon as your next CPU, GPU, or game console is in stock.
