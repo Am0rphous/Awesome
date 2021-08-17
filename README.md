@@ -179,6 +179,7 @@ _"Freely accessing knowledge is an essential human right. Knowledge is the found
   - [Icon](https://github.com/bung87/icon) - Icon file generator for Windows, macOS, Web.
   - [Npm-icon-gen](https://github.com/akabekobeko/npm-icon-gen) - Icon file generator for Windows, macOS, Web.
   ### Programming
+  - [Flask-base](https://github.com/hack4impact/flask-base) - A simple Flask boilerplate app with SQLAlchemy, Redis, User Authentication, and more. 
   - [KDevelop](https://github.com/KDE/kdevelop) - Cross-platform IDE for C, C++, Python, QML/JavaScript and PHP.
   - [Nest](https://github.com/MLX15/nestjs) - A progressive Node.js framework for building efficient and scalable server-side applications.
     #### Electron
@@ -212,6 +213,7 @@ _"Freely accessing knowledge is an essential human right. Knowledge is the found
       - [Enrich](https://github.com/pycontribs/enrich) - Enrich adds few missing features to the wonderful rich library.
     - [Textual](https://github.com/willmcgugan/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
     #### Web
+    - [Nextra](https://github.com/shuding/nextra) - Nextra is a Next.js and MDX powered, no-code site generator.
     - [Phoenix framework](https://github.com/phoenixframework/phoenix) - [www.phoenixframework.org](https://www.phoenixframework.org)
       - [Sobelow](https://github.com/nccgroup/sobelow) - Sobelow is a security-focused static analysis tool for the Phoenix framework. For security researchers, it is a useful tool for getting a quick view of points-of-interest. For project maintainers, it can be used to prevent the introduction of a number of common vulnerabilities.
 
