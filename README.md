@@ -52,6 +52,7 @@ _"Freely accessing knowledge is an essential human right. Knowledge is the found
   - [Note Taking Apps](https://github.com/Am0rphous/Awesome/blob/master/README.md#note-taking-apps)
   - [Office Tools](https://github.com/Am0rphous/Awesome/blob/master/README.md#office-tools)
   - [Security](https://github.com/Am0rphous/Awesome/blob/master/README.md#security)
+- [Resources](https://github.com/Am0rphous/Awesome/blob/master/README.md#resources)
 - [Tools](https://github.com/Am0rphous/Awesome/blob/master/README.md#tools)
   - [DVD-ripping](https://github.com/Am0rphous/Awesome/blob/master/README.md#dvd-ripping)
   - [Hex](https://github.com/Am0rphous/Awesome/blob/master/README.md#hex)
@@ -453,6 +454,9 @@ Based on that data, you can find the most popular ones and their alternatives.
     - [Funkwhale Docker Container](https://github.com/michaelmob/docker-funkwhale) - All-in-one funkwhale docker image.
   ### Video Hosting
   - [PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser.
+
+## Resources
+- [Effective Resourses ](https://github.com/wususu/effective-resourses) - book学习资源整合 .
 
 ## Tools
   ### DVD-ripping
