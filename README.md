@@ -355,6 +355,7 @@ Based on that data, you can find the most popular ones and their alternatives.
     - [Ultrasonic](https://github.com/ultrasonic/ultrasonic) - Free and open-source music streaming Android client for Subsonic API compatible servers.
     ##### Radio
     - [Great Little Radio Player](https://sites.google.com/site/glrpgreatlittleradioplayer/home)
+    - [Radiotray-NG](https://github.com/ebruck/radiotray-ng) - An Internet radio player for Linux.
     - [Strimio](https://www.strimio.com) - A Beautiful Modern Radio Streaming App. [snap package](https://snapcraft.io/strimio-desktop)
     ##### Sound Production
     - [CubicSDR](https://github.com/cjcliffe/CubicSDR) - Cross-Platform Software-Defined Radio Application. [www.cubicsdr.com](http://www.cubicsdr.com/)
