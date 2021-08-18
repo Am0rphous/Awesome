@@ -6,6 +6,7 @@
 
 ## Peripherals
 - [AntiMicro](https://github.com/AntiMicro/antimicro) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
+- [AntiMicroX](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
 - [CKB](https://github.com/ccMSC/ckb) - RGB Driver for Linux and OS X.
 - [Piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices.
 
