@@ -40,4 +40,5 @@
 4. Then restart your computer, that’s it
 ````
 ## Terminal / CMD / PowerShell
-- [awesome-windows-command-line](https://github.com/Awesome-Windows/awesome-windows-command-line) - ◼️ Use your Windows terminal to do awesome things.
+- [Awesome Windows Command-line](https://github.com/Awesome-Windows/awesome-windows-command-line) - ◼️ Use your Windows terminal to do awesome things.
+- [Windows Terminal](https://github.com/Microsoft/Terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
