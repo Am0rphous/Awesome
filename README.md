@@ -110,7 +110,7 @@ _"Freely accessing knowledge is an essential human right. Knowledge is the found
       - [Profiles - Where Thunderbird stores your messages and other user data](https://support.mozilla.org/en-US/kb/profiles-where-thunderbird-stores-user-data?redirectslug=profiles-tb&redirectlocale=en-US)
       - [Just Report It](https://addons.thunderbird.net/thunderbird/addon/just-report-it/?src=cb-dl-recentlyadded) - Just Report It (https://justreport.it) is an email plugin which tackles spam the right way. Report emails straight to SpamCop, the Registrar, a custom email address or any combination in between!
   ### IRC
-    #### IRC Clients
+  #### IRC Clients
 - [Birch](https://github.com/dylanaraps/birch) - An IRC client written in bash.
 - [Irssi](https://irssi.org/) - vpowerful text-mode IRC client.
 - [Kirc](https://github.com/mcpcpc/kirc) -  A tiny IRC client written in POSIX C99.
