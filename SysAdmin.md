@@ -458,6 +458,7 @@ upstream_recursive_servers:
   - [Remote Desktop Manager Free](https://remotedesktopmanager.com) - Windows, Mac, Linux, Android & iOS.
   Install it with e.g. `brew install --cask remote-desktop-manager-free`
   - [RustDesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software.
+  - [ScreenCat](https://github.com/maxogden/screencat) - Cat2 webrtc screensharing electron app for mac os (Alpha).
   - [xRDP](https://github.com/neutrinolabs/xrdp) - Open source RDP server.
   - VNC (Virtual Network Computing)
     - [TigerVNC](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server.
