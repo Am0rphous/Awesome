@@ -152,43 +152,43 @@ _"Freely accessing knowledge is an essential human right. Knowledge is the found
   #### Theme Tutorials
   - [How to Make Ubuntu 20.04 Look Like Mac OS](https://azatb.com/2020/10/12/how-to-make-ubuntu-20-04-look-like-mac-os-linux-hint/)
   
-
 ## Development
-- [Atom](https://github.com/atom/atom) - Atom is a hackable text editor for the 21st century, built on Electron.
-  - [GhostText-for-Atom](https://github.com/GhostText/GhostText-for-Atom) - Allows live editing of Chrome/Firefox text area or JS Code editor content with Atom using WebSockets.
-- [CppCheck](https://github.com/danmar/cppcheck) -  static analysis of C/C++ code.
-- [Dart SDK](https://github.com/dart-lang/sdk) - Dart is an open-source, scalable programming language, with robust libraries and runtimes, for building web, server, and mobile apps.
+- [CppCheck](https://github.com/danmar/cppcheck) -  Static analysis of C/C++ code.
 - [DocToc](https://doctoc.herokuapp.com/) - Generates table of content for markdown files inside github repositories Tweet.
-- [Electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS .
-- [Emmet Sublime](https://github.com/sergeche/emmet-sublime) - Emmet for Sublime Text.
-- [GhostText](https://github.com/GhostText/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
-- [Github Desktop](https://github.com/desktop/desktop) - open source Electron-based GitHub app. It is written in TypeScript and uses React [desktop.github.com/](https://desktop.github.com).
+- [Git / Github Desktop](https://github.com/desktop/desktop) - open source Electron-based GitHub app. It is written in TypeScript and uses React [desktop.github.com/](https://desktop.github.com).
+  - [Gitify](https://github.com/manosim/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
 - [INGInious](https://github.com/UCL-INGI/INGInious) - INGInious is a secure and automated exercises assessment platform using your own tests, also providing a pluggable interface with your existing LMS.
   - [INGInious plugins](https://github.com/UCL-INGI/INGInious-plugins) - A list of open-source plugins for your INGInious instance.
 - [Jupyter Notebook](https://github.com/jupyter/notebook) - Web-based notebook environment for interactive computing.
 - [Prompts](https://github.com/terkelg/prompts#selectmessage-choices-initial-hint-warn) - ❯ Lightweight, beautiful and user-friendly interactive prompts.
-- [PyCharm](https://www.jetbrains.com/pycharm) - Python IDE for Professional Developers.
-- [Socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server).
-  - [Socket.io-client](https://github.com/socketio/socket.io-client) - Realtime application framework (client).
-- [Spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder - The Scientific Python Development Environment.
-- [Sublime](https://www.sublimetext.com) - A sophisticated text editor for code, markup and prose.
 - [Thonny PyDev](https://github.com/thonny/thonny) - Python IDE for beginners.
-- [Visual Studio Code](https://github.com/Microsoft/vscode) - [code.visualstudio.com](https://code.visualstudio.com)
 - [Wing](https://github.com/kbrsh/wing) - A beautiful CSS framework designed for minimalists [kbrsh.github.io](https://kbrsh.github.io/wing/).
   ### Code Editors
+  - [Atom](https://github.com/atom/atom) - Atom is a hackable text editor for the 21st century, built on Electron.
+  - [GhostText](https://github.com/GhostText/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
+    - [GhostText-for-Atom](https://github.com/GhostText/GhostText-for-Atom) - Allows live editing of Chrome/Firefox text area or JS Code editor content with Atom using WebSockets.
   - [Light Table](http://lighttable.com/) - The next generation code editor.
+  - [PyCharm](https://www.jetbrains.com/pycharm) - Python IDE for Professional Developers.
+  - [Spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder - The Scientific Python Development Environment.
+  - [Sublime](https://www.sublimetext.com) - A sophisticated text editor for code, markup and prose.
+    - [Emmet Sublime](https://github.com/sergeche/emmet-sublime) - Emmet for Sublime Text.
+  - [Visual Studio Code](https://github.com/Microsoft/vscode) - [code.visualstudio.com](https://code.visualstudio.com)
+
+
   ### Icons
   - [100+ Awesome Free Icons Sets by designwall.com](https://www.designwall.com/blog/100-awesome-free-icons-sets/)
   - [Fontawesome.com's icons](https://fontawesome.com/v4.7/icons/)
   - [Icon](https://github.com/bung87/icon) - Icon file generator for Windows, macOS, Web.
   - [Npm-icon-gen](https://github.com/akabekobeko/npm-icon-gen) - Icon file generator for Windows, macOS, Web.
   ### Programming
+  - [Dart SDK](https://github.com/dart-lang/sdk) - Dart is an open-source, scalable programming language, with robust libraries and runtimes, for building web, server, and mobile apps.
   - [Flask-base](https://github.com/hack4impact/flask-base) - A simple Flask boilerplate app with SQLAlchemy, Redis, User Authentication, and more. 
   - [KDevelop](https://github.com/KDE/kdevelop) - Cross-platform IDE for C, C++, Python, QML/JavaScript and PHP.
   - [Nest](https://github.com/MLX15/nestjs) - A progressive Node.js framework for building efficient and scalable server-side applications.
     #### Electron
     - [Awesome Electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron.
-    - [Electron Apps](https://github.com/electron/apps) -  A collection of apps built on Electron. [electronjs.org/apps](https://www.electronjs.org/apps)
+    - [Electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS .
+      - [Electron Apps](https://github.com/electron/apps) -  A collection of apps built on Electron. [electronjs.org/apps](https://www.electronjs.org/apps)
     - [Menubar](https://github.com/maxogden/menubar) - Heavy_minus_sign high level way to create menubar desktop applications with electron.
     - [Glasstron](https://github.com/AryToNeX/Glasstron) - The go-to solution to Electron composition effects, such as blurry windows.
     #### HTML
@@ -208,6 +208,8 @@ _"Freely accessing knowledge is an essential human right. Knowledge is the found
     - [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs) - ⚡ Delightful Node.js packages and resources.
     - [Playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
     - [Pm2.io](https://pm2.io) - PM2 is a production process manager for Node.js applications with a built-in load balancer. It allows you to keep applications alive forever, to reload them without downtime and to facilitate common system admin tasks.
+    - [Socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server).
+      - [Socket.io-client](https://github.com/socketio/socket.io-client) - Realtime application framework (client).
     - [The Art of Node](https://github.com/maxogden/art-of-node) - A short introduction to node.js
 
     #### PHP
