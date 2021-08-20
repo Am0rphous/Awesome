@@ -414,6 +414,7 @@ Based on that data, you can find the most popular ones and their alternatives.
   - [Notion](https://www.notion.so) - All-in-one workspace.
   - [Taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
     - [How to Manage Your Tasks in the Terminal with Taskbook](https://www.maketecheasier.com/manage-tasks-in-terminal-with-taskbook/)
+  - [QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.
   ### Office Tools
   - [FreeOffice](https://www.freeoffice.com)
   - [dictionaries](https://www.freeoffice.com/en/download/dictionaries)
