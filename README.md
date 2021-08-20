@@ -188,6 +188,7 @@ _"Freely accessing knowledge is an essential human right. Knowledge is the found
   - [Nest](https://github.com/MLX15/nestjs) - A progressive Node.js framework for building efficient and scalable server-side applications.
     #### Electron
     - [Awesome Electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron.
+    - [Electron Apps](https://github.com/electron/apps) -  A collection of apps built on Electron. [electronjs.org/apps](https://www.electronjs.org/apps)
     - [Menubar](https://github.com/maxogden/menubar) - Heavy_minus_sign high level way to create menubar desktop applications with electron.
     - [Glasstron](https://github.com/AryToNeX/Glasstron) - The go-to solution to Electron composition effects, such as blurry windows.
     #### HTML
