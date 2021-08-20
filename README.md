@@ -225,6 +225,9 @@ _"Freely accessing knowledge is an essential human right. Knowledge is the found
 
 ## Encryption
 - [Encrypting Kali Setup Tutorial (working pr. 10.11.20)](https://www.informaticar.net/how-to-manually-partition-and-encrypt-kali-linux/)
+- [GnuPGP](https://gnupg.org/) - The GNU Privacy Guard. GnuPG is a complete and free implementation of the OpenPGP standard as defined by RFC4880 (also known as PGP). GnuPG allows you to encrypt and sign your data and communications; it features a versatile key management system, along with access modules for all kinds of public key directories. GnuPG, also known as GPG, is a command line tool with features for easy integration with other applications. A wealth of frontend applications and libraries are available. GnuPG also provides support for S/MIME and Secure Shell (ssh).
+  - [EasyGPG](https://github.com/guelfoweb/easygpg) - Zenity GUI to manage GPG keys.
+  - [GnuPG Github](https://github.com/gpg/gnupg)
 - [LibreCrypt](https://github.com/t-d-k/LibreCrypt) - LibreCrypt: Transparent on-the-fly disk encryption for Windows. LUKS compatible.
 - [Sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets 
 - [VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt.
