@@ -498,6 +498,7 @@ upstream_recursive_servers:
   - [Lustre](https://www.lustre.org) - Open-source, parallel file system that supports many requirements of leadership class HPC simulation environments.
   - [Nextcloud Server](https://github.com/nextcloud/server) - Selfhosting storage server.
     - [Nextcloud Documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation.
+    - [NextBackup](https://github.com/pbek/nextbackup) - NextBackup is the simple database backup solutions for your Nextcloud / ownCloud installation.
   - [OpenDedupe](https://opendedup.org/odd) - OpenDedup provides an open source filesystem, SDFS, that includes inline deduplication to local or cloud storage targets.
   - [OpenZFS](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD.
   - [OwnCloud](https://owncloud.com) - Easy to install, free and self-hosted cloud-storage service.
