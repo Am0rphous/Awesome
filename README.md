@@ -15,6 +15,7 @@ _"Freely accessing knowledge is an essential human right. Knowledge is the found
   - [Inspiration](https://github.com/Am0rphous/Awesome/blob/master/README.md#inspiration)
 - [Theme Tutorials](https://github.com/Am0rphous/Awesome/blob/master/README.md#theme-tutorials)
 - [Development](https://github.com/Am0rphous/Awesome/blob/master/README.md#development)
+  - [Code Editors](https://github.com/Am0rphous/Awesome/blob/master/README.md#code-editors)
   - [Icons](https://github.com/Am0rphous/Awesome/blob/master/README.md#icons)
   - [Programming](https://github.com/Am0rphous/Awesome/blob/master/README.md#programming)
     - [Electron](https://github.com/Am0rphous/Awesome/blob/master/README.md#electron)
@@ -174,6 +175,8 @@ _"Freely accessing knowledge is an essential human right. Knowledge is the found
 - [Thonny PyDev](https://github.com/thonny/thonny) - Python IDE for beginners.
 - [Visual Studio Code](https://github.com/Microsoft/vscode) - [code.visualstudio.com](https://code.visualstudio.com)
 - [Wing](https://github.com/kbrsh/wing) - A beautiful CSS framework designed for minimalists [kbrsh.github.io](https://kbrsh.github.io/wing/).
+  ### Code Editors
+  - [Light Table](http://lighttable.com/) - The next generation code editor.
   ### Icons
   - [100+ Awesome Free Icons Sets by designwall.com](https://www.designwall.com/blog/100-awesome-free-icons-sets/)
   - [Fontawesome.com's icons](https://fontawesome.com/v4.7/icons/)
@@ -185,6 +188,7 @@ _"Freely accessing knowledge is an essential human right. Knowledge is the found
   - [Nest](https://github.com/MLX15/nestjs) - A progressive Node.js framework for building efficient and scalable server-side applications.
     #### Electron
     - [Awesome Electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron.
+    - [Menubar](https://github.com/maxogden/menubar) - Heavy_minus_sign high level way to create menubar desktop applications with electron.
     - [Glasstron](https://github.com/AryToNeX/Glasstron) - The go-to solution to Electron composition effects, such as blurry windows.
     #### HTML
     - [HEAD](https://github.com/joshbuchea/HEAD) - 🗿 A list of everything that *could* go in the head of your document.
@@ -203,6 +207,8 @@ _"Freely accessing knowledge is an essential human right. Knowledge is the found
     - [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs) - ⚡ Delightful Node.js packages and resources.
     - [Playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
     - [Pm2.io](https://pm2.io) - PM2 is a production process manager for Node.js applications with a built-in load balancer. It allows you to keep applications alive forever, to reload them without downtime and to facilitate common system admin tasks.
+    - [The Art of Node](https://github.com/maxogden/art-of-node) - A short introduction to node.js
+
     #### PHP
     - [Awesome-PHP](https://github.com/ziadoz/awesome-php) - _A curated list of amazingly awesome PHP libraries, resources and shiny things._
     - [Laravel](https://github.com/laravel/laravel) - _A PHP framework for web artisans._
