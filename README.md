@@ -380,6 +380,7 @@ Based on that data, you can find the most popular ones and their alternatives.
       - [Great Little Radio Player](https://sites.google.com/view/greatlittleradioplayer/home)
       - [Guayadeque](https://github.com/anonbeat/Guayadeque) - music management program designed for all music enthusiasts. [guayadeque.org](http://www.guayadeque.org/)
       - [midomi.com](https://www.midomi.com/) - Online SoundHound alternative.
+      - [Psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI.
       - [Radio Tray](http://radiotray.sourceforge.net/) - online radio streaming player that runs on a Linux system tray.
       - [Shortwave](https://gitlab.gnome.org/World/Shortwave) - Find and listen to internet radio stations.
       - [Soundcleod](https://github.com/salomvary/soundcleod) - SoundCloud for macOS and Windows.
