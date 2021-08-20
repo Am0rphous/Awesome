@@ -409,6 +409,7 @@ lsscsi                          #Print SCSI Devices Info
 - [GNs3-server](https://github.com/GNS3/gns3-server) - The GNS3 server manages emulators such as Dynamips, VirtualBox or Qemu/KVM. [www.gns3.com](https://www.gns3.com)
   - [GNs3-gui](https://github.com/GNS3/gns3-gui) - GNS3 Graphical Network Simulator.
 - [GPing](https://github.com/orf/gping) - Ping, but with a graph.
+- [Hozz](https://github.com/ppoffice/Hozz/) - [Development indefinitely suspended] A better way to manage your hosts.
 - [iputils](https://github.com/iputils/iputils) - The iputils package is set of small useful utilities for Linux networking (arp, clockdigg, ninfod, ping, rarpd, rdisc, tftpd, tracepath and traceroute6).
 - [Nethogs](https://github.com/raboof/nethogs) - NetHogs is a small 'net top' tool. Instead of breaking the traffic down per protocol or per subnet, like most tools do, it groups bandwidth by process.
 - [NetStat-virustotal-monitor](https://github.com/PSJoshi/netstat-virustotal-monitor) - netstat is a de-facto command for monitoring incoming and outgoing network connections on Linux/Windows platforms. A python-based script enhances netstat command output to include city, country and ASN information using Maxmind Geolite databases(http://dev.maxmind.com/geoip/legacy/geolite/). In addition, it also checks whether the remote IP is in malicious or not using Virustotal database(https://www.virustotal.com/en/documentation/public-api/) and DNS-based Blackhole List (DNSBL) databases(http://www.dnsbl.info/dnsbl-database-check.php).
