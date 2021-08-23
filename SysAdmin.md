@@ -770,7 +770,7 @@ upstream_recursive_servers:
 ## Web and Proxy Tools
 - [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) - A curated list of Web Security materials and resources.
 - [Apache](https://httpd.apache.org/) - Open-source web server for modern operating systems including UNIX and Windows. 
-- [Apache Kafka](https://kafka.apache.org/) - open-source distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications.
+  - [Apache Kafka](https://kafka.apache.org/) - open-source distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications.
 - [Caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS.
   - [CertMagic](https://github.com/caddyserver/certmagic) - Automatic HTTPS for any Go program: fully-managed TLS certificate issuance and renewal.
 - [Csrf](https://github.com/gorilla/csrf) - gorilla/csrf provides Cross Site Request Forgery (CSRF) prevention middleware for Go web applications & services.
@@ -790,7 +790,7 @@ upstream_recursive_servers:
 - [Sanstorm](https://sandstorm.io/) - Sandstorm is an open source platform for self-hosting web apps
 - [Squid]()
   - [SquidGuard](http://www.squidguard.org)
-- Wordpress
+- [Wordpress](https://wordpress.com/)
   - [Automattic's Free Themes](https://github.com/Automattic/themes) - WordPress.com themes.
   - [Calypso](https://github.com/Automattic/wp-calypso) - The JavaScript and API powered WordPress.com. [developer.wordpress.com/calypso/](https://developer.wordpress.com/calypso/)
   - [Elementor](https://elementor.com) - The World's Leading WordPress Website Builder.
@@ -800,6 +800,7 @@ upstream_recursive_servers:
   - [WP-Desktop](https://github.com/Automattic/wp-desktop) - WordPress.com for Desktop.
 
   ### Certificates
+  - [acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol.
   - [Acme-tiny](https://github.com/diafygi/acme-tiny) - A tiny script to issue and renew TLS certs from Let's Encrypt.
   - [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 
