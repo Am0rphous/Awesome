@@ -224,6 +224,7 @@ bro / zeek
   - [Jibri](https://github.com/jitsi/jibri) - Jitsi BRoadcasting Infrastructure. Jibri provides services for recording or streaming a Jitsi Meet conference.
   - [Set Up Jibri for Jitsi Recording/Streaming](https://nerdonthestreet.com/s/15) - This tutorial will demonstrate how to install Jibri to add recording and streaming functionality to a Jitsi Meet server.
 - [Kiwi IRC](https://kiwiirc.com)
+- [Lets Chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams.
 - [Mattermost](https://mattermost.com)
   - [Mattermost Desktop Client](https://github.com/mattermost/desktop)
   - [Mattermost Docker](https://github.com/mattermost/mattermost-docker) - Dockerfile for mattermost in production.
