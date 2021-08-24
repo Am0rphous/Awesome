@@ -518,11 +518,13 @@ upstream_recursive_servers:
   - [iSync](https://www.insynchq.com/downloads) - Insync extends Google Drive & OneDrive's web functionality to your desktop.
   - [OneDrive](https://packages.ubuntu.com/bionic/onedrive) - Ubuntu folder synchronization with OneDrive. Install `sudo apt install onedrive`
   - [OneDrive Client for Linux](https://github.com/abraunegg/onedrive/) - [abraunegg.github.io](https://abraunegg.github.io)
+    - [Doc](https://github.com/abraunegg/onedrive/blob/master/docs/USAGE.md)
     ````powershell
     enter 'onedrive' in terminal and press enter.
     copy and paste the url in your browser and continue with login.
     When login is complete a white blank page is presented. Copy and paste it in terminal
     Application has been successfully authorised.
+    onedrive --synchronize
     ````
   - [Rclone](https://rclone.org/onedrive/)
 
