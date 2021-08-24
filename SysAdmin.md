@@ -516,8 +516,14 @@ upstream_recursive_servers:
   ##### Clients
   - [ExpanDrive](https://www.expandrive.com/expandrive-for-linux/) - It supports Google Drive, OneDrive, Dropbox, Amazon S3, Box, SFTP, FTP, BackBlaze B2 and more.
   - [iSync](https://www.insynchq.com/downloads) - Insync extends Google Drive & OneDrive's web functionality to your desktop.
-  - [onedrive](https://packages.ubuntu.com/bionic/onedrive) - Ubuntu folder synchronization with OneDrive. Install `sudo apt install onedrive`
+  - [OneDrive](https://packages.ubuntu.com/bionic/onedrive) - Ubuntu folder synchronization with OneDrive. Install `sudo apt install onedrive`
   - [OneDrive Client for Linux](https://github.com/abraunegg/onedrive/) - [abraunegg.github.io](https://abraunegg.github.io)
+    ````powershell
+    enter 'onedrive' in terminal and press enter.
+    copy and paste the url in your browser and continue with login.
+    When login is complete a white blank page is presented. Copy and paste it in terminal
+    Application has been successfully authorised.
+    ````
   - [Rclone](https://rclone.org/onedrive/)
 
 ## Package Managers
