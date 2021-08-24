@@ -28,6 +28,7 @@
 ## Security and Protection
 - [EmoCheck](https://github.com/JPCERTCC/EmoCheck) - Emotet detection tool for Windows OS.
 - [HardeningKitty](https://github.com/scipag/HardeningKitty) - Invoke-HardeningKitty - Checks and hardens your Windows configuration.
+- [SDelete](https://docs.microsoft.com/en-us/sysinternals/downloads/sdelete)
 - [Secunia Personal Software Inspector](https://secunia-personal-software-inspector.en.softonic.com/#older-versions) - Discover security vulnerabilities.
 - [Screwed-Drivers](https://github.com/eclypsium/Screwed-Drivers) - "Screwed Drivers" centralized information source for code references, links, etc.
 - [Windows_hardening](https://github.com/0x6d69636b/windows_hardening) - Windows Hardening settings and configurations.
