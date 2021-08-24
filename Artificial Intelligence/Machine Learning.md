@@ -23,6 +23,7 @@ Towards Deep Learning
 ## Resources
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [Camera Classifier](https://github.com/NeuralNine/camera-classifier) - A Python application that uses camera input to train a SVM to respond to specific actions.
+- [CrypTen](https://github.com/facebookresearch/CrypTen) - A framework for Privacy Preserving Machine Learning.
 - [Emojifier](https://github.com/Anandesh-Sharma/Emojifier) - Recognizes faces in real time and predict emoji according to the emotion.
 - [GoLearn](https://github.com/sjwhitworth/golearn) - Machine Learning for Go.
 - [Machine Learning and Security](https://github.com/13o-bbr-bbq/machine_learning_security) - Source code about machine learning and security.
