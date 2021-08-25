@@ -159,6 +159,8 @@ Description: The Portable Executable format is a file format for executables, ob
 
 ## Scripts and Tools
 - [Creds](https://github.com/S3cur3Th1sSh1t/Creds) - Some usefull Scripts and Executables for Pentest & Forensics.
+- [LinuxForensics](https://github.com/ashemery/LinuxForensics) - Everything related to Linux Forensics.
+
 
 ## Smartphone Devices
 - [House](https://github.com/nccgroup/house) - A runtime mobile application analysis toolkit with a Web GUI, powered by Frida, written in Python.
