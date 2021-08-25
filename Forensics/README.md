@@ -157,6 +157,9 @@ Description: The Portable Executable format is a file format for executables, ob
 ## Recover deletes files
 - [Recoverpy](https://github.com/PabloLec/recoverpy) - A TUI to recover overwritten or deleted data.
 
+## Scripts and Tools
+- [Creds](https://github.com/S3cur3Th1sSh1t/Creds) - Some usefull Scripts and Executables for Pentest & Forensics.
+
 ## Smartphone Devices
 - [House](https://github.com/nccgroup/house) - A runtime mobile application analysis toolkit with a Web GUI, powered by Frida, written in Python.
 - [MVT](https://github.com/mvt-project/mvt) - MVT is a forensic tool to look for signs of infection in smartphone devices.
