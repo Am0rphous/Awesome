@@ -232,6 +232,8 @@ bro / zeek
   - [Mattermost Plugin Jitsi](https://github.com/mattermost/mattermost-plugin-jitsi) - Jitsi plugin for Mattermost 🔌
     - [RSSFeed Plugin](https://integrations.mattermost.com/rssfeed-plugin/)
   - [Mattermost Server](https://github.com/mattermost/mattermost-server)
+- [Microsoft Temas](https://www.microsoft.com/nb-no/microsoft-teams/download-app) - Linux, Mac, Windows, ios, android
+  - [clear_cache_MS_Teams.sh](https://gist.github.com/mrcomoraes/c83a2745ef8b73f9530f2ec0433772b7)
 - [Neochat](https://github.com/KDE/neochat) - A client for matrix, the decentralized communication protoco.
 - [Oragono](https://github.com/oragono/oragono) - A modern IRC server (daemon/ircd) written in Go.
 - [PrivateBin](https://framabin.org/p) - minimalist, open source online pastebin.
