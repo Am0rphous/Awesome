@@ -577,6 +577,7 @@ upstream_recursive_servers:
 - [Yopass - Share Secrets Securely](https://github.com/jhaals/yopass) - Secure sharing for secrets, passwords and files.
 
   ### Linux Hardening Guides
+  - [Debian-cis](https://github.com/ovh/debian-cis) - PCI-DSS compliant Debian 9/10 hardening.
   - [Guide to Deploying Diffie-Hellman for TLS](https://weakdh.org/sysadmin.html)
   - [Linux-hardening-checklist](https://github.com/trimstray/linux-hardening-checklist) - Simple checklist to help you deploying the most important areas of the GNU/Linux production systems - work in progress.
   - [Linux Kernel /etc/sysctl.conf Security Hardening](https://www.cyberciti.biz/faq/linux-kernel-etcsysctl-conf-security-hardening/)
