@@ -458,6 +458,8 @@ Based on that data, you can find the most popular ones and their alternatives.
     - [IGdm Messenger](https://github.com/igdmapps/igdm) - Desktop application for Instagram DMs.
     - [InstagramMacOS](https://github.com/LukaMarr/InstagramMacOS) - Poster — Instagram upload & view client for MacOS. 📷 [lukamarr.github.io/InstagramMacOS](https://lukamarr.github.io/InstagramMacOS)
     - [Instagram-web-api](https://github.com/jlobos/instagram-web-api#instagramcredentials-opts) - 🤳 Instagram Private Web API client for Node.
+    - [Instapy Quickstar](https://github.com/InstaPy/instapy-quickstart) - 💨 Simply get InstaPy up and running in minutes.
+      - [InstaPy Documentation](https://github.com/InstaPy/instapy-docs) - 📜 Public information for users, testers, contributors, maintainers.
     - [Ramme](https://github.com/terkelg/ramme) - **(Archived)** Unofficial Instagram Desktop App. 
   
   ### Blogging
