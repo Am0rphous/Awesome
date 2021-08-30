@@ -456,6 +456,7 @@ upstream_recursive_servers:
   ````
 - [DropBear SSH](https://github.com/mkj/dropbear) - S smallish SSH server and client. [https://matt.ucc.asn.au](https://matt.ucc.asn.au)
 - [ElecTerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp client(linux, mac, win).
+- [Eternal Terminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell.
 - RDP Applications
   - [mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
   - [Remmina](https://github.com/FreeRDP/Remmina) - Mirror of [https://gitlab.com/Remmina/Remmina](https://gitlab.com/Remmina/Remmina) The GTK+ Remmina Remote Desktop Client.
