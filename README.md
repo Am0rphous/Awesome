@@ -367,6 +367,10 @@ Based on that data, you can find the most popular ones and their alternatives.
     - [Subsonic](http://www.subsonic.org/pages/index.jsp) - Music streaming server.
       - [Subsonic App List](http://www.subsonic.org/pages/apps.jsp)
     - [Ultrasonic](https://github.com/ultrasonic/ultrasonic) - Free and open-source music streaming Android client for Subsonic API compatible servers.
+    ##### Free Music
+    - [chriszabriskie.com](https://www.chriszabriskie.com)
+      - [chriszabriskie.com/cylinders](https://www.chriszabriskie.com/cylinders/)
+    
     ##### Radio
     - [Great Little Radio Player](https://sites.google.com/site/glrpgreatlittleradioplayer/home)
     - [Radiotray-NG](https://github.com/ebruck/radiotray-ng) - An Internet radio player for Linux.
