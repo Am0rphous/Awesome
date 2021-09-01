@@ -130,6 +130,9 @@ getcap            #examine file capabilities
  - [OWASP Mobile Security Testing Guide](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security development, testing and reverse engineering.
 - [Santuko Linux](https://santoku-linux.com) - Mobile forensics, mobile malware and mobile security.
 
+## Processes
+- [KsDumper](https://github.com/EquiFox/KsDumper) - Dumping processes using the power of kernel space.
+
 ## Processor
 - [x86reference](https://github.com/Barebit/x86reference) - X86 Opcode and Instruction Reference: [http://ref.x86asm.net](http://ref.x86asm.net)
 
