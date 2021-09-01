@@ -42,6 +42,7 @@
   - [ReiKey](https://github.com/objective-see/ReiKey) - Malware and other applications may install persistent keyboard "event taps" to intercept your keystrokes. ReiKey can scan, detect, and monitor for such taps!
 
 ## Tools
+- [Brightness](https://github.com/nriley/brightness) - Command-line display brightness control for macOS.
 - [Eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
 - [Java](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html) - Go and download the .dmg file and follow instructions.
 - [Keka](https://github.com/aonez/Keka) - The macOS file archiver.
