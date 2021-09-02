@@ -53,8 +53,9 @@
   - [Ubuntubuzz.com](https://www.ubuntubuzz.com)
 
 ## Games
-- https://www.slavehack2.com/
-- http://www.s0urce.io/
+- [emulatoronline.com](https://emulatoronline.com)
+- [slavehack2.com](https://www.slavehack2.com/)
+- [s0urce.io/](http://www.s0urce.io/)
 
 ## Hacking Simulator for the kidz
 - https://hackertyper.io/
