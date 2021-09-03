@@ -98,6 +98,7 @@ bro / zeek
   ````
 - [Blocky](https://github.com/0xERR0R/blocky) - DNS proxy as ad-blocker for local network.
 - [Energized Protection - block ⚡](https://github.com/EnergizedProtection/block) - Let's make an annoyance free, better open internet, altogether!
+- [hosts](https://github.com/StevenBlack/hosts) - Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [PiHole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements.
   - [Docker Pi-hole](https://github.com/pi-hole/docker-pi-hole) -  Pi-hole in a docker container.
   - [PADD](https://github.com/pi-hole/PADD) - PADD (formerly Chronometer2) is a more expansive version of the original chronometer.sh that is included with Pi-Hole. PADD provides in-depth information about your Pi-hole.
@@ -114,7 +115,6 @@ bro / zeek
   - [Proofpoint Emerging Threats Rules](https://rules.emergingthreats.net/blockrules/)
     - [compromised-ips.txt by emergingthreats.net](https://rules.emergingthreats.net/blockrules/compromised-ips.txt)
     - [emerging-Block-IPs.txt by emergingthreats.net](https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt)
-
 
 ## Anti-Virus / malware and rootkit detection
 - [AlphaSeclab's anti-av](https://github.com/alphaSeclab/anti-av) - Resources About Anti-Virus and Anti-Anti-Virus, including 200+ tools and 1300+ posts.
