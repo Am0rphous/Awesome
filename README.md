@@ -39,7 +39,7 @@ _"Freely accessing knowledge is an essential human right. Knowledge is the found
 - [Looking for software, projects, courses or inspiration?](https://github.com/Am0rphous/Awesome/blob/master/README.md#looking-for-software-projects-courses-or-inspiration)
 - [Media](https://github.com/Am0rphous/Awesome/blob/master/README.md#media)
   - [Image](https://github.com/Am0rphous/Awesome/blob/master/README.md#image)
-    - [Graphs, Charts and Diagrams](https://github.com/Am0rphous/Awesome/blob/master/README.md#graphs-charts-and-diagrams)
+    - [Graphs, Charts, Diagrams and Data Visualization](https://github.com/Am0rphous/Awesome/blob/master/README.md#graphs-charts-diagrams-and-data-visualization)
   - [Video](https://github.com/Am0rphous/Awesome/blob/master/README.md#video)
   - [Media Servers](https://github.com/Am0rphous/Awesome/blob/master/README.md#media-servers)
     - [Docker](https://github.com/Am0rphous/Awesome/blob/master/README.md#docker)
