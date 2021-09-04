@@ -316,7 +316,8 @@ Based on that data, you can find the most popular ones and their alternatives.
   - [Pinta](https://www.pinta-project.com) - Pinta is a free, open source program for drawing and image editing.
   - [Pixeluvo](http://www.pixeluvo.com) - A Beautifully Designed Image and Photo Editor for Windows and Linux.
   - [RawTherapee](https://github.com/Beep6581/RawTherapee) - A powerful cross-platform raw photo processing program [rawtherapee.com](https://rawtherapee.com).
-   #### Graphs, Charts and Diagrams
+   #### Graphs, Charts, Diagrams and Data Visualization
+   - [Bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from Python.
    - [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the `<canvas>` tag.
    - [Chartist.js](https://github.com/gionkunz/chartist-js) - Simple responsive charts.
    - [cloud.smartdraw.com](https://cloud.smartdraw.com)
