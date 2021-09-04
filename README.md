@@ -330,6 +330,7 @@ Based on that data, you can find the most popular ones and their alternatives.
    - [Gephi - The Open Graph Viz Platform](https://github.com/gephi/gephi) - award-winning open-source platform for visualizing and manipulating large graphs. For Linux, Mac and Windows.
    - [HighchartTable](http://highcharttable.org/)
    - [LynxKite](https://github.com/lynxkite/lynxkite) - LynxKite is a complete graph data science platform for very large graphs and other datasets. It seamlessly combines the benefits of a friendly graphical interface and a powerful Python API.
+   - [Plotly](https://pypi.org/project/plotly/) - An open-source, interactive data visualization library for Python.
    - [Protovis](https://mbostock.github.io/protovis/)
    - [RAWGraphs](https://github.com/rawgraphs/rawgraphs-app) - A web interface to create custom vector-based visualizations on top of RAWGraphs core.
    - [www.jqplot.com](http://www.jqplot.com) - jqPlot is a plotting and charting plugin for the jQuery Javascript framework. jqPlot produces beautiful line, bar and pie charts with many features.
