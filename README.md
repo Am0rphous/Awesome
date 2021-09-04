@@ -319,6 +319,7 @@ Based on that data, you can find the most popular ones and their alternatives.
    #### Graphs, Charts, Diagrams and Data Visualization
    - [Bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from Python.
    - [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the `<canvas>` tag.
+   - [Chartify](https://github.com/spotify/chartify) - Python library that makes it easy for data scientists to create charts.
    - [Chartist.js](https://github.com/gionkunz/chartist-js) - Simple responsive charts.
    - [cloud.smartdraw.com](https://cloud.smartdraw.com)
    - [D3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. 📊📈🎉 
