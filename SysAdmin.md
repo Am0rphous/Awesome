@@ -402,6 +402,7 @@ lsscsi                          #Print SCSI Devices Info
 - [Awesome Attack Surface Monitoring](https://github.com/0xtavian/awesome-attack-surface-monitoring) - Curated list of open-source & paid Attack Surface Monitoring (ASM) tools.
   ### Log Analysis
   - [AwStats](https://www.awstats.org/) - Powerful and featureful web server log analyzer.
+  - [Chainsaw](https://github.com/countercept/chainsaw) - Rapidly Search and Hunt through Windows Event Logs.
   - [GoAccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
   - [PgBadger](https://github.com/darold/pgbadger) - A fast PostgreSQL Log Analyzer [pgbadger.darold.net](https://pgbadger.darold.net).
   - [PgFormatter](https://github.com/darold/pgFormatter) - A PostgreSQL SQL syntax beautifier that can work as a console program or as a CGI. On-line demo site at [sqlformat.darold.net](http://sqlformat.darold.net).
