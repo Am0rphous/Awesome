@@ -160,6 +160,7 @@ _"Freely accessing knowledge is an essential human right. Knowledge is the found
 - [INGInious](https://github.com/UCL-INGI/INGInious) - INGInious is a secure and automated exercises assessment platform using your own tests, also providing a pluggable interface with your existing LMS.
   - [INGInious plugins](https://github.com/UCL-INGI/INGInious-plugins) - A list of open-source plugins for your INGInious instance.
 - [Jupyter Notebook](https://github.com/jupyter/notebook) - Web-based notebook environment for interactive computing.
+- [Ly](https://github.com/nullgemm/ly) - Ly is a lightweight TUI (ncurses-like) display manager for Linux and BSD.
 - [Prompts](https://github.com/terkelg/prompts#selectmessage-choices-initial-hint-warn) - ❯ Lightweight, beautiful and user-friendly interactive prompts.
 - [Thonny PyDev](https://github.com/thonny/thonny) - Python IDE for beginners.
 - [Wing](https://github.com/kbrsh/wing) - A beautiful CSS framework designed for minimalists [kbrsh.github.io](https://kbrsh.github.io/wing/).
