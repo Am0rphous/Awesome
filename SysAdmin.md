@@ -480,6 +480,7 @@ upstream_recursive_servers:
   - [Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH) - Win32 port of OpenSSH.
 - [Teleport](https://github.com/gravitational/teleport) - Teleport is an identity-aware, multi-protocol access proxy which understands SSH, HTTPS, Kubernetes API, MySQL, and PostgreSQL wire protocols.
 - [Xpra](https://github.com/Xpra-org/xpra) - Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
+  - [HTML5 client for Xpra](https://github.com/Xpra-org/xpra-html5) - Simply point your browser to the contents of the html5 folder, and you will get an HTML5 client which you can use to connect to any xpra server.
 
   #### VPN - Virtual Private Network
   - [Hyprspace](https://github.com/hyprspace/hyprspace) - A Lightweight VPN Built on top of Libp2p for Truly Distributed Networks.
