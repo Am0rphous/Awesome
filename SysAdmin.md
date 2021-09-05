@@ -250,6 +250,7 @@ bro / zeek
   - [Signal-iOS](https://github.com/signalapp/Signal-iOS) - A private messenger for iOS.
   - [Signal-Server](https://github.com/signalapp/Signal-Server) - Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS.
 - [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app.
+  - [Telegram-CLI](https://github.com/vysheng/tg) - Command-line interface for Telegram.
 - [TheLounge](https://thelounge.chat) - self-hosted web IRC client.
 - [Tox Chat](https://tox.chat/)
 - [Wire](https://github.com/wireapp/wire) - [app.wire.com](https://app.wire.com/auth/)
