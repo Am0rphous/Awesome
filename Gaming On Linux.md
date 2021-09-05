@@ -23,8 +23,11 @@
 - [gamejolt.com/games?os=linux](https://gamejolt.com/games?os=linux) - Find great games.
   ### Games
    - [BFHD PRO II - Patch G2 (Gold)](https://www.moddb.com/mods/battlefield-hd-remastered-3/downloads/bfhd-pro-ii-patch-g-gold) - (wine/winetriks) Battlefield Remastered 3.0 has finally has gone gold after a 2 years development.
+   - [Free Games by The Drakelings Community](https://drakelings.bluedrake42.com/index.php?/category/1-free-games/)
    - [Minesweeper-Login](https://github.com/OGoodness/Minesweeper-Login) - Command Line version of MineSweeper for Unix-like systems (GNU/Linux, macOS, BSD).
    - [Quake Wars: Enemy Territory](https://www.splashdamage.com/games/enemy-territory-quake-wars/)
+   - [S.T.A.L.K.E.R.]()
+     - [S.T.A.L.K.E.R. Anomaly ](https://drakelings.bluedrake42.com/index.php?/blogs/entry/11-i-cant-believe-this-full-game-is-free/)
    - [Unreal Tournament](https://www.epicgames.com/unrealtournament/en-US/) - first-person shooter, with head-to-head multiplayer deathmatches being the primary focus of the game [Wikipedia](https://en.wikipedia.org./wiki/Unreal_tournament).
    - [Warsow - Warsow is Art of Respect and Sportsmanship Over the Web](https://warsow.net/) - Since 2005, Warsow is considered as one of the most skill-demanding games in the fast-paced arena shooter scene.[Discord](https://discord.com/invite/Z9UgZZM)
 
