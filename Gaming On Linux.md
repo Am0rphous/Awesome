@@ -28,6 +28,7 @@
    - [Quake Wars: Enemy Territory](https://www.splashdamage.com/games/enemy-territory-quake-wars/)
    - [S.T.A.L.K.E.R.]()
      - [S.T.A.L.K.E.R. Anomaly ](https://drakelings.bluedrake42.com/index.php?/blogs/entry/11-i-cant-believe-this-full-game-is-free/)
+   - [Splitgate](https://store.steampowered.com/app/677620/Splitgate/) - Free and works on Steamos/linux
    - [Unreal Tournament](https://www.epicgames.com/unrealtournament/en-US/) - first-person shooter, with head-to-head multiplayer deathmatches being the primary focus of the game [Wikipedia](https://en.wikipedia.org./wiki/Unreal_tournament).
    - [Warsow - Warsow is Art of Respect and Sportsmanship Over the Web](https://warsow.net/) - Since 2005, Warsow is considered as one of the most skill-demanding games in the fast-paced arena shooter scene.[Discord](https://discord.com/invite/Z9UgZZM)
 
