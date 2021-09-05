@@ -479,6 +479,7 @@ upstream_recursive_servers:
   - [SSH Hardening with Security Onion](https://docs.securityonion.net/en/2.3/ssh.html)
   - [Win32-OpenSSH](https://github.com/PowerShell/Win32-OpenSSH) - Win32 port of OpenSSH.
 - [Teleport](https://github.com/gravitational/teleport) - Teleport is an identity-aware, multi-protocol access proxy which understands SSH, HTTPS, Kubernetes API, MySQL, and PostgreSQL wire protocols.
+- [Xpra](https://github.com/Xpra-org/xpra) - Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
 
   #### VPN - Virtual Private Network
   - [Hyprspace](https://github.com/hyprspace/hyprspace) - A Lightweight VPN Built on top of Libp2p for Truly Distributed Networks.
