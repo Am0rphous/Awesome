@@ -784,6 +784,7 @@ upstream_recursive_servers:
       /Applications/VMware\ OVF\ Tool/ovftool --help 
       ````
   - [Qemu](https://www.qemu.org) - Generic and open source machine emulator and virtualizer.
+    - [OVMF](https://wiki.ubuntu.com/UEFI/OVMF) - OVMF is a port of Intel's tianocore firmware to the qemu virtual machine. This allows easy debugging and experimentation with UEFI firmware; either for testing Ubuntu or using the (included) EFI shell.
     - [Qemu Docs](https://www.qemu.org/docs/master)
     - [Qira](https://github.com/geohot/qira) - QEMU Interactive Runtime Analyser.
   - [XCP-ng](https://xcp-ng.org) - Virtualization platform based on Xen Source and Citrix® Hypervisor (formerly XenServer). XCP-ng stands for Xen Cloud Platform - New Generation.
