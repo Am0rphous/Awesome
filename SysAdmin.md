@@ -481,6 +481,7 @@ upstream_recursive_servers:
 - [Teleport](https://github.com/gravitational/teleport) - Teleport is an identity-aware, multi-protocol access proxy which understands SSH, HTTPS, Kubernetes API, MySQL, and PostgreSQL wire protocols.
 - [Xpra](https://github.com/Xpra-org/xpra) - Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
   - [HTML5 client for Xpra](https://github.com/Xpra-org/xpra-html5) - Simply point your browser to the contents of the html5 folder, and you will get an HTML5 client which you can use to connect to any xpra server.
+  - [Running Linux GUI applications in a Docker container using Xpra](https://mybyways.com/blog/running-linux-gui-applications-in-a-docker-container-using-xpra)
 
   #### VPN - Virtual Private Network
   - [Hyprspace](https://github.com/hyprspace/hyprspace) - A Lightweight VPN Built on top of Libp2p for Truly Distributed Networks.
