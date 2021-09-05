@@ -471,6 +471,7 @@ Based on that data, you can find the most popular ones and their alternatives.
     - [Instagram-web-api](https://github.com/jlobos/instagram-web-api#instagramcredentials-opts) - 🤳 Instagram Private Web API client for Node.
     - [Instapy Quickstar](https://github.com/InstaPy/instapy-quickstart) - 💨 Simply get InstaPy up and running in minutes.
       - [InstaPy Documentation](https://github.com/InstaPy/instapy-docs) - 📜 Public information for users, testers, contributors, maintainers.
+    - [Istekram](https://github.com/validatedev/istekram) - A simple app for Instagram.
     - [Ramme](https://github.com/terkelg/ramme) - **(Archived)** Unofficial Instagram Desktop App. 
   
   ### Blogging
