@@ -4,6 +4,11 @@
 - [bitfinex.com](https://www.bitfinex.com/)
 - [Guarda Exchange](https://guarda.com/exchange/)
 - [pancakeswap](https://exchange.pancakeswap.finance/#/swap)
+### Norwegian
+- [Kaupang](https://www.kaupangkrypto.no/)
+- [MiraiEx](https://www.miraiex.com/no/)
+- [NBX](https://nbx.com/) - Norwegian Block Exchange er en norsk kryptobørs.
+
 
 ## IOTA
 - [Documentation](https://github.com/iotaledger/documentation) - This is where we host content for the documentation portal.
@@ -24,6 +29,7 @@
 ## Trading
 - [Binance-News-Sentiment-Bot](https://github.com/CyberPunkMetalHead/Binance-News-Sentiment-Bot) - This is a fully functioning Binance trading bot that takes into account the news sentiment for the top 100 crypto feeds. If you like this project consider donating though the Brave browser to allow me to continuously improve the script.
 - [Binance-volatility-trading-bot](https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot) - This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though the Brave browser to allow me to continuously improve the script.
+- [Carnac The Magnificent](https://github.com/rvrsh3ll/Carnac) - Carnac The Magnificent: Pancakeswap Prediction Market Bot.
 
 ## Wallets
 - [Guarda Desktop Crypto Wallet](https://guarda.com/desktop/)
