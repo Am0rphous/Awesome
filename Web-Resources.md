@@ -98,6 +98,7 @@
 - [DevConnected.com](https://devconnected.com)
 - [Geek-university.com](https://geek-university.com) - Free, high-quality IT tutorials
 - [Golinuxcloud.com](https://www.golinuxcloud.com)
+- [Hackemall.live](https://hackemall.live/)
 - [Hackingpassion.com](https://hackingpassion.com)
 - [kernel.org/doc](https://www.kernel.org/doc/html/latest/index.html) - The Linux Kernel documentation.
 - [Landoflinux.com](https://www.landoflinux.com/index.html) - free guides and tutorials for all things Linux.
