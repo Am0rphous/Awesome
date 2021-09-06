@@ -397,6 +397,8 @@ lsscsi                          #Print SCSI Devices Info
 - [Wazuh](https://github.com/wazuh/wazuh/) - Wazuh is a free, open source and enterprise-ready security monitoring solution for threat detection, integrity monitoring, incident response and compliance. [wazuh.com](https://wazuh.com)
 - [Webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel [www.webmin.com](http://www.webmin.com).
 - [Zeek (Bro)](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know. [zeek.org](https://www.zeek.org)
+  ## Energy
+  - [IoTaWatt](https://github.com/boblemaire/IoTaWatt) - IoTaWatt Open WiFi Electric Energy Monitor.
   ## Process monitoring
   - [ProcDump (Windows)](https://docs.microsoft.com/en-us/sysinternals/downloads/procdump) - ProcDump is a command-line utility whose primary purpose is monitoring an application for CPU spikes and generating crash dumps during a spike that an administrator or developer can use to determine the cause of the spike. 
   ## Attack Surface Monitoring
