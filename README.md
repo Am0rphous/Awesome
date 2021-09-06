@@ -423,6 +423,7 @@ Based on that data, you can find the most popular ones and their alternatives.
 - [Open-event-frontend](https://github.com/fossasia/open-event-frontend) - The frontend for the Open Event API Server
 - [Open-event-server](https://github.com/fossasia/open-event-server) - The Open Event Organizer Server to Manage Events http://open-event-api.herokuapp.com
 - [Pomatez](https://github.com/roldanjr/pomatez) - Stay Focused. Take a Break.
+- [Rambox](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
 - [Raycast](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day. [www.raycast.com](https://www.raycast.com)
 - [RedShift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings.
 - [Touchégg](https://github.com/JoseExposito/touchegg) - Linux multi-touch gesture recognizer. Touchégg is an app that runs in the background and transform the gestures you make on your touchpad or touchscreen into visible actions in your desktop.
