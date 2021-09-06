@@ -6,7 +6,8 @@
 - [DarkReading.com](https://www.darkreading.com)
 - [Forbiddenstories.org](https://forbiddenstories.org) - _"Forbidden Stories ensures that journalists under threat can secure their information. We provide them with the ability to drop their sensitive information into one of our secure communication channels. If something happens to them, we will ensure the survival of their stories, beyond borders, beyond governments, beyond censorship."_
 - [GovInfoSecurity.com](https://www.govinfosecurity.com)
-- [hackread.com](https://www.hackread.com)
+- [Hackread.com](https://www.hackread.com)
+- [Helpnetsecurity.com](https://www.helpnetsecurity.com/)
 - [IronGeek.com](https://www.irongeek.com)
 - [Isc.sans.edu](https://isc.sans.edu)
 - [jpcert.or.jp](https://www.jpcert.or.jp/english/) - JPCERT/CC is the first CSIRT (Computer Security Incident Response Team) established in Japan.
