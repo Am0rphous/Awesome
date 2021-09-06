@@ -40,6 +40,7 @@ Note: https://favouriteblog.com/50-best-github-artificial-intelligence/
   - [DeepStack_ActionNET](https://github.com/OlafenwaMoses/DeepStack_ActionNET) - Provides a custom DeepStack model that has been trained and can be used for creating a new object detection API for detecting 16 human actions present in the ActionNET Dataset dataset.
 - [Detectron2](https://github.com/facebookresearch/detectron2) - Detectron2 is FAIR's next-generation platform for object detection, segmentation and other visual recognition tasks.
 - [FireNET](https://github.com/OlafenwaMoses/FireNET) - A deep learning model for detecting fire in video and camera streams.
+- [Pyodi](https://github.com/Gradiant/pyodi) - Python Object Detection Insights.
 - [Strawberries](https://github.com/alexlouden/strawberries) - Computer vision on 🍓.
 - [Taming Transformers for High-Resolution Image Synthesis](https://github.com/CompVis/taming-transformers) - Taming Transformers for High-Resolution Image Synthesis.
 - [Traffic-Net](https://github.com/OlafenwaMoses/Traffic-Net) - A dataset of traffic, fire and accident images for training deep learning models.
