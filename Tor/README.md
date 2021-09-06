@@ -50,7 +50,8 @@ onionshare-cli --chat                                                        # s
 onionshare-cli --receive --persistent ~/anon-dropbox.session --public        # start a persistent anonymous dropbox
 ````
 
-## Whoonix
+## Whonix
+- [Whonix ™ for KVM](https://www.whonix.org/wiki/KVM)
 Commands
 ````
 tar -xvf Whonix-*.xz
