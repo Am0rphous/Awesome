@@ -50,6 +50,26 @@ onionshare-cli --chat                                                        # s
 onionshare-cli --receive --persistent ~/anon-dropbox.session --public        # start a persistent anonymous dropbox
 ````
 
+## Whoonix
+Commands
+````
+tar -xvf Whonix-*.xz
+sudo virsh -c qemu:///system net-define Whonix_external*.xml
+sudo virsh -c qemu:///system net-define Whonix_internal*.xml
+sudo virsh -c qemu:///system net-autostart Whonix-External
+sudo virsh -c qemu:///system net-start Whonix-External
+sudo virsh -c qemu:///system net-autostart Whonix-Internal
+sudo virsh -c qemu:///system net-start Whonix-Internal
+````
+- Access over vnc: edit `/etc/libvirt/qemu.conf` and restart libvirtd
+- KVM image failed to start with virsh, permission denied
+````
+User = "root"
+group = "root"
+vnc_listen = "0.0.0.0"
+virt-viewer vnc://localhost:5901
+````
+
 ## Useful Resources
 - [DEEP_WEB_LINKS_COLLECTION.md](https://gist.github.com/vyach-vasiliev/045af4c70cf2ed35c6091b4705093017)
 - [Eschalot](https://github.com/ReclaimYourPrivacy/eschalot) - It is important to stress that we have not written this piece of software (see LICENSE).
