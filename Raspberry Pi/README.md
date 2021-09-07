@@ -63,6 +63,7 @@
 - [MMM-ImageSlideshow](https://github.com/AdamMoses-GitHub/MMM-ImageSlideshow) - Displays images one-at-a-time from local folders.
 - [MMM-ImagesPhotos](https://github.com/roramirez/MMM-ImagesPhotos) - Show images and photos in your MagicMirror.
 - [MMM-MicrosoftToDo](https://github.com/thobach/MMM-MicrosoftToDo) - 3rd party module for MagicMirror that shows open tasks from task lists and allows to complete them as well. The tasks are retrieved from Microsoft To Do / Outlook.
+- [MMM-MyCalendar by jclarke0000](https://github.com/jclarke0000/MMM-MyCalendar) - Alternative calendar module for MagicMirror.
 - [MMM-network-signal](https://github.com/PoOwAa/MMM-network-signal) - Display a solid wifi logo as network signal for MagicMirror2.
 - [MMM-NewPIR](https://github.com/bugsounet/MMM-NewPIR) - MagicMirror Action with PIR Sensor.
 - [MMM-OnScreenMenu](https://github.com/shbatm/MMM-OnScreenMenu) - MagicMirror² utility module that provides a simple on screen menu for control.
