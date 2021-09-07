@@ -354,6 +354,7 @@ Based on that data, you can find the most popular ones and their alternatives.
      - [Plotly Dash](https://dash.plotly.com/layout)
    - [Protovis](https://mbostock.github.io/protovis/)
    - [RAWGraphs](https://github.com/rawgraphs/rawgraphs-app) - A web interface to create custom vector-based visualizations on top of RAWGraphs core.
+   - [SciChart.js ](https://github.com/ABTSoftware/SciChart.JS.Examples) - JavaScript Chart Examples Suite.
    - [www.jqplot.com](http://www.jqplot.com) - jqPlot is a plotting and charting plugin for the jQuery Javascript framework. jqPlot produces beautiful line, bar and pie charts with many features.
    - [yEd Graph Editor](https://www.yworks.com/products/yed) - Powerful desktop application that can be used to quickly and effectively generate high-quality diagrams.
   ### Video
