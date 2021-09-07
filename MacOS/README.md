@@ -119,6 +119,8 @@
   - [Mjolnir](https://github.com/mjolnirapp/mjolnir) - Lightweight automation and productivity app for OS X.
   ### Office Tools
   - [Craft](https://www.craft.do/) - A fresh take on documents.
+  - [TmpNote](https://github.com/buddax2/tmpNote) - Yet another simple notes app. [AppStore](https://apps.apple.com/us/app/tmpnote/id1293664761?l=ru&ls=1&mt=12)
+  - [Tyke.app](https://tyke.app/) - A little bit of scratch paper 📝 that lives on your Mac menu bar.
   
   ### Time
   - [Countdown](https://github.com/funway/Countdown) - A countdown task App on macOS.
