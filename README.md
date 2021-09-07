@@ -69,6 +69,7 @@ _"Freely accessing knowledge is an essential human right. Knowledge is the found
 - [Awesome Cyber Security](https://github.com/alphaSeclab/awesome-cyber-security) - Currently contains 8000+ open source repositories, and not very well classified. 
 - [Awesome Design](https://github.com/gztchan/awesome-design) - Curated design resources.
 - [Awesome DevSecOps](https://github.com/devsecops/awesome-devsecops) - An authoritative list of awesome devsecops tools with the help from community experiments and contributions.
+- [Awesome Fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统.
 - [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better.
 - [Awesome Humane Tech](https://github.com/humanetech-community/awesome-humane-tech)
 - [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk)
