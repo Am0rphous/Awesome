@@ -2,13 +2,13 @@ _"Freely accessing knowledge is an essential human right. Knowledge is the found
 
 <p align="center">
   Some basic guidelines one should try to follow - [intelmq](https://github.com/certtools/intelmq)
-- *Don't break simplicity - KISS*
-- *Keep it open source - forever*
-- *Strive for perfection while keeping a deadline*
-- *Reduce complexity/avoid feature bloat*
-- *Embrace unit testing*
-- *Code readability: test with unexperienced programmers*
-- *Communicate clearly*
+ *Don't break simplicity - KISS*
+ *Keep it open source - forever*
+ *Strive for perfection while keeping a deadline*
+ *Reduce complexity/avoid feature bloat*
+ *Embrace unit testing*
+ *Code readability: test with unexperienced programmers*
+*Communicate clearly*
 </p>
 
 # Table of content
