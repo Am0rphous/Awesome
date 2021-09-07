@@ -25,6 +25,7 @@ Communicate clearly <br>
   - [Inspiration](https://github.com/Am0rphous/Awesome/blob/master/README.md#inspiration)
 - [Theme Tutorials](https://github.com/Am0rphous/Awesome/blob/master/README.md#theme-tutorials)
 - [Development](https://github.com/Am0rphous/Awesome/blob/master/README.md#development)
+  - [Backend](https://github.com/Am0rphous/Awesome/blob/master/README.md#backend)
   - [Code Editors](https://github.com/Am0rphous/Awesome/blob/master/README.md#code-editors)
   - [Icons](https://github.com/Am0rphous/Awesome/blob/master/README.md#icons)
   - [Programming](https://github.com/Am0rphous/Awesome/blob/master/README.md#programming)
@@ -177,6 +178,9 @@ Communicate clearly <br>
 - [Thonny PyDev](https://github.com/thonny/thonny) - Python IDE for beginners.
 - [Vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 - [Wing](https://github.com/kbrsh/wing) - A beautiful CSS framework designed for minimalists [kbrsh.github.io](https://kbrsh.github.io/wing/).
+  ### Backend
+  - [SupaBase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
+
   ### Code Editors
   - [Atom](https://github.com/atom/atom) - Atom is a hackable text editor for the 21st century, built on Electron.
   - [GhostText](https://github.com/GhostText/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
