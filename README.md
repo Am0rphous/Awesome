@@ -10,6 +10,7 @@ Code readability: test with unexperienced programmers <br>
 Communicate clearly <br>
 </p>
 
+ <br> <br>
 # Table of content
 - [Awesome entitled projects](https://github.com/Am0rphous/Awesome/blob/master/README.md#awesome-entitled-projects)
 - [Communication](https://github.com/Am0rphous/Awesome/blob/master/README.md#communication)
