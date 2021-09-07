@@ -34,8 +34,9 @@
 ## Home Automation Software
 - [deconz-rest-plugin](https://github.com/dresden-elektronik/deconz-rest-plugin) - deCONZ REST-API plugin to control ZigBee devices.
 - [Domoticz](https://github.com/domoticz/domoticz) - Lets you monitor and configure various devices like: Lights, Switches, various sensors/meters like Temperature, Rain, Wind, UV, Electra, Gas, Water and much more.
-- [Home-assistant's operating-system](https://github.com/home-assistant/operating-system) - Operating System (formerly HassOS) is an operating system optimized for hosting [Home Assistant](https://www.home-assistant.io) and its [Add-ons](https://www.home-assistant.io/addons)
+- [Home-assistant](https://github.com/home-assistant/operating-system) - Operating System (formerly HassOS) is an operating system optimized for hosting [Home Assistant](https://www.home-assistant.io) and its [Add-ons](https://www.home-assistant.io/addons)
   - [Installation on Docker](https://www.home-assistant.io/docs/installation/docker)
+  - [Lovelace Mini Graph Card](https://github.com/kalkih/mini-graph-card) - Minimalistic graph card for Home Assistant Lovelace UI.
 - [Homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient [homebridge.io](https://homebridge.io).
 - [homebridge-config-ui-x](https://github.com/oznu/homebridge-config-ui-x) - The Homebridge UI. Monitor, configure and backup Homebridge from a browser.
   - [homebridge-hue](https://github.com/ebaauw/homebridge-hue) - Homebridge plugin for Philips Hue and/or deCONZ.
