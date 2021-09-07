@@ -1,8 +1,8 @@
 _"Freely accessing knowledge is an essential human right. Knowledge is the foundation for human potential, freedom and opportunity and everyone should have access to knowledge for free, without any restriction or limitation."_ - [Linuxbabe.com](https://www.linuxbabe.com)
 
 <p align="center">
-  Some basic guidelines one should try to follow - [intelmq](https://github.com/certtools/intelmq)
- *Don't break simplicity - KISS*
+  Some basic guidelines one should try to follow - [intelmq](https://github.com/certtools/intelmq) <br>
+ *Don't break simplicity - KISS* <br>
  *Keep it open source - forever*
  *Strive for perfection while keeping a deadline*
  *Reduce complexity/avoid feature bloat*
