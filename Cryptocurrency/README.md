@@ -36,3 +36,4 @@
 
 ## Widgets
 - [Cryptowidgets](https://github.com/sxiii/cryptowidgets) - Collection of crypto widgets that are helpful for traders & crypto users.
+- [JavascriptBitcoinCharts](https://github.com/fusionchartsexpress/JavascriptBitcoinCharts) - Steps For Creating Historical Bitcoin Charts Using FusionCharts.
