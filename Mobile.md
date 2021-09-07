@@ -10,6 +10,7 @@
 - [AVD (Android Virtual Device)](https://developer.android.com/studio/run/managing-avds)
 - [NoxPlayer](https://www.bignox.com/) - Free Android emulator for Windows and MacOS.
 - [OsmAnd - Offline mobile maps & navigation](https://osmand.net/) - OsmAnd - OpenStreetMap Automated Navigation Directions is a map and navigation app for Android and iOS.
+- [SCRCpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device.
 
 ## iOS
 - [Cydia Impactor](https://cydiaimpactor.biz/download/) https://cydiaimpactor.online/cydia-impactor-alternative/ - application that can sideload any IPA file through a Windows, Mac or Linux PC to any kind of iDevice. 
