@@ -110,6 +110,36 @@ Communicate clearly <br>
 - [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome)
 
 ## Communication
+- [Convos](https://convos.chat)
+- [CryptPad](https://github.com/xwiki-labs/cryptpad) - Collaboration suite, encrypted and open-source.
+- [Darkwire.io](https://github.com/darkwire/darkwire.io) - End-to-end encrypted instant web chat [https://darkwire.io](https://darkwire.io).
+- [Discord](https://discord.com/) - Discord is a VoIP, instant messaging and digital distribution platform. Users communicate with voice calls, video calls, text messaging, media and files in private chats or as part of communities called "servers". Servers are a collection of persistent chat rooms and voice chat channels. [wikipedia](https://en.wikipedia.org/wiki/Discord_(software))
+- [Jitsi Meet](https://github.com/jitsi/jitsi-meet) - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+  - [Jibri](https://github.com/jitsi/jibri) - Jitsi BRoadcasting Infrastructure. Jibri provides services for recording or streaming a Jitsi Meet conference.
+  - [Set Up Jibri for Jitsi Recording/Streaming](https://nerdonthestreet.com/s/15) - This tutorial will demonstrate how to install Jibri to add recording and streaming functionality to a Jitsi Meet server.
+- [Lets Chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams.
+- [Mattermost](https://mattermost.com)
+  - [Mattermost Desktop Client](https://github.com/mattermost/desktop)
+  - [Mattermost Docker](https://github.com/mattermost/mattermost-docker) - Dockerfile for mattermost in production.
+  - [Mattermost CLI](https://github.com/mattermost/mmctl)
+  - [Mattermost Plugin Jitsi](https://github.com/mattermost/mattermost-plugin-jitsi) - Jitsi plugin for Mattermost 🔌
+    - [RSSFeed Plugin](https://integrations.mattermost.com/rssfeed-plugin/)
+  - [Mattermost Server](https://github.com/mattermost/mattermost-server)
+- [Microsoft Temas](https://www.microsoft.com/nb-no/microsoft-teams/download-app) - Linux, Mac, Windows, ios, android
+  - [clear_cache_MS_Teams.sh](https://gist.github.com/mrcomoraes/c83a2745ef8b73f9530f2ec0433772b7)
+- [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The ultimate Free Open Source Solution for team communications.
+  - [RC-Trending](https://github.com/frontendwizard/rc-trending) - News feed from multiple sources right into rocket chat.
+  - [Rocket.Chat.RaspberryPi](https://github.com/RocketChat/Rocket.Chat.RaspberryPi)
+  - [Rocketchat-Cryptoconvert](https://github.com/nicholasfoden/rocketchat-cryptoconvert) - rocket.chat app to convert between cryptocurrencies using the cryptocompare API.
+- [Signal](https://www.signal.org)
+  - [Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
+  - [Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - Private Messenger for Windows, Mac, and Linux.
+  - [Signal-iOS](https://github.com/signalapp/Signal-iOS) - A private messenger for iOS.
+  - [Signal-Server](https://github.com/signalapp/Signal-Server) - Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS.
+- [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app.
+  - [Telegram-CLI](https://github.com/vysheng/tg) - Command-line interface for Telegram.
+- [Tox Chat](https://tox.chat/)
+- [Wire](https://github.com/wireapp/wire) - [app.wire.com](https://app.wire.com/auth/)
   ### E-mail
   - [ElectronMail](https://github.com/vladimiry/ElectronMail) - Unofficial ProtonMail Desktop App.
   - [Post Quantum Mail](https://github.com/swapravo/pqm-client) - Quantum-safe anonymous encrypted emails. [postquantummail.com](https://postquantummail.com)
@@ -124,8 +154,11 @@ Communicate clearly <br>
       - [Profiles - Where Thunderbird stores your messages and other user data](https://support.mozilla.org/en-US/kb/profiles-where-thunderbird-stores-user-data?redirectslug=profiles-tb&redirectlocale=en-US)
       - [Just Report It](https://addons.thunderbird.net/thunderbird/addon/just-report-it/?src=cb-dl-recentlyadded) - Just Report It (https://justreport.it) is an email plugin which tackles spam the right way. Report emails straight to SpamCop, the Registrar, a custom email address or any combination in between!
   ### IRC
+  - [Kiwi IRC](https://kiwiirc.com)
+  - [Quassel-irc](https://quassel-irc.org)
   #### IRC Clients
 - [Birch](https://github.com/dylanaraps/birch) - An IRC client written in bash.
+- [HexChat](https://github.com/hexchat/hexchat) - IRC client for Windows and UNIX-like operating systems [hexchat.github.io](https://hexchat.github.io)
 - [Irssi](https://irssi.org/) - vpowerful text-mode IRC client.
 - [Kirc](https://github.com/mcpcpc/kirc) -  A tiny IRC client written in POSIX C99.
 - [LimeChat](https://github.com/psychs/limechat) - IRC Client for Mac.
@@ -133,13 +166,24 @@ Communicate clearly <br>
 - [Polari](https://github.com/GNOME/polari) - source IRC client for the GNOME desktop environment. [wiki.gnome.org/Apps/Polari](https://wiki.gnome.org/Apps/Polari)
 - [Rirc](https://github.com/rcr/rirc) -  A terminal IRC client in C. [rcr.io/rirc](http://rcr.io/rirc/)
 - Quassel, HexChat, WeeChat, Konversation, XChat, Smuxi, Polari, KVIrc, ERC, : https://www.ubuntupit.com/top-20-best-irc-clients-for-linux-that-you-should-use-everyday/
+- [TheLounge](https://thelounge.chat) - self-hosted web IRC client.
     #### IRC Servers
     - [ngIRCd](https://ngircd.barton.de/) -  ngIRCd is a free, portable and lightweight Internet Relay Chat server for small or private networks, developed under the GNU General Public License (GPL).
+    - [Oragono](https://github.com/oragono/oragono) - A modern IRC server (daemon/ircd) written in Go.
     - [Ratbox ircd](https://www.ratbox.org/) - ircd-ratbox originated as a fork of ircd-hybrid. Although designed with EFNet in mind, it’s heavily used on many other networks due to it’s performance and modularity.
-
+  ### Matrix
+  - [Gomuks](https://github.com/tulir/gomuks) - A terminal based Matrix client written in Go.
+  - [Neochat](https://github.com/KDE/neochat) - A client for matrix, the decentralized communication protoco.
+  ### Version Control, Wiki, Knowledge base
+  - [GitLab](https://about.gitlab.com/install/) - web-based DevOps lifecycle tool that provides a Git-repository manager providing wiki, issue-tracking and continuous integration and deployment pipeline features, using an open-source license, developed by GitLab Inc.
+  - [Gitlab-watchman](https://github.com/PaperMtn/gitlab-watchman) - Monitoring GitLab for sensitive data shared publicly.
+  - [OutLine](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
+  - [PrivateBin](https://framabin.org/p) - Minimalist, open source online pastebin.
   ### VoIP
   - [Mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software.
   - [Rocket Streaming Audio Server](https://www.rocketbroadcaster.com/streaming-audio-server) - Rocket Streaming Audio Server broadcasts live audio over HTTP(S), and is a modern replacement for Icecast and SHOUTcast.
+
+
 
 ## Cryptocurrency
 - [Bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree.
