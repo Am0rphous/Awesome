@@ -19,7 +19,13 @@ Communicate clearly <br>
     - [IRC Clients](https://github.com/Am0rphous/Awesome/blob/master/README.md#irc-clients)
     - [IRC Servers](https://github.com/Am0rphous/Awesome/blob/master/README.md#irc-servers)
   - [VoIP](https://github.com/Am0rphous/Awesome/blob/master/README.md#voip)
-- [Cryptocurrency](https://github.com/Am0rphous/Awesome/blob/master/README.md#cryptocurrency)
+- [Communication and Collaboration Tools](https://github.com/Am0rphous/Awesome/blob/master/README.md#communication-and-collaboration-tools)
+  - [E-mail](https://github.com/Am0rphous/Awesome#e-mail)
+  - [IRC](https://github.com/Am0rphous/Awesome#irc)
+  - [Matrix](https://github.com/Am0rphous/Awesome#matrix)
+  - [Version Control, Wiki, Knowledge base](https://github.com/Am0rphous/Awesome#version-control-wiki-knowledge-base)
+  - [VoIP](https://github.com/Am0rphous/Awesome#voip)
+
 - [Desktop customization tools](https://github.com/Am0rphous/Awesome/blob/master/README.md#desktop-customization-tools)
   - [Extensions](https://github.com/Am0rphous/Awesome/blob/master/README.md#extensions)
   - [Inspiration](https://github.com/Am0rphous/Awesome/blob/master/README.md#inspiration)
@@ -37,9 +43,11 @@ Communicate clearly <br>
     - [Node.js](https://github.com/Am0rphous/Awesome/blob/master/README.md#nodejs---open-source-and-cross-platform-javascript-runtime-environment)
     - [PHP](https://github.com/Am0rphous/Awesome/blob/master/README.md#php)
     - [Python](https://github.com/Am0rphous/Awesome/blob/master/README.md#php)
+    - [Web](https://github.com/Am0rphous/Awesome/blob/master/README.md#web)
 - [E-books](https://github.com/Am0rphous/Awesome/blob/master/README.md#e-books)
 - [Encryption](https://github.com/Am0rphous/Awesome/blob/master/README.md#encryption)
 - [Finance](https://github.com/Am0rphous/Awesome/blob/master/README.md#finance)
+  - [Cryptocurrency](https://github.com/Am0rphous/Awesome/blob/master/README.md#cryptocurrency)
 - [Finding Software](https://github.com/Am0rphous/Awesome/blob/master/README.md#finding-software)
 - [Food and Drinks](https://github.com/Am0rphous/Awesome/blob/master/README.md#food-and-drinks)
 - [Games](https://github.com/Am0rphous/Awesome/blob/master/README.md#games)
@@ -109,7 +117,7 @@ Communicate clearly <br>
 - [Awesome WSL](https://github.com/sirredbeard/Awesome-WSL) - Awesome list dedicated to Windows Subsystem for Linux.
 - [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome)
 
-## Communication
+## Communication and Collaboration Tools
 - [Convos](https://convos.chat)
 - [CryptPad](https://github.com/xwiki-labs/cryptpad) - Collaboration suite, encrypted and open-source.
 - [Darkwire.io](https://github.com/darkwire/darkwire.io) - End-to-end encrypted instant web chat [https://darkwire.io](https://darkwire.io).
@@ -182,13 +190,6 @@ Communicate clearly <br>
   ### VoIP
   - [Mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software.
   - [Rocket Streaming Audio Server](https://www.rocketbroadcaster.com/streaming-audio-server) - Rocket Streaming Audio Server broadcasts live audio over HTTP(S), and is a modern replacement for Icecast and SHOUTcast.
-
-
-
-## Cryptocurrency
-- [Bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree.
-- [bitcoin-chart-cli](https://github.com/madnight/bitcoin-chart-cli) - Bitcoin chart for the terminal as command line util.
-- [cryptocurrency-calculator-cli](https://github.com/madnight/cryptocurrency-calculator-cli) - Cryptocurrency Converter Calculator as command line util.
 
 ## Desktop customization tools
 - [Conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X-
