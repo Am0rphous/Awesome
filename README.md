@@ -35,6 +35,7 @@ Communicate clearly <br>
   - [Icons](https://github.com/Am0rphous/Awesome/blob/master/README.md#icons)
   - [Programming](https://github.com/Am0rphous/Awesome/blob/master/README.md#programming)
     - [Electron](https://github.com/Am0rphous/Awesome/blob/master/README.md#electron)
+    - [Go](https://github.com/Am0rphous/Awesome/blob/master/README.md#go)
     - [HTML](https://github.com/Am0rphous/Awesome/blob/master/README.md#html)
     - [Java](https://github.com/Am0rphous/Awesome/blob/master/README.md#java)
     - [JavaScript](https://github.com/Am0rphous/Awesome/blob/master/README.md#javascript)
@@ -260,6 +261,8 @@ Communicate clearly <br>
       - [Electron Apps](https://github.com/electron/apps) -  A collection of apps built on Electron. [electronjs.org/apps](https://www.electronjs.org/apps)
     - [Menubar](https://github.com/maxogden/menubar) - Heavy_minus_sign high level way to create menubar desktop applications with electron.
     - [Glasstron](https://github.com/AryToNeX/Glasstron) - The go-to solution to Electron composition effects, such as blurry windows.
+    #### Go
+    - [Awesome Go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software.
     #### HTML
     - [HEAD](https://github.com/joshbuchea/HEAD) - 🗿 A list of everything that *could* go in the head of your document.
     #### Java
