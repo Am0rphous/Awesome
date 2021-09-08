@@ -214,6 +214,7 @@ Communicate clearly <br>
   - [How to Make Ubuntu 20.04 Look Like Mac OS](https://azatb.com/2020/10/12/how-to-make-ubuntu-20-04-look-like-mac-os-linux-hint/)
   
 ## Development
+- [Awesome Community](https://github.com/phpearth/awesome-community) - A curated list of awesome programming, development, technical support and discussion channels, groups, communities, resources and other shiny things.
 - [CppCheck](https://github.com/danmar/cppcheck) -  Static analysis of C/C++ code.
 - [DocToc](https://doctoc.herokuapp.com/) - Generates table of content for markdown files inside github repositories Tweet.
 - [Git / Github Desktop](https://github.com/desktop/desktop) - open source Electron-based GitHub app. It is written in TypeScript and uses React [desktop.github.com/](https://desktop.github.com).
@@ -267,7 +268,7 @@ Communicate clearly <br>
     - [React](https://reactjs.org/) - A declarative, efficient, and flexible JavaScript library for building user interfaces. [Github](https://github.com/facebook/react)
     #### JQuery
     - [Awesome jQuery](https://github.com/petk/awesome-jquery) - A curated list of awesome jQuery plugins, resources and other shiny things.
-    - [jquerytools.org](http://jquerytools.org/demos/)
+    - [jquerytools.org](http://jquerytools.org/demos/) - [github](https://github.com/jquerytools/jquerytools)
     #### Nim
     - [GUI Options for Nim](https://matthiashager.com/gui-options-for-nim)
     - [Nimwsnetproxy](https://github.com/skelsec/nimwsnetproxy) - Websockets-tcp proxy in nim.
@@ -283,8 +284,10 @@ Communicate clearly <br>
     - [The Art of Node](https://github.com/maxogden/art-of-node) - A short introduction to node.js
 
     #### PHP
-    - [Awesome-PHP](https://github.com/ziadoz/awesome-php) - _A curated list of amazingly awesome PHP libraries, resources and shiny things._
-    - [Laravel](https://github.com/laravel/laravel) - _A PHP framework for web artisans._
+    - [Awesome-PHP](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
+    - [Docker for PHP developers](https://github.com/phpearth/docker-php) - whale Docker For PHP developers - Docker images with PHP, Nginx, OpenLiteSpeed, Apache, Lighttpd, and Alpine.
+      - [Docs](https://docs.php.earth/docker/)
+    - [Laravel](https://github.com/laravel/laravel) - A PHP framework for web artisans.
       - [laravel.com](https://laravel.com)
       - [Laravel Passport](https://github.com/laravel/passport) - Laravel Passport provides OAuth2 server support to Laravel.
     #### Python
