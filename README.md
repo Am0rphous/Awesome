@@ -266,6 +266,7 @@ Communicate clearly <br>
     - [Babel](https://babeljs.io/) - JavaScript compiler.
     - [React](https://reactjs.org/) - A declarative, efficient, and flexible JavaScript library for building user interfaces. [Github](https://github.com/facebook/react)
     #### JQuery
+    - [Awesome jQuery](https://github.com/petk/awesome-jquery) - A curated list of awesome jQuery plugins, resources and other shiny things.
     - [jquerytools.org](http://jquerytools.org/demos/)
     #### Nim
     - [GUI Options for Nim](https://matthiashager.com/gui-options-for-nim)
