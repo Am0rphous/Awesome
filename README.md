@@ -298,6 +298,7 @@ Communicate clearly <br>
 - [Secure Coding Handbook](https://github.com/joswha/Secure-Coding-Handbook) - Web Application Secure Coding Handbook resource.
 
 ## Encryption
+- [Crypto](https://developer.mozilla.org/en-US/docs/Web/API/Crypto) - The Crypto interface represents basic cryptography features available in the current context. It allows access to a cryptographically strong random number generator and to cryptographic primitives.
 - [Encrypting Kali Setup Tutorial (working pr. 10.11.20)](https://www.informaticar.net/how-to-manually-partition-and-encrypt-kali-linux/)
 - [GnuPGP](https://gnupg.org/) - The GNU Privacy Guard. GnuPG is a complete and free implementation of the OpenPGP standard as defined by RFC4880 (also known as PGP). GnuPG allows you to encrypt and sign your data and communications; it features a versatile key management system, along with access modules for all kinds of public key directories. GnuPG, also known as GPG, is a command line tool with features for easy integration with other applications. A wealth of frontend applications and libraries are available. GnuPG also provides support for S/MIME and Secure Shell (ssh).
   - [EasyGPG](https://github.com/guelfoweb/easygpg) - Zenity GUI to manage GPG keys.
