@@ -38,6 +38,7 @@ Communicate clearly <br>
     - [HTML](https://github.com/Am0rphous/Awesome/blob/master/README.md#html)
     - [Java](https://github.com/Am0rphous/Awesome/blob/master/README.md#java)
     - [JavaScript](https://github.com/Am0rphous/Awesome/blob/master/README.md#javascript)
+    - [JQuery](https://github.com/Am0rphous/Awesome/blob/master/README.md#jquery)
     - [Nim](https://github.com/Am0rphous/Awesome/blob/master/README.md#nim)
     - [Node.js](https://github.com/Am0rphous/Awesome/blob/master/README.md#nodejs---open-source-and-cross-platform-javascript-runtime-environment)
     - [PHP](https://github.com/Am0rphous/Awesome/blob/master/README.md#php)
@@ -264,6 +265,8 @@ Communicate clearly <br>
     - [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days. This challenge may take up to 100 days, please just follow your own pace.
     - [Babel](https://babeljs.io/) - JavaScript compiler.
     - [React](https://reactjs.org/) - A declarative, efficient, and flexible JavaScript library for building user interfaces. [Github](https://github.com/facebook/react)
+    #### JQuery
+    - [jquerytools.org](http://jquerytools.org/demos/)
     #### Nim
     - [GUI Options for Nim](https://matthiashager.com/gui-options-for-nim)
     - [Nimwsnetproxy](https://github.com/skelsec/nimwsnetproxy) - Websockets-tcp proxy in nim.
