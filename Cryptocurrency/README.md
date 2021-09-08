@@ -1,5 +1,14 @@
 # Cryptocurrency
 
+## Bitcoin
+- [Bitcoin source code](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree.
+
+## Charts
+- [Bitcoin-chart-cli](https://github.com/madnight/bitcoin-chart-cli) - Bitcoin chart for the terminal as command line util.
+
+## Convertion / Calculation
+- [Cryptocurrency-calculator-cli](https://github.com/madnight/cryptocurrency-calculator-cli) - Cryptocurrency Converter Calculator as command line util.
+
 ## Exchanges
 - [bitfinex.com](https://www.bitfinex.com/)
 - [Guarda Exchange](https://guarda.com/exchange/)
@@ -8,7 +17,6 @@
 - [Kaupang](https://www.kaupangkrypto.no/)
 - [MiraiEx](https://www.miraiex.com/no/)
 - [NBX](https://nbx.com/) - Norwegian Block Exchange er en norsk kryptobørs.
-
 
 ## IOTA
 - [Documentation](https://github.com/iotaledger/documentation) - This is where we host content for the documentation portal.
