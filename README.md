@@ -161,6 +161,7 @@ Communicate clearly <br>
       - [How can I get Thunderbird to read msgFilterRules.dat?](https://support.mozilla.org/en-US/questions/1269514)
       - [Owl for Exchange](https://addons.thunderbird.net/thunderbird/addon/owl-for-exchange/?src=search) - Allows you to use your Exchange email accounts that use Outlook Web Access (OWA) with Thunderbird [beonex.com/owl](https://www.beonex.com/owl).
       - [Profiles - Where Thunderbird stores your messages and other user data](https://support.mozilla.org/en-US/kb/profiles-where-thunderbird-stores-user-data?redirectslug=profiles-tb&redirectlocale=en-US)
+        - [Using Multiple Profiles](https://support.mozilla.org/en-US/kb/using-multiple-profiles) - As described in the Profiles article, Thunderbird saves personal information such as messages, passwords and user preferences in a set of files called a "profile", which is stored in a separate location from the Thunderbird program files. 
       - [Just Report It](https://addons.thunderbird.net/thunderbird/addon/just-report-it/?src=cb-dl-recentlyadded) - Just Report It (https://justreport.it) is an email plugin which tackles spam the right way. Report emails straight to SpamCop, the Registrar, a custom email address or any combination in between!
   ### IRC
   - [Kiwi IRC](https://kiwiirc.com)
