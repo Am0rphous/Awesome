@@ -793,6 +793,7 @@ upstream_recursive_servers:
   ### Certificates
   - [acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol.
   - [Acme-tiny](https://github.com/diafygi/acme-tiny) - A tiny script to issue and renew TLS certs from Let's Encrypt.
+  - [Certificate-transparency-go](https://github.com/google/certificate-transparency-go) - Auditing for TLS certificates (Go code).
   - [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 
   ### Web Hosting Services worth checking out
