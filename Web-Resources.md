@@ -119,20 +119,14 @@
   ### PowerShell
   - [Scriptigator.com](https://scriptigator.com)
 
-## Music
-- [Old Time Radio](https://oldtime.radio/)
-
-## News
-- [Trustnodes.com](https://www.trustnodes.com)
-
 ## Privacy
+- [DarkSearch](https://darksearch.io/)
 - [privacytools.io](https://www.privacytools.io/)
 
 ## Random
-- [elephind.com](https://elephind.com) - Search the world's historic newspaper archives.
-
-## Research
 - [Core](https://core.ac.uk/) - The world’s largest collection of open access research papers.
+- [elephind.com](https://elephind.com) - Search the world's historic newspaper archives.
+- [Old Time Radio](https://oldtime.radio/)
 
 ## Social Media
 - [Mastodon](https://joinmastodon.org/)
