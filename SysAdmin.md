@@ -671,6 +671,7 @@ upstream_recursive_servers:
      sudo apt-get install slimbookbattery
      ````
   ### Testing
+  - [Cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
   - [Selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
   ### Troubleshooting
   - [htrace.sh](https://github.com/trimstray/htrace.sh) -  My simple Swiss Army knife for http/https troubleshooting and profiling.
