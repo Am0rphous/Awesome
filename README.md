@@ -235,6 +235,7 @@ Communicate clearly <br>
   - [Atom](https://github.com/atom/atom) - Atom is a hackable text editor for the 21st century, built on Electron.
   - [GhostText](https://github.com/GhostText/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
     - [GhostText-for-Atom](https://github.com/GhostText/GhostText-for-Atom) - Allows live editing of Chrome/Firefox text area or JS Code editor content with Atom using WebSockets.
+  - [Graviton](https://github.com/Graviton-Code-Editor/Graviton-App) - A modern-looking Code Editor. [graviton.netlify.app](https://graviton.netlify.app/)
   - [Light Table](http://lighttable.com/) - The next generation code editor.
   - [PyCharm](https://www.jetbrains.com/pycharm) - Python IDE for Professional Developers.
   - [Spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder - The Scientific Python Development Environment.
@@ -264,7 +265,8 @@ Communicate clearly <br>
     #### Java
     - [IntelliJ IDEA](https://www.jetbrains.com/idea/) - IntelliJ IDEA is an integrated development environment (IDE) for Java development. It’s developed by JetBrains. [Github](https://github.com/JetBrains/intellij-community)
     #### JavaScript
-    - [30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days. This challenge may take up to 100 days, please just follow your own pace.
+    - [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days. This challenge may take up to 100 days, please just follow your own pace.
+    - [30 seconds of code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs.
     - [Babel](https://babeljs.io/) - JavaScript compiler.
     - [React](https://reactjs.org/) - A declarative, efficient, and flexible JavaScript library for building user interfaces. [Github](https://github.com/facebook/react)
     #### JQuery
@@ -292,15 +294,19 @@ Communicate clearly <br>
       - [laravel.com](https://laravel.com)
       - [Laravel Passport](https://github.com/laravel/passport) - Laravel Passport provides OAuth2 server support to Laravel.
     #### Python
+    - [30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python) - Short Python code snippets for all your development needs.
     - [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
     - [Rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
       - [Enrich](https://github.com/pycontribs/enrich) - Enrich adds few missing features to the wonderful rich library.
     - [Textual](https://github.com/willmcgugan/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
     #### Web
+    - [30-seconds-web](https://github.com/30-seconds/30-seconds-web) - Website infrastructure for 30-seconds projects.
     - [Nextra](https://github.com/shuding/nextra) - Nextra is a Next.js and MDX powered, no-code site generator.
     - [Phoenix framework](https://github.com/phoenixframework/phoenix) - [www.phoenixframework.org](https://www.phoenixframework.org)
       - [Sobelow](https://github.com/nccgroup/sobelow) - Sobelow is a security-focused static analysis tool for the Phoenix framework. For security researchers, it is a useful tool for getting a quick view of points-of-interest. For project maintainers, it can be used to prevent the introduction of a number of common vulnerabilities.
     - [Selenium](https://www.selenium.dev/)
+    - [Waline](https://github.com/walinejs/waline) - A Simple, Safe Comment System inspired by Valine | 一款基于 Valine 衍生的简洁、安全的评论系统.
+      - [Waline Example](https://github.com/mIcHyAmRaNe/waline) - This directory is a brief example of a Waline app that can be deployed with Vercel and zero configuration.
 
 ## E-books
 - [Check Am0rphous Web-Resources.md](https://github.com/Am0rphous/Awesome/blob/master/Web-Resources.md)
