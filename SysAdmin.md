@@ -479,6 +479,7 @@ upstream_recursive_servers:
   - [OwnCloud](https://owncloud.com) - Easy to install, free and self-hosted cloud-storage service.
   - [PetaSAN](http://www.petasan.org) - Open source Scale-Out SAN solution offering massive scalability and performance.
   - [Rockstor](http://rockstor.com) - BTRFS based NAS and private cloud storage solution. [Download Rockstor](https://sourceforge.net/projects/rockstor/files).
+  - [SeaweedFS](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, Hadoop, WebDAV, encryption, Erasure Coding. 
   - [XigmaNAS](https://www.xigmanas.com) - Open Source Storage NAS (Network-Attached Storage) distribution based on FreeBSD. [Download XimagaNAS](https://sourceforge.net/projects/xigmanas/files/)
   #### Online Storage Services
   - [DropBox](https://www.dropbox.com) - From 2 GB to ~16 GB depending of different opportunities.
