@@ -426,6 +426,7 @@ upstream_recursive_servers:
   Install it with e.g. `brew install --cask remote-desktop-manager-free`
   - [RustDesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software.
   - [ScreenCat](https://github.com/maxogden/screencat) - Cat2 webrtc screensharing electron app for mac os (Alpha).
+  - [Vinagre](https://wiki.gnome.org/Apps/Vinagre) - Vinagre is a remote desktop viewer for GNOME. 
   - [xRDP](https://github.com/neutrinolabs/xrdp) - Open source RDP server.
   - VNC (Virtual Network Computing)
     - [TigerVNC](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server.
