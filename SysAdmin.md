@@ -594,6 +594,7 @@ upstream_recursive_servers:
   ### Bash
   - [Awesome Bash](https://github.com/awesome-lists/awesome-bash) -  A curated list of delightful Bash scripts and resources.
   - [Bash-guide](https://github.com/Idnan/bash-guide) - A guide to learn bash.
+  - [bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
   - [Debugging Bash Scripts](https://linuxconfig.org/how-to-debug-bash-scripts) - Usage of traditional techniques, xtrace, trap and other options.
   - [Oh My Bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. [ohmybash.github.io](https://ohmybash.github.io)
 
