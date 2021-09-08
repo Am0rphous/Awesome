@@ -146,6 +146,7 @@ Communicate clearly <br>
 - [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app.
   - [Telegram-CLI](https://github.com/vysheng/tg) - Command-line interface for Telegram.
 - [Tox Chat](https://tox.chat/)
+- [Twist](https://twist.com/home)
 - [Wire](https://github.com/wireapp/wire) - [app.wire.com](https://app.wire.com/auth/)
   ### E-mail
   - [ElectronMail](https://github.com/vladimiry/ElectronMail) - Unofficial ProtonMail Desktop App.
