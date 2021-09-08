@@ -269,6 +269,7 @@ Communicate clearly <br>
     - [30 seconds of code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs.
     - [Babel](https://babeljs.io/) - JavaScript compiler.
     - [React](https://reactjs.org/) - A declarative, efficient, and flexible JavaScript library for building user interfaces. [Github](https://github.com/facebook/react)
+      - [React Query](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React.
     #### JQuery
     - [Awesome jQuery](https://github.com/petk/awesome-jquery) - A curated list of awesome jQuery plugins, resources and other shiny things.
     - [jquerytools.org](http://jquerytools.org/demos/) - [github](https://github.com/jquerytools/jquerytools)
