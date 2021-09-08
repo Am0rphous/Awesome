@@ -25,7 +25,6 @@ Communicate clearly <br>
   - [Matrix](https://github.com/Am0rphous/Awesome#matrix)
   - [Version Control, Wiki, Knowledge base](https://github.com/Am0rphous/Awesome#version-control-wiki-knowledge-base)
   - [VoIP](https://github.com/Am0rphous/Awesome#voip)
-
 - [Desktop customization tools](https://github.com/Am0rphous/Awesome/blob/master/README.md#desktop-customization-tools)
   - [Extensions](https://github.com/Am0rphous/Awesome/blob/master/README.md#extensions)
   - [Inspiration](https://github.com/Am0rphous/Awesome/blob/master/README.md#inspiration)
@@ -163,23 +162,25 @@ Communicate clearly <br>
       - [Just Report It](https://addons.thunderbird.net/thunderbird/addon/just-report-it/?src=cb-dl-recentlyadded) - Just Report It (https://justreport.it) is an email plugin which tackles spam the right way. Report emails straight to SpamCop, the Registrar, a custom email address or any combination in between!
   ### IRC
   - [Kiwi IRC](https://kiwiirc.com)
+  - [Mibbit](https://www.mibbit.com/)
   - [Quassel-irc](https://quassel-irc.org)
   #### IRC Clients
-- [Birch](https://github.com/dylanaraps/birch) - An IRC client written in bash.
-- [HexChat](https://github.com/hexchat/hexchat) - IRC client for Windows and UNIX-like operating systems [hexchat.github.io](https://hexchat.github.io)
-- [Irssi](https://irssi.org/) - vpowerful text-mode IRC client.
-- [Kirc](https://github.com/mcpcpc/kirc) -  A tiny IRC client written in POSIX C99.
-- [LimeChat](https://github.com/psychs/limechat) - IRC Client for Mac.
-- [Pidgin](https://www.pidgin.im) - instant messaging program which lets you log in to accounts on multiple chat networks simultaneously. It runs on Windows, Linux, and other UNIX operating systems.
-- [Polari](https://github.com/GNOME/polari) - source IRC client for the GNOME desktop environment. [wiki.gnome.org/Apps/Polari](https://wiki.gnome.org/Apps/Polari)
-- [Rirc](https://github.com/rcr/rirc) -  A terminal IRC client in C. [rcr.io/rirc](http://rcr.io/rirc/)
-- Quassel, HexChat, WeeChat, Konversation, XChat, Smuxi, Polari, KVIrc, ERC, : https://www.ubuntupit.com/top-20-best-irc-clients-for-linux-that-you-should-use-everyday/
-- [TheLounge](https://thelounge.chat) - self-hosted web IRC client.
+  - [Birch](https://github.com/dylanaraps/birch) - An IRC client written in bash.
+  - [HexChat](https://github.com/hexchat/hexchat) - IRC client for Windows and UNIX-like operating systems [hexchat.github.io](https://hexchat.github.io)
+  - [Irssi](https://irssi.org/) - vpowerful text-mode IRC client.
+  - [Kirc](https://github.com/mcpcpc/kirc) -  A tiny IRC client written in POSIX C99.
+  - [LimeChat](https://github.com/psychs/limechat) - IRC Client for Mac.
+  - [Pidgin](https://www.pidgin.im) - instant messaging program which lets you log in to accounts on multiple chat networks simultaneously. It runs on Windows, Linux, and other UNIX operating systems.
+  - [Polari](https://github.com/GNOME/polari) - source IRC client for the GNOME desktop environment. [wiki.gnome.org/Apps/Polari](https://wiki.gnome.org/Apps/Polari)
+  - [Rirc](https://github.com/rcr/rirc) -  A terminal IRC client in C. [rcr.io/rirc](http://rcr.io/rirc/)
+  - Quassel, HexChat, WeeChat, Konversation, XChat, Smuxi, Polari, KVIrc, ERC, : https://www.ubuntupit.com/top-20-best-irc-clients-for-linux-that-you-should-use-everyday/
+  - [TheLounge](https://thelounge.chat) - self-hosted web IRC client.
     #### IRC Servers
     - [ngIRCd](https://ngircd.barton.de/) -  ngIRCd is a free, portable and lightweight Internet Relay Chat server for small or private networks, developed under the GNU General Public License (GPL).
     - [Oragono](https://github.com/oragono/oragono) - A modern IRC server (daemon/ircd) written in Go.
     - [Ratbox ircd](https://www.ratbox.org/) - ircd-ratbox originated as a fork of ircd-hybrid. Although designed with EFNet in mind, it’s heavily used on many other networks due to it’s performance and modularity.
   ### Matrix
+  Description: An open network for secure, decentralized communication [matrix.org](https://matrix.org/)
   - [Gomuks](https://github.com/tulir/gomuks) - A terminal based Matrix client written in Go.
   - [Neochat](https://github.com/KDE/neochat) - A client for matrix, the decentralized communication protoco.
   ### Version Control, Wiki, Knowledge base
@@ -290,6 +291,7 @@ Communicate clearly <br>
     - [Nextra](https://github.com/shuding/nextra) - Nextra is a Next.js and MDX powered, no-code site generator.
     - [Phoenix framework](https://github.com/phoenixframework/phoenix) - [www.phoenixframework.org](https://www.phoenixframework.org)
       - [Sobelow](https://github.com/nccgroup/sobelow) - Sobelow is a security-focused static analysis tool for the Phoenix framework. For security researchers, it is a useful tool for getting a quick view of points-of-interest. For project maintainers, it can be used to prevent the introduction of a number of common vulnerabilities.
+    - [Selenium](https://www.selenium.dev/)
 
 ## E-books
 - [Check Am0rphous Web-Resources.md](https://github.com/Am0rphous/Awesome/blob/master/Web-Resources.md)
@@ -409,6 +411,7 @@ Based on that data, you can find the most popular ones and their alternatives.
    - [Kazam](https://github.com/hzbd/kazam) - Kazam is a simple screen recording program that will capture the content of your screen.
    - [Kdenlive](https://invent.kde.org/multimedia/kdenlive) - Free and open source video editor, based on MLT Framework and KDE Frameworks 5. [Github](https://github.com/KDE/kdenlive)
    - [OBS Studio](https://github.com/obsproject/obs-studio) - Free and open source software for live streaming and screen recording.
+   - [Pitivi](https://www.pitivi.org/) - Free video editor with a beautiful and intuitive user interface, a clean codebase and a fantastic community.
    - [Xtreme Download Manager](https://github.com/subhra74/xdm) -  Powerfull download accelerator and video downloader.
 
   ### Media Servers
