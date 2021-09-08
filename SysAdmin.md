@@ -323,6 +323,7 @@ lsscsi                          #Print SCSI Devices Info
 - [Espionage](https://github.com/josh0xA/Espionage) - A Network Packet and Traffic Interceptor For Linux. Spoof ARP & Wiretap A Network. 
 - [Grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More.
   - [Grafana dashboards for MySQL and MongoDB](https://github.com/percona/grafana-dashboards) - Grafana dashboards for MySQL and MongoDB monitoring using Prometheus.
+  - [Hastic Graph Panel](https://github.com/hastic/hastic-grafana-app) - Hastic data management server for labeling patterns and anomalies in Grafana.
 - [Graylog](https://github.com/Graylog2/graylog2-server) - Free and open source log management.
   - [Graylog Content Pack for Watchguard](https://github.com/ThoZed/graylog-cp-watchguard) - Graylog Content Pack for Watchguard Fireware Logging.
 - [Hastic Server](https://github.com/hastic/hastic-server) - Hastic data management server for analyzing patterns and anomalies from Grafana.
