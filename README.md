@@ -507,6 +507,7 @@ Based on that data, you can find the most popular ones and their alternatives.
 - [Raven Reader](https://github.com/hello-efficiency-inc/raven-reader) - All your articles in one place. Beautiful. The most flexible news reader ever
 - [RSS-Bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it.
 - [RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible.
+- [Terminews](https://github.com/antavelos/terminews) - Manage RSS sources and display news feed in terminal.
 
 ## Productivity Tools
 - [Albert Launcher](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher. [Homepage](https://albertlauncher.github.io/)
