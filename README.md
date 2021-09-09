@@ -423,6 +423,7 @@ Based on that data, you can find the most popular ones and their alternatives.
    - [Gephi - The Open Graph Viz Platform](https://github.com/gephi/gephi) - award-winning open-source platform for visualizing and manipulating large graphs. For Linux, Mac and Windows.
    - [HighchartTable](http://highcharttable.org/)
    - [Javascript Heatmap Charts](https://github.com/fusionchartsexpress/JavascriptHeatmapCharts)
+   - [Karbon](https://calligra.org/karbon/index.html) - Karbon is a vector drawing application with an user interface that is easy to use, highly customizable and extensible. That makes Karbon a great application for users starting to explore the world of vector graphics as well as for artists wanting to create breathtaking vector art. 
    - [LynxKite](https://github.com/lynxkite/lynxkite) - LynxKite is a complete graph data science platform for very large graphs and other datasets. It seamlessly combines the benefits of a friendly graphical interface and a powerful Python API.
    - [Plotly](https://pypi.org/project/plotly/) - An open-source, interactive data visualization library for Python.
      - [Plotly Dash](https://dash.plotly.com/layout)
@@ -489,7 +490,9 @@ Based on that data, you can find the most popular ones and their alternatives.
       - [Shortwave](https://gitlab.gnome.org/World/Shortwave) - Find and listen to internet radio stations.
       - [Soundcleod](https://github.com/salomvary/soundcleod) - SoundCloud for macOS and Windows.
       - [Soundnode App](https://github.com/Soundnode/soundnode-app) - Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API. 
-      - [Spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
+      - Spotify
+      - [Gemini](https://github.com/Gabe-H/Gemini) - A dope, easy-on-the-eyes, currently-playing viewer for Spotify. [snapcraft.io/gemini](https://snapcraft.io/gemini)
+        - [Spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
          ###### Podcast
          - [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts.
          - [CPod](https://github.com/z-------------/CPod) - A simple, beautiful podcast app for Windows, macOS, and Linux.
@@ -517,6 +520,7 @@ Based on that data, you can find the most popular ones and their alternatives.
 - [Libre Cloud Services](https://www.opendesktop.org/)
 - [Open-event-frontend](https://github.com/fossasia/open-event-frontend) - The frontend for the Open Event API Server
 - [Open-event-server](https://github.com/fossasia/open-event-server) - The Open Event Organizer Server to Manage Events http://open-event-api.herokuapp.com
+- [Plan](https://calligra.org/plan/index.html) - Plan is a project management application. It is intended for managing moderately large projects with multiple resources.To enable you to model your project adequately, Plan offers different types of task dependencies and timing constraints. The usual use case is to define your tasks, estimate the effort needed to perform each task, allocate resources and then let Plan schedule the tasks according to network and resource availability. 
 - [Pomatez](https://github.com/roldanjr/pomatez) - Stay Focused. Take a Break.
 - [Rambox](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
 - [Raycast](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day. [www.raycast.com](https://www.raycast.com)
@@ -539,6 +543,12 @@ Based on that data, you can find the most popular ones and their alternatives.
     - [How to Manage Your Tasks in the Terminal with Taskbook](https://www.maketecheasier.com/manage-tasks-in-terminal-with-taskbook/)
   - [QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.
   ### Office Tools
+  - [Apache OpenOffice](https://www.openoffice.org/)
+  - [Calligra](https://calligra.org/) - Calligra Suite is an office and graphic art suite by KDE. It is available for desktop PCs, tablet computers, and smartphones. It contains applications for word processing, spreadsheets, presentation, vector graphics, and editing databases. 
+    - [KEXI](https://calligra.org/kexi/index.html) - KEXI is a visual database applications creator. It can be used for designing database applications, inserting and editing data, performing queries, and processing data. Forms can be created to provide a custom interface to your data. All database objects – tables, queries, forms, reports – are stored in the database, making it easy to share data and design. Install: `sudo apt install kexi`
+    - [Sheets](https://calligra.org/sheets/index.html) - Calligra Sheets is a fully-featured spreadsheet application. Use it to quickly create spreadsheets with formulas and charts, to calculate and organize your data. 
+    - [Stage](https://calligra.org/stage/index.html) - Calligra Stage is a powerful and easy to use presentation application.You can dazzle your audience with stunning slides containing images, videos, animation and more.
+    - [Words](https://calligra.org/words/index.html) - Calligra Words is an intuitive word processor application with desktop publishing features. With it, you can create informative and attractive documents with ease. Calligra Words makes adding images, charts etc to your documents effortless. It’s as simple as dragging it onto the document. 
   - [FreeOffice](https://www.freeoffice.com)
   - [dictionaries](https://www.freeoffice.com/en/download/dictionaries)
   - [LibreOffice](https://www.libreoffice.org/)
