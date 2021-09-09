@@ -556,6 +556,7 @@ Based on that data, you can find the most popular ones and their alternatives.
   - [LibreOffice](https://www.libreoffice.org/)
   - [SoftMaker Office](https://www.softmaker.com/en/softmaker-office-download) - Free for 30 days.
   ### Security
+  - [ExifCleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata.
   - [Howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux.
   Commands:
   ````powershell
