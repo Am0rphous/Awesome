@@ -233,11 +233,12 @@ Communicate clearly <br>
   ### Backend
   - [SupaBase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 
-  ### Code Editors
+  ### Code Editors / IDE
   - [Atom](https://github.com/atom/atom) - Atom is a hackable text editor for the 21st century, built on Electron.
   - [GhostText](https://github.com/GhostText/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
     - [GhostText-for-Atom](https://github.com/GhostText/GhostText-for-Atom) - Allows live editing of Chrome/Firefox text area or JS Code editor content with Atom using WebSockets.
   - [Graviton](https://github.com/Graviton-Code-Editor/Graviton-App) - A modern-looking Code Editor. [graviton.netlify.app](https://graviton.netlify.app/)
+  - [KDevelop](https://www.kdevelop.org/) - A cross-platform IDE for C, C++, Python, QML/JavaScript and PHP.
   - [Light Table](http://lighttable.com/) - The next generation code editor.
   - [PyCharm](https://www.jetbrains.com/pycharm) - Python IDE for Professional Developers.
   - [Spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder - The Scientific Python Development Environment.
@@ -496,6 +497,7 @@ Based on that data, you can find the most popular ones and their alternatives.
 
 
 ## News, RSS Feed
+- [Akregator](https://kontact.kde.org/components/akregator.html) - Akregator helps you to keep informed about new stories on websites like KDE Dot News and Planet KDE blogs. The technology used is RSS and many sites support it.
 - [CyberSecurityRSS](https://github.com/zer0yu/CyberSecurityRSS) - CyberSecurityRSS: 优秀的网络安全知识来源 / A collection of cybersecurity rss to make you better!.
 - [FreshRSS](https://github.com/FreshRSS/FreshRSS) - FreshRSS is a self-hosted RSS feed aggregator like Leed or Kriss Feed. It is lightweight, easy to work with, powerful, and customizable.
 - [Homura](https://github.com/Saul-Mirone/homura) - Elegant RSS reader.
