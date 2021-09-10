@@ -319,6 +319,7 @@ Communicate clearly <br>
     - [Phoenix framework](https://github.com/phoenixframework/phoenix) - [www.phoenixframework.org](https://www.phoenixframework.org)
       - [Sobelow](https://github.com/nccgroup/sobelow) - Sobelow is a security-focused static analysis tool for the Phoenix framework. For security researchers, it is a useful tool for getting a quick view of points-of-interest. For project maintainers, it can be used to prevent the introduction of a number of common vulnerabilities.
     - [Selenium](https://www.selenium.dev/)
+    - [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
     - [Waline](https://github.com/walinejs/waline) - A Simple, Safe Comment System inspired by Valine | 一款基于 Valine 衍生的简洁、安全的评论系统.
       - [Waline Example](https://github.com/mIcHyAmRaNe/waline) - This directory is a brief example of a Waline app that can be deployed with Vercel and zero configuration.
 
