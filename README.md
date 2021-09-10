@@ -229,6 +229,7 @@ Communicate clearly <br>
 - [Prompts](https://github.com/terkelg/prompts#selectmessage-choices-initial-hint-warn) - ❯ Lightweight, beautiful and user-friendly interactive prompts.
 - [Thonny PyDev](https://github.com/thonny/thonny) - Python IDE for beginners.
 - [Vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
+- [Vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [Wing](https://github.com/kbrsh/wing) - A beautiful CSS framework designed for minimalists [kbrsh.github.io](https://kbrsh.github.io/wing/).
   ### Backend
   - [SupaBase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
