@@ -44,6 +44,7 @@ Communicate clearly <br>
     - [Node.js](https://github.com/Am0rphous/Awesome/blob/master/README.md#nodejs---open-source-and-cross-platform-javascript-runtime-environment)
     - [PHP](https://github.com/Am0rphous/Awesome/blob/master/README.md#php)
     - [Python](https://github.com/Am0rphous/Awesome/blob/master/README.md#php)
+    - [Vlang](https://github.com/Am0rphous/Awesome/blob/master/README.md#vlang)
     - [Web](https://github.com/Am0rphous/Awesome/blob/master/README.md#web)
 - [E-books](https://github.com/Am0rphous/Awesome/blob/master/README.md#e-books)
 - [Encryption](https://github.com/Am0rphous/Awesome/blob/master/README.md#encryption)
@@ -309,6 +310,8 @@ Communicate clearly <br>
     - [Rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
       - [Enrich](https://github.com/pycontribs/enrich) - Enrich adds few missing features to the wonderful rich library.
     - [Textual](https://github.com/willmcgugan/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
+    #### Vlang
+    - [V](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io.
     #### Web
     - [30-seconds-web](https://github.com/30-seconds/30-seconds-web) - Website infrastructure for 30-seconds projects.
     - [Go Gallery](https://github.com/creekorful/go-gallery) - Generate a photography portfolio website for your photos.
