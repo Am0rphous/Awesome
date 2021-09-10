@@ -12,6 +12,7 @@
 
 ## OS dedicated for gaming
 - [SteamOS](https://store.steampowered.com/steamos) - SteamOS is the primary operating system for the Steam Machine gaming platform by Valve. It is based on the Debian distribution of Linux.
+- [Ubuntu Gamepack](https://ualinux.com/en/ubuntu-gamepack) - It is an operating system that will guarantee the launch of more than 85,842 games developed both specifically for Linux and developed for Windows, DOS, various game consoles Sega, Nintendo, PSP, Sony PlayStation, ZX Spectrum and many others.
 
 ## Gaming on Linux
 - [Lutris](https://github.com/lutris/lutris) - Open Source gaming platform for GNU/Linux. [lutris.net](https://lutris.net/)
