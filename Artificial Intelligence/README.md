@@ -62,6 +62,7 @@ Note: https://favouriteblog.com/50-best-github-artificial-intelligence/
 - [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) - TensorFlow - A curated list of dedicated resources [tensorflow.org](http://tensorflow.org).
 - [Tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone.
 - [FaceRank](https://github.com/fendouai/FaceRank) - FaceRank - Rank Face by CNN Model based on TensorFlow (add keras version). FaceRank-人脸打分基于 TensorFlow (新增 Keras 版本) 的 CNN 模型（QQ群：167122861）。技术支持：[http://tensorflow123.com](http://tensorflow123.com).
+- [PerceptiLabs](https://github.com/PerceptiLabs/PerceptiLabs) - As a visual API, PerceptiLabs sits on top of TensorFlow and other APIs.
 
 ## Sentiment Analysis
 Description: _Sentiment analysis (also known as opinion mining or emotion AI) is the use of natural language processing, text analysis, computational linguistics, and biometrics to systematically identify, extract, quantify, and study affective states and subjective information_ [Wikipedia](https://en.wikipedia.org/wiki/Sentiment_analysis)
