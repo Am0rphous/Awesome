@@ -28,7 +28,8 @@ Communicate clearly <br>
 - [Desktop customization tools](https://github.com/Am0rphous/Awesome/blob/master/README.md#desktop-customization-tools)
   - [Extensions](https://github.com/Am0rphous/Awesome/blob/master/README.md#extensions)
   - [Inspiration](https://github.com/Am0rphous/Awesome/blob/master/README.md#inspiration)
-- [Theme Tutorials](https://github.com/Am0rphous/Awesome/blob/master/README.md#theme-tutorials)
+  - [Theme Tutorials](https://github.com/Am0rphous/Awesome/blob/master/README.md#theme-tutorials)
+  - [Wallapers](https://github.com/Am0rphous/Awesome/blob/master/README.md#wallpapers)
 - [Development](https://github.com/Am0rphous/Awesome/blob/master/README.md#development)
   - [Backend](https://github.com/Am0rphous/Awesome/blob/master/README.md#backend)
   - [Code Editors](https://github.com/Am0rphous/Awesome/blob/master/README.md#code-editors)
@@ -200,6 +201,7 @@ Communicate clearly <br>
   - [Mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software.
   - [Rocket Streaming Audio Server](https://www.rocketbroadcaster.com/streaming-audio-server) - Rocket Streaming Audio Server broadcasts live audio over HTTP(S), and is a modern replacement for Icecast and SHOUTcast.
 
+
 ## Desktop customization tools
 - [Conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X-
 - [Conky-Colors](https://github.com/helmuthdu/conky_colors) - easier way to configure Conky.
@@ -219,7 +221,10 @@ Communicate clearly <br>
   - [gnome-look.org](https://www.gnome-look.org)
   #### Theme Tutorials
   - [How to Make Ubuntu 20.04 Look Like Mac OS](https://azatb.com/2020/10/12/how-to-make-ubuntu-20-04-look-like-mac-os-linux-hint/)
-  
+  #### Wallpapers
+  - [wallhaven.cc](https://wallhaven.cc/)
+
+
 ## Development
 - [Awesome Community](https://github.com/phpearth/awesome-community) - A curated list of awesome programming, development, technical support and discussion channels, groups, communities, resources and other shiny things.
 - [CppCheck](https://github.com/danmar/cppcheck) -  Static analysis of C/C++ code.
