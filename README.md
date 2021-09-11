@@ -336,6 +336,7 @@ Communicate clearly <br>
   - [EasyGPG](https://github.com/guelfoweb/easygpg) - Zenity GUI to manage GPG keys.
   - [GnuPG Github](https://github.com/gpg/gnupg)
 - [LibreCrypt](https://github.com/t-d-k/LibreCrypt) - LibreCrypt: Transparent on-the-fly disk encryption for Windows. LUKS compatible.
+- [OpenSSL](https://github.com/openssl/openssl) - TLS/SSL and crypto library.
 - [Sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets 
 - [VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt.
 
