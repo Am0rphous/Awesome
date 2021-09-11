@@ -212,6 +212,8 @@ bro / zeek
   - [Phoronix Test Suite on Github](https://github.com/phoronix-test-suite/phoronix-test-suite) - The Phoronix Test Suite open-source, cross-platform automated testing/benchmarking software.
 
 ## Cloud
+- zure
+  - [Azure REd Team](https://github.com/rootsecdev/Azure-Red-Team) - Azure Security Resources and Notes.
 - [ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool.
 
 ## Configuration Management
