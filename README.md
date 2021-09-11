@@ -70,6 +70,7 @@ Communicate clearly <br>
     - [Music Apps](https://github.com/Am0rphous/Awesome/blob/master/README.md#music-apps)
     - [Podcast]()
 - [News, RSS Feed](https://github.com/Am0rphous/Awesome/blob/master/README.md#news-rss-feed)
+- [Privacy](https://github.com/Am0rphous/Awesome/blob/master/README.md#privacy)
 - [Productivity Tools](https://github.com/Am0rphous/Awesome/blob/master/README.md#productivity-tools)
   - [Note Taking Apps](https://github.com/Am0rphous/Awesome/blob/master/README.md#note-taking-apps)
   - [Office Tools](https://github.com/Am0rphous/Awesome/blob/master/README.md#office-tools)
@@ -515,6 +516,9 @@ Based on that data, you can find the most popular ones and their alternatives.
 - [RSS-Bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it.
 - [RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible.
 - [Terminews](https://github.com/antavelos/terminews) - Manage RSS sources and display news feed in terminal.
+
+## Privacy
+- [Digita Privacy](https://github.com/ffffffff0x/Digital-Privacy) - 一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗.
 
 ## Productivity Tools
 - [Albert Launcher](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher. [Homepage](https://albertlauncher.github.io/)
