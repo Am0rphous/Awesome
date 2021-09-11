@@ -206,6 +206,7 @@ Communicate clearly <br>
 - [Plank](https://github.com/ricotz/plank) - Simple dock.
 - [Rainmeter](https://github.com/rainmeter/rainmeter) - (maybe run rainmeter in wine on linux?)
 - [SpaceEye](https://github.com/KYDronePilot/SpaceEye) - Live satellite imagery for your desktop background.
+- [Variety](https://github.com/varietywalls/variety) - Wallpaper downloader and manager for Linux systems.
   #### Extensions
   - [compiz-alike-magic-lamp-effect](https://github.com/hermes83/compiz-alike-magic-lamp-effect) - Compiz alike magic lamp effect for GNOME Shell.
   - [compiz-alike-windows-effect](https://github.com/hermes83/compiz-alike-windows-effect) - Compiz alike windows effect for GNOME Shell.
