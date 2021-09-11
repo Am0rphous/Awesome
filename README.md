@@ -169,6 +169,7 @@ Communicate clearly <br>
       - [Just Report It](https://addons.thunderbird.net/thunderbird/addon/just-report-it/?src=cb-dl-recentlyadded) - Just Report It (https://justreport.it) is an email plugin which tackles spam the right way. Report emails straight to SpamCop, the Registrar, a custom email address or any combination in between!
   ### IRC
   - [Kiwi IRC](https://kiwiirc.com)
+  - [Limnoria](https://github.com/progval/Limnoria) - A robust, full-featured, and user/programmer-friendly Python IRC bot, with many existing plugins. Successor of the well-known Supybot.
   - [Mibbit](https://www.mibbit.com/)
   - [Quassel-irc](https://quassel-irc.org)
   #### IRC Clients
