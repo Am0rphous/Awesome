@@ -570,9 +570,10 @@ Based on that data, you can find the most popular ones and their alternatives.
     - [Stage](https://calligra.org/stage/index.html) - Calligra Stage is a powerful and easy to use presentation application.You can dazzle your audience with stunning slides containing images, videos, animation and more.
     - [Words](https://calligra.org/words/index.html) - Calligra Words is an intuitive word processor application with desktop publishing features. With it, you can create informative and attractive documents with ease. Calligra Words makes adding images, charts etc to your documents effortless. It’s as simple as dragging it onto the document. 
   - [FreeOffice](https://www.freeoffice.com)
-  - [dictionaries](https://www.freeoffice.com/en/download/dictionaries)
+    - [Dictionaries](https://www.freeoffice.com/en/download/dictionaries)
   - [LibreOffice](https://www.libreoffice.org/)
   - [SoftMaker Office](https://www.softmaker.com/en/softmaker-office-download) - Free for 30 days.
+  - [TagSpaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support.
   ### Security
   - [ExifCleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata.
   - [Howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux.
