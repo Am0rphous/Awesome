@@ -155,6 +155,7 @@ Communicate clearly <br>
 - [Tox Chat](https://tox.chat/)
 - [Twist](https://twist.com/home)
 - [Wire](https://github.com/wireapp/wire) - [app.wire.com](https://app.wire.com/auth/)
+- [YakYak](https://github.com/yakyak/yakyak) - Desktop chat client for Google Hangouts.
   ### E-mail
   - [ElectronMail](https://github.com/vladimiry/ElectronMail) - Unofficial ProtonMail Desktop App.
   - [Post Quantum Mail](https://github.com/swapravo/pqm-client) - Quantum-safe anonymous encrypted emails. [postquantummail.com](https://postquantummail.com)
