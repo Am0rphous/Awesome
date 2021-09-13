@@ -91,6 +91,7 @@ virt-viewer vnc://localhost:5901
 
 ### Onion Services
 - DuckDuckGo - https://3g2upl4pq6kufc4m.onion
+- Haystak - http://haystakvxad7wbk5.onion/
 - Index of torproject.org - http://sdscoq7snqtznauu.onion
 - NotEvil Dark Web - https://3g2upl4pq6kufc4m.onion/ 
 - ProtonMail - https://protonirockerxow.onion
