@@ -90,6 +90,7 @@ virt-viewer vnc://localhost:5901
   - [TorStatus Github](https://github.com/paulchen/torstatus)
 
 ### Onion Services
+- Ahmia.fi - http://haystakvxad7wbk5.onion/
 - DuckDuckGo - https://3g2upl4pq6kufc4m.onion
 - Haystak - http://haystakvxad7wbk5.onion/
 - Index of torproject.org - http://sdscoq7snqtznauu.onion
