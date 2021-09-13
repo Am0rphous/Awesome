@@ -20,6 +20,10 @@ Towards Deep Learning
 -	Sequence prediction problems have been around for a long time
 -	These include a wide range of problems: From predicting sales to finding patterns in stock markets’ data, from understanding movie plots to recognizing your way of speech, from language translations to predicting your next work on your iPhone’s keyboard.
 
+## Reinforcement Learning
+Description: _Reinforcement learning is an area of machine learning concerned with how intelligent agents ought to take actions in an environment in order to maximize the notion of cumulative reward. Reinforcement learning is one of three basic machine learning paradigms, alongside supervised learning and unsupervised learning._ [wikipedia](https://en.wikipedia.org/wiki/Reinforcement_learning)
+- [Vicero](https://github.com/CogitoNTNU/vicero) - Reinforcement Learning Framework.
+
 ## Resources
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [Camera Classifier](https://github.com/NeuralNine/camera-classifier) - A Python application that uses camera input to train a SVM to respond to specific actions.
