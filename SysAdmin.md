@@ -613,6 +613,7 @@ upstream_recursive_servers:
 
   ### Organizing Terminal Windows
   - [Byobu](https://github.com/dustinkirkland/byobu) - Byobu is a GPLv3 open source text-based window manager and terminal multiplexer.
+    - [Hollywood](https://github.com/dustinkirkland/hollywood) - Open a random number of splits, random sizes. In each split, run a noisy text app.
   - [Terminator](https://github.com/gnome-terminator/terminator) - Useful tool for arranging terminals.
   - [Tmux](https://github.com/tmux/tmux) - tmux is a terminal multiplexer: it enables a number of terminals to be created, accessed, and controlled from a single screen.
     - [Rainbarf](https://github.com/creaktive/rainbarf) - CPU/RAM/battery stats chart bar for tmux (and GNU screen).
