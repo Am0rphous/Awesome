@@ -589,14 +589,9 @@ upstream_recursive_servers:
 - [modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) - A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. [ohmyz.sh](https://ohmyz.sh/)
 - [Guake](https://github.com/Guake/guake) - Drop-down terminal for GNOME.
-- [Terminator](https://github.com/gnome-terminator/terminator) - Useful tool for arranging terminals.
 - [Tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix.
-- [Tmux](https://github.com/tmux/tmux) - tmux is a terminal multiplexer: it enables a number of terminals to be created, accessed, and controlled from a single screen.
-  - [Rainbarf](https://github.com/creaktive/rainbarf) - CPU/RAM/battery stats chart bar for tmux (and GNU screen).
-  - [tmux-mem-cpu-load](https://github.com/thewtex/tmux-mem-cpu-load) - CPU, RAM, and load monitor for use with tmux.
-  - [Tmux xPanes](https://github.com/greymd/tmux-xpanes) - Create multiple tmux terminals.
 - [Windows Terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place.
-  - [cascadia-code](https://github.com/microsoft/cascadia-code) - un, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal. 
+  - [Cascadia-code](https://github.com/microsoft/cascadia-code) - un, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal. 
   - [QTerminal](https://github.com/lxqt/qterminal) - A lightweight Qt-based terminal emulator.
   ### Bash
   - [Awesome Bash](https://github.com/awesome-lists/awesome-bash) -  A curated list of delightful Bash scripts and resources.
@@ -606,7 +601,7 @@ upstream_recursive_servers:
   - [Oh My Bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. [ohmybash.github.io](https://ohmybash.github.io)
 
   ### Dotfiles
-  - [chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right.
+  - [Chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right.
     - [ansi-styles](https://github.com/chalk/ansi-styles) - ANSI escape codes for styling strings in the terminal.
   - [Mohkale's DotFiles](https://github.com/mohkale/dotfiles)
   - [Yadm - Yet Another Dotfiles Manager](https://github.com/TheLocehiliosan/yadm)
@@ -615,6 +610,14 @@ upstream_recursive_servers:
   - [Cool Retro Term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display.
   - [eDEX-UI](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
   - [Tilix](https://github.com/gnunn1/tilix/) - A tiling terminal emulator for Linux using GTK+ 3.
+
+  ### Organizing Terminal Windows
+  - [Byobu](https://github.com/dustinkirkland/byobu) - Byobu is a GPLv3 open source text-based window manager and terminal multiplexer.
+  - [Terminator](https://github.com/gnome-terminator/terminator) - Useful tool for arranging terminals.
+  - [Tmux](https://github.com/tmux/tmux) - tmux is a terminal multiplexer: it enables a number of terminals to be created, accessed, and controlled from a single screen.
+    - [Rainbarf](https://github.com/creaktive/rainbarf) - CPU/RAM/battery stats chart bar for tmux (and GNU screen).
+    - [tmux-mem-cpu-load](https://github.com/thewtex/tmux-mem-cpu-load) - CPU, RAM, and load monitor for use with tmux.
+    - [Tmux xPanes](https://github.com/greymd/tmux-xpanes) - Create multiple tmux terminals.
 
   ### Scripting
   - [Awesome-Scripts by DedSecInside](https://github.com/DedSecInside/Awesome-Scripts) - A collection of awesome scripts from developers around the globe.
