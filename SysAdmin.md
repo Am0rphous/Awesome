@@ -1,6 +1,7 @@
 # System Administrator Tools
 
 _"A good admin is a paranoid one. A better admin is both paranoid and prepared. - Unknown"_
+_“Intelligence is the ability to avoid doing work, yet getting the work done - Linux Torvald"_
 
 - [Active Directory & LDAP](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#active-directory--ldap)
   - [Security](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#security)
