@@ -69,13 +69,14 @@ Communicate clearly <br>
   - [Music](https://github.com/Am0rphous/Awesome/blob/master/README.md#music)
     - [Sound Production](https://github.com/Am0rphous/Awesome/blob/master/README.md#sound-production)
     - [Music Apps](https://github.com/Am0rphous/Awesome/blob/master/README.md#music-apps)
-    - [Podcast]()
+    - [Podcast](https://github.com/Am0rphous/Awesome/blob/master/README.md#podcast)
 - [News, RSS Feed](https://github.com/Am0rphous/Awesome/blob/master/README.md#news-rss-feed)
 - [Privacy](https://github.com/Am0rphous/Awesome/blob/master/README.md#privacy)
 - [Productivity Tools](https://github.com/Am0rphous/Awesome/blob/master/README.md#productivity-tools)
   - [Note Taking Apps](https://github.com/Am0rphous/Awesome/blob/master/README.md#note-taking-apps)
   - [Office Tools](https://github.com/Am0rphous/Awesome/blob/master/README.md#office-tools)
   - [Security](https://github.com/Am0rphous/Awesome/blob/master/README.md#security)
+  - [Time Management](https://github.com/Am0rphous/Awesome/blob/master/README.md#time-management)
 - [Resources](https://github.com/Am0rphous/Awesome/blob/master/README.md#resources)
 - [Tools](https://github.com/Am0rphous/Awesome/blob/master/README.md#tools)
   - [DVD-ripping](https://github.com/Am0rphous/Awesome/blob/master/README.md#dvd-ripping)
@@ -542,19 +543,17 @@ Based on that data, you can find the most popular ones and their alternatives.
 - [Open-event-frontend](https://github.com/fossasia/open-event-frontend) - The frontend for the Open Event API Server
 - [Open-event-server](https://github.com/fossasia/open-event-server) - The Open Event Organizer Server to Manage Events http://open-event-api.herokuapp.com
 - [Plan](https://calligra.org/plan/index.html) - Plan is a project management application. It is intended for managing moderately large projects with multiple resources.To enable you to model your project adequately, Plan offers different types of task dependencies and timing constraints. The usual use case is to define your tasks, estimate the effort needed to perform each task, allocate resources and then let Plan schedule the tasks according to network and resource availability. 
-- [Pomatez](https://github.com/roldanjr/pomatez) - Stay Focused. Take a Break.
 - [Rambox](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
 - [Raycast](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day. [www.raycast.com](https://www.raycast.com)
 - [RedShift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings.
-- [SafeEyes](https://github.com/slgobinath/SafeEyes) - Protect your eyes from eye strain using this simple and beautiful, yet extensible break reminder.
 - [ToDoist](https://todoist.com) - "Organize it all"
 - [Touchégg](https://github.com/JoseExposito/touchegg) - Linux multi-touch gesture recognizer. Touchégg is an app that runs in the background and transform the gestures you make on your touchpad or touchscreen into visible actions in your desktop.
   - [Touché](https://github.com/JoseExposito/touche) - The desktop application to configure Touchégg.
 - [Tui.calendar](https://github.com/nhn/tui.calendar) - JavaScript calendar that has everything you need.
 - [QuickTile](https://github.com/ssokolow/quicktile) - Adds window-tiling hotkeys to any X11 desktop. (An analogue to WinSplit Revolution for people who don't want to use Compiz Grid).
-- [WNR](https://github.com/RoderickQiu/wnr) - It's a time-management tool for computers. Work and rest, with wnr now. (P.S.: being fed up of my heavy study work and an private Android project, I might not be able to response quickly).
   ### Note Taking Apps
   - [Ao](https://github.com/klaussinani/ao) - Elegant Microsoft To-Do desktop app [klaussinani.github.io/ao](https://klaussinani.github.io/ao).
+  - [Etherpad](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
   - [Joplin](https://github.com/laurent22/joplin) - An open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: [discourse.joplinapp.org](https://discourse.joplinapp.org)
   - [MindNode](https://mindnode.com/download) - brainstorm and mind mapping.
     - [Dracula for MindNode](https://github.com/dracula/mindnode) - Dark theme for MindNode.
@@ -592,6 +591,10 @@ Based on that data, you can find the most popular ones and their alternatives.
   sudo howdy disable 1            #disable it
   sudo howdy disable 0            #enable it
   ````
+  ### Time Management
+  - [Pomatez](https://github.com/roldanjr/pomatez) - Stay Focused. Take a Break.
+  - [SafeEyes](https://github.com/slgobinath/SafeEyes) - Protect your eyes from eye strain using this simple and beautiful, yet extensible break reminder.
+  - [WNR](https://github.com/RoderickQiu/wnr) - It's a time-management tool for computers. Work and rest, with wnr now. (P.S.: being fed up of my heavy study work and an private Android project, I might not be able to response quickly).
 
 ## Social Media
 - [Caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app.
