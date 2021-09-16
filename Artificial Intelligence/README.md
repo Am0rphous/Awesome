@@ -49,7 +49,8 @@ Note: https://favouriteblog.com/50-best-github-artificial-intelligence/
   - [Roboflow Object Tracking Example](https://github.com/roboflow-ai/zero-shot-object-tracking) - Object tracking implemented with the Roboflow Inference API, DeepSort, and OpenAI CLIP.
 
 ### Face / Emotions
-- FacEmoji](https://github.com/PiotrDabrowskey/facemoji) - Detects face and its emotion, draws according emoji over face.
+- [Detect Eyes and Detect Faces in Python](https://copyassignment.com/detect-eyes-and-detect-faces-in-python-and-opencv/)
+- [FacEmoji](https://github.com/PiotrDabrowskey/facemoji) - Detects face and its emotion, draws according emoji over face.
 
 ## Machine Learning
 - [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) - Machine Learning for Cyber Security.
