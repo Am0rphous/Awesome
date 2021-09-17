@@ -202,9 +202,10 @@ Communicate clearly <br>
   ### Version Control, Wiki, Knowledge base
   - [Gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service.
   - [GitLab](https://about.gitlab.com/install/) - web-based DevOps lifecycle tool that provides a Git-repository manager providing wiki, issue-tracking and continuous integration and deployment pipeline features, using an open-source license, developed by GitLab Inc.
-  - [Gitlab-watchman](https://github.com/PaperMtn/gitlab-watchman) - Monitoring GitLab for sensitive data shared publicly.
+    - [Gitlab Watchman](https://github.com/PaperMtn/gitlab-watchman) - Monitoring GitLab for sensitive data shared publicly.
+  - [GitUI](https://github.com/extrawurst/gitui) - GitUI provides you with the comfort of a git GUI but right in your terminal. Fast terminal-ui for git written in rust.
   - [OutLine](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
-  - [PrivateBin](https://framabin.org/p) - Minimalist, open source online pastebin.
+
   ### VoIP
   - [Mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software.
   - [Rocket Streaming Audio Server](https://www.rocketbroadcaster.com/streaming-audio-server) - Rocket Streaming Audio Server broadcasts live audio over HTTP(S), and is a modern replacement for Icecast and SHOUTcast.
@@ -564,6 +565,7 @@ Based on that data, you can find the most popular ones and their alternatives.
     - [How to Manage Your Tasks in the Terminal with Taskbook](https://www.maketecheasier.com/manage-tasks-in-terminal-with-taskbook/)
   - [QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.
   ### Pastebins
+  - [Framabin](https://framabin.org/) - Minimalist, open source online pastebin.
   - [PrivateBin](https://privatebin.info/) - PrivateBin ([github](https://github.com/PrivateBin/PrivateBin))is a minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted and decrypted in the browser using 256bit AES in Galois Counter mode.
 
   ### Office Tools
