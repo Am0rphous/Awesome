@@ -551,6 +551,7 @@ Based on that data, you can find the most popular ones and their alternatives.
   - [Touché](https://github.com/JoseExposito/touche) - The desktop application to configure Touchégg.
 - [Tui.calendar](https://github.com/nhn/tui.calendar) - JavaScript calendar that has everything you need.
 - [QuickTile](https://github.com/ssokolow/quicktile) - Adds window-tiling hotkeys to any X11 desktop. (An analogue to WinSplit Revolution for people who don't want to use Compiz Grid).
+- [WebCatalog]() - Official WebCatalog app. [webcatalog.io/webcatalog](https://webcatalog.io/webcatalog)
   ### Note Taking Apps
   - [Ao](https://github.com/klaussinani/ao) - Elegant Microsoft To-Do desktop app [klaussinani.github.io/ao](https://klaussinani.github.io/ao).
   - [Etherpad](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
