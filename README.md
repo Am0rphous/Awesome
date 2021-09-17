@@ -74,10 +74,12 @@ Communicate clearly <br>
 - [Privacy](https://github.com/Am0rphous/Awesome/blob/master/README.md#privacy)
 - [Productivity Tools](https://github.com/Am0rphous/Awesome/blob/master/README.md#productivity-tools)
   - [Note Taking Apps](https://github.com/Am0rphous/Awesome/blob/master/README.md#note-taking-apps)
+    - [Pastebins](https://github.com/Am0rphous/Awesome/blob/master/README.md#pastebins)
   - [Office Tools](https://github.com/Am0rphous/Awesome/blob/master/README.md#office-tools)
   - [Project Management](https://github.com/Am0rphous/Awesome/blob/master/README.md#project-management)
   - [Security](https://github.com/Am0rphous/Awesome/blob/master/README.md#security)
   - [Time Management](https://github.com/Am0rphous/Awesome/blob/master/README.md#time-management)
+    - [Polls](https://github.com/Am0rphous/Awesome/blob/master/README.md#polls)
 - [Resources](https://github.com/Am0rphous/Awesome/blob/master/README.md#resources)
 - [Tools](https://github.com/Am0rphous/Awesome/blob/master/README.md#tools)
   - [DVD-ripping](https://github.com/Am0rphous/Awesome/blob/master/README.md#dvd-ripping)
@@ -561,6 +563,9 @@ Based on that data, you can find the most popular ones and their alternatives.
   - [Taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
     - [How to Manage Your Tasks in the Terminal with Taskbook](https://www.maketecheasier.com/manage-tasks-in-terminal-with-taskbook/)
   - [QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.
+  ### Pastebins
+  - [PrivateBin](https://privatebin.info/) - PrivateBin ([github](https://github.com/PrivateBin/PrivateBin))is a minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted and decrypted in the browser using 256bit AES in Galois Counter mode.
+
   ### Office Tools
   - [Apache OpenOffice](https://www.openoffice.org/)
   - [Calligra](https://calligra.org/) - Calligra Suite is an office and graphic art suite by KDE. It is available for desktop PCs, tablet computers, and smartphones. It contains applications for word processing, spreadsheets, presentation, vector graphics, and editing databases. [Development](https://invent.kde.org/office/calligra)
@@ -601,7 +606,8 @@ Based on that data, you can find the most popular ones and their alternatives.
   - [Pomatez](https://github.com/roldanjr/pomatez) - Stay Focused. Take a Break.
   - [Tui.calendar](https://github.com/nhn/tui.calendar) - JavaScript calendar that has everything you need.
   - [WNR](https://github.com/RoderickQiu/wnr) - It's a time-management tool for computers. Work and rest, with wnr now. (P.S.: being fed up of my heavy study work and an private Android project, I might not be able to response quickly).
-
+    ### Polls
+    - [Framadate](https://framagit.org/framasoft/framadate/framadate) - [Framadate.org](https://framadate.org/) is an online service for planning an appointment or making a decision quickly and easily. It's a community free/libre software alternative to Doodle.
 
 
 ## Social Media
