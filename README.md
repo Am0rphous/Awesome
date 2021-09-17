@@ -75,6 +75,7 @@ Communicate clearly <br>
 - [Productivity Tools](https://github.com/Am0rphous/Awesome/blob/master/README.md#productivity-tools)
   - [Note Taking Apps](https://github.com/Am0rphous/Awesome/blob/master/README.md#note-taking-apps)
   - [Office Tools](https://github.com/Am0rphous/Awesome/blob/master/README.md#office-tools)
+  - [Project Management](https://github.com/Am0rphous/Awesome/blob/master/README.md#project-management)
   - [Security](https://github.com/Am0rphous/Awesome/blob/master/README.md#security)
   - [Time Management](https://github.com/Am0rphous/Awesome/blob/master/README.md#time-management)
 - [Resources](https://github.com/Am0rphous/Awesome/blob/master/README.md#resources)
@@ -141,6 +142,7 @@ Communicate clearly <br>
   - [Mattermost Server](https://github.com/mattermost/mattermost-server)
 - [Microsoft Temas](https://www.microsoft.com/nb-no/microsoft-teams/download-app) - Linux, Mac, Windows, ios, android
   - [clear_cache_MS_Teams.sh](https://gist.github.com/mrcomoraes/c83a2745ef8b73f9530f2ec0433772b7)
+- [Rambox](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The ultimate Free Open Source Solution for team communications.
   - [RC-Trending](https://github.com/frontendwizard/rc-trending) - News feed from multiple sources right into rocket chat.
   - [Rocket.Chat.RaspberryPi](https://github.com/RocketChat/Rocket.Chat.RaspberryPi)
@@ -534,30 +536,24 @@ Based on that data, you can find the most popular ones and their alternatives.
 ## Productivity Tools
 - [Albert Launcher](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher. [Homepage](https://albertlauncher.github.io/)
 - [CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features.
-- [Deepin Calender](https://github.com/linuxdeepin/dde-calendar) - Calendar application for DDE.
-- [GNOME Calendar](https://gitlab.gnome.org/GNOME/gnome-calendar) [github](https://github.com/GNOME/gnome-calendar)
 - [GoAlert](https://github.com/target/goalert) - Open source on-call scheduling, automated escalations, and notifications so you never miss a critical alert.
 - [HDFM](https://github.com/KYDronePilot/hdfm) - A program that displays weather and traffic maps received from NRSC-5 (HDFM) radio station.
-- [HTML5 Binary Clock](https://github.com/AE0L/html5-binary-clock) - Binary Clock written in HTML5, CSS3, and Vanilla JS.
 - [KOrganizer](https://github.com/KDE/korganizer) - Organizational assistant, providing calendars and other similar functionality.
-- [Libre Cloud Services](https://www.opendesktop.org/)
 - [Open-event-frontend](https://github.com/fossasia/open-event-frontend) - The frontend for the Open Event API Server
 - [Open-event-server](https://github.com/fossasia/open-event-server) - The Open Event Organizer Server to Manage Events http://open-event-api.herokuapp.com
-- [Plan](https://calligra.org/plan/index.html) - Plan is a project management application. It is intended for managing moderately large projects with multiple resources.To enable you to model your project adequately, Plan offers different types of task dependencies and timing constraints. The usual use case is to define your tasks, estimate the effort needed to perform each task, allocate resources and then let Plan schedule the tasks according to network and resource availability. 
-- [Rambox](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
 - [Raycast](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day. [www.raycast.com](https://www.raycast.com)
 - [RedShift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings.
 - [ToDoist](https://todoist.com) - "Organize it all"
 - [Touchégg](https://github.com/JoseExposito/touchegg) - Linux multi-touch gesture recognizer. Touchégg is an app that runs in the background and transform the gestures you make on your touchpad or touchscreen into visible actions in your desktop.
   - [Touché](https://github.com/JoseExposito/touche) - The desktop application to configure Touchégg.
-- [Tui.calendar](https://github.com/nhn/tui.calendar) - JavaScript calendar that has everything you need.
 - [QuickTile](https://github.com/ssokolow/quicktile) - Adds window-tiling hotkeys to any X11 desktop. (An analogue to WinSplit Revolution for people who don't want to use Compiz Grid).
 - [WebCatalog]() - Official WebCatalog app. [webcatalog.io/webcatalog](https://webcatalog.io/webcatalog)
+
   ### Note Taking Apps
   - [Ao](https://github.com/klaussinani/ao) - Elegant Microsoft To-Do desktop app [klaussinani.github.io/ao](https://klaussinani.github.io/ao).
   - [Etherpad](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
   - [Joplin](https://github.com/laurent22/joplin) - An open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: [discourse.joplinapp.org](https://discourse.joplinapp.org)
-  - [MindNode](https://mindnode.com/download) - brainstorm and mind mapping.
+  - [MindNode](https://mindnode.com/download) - Brainstorm and mind mapping.
     - [Dracula for MindNode](https://github.com/dracula/mindnode) - Dark theme for MindNode.
   - [Simplenote for Electron](https://github.com/Automattic/simplenote-electron) - Simplenote for Web, Windows, and Linux.
   - [Standard Notes](https://github.com/standardnotes/desktop) - A free, open-source, and completely encrypted notes app. Mac, PC, & Linux app repository. [standardnotes.com](https://standardnotes.com)
@@ -574,9 +570,14 @@ Based on that data, you can find the most popular ones and their alternatives.
     - [Words](https://calligra.org/words/index.html) - Calligra Words is an intuitive word processor application with desktop publishing features. With it, you can create informative and attractive documents with ease. Calligra Words makes adding images, charts etc to your documents effortless. It’s as simple as dragging it onto the document. 
   - [FreeOffice](https://www.freeoffice.com)
     - [Dictionaries](https://www.freeoffice.com/en/download/dictionaries)
-  - [LibreOffice](https://www.libreoffice.org/)
+  - [Libre Cloud Services](https://www.opendesktop.org/)
+  - [Libre Office](https://www.libreoffice.org/)
   - [SoftMaker Office](https://www.softmaker.com/en/softmaker-office-download) - Free for 30 days.
   - [TagSpaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support.
+  ### Project Management
+  - [Plan](https://calligra.org/plan/index.html) - Plan is a project management application. It is intended for managing moderately large projects with multiple resources.To enable you to model your project adequately, Plan offers different types of task dependencies and timing constraints. The usual use case is to define your tasks, estimate the effort needed to perform each task, allocate resources and then let Plan schedule the tasks according to network and resource availability. 
+  - [Taiga](https://www.taiga.io/) - Taiga is the project management tool for multi-functional agile teams. It has a rich feature set and at the same time it is very simple to start with through its intuitive user interface. Free: up to 15 users, 5 private projects, unlimited public projects and 300 MB storage in private projects.
+
   ### Security
   - [ExifCleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata.
   - [Howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux.
@@ -594,9 +595,14 @@ Based on that data, you can find the most popular ones and their alternatives.
   sudo howdy disable 0            #enable it
   ````
   ### Time Management
+  - [Deepin Calender](https://github.com/linuxdeepin/dde-calendar) - Calendar application for DDE.
+  - [GNOME Calendar](https://gitlab.gnome.org/GNOME/gnome-calendar) [github](https://github.com/GNOME/gnome-calendar)
+  - [HTML5 Binary Clock](https://github.com/AE0L/html5-binary-clock) - Binary Clock written in HTML5, CSS3, and Vanilla JS.
   - [Pomatez](https://github.com/roldanjr/pomatez) - Stay Focused. Take a Break.
-  - [SafeEyes](https://github.com/slgobinath/SafeEyes) - Protect your eyes from eye strain using this simple and beautiful, yet extensible break reminder.
+  - [Tui.calendar](https://github.com/nhn/tui.calendar) - JavaScript calendar that has everything you need.
   - [WNR](https://github.com/RoderickQiu/wnr) - It's a time-management tool for computers. Work and rest, with wnr now. (P.S.: being fed up of my heavy study work and an private Android project, I might not be able to response quickly).
+
+
 
 ## Social Media
 - [Caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app.
