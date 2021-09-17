@@ -24,7 +24,7 @@ _“Intelligence is the ability to avoid doing work, yet getting the work done -
 - [Monitoring](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#monitoring)
   - [ELK-stack](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#elk-stack)
   - [Good resources](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#good-resources)
-  - [Log Analysis](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#log-analysis)
+  - [Logs](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#logs)
 - [Network Tools](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#network-tools)
   - [DHCP](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#dhcp)
   - [DNS](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#dns)
@@ -364,13 +364,14 @@ lsscsi                          #Print SCSI Devices Info
   ## Attack Surface Monitoring
 - [Attack Surface Analyzer](https://github.com/microsoft/AttackSurfaceAnalyzer) -  Attack Surface Analyzer can help you analyze your operating system's security configuration for changes during software installation.
 - [Awesome Attack Surface Monitoring](https://github.com/0xtavian/awesome-attack-surface-monitoring) - Curated list of open-source & paid Attack Surface Monitoring (ASM) tools.
-  ### Log Analysis
+  ### Logs
   - [AwStats](https://www.awstats.org/) - Powerful and featureful web server log analyzer.
   - [Chainsaw](https://github.com/countercept/chainsaw) - Rapidly Search and Hunt through Windows Event Logs.
   - [GoAccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
   - [PgBadger](https://github.com/darold/pgbadger) - A fast PostgreSQL Log Analyzer [pgbadger.darold.net](https://pgbadger.darold.net).
   - [PgFormatter](https://github.com/darold/pgFormatter) - A PostgreSQL SQL syntax beautifier that can work as a console program or as a CGI. On-line demo site at [sqlformat.darold.net](http://sqlformat.darold.net).
   - [SendMailAnalyzer](https://github.com/darold/sendmailanalyzer) - Sendmail log Analyzer is a tool to monitor sendmail usage and generate HTML and graph reports. It reports all you ever wanted to know about email trafic on your network. You can also use it in ISP environment with per domain and per mailbox report.
+  - [Sigma](https://github.com/SigmaHQ/sigma) - Generic Signature Format for SIEM Systems.
   - [SquidAnalyzer](https://github.com/darold/squidanalyzer) - Squid Analyzer parses Squid proxy access log and reports general statistics about hits, bytes, users, networks, top URLs, and top second level domains. Statistic reports are oriented toward user and bandwidth control.
 
  ## Network Tools
