@@ -162,6 +162,7 @@ Communicate clearly <br>
   ### E-mail
   - [ElectronMail](https://github.com/vladimiry/ElectronMail) - Unofficial ProtonMail Desktop App.
   - [Post Quantum Mail](https://github.com/swapravo/pqm-client) - Quantum-safe anonymous encrypted emails. [postquantummail.com](https://postquantummail.com)
+  - [ProtonMail](https://protonmail.com/) - ProtonMail is an end-to-end encrypted email service founded in 2013 in Geneva, Switzerland by scientists who spent time at the CERN research facility. ProtonMail uses client-side encryption to protect email content and user data before they are sent to ProtonMail servers, unlike other common email providers such as Gmail and Outlook.com. [Wikipedia](https://en.wikipedia.org/wiki/ProtonMail)
   - [Roundcube Webmail](https://github.com/roundcube/roundcubemail) - [roundcube.net](https://roundcube.net)
   - [Thunderbird](https://www.thunderbird.net)
     - [Thunderbird Extensions](ps://addons.thunderbird.net)
@@ -173,6 +174,7 @@ Communicate clearly <br>
       - [Profiles - Where Thunderbird stores your messages and other user data](https://support.mozilla.org/en-US/kb/profiles-where-thunderbird-stores-user-data?redirectslug=profiles-tb&redirectlocale=en-US)
         - [Using Multiple Profiles](https://support.mozilla.org/en-US/kb/using-multiple-profiles) - As described in the Profiles article, Thunderbird saves personal information such as messages, passwords and user preferences in a set of files called a "profile", which is stored in a separate location from the Thunderbird program files. 
       - [Just Report It](https://addons.thunderbird.net/thunderbird/addon/just-report-it/?src=cb-dl-recentlyadded) - Just Report It (https://justreport.it) is an email plugin which tackles spam the right way. Report emails straight to SpamCop, the Registrar, a custom email address or any combination in between!
+  - [Tutanota](https://tutanota.com/) - Tutanota is an end-to-end encrypted email software and freemium hosted secure email service. Its motto is "einfach.sicher.mailen" in German, meaning "easy.secure.mailing". Its business model excludes earning money through advertisement. Instead, it relies solely on donations and premium subscriptions. [wikipedia](https://en.wikipedia.org/wiki/Tutanota) [Linux Desktop Client (Appimage)](https://mail.tutanota.com/desktop/tutanota-desktop-linux.AppImage)
 
   ### IRC
   - [Kiwi IRC](https://kiwiirc.com)
