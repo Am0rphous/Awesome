@@ -195,7 +195,8 @@ Communicate clearly <br>
     - [Oragono](https://github.com/oragono/oragono) - A modern IRC server (daemon/ircd) written in Go.
     - [Ratbox ircd](https://www.ratbox.org/) - ircd-ratbox originated as a fork of ircd-hybrid. Although designed with EFNet in mind, it’s heavily used on many other networks due to it’s performance and modularity.
   ### Matrix
-  Description: An open network for secure, decentralized communication [matrix.org](https://matrix.org/)
+  An open network for secure, decentralized communication [matrix.org](https://matrix.org/)
+  - [Element](https://www.element.io/) - Privacy-Friendly Open-Source Messenger Built on Matrix Network.
   - [Gomuks](https://github.com/tulir/gomuks) - A terminal based Matrix client written in Go.
   - [Neochat](https://github.com/KDE/neochat) - A client for matrix, the decentralized communication protoco.
   - [Revolt](https://revolt.chat/) - An Open-Source free Alternative to Discord. [Revolt Desktop App](https://github.com/revoltchat/desktop) [Revolt Themes](https://github.com/revoltchat/themes)
