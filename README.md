@@ -145,6 +145,7 @@ Communicate clearly <br>
   - [RC-Trending](https://github.com/frontendwizard/rc-trending) - News feed from multiple sources right into rocket chat.
   - [Rocket.Chat.RaspberryPi](https://github.com/RocketChat/Rocket.Chat.RaspberryPi)
   - [Rocketchat-Cryptoconvert](https://github.com/nicholasfoden/rocketchat-cryptoconvert) - rocket.chat app to convert between cryptocurrencies using the cryptocompare API.
+- [Session](https://getsession.org/) - Session is an end-to-end encrypted messenger that minimises sensitive metadata, designed and built for people who want absolute privacy and freedom from any form of surveillance. [Session Desktop](https://github.com/oxen-io/session-desktop) - Session Desktop - Onion routing based messenge.
 - [Signal](https://www.signal.org)
   - [Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
   - [Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - Private Messenger for Windows, Mac, and Linux.
@@ -157,6 +158,7 @@ Communicate clearly <br>
 - [Twist](https://twist.com/home)
 - [Wire](https://github.com/wireapp/wire) - [app.wire.com](https://app.wire.com/auth/)
 - [YakYak](https://github.com/yakyak/yakyak) - Desktop chat client for Google Hangouts.
+
   ### E-mail
   - [ElectronMail](https://github.com/vladimiry/ElectronMail) - Unofficial ProtonMail Desktop App.
   - [Post Quantum Mail](https://github.com/swapravo/pqm-client) - Quantum-safe anonymous encrypted emails. [postquantummail.com](https://postquantummail.com)
@@ -171,6 +173,7 @@ Communicate clearly <br>
       - [Profiles - Where Thunderbird stores your messages and other user data](https://support.mozilla.org/en-US/kb/profiles-where-thunderbird-stores-user-data?redirectslug=profiles-tb&redirectlocale=en-US)
         - [Using Multiple Profiles](https://support.mozilla.org/en-US/kb/using-multiple-profiles) - As described in the Profiles article, Thunderbird saves personal information such as messages, passwords and user preferences in a set of files called a "profile", which is stored in a separate location from the Thunderbird program files. 
       - [Just Report It](https://addons.thunderbird.net/thunderbird/addon/just-report-it/?src=cb-dl-recentlyadded) - Just Report It (https://justreport.it) is an email plugin which tackles spam the right way. Report emails straight to SpamCop, the Registrar, a custom email address or any combination in between!
+
   ### IRC
   - [Kiwi IRC](https://kiwiirc.com)
   - [Limnoria](https://github.com/progval/Limnoria) - A robust, full-featured, and user/programmer-friendly Python IRC bot, with many existing plugins. Successor of the well-known Supybot.
@@ -195,7 +198,8 @@ Communicate clearly <br>
   Description: An open network for secure, decentralized communication [matrix.org](https://matrix.org/)
   - [Gomuks](https://github.com/tulir/gomuks) - A terminal based Matrix client written in Go.
   - [Neochat](https://github.com/KDE/neochat) - A client for matrix, the decentralized communication protoco.
-  - [Revolt](https://revolt.chat/) - An Open-Source free Alternative to Discord. [Revolt Desktop App](https://github.com/revoltchat/desktop)
+  - [Revolt](https://revolt.chat/) - An Open-Source free Alternative to Discord. [Revolt Desktop App](https://github.com/revoltchat/desktop) [Revolt Themes](https://github.com/revoltchat/themes)
+
   ### Version Control, Wiki, Knowledge base
   - [Gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service.
   - [GitLab](https://about.gitlab.com/install/) - web-based DevOps lifecycle tool that provides a Git-repository manager providing wiki, issue-tracking and continuous integration and deployment pipeline features, using an open-source license, developed by GitLab Inc.
