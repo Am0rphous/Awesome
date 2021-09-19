@@ -195,6 +195,7 @@ Communicate clearly <br>
   Description: An open network for secure, decentralized communication [matrix.org](https://matrix.org/)
   - [Gomuks](https://github.com/tulir/gomuks) - A terminal based Matrix client written in Go.
   - [Neochat](https://github.com/KDE/neochat) - A client for matrix, the decentralized communication protoco.
+  - [Revolt](https://revolt.chat/) - An Open-Source free Alternative to Discord. [Revolt Desktop App](https://github.com/revoltchat/desktop)
   ### Version Control, Wiki, Knowledge base
   - [Gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service.
   - [GitLab](https://about.gitlab.com/install/) - web-based DevOps lifecycle tool that provides a Git-repository manager providing wiki, issue-tracking and continuous integration and deployment pipeline features, using an open-source license, developed by GitLab Inc.
