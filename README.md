@@ -13,15 +13,11 @@ Communicate clearly <br>
  <br> <br>
 # Table of content
 - [Awesome entitled projects](https://github.com/Am0rphous/Awesome/blob/master/README.md#awesome-entitled-projects)
-- [Communication](https://github.com/Am0rphous/Awesome/blob/master/README.md#communication)
-  - [E-mail](https://github.com/Am0rphous/Awesome/blob/master/README.md#e-mail)
-  - [IRC](https://github.com/Am0rphous/Awesome/blob/master/README.md#irc)
-    - [IRC Clients](https://github.com/Am0rphous/Awesome/blob/master/README.md#irc-clients)
-    - [IRC Servers](https://github.com/Am0rphous/Awesome/blob/master/README.md#irc-servers)
-  - [VoIP](https://github.com/Am0rphous/Awesome/blob/master/README.md#voip)
 - [Communication and Collaboration Tools](https://github.com/Am0rphous/Awesome/blob/master/README.md#communication-and-collaboration-tools)
   - [E-mail](https://github.com/Am0rphous/Awesome#e-mail)
   - [IRC](https://github.com/Am0rphous/Awesome#irc)
+    - [IRC Clients](https://github.com/Am0rphous/Awesome/blob/master/README.md#irc-clients)
+    - [IRC Servers](https://github.com/Am0rphous/Awesome/blob/master/README.md#irc-servers)
   - [Matrix](https://github.com/Am0rphous/Awesome#matrix)
   - [Version Control, Wiki, Knowledge base](https://github.com/Am0rphous/Awesome#version-control-wiki-knowledge-base)
   - [VoIP](https://github.com/Am0rphous/Awesome#voip)
