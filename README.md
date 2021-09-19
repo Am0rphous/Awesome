@@ -461,6 +461,7 @@ Based on that data, you can find the most popular ones and their alternatives.
    - [Kazam](https://github.com/hzbd/kazam) - Kazam is a simple screen recording program that will capture the content of your screen.
    - [Kdenlive](https://invent.kde.org/multimedia/kdenlive) - Free and open source video editor, based on MLT Framework and KDE Frameworks 5. [Github](https://github.com/KDE/kdenlive)
    - [OBS Studio](https://github.com/obsproject/obs-studio) - Free and open source software for live streaming and screen recording.
+     - [Screen Recording in Linux With OBS and Wayland](https://itsfoss.com/screen-record-obs-wayland/)
    - [Pitivi](https://www.pitivi.org/) - Free video editor with a beautiful and intuitive user interface, a clean codebase and a fantastic community.
    - [Xtreme Download Manager](https://github.com/subhra74/xdm) -  Powerfull download accelerator and video downloader.
 
