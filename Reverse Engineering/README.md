@@ -49,6 +49,7 @@ https://github.com/WebAssembly/wabt
 - [Viper](https://github.com/viper-framework/viper) -Viper is a binary analysis and management framework.
 ### PE - Portable Executables binaries
 - [Pev](https://github.com/merces/pev) - The PE file analysis toolkit.
+- [XPEViewer](https://github.com/horsicq/XPEViewer) - PE file viewer/editor for Windows, Linux and MacOS.
 
 ## GNU Binutils
 - [GitWeb Interface](https://sourceware.org/git/gitweb.cgi?p=binutils-gdb.git)
