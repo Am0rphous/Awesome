@@ -64,13 +64,14 @@
 - https://geekprank.com/hacker/
 
 
-## Intelligence
+## Intel
 
 -[ncia.nato.int](https://www.ncia.nato.int/index.html) - NATO Communications and Information Agency
+- [Submarine Cable Map](https://www.submarinecablemap.com/)
 
-  ### Norwegian
+  ### Norway
   - [pst.no](https://pst.no/) - Norwegian Police Security Service is the police security agency of Norway, somewhat comparable to the British MI5 [wikipedia](https://en.wikipedia.org/wiki/Norwegian_Police_Security_Service).
-  #### Norwegian Threat Assessment
+  #### Norwegian Threat Assessments
   - [PST's trusselvurdering 2018](https://www.pst.no/alle-artikler/trusselvurderinger/trusselvurdering-2018/)
   - [PST's trusselvurdering 2029](https://www.pst.no/alle-artikler/trusselvurderinger/trusselvurdering-2019/)
 
