@@ -595,6 +595,12 @@ Based on that data, you can find the most popular ones and their alternatives.
   - [Plan](https://calligra.org/plan/index.html) - Plan is a project management application. It is intended for managing moderately large projects with multiple resources.To enable you to model your project adequately, Plan offers different types of task dependencies and timing constraints. The usual use case is to define your tasks, estimate the effort needed to perform each task, allocate resources and then let Plan schedule the tasks according to network and resource availability. 
   - [Taiga](https://www.taiga.io/) - Taiga is the project management tool for multi-functional agile teams. It has a rich feature set and at the same time it is very simple to start with through its intuitive user interface. Free: up to 15 users, 5 private projects, unlimited public projects and 300 MB storage in private projects.
 
+  ### Reference Management
+  - [Zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources.
+    - [Zotero Connectors](https://github.com/zotero/zotero-connectors) - Chrome, Firefox, and Safari extensions for Zotero.
+    - [Zotero-deb](https://github.com/retorquere/zotero-deb) - Packaged versions of Zotero and Juris-M for Debian-based systems.
+    - [Zotero Storage Scanner](https://github.com/retorquere/zotero-storage-scanner) - A Zotero plugin to remove the broken & duplicate attachment link of the bibliography.
+
   ### Security
   - [ExifCleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata.
   - [Howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux.
