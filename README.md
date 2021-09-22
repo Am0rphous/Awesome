@@ -29,6 +29,7 @@ Communicate clearly <br>
 - [Development](https://github.com/Am0rphous/Awesome/blob/master/README.md#development)
   - [Backend](https://github.com/Am0rphous/Awesome/blob/master/README.md#backend)
   - [Code Editors](https://github.com/Am0rphous/Awesome/blob/master/README.md#code-editors)
+  - [Frontend](https://github.com/Am0rphous/Awesome/blob/master/README.md#frontend)
   - [Icons](https://github.com/Am0rphous/Awesome/blob/master/README.md#icons)
   - [Programming](https://github.com/Am0rphous/Awesome/blob/master/README.md#programming)
     - [Electron](https://github.com/Am0rphous/Awesome/blob/master/README.md#electron)
@@ -141,7 +142,7 @@ Communicate clearly <br>
   - [Mattermost Server](https://github.com/mattermost/mattermost-server)
 - [Microsoft Temas](https://www.microsoft.com/nb-no/microsoft-teams/download-app) - Linux, Mac, Windows, ios, android
   - [clear_cache_MS_Teams.sh](https://gist.github.com/mrcomoraes/c83a2745ef8b73f9530f2ec0433772b7)
-- [Rambox](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
+- [Rambox](https://github.com/ramboxapp/commu nity-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The ultimate Free Open Source Solution for team communications.
   - [RC-Trending](https://github.com/frontendwizard/rc-trending) - News feed from multiple sources right into rocket chat.
   - [Rocket.Chat.RaspberryPi](https://github.com/RocketChat/Rocket.Chat.RaspberryPi)
@@ -150,7 +151,7 @@ Communicate clearly <br>
 - [Signal](https://www.signal.org)
   - [Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
   - [Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - Private Messenger for Windows, Mac, and Linux.
-  - [Signal-iOS](https://github.com/signalapp/Signal-iOS) - A private messenger for iOS.
+  - [Signal-iOS](https://github.com/signalapp /Signal-iOS) - A private messenger for iOS.
   - [Signal-Server](https://github.com/signalapp/Signal-Server) - Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS.
 - [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app.
   - [Telegram-CLI](https://github.com/vysheng/tg) - Command-line interface for Telegram.
@@ -205,7 +206,7 @@ Communicate clearly <br>
   - [Revolt](https://revolt.chat/) - An Open-Source free Alternative to Discord. [Revolt Desktop App](https://github.com/revoltchat/desktop) [Revolt Themes](https://github.com/revoltchat/themes)
 
   ### Version Control, Wiki, Knowledge base
-  - [Gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service.
+  - [Gitea](https://github.com/go-gitea/gitea)  - Git with a cup of tea, painless self-hosted git service.
   - [GitLab](https://about.gitlab.com/install/) - web-based DevOps lifecycle tool that provides a Git-repository manager providing wiki, issue-tracking and continuous integration and deployment pipeline features, using an open-source license, developed by GitLab Inc.
     - [Gitlab Watchman](https://github.com/PaperMtn/gitlab-watchman) - Monitoring GitLab for sensitive data shared publicly.
   - [GitUI](https://github.com/extrawurst/gitui) - GitUI provides you with the comfort of a git GUI but right in your terminal. Fast terminal-ui for git written in rust.
@@ -223,7 +224,7 @@ Communicate clearly <br>
 - [Plank](https://github.com/ricotz/plank) - Simple dock.
 - [Rainmeter](https://github.com/rainmeter/rainmeter) - (maybe run rainmeter in wine on linux?)
 - [SpaceEye](https://github.com/KYDronePilot/SpaceEye) - Live satellite imagery for your desktop background.
-- [Variety](https://github.com/varietywalls/variety) - Wallpaper downloader and manager for Linux systems.
+- [Variety](https://github.com/varietywalls/ variety) - Wallpaper downloader and manager for Linux systems.
   #### Extensions
   - [compiz-alike-magic-lamp-effect](https://github.com/hermes83/compiz-alike-magic-lamp-effect) - Compiz alike magic lamp effect for GNOME Shell.
   - [compiz-alike-windows-effect](https://github.com/hermes83/compiz-alike-windows-effect) - Compiz alike windows effect for GNOME Shell.
@@ -271,6 +272,8 @@ Communicate clearly <br>
   - [Visual Studio Code](https://github.com/Microsoft/vscode) - [code.visualstudio.com](https://code.visualstudio.com)
   - [Code Server](https://github.com/cdr/code-server) - VS Code in the browser.
 
+  ### Frontend
+  - [codepen.io](https://codepen.io/) - The best place to build, test, and discover front-end code.
 
   ### Icons
   - [100+ Awesome Free Icons Sets by designwall.com](https://www.designwall.com/blog/100-awesome-free-icons-sets/)
@@ -335,6 +338,7 @@ Communicate clearly <br>
     #### Vlang
     - [V](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io.
     #### Web
+    - [28+ Stylish HTML Music player With User-Friendly Features 2021 ](https://uicookies.com/html-music-player/)
     - [30-seconds-web](https://github.com/30-seconds/30-seconds-web) - Website infrastructure for 30-seconds projects.
     - [Go Gallery](https://github.com/creekorful/go-gallery) - Generate a photography portfolio website for your photos.
     - [Nextra](https://github.com/shuding/nextra) - Nextra is a Next.js and MDX powered, no-code site generator.
