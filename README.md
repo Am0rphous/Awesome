@@ -597,6 +597,7 @@ Based on that data, you can find the most popular ones and their alternatives.
 
   ### Reference Management
   - [Zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources.
+    - [zbib.org](https://zbib.org/)
     - [Zotero Connectors](https://github.com/zotero/zotero-connectors) - Chrome, Firefox, and Safari extensions for Zotero.
     - [Zotero-deb](https://github.com/retorquere/zotero-deb) - Packaged versions of Zotero and Juris-M for Debian-based systems.
     - [Zotero Storage Scanner](https://github.com/retorquere/zotero-storage-scanner) - A Zotero plugin to remove the broken & duplicate attachment link of the bibliography.
