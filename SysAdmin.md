@@ -33,6 +33,7 @@ _“Intelligence is the ability to avoid doing work, yet getting the work done -
     - [VPN - Virtual Private Network](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#vpn---virtual-private-network)
   - [Storage](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#storage)
     - [Online Storage Services](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#online-storage-services)
+  - [Switch](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#switch)
 - [Package Managers](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#package-managers)
 - [Security Tools](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#security-tools)
   - [Sandboxing tools](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#sandboxing-tools)
@@ -512,6 +513,9 @@ upstream_recursive_servers:
     onedrive --synchronize
     ````
   - [Rclone](https://rclone.org/onedrive/)
+
+  #### Switch
+  - [Open vSwitch](https://www.openvswitch.org/) - Open vSwitch is a production quality, multilayer virtual switch licensed under the open source Apache 2.0 license.  It is designed to enable massive network automation through programmatic extension, while still supporting standard management interfaces and protocols (e.g. NetFlow, sFlow, IPFIX, RSPAN, CLI, LACP, 802.1ag).  In addition, it is designed to support distribution across multiple physical servers similar to VMware's vNetwork distributed vswitch or Cisco's Nexus 1000V.
 
 ## Package Managers
 - [Brew / HomeBrew](https://brew.sh/) - Package Manager for Linux and MacOS.
