@@ -599,6 +599,7 @@ upstream_recursive_servers:
   - [ink-box](https://github.com/sindresorhus/ink-box) - Styled box component for Ink.
 - [CANalyse](https://github.com/KartheekLade/CANalyse) - A tool to analyze log files!
 - [cross-platform-terminal-characters](https://github.com/ehmicky/cross-platform-terminal-characters) - All the characters that work on most terminals and most operating systems.
+- [Fish Shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [Gnome-Terminal](https://gitlab.gnome.org/GNOME/gnome-terminal) - Default in all major Linux distributions.
 - [Hyper](https://github.com/vercel/hyper) - A terminal built on web technologies. [www.hyper.is](https://hyper.is/)
 - [modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
