@@ -561,6 +561,7 @@ upstream_recursive_servers:
     - [Bitwarden CLI](https://github.com/bitwarden/cli) - Full-featured command-line interface (CLI) tool to access and manage a Bitwarden vault
     - [Bitwarden Desktop](https://github.com/bitwarden/desktop) - The desktop vault (Windows, macOS, & Linux).
     - [Bitwarden Server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
+    - [vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs.
 - KeePass Password Manager
   - [KeePassXC](https://github.com/keepassxreboot/keepassxc) - Open source password manager for Windows, Mac and Linux. [keepassxc.org](https://keepassxc.org)
     - [KeePassXC Browser Extension](https://github.com/keepassxreboot/keepassxc-browser)
