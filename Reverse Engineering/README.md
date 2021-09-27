@@ -80,6 +80,8 @@ windres       # A compiler for Windows resource files.
 
 ## Debugging
 - [Bus Pirate](https://github.com/BusPirate/Bus_Pirate) - open source hacker multi-tool that talks to electronic stuff.
+- [GEF](https://github.com/hugsy/gef) - GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers.
+  - [GEF by bata24](https://github.com/bata24/gef) - GDB Enhanced Features for exploit devs & reversers.
 - [OpenOCD](http://openocd.org/) - open-source tool that allows debugging various ARM devices with GDB using a wide variety of JTAG programmers.
   - [JTAG Explained tutorial](https://blog.senr.io/blog/jtag-explained)
 - [x64dbg](https://github.com/x64dbg/x64dbg) - An open-source x64/x32 debugger for windows. 
