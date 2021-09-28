@@ -324,6 +324,7 @@ Communicate clearly <br>
 
     #### PHP
     - [Awesome-PHP](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
+    - [CakePHP](https://github.com/MISP/cakephp) - CakePHP is a rapid development framework for PHP which uses commonly known design patterns like Associative Data Mapping, Front Controller, and MVC. Our primary goal is to provide a structured framework that enables PHP users at all levels to rapidly develop robust web applications, without any loss to flexibility.
     - [Docker for PHP developers](https://github.com/phpearth/docker-php) - whale Docker For PHP developers - Docker images with PHP, Nginx, OpenLiteSpeed, Apache, Lighttpd, and Alpine.
       - [Docs](https://docs.php.earth/docker/)
     - [Laravel](https://github.com/laravel/laravel) - A PHP framework for web artisans.
