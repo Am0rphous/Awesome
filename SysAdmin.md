@@ -171,6 +171,7 @@ bro / zeek
   - [Fireeye Red-Team's Yara rules](https://github.com/fireeye/red_team_tool_countermeasures/blob/master/all-yara.yar)
   - [Public Yara-Rules repo](https://github.com/Yara-Rules/rules) -  Repository of yara rules.
   - [Yara for Atom](https://atom.io/packages/language-yara)
+  - [Yara Scanner](https://github.com/iomoath/yara-scanner) - YaraScanner is a threat hunting tool, based on Yara Rules.
   - [Yara for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=infosec-intern.yara)
 
   ### Analysis Tools Selfhosted
