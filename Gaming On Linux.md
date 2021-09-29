@@ -9,7 +9,12 @@
 - [AntiMicroX](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
 - [CKB](https://github.com/ccMSC/ckb) - RGB Driver for Linux and OS X.
 - [Piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices.
-- [Polychromatic]() - RGB lighting management software for GNU/Linux. Powered by OpenRazer (soon to be vendor agnostic). [polychromatic.app](https://polychromatic.app)
+- Razer
+  - [Polychromatic](https://github.com/polychromatic/polychromatic) - RGB lighting management software for GNU/Linux. Powered by OpenRazer (soon to be vendor agnostic). [polychromatic.app](https://polychromatic.app)
+  - [RazerGenie ](https://github.com/z3ntu/RazerGenie) - Qt application for configuring your Razer devices under GNU/Linux.
+  - [RazerCommander](https://github.com/GabMus/razerCommander) - Simple GUI written in Gtk3.
+  - [Snake](http://bithatch.co.uk/snake.html) - a stylised tool and tray applet for configuring Razer devices on Linux, written in Java.
+  - [Chroma Feedback](https://github.com/redaxmedia/chroma-feedback) - Turn your Razer keyboard, mouse or headphone into a extreme feedback device.
 
 ## OS dedicated for gaming
 - [Drauger OS](https://draugeros.org/)
