@@ -155,6 +155,8 @@ Communicate clearly <br>
   - [Signal-Server](https://github.com/signalapp/Signal-Server) - Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS.
 - [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app.
   - [Telegram-CLI](https://github.com/vysheng/tg) - Command-line interface for Telegram.
+  - [File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot) - Telegram Bot to store Posts and Documents and it can Access by Special Links.
+    - [Media-Files-Share](https://github.com/afirdaus7891/Media-Files-Share) - Telegram Bot To Store Posts And Documents And it Can Access By Special Links.
   - [Telegram-Purple](https://github.com/majn/telegram-purple) - Adds support for Telegram to Pidgin, Adium, Finch and other Libpurple based messengers.
 - [Tox Chat](https://tox.chat/)
 - [Twist](https://twist.com/home)
