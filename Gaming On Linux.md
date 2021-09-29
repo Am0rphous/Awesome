@@ -9,6 +9,7 @@
 - [AntiMicroX](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
 - [CKB](https://github.com/ccMSC/ckb) - RGB Driver for Linux and OS X.
 - [Piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices.
+- [Polychromatic]() - RGB lighting management software for GNU/Linux. Powered by OpenRazer (soon to be vendor agnostic). [polychromatic.app](https://polychromatic.app)
 
 ## OS dedicated for gaming
 - [Drauger OS](https://draugeros.org/)
