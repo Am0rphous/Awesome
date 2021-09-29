@@ -262,6 +262,7 @@ bro / zeek
   - [piping-ui.org](https://piping-ui.org)
 - [PURE-FTPD](https://github.com/jedisct1/pure-ftpd) - Pure FTP server. [www.pureftpd.org](https://www.pureftpd.org)
 - [Serve by Vercel](https://github.com/vercel/serve) - Static file serving and directory listing.
+- [Share File Systems](https://github.com/prettydiff/share-file-systems) - Use a Windows/OSX like GUI in the browser to share files cross OS privately. No cloud, no server, no third party.
 - [Updog](https://github.com/sc0tfree/updog) - Updog is a replacement for Python's SimpleHTTPServer. It allows uploading and downloading via HTTP/S, can set ad hoc SSL certificates and use http basic auth.
 - [Warpinator](https://github.com/linuxmint/warpinator) - Share files across the LAN 
 
