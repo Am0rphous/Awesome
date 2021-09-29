@@ -10,6 +10,7 @@
 - [CKB](https://github.com/ccMSC/ckb) - RGB Driver for Linux and OS X.
 - [Piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices.
 - Razer
+  - [OpenRazer](https://openrazer.github.io/) - Open source driver and user-space daemon that allows you to manage your Razer peripherals on GNU/Linux. [openrazer.github.io/#ubuntu](https://openrazer.github.io/#ubuntu)
   - [Polychromatic](https://github.com/polychromatic/polychromatic) - RGB lighting management software for GNU/Linux. Powered by OpenRazer (soon to be vendor agnostic). [polychromatic.app](https://polychromatic.app)
   - [RazerGenie ](https://github.com/z3ntu/RazerGenie) - Qt application for configuring your Razer devices under GNU/Linux.
   - [RazerCommander](https://github.com/GabMus/razerCommander) - Simple GUI written in Gtk3.
@@ -50,5 +51,3 @@
 - [Itch.io](https://itch.io/) - Collection of some of the most unique, interesting, and independent creations you'll find on the web.
 - [gamejolt.com](https://gamejolt.com) - Hosting free and commercial indie games.
 
-##
-- [OpenRazer](https://openrazer.github.io/) - Open source driver and user-space daemon that allows you to manage your Razer peripherals on GNU/Linux.
