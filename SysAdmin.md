@@ -341,6 +341,7 @@ lsscsi                          #Print SCSI Devices Info
   - [Graylog Content Pack for Watchguard](https://github.com/ThoZed/graylog-cp-watchguard) - Graylog Content Pack for Watchguard Fireware Logging.
 - [Hastic Server](https://github.com/hastic/hastic-server) - Hastic data management server for analyzing patterns and anomalies from Grafana.
 - [Linux Dash](https://github.com/afaqurk/linux-dash) - A beautiful web dashboard for Linux.
+  - [Linux-dash-docker](https://github.com/alysivji/linux-dash-docker) - linux-dash in a container.
 - [LME - Logging Made Easy](https://github.com/ukncsc/lme) - Logging Made Easy is a self-install tutorial for small organisations to gain a basic level of centralised security logging for Windows clients and provide functionality to detect attacks. It's the coming together of multiple free and open-source software (some which is covered under licences other than Apache V2), where LME helps the reader integrate them together to produce an end-to-end logging capability. We also provide some pre-made configuration files and scripts, although there is the option to do it on your own.
 - [LogonTracer](https://github.com/JPCERTCC/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log.
 - [Malcolm](https://github.com/cisagov/Malcolm) - Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files) and Zeek logs. 
