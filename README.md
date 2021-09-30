@@ -122,7 +122,8 @@ Communicate clearly <br>
 - [Awesome Workflow Engines](https://github.com/meirwah/awesome-workflow-engines) - A curated list of awesome open source workflow engines.
 - [Awesome WSL](https://github.com/sirredbeard/Awesome-WSL) - Awesome list dedicated to Windows Subsystem for Linux.
 - [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome)
-
+<br>
+- [StarGazed](https://github.com/abhijithvijayan/stargazed) - Creating your own Awesome List of GitHub stars!
 ## Communication and Collaboration Tools
 - [Convos](https://convos.chat)
 - [CryptPad](https://github.com/xwiki-labs/cryptpad) - Collaboration suite, encrypted and open-source.
