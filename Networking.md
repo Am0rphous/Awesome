@@ -2,6 +2,7 @@
 
 - [Darknet-tools](https://cybercoplabs.net/article/darknet-tools)
 - [Firehol's blocklist-ipsets](https://github.com/firehol/blocklist-ipsets) - ipsets dynamically updated with firehol's update-ipsets.sh script.
+- [OSI-Model](https://osi-model.com/) - The OSI Model was designed in 1977 and is part of the ISO specifications since 1984. Each OSI layer serves a unique task for network communication.
 - [ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth.
 
 ## Awesome
