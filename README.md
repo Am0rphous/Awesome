@@ -221,11 +221,13 @@ Communicate clearly <br>
 
 
 ## Desktop Customization
+- [Barrier](https://github.com/debauchee/barrier) - Share your mouse and keyboard between computers. _Barrier is software that mimics the functionality of a KVM switch, which historically would allow you to use a single keyboard and mouse to control multiple computers by physically turning a dial on the box to switch the machine you're controlling at any given moment._
 - [Conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X-
 - [Conky-Colors](https://github.com/helmuthdu/conky_colors) - easier way to configure Conky.
 - [GKrellM](http://gkrellm.srcbox.net/) - single process stack of system monitors.
 - [Plank](https://github.com/ricotz/plank) - Simple dock.
 - [Rainmeter](https://github.com/rainmeter/rainmeter) - (maybe run rainmeter in wine on linux?)
+- [RedShift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings.
 - [SpaceEye](https://github.com/KYDronePilot/SpaceEye) - Live satellite imagery for your desktop background.
 - [Variety](https://github.com/varietywalls/ variety) - Wallpaper downloader and manager for Linux systems.
   #### Extensions
@@ -435,6 +437,7 @@ Based on that data, you can find the most popular ones and their alternatives.
   ### Image
   - [DarkTable](https://github.com/darktable-org/darktable) - open source photography workflow application and raw developer. A virtual lighttable and darkroom for photographers. [darktable.org](https://www.darktable.org)
   - [DigiKam from KDE](https://www.digikam.org) - [Github](https://github.com/KDE/digikam) Advanced open-source digital photo management application that runs on Linux, Windows, and MacOS. The application provides a comprehensive set of tools for importing, managing, editing, and sharing photos and raw files.
+  - [ExifCleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata.
   - [GIMP](https://gitlab.gnome.org/GNOME/gimp) - GNU Image Manipulation Program [gimp.org](https://www.gimp.org)
   - [Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac.
   - [InkScape](https://inkscape.org) - A powerful, free design tool.
@@ -559,7 +562,6 @@ Based on that data, you can find the most popular ones and their alternatives.
 - [Open-event-frontend](https://github.com/fossasia/open-event-frontend) - The frontend for the Open Event API Server
 - [Open-event-server](https://github.com/fossasia/open-event-server) - The Open Event Organizer Server to Manage Events http://open-event-api.herokuapp.com
 - [Raycast](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day. [www.raycast.com](https://www.raycast.com)
-- [RedShift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings.
 - [ToDoist](https://todoist.com) - "Organize it all"
 - [Touchégg](https://github.com/JoseExposito/touchegg) - Linux multi-touch gesture recognizer. Touchégg is an app that runs in the background and transform the gestures you make on your touchpad or touchscreen into visible actions in your desktop.
   - [Touché](https://github.com/JoseExposito/touche) - The desktop application to configure Touchégg.
@@ -607,7 +609,6 @@ Based on that data, you can find the most popular ones and their alternatives.
     - [Zotero Storage Scanner](https://github.com/retorquere/zotero-storage-scanner) - A Zotero plugin to remove the broken & duplicate attachment link of the bibliography.
 
   ### Security
-  - [ExifCleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata.
   - [Howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux.
   Commands:
   ````powershell
