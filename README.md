@@ -225,6 +225,7 @@ Communicate clearly <br>
   - [Barrier doc](https://github.com/debauchee/barrier/tree/master/doc) 
 - [Conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X-
 - [Conky-Colors](https://github.com/helmuthdu/conky_colors) - easier way to configure Conky.
+- [Docky](https://gitlab.com/docky-dock-app-linux/docky) - Docky is a full fledged dock application that makes opening common applications and managing windows easier and quicker. The official project is abandoned, so we forked it to keep the project alive.
 - [GKrellM](http://gkrellm.srcbox.net/) - single process stack of system monitors.
 - [Plank](https://github.com/ricotz/plank) - Simple dock.
 - [Rainmeter](https://github.com/rainmeter/rainmeter) - (maybe run rainmeter in wine on linux?)
