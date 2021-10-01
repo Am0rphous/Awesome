@@ -222,6 +222,7 @@ Communicate clearly <br>
 
 ## Desktop Customization
 - [Barrier](https://github.com/debauchee/barrier) - Share your mouse and keyboard between computers. _Barrier is software that mimics the functionality of a KVM switch, which historically would allow you to use a single keyboard and mouse to control multiple computers by physically turning a dial on the box to switch the machine you're controlling at any given moment._
+  - [Barrier doc](https://github.com/debauchee/barrier/tree/master/doc) 
 - [Conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X-
 - [Conky-Colors](https://github.com/helmuthdu/conky_colors) - easier way to configure Conky.
 - [GKrellM](http://gkrellm.srcbox.net/) - single process stack of system monitors.
