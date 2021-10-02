@@ -524,17 +524,18 @@ Based on that data, you can find the most popular ones and their alternatives.
     - [Audacity](https://sourceforge.net/projects/audacity/)
     - [SoX - Sound eXchange](http://sox.sourceforge.net/Main/HomePage) - Swiss Army knife of sound processing programs. 
       ###### Music Apps
-      - [Auryo](https://github.com/Superjo149/auryo/) - Unofficial Soundcloud Desktop App.
       - [Great Little Radio Player](https://sites.google.com/view/greatlittleradioplayer/home)
       - [Guayadeque](https://github.com/anonbeat/Guayadeque) - music management program designed for all music enthusiasts. [guayadeque.org](http://www.guayadeque.org/)
       - [midomi.com](https://www.midomi.com/) - Online SoundHound alternative.
-      - [Psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI.
       - [Radio Tray](http://radiotray.sourceforge.net/) - online radio streaming player that runs on a Linux system tray.
       - [Shortwave](https://gitlab.gnome.org/World/Shortwave) - Find and listen to internet radio stations.
-      - [Soundcleod](https://github.com/salomvary/soundcleod) - SoundCloud for macOS and Windows.
-      - [Soundnode App](https://github.com/Soundnode/soundnode-app) - Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API. 
+      - SoundCloud - [SC](https://soundcloud.com)
+        - [Auryo](https://github.com/Superjo149/auryo/) - Unofficial Soundcloud Desktop App.
+        - [Soundcleod](https://github.com/salomvary/soundcleod) - SoundCloud for macOS and Windows.
+        - [Soundnode App](https://github.com/Soundnode/soundnode-app) - Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API. 
       - Spotify
-      - [Gemini](https://github.com/Gabe-H/Gemini) - A dope, easy-on-the-eyes, currently-playing viewer for Spotify. [snapcraft.io/gemini](https://snapcraft.io/gemini)
+        - [Gemini](https://github.com/Gabe-H/Gemini) - A dope, easy-on-the-eyes, currently-playing viewer for Spotify. [snapcraft.io/gemini](https://snapcraft.io/gemini)
+        - [Psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI.
         - [Spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
          ###### Podcast
          - [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts.
