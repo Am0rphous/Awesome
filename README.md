@@ -533,9 +533,9 @@ Based on that data, you can find the most popular ones and their alternatives.
       - [Midomi.com](https://www.midomi.com) - Online SoundHound alternative.
       - [Rhythmbox](http://www.rhythmbox.org) - Rhythmbox is primarily a music player, it also gives you the option of listening to online radio and podcasts.
       - SoundCloud - [SC](https://soundcloud.com)
-        - [Auryo](https://github.com/Superjo149/auryo/) - Unofficial Soundcloud Desktop App.
+        - [Auryo](https://github.com/Superjo149/auryo/) - [auryo.com](https://auryo.com)Unofficial Soundcloud Desktop App. Linux
         - [Soundcleod](https://github.com/salomvary/soundcleod) - SoundCloud for macOS and Windows.
-        - [Soundnode App](https://github.com/Soundnode/soundnode-app) - Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API. 
+        - [Soundnode App](https://github.com/Soundnode/soundnode-app) - Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API. Linux
       - Spotify
         - [Gemini](https://github.com/Gabe-H/Gemini) - A dope, easy-on-the-eyes, currently-playing viewer for Spotify. [snapcraft.io/gemini](https://snapcraft.io/gemini)
         - [Psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI.
