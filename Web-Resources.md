@@ -105,18 +105,19 @@
 - [kernel.org/doc](https://www.kernel.org/doc/html/latest/index.html) - The Linux Kernel documentation.
 - [Landoflinux.com](https://www.landoflinux.com/index.html) - free guides and tutorials for all things Linux.
 - [Linux.com](https://www.linux.com)
-- [Linuxbabe.com](https://www.linuxbabe.com) - Lots of tutorials.
+- [Linux Babe.com](https://www.linuxbabe.com) - Lots of tutorials.
+- [Linux Hint.com](https://linuxhint.com) - Lots of tutorials.
+- [Linux Links.com](https://www.linuxlinks.com)
 - [Linux Training Academy](https://www.linuxtrainingacademy.com) - _"We Help IT Professionals Level-Up Their Careers by Teaching Them Practical Linux Skills."_
-- [lorn.tech](https://www.lorn.tech) - masse nyttige podcasts.
-- [Itsfoss.com](https://itsfoss.com) - Open source related articles published on It’s FOSS.
-- [Linuxhint.com](https://linuxhint.com) - Lots of tutorials.
+- [Lorn.tech](https://www.lorn.tech) - masse nyttige podcasts.
+- [Its FOSS.com](https://itsfoss.com) - Open source related articles published on It’s FOSS.
 - [SecJuice.com](https://www.secjuice.com) - Non-profit cyber goodness.
 - [Spyboy blog](https://spyboy.blog) - Learn ethical hacking , cyber security, computer programming, networking, android tricks and windows tricks.
-- [ss64](https://ss64.com) - Reference guide containing syntax and examples for the most prevalent computing commands (Database and Operating System).
+- [SS64](https://ss64.com) - Reference guide containing syntax and examples for the most prevalent computing commands (Database and Operating System).
 - [Thehacks.co](https://thehacks.co) - Latest Hacking Insights Tips & Guides.
 - [zeropointsecurity.co.uk/red-team-ops](https://www.zeropointsecurity.co.uk/red-team-ops) - Offensive Cyber Security Training.
   ### E-books
-  - [pdfdrive.com](https://www.pdfdrive.com/) - Search engine for PDF, Mobi, epub and other e-book files.
+  - [PDF Drive.com](https://www.pdfdrive.com/) - Search engine for PDF, Mobi, epub and other e-book files.
   ### PowerShell
   - [Scriptigator.com](https://scriptigator.com)
 
