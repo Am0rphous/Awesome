@@ -515,20 +515,23 @@ Based on that data, you can find the most popular ones and their alternatives.
       - [chriszabriskie.com/cylinders](https://www.chriszabriskie.com/cylinders/)
     
     ##### Radio
+    - [Gradio](https://github.com/haecker-felix/gradio) - The successor of Gradio is Shortwave.
     - [Great Little Radio Player](https://sites.google.com/site/glrpgreatlittleradioplayer/home)
+    - [Pithos](https://github.com/pithos/pithos) - Pithos is a native Pandora Radio client for Linux. It's much more lightweight than the Pandora.com web client, and integrates with desktop features such as media keys, notifications, and the sound menu.
+    - [Radio Tray](http://radiotray.sourceforge.net) - online radio streaming player that runs on a Linux system tray.
     - [Radiotray-NG](https://github.com/ebruck/radiotray-ng) - An Internet radio player for Linux.
+    - [Shortwave](https://gitlab.gnome.org/World/Shortwave) - Find and listen to internet radio stations.
     - [Strimio](https://www.strimio.com) - A Beautiful Modern Radio Streaming App. [snap package](https://snapcraft.io/strimio-desktop)
     ##### Sound Production
     - [CubicSDR](https://github.com/cjcliffe/CubicSDR) - Cross-Platform Software-Defined Radio Application. [www.cubicsdr.com](http://www.cubicsdr.com/)
     - [Ardour](https://ardour.org/) - Record, Edit, and Mix on Linux, macOS and Windows
-    - [Audacity](https://sourceforge.net/projects/audacity/)
+    - [Audacity](https://sourceforge.net/projects/audacity)
     - [SoX - Sound eXchange](http://sox.sourceforge.net/Main/HomePage) - Swiss Army knife of sound processing programs. 
       ###### Music Apps
-      - [Great Little Radio Player](https://sites.google.com/view/greatlittleradioplayer/home)
-      - [Guayadeque](https://github.com/anonbeat/Guayadeque) - music management program designed for all music enthusiasts. [guayadeque.org](http://www.guayadeque.org/)
-      - [midomi.com](https://www.midomi.com/) - Online SoundHound alternative.
-      - [Radio Tray](http://radiotray.sourceforge.net/) - online radio streaming player that runs on a Linux system tray.
-      - [Shortwave](https://gitlab.gnome.org/World/Shortwave) - Find and listen to internet radio stations.
+      - [Guayadeque](https://github.com/anonbeat/Guayadeque) - Music management program designed for all music enthusiasts. [guayadeque.org](http://www.guayadeque.org)
+      - [Lollypop](https://gitlab.gnome.org/World/lollypop) - Lollypop is a lightweight modern music player designed to work excellently on the GNOME desktop environment. [Lollypop flatpak](https://www.flathub.org/apps/details/org.gnome.Lollypop)
+      - [Midomi.com](https://www.midomi.com) - Online SoundHound alternative.
+      - [Rhythmbox](http://www.rhythmbox.org) - Rhythmbox is primarily a music player, it also gives you the option of listening to online radio and podcasts.
       - SoundCloud - [SC](https://soundcloud.com)
         - [Auryo](https://github.com/Superjo149/auryo/) - Unofficial Soundcloud Desktop App.
         - [Soundcleod](https://github.com/salomvary/soundcleod) - SoundCloud for macOS and Windows.
