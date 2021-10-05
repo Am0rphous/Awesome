@@ -569,8 +569,9 @@ upstream_recursive_servers:
     - [Bitwarden Desktop](https://github.com/bitwarden/desktop) - The desktop vault (Windows, macOS, & Linux).
     - [Bitwarden Server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
     - [vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs.
-- KeePass Password Manager
-  - [KeePassXC](https://github.com/keepassxreboot/keepassxc) - Open source password manager for Windows, Mac and Linux. [keepassxc.org](https://keepassxc.org)
+  - [Buttercup Desktop](https://github.com/buttercup/buttercup-desktop) - Cross-Platform Passwords & Secrets Vault.
+  - KeePass Password Manager
+    - [KeePassXC](https://github.com/keepassxreboot/keepassxc) - Open source password manager for Windows, Mac and Linux. [keepassxc.org](https://keepassxc.org)
     - [KeePassXC Browser Extension](https://github.com/keepassxreboot/keepassxc-browser)
   - [Swifty](https://github.com/swiftyapp/swifty) - Free Offline Password Manager.
 
