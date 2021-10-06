@@ -121,6 +121,8 @@
   ### Podcasts for Cybersecurity
   - SoundCloud
     - [Palo Alto Networks](https://soundcloud.com/paloaltonetworks)
+  - Spotify
+    - [CyberWire Daily](https://open.spotify.com/show/0CnYnxrAcfRjh0YSQINAwe?si=X2BItZkmQUSKyPZ1XvcmOA&dl_branch=1)
   ### PowerShell
   - [Scriptigator.com](https://scriptigator.com)
 
