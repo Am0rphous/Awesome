@@ -118,6 +118,9 @@
 - [zeropointsecurity.co.uk/red-team-ops](https://www.zeropointsecurity.co.uk/red-team-ops) - Offensive Cyber Security Training.
   ### E-books
   - [PDF Drive.com](https://www.pdfdrive.com/) - Search engine for PDF, Mobi, epub and other e-book files.
+  ### Podcasts for Cybersecurity
+  - SoundCloud
+    - [Palo Alto Networks](https://soundcloud.com/paloaltonetworks)
   ### PowerShell
   - [Scriptigator.com](https://scriptigator.com)
 
