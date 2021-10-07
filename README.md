@@ -229,11 +229,11 @@ Communicate clearly <br>
 - [Conky-Colors](https://github.com/helmuthdu/conky_colors) - easier way to configure Conky.
 - [Docky](https://gitlab.com/docky-dock-app-linux/docky) - Docky is a full fledged dock application that makes opening common applications and managing windows easier and quicker. The official project is abandoned, so we forked it to keep the project alive.
 - [GKrellM](http://gkrellm.srcbox.net/) - single process stack of system monitors.
-- [Plank](https://github.com/ricotz/plank) - Simple dock.
+- [Plank](https://github.com/ricotz/plank) - Simple dock. Configure `plank   --preferences`
 - [Rainmeter](https://github.com/rainmeter/rainmeter) - (maybe run rainmeter in wine on linux?)
 - [RedShift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings.
 - [SpaceEye](https://github.com/KYDronePilot/SpaceEye) - Live satellite imagery for your desktop background.
-- [Variety](https://github.com/varietywalls/ variety) - Wallpaper downloader and manager for Linux systems.
+- [Variety](https://github.com/varietywalls/variety) - Wallpaper downloader and manager for Linux systems.
   #### Extensions
   - [compiz-alike-magic-lamp-effect](https://github.com/hermes83/compiz-alike-magic-lamp-effect) - Compiz alike magic lamp effect for GNOME Shell.
   - [compiz-alike-windows-effect](https://github.com/hermes83/compiz-alike-windows-effect) - Compiz alike windows effect for GNOME Shell.
