@@ -48,6 +48,10 @@ Note: https://favouriteblog.com/50-best-github-artificial-intelligence/
 - [Yolov4-deepsort by theAIGuysCode ](https://github.com/theAIGuysCode/yolov4-deepsort) - Object tracking implemented with YOLOv4, DeepSort, and TensorFlow.
   - [Roboflow Object Tracking Example](https://github.com/roboflow-ai/zero-shot-object-tracking) - Object tracking implemented with the Roboflow Inference API, DeepSort, and OpenAI CLIP.
 
+## Convolutional neural network
+_Convolutional neural networks power image recognition and computer vision tasks._
+- [Eyeballer](https://github.com/BishopFox/eyeballer) - Eyeballer is meant for large-scope network penetration tests where you need to find "interesting" targets from a huge set of web-based hosts. Go ahead and use your favorite screenshotting tool like normal (EyeWitness or GoWitness) and then run them through Eyeballer to tell you what's likely to contain vulnerabilities, and what isn't.
+
 ### Face / Emotions
 - [Detect Eyes and Detect Faces in Python](https://copyassignment.com/detect-eyes-and-detect-faces-in-python-and-opencv/)
 - [FacEmoji](https://github.com/PiotrDabrowskey/facemoji) - Detects face and its emotion, draws according emoji over face.
