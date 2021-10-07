@@ -210,6 +210,7 @@ Communicate clearly <br>
 
   ### Version Control, Wiki, Knowledge base
   - [Gitea](https://github.com/go-gitea/gitea)  - Git with a cup of tea, painless self-hosted git service.
+  - [GitKraken](https://www.gitkraken.com/) - Legendary Git GUI client for Windows, Mac & Linux
   - [GitLab](https://about.gitlab.com/install/) - web-based DevOps lifecycle tool that provides a Git-repository manager providing wiki, issue-tracking and continuous integration and deployment pipeline features, using an open-source license, developed by GitLab Inc.
     - [Gitlab Watchman](https://github.com/PaperMtn/gitlab-watchman) - Monitoring GitLab for sensitive data shared publicly.
   - [GitUI](https://github.com/extrawurst/gitui) - GitUI provides you with the comfort of a git GUI but right in your terminal. Fast terminal-ui for git written in rust.
