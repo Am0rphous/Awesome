@@ -51,6 +51,9 @@ https://github.com/WebAssembly/wabt
 - [Pev](https://github.com/merces/pev) - The PE file analysis toolkit.
 - [XPEViewer](https://github.com/horsicq/XPEViewer) - PE file viewer/editor for Windows, Linux and MacOS.
 
+## BlackBox Testing
+- [DRAKVUF™](https://github.com/tklengyel/drakvuf) - DRAKVUF is a virtualization based agentless black-box binary analysis system. DRAKVUF allows for in-depth execution tracing of arbitrary binaries (including operating systems), all without having to install any special software within the virtual machine used for analysis.
+
 ## GNU Binutils
 - [GitWeb Interface](https://sourceware.org/git/gitweb.cgi?p=binutils-gdb.git)
 Main tools:
