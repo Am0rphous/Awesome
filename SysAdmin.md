@@ -169,6 +169,7 @@ bro / zeek
 - [Web Shell Detector](https://github.com/emposha/PHP-Shell-Detector) - PHP script that helps you find and identify php/cgi(perl)/asp/aspx shells. Web Shell Detector has a “web shells” signature database that helps to identify “web shell” up to 99%. [shelldetector.com](https://shelldetector.com/)
 - [Yara](https://github.com/virustotal/yara) - The pattern matching swiss knife. [virustotal.github.io/yara](https://virustotal.github.io/yara)
   - [Fireeye Red-Team's Yara rules](https://github.com/fireeye/red_team_tool_countermeasures/blob/master/all-yara.yar)
+  - [MQuery](https://github.com/CERT-Polska/mquery) - YARA malware query accelerator (web frontend). Blazingly fast Yara queries for malware analysts
   - [Public Yara-Rules repo](https://github.com/Yara-Rules/rules) -  Repository of yara rules.
   - [Yara for Atom](https://atom.io/packages/language-yara)
   - [Yara Scanner](https://github.com/iomoath/yara-scanner) - YaraScanner is a threat hunting tool, based on Yara Rules.
