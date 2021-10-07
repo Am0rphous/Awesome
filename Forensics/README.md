@@ -109,6 +109,7 @@ cd fmem && make
 ./run.sh
 dd if=/dev/fmem of=memory.raw bs=1MB count=2048
 ````
+- [LibVMI](https://github.com/libvmi/libvmi) - LibVMI is a virtual machine introspection library. This means that it helps you access the memory of a running virtual machine. LibVMI provides primitives for accessing this memory using physical or virtual addresses and kernel symbols. LibVMI also supports accessing memory from a physical memory snapshot, which is helpful for debugging or forensic analysis.
 - [LiME](https://github.com/504ensicsLabs/LiME) - LiME (or Linux Memory Extractor) is a tool that allows the capture of volatile memory (RAM) from a running Linux device.
 - [Memscan](https://github.com/angusshire/memscan) - memscan is a command line utility for scanning a user-mode process's memory. It is compatible with 64-bit Windows, and will not work on 32-bit Windows. For speed, the scan does not support non-aligned addresses.
 - [PCILeech](https://github.com/ufrisk/pcileech) - Direct Memory Access (DMA) Attack Software.
