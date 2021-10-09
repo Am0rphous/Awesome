@@ -542,6 +542,7 @@ Based on that data, you can find the most popular ones and their alternatives.
         - [Gemini](https://github.com/Gabe-H/Gemini) - A dope, easy-on-the-eyes, currently-playing viewer for Spotify. [snapcraft.io/gemini](https://snapcraft.io/gemini)
         - [Psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI.
         - [Spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
+        - [Tmux-spotify](https://github.com/xamut/tmux-spotify) - Spotify plugin for tmux.
          ###### Podcast
          - [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts.
          - [CPod](https://github.com/z-------------/CPod) - A simple, beautiful podcast app for Windows, macOS, and Linux.
