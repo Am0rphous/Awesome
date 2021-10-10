@@ -243,12 +243,17 @@ Communicate clearly <br>
     - [Unity 8](https://github.com/B00merang-Project/Unity-8) - Theme mimicking Unity 8's design.
     - [Windows 10 Theme for Linux](https://github.com/B00merang-Project/Windows-10) - Windows 10 Light theme for Linux (GTK).
   - [Gnome-look.org](https://www.gnome-look.org)
+  - [NordTheme.com](https://www.nordtheme.com) - [Github](https://github.com/arcticicestudio/nord)
+  - [Pling.com](https://www.pling.com)
   #### Themes
-  - [18 Best GTK Themes for Ubuntu and other Linux Distributions](https://itsfoss.com/best-gtk-themes/)
-  - [25 Best Icon Themes For Ubuntu and Other Linux](https://itsfoss.com/best-icon-themes-ubuntu-16-04/)
+  - [18 Best GTK Themes for Ubuntu and other Linux Distributions](https://itsfoss.com/best-gtk-themes)
+  - [25 Best Icon Themes For Ubuntu and Other Linux](https://itsfoss.com/best-icon-themes-ubuntu-16-04)
   - [How to Make Ubuntu 20.04 Look Like Mac OS](https://azatb.com/2020/10/12/how-to-make-ubuntu-20-04-look-like-mac-os-linux-hint/)
+  - [Nordic GTK3/4 Theme](https://www.pling.com/s/Gnome/p/1267246)
   #### Wallpapers
-  - [wallhaven.cc](https://wallhaven.cc/)
+  - [Linux OS specific wallpapers](https://www.pling.com/browse?cat=261&ord=latest)
+  - [Wallhaven.cc](https://wallhaven.cc/)
+  - [Wallpapers Gnome](https://www.pling.com/s/Gnome/browse?cat=300&ord=latest)
 
 
 ## Development
