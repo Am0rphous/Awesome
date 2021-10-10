@@ -24,7 +24,7 @@ Communicate clearly <br>
 - [Desktop Customization](https://github.com/Am0rphous/Awesome/blob/master/README.md#desktop-customization)
   - [Extensions](https://github.com/Am0rphous/Awesome/blob/master/README.md#extensions)
   - [Inspiration](https://github.com/Am0rphous/Awesome/blob/master/README.md#inspiration)
-  - [Theme Tutorials](https://github.com/Am0rphous/Awesome/blob/master/README.md#theme-tutorials)
+  - [Themes](https://github.com/Am0rphous/Awesome/blob/master/README.md#themes)
   - [Wallapers](https://github.com/Am0rphous/Awesome/blob/master/README.md#wallpapers)
 - [Development](https://github.com/Am0rphous/Awesome/blob/master/README.md#development)
   - [Backend](https://github.com/Am0rphous/Awesome/blob/master/README.md#backend)
@@ -243,7 +243,8 @@ Communicate clearly <br>
     - [Unity 8](https://github.com/B00merang-Project/Unity-8) - Theme mimicking Unity 8's design.
     - [Windows 10 Theme for Linux](https://github.com/B00merang-Project/Windows-10) - Windows 10 Light theme for Linux (GTK).
   - [gnome-look.org](https://www.gnome-look.org)
-  #### Theme Tutorials
+  #### Themes
+  - [18 Best GTK Themes for Ubuntu and other Linux Distributions](https://itsfoss.com/best-gtk-themes/)
   - [How to Make Ubuntu 20.04 Look Like Mac OS](https://azatb.com/2020/10/12/how-to-make-ubuntu-20-04-look-like-mac-os-linux-hint/)
   #### Wallpapers
   - [wallhaven.cc](https://wallhaven.cc/)
