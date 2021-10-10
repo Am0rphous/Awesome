@@ -115,7 +115,8 @@
 - [Spyboy blog](https://spyboy.blog) - Learn ethical hacking , cyber security, computer programming, networking, android tricks and windows tricks.
 - [SS64](https://ss64.com) - Reference guide containing syntax and examples for the most prevalent computing commands (Database and Operating System).
 - [Thehacks.co](https://thehacks.co) - Latest Hacking Insights Tips & Guides.
-- [zeropointsecurity.co.uk/red-team-ops](https://www.zeropointsecurity.co.uk/red-team-ops) - Offensive Cyber Security Training.
+- [UbuntuPit.com](https://www.ubuntupit.com)
+- [Zeropointsecurity.co.uk/red-team-ops](https://www.zeropointsecurity.co.uk/red-team-ops) - Offensive Cyber Security Training.
   ### E-books
   - [PDF Drive.com](https://www.pdfdrive.com/) - Search engine for PDF, Mobi, epub and other e-book files.
   ### Podcasts for Cybersecurity
