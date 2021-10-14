@@ -119,6 +119,8 @@
 - [Zeropointsecurity.co.uk/red-team-ops](https://www.zeropointsecurity.co.uk/red-team-ops) - Offensive Cyber Security Training.
   ### Conferences
   - [Infosec-conferences.com](https://infosec-conferences.com)
+  - Search
+    - [CfpSec](https://github.com/alexandreborges/cfpsec) - CFPsec is a program to list Call For Papers or upcoming Hacking/Security Conferences based on cfptime.org website.
 
   ### E-books
   - [PDF Drive.com](https://www.pdfdrive.com/) - Search engine for PDF, Mobi, epub and other e-book files.
