@@ -125,6 +125,7 @@ Communicate clearly <br>
 - [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome)
 <br>
 - [StarGazed](https://github.com/abhijithvijayan/stargazed) - Creating your own Awesome List of GitHub stars!
+
 ## Communication and Collaboration Tools
 - [Convos](https://convos.chat)
 - [CryptPad](https://github.com/xwiki-labs/cryptpad) - Collaboration suite, encrypted and open-source.
@@ -139,6 +140,7 @@ Communicate clearly <br>
   - [Mattermost Desktop Client](https://github.com/mattermost/desktop)
   - [Mattermost Docker](https://github.com/mattermost/mattermost-docker) - Dockerfile for mattermost in production.
   - [Mattermost CLI](https://github.com/mattermost/mmctl)
+  - [Mattermost Plugin E2EE](https://github.com/quarkslab/mattermost-plugin-e2ee) - End-to-end encryption plugin for Mattermost.
   - [Mattermost Plugin Jitsi](https://github.com/mattermost/mattermost-plugin-jitsi) - Jitsi plugin for Mattermost 🔌
     - [RSSFeed Plugin](https://integrations.mattermost.com/rssfeed-plugin/)
   - [Mattermost Server](https://github.com/mattermost/mattermost-server)
