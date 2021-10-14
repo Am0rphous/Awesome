@@ -150,6 +150,9 @@ getcap            #examine file capabilities
 ## Processor
 - [x86reference](https://github.com/Barebit/x86reference) - X86 Opcode and Instruction Reference: [http://ref.x86asm.net](http://ref.x86asm.net)
 
+## Shellcode
+- [BlobRunner](https://github.com/OALabs/BlobRunner) - Quickly debug shellcode extracted during malware analysis.
+
 ## Unsorted
 - [CryptoWall Analysis](https://github.com/ryancor/CryptoWall_Analysis) -  CryptoWall 3.0 Ransomware Reversing Documentation & Scripts.
 
