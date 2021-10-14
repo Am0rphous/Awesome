@@ -603,7 +603,7 @@ upstream_recursive_servers:
   - [HardeningKitty](https://github.com/scipag/HardeningKitty) - Invoke-HardeningKitty - Checks and hardens your Windows configuration.
   - [windows_hardening](https://github.com/0x6d69636b/windows_hardening) - Windows Hardening settings and configurations.
 
-## Terminal / Shell
+##  
 - [Awesome Shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [Awesome Termux](https://github.com/T4P4N/Awesome-Termux) - Android terminal emulator and Linux environment app that works directly with no rooting or setup required.
 - [B-Menu](https://github.com/bartobri/bmenu) - A general purpose terminal menu that focuses on ease of configuration and use.
@@ -618,6 +618,7 @@ upstream_recursive_servers:
 - [modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) - A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. [ohmyz.sh](https://ohmyz.sh/)
 - [Guake](https://github.com/Guake/guake) - Drop-down terminal for GNOME.
+- [Terminal](https://github.com/elementary/terminal) - Terminal emulator designed for elementary OS.
 - [Tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix.
 - [Windows Terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place.
   - [Cascadia-code](https://github.com/microsoft/cascadia-code) - un, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal. 
