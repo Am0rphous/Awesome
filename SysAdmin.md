@@ -13,6 +13,7 @@ _“Intelligence is the ability to avoid doing work, yet getting the work done -
 - [Backup](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#backup)
   - [Ransomware Decryptors](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#ransomware-decryptors)
 - [Benchmarking](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#benchmarking)
+- [Cloud](#cloud)
 - [Configuration Management](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#configuration-management)
 - [Databases](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#databases)
 - [Dell Spesific Tools](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#dell-spesific-tools)
@@ -216,8 +217,12 @@ bro / zeek
   - [Phoronix Test Suite on Github](https://github.com/phoronix-test-suite/phoronix-test-suite) - The Phoronix Test Suite open-source, cross-platform automated testing/benchmarking software.
 
 ## Cloud
-- zure
-  - [Azure REd Team](https://github.com/rootsecdev/Azure-Red-Team) - Azure Security Resources and Notes.
+- AWS - Amazon Web Services
+- [AWS Nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account and delete all its resources.
+- Azure
+  - [Azure Red Team](https://github.com/rootsecdev/Azure-Red-Team) - Azure Security Resources and Notes.
+- [Cloud Foundry](https://www.cloudfoundry.org) - [github.com/cloudfoundry](https://github.com/cloudfoundry) Cloud Foundry provides a highly efficient, modern model for cloud native application delivery on top of Kubernetes.
+- [OpenShift](https://www.openshift.com) - [github.com/openshift](https://github.com/openshift) Red Hat OpenShift is the hybrid cloud platform of open possibility: powerful, so you can build anything and flexible, so it works anywhere.
 - [ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool.
 
 ## Configuration Management
@@ -715,10 +720,6 @@ upstream_recursive_servers:
 ## Virtualization
 - [IsardVDI](https://github.com/isard-vdi/isard) - Isard VDI. Open Source KVM Virtual Desktops based on KVM Linux and dockers [isardvdi.com](https://isardvdi.com).
 - [WebVirtCloud](https://github.com/retspen/webvirtcloud) - WebVirtCloud is virtualization web interface for admins and users.
-
-  ### Cloud
-  - [Cloud Foundry](https://www.cloudfoundry.org) - [github.com/cloudfoundry](https://github.com/cloudfoundry) Cloud Foundry provides a highly efficient, modern model for cloud native application delivery on top of Kubernetes.
-  - [Red Hat's OpenShift](https://www.openshift.com) - [github.com/openshift](https://github.com/openshift) Red Hat OpenShift is the hybrid cloud platform of open possibility: powerful, so you can build anything and flexible, so it works anywhere.
 
   ### Container Technologies
   - [Docker](https://www.docker.com)
