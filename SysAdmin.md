@@ -218,7 +218,7 @@ bro / zeek
 
 ## Cloud
 - AWS - Amazon Web Services
-- [AWS Nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account and delete all its resources.
+  - [AWS Nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account and delete all its resources.
 - Azure
   - [Azure Red Team](https://github.com/rootsecdev/Azure-Red-Team) - Azure Security Resources and Notes.
 - [Cloud Foundry](https://www.cloudfoundry.org) - [github.com/cloudfoundry](https://github.com/cloudfoundry) Cloud Foundry provides a highly efficient, modern model for cloud native application delivery on top of Kubernetes.
@@ -232,8 +232,10 @@ bro / zeek
 - [Guide To Install Missing Firmware in Debian](https://www.techbrackets.com/install-missing-firmware-debian/) - Looking to install missing firmware in Debian or Ubuntu, then use this step by step guide.
 - [Puppet](https://github.com/puppetlabs/puppet/) - Server automation framework and application. [Puppet.com](https://puppet.com/)
   - [Puppet Consul](https://github.com/solarkennedy/puppet-consul) - A Puppet Module to Manage Consul.
-- [reload.sh](https://github.com/trimstray/reload.sh) - Wipe, reinstall or restore your system from running GNU/Linux distribution. Via SSH, without rebooting.
+- [Reload.sh](https://github.com/trimstray/reload.sh) - Wipe, reinstall or restore your system from running GNU/Linux distribution. Via SSH, without rebooting.
 - [wAuto](https://github.com/khchen/wAuto) - Windows automation module.
+### PowerShell
+- [Carbon](http://get-carbon.org/) - Carbon is a PowerShell module for automating the configuration of computers running Windows.
 
 ## Databases
 - [InfluxDB](https://www.influxdata.com/) - open-source time series database developed by the company InfluxData. It is written in the Go programming language for storage and retrieval of time series data in fields such as operations monitoring, application metrics, Internet of Things sensor data, and real-time analytics. It also has support for processing data from Graphite.
