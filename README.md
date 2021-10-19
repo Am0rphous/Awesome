@@ -127,6 +127,8 @@ Communicate clearly <br>
 - [StarGazed](https://github.com/abhijithvijayan/stargazed) - Creating your own Awesome List of GitHub stars!
 
 ## Communication and Collaboration Tools
+- [Apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
+  - [Apprise API](https://github.com/caronc/apprise-api) - A lightweight REST framework that wraps the Apprise Notification Library.
 - [Convos](https://convos.chat)
 - [CryptPad](https://github.com/xwiki-labs/cryptpad) - Collaboration suite, encrypted and open-source.
 - [Darkwire.io](https://github.com/darkwire/darkwire.io) - End-to-end encrypted instant web chat [https://darkwire.io](https://darkwire.io).
