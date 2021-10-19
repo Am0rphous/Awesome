@@ -131,6 +131,7 @@ getcap            #examine file capabilities
   - [A journey into Radare2](https://github.com/ITAYC0HEN/A-journey-into-Radare2) - A series of tutorials about radare2 framework from [megabeets.net](https://www.megabeets.net)
   - [R2sim](https://github.com/W3ndige/r2sim) - Hacked script to show similarities between two samples using radare2 framework.
 - [ReverseAPK framework](https://github.com/1N3/ReverseAPK) - Quickly analyze and reverse engineer Android packages.
+- [Rizin](https://github.com/rizinorg/rizin) - UNIX-like reverse engineering framework and command-line toolset.
 
 ## Memory scanners
 - [Cheat-engine](https://github.com/cheat-engine/cheat-engine) - A development environment focused on modding. [cheatengine.org](https://cheatengine.org/)
