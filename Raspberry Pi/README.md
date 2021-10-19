@@ -109,9 +109,11 @@
 - [Risc OS](https://www.riscosopen.org/content/downloads/raspberry-pi)
 - [SUSE Linux Enterprise Server for ARM](https://www.suse.com/products/arm)
 - [TwisterOS](https://twisteros.com)
-- [Ubuntu Core](https://ubuntu.com/download/raspberry-pi-core)
-- [Ubuntu Mate](https://ubuntu-mate.org/ports/raspberry-pi)
-- [Ubuntu Server](https://ubuntu.com/download/raspberry-pi)
+- Ubuntu
+  - [Desktopify](https://github.com/wimpysworld/desktopify) - Convert Ubuntu Server for Raspberry Pi into a Desktop.
+  - [Ubuntu Core](https://ubuntu.com/download/raspberry-pi-core)
+  - [Ubuntu Mate](https://ubuntu-mate.org/ports/raspberry-pi)
+  - [Ubuntu Server](https://ubuntu.com/download/raspberry-pi)
 - [Weather Station](https://downloads.raspberrypi.org/weather_station/images/weather_station-2018-01-14)
 - [WebThings Gateway](https://iot.mozilla.org/gateway/) - An open platform for monitoring and controlling devices over the web.
 - [Windows IoT Core](https://www.microsoft.com/en-us/software-download/windows10iotcore)
