@@ -431,6 +431,7 @@ upstream_recursive_servers:
     - [Fantastic Full Source Code](https://github.com/besimorhino/project-fantastic) - visualizing tool made by InfoSec Innovations for exploring computer networks.
     - [Quark](https://github.com/s0md3v/Quark) - Quark is a data visualization framework.
   ### Remoting
+  - [Cakeway](https://github.com/containrrr/cakeway) - Simple TCP tunneling using SSH.
   - [PowerShell](https://github.com/PowerShell/PowerShell) - _Cross-platform (Windows, Linux, and macOS) automation and configuration tool/framework._
     - [GraphicalTools](https://github.com/PowerShell/GraphicalTools) - _Modules that mix PowerShell and GUIs/CUIs! - built on Avalonia and gui.cs._
   ````
