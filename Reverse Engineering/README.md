@@ -128,6 +128,7 @@ getcap            #examine file capabilities
   - [Wilhelm](https://github.com/zerotypic/wilhelm) - Alternative API for IDA / Hex-Rays.
 - [Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
 - [Radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset.
+  - [A journey into Radare2](https://github.com/ITAYC0HEN/A-journey-into-Radare2) - A series of tutorials about radare2 framework from [megabeets.net](https://www.megabeets.net)
   - [R2sim](https://github.com/W3ndige/r2sim) - Hacked script to show similarities between two samples using radare2 framework.
 - [ReverseAPK framework](https://github.com/1N3/ReverseAPK) - Quickly analyze and reverse engineer Android packages.
 
