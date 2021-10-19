@@ -87,7 +87,7 @@
 - [Rocky Linux](https://rockylinux.org) - An open enterprise operating system.
 - [Serenity](https://github.com/SerenityOS/serenity) - _Graphical Unix-like operating system for x86 computers._
 - [Solus](https://getsol.us/home)
-- [Ubunt Desktop](https://ubuntu.com) - Cloud, servers, IoT, desktop.
+- [Ubuntu Desktop](https://ubuntu.com) - Cloud, servers, IoT, desktop.
 - [Qubes OS](https://www.qubes-os.org/downloads) - OS designed for privacy and security.
 - [Zorin OS](https://zorinos.com) 
  
@@ -171,8 +171,9 @@
 - [Rockstor](http://rockstor.com) - Personal Cloud Server, SMB Cloud Server, Traditional NAS server. [Download Rocktor](https://sourceforge.net/projects/rockstor/files/)
 - [Rocky Linux](https://rockylinux.org) - [github](https://github.com/rocky-linux/rocky) Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS [rockylinux.org](https://rockylinux.org).
 - [ScientificLinux](https://scientificlinux.org) - Enterprise Linux rebuild sponsored by Fermi National Accelerator Laboratory.
-- [Ubunt Server](https://ubuntu.com) - Cloud, servers, IoT, desktop.
-- 
+- [Ubuntu Server](https://ubuntu.com) - Cloud, servers, IoT, desktop.
+  - [Desktopify](https://github.com/wimpysworld/desktopify) - Convert Ubuntu Server for Raspberry Pi into a Desktop.
+
   ### NAS
   - [FreeNAS OS](https://www.freenas.org)
   - [OpenMediaVault](https://github.com/openmediavault/openmediavault) - Based on Debian. Contains services like SSH, (S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and many more. [Doc](https://docs.openmediavault.org) [Forum](https://forum.openmediavault.org) [Blog](https://blog.openmediavault.org)
