@@ -731,8 +731,9 @@ upstream_recursive_servers:
     - [Docker Compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker.
       - [Awesme Docker Compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples.
     - [Running the GUI Application inside Docker Container](https://kallakruparaju.medium.com/running-the-gui-application-inside-docker-container-bdfbeb889147)
-   - [Images by linuxserver.io](https://fleet.linuxserver.io)
-   - [SecretScanner](https://github.com/deepfence/SecretScanner) - Find secrets and passwords in container images and file systems.
+    - [Watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
+  - [Images by linuxserver.io](https://fleet.linuxserver.io)
+  - [SecretScanner](https://github.com/deepfence/SecretScanner) - Find secrets and passwords in container images and file systems.
   - [Firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing [firecracker-microvm.github.io](https://firecracker-microvm.github.io).
     - [Firecracker Containerd](https://github.com/firecracker-microvm/firecracker-containerd) - Firecracker-containerd enables containerd to manage containers as Firecracker microVMs.
   - [K3S](https://k3s.io/) - The certified Kubernetes distribution built for IoT & Edge computing
