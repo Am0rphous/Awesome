@@ -73,6 +73,7 @@ virt-viewer vnc://localhost:5901
 ````
 
 ## Useful Resources
+- [Active Onions](https://github.com/k4m4/active-onions) - Filter out inactive onions from an array of onion URLs.
 - [Check.torproject.org](https://check.torproject.org/cgi-bin/TorBulkExitList.py?ip=1.1.1.1) - A list of all Tor exit nodes from the past 16 hours that can contact 1.1.1.1 on port 80
 - [Dan.me.uk](https://www.dan.me.uk/torlist/) - A page containing a full TOR nodelist.
 - [DEEP_WEB_LINKS_COLLECTION.md](https://gist.github.com/vyach-vasiliev/045af4c70cf2ed35c6091b4705093017)
