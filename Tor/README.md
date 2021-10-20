@@ -2,6 +2,7 @@
 
 - [How can I setup Bitcoin to be anonymous with Tor?](https://bitcoin.stackexchange.com/questions/70069/how-can-i-setup-bitcoin-to-be-anonymous-with-tor)
 - [Expose server behind NAT with Tor](https://golb.hplar.ch/2019/01/expose-server-tor.html)
+- [Onioff](https://github.com/k4m4/onioff) - 🌰 An onion url inspector for inspecting deep web links.
 - [Tor-Proxy](https://github.com/Narasimha1997/tor-proxy) - An experimental Tor-Proxy serivce written in Go using Go-proxy and Go-libtor.
 - [Tor Flow Chart](https://torflow.uncharted.software)
 
