@@ -606,7 +606,7 @@ upstream_recursive_servers:
   - [HardeningKitty](https://github.com/scipag/HardeningKitty) - Invoke-HardeningKitty - Checks and hardens your Windows configuration.
   - [windows_hardening](https://github.com/0x6d69636b/windows_hardening) - Windows Hardening settings and configurations.
 
-##  
+## Terminal / Shell
 - [Awesome Shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [Awesome Termux](https://github.com/T4P4N/Awesome-Termux) - Android terminal emulator and Linux environment app that works directly with no rooting or setup required.
 - [B-Menu](https://github.com/bartobri/bmenu) - A general purpose terminal menu that focuses on ease of configuration and use.
@@ -615,7 +615,7 @@ upstream_recursive_servers:
   - [ink-box](https://github.com/sindresorhus/ink-box) - Styled box component for Ink.
 - [CANalyse](https://github.com/KartheekLade/CANalyse) - A tool to analyze log files!
 - [cross-platform-terminal-characters](https://github.com/ehmicky/cross-platform-terminal-characters) - All the characters that work on most terminals and most operating systems.
-- [Fish Shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
+- [Fish Shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell. [fishshell.com](https://fishshell.com)
 - [Gnome-Terminal](https://gitlab.gnome.org/GNOME/gnome-terminal) - Default in all major Linux distributions.
 - [Hyper](https://github.com/vercel/hyper) - A terminal built on web technologies. [www.hyper.is](https://hyper.is/)
 - [modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
