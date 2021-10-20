@@ -84,7 +84,7 @@ Communicate clearly <br>
   - [Torrent](https://github.com/Am0rphous/Awesome/blob/master/README.md#torrent)
     - [Streaming torrent](https://github.com/Am0rphous/Awesome/blob/master/README.md#streaming-torrent)
 
-## Awesome entitled projects
+## Awesome Entitled Projects
 - [Awesome Azure Security](https://github.com/kmcquade/awesome-azure-security) - A curated list of awesome Microsoft Azure Security tools, guides, blogs, and other resources.
 - [Awesome Cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - 🍻 awesome cheatsheet.
 - [Awesome CLI](https://github.com/umutphp/awesome-cli) - A simple command line tool to give you a fancy command line interface to dive into Awesome lists.
@@ -105,6 +105,7 @@ Communicate clearly <br>
 - [Awesome Machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
 - [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) - Machine Learning for Cyber Security.
 - [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
+- [Awesome Movies For Hackers](https://github.com/k4m4/movies-for-hackers) - 🎬 A curated list of movies every hacker & cyberpunk must watch.
 - [Awesome Open Source](https://awesomeopensource.com) - Find Open Source By Searching, Browsing and Combining 7,000 Topics Across 59 Categories And 337,263 Projects
 - [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts)
 - [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
