@@ -73,6 +73,8 @@ virt-viewer vnc://localhost:5901
 ````
 
 ## Useful Resources
+- [Check.torproject.org](https://check.torproject.org/cgi-bin/TorBulkExitList.py?ip=1.1.1.1) - A list of all Tor exit nodes from the past 16 hours that can contact 1.1.1.1 on port 80
+- [Dan.me.uk](https://www.dan.me.uk/torlist/) - A page containing a full TOR nodelist.
 - [DEEP_WEB_LINKS_COLLECTION.md](https://gist.github.com/vyach-vasiliev/045af4c70cf2ed35c6091b4705093017)
 - [Eschalot](https://github.com/ReclaimYourPrivacy/eschalot) - It is important to stress that we have not written this piece of software (see LICENSE).
 - [Fresh Onions TOR Hidden Service Crawler](https://github.com/dirtyfilthy/freshonions-torscraper) - Fresh Onions is an open source TOR spider / hidden service onion crawler hosted at zlal32teyptf4tvi.onion.
@@ -82,13 +84,14 @@ virt-viewer vnc://localhost:5901
 - [Onion-link-list](https://github.com/DanWin/onion-link-list) - A set of scripts to list tor hidden services.
 - [PICKYONION](https://github.com/maliciousgroup/PICKYONION) - PICKYONION is a private red team python library focused on leveraging TOR to establish secure communication and hidden service hosting.
 - [Real-world-onion-sites](https://github.com/alecmuffett/real-world-onion-sites) - list of substantial, commercial-or-social-good mainstream websites which provide onion services. 
-- [stem.torproject.org](https://stem.torproject.org)
+- [Stem.torproject.org](https://stem.torproject.org)
 - [tor_ip_switcher](https://github.com/ruped24/tor_ip_switcher) - tor_ip_switcher is useful for making any DoS attack look like a DDoS attack. Works with toriptables2.
-- [TorBot](https://github.com/DedSecInside/TorBoT) - Dark Web OSINT Tool.
-- [toriptables2](https://github.com/ruped24/toriptables2) - Tor Iptables script is an anonymizer that sets up iptables and tor to route all services and traffic including DNS through the Tor network.
-- [TorStatus](https://torstatus.rueckgr.at)
-  - TorStatus - https://jlve2y45zacpbz6s.tor2web.io
-  - [TorStatus Github](https://github.com/paulchen/torstatus)
+- [Tor Bot](https://github.com/DedSecInside/TorBoT) - Dark Web OSINT Tool.
+- [Tor-detect](https://github.com/k4m4/tor-detect) - Detect whether an IP address belongs to a Tor exit node.
+- [Tor Iptables2](https://github.com/ruped24/toriptables2) - Tor Iptables script is an anonymizer that sets up iptables and tor to route all services and traffic including DNS through the Tor network.
+- [Tor Status](https://torstatus.rueckgr.at)
+  - Tor Status - https://jlve2y45zacpbz6s.tor2web.io
+  - [Tor Status Github](https://github.com/paulchen/torstatus)
 
 ### Onion Services
 - Ahmia.fi - http://haystakvxad7wbk5.onion/
