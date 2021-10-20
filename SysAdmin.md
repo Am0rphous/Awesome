@@ -618,10 +618,11 @@ upstream_recursive_servers:
 - [Fish Shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell. [fishshell.com](https://fishshell.com)
 - [Gnome-Terminal](https://gitlab.gnome.org/GNOME/gnome-terminal) - Default in all major Linux distributions.
 - [Hyper](https://github.com/vercel/hyper) - A terminal built on web technologies. [www.hyper.is](https://hyper.is/)
-- [modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
+- [Modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) - A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. [ohmyz.sh](https://ohmyz.sh/)
 - [Guake](https://github.com/Guake/guake) - Drop-down terminal for GNOME.
 - [Terminal](https://github.com/elementary/terminal) - Terminal emulator designed for elementary OS.
+- [Terminals Are Sexy ](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [Tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix.
 - [Windows Terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place.
   - [Cascadia-code](https://github.com/microsoft/cascadia-code) - un, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal. 
