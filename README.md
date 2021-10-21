@@ -606,6 +606,7 @@ Based on that data, you can find the most popular ones and their alternatives.
     - [Dracula for MindNode](https://github.com/dracula/mindnode) - Dark theme for MindNode.
   - [Simplenote for Electron](https://github.com/Automattic/simplenote-electron) - Simplenote for Web, Windows, and Linux.
   - [Standard Notes](https://github.com/standardnotes/desktop) - A free, open-source, and completely encrypted notes app. Mac, PC, & Linux app repository. [standardnotes.com](https://standardnotes.com)
+  - [Notes](https://github.com/nuttyartist/notes) - Note-taking application, write down your thoughts.
   - [Notion](https://www.notion.so) - All-in-one workspace.
   - [Taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
     - [How to Manage Your Tasks in the Terminal with Taskbook](https://www.maketecheasier.com/manage-tasks-in-terminal-with-taskbook/)
