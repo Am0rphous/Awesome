@@ -10,6 +10,7 @@
   - [puppet-misp](https://github.com/voxpupuli/puppet-misp) - This module installs and configures MISP (Malware Information Sharing Platform).
 - [Raven](https://github.com/qeeqbox/raven) - Advanced Cyber Threat Map (Simplified, customizable, responsive).
   - [Worldmap](https://github.com/qeeqbox/worldmap) - An interactive world-map that has been used in live Cyber Threat interfaces.
+- [RITA (Real Intelligence Threat Analytics)](https://github.com/activecm/rita) - Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis.
 - [ThreatExchange](https://github.com/facebook/ThreatExchange) - Share threat information with vetted partners.
 - [Threat-Intelligence Feeds & Tools & Frameworks](https://github.com/P3t3rp4rk3r/Threat_Intelligence)
 - [ThreatHunting](https://github.com/GossiTheDog/ThreatHunting) - Tools for hunting for threats.
