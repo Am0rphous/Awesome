@@ -43,6 +43,7 @@ _“Intelligence is the ability to avoid doing work, yet getting the work done -
 - [Terminal / Shell](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#terminal--shell)
   - [Bash](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#bash)
   - [Dotfiles](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#dotfiles)
+  - [For fun](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#for-fun)
   - [Web Browser in Terminal](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#web-browser-in-terminal)
 - [Utilities](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#utilities)
   - [Create Bootable USB](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#create-bootable-usb)
@@ -641,6 +642,9 @@ upstream_recursive_servers:
     - [ansi-styles](https://github.com/chalk/ansi-styles) - ANSI escape codes for styling strings in the terminal.
   - [Mohkale's DotFiles](https://github.com/mohkale/dotfiles)
   - [Yadm - Yet Another Dotfiles Manager](https://github.com/TheLocehiliosan/yadm)
+
+  ## For fun
+  - [C++ Matrix in terminal](https://github.com/akinomyoga/cxxmatrix) - C++ Matrix: The Matrix Reloaded in Terminals (Number falls, Banners, Matrix rains, Conway's Game of Life and Mandelbrot set).
 
   ### Emulators
   - [Cool Retro Term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display.
