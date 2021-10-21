@@ -740,6 +740,7 @@ upstream_recursive_servers:
       - [Awesme Docker Compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples.
     - [Running the GUI Application inside Docker Container](https://kallakruparaju.medium.com/running-the-gui-application-inside-docker-container-bdfbeb889147)
     - [Watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
+    - [Weave](https://github.com/weaveworks/weave) -  Simple, resilient multi-host containers networking and more. Weaveworks is the company that delivers the most productive way for developers to connect, observe and control Docker containers.
   - [Images by linuxserver.io](https://fleet.linuxserver.io)
   - [SecretScanner](https://github.com/deepfence/SecretScanner) - Find secrets and passwords in container images and file systems.
   - [Firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing [firecracker-microvm.github.io](https://firecracker-microvm.github.io).
