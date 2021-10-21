@@ -243,6 +243,7 @@ bro / zeek
 - [Carbon](http://get-carbon.org/) - Carbon is a PowerShell module for automating the configuration of computers running Windows.
 
 ## Databases
+- [DBeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client.
 - [InfluxDB](https://www.influxdata.com/) - open-source time series database developed by the company InfluxData. It is written in the Go programming language for storage and retrieval of time series data in fields such as operations monitoring, application metrics, Internet of Things sensor data, and real-time analytics. It also has support for processing data from Graphite.
 - [KEXI](https://calligra.org/kexi/index.html) - KEXI is a visual database applications creator. It can be used for designing database applications, inserting and editing data, performing queries, and processing data. Forms can be created to provide a custom interface to your data. All database objects – tables, queries, forms, reports – are stored in the database, making it easy to share data and design. 
 - [MariaDB Server](https://github.com/MariaDB/server) - MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.
