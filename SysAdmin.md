@@ -154,6 +154,7 @@ bro / zeek
   ````
   - [SquidClamav](https://github.com/darold/squidclamav) - SquidClamAv is a dedicated ClamAV antivirus redirector for Squid. It can run antivirus checks based on filename regex, content-type regex, and more. It is easy to install and works even with heavy Squid access.
   - [Tip](https://www.techrepublic.com/article/how-to-install-and-use-clamav-on-ubuntu-server-20-04)
+- [HashDB](https://github.com/OALabs/hashdb) - Assortment of hashing algorithms used in malware.
 - [HerdProtect](https://www.herdprotect.com/index.aspx) - Second line of defense malware scanning platform powered by 68 anti-malware engines in the cloud.
 - [Intezer Labs](https://github.com/intezer)
 - [linux-malware-detect](https://github.com/rfxn/linux-malware-detect) - Linux Malware Detection (LMD) [R-fx Networks](https://www.rfxn.com/projects/linux-malware-detect/).
