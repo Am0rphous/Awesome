@@ -8,6 +8,7 @@
 - [MISP - Threat Intelligence Sharing Platform](https://github.com/MISP/MISP) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform (formely known as Malware Information Sharing Platform).
   - [misp-modules](https://github.com/MISP/misp-modules) - Modules for expansion services, import and export in MISP.
   - [puppet-misp](https://github.com/voxpupuli/puppet-misp) - This module installs and configures MISP (Malware Information Sharing Platform).
+- [PyOTI - Python Open Threat Intelligence](https://github.com/RH-ISAC/PyOTI) - Python library for threat intelligence.
 - [Raven](https://github.com/qeeqbox/raven) - Advanced Cyber Threat Map (Simplified, customizable, responsive).
   - [Worldmap](https://github.com/qeeqbox/worldmap) - An interactive world-map that has been used in live Cyber Threat interfaces.
 - [RITA (Real Intelligence Threat Analytics)](https://github.com/activecm/rita) - Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis.
