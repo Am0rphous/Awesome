@@ -25,10 +25,11 @@
 - [Free-programming-books](https://github.com/EbookFoundation/free-programming-books) - Freely available programming books.
 - [Free Security eBooks](https://github.com/Hack-with-Github/Free-Security-eBooks) - A curated list of free Security and Pentesting related E-Books available on the Internet.
 - [getbestbooks.com](https://getbestbooks.com) - Free ebooks.
-- [pdfdrive.com](https://www.pdfdrive.com) - search engine for PDF files.
-- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. 
+- [Pdfdrive.com](https://www.pdfdrive.com) - search engine for PDF files.
+- [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+- [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/) - [Github development](https://github.com/sysprog21/lkmpg) -  The Linux Kernel Module Programming Guide (updated for 5.x kernels).
 - [TradePub.com](https://sf.tradepub.com) - The top resource for free professional and technical research, white papers, case studies, magazines, and eBooks.
-- [z-lib.org](https://z-lib.org)
+- [Z-lib.org](https://z-lib.org)
 
  ## Forums and blogs
   - [0x00sec.org](https://0x00sec.org)
