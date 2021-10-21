@@ -204,6 +204,7 @@ bro / zeek
   
 ## Backup
 - [Bacula](https://ubuntu.com/server/docs/backups-bacula) - Bacula is a backup program enabling you to backup, restore, and verify data across your network. There are Bacula clients for Linux, Windows, and Mac OS X.
+- [Gossin-backup](https://github.com/githubgossin/gossin-backup) - Simple backup script written in Bash.
 - [Linux Time Machine](https://github.com/cytopia/linux-timemachine) - Rsync-based OSX-like time machine for Linux, MacOS and BSD for atomic and resumable local and remote backups.
 - [Veeam Backup & Replication Community Editio](https://www.veeam.com/virtual-machine-backup-solution-free.html) - FREE backup software for VMware and Hyper-V, as well as physical servers, workstations, laptops and cloud instances.
 - [Rsync time backup](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync.
