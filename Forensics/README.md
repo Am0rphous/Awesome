@@ -117,6 +117,7 @@ dd if=/dev/fmem of=memory.raw bs=1MB count=2048
   - [Rekall Memory Forensics with Michael Cohen (Google)](https://digital-forensics.sans.org/summit-archives/dfirprague14/Rekall_Memory_Forensics_Michael_Cohen.pdf)
 - [Volatility](https://github.com/volatilityfoundation/volatility) - An advanced memory forensics framework [www.volatilityfoundation.org](https://www.volatilityfoundation.org/). [Githbu wiki](https://github.com/volatilityfoundation/volatility/wiki).
   - [MalConfScan](https://github.com/JPCERTCC/MalConfScan) - Volatility plugin for extracts configuration data of known malware.
+  - [Memory analysis of the KBeast Linux rootkit](https://apps.dtic.mil/sti/pdfs/AD1004348.pdf)
 - [volatility3](https://github.com/volatilityfoundation/volatility3)
   - [plugins](https://github.com/volatilityfoundation/community) - Volatility plugins developed and maintained by the community.
 Vilatility commands
