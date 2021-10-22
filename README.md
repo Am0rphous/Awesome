@@ -364,6 +364,7 @@ Communicate clearly <br>
     - [Rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
       - [Enrich](https://github.com/pycontribs/enrich) - Enrich adds few missing features to the wonderful rich library.
     - [Textual](https://github.com/willmcgugan/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
+    - [What the f*ck Python](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱 . Exploring and understanding Python through surprising snippets.
     #### Vlang
     - [V](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io.
     #### Web
