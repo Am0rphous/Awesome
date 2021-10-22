@@ -185,6 +185,7 @@ Description: The Portable Executable format is a file format for executables, ob
 
 ## Steganography
 - [DanielSchetritt's Steganography](https://github.com/DanielSchetritt/Steganography) - demonstration for a computer security class.
+- [StegBrute](https://github.com/R4yGM/stegbrute) - Fast Steganography bruteforce tool written in Rust useful for CTF's.
 - [Steghide Brute Force Tool](https://github.com/Va5c0/Steghide-Brute-Force-Tool) - Execute a brute force attack with Steghide to file with hide information and password established.
 
 Winpmem - The multi-platform memory acquisition tool. 
