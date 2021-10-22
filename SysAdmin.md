@@ -844,6 +844,7 @@ upstream_recursive_servers:
   - [Migrate WordPress multisite to new server](https://linuxconfig.org/migrate-wordpress-multisite-to-new-server)
   - [Wordpress Comment Blacklist](https://github.com/splorp/wordpress-comment-blacklist) - A simple solution for WordPress comment spam.
   - [WP-Desktop](https://github.com/Automattic/wp-desktop) - WordPress.com for Desktop.
+  - [WPScan](https://github.com/wpscanteam/wpscan) - WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites.
 
   ### Certificates
   - [acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol.
