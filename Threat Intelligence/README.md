@@ -11,6 +11,7 @@
 - [PyOTI - Python Open Threat Intelligence](https://github.com/RH-ISAC/PyOTI) - Python library for threat intelligence.
 - [Raven](https://github.com/qeeqbox/raven) - Advanced Cyber Threat Map (Simplified, customizable, responsive).
   - [Worldmap](https://github.com/qeeqbox/worldmap) - An interactive world-map that has been used in live Cyber Threat interfaces.
+- [Research Threats: Legal Threats Against Security Researchers](https://threats.disclose.io/) - [github](https://github.com/disclose/research-threats)
 - [RITA (Real Intelligence Threat Analytics)](https://github.com/activecm/rita) - Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis.
   - [Rita-zeek_analysis](https://github.com/tsale/Rita-zeek_analysis) - Script to install rita and zeek and then analyze related logs.
 - [ThreatExchange](https://github.com/facebook/ThreatExchange) - Share threat information with vetted partners.
