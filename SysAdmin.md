@@ -263,6 +263,7 @@ bro / zeek
 - [Lists of public DNSCrypt and DoH servers](https://github.com/DNSCrypt/dnscrypt-resolvers) - Lists of public DNSCrypt / DoH DNS servers and DNS relays.
 
 ## Ebooks, PDFs and helpful resources
+- [Books](https://github.com/briskinfosec/Books) - Free Online Books for all infosec folks & students who want to stay shine in information security domain and for their research purpose.
 - [Devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions.
 - [GeekGuide - Linux in the Time of Malware](https://www.linuxjournal.com/sites/default/files/2018-11/GeekGuide-Bit9-3.pdf)
 - [GeekGuide - SysAdmin 101](https://www.linuxjournal.com/sites/default/files/2018-12/SysAdmin101-Ebook.pdf)
@@ -761,6 +762,7 @@ upstream_recursive_servers:
   - [Panamax-ui](https://github.com/CenturyLinkLabs/panamax-ui) - The Web GUI for Panamax.
   - [The Moby Project](https://github.com/moby/moby) - A collaborative project for the container ecosystem to assemble container-based systems.
   - [RunC](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification.
+  - [V86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly.
 
   #### Container orchestration
   - Docker swarm
