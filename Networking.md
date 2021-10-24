@@ -72,6 +72,7 @@
 - [SSH Check](https://sshcheck.com/) - Check a server's SSH capabilities.
 
 ## Proxy
+- [Anyproxy](https://github.com/wzshiming/anyproxy) - Proxy server supporting http/ssh/socks4/socks5/shadowsocks on port.
 - [Privoxy](https://www.privoxy.org/) - Privoxy is a non-caching web proxy with advanced filtering capabilities for enhancing privacy, modifying web page data and HTTP headers, controlling access, and removing ads and other obnoxious Internet junk.
 - [Project V](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions. [Official website](https://www.v2fly.org)
 - [Redsocks – transparent TCP-to-proxy redirector](https://github.com/darkk/redsocks) -  transparent TCP-to-proxy redirector.
