@@ -100,6 +100,7 @@
 - [GDS-PMD-Security-Rules](https://github.com/GDSSecurity/GDS-PMD-Security-Rules) - Custom security ruleset for the popular Java static analysis tool PMD.
 
 ## Memory Forensics
+- [atomicity_tops](https://github.com/pagabuc/atomicity_tops) - Introducing the Temporal Dimension to Memory Forensics - ACM Transactions on Privacy and Security 2019.
 - [FireEye Redline](https://www.fireeye.com/services/freeware/redline.html) -  free endpoint security tool, provides host investigative capabilities to users to find signs of malicious activity through memory and file analysis and the development of a threat assessment profile.
 - [Fmem](https://github.com/NateBrune/fmem) - Linux Kernel Module designed to help analyze volatile memory in the linux kernel.
 - How to
@@ -109,6 +110,8 @@ cd fmem && make
 ./run.sh
 dd if=/dev/fmem of=memory.raw bs=1MB count=2048
 ````
+- [kernographer](https://github.com/pagabuc/kernographer) - Back to the Whiteboard: a Principled Approach for the Assessment and Design of Memory Forensic Techniques (Usenix '19)
+  - [Back to the Whiteboard: a Principled Approach for the Assessment and Design of Memory Forensic Techniques](https://www.usenix.org/system/files/sec19fall_pagani_prepub.pdf)
 - [LibVMI](https://github.com/libvmi/libvmi) - LibVMI is a virtual machine introspection library. This means that it helps you access the memory of a running virtual machine. LibVMI provides primitives for accessing this memory using physical or virtual addresses and kernel symbols. LibVMI also supports accessing memory from a physical memory snapshot, which is helpful for debugging or forensic analysis.
 - [LiME](https://github.com/504ensicsLabs/LiME) - LiME (or Linux Memory Extractor) is a tool that allows the capture of volatile memory (RAM) from a running Linux device.
 - [Memscan](https://github.com/angusshire/memscan) - memscan is a command line utility for scanning a user-mode process's memory. It is compatible with 64-bit Windows, and will not work on 32-bit Windows. For speed, the scan does not support non-aligned addresses.
