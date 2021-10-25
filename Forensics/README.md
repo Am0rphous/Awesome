@@ -110,6 +110,7 @@ cd fmem && make
 ./run.sh
 dd if=/dev/fmem of=memory.raw bs=1MB count=2048
 ````
+- [kallsyms-extractor](https://github.com/pagabuc/kallsyms-extractor) - Tool to extract the kallsyms (System.map) from a memory dump.
 - [kernographer](https://github.com/pagabuc/kernographer) - Back to the Whiteboard: a Principled Approach for the Assessment and Design of Memory Forensic Techniques (Usenix '19)
   - [Back to the Whiteboard: a Principled Approach for the Assessment and Design of Memory Forensic Techniques](https://www.usenix.org/system/files/sec19fall_pagani_prepub.pdf)
 - [LibVMI](https://github.com/libvmi/libvmi) - LibVMI is a virtual machine introspection library. This means that it helps you access the memory of a running virtual machine. LibVMI provides primitives for accessing this memory using physical or virtual addresses and kernel symbols. LibVMI also supports accessing memory from a physical memory snapshot, which is helpful for debugging or forensic analysis.
