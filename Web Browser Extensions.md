@@ -9,6 +9,7 @@
   - [Decentraleyes for Firefox](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)
 - [DuckDuckGo Privacy Essentials (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) - Privacy, simplified. Our add-on provides the privacy essentials you need to seamlessly take control of your personal information, no matter where the internet takes you: tracker blocking, smarter encryption, DuckDuckGo private search, and more.
 - [Facebook Container](https://github.com/mozilla/contain-facebook) - Prevent Facebook from tracking your visits to other websites.
+- [Firefox GNOME theme ](https://github.com/rafaelmardojai/firefox-gnome-theme) - A GNOME👣 theme for Firefox🔥.
 - [FoxyProxy Standard (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard) - FoxyProxy is an advanced proxy management tool that completely replaces Firefox's limited proxying capabilities.
 - [H264ify](https://github.com/erkserkserks/h264ify) - A Chrome/Firefox extension that makes YouTube stream H.264 videos instead of VP8/VP9 videos.
   - [H264ify - addons.mozilla.org](https://addons.mozilla.org/en-US/firefox/addon/h264ify/)
