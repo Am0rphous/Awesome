@@ -378,6 +378,7 @@ Communicate clearly <br>
     - [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
     - [Waline](https://github.com/walinejs/waline) - A Simple, Safe Comment System inspired by Valine | 一款基于 Valine 衍生的简洁、安全的评论系统.
       - [Waline Example](https://github.com/mIcHyAmRaNe/waline) - This directory is a brief example of a Waline app that can be deployed with Vercel and zero configuration.
+    - [Wpgtk](https://github.com/deviantfero/wpgtk) - 🎴 a colorscheme, wallpaper and template manager for *nix.
 
 ## E-books
 - [Check Am0rphous Web-Resources.md](https://github.com/Am0rphous/Awesome/blob/master/Web-Resources.md)
