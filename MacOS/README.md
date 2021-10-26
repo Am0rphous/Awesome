@@ -115,6 +115,7 @@
 - [Klaxon](https://github.com/knowsuchagency/klaxon) - Send Mac OS (or notifiers) notifications from the terminal or Python programs.
 - [MacOS Big Sur - Replacements Icons](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) -  Replacement icons for popular apps in the style of macOS Big Sur.
 - [PodcastMenu](https://github.com/insidegui/PodcastMenu) - Put Overcast on your Mac's menu bar.
+- [Spectacle app](https://www.spectacleapp.com/) - Move and resize windows with ease. (Important note: Spectacle is no longer being actively maintained)
   ### Automation
   - [Hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua.
   - [Mjolnir](https://github.com/mjolnirapp/mjolnir) - Lightweight automation and productivity app for OS X.
