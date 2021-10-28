@@ -228,6 +228,15 @@ bro / zeek
   - [Azure Red Team](https://github.com/rootsecdev/Azure-Red-Team) - Azure Security Resources and Notes.
 - [Cloud Foundry](https://www.cloudfoundry.org) - [github.com/cloudfoundry](https://github.com/cloudfoundry) Cloud Foundry provides a highly efficient, modern model for cloud native application delivery on top of Kubernetes.
 - [OpenShift](https://www.openshift.com) - [github.com/openshift](https://github.com/openshift) Red Hat OpenShift is the hybrid cloud platform of open possibility: powerful, so you can build anything and flexible, so it works anywhere.
+- OpenStack - The Most Widely Deployed Open Source Cloud Software in the World
+  - [OpenStack.org](https://www.openstack.org/)
+  - [Octavia](https://wiki.openstack.org/wiki/Octavia ) - Octavia is an operator-grade open source scalable load balancer. 
+  - [OpenStack Horizon](https://github.com/openstack/horizon) - Horizon is a Django-based project aimed at providing a complete OpenStack Dashboard along with an extensible framework for building new dashboards from reusable components.
+  - [OpenStack Ironic](https://github.com/openstack/ironic) - Ironic consists of an API and plug-ins for managing and provisioning physical machines in a security-aware and fault-tolerant manner. It can be used with nova as a hypervisor driver, or standalone service using bifrost. By default, it will use PXE and IPMI to interact with bare metal machines. Ironic also supports vendor-specific plug-ins which may implement additional functionality.
+  - [OpenStack Keystone](https://github.com/openstack/keystone)
+  - [OpenStack Neutron](https://github.com/openstack/neutron) - Neutron is an OpenStack project to provide "network connectivity as a service" between interface devices (e.g., vNICs) managed by other OpenStack services (e.g., Nova).
+  - [OpenStack Nova](https://github.com/openstack/nova) - OpenStack Nova provides a cloud computing fabric controller, supporting a wide variety of compute technologies, including: libvirt (KVM, Xen, LXC and more), Hyper-V, VMware, OpenStack Ironic and PowerVM.
+  - [OpenStack Swift](https://github.com/openstack/swift) - OpenStack Swift is a distributed object storage system designed to scale from a single machine to thousands of servers. Swift is optimized for multi-tenancy and high concurrency. Swift is ideal for backups, web and mobile content, and any other unstructured data that can grow without bound.
 - [ScoutSuite](https://github.com/nccgroup/ScoutSuite) - Multi-Cloud Security Auditing Tool.
 
 ## Configuration Management
