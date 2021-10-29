@@ -5,6 +5,7 @@
 - [DeepdarkCTI](https://github.com/fastfire/deepdarkCTI) - Collection of Cyber Threat Intelligence sources from the deep and dark web.
 - [Intel Architecture Map](https://github.com/Errum/IntelArchitectureMap) - The Intelligence Architecture Map is based on interviews of industry experts, former intelligence practitioners, and my personal views. It represents a logical and meaningful way I see the different aspects of producing intelligence should be put together.
 - [IoC](https://github.com/avast/ioc) - Threat Intel IoCs + bits and pieces of dark matter.
+- [Mapping MITRE ATT&CK® to CVEs for Impact](https://github.com/center-for-threat-informed-defense/attack_to_cve) - A methodology for mapping MITRE ATT&CK techniques to vulnerability records to describe the impact of a vulnerability.
 - [MISP - Threat Intelligence Sharing Platform](https://github.com/MISP/MISP) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform (formely known as Malware Information Sharing Platform).
   - [misp-modules](https://github.com/MISP/misp-modules) - Modules for expansion services, import and export in MISP.
   - [puppet-misp](https://github.com/voxpupuli/puppet-misp) - This module installs and configures MISP (Malware Information Sharing Platform).
