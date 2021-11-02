@@ -222,6 +222,7 @@ bro / zeek
   - [Phoronix Test Suite on Github](https://github.com/phoronix-test-suite/phoronix-test-suite) - The Phoronix Test Suite open-source, cross-platform automated testing/benchmarking software.
 
 ## Cloud
+- [Awesome Cloud Native Security 🐿](https://github.com/brant-ruan/awesome-cloud-native-security) - This repository is used to collect AWESOME resources on the topic of cloud native security found during research.
 - AWS - Amazon Web Services
   - [AWS Nuke](https://github.com/rebuy-de/aws-nuke) - Nuke a whole AWS account and delete all its resources.
 - Azure
