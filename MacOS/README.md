@@ -43,6 +43,7 @@
   - [ReiKey](https://github.com/objective-see/ReiKey) - Malware and other applications may install persistent keyboard "event taps" to intercept your keystrokes. ReiKey can scan, detect, and monitor for such taps!
 
 ## Tools
+- [AlDente](https://github.com/davidwernhart/AlDente) - macOS tool to limit maximum charging percentage.
 - [AppleALC](https://github.com/acidanthera/AppleALC) - Native macOS HD audio for not officially supported codecs.
 - [Blear](https://github.com/sindresorhus/blear) - iOS app that transforms your photos into stunning blurry wallpapers for your device.
 - [Brightness](https://github.com/nriley/brightness) - Command-line display brightness control for macOS.
@@ -56,6 +57,7 @@
 - [MacOS Fortress](https://github.com/essandess/macOS-Fortress) - Firewall and Privatizing Proxy for Trackers, Attackers, Malware, Adware, and Spammers with Anti-Virus On-Demand and On-Access Scanning (PF, squid, privoxy, hphosts, dshield, emergingthreats, hostsfile, PAC file, clamav).
 - [The Unarchiver](https://apps.apple.com/us/app/the-unarchiver/id425424353?mt=12) - Open any archive in seconds.
 - [Shield](https://github.com/theevilbit/Shield) - An app to protect against process injection on macOS.
+- [SMCKit](https://github.com/beltex/SMCKit) - Apple SMC library & tool.
 - [TB3 enabler](https://github.com/KhaosT/tb3-enabler) - Enable Thunderbolt 3 for unsupported peripherals on macOS.
 - [WhateverGreen](https://github.com/acidanthera/WhateverGreen) - Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs.
 - [WineBottler](https://winebottler.kronenberg.org) - Run .exe files on Macbook using Wine. Logfile: `~/Library/Logs/Wine.log`
@@ -71,6 +73,8 @@
   sudo dd if=/Users/user_name/Downloads/CentOS-8-x86_64-boot.iso of=/dev/rdisk2
   ````
   ### Development
+  - [Create-DMG](https://github.com/create-dmg/create-dmg) - A shell script to build fancy DMGs.
+  - [LaunchAtLogin](https://github.com/sindresorhus/LaunchAtLogin) - Add “Launch at Login” functionality to your macOS app in seconds.
   - [Node-appDMG](https://github.com/LinusU/node-appdmg) - 💾 Generate your app dmgs.
   - [Rumps](https://github.com/jaredks/rumps) - Ridiculously Uncomplicated macOS Python Statusbar apps.
   - [Tray Example](https://github.com/kevinsawicki/tray-example) - Electron Tray Mac OS X Example App.
