@@ -191,6 +191,9 @@ Communicate clearly <br>
       - [Just Report It](https://addons.thunderbird.net/thunderbird/addon/just-report-it/?src=cb-dl-recentlyadded) - Just Report It (https://justreport.it) is an email plugin which tackles spam the right way. Report emails straight to SpamCop, the Registrar, a custom email address or any combination in between!
   - [Tutanota](https://tutanota.com/) - Tutanota is an end-to-end encrypted email software and freemium hosted secure email service. Its motto is "einfach.sicher.mailen" in German, meaning "easy.secure.mailing". Its business model excludes earning money through advertisement. Instead, it relies solely on donations and premium subscriptions. [wikipedia](https://en.wikipedia.org/wiki/Tutanota) [Linux Desktop Client (Appimage)](https://mail.tutanota.com/desktop/tutanota-desktop-linux.AppImage)
 
+  #### Security Tools
+  - [E-Mail Header Analyzer (MHA)](https://github.com/cyberdefenders/email-header-analyzer) - E-Mail header analyzer is a tool written in flask for parsing email headers and converting them to a human readable format and it also can: Identify hop delays, Identify the source of the email, Identify hop country.
+
   ### IRC
   - [Kiwi IRC](https://kiwiirc.com)
   - [Limnoria](https://github.com/progval/Limnoria) - A robust, full-featured, and user/programmer-friendly Python IRC bot, with many existing plugins. Successor of the well-known Supybot.
