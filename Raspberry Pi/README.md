@@ -41,9 +41,10 @@
   - [Mini Media Player](https://github.com/kalkih/mini-media-player) - Minimalistic media card for Home Assistant Lovelace UI.
   - [Simple Weather Card](https://github.com/kalkih/simple-weather-card) - Minimalistic weather card for Home Assistant.
 - [Homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient [homebridge.io](https://homebridge.io).
-- [homebridge-config-ui-x](https://github.com/oznu/homebridge-config-ui-x) - The Homebridge UI. Monitor, configure and backup Homebridge from a browser.
+- [Homebridge-config-ui-x](https://github.com/oznu/homebridge-config-ui-x) - The Homebridge UI. Monitor, configure and backup Homebridge from a browser.
   - [homebridge-hue](https://github.com/ebaauw/homebridge-hue) - Homebridge plugin for Philips Hue and/or deCONZ.
   - [homebridge-ws](https://github.com/ebaauw/homebridge-ws) -  Homebridege plugin for virtual weather station.
+- [Hue-cli](https://github.com/bahamas10/hue-cli) - A command line interface to phillips hue.
 - [Zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 
 ## Magic Mirror repos
