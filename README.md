@@ -172,6 +172,7 @@ Communicate clearly <br>
 - [Twist](https://twist.com/home)
 - [Wire](https://github.com/wireapp/wire) - [app.wire.com](https://app.wire.com/auth/)
 - [YakYak](https://github.com/yakyak/yakyak) - Desktop chat client for Google Hangouts.
+- [Zulip](https://zulip.com/) - Chat for distributed teams. Slack alternative. [Github](https://github.com/zulip)
 
   ### E-mail
   - [ElectronMail](https://github.com/vladimiry/ElectronMail) - Unofficial ProtonMail Desktop App.
