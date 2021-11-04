@@ -555,10 +555,21 @@ Based on that data, you can find the most popular ones and their alternatives.
     - [Shortwave](https://gitlab.gnome.org/World/Shortwave) - Find and listen to internet radio stations.
     - [Strimio](https://www.strimio.com) - A Beautiful Modern Radio Streaming App. [snap package](https://snapcraft.io/strimio-desktop)
     ##### Sound Production
-    - [CubicSDR](https://github.com/cjcliffe/CubicSDR) - Cross-Platform Software-Defined Radio Application. [www.cubicsdr.com](http://www.cubicsdr.com/)
     - [Ardour](https://ardour.org/) - Record, Edit, and Mix on Linux, macOS and Windows
     - [Audacity](https://sourceforge.net/projects/audacity)
-    - [SoX - Sound eXchange](http://sox.sourceforge.net/Main/HomePage) - Swiss Army knife of sound processing programs. 
+    - [Bitwig Studio](https://www.bitwig.com/)
+    - [Cecilia](http://ajaxsoundstudio.com/software/cecilia/) - Cecilia is an audio signal processing environment aimed at sound designers. Cecilia mangles sound in ways unheard of. Cecilia lets you create your own GUI using a simple syntax. Cecilia comes with many original built-in modules and presets for sound effects and synthesis.
+    - [CubicSDR](https://github.com/cjcliffe/CubicSDR) - Cross-Platform Software-Defined Radio Application. [www.cubicsdr.com](http://www.cubicsdr.com/)
+    - [LMMS](https://lmms.io/) - LMMS is a free and open source (cross-platform) digital audio workstation. It includes all the basic audio editing functionalities along with a lot of advanced features.
+    - [Mixxx](https://mixxx.org/) - Mixxx is free open-source software and entirely community-driven. There is no company behind Mixxx — the development is shouldered by passionate DJs and programmers that dedicate their free time to working on their favorite DJ software. Mixxx is and always will be free!
+    - [MusE](https://github.com/muse-sequencer/muse) - MusE is a digital audio workstation with support for both Audio and MIDI.
+    - [Ossia](https://ossia.io/)
+    - [Qtractor](https://www.qtractor.org/)
+    - [REAPER](https://www.reaper.fm/)
+    - [Rosegarden](https://www.rosegardenmusic.com/) - Rosegarden is a music composition and editing environment based around a MIDI sequencer that features a rich understanding of music notation and includes basic support for digital audio.
+    - [SoX - Sound eXchange](http://sox.sourceforge.net/Main/HomePage) - Swiss Army knife of sound processing programs.
+    - [Waveform](https://www.tracktion.com/products/waveform-free)
+    - [ZRYTHM](https://www.zrythm.org/en/index.html)
       ###### Music Apps
       - [Guayadeque](https://github.com/anonbeat/Guayadeque) - Music management program designed for all music enthusiasts. [guayadeque.org](http://www.guayadeque.org)
       - [Lollypop](https://gitlab.gnome.org/World/lollypop) - Lollypop is a lightweight modern music player designed to work excellently on the GNOME desktop environment. [Lollypop flatpak](https://www.flathub.org/apps/details/org.gnome.Lollypop)
@@ -573,10 +584,10 @@ Based on that data, you can find the most popular ones and their alternatives.
         - [Psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI.
         - [Spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
         - [Tmux-spotify](https://github.com/xamut/tmux-spotify) - Spotify plugin for tmux.
-         ###### Podcast
-         - [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts.
-         - [CPod](https://github.com/z-------------/CPod) - A simple, beautiful podcast app for Windows, macOS, and Linux.
-         - [Winds](https://github.com/getstream/winds/) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io.
+       ###### Podcast
+       - [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts.
+       - [CPod](https://github.com/z-------------/CPod) - A simple, beautiful podcast app for Windows, macOS, and Linux.
+       - [Winds](https://github.com/getstream/winds/) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io.
 
 
 ## News, RSS Feed
