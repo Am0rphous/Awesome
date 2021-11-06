@@ -127,6 +127,7 @@ Communicate clearly <br>
 - [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) - A curated list of Web Security materials and resources.
 - [Awesome Workflow Engines](https://github.com/meirwah/awesome-workflow-engines) - A curated list of awesome open source workflow engines.
 - [Awesome WSL](https://github.com/sirredbeard/Awesome-WSL) - Awesome list dedicated to Windows Subsystem for Linux.
+- [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - 🔗 Some useful websites for programmers.
 - [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome)
 <br>
 - [StarGazed](https://github.com/abhijithvijayan/stargazed) - Creating your own Awesome List of GitHub stars!
