@@ -77,6 +77,7 @@ Communicate clearly <br>
   - [Security](https://github.com/Am0rphous/Awesome/blob/master/README.md#security)
   - [Time Management](https://github.com/Am0rphous/Awesome/blob/master/README.md#time-management)
     - [Polls](https://github.com/Am0rphous/Awesome/blob/master/README.md#polls)
+    - 
 - [Resources](https://github.com/Am0rphous/Awesome/blob/master/README.md#resources)
 - [Tools](https://github.com/Am0rphous/Awesome/blob/master/README.md#tools)
   - [DVD-ripping](https://github.com/Am0rphous/Awesome/blob/master/README.md#dvd-ripping)
@@ -608,7 +609,6 @@ Based on that data, you can find the most popular ones and their alternatives.
 - [Albert Launcher](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher. [Homepage](https://albertlauncher.github.io/)
 - [CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features.
 - [GoAlert](https://github.com/target/goalert) - Open source on-call scheduling, automated escalations, and notifications so you never miss a critical alert.
-- [HDFM](https://github.com/KYDronePilot/hdfm) - A program that displays weather and traffic maps received from NRSC-5 (HDFM) radio station.
 - [KOrganizer](https://github.com/KDE/korganizer) - Organizational assistant, providing calendars and other similar functionality.
 - [Open-event-frontend](https://github.com/fossasia/open-event-frontend) - The frontend for the Open Event API Server
 - [Open-event-server](https://github.com/fossasia/open-event-server) - The Open Event Organizer Server to Manage Events http://open-event-api.herokuapp.com
@@ -687,6 +687,9 @@ Based on that data, you can find the most popular ones and their alternatives.
     ### Polls
     - [Framadate](https://framagit.org/framasoft/framadate/framadate) - [Framadate.org](https://framadate.org/) is an online service for planning an appointment or making a decision quickly and easily. It's a community free/libre software alternative to Doodle.
 
+  ### Weather
+  - [HDFM](https://github.com/KYDronePilot/hdfm) - A program that displays weather and traffic maps received from NRSC-5 (HDFM) radio station.
+  - [wittr.in](https://github.com/chubin/wttr.in) - ⛅ The right way to check the weather.
 
 ## Social Media
 - [Caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app.
