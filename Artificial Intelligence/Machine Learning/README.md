@@ -33,6 +33,7 @@ Description: _Reinforcement learning is an area of machine learning concerned wi
 - [Machine Learning and Security](https://github.com/13o-bbr-bbq/machine_learning_security) - Source code about machine learning and security.
 - [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 25 lessons, 50 quizzes, classic Machine Learning for all.
 - [Machine Learning for Cyber Security](https://github.com/wtsxDev/Machine-Learning-for-Cyber-Security) - Curated list of tools and resources related to the use of machine learning for cyber security.
+- [MLSpace](https://github.com/abhishekkrthakur/mlspace) - MLSpace: Hassle-free machine learning & deep learning development.
 - [OAP-MLlib](https://github.com/oap-project/oap-mllib) - Optimized Spark package to accelerate machine learning algorithms in Apache Spark MLlib.
 - [ONNX Runtime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
