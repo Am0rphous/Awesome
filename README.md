@@ -77,7 +77,7 @@ Communicate clearly <br>
   - [Security](https://github.com/Am0rphous/Awesome/blob/master/README.md#security)
   - [Time Management](https://github.com/Am0rphous/Awesome/blob/master/README.md#time-management)
     - [Polls](https://github.com/Am0rphous/Awesome/blob/master/README.md#polls)
-    - 
+    - [Weather](https://github.com/Am0rphous/Awesome/blob/master/README.md#weather)
 - [Resources](https://github.com/Am0rphous/Awesome/blob/master/README.md#resources)
 - [Tools](https://github.com/Am0rphous/Awesome/blob/master/README.md#tools)
   - [DVD-ripping](https://github.com/Am0rphous/Awesome/blob/master/README.md#dvd-ripping)
