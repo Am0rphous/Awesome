@@ -171,6 +171,7 @@ bro / zeek
 - [vt-cli](https://github.com/VirusTotal/vt-cli) -  VirusTotal Command Line Interface. [virustotal.github.io/vt-cli/](https://virustotal.github.io/vt-cli/)
 - [Web Shell Detector](https://github.com/emposha/PHP-Shell-Detector) - PHP script that helps you find and identify php/cgi(perl)/asp/aspx shells. Web Shell Detector has a “web shells” signature database that helps to identify “web shell” up to 99%. [shelldetector.com](https://shelldetector.com/)
 - [Yara](https://github.com/virustotal/yara) - The pattern matching swiss knife. [virustotal.github.io/yara](https://virustotal.github.io/yara)
+  - [Awesome YARA](https://github.com/InQuest/awesome-yara) - A curated list of awesome YARA rules, tools, and people.
   - [Fireeye Red-Team's Yara rules](https://github.com/fireeye/red_team_tool_countermeasures/blob/master/all-yara.yar)
   - [MQuery](https://github.com/CERT-Polska/mquery) - YARA malware query accelerator (web frontend). Blazingly fast Yara queries for malware analysts
   - [Public Yara-Rules repo](https://github.com/Yara-Rules/rules) -  Repository of yara rules.
