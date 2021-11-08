@@ -289,6 +289,7 @@ bro / zeek
 - [PURE-FTPD](https://github.com/jedisct1/pure-ftpd) - Pure FTP server. [www.pureftpd.org](https://www.pureftpd.org)
 - [Serve by Vercel](https://github.com/vercel/serve) - Static file serving and directory listing.
 - [Share File Systems](https://github.com/prettydiff/share-file-systems) - Use a Windows/OSX like GUI in the browser to share files cross OS privately. No cloud, no server, no third party.
+- [Surge - P2P on steroids ](https://github.com/rule110-io/surge) - Surge is a p2p filesharing app designed to utilize blockchain technologies to enable 100% anonymous file transfers. Surge is end-to-end encrypted, decentralized and open source.
 - [Updog](https://github.com/sc0tfree/updog) - Updog is a replacement for Python's SimpleHTTPServer. It allows uploading and downloading via HTTP/S, can set ad hoc SSL certificates and use http basic auth.
 - [Warpinator](https://github.com/linuxmint/warpinator) - Share files across the LAN 
 
