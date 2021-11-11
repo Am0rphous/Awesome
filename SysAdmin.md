@@ -581,6 +581,7 @@ upstream_recursive_servers:
 - [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [LKRG - Linux Kernel Runtime Guard](https://www.openwall.com/lkrg) -  LKRG performs runtime integrity checking of the Linux kernel and detection of security vulnerability exploits against the kernel.
   - [Linux Kernel Runtime Guard (LKRG) for Debian, Whonix, Qubes, Kicksecure](https://www.whonix.org/wiki/Linux_Kernel_Runtime_Guard_LKRG)
+- [Loki](https://github.com/Neo23x0/Loki) - Loki - Simple IOC and Incident Response Scanner.
 - [Lynis](https://github.com/CISOfy/Lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [Otseca](https://github.com/trimstray/otseca) - Open source security auditing tool to search and dump system configuration. It allows you to generate reports in HTML or RAW-HTML formats.
 - [SELinux Userspace](https://github.com/SELinuxProject/selinux) - Security Enhanced Linux (SELinux).
