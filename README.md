@@ -285,6 +285,7 @@ Communicate clearly <br>
   - [INGInious plugins](https://github.com/UCL-INGI/INGInious-plugins) - A list of open-source plugins for your INGInious instance.
 - [Jupyter Notebook](https://github.com/jupyter/notebook) - Web-based notebook environment for interactive computing.
 - [Ly](https://github.com/nullgemm/ly) - Ly is a lightweight TUI (ncurses-like) display manager for Linux and BSD.
+- [Nacos](https://github.com/alibaba/nacos) - An easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
 - [Prompts](https://github.com/terkelg/prompts#selectmessage-choices-initial-hint-warn) - ❯ Lightweight, beautiful and user-friendly interactive prompts.
 - [Thonny PyDev](https://github.com/thonny/thonny) - Python IDE for beginners.
 - [Vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
