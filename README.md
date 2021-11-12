@@ -160,6 +160,7 @@ Communicate clearly <br>
   - [Rocket-chat-denied-mask.sh](https://gist.github.com/Majunko/81e8b45f2a7588975d48be156fd38173#file-rocket-chat-denied-mask-sh) - Repair Denied mask spam in journal.
   - [Rocket.Chat.RaspberryPi](https://github.com/RocketChat/Rocket.Chat.RaspberryPi)
   - [Rocket.Chat-Cryptoconvert](https://github.com/nicholasfoden/rocketchat-cryptoconvert) - rocket.chat app to convert between cryptocurrencies using the cryptocompare API.
+  - [rocket-chat-denied-mask.sh](https://gist.github.com/Majunko/81e8b45f2a7588975d48be156fd38173#file-rocket-chat-denied-mask-sh) - issue [link](https://github.com/RocketChat/Rocket.Chat/issues/14562)
 - [Session](https://getsession.org/) - Session is an end-to-end encrypted messenger that minimises sensitive metadata, designed and built for people who want absolute privacy and freedom from any form of surveillance. [Session Desktop](https://github.com/oxen-io/session-desktop) - Session Desktop - Onion routing based messenge.
 - [Signal](https://www.signal.org)
   - [Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
