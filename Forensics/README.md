@@ -125,6 +125,7 @@ dd if=/dev/fmem of=memory.raw bs=1MB count=2048
   - [MalConfScan](https://github.com/JPCERTCC/MalConfScan) - Volatility plugin for extracts configuration data of known malware.
   - [Memory analysis of the KBeast Linux rootkit](https://apps.dtic.mil/sti/pdfs/AD1004348.pdf)
 - [volatility3](https://github.com/volatilityfoundation/volatility3)
+  - [Orochi](https://github.com/LDO-CERT/orochi) - The Volatility Collaborative GUI.
   - [plugins](https://github.com/volatilityfoundation/community) - Volatility plugins developed and maintained by the community.
 Vilatility commands
 ````powershell
