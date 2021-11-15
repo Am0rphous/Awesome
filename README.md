@@ -471,6 +471,7 @@ Based on that data, you can find the most popular ones and their alternatives.
 - [System Color Picker](https://github.com/sindresorhus/System-Color-Picker) - The macOS color picker as an app with more features 
 - [Wwmark](https://github.com/mylamour/Wwmark) - Watermark Swiss Army Knife.
   ### Image
+  - [Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework.
   - [DarkTable](https://github.com/darktable-org/darktable) - open source photography workflow application and raw developer. A virtual lighttable and darkroom for photographers. [darktable.org](https://www.darktable.org)
   - [DigiKam from KDE](https://www.digikam.org) - [Github](https://github.com/KDE/digikam) Advanced open-source digital photo management application that runs on Linux, Windows, and MacOS. The application provides a comprehensive set of tools for importing, managing, editing, and sharing photos and raw files.
   - [ExifCleaner](https://github.com/szTheory/exifcleaner) - Cross-platform desktop GUI app to clean image metadata.
@@ -479,7 +480,7 @@ Based on that data, you can find the most popular ones and their alternatives.
   - [InkScape](https://inkscape.org) - A powerful, free design tool.
   - [Krita](https://github.com/KDE/krita) - Krita is a professional free and open source painting program.
   - [LightZone](https://github.com/ktgw0316/LightZone) - LightZone is a photo editor for Mac, Windows, and Linux [lightzoneproject.org](http://lightzoneproject.org).
-  - [Open 3D Engine - o3de](https://o3de.org) - Source for fully featured AAA Open 3D Engine. [GitHub](https://github.com/o3de/o3de)
+  - [Open @ Engine - o3de](https://o3de.org) - Source for fully featured AAA Open 3D Engine. [GitHub](https://github.com/o3de/o3de)
   - [Paint](https://www.getpaint.net) - Paint.NET is image and photo editing software for PCs that run Windows.
   - [Pinta](https://www.pinta-project.com) - Pinta is a free, open source program for drawing and image editing.
   - [Pixeluvo](http://www.pixeluvo.com) - A Beautifully Designed Image and Photo Editor for Windows and Linux.
