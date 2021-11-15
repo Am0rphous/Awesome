@@ -121,6 +121,7 @@ bro / zeek
 ## Anti-Virus / malware and rootkit detection
 - [AlphaSeclab's anti-av](https://github.com/alphaSeclab/anti-av) - Resources About Anti-Virus and Anti-Anti-Virus, including 200+ tools and 1300+ posts.
 - [Al-khaser](https://github.com/LordNoteworthy/al-khaser) - PoC "malware" application with good intentions that aims to stress your anti-malware system.
+- [BinLex](https://github.com/c3rb3ru5d3d53c/binlex) - A Binary Genetic Traits Lexer.
 - [Chkrootkit](http://www.chkrootkit.org) - locally checks for signs of a rootkits.
   Compiling from scratch:
   ````bash
