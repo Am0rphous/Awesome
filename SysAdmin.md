@@ -812,6 +812,7 @@ upstream_recursive_servers:
   - [Nanos VMs](https://github.com/nanovms/nanos) - A kernel designed to run one and only one application in a virtualized environment. [nanos.org](https://nanos.org)
   - [oVirt](https://www.ovirt.org) - Free open-source virtualization solution for your entire enterprise.
     - [oVirt documentation](https://www.ovirt.org/documentation)
+  - [UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS.
   - [Virtlyst](https://github.com/cutelyst/Virtlyst) - Web interface to manage virtual machines with libvirt.
   - [VirtualBox](https://www.virtualbox.org) - Hypervisor by Oracle (formerly by Sun) for Windows, Linux, macOS, and Solaris.
     - [Antivmdetection](https://github.com/nsmfoo/antivmdetection) - Script to create templates to use with VirtualBox to make vm detection harder.
