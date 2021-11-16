@@ -333,6 +333,7 @@ Communicate clearly <br>
     - [Glasstron](https://github.com/AryToNeX/Glasstron) - The go-to solution to Electron composition effects, such as blurry windows.
     #### Go
     - [Awesome Go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software.
+    - [Hacking-With-Golang](https://github.com/AV1080p/Hacking-With-Golang) - Golang安全资源合集.
     #### HTML
     - [HEAD](https://github.com/joshbuchea/HEAD) - 🗿 A list of everything that *could* go in the head of your document.
     #### Java
