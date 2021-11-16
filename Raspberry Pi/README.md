@@ -45,6 +45,7 @@
   - [homebridge-hue](https://github.com/ebaauw/homebridge-hue) - Homebridge plugin for Philips Hue and/or deCONZ.
   - [homebridge-ws](https://github.com/ebaauw/homebridge-ws) -  Homebridege plugin for virtual weather station.
 - [Hue-cli](https://github.com/bahamas10/hue-cli) - A command line interface to phillips hue.
+- [PiMonitor](https://github.com/Buzz2d0/PiMonitor) - golang + RaspberryPi 实现可控制的WEB视频监控器.
 - [Zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 
 ## Magic Mirror repos
