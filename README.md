@@ -41,7 +41,8 @@ Communicate clearly <br>
     - [Nim](https://github.com/Am0rphous/Awesome/blob/master/README.md#nim)
     - [Node.js](https://github.com/Am0rphous/Awesome/blob/master/README.md#nodejs---open-source-and-cross-platform-javascript-runtime-environment)
     - [PHP](https://github.com/Am0rphous/Awesome/blob/master/README.md#php)
-    - [Python](https://github.com/Am0rphous/Awesome/blob/master/README.md#php)
+    - [Python](https://github.com/Am0rphous/Awesome/blob/master/README.md#python)
+    - [Rust](https://github.com/Am0rphous/Awesome/blob/master/README.md#rust)
     - [Vlang](https://github.com/Am0rphous/Awesome/blob/master/README.md#vlang)
     - [Web](https://github.com/Am0rphous/Awesome/blob/master/README.md#web)
 - [E-books](https://github.com/Am0rphous/Awesome/blob/master/README.md#e-books)
@@ -378,6 +379,8 @@ Communicate clearly <br>
       - [Enrich](https://github.com/pycontribs/enrich) - Enrich adds few missing features to the wonderful rich library.
     - [Textual](https://github.com/willmcgugan/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
     - [What the f*ck Python](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱 . Exploring and understanding Python through surprising snippets.
+    #### Rust
+    - [The Rust Programming Language](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
     #### Vlang
     - [V](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io.
     #### Web
