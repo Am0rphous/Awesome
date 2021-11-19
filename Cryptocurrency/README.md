@@ -1,4 +1,5 @@
 # Cryptocurrency
+- [Cryptopedia - www.gemini.com](https://www.gemini.com/cryptopedia)
 
 ## Bitcoin
 - [Bitcoin source code](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree.
