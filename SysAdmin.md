@@ -466,7 +466,6 @@ upstream_recursive_servers:
   Enter-PSSession –ComputerName 192.168.1.10 -Credentials(Get-Credentials Administrator)
   nmap -v 192.168.1.10 -sV -Pn -p 5985,5986                      #Check if the port is open
   ````
-- [DropBear SSH](https://github.com/mkj/dropbear) - S smallish SSH server and client. [https://matt.ucc.asn.au](https://matt.ucc.asn.au)
 - [ElecTerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp client(linux, mac, win).
 - [Eternal Terminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell.
 - RDP Applications
@@ -482,7 +481,9 @@ upstream_recursive_servers:
     - [TigerVNC](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server.
     - [xVNC](http://xvnc.sourceforge.net/)
 - [SSH](https://www.openssh.com)
+  - [DropBear SSH](https://github.com/mkj/dropbear) - S smallish SSH server and client. [https://matt.ucc.asn.au](https://matt.ucc.asn.au)
   - [Portable OpenSSH](https://github.com/openssh/openssh-portable)
+  - [SSH2]() - SSH2 client and server modules written in pure JavaScript for node.js.
   - [SSH-Weak-DH](https://github.com/AonCyberLabs/SSH-Weak-DH)
   - [SSH Hardening](https://github.com/Am0rphous/CheatSheets/blob/main/Linux/ssh-hardening.md)
   - [SSH Hardening with Security Onion](https://docs.securityonion.net/en/2.3/ssh.html)
