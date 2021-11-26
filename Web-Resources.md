@@ -128,6 +128,7 @@
   - [PDF Drive.com](https://www.pdfdrive.com/) - Search engine for PDF, Mobi, epub and other e-book files.
   ### Podcasts for Cybersecurity
   - [Digital Forensic Survival Podcast](https://digitalforensicsurvivalpodcast.com/)
+  - [Information Systems DIGEST Podcast](https://isdigest.buzzsprout.com/)
   - SoundCloud
     - [Palo Alto Networks](https://soundcloud.com/paloaltonetworks)
   - Spotify
