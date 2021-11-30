@@ -353,6 +353,7 @@ lsscsi                          #Print SCSI Devices Info
 - [Bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor.
 - [Docker Swarm - Promitheus, Grafana, Node Exporter, Loki, Promtail, Caddy](https://github.com/zet694/promitheus_monitoring) - Docker Swarm - Promitheus, Grafana, Node Exporter, Loki, Promtail, Caddy.
 - [Elastic stack (ELK) on Docker](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
+- [FileMonitor](https://github.com/TheKingOfDuck/FileMonitor) - 文件变化实时监控工具(代码审计/黑盒/白盒审计辅助工具).
 - [Glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
   - [Glances – A Versatile System Monitoring Tool for Linux Systems]()
 - [Lima Charlie](https://github.com/nextgens/limacharlie) - Endpoint monitoring stack.
