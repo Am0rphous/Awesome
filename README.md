@@ -99,6 +99,7 @@ Communicate clearly <br>
 - [Awesome Fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统.
 - [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better.
 - [Awesome Humane Tech](https://github.com/humanetech-community/awesome-humane-tech)
+- [Awesome IAM](https://github.com/kdeldycke/awesome-iam) - 👤 Identity and Access Management Knowledge for Cloud Platforms.
 - [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk)
 - [Awesome Industrial Control System Security](https://github.com/hslatman/awesome-industrial-control-system-security) - A curated list of resources related to Industrial Control System (ICS) security.
 - [Awesome Intelligence Writing](https://github.com/mxm0z/awesome-intelligence-writing) - Awesome collection of great and useful resources concerning intelligence writing such as manuals/guides, standards, books, and articles.
