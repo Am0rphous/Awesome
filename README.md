@@ -742,8 +742,9 @@ Based on that data, you can find the most popular ones and their alternatives.
   - [GHex](https://github.com/GNOME/ghex) - GHex can load raw data from binary files and display them for editing in a traditional hex editor view. The display is split in two columns, with hexadecimal values in one column and the ASCII representation in the other. GHex is a useful tool for working with raw data.
   - [ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
   - [vxHexEditor](https://github.com/EUA/wxHexEditor) - [www.wxhexeditor.org](http://www.wxhexeditor.org/)
-  ### Linux
+  ### Linux Tools
   - [Linux Surface](https://github.com/linux-surface/linux-surface) - Linux Kernel for Surface Devices.
+  - [Static-binaries](https://github.com/andrew-d/static-binaries) - Various *nix tools built as statically-linked binaries.
 
 
   ### Torrent
