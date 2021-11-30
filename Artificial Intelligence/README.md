@@ -79,4 +79,5 @@ Description: _Sentiment analysis (also known as opinion mining or emotion AI) is
 - [Napkin-text-analysis](https://github.com/adulau/napkin-text-analysis) - Napkin is a simple tool to produce statistical analysis of a text.
 
 ## Web
-- [cogito-ntnu.no](https://cogito-ntnu.no)
+- [Cogito-ntnu.no](https://cogito-ntnu.no)
+- [PwC’s Global Artificial Intelligence Study: Exploiting the AI Revolution ](https://www.pwc.com/gx/en/issues/data-and-analytics/publications/artificial-intelligence-study.html)
