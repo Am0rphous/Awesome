@@ -874,9 +874,10 @@ upstream_recursive_servers:
   - [WPScan](https://github.com/wpscanteam/wpscan) - WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites.
 
   ### Certificates
-  - [acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol.
+  - [Acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol.
   - [Acme-tiny](https://github.com/diafygi/acme-tiny) - A tiny script to issue and renew TLS certs from Let's Encrypt.
   - [Certificate-transparency-go](https://github.com/google/certificate-transparency-go) - Auditing for TLS certificates (Go code).
+  - [Certify The Web - Certificate Manager UI for Windows](https://github.com/webprofusion/certify) - Professional TLS/SSL Certificate Manager UI for Windows, powered by Let's Encrypt and compatible with all ACME v2 CAs. Download from certifytheweb.com.
   - [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 
   ### Web Hosting Services worth checking out
