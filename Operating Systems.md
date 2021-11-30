@@ -1,8 +1,6 @@
 
 # Operating systems
 
-- [Don't use Windows 10 - It's a privacy nightmare](https://www.privacytools.io/operating-systems/#win10)
-
 - [A list of web resources](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#a-list-of-web-resources)
 - [BOOT / BIOS](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#boot--bios)
 - [Create Your Own Custom Linux OS](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#create-your-own-custom-linux-os)
@@ -19,12 +17,13 @@
   - [NAS](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#nas)
 - [Unix OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#unix-oses)
 - [Virtualization](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#virtualization)
-<br >
-<br >
+
+
 
 ## A list of web resources
-- [archiveos.org](https://archiveos.org) - Arhive of Operating Systems with Linux, BSD, DOS, Solaris and others.
+- [Archiveos.org](https://archiveos.org) - Arhive of Operating Systems with Linux, BSD, DOS, Solaris and others.
 - [DistroWatch.com](https://distrowatch.com)
+- [Don't use Windows 10 - It's a privacy nightmare](https://www.privacytools.io/operating-systems/#win10)
 - [Hardware for Linux Trends](https://linux-hardware.org/?view=trends)
 
 ## BOOT / BIOS
