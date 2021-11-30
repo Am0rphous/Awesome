@@ -321,6 +321,7 @@ lsscsi                          #Print SCSI Devices Info
 
 ## IDS, HIDS and IPS
 - [Awesome Endpoint Detection and Response tools](https://github.com/remiflavien1/awesome-endpoint-detection-and-response) - Collection of tool you need to have in your Endpoint Detection and Response arsenal.
+- [CrowdSec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative IPS able to analyze visitor behavior & provide an adapted response to all kinds of attacks. It also leverages the crowd power to generate a global CTI database to protect the user network.
 - [DenyHosts](https://github.com/denyhosts/denyhosts) - Automated host blocking from SSH brute force attacks.
 - [EmoCheck](https://github.com/JPCERTCC/EmoCheck) -  Emotet detection tool for Windows OS.
 - [Fail2Ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors. [www.fail2ban.org](https://www.fail2ban.org)
