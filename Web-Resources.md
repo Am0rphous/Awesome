@@ -1,4 +1,9 @@
 
+## Buying a computer
+- [Framework Laptop](https://frame.work/)
+- [Purism](https://puri.sm)
+- [System76](https://system76.com/)
+
 ## Cyber Security News
 - [Cyberiqs.com/latestnews](https://cyberiqs.com/latestnews)
 - [Cyware.com/hacker-news](https://cyware.com/hacker-news)
