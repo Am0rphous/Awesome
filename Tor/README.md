@@ -86,6 +86,8 @@ virt-viewer vnc://localhost:5901
 - [PICKYONION](https://github.com/maliciousgroup/PICKYONION) - PICKYONION is a private red team python library focused on leveraging TOR to establish secure communication and hidden service hosting.
 - [Real-world-onion-sites](https://github.com/alecmuffett/real-world-onion-sites) - list of substantial, commercial-or-social-good mainstream websites which provide onion services. 
 - [Stem.torproject.org](https://stem.torproject.org)
+- [The Vanguards Onion Service Addon](https://github.com/mikeperry-tor/vanguards) - Vanguards help guard you from getting vanned...
+  - [vanguards-example.conf](https://github.com/mikeperry-tor/vanguards/blob/master/vanguards-example.conf)
 - [tor_ip_switcher](https://github.com/ruped24/tor_ip_switcher) - tor_ip_switcher is useful for making any DoS attack look like a DDoS attack. Works with toriptables2.
 - [Tor Bot](https://github.com/DedSecInside/TorBoT) - Dark Web OSINT Tool.
 - [Tor-detect](https://github.com/k4m4/tor-detect) - Detect whether an IP address belongs to a Tor exit node.
