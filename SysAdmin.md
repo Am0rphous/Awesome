@@ -395,6 +395,7 @@ lsscsi                          #Print SCSI Devices Info
   - [Sysmon Tools](https://github.com/nshalabi/SysmonTools) - Utilities for Sysmon.
 - [SysMonTask](https://github.com/KrispyCamel4u/SysMonTask) - Linux system monitor with the compactness and usefulness of windows task manager to allow higher control and monitoring.
 - [SysUsage](https://github.com/darold/sysusage) - SysUsage is a system monitoring and alarm reporting tool. It can generate historical graph views of CPU, memory, IO, network and disk usage, and very much more.
+- [Vector (archived)](https://github.com/Netflix/vector) - An on-host performance monitoring framework which exposes hand picked high resolution metrics to every engineer’s browser [getvector.io](http://getvector.io)
 - [Wazuh](https://github.com/wazuh/wazuh/) - Wazuh is a free, open source and enterprise-ready security monitoring solution for threat detection, integrity monitoring, incident response and compliance. [wazuh.com](https://wazuh.com)
 - [Webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel [www.webmin.com](http://www.webmin.com).
 - [Zeek (Bro)](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know. [zeek.org](https://www.zeek.org)
