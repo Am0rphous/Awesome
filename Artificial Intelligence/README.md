@@ -42,6 +42,7 @@ Note: https://favouriteblog.com/50-best-github-artificial-intelligence/
   - [DeepStack_ActionNET](https://github.com/OlafenwaMoses/DeepStack_ActionNET) - Provides a custom DeepStack model that has been trained and can be used for creating a new object detection API for detecting 16 human actions present in the ActionNET Dataset dataset.
 - [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) - Real-Time and Accurate Full-Body Multi-Person Pose Estimation&Tracking System.
 - [Detectron2](https://github.com/facebookresearch/detectron2) - Detectron2 is FAIR's next-generation platform for object detection, segmentation and other visual recognition tasks.
+- [FACE MASK DETECTION SYSTEM ](https://github.com/memudualimatou/FACE-MASK-DETECTION-WEB-APP-FLASK-PYTHON)
 - [FireNET](https://github.com/OlafenwaMoses/FireNET) - A deep learning model for detecting fire in video and camera streams.
 - [Pyodi](https://github.com/Gradiant/pyodi) - Python Object Detection Insights.
 - [Strawberries](https://github.com/alexlouden/strawberries) - Computer vision on 🍓.
@@ -49,14 +50,15 @@ Note: https://favouriteblog.com/50-best-github-artificial-intelligence/
 - [Traffic-Net](https://github.com/OlafenwaMoses/Traffic-Net) - A dataset of traffic, fire and accident images for training deep learning models.
 - [Yolov4-deepsort by theAIGuysCode ](https://github.com/theAIGuysCode/yolov4-deepsort) - Object tracking implemented with YOLOv4, DeepSort, and TensorFlow.
   - [Roboflow Object Tracking Example](https://github.com/roboflow-ai/zero-shot-object-tracking) - Object tracking implemented with the Roboflow Inference API, DeepSort, and OpenAI CLIP.
+ ### Face / Emotions
+- [Detect Eyes and Detect Faces in Python](https://copyassignment.com/detect-eyes-and-detect-faces-in-python-and-opencv/)
+- [FacEmoji](https://github.com/PiotrDabrowskey/facemoji) - Detects face and its emotion, draws according emoji over face.
+
 
 ## Convolutional neural network
 _Convolutional neural networks power image recognition and computer vision tasks._
 - [Eyeballer](https://github.com/BishopFox/eyeballer) - Eyeballer is meant for large-scope network penetration tests where you need to find "interesting" targets from a huge set of web-based hosts. Go ahead and use your favorite screenshotting tool like normal (EyeWitness or GoWitness) and then run them through Eyeballer to tell you what's likely to contain vulnerabilities, and what isn't.
 
-### Face / Emotions
-- [Detect Eyes and Detect Faces in Python](https://copyassignment.com/detect-eyes-and-detect-faces-in-python-and-opencv/)
-- [FacEmoji](https://github.com/PiotrDabrowskey/facemoji) - Detects face and its emotion, draws according emoji over face.
 
 ## Machine Learning
 - [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) - Machine Learning for Cyber Security.
