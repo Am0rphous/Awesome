@@ -880,6 +880,8 @@ upstream_recursive_servers:
   - [Wordpress Comment Blacklist](https://github.com/splorp/wordpress-comment-blacklist) - A simple solution for WordPress comment spam.
   - [WP-Desktop](https://github.com/Automattic/wp-desktop) - WordPress.com for Desktop.
   - [WPScan](https://github.com/wpscanteam/wpscan) - WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites.
+  ### Plugins
+  - [MP3 Audio Player for Music, Radio & Podcast by Sonaar](https://wordpress.org/plugins/mp3-music-player-by-sonaar/)
 
   ### Certificates
   - [Acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol.
