@@ -768,6 +768,7 @@ upstream_recursive_servers:
     - [Docker Bench for Security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production. 
     - [Docker Compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker.
       - [Awesme Docker Compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples.
+    - [Lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker.
     - [Running the GUI Application inside Docker Container](https://kallakruparaju.medium.com/running-the-gui-application-inside-docker-container-bdfbeb889147)
     - [Watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
     - [Weave](https://github.com/weaveworks/weave) -  Simple, resilient multi-host containers networking and more. Weaveworks is the company that delivers the most productive way for developers to connect, observe and control Docker containers.
