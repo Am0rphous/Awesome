@@ -866,8 +866,9 @@ upstream_recursive_servers:
 - [ProxyChains by haad](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 - [ProxyChains-NG by rofl0r](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.
 - [Python-proxy](https://github.com/qwj/python-proxy) - HTTP/HTTP2/HTTP3/Socks4/Socks5/Shadowsocks/ShadowsocksR/SSH/Redirect/Pf TCP/UDP asynchronous tunnel proxy implemented in Python 3 asyncio.
+- [Robots.txt tester](https://github.com/p0dalirius/robotstester) - This Python script can enumerate all URLs present in robots.txt files, and test whether they can be accessed or not.
 - [Sanstorm](https://sandstorm.io/) - Sandstorm is an open source platform for self-hosting web apps
-- [Squid]()
+- Squid
   - [SquidGuard](http://www.squidguard.org)
 - [Wordpress](https://wordpress.com/)
   - [Automattic's Free Themes](https://github.com/Automattic/themes) - WordPress.com themes.
