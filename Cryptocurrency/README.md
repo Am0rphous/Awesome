@@ -44,6 +44,7 @@
 - [Binance-News-Sentiment-Bot](https://github.com/CyberPunkMetalHead/Binance-News-Sentiment-Bot) - This is a fully functioning Binance trading bot that takes into account the news sentiment for the top 100 crypto feeds. If you like this project consider donating though the Brave browser to allow me to continuously improve the script.
 - [Binance-volatility-trading-bot](https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot) - This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though the Brave browser to allow me to continuously improve the script.
 - [Carnac The Magnificent](https://github.com/rvrsh3ll/Carnac) - Carnac The Magnificent: Pancakeswap Prediction Market Bot.
+- [GUI Pancakeswap and Uniswap trading client (and bot)](https://github.com/persianhydra/panUNIswap-bot) - GUI Pancakeswap V2 and Uniswap V3 trading client (and bot)MOST ADVANCE TRADING BOT SUPPORT WINDOWS LINUX MAC.
 
 ## Wallets
 - [Guarda Desktop Crypto Wallet](https://guarda.com/desktop/)
