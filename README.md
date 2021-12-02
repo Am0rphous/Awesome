@@ -66,6 +66,7 @@ Communicate clearly <br>
   - [IP-TV](https://github.com/Am0rphous/Awesome/blob/master/README.md#ip-tv)
   - [Music](https://github.com/Am0rphous/Awesome/blob/master/README.md#music)
     - [Sound Production](https://github.com/Am0rphous/Awesome/blob/master/README.md#sound-production)
+    - [Equalizers](https://github.com/Am0rphous/Awesome/blob/master/README.md#equalizers)
     - [Music Apps](https://github.com/Am0rphous/Awesome/blob/master/README.md#music-apps)
     - [Podcast](https://github.com/Am0rphous/Awesome/blob/master/README.md#podcast)
 - [News, RSS Feed](https://github.com/Am0rphous/Awesome/blob/master/README.md#news-rss-feed)
@@ -586,6 +587,8 @@ Based on that data, you can find the most popular ones and their alternatives.
     - [SoX - Sound eXchange](http://sox.sourceforge.net/Main/HomePage) - Swiss Army knife of sound processing programs.
     - [Waveform](https://www.tracktion.com/products/waveform-free)
     - [ZRYTHM](https://www.zrythm.org/en/index.html)
+      ###### Equalizers
+      - [EasyEffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications.
       ###### Music Apps
       - [Guayadeque](https://github.com/anonbeat/Guayadeque) - Music management program designed for all music enthusiasts. [guayadeque.org](http://www.guayadeque.org)
       - [Lollypop](https://gitlab.gnome.org/World/lollypop) - Lollypop is a lightweight modern music player designed to work excellently on the GNOME desktop environment. [Lollypop flatpak](https://www.flathub.org/apps/details/org.gnome.Lollypop)
