@@ -601,6 +601,7 @@ upstream_recursive_servers:
 - YubiKey
   - [Installing Yubico Software on Linux](https://support.yubico.com/hc/en-us/articles/360016649039-Enabling-the-Yubico-PPA-on-Ubuntu)
   - [LUKS-Encrypted Filesystem with Yubikey PBA](https://github.com/sgillespie/nixos-yubikey-luks)
+    - [Yubikey for LUKS](https://github.com/cornelinux/yubikey-luks) - Two factor authentication for harddisk encryption.
   - [Ubuntu Linux Login Guide - U2F ](https://support.yubico.com/hc/en-us/articles/360016649099-Ubuntu-Linux-Login-Guide-U2F)
   - [Using Your U2F YubiKey with Linux ](https://support.yubico.com/hc/en-us/articles/360013708900-Using-Your-U2F-YubiKey-with-Linux)
 
