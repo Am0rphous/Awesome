@@ -604,6 +604,7 @@ upstream_recursive_servers:
     - [Fido2luks](https://github.com/shimunn/fido2luks) - Decrypt your LUKS partition using a FIDO2 compatible authenticator.
       - [SoloKey Full Disk Encryption](https://github.com/saravanan30erd/solokey-full-disk-encryption) - Use SoloKey to unlock a LUKS encrypted partition.
     - [Yubikey for LUKS](https://github.com/cornelinux/yubikey-luks) - Two factor authentication for harddisk encryption.
+  - [Passwordless login with Yubikey 5 NFC](https://askubuntu.com/questions/1167691/passwordless-login-with-yubikey-5-nfc)
   - [Ubuntu Linux Login Guide - U2F ](https://support.yubico.com/hc/en-us/articles/360016649099-Ubuntu-Linux-Login-Guide-U2F)
   - [Using Your U2F YubiKey with Linux ](https://support.yubico.com/hc/en-us/articles/360013708900-Using-Your-U2F-YubiKey-with-Linux)
   - [Yubico Authenticator](https://github.com/Yubico/yubioath-desktop) - Yubico Authenticator for Desktop (Windows, macOS and Linux).
