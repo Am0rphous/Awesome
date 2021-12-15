@@ -384,6 +384,7 @@ lsscsi                          #Print SCSI Devices Info
 - [OpenNMS](https://github.com/OpenNMS/opennms) - Enterprise-Grade Open-Source Network Management Platform [www.opennms.org](http://www.opennms.org).
 - [OSQuery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [pSpy](https://github.com/DominicBreuker/pspy) - Monitor linux processes without root permissions
+- [RansomWatch](https://github.com/captainGeech42/ransomwatch) - RansomWatch is a ransomware leak site monitoring tool. It will scrape all of the entries on various ransomware leak sites, store the data in a SQLite database, and send notifications via Slack or Discord when a new victim shows up, or when a victim is removed.
 - [Security Onion OS](https://securityonionsolutions.com)
   - [Github: Security Onion 2.3.10](https://github.com/Security-Onion-Solutions/securityonion)
   - [Security Onion Documentation](https://docs.securityonion.net/en/2.3/index.html)
