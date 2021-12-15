@@ -20,7 +20,7 @@ _“Intelligence is the ability to avoid doing work, yet getting the work done -
 - [Ebooks, PDFs and helpful resources](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#ebooks-pdfs-and-helpful-resources)
 - [File Sharing](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#file-sharing)
 - [Hardware](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#hardware)
-- [IDS, HIDS and IPS](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#ids-hids-and-ips)
+- [EDR, IDS, HIDS and IPS](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#edr-ids-hids-and-ips)
   - [Firewall](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#firewall)
 - [Monitoring](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#monitoring)
   - [ELK-stack](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#elk-stack)
@@ -319,7 +319,7 @@ lspci -t                        #PCI Devices with tree format
 lsscsi                          #Print SCSI Devices Info
 ````
 
-## IDS, HIDS and IPS
+## EDR, IDS, HIDS and IPS
 - [Awesome Endpoint Detection and Response tools](https://github.com/remiflavien1/awesome-endpoint-detection-and-response) - Collection of tool you need to have in your Endpoint Detection and Response arsenal.
 - [CrowdSec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative IPS able to analyze visitor behavior & provide an adapted response to all kinds of attacks. It also leverages the crowd power to generate a global CTI database to protect the user network.
 - [DenyHosts](https://github.com/denyhosts/denyhosts) - Automated host blocking from SSH brute force attacks.
@@ -345,6 +345,9 @@ lsscsi                          #Print SCSI Devices Info
 - [Teler](https://github.com/kitabisa/teler) -  Real-time HTTP Intrusion Detection.
 - [TripWire](https://github.com/Tripwire/tripwire-open-source) - Security and data integrity tool for monitoring and alerting on file & directory changes. 
 - [Wazuh](https://github.com/wazuh/wazuh/) - free and open source platform used for threat prevention, detection, and response. It is capable of protecting workloads across on-premises, virtualized, containerized, and cloud-based environments.
+## EDR specific
+- [Ebpf-edr](https://github.com/bm9w/ebpf-edr) - eBPF-based EDR for Linux.
+- [Louis](https://github.com/sourque/louis) - Linux EDR written in Golang and based on eBPF.
 
 ## Monitoring
 - [Adminator HTML5 Admin Template](https://github.com/puikinsh/Adminator-admin-dashboard) - Adminator is a easy to use and well design admin dashboard template for web apps, websites, services and more.
