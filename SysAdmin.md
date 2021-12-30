@@ -936,7 +936,8 @@ upstream_recursive_servers:
 ## Web Browser
 - [Chromium](https://www.chromium.org/) - With Chromium, you get rid of all the tracking features that Google Chrome boasts.
   - [ungoogled-chromium Github](https://github.com/Eloston/ungoogled-chromium)
-- [Brave Browser](https://brave.com/download/)
+- [Brave Browser](https://brave.com/download)
+- [Elza Browser](https://elzabrowser.com/) - Private, fast and minimal web browser based on electron with built-in tor.
 - [Mozilla Firefox](https://www.mozilla.org)
   - [Pale Moon](https://www.palemoon.org)
 - [Waterfox](https://www.waterfox.net)
