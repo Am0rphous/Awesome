@@ -157,6 +157,12 @@ Communicate clearly <br>
   - [Mattermost Plugin Jitsi](https://github.com/mattermost/mattermost-plugin-jitsi) - Jitsi plugin for Mattermost 🔌
     - [RSSFeed Plugin](https://integrations.mattermost.com/rssfeed-plugin/)
   - [Mattermost Server](https://github.com/mattermost/mattermost-server)
+  - [Mmctl](https://docs.mattermost.com/manage/mmctl-command-line-tool.html)
+    Install:
+    ````
+    sudo apt install golang
+    go get -u github.com/mattermost/mmctl
+    ````
 - [Microsoft Temas](https://www.microsoft.com/nb-no/microsoft-teams/download-app) - Linux, Mac, Windows, ios, android
   - [clear_cache_MS_Teams.sh](https://gist.github.com/mrcomoraes/c83a2745ef8b73f9530f2ec0433772b7)
 - [Rambox](https://github.com/ramboxapp/commu nity-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
