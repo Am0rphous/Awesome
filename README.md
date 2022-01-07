@@ -637,6 +637,7 @@ Based on that data, you can find the most popular ones and their alternatives.
 - [KOrganizer](https://github.com/KDE/korganizer) - Organizational assistant, providing calendars and other similar functionality.
 - [Open-event-frontend](https://github.com/fossasia/open-event-frontend) - The frontend for the Open Event API Server
 - [Open-event-server](https://github.com/fossasia/open-event-server) - The Open Event Organizer Server to Manage Events http://open-event-api.herokuapp.com
+- [Sleek](https://github.com/ransome1/sleek) - Todo app based on todo.txt for Linux, Windows and MacOS, free and open-source.
 - [Raycast](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day. [www.raycast.com](https://www.raycast.com)
 - [ToDoist](https://todoist.com) - "Organize it all"
 - [Touchégg](https://github.com/JoseExposito/touchegg) - Linux multi-touch gesture recognizer. Touchégg is an app that runs in the background and transform the gestures you make on your touchpad or touchscreen into visible actions in your desktop.
