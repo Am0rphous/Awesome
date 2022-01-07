@@ -129,7 +129,8 @@
   - [Infosec-conferences.com](https://infosec-conferences.com)
   - Search
     - [CfpSec](https://github.com/alexandreborges/cfpsec) - CFPsec is a program to list Call For Papers or upcoming Hacking/Security Conferences based on cfptime.org website.
-
+  ### Courses
+  - [Free Linux course](https://geek-university.com/course/free-linux-course/)
   ### E-books
   - [PDF Drive.com](https://www.pdfdrive.com/) - Search engine for PDF, Mobi, epub and other e-book files.
   ### Podcasts for Cybersecurity
