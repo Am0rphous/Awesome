@@ -27,6 +27,7 @@ Communicate clearly <br>
   - [Themes](https://github.com/Am0rphous/Awesome/blob/master/README.md#themes)
   - [Wallapers](https://github.com/Am0rphous/Awesome/blob/master/README.md#wallpapers)
 - [Development](https://github.com/Am0rphous/Awesome/blob/master/README.md#development)
+  - [API](https://github.com/Am0rphous/Awesome/blob/master/README.md#api)
   - [Backend](https://github.com/Am0rphous/Awesome/blob/master/README.md#backend)
   - [Code Editors](https://github.com/Am0rphous/Awesome/blob/master/README.md#code-editors)
   - [Frontend](https://github.com/Am0rphous/Awesome/blob/master/README.md#frontend)
@@ -304,6 +305,10 @@ Communicate clearly <br>
 - [Vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 - [Vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [Wing](https://github.com/kbrsh/wing) - A beautiful CSS framework designed for minimalists [kbrsh.github.io](https://kbrsh.github.io/wing/).
+  ### API
+  - [Kong](https://github.com/Kong/kong) - The Cloud-Native API Gateway.
+
+
   ### Backend
   - [SupaBase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 
