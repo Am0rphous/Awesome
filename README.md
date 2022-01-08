@@ -786,6 +786,7 @@ Based on that data, you can find the most popular ones and their alternatives.
   ### Privacy focused
   - [Bromite](https://www.bromite.org) - Bromite a Chromium fork with ad blocking and privacy enhancements; take back your browser!
   - [IceCat](https://www.gnu.org/software/gnuzilla)
+  - [Iridium Browser](https://iridiumbrowser.de) - A browser securing your privacy. That's it.
   - [Tenta](https://tenta.com)
   - [Tor Browser](https://www.torproject.org)
   ### Search Engines
