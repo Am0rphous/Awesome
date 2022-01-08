@@ -583,6 +583,9 @@ Based on that data, you can find the most popular ones and their alternatives.
     ##### Radio
     - [Gradio](https://github.com/haecker-felix/gradio) - The successor of Gradio is Shortwave.
     - [Great Little Radio Player](https://sites.google.com/site/glrpgreatlittleradioplayer/home)
+    - [lofi cli](https://github.com/zackradisic/lofi-cli) - Listen to ChilledCow's lofi hip-hop stream from the command line.
+    - [Lofi Radio](https://github.com/Maanex/lofi-radio/)
+    - [Lofi Radio Desktop](https://github.com/hjoelh/Lofi-Radio-Desktop) - Site & App for Lofi Radio Desktop / 2000+ downloads.
     - [Pithos](https://github.com/pithos/pithos) - Pithos is a native Pandora Radio client for Linux. It's much more lightweight than the Pandora.com web client, and integrates with desktop features such as media keys, notifications, and the sound menu.
     - [Radio Tray](http://radiotray.sourceforge.net) - online radio streaming player that runs on a Linux system tray.
     - [Radiotray-NG](https://github.com/ebruck/radiotray-ng) - An Internet radio player for Linux.
