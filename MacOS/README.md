@@ -35,6 +35,13 @@
   - [iOS Location Tester](https://github.com/pjaton/LocationTester) - An iOS application to test the CLLocationManager location, significant change and region monitoring.
 - [LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall.
   - Install with `brew install lulu`
+- Tor
+````powershell
+brew install tor
+brew services start tor
+brew info tor
+ps axu | grep "/bin/tor"
+````
   ### Proxy
   - [clashX](https://github.com/yichengchen/clashX) - A rule based proxy For Mac base on Clash.
   - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX.
@@ -84,13 +91,12 @@
   ### Package Managers
   - [Brew / HomeBrew](https://brew.sh/) - Package Manager for Linux and MacOS.
   - [Brew Documentation](https://docs.brew.sh)
-
-   Quick install:
+  - Quick install:
    ````
    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
    ````
-- [Homebrew gathers anonymous aggregate user behaviour analytics using Google Analytics. ](https://docs.brew.sh/Analytics#opting-out)
-   To opt out of analytics, run
+  - [Homebrew gathers anonymous aggregate user behaviour analytics using Google Analytics. ](https://docs.brew.sh/Analytics#opting-out)
+  - To opt out of analytics, run
    ````
    export HOMEBREW_NO_ANALYTICS=1
    brew analytics off
