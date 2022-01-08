@@ -10,6 +10,9 @@
 ## Charts
 - [Bitcoin-chart-cli](https://github.com/madnight/bitcoin-chart-cli) - Bitcoin chart for the terminal as command line util.
 
+## Contract Analysis
+- [Mythril](https://github.com/ConsenSys/mythril) - Security analysis tool for EVM bytecode. Supports smart contracts built for Ethereum, Hedera, Quorum, Vechain, Roostock, Tron and other EVM-compatible blockchains. 
+
 ## Convertion / Calculation
 - [Cryptocurrency-calculator-cli](https://github.com/madnight/cryptocurrency-calculator-cli) - Cryptocurrency Converter Calculator as command line util.
 
