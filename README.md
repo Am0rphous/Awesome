@@ -775,7 +775,7 @@ Based on that data, you can find the most popular ones and their alternatives.
     ### Streaming torrent
     - [https://torrent.express](https://torrent.express)
 
-## Web Browser
+## Web Browsers
 - [Chromium](https://www.chromium.org/) - With Chromium, you get rid of all the tracking features that Google Chrome boasts.
   - [ungoogled-chromium Github](https://github.com/Eloston/ungoogled-chromium)
 - [Brave Browser](https://brave.com/download)
