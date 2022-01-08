@@ -87,6 +87,9 @@ Communicate clearly <br>
   - [Hex](https://github.com/Am0rphous/Awesome/blob/master/README.md#hex)
   - [Torrent](https://github.com/Am0rphous/Awesome/blob/master/README.md#torrent)
     - [Streaming torrent](https://github.com/Am0rphous/Awesome/blob/master/README.md#streaming-torrent)
+- [Web Browsers](https://github.com/Am0rphous/Awesome/blob/master/README.md#web-browsers)
+  - [Privacy Focused](https://github.com/Am0rphous/Awesome/blob/master/README.md#privacy-focused)
+  - [Search Engines](https://github.com/Am0rphous/Awesome/blob/master/README.md#search-engines)
 
 ## Awesome Entitled Projects
 - [Awesome Azure Security](https://github.com/kmcquade/awesome-azure-security) - A curated list of awesome Microsoft Azure Security tools, guides, blogs, and other resources.
@@ -766,11 +769,26 @@ Based on that data, you can find the most popular ones and their alternatives.
   - [Lisa19 - Linux Terminal Tools](https://github.com/ketancmaheshwari/lisa19) - Linux Terminal Tools. PDF slides.
   - [Static-binaries](https://github.com/andrew-d/static-binaries) - Various *nix tools built as statically-linked binaries.
 
-
   ### Torrent
   - [Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
   - [qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client [www.qbittorrent.org](https://www.qbittorrent.org).
     ### Streaming torrent
     - [https://torrent.express](https://torrent.express)
 
+## Web Browser
+- [Chromium](https://www.chromium.org/) - With Chromium, you get rid of all the tracking features that Google Chrome boasts.
+  - [ungoogled-chromium Github](https://github.com/Eloston/ungoogled-chromium)
+- [Brave Browser](https://brave.com/download)
+- [Elza Browser](https://elzabrowser.com/) - Private, fast and minimal web browser based on electron with built-in tor.
+- [Mozilla Firefox](https://www.mozilla.org)
+  - [Pale Moon](https://www.palemoon.org)
+- [Waterfox](https://www.waterfox.net)
+  ### Privacy focused
+  - [Bromite](https://www.bromite.org) - Bromite a Chromium fork with ad blocking and privacy enhancements; take back your browser!
+  - [IceCat](https://www.gnu.org/software/gnuzilla)
+  - [Tenta](https://tenta.com)
+  - [Tor Browser](https://www.torproject.org)
+  ### Search Engines
+  - [DuckDuckGo](https://duckduckgo.com)
+  - [Qwant](https://www.qwant.com)
 
