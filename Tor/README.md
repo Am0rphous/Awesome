@@ -9,6 +9,7 @@
 - [Tor Flow Chart](https://torflow.uncharted.software)
 
 ## Setup
+- [Docker: tor obfs4 bridge](https://github.com/fphammerle/docker-tor-obfs4-bridge) - Tor bridge running obfs4 obfuscation protocol in Alpine 🐳.
 - [Tor Relay Guide - Security](https://gitlab.torproject.org/legacy/trac/-/wikis/TorRelayGuide/Security)
 - [www.torproject.org/download/](https://www.torproject.org/download/)
 <br>Linux
