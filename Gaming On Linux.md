@@ -37,6 +37,9 @@
    - [BFHD PRO II - Patch G2 (Gold)](https://www.moddb.com/mods/battlefield-hd-remastered-3/downloads/bfhd-pro-ii-patch-g-gold) - (wine/winetriks) Battlefield Remastered 3.0 has finally has gone gold after a 2 years development.
    - [Free Games by The Drakelings Community](https://drakelings.bluedrake42.com/index.php?/category/1-free-games/)
    - [Minesweeper-Login](https://github.com/OGoodness/Minesweeper-Login) - Command Line version of MineSweeper for Unix-like systems (GNU/Linux, macOS, BSD).
+   - QML Sokoban
+     - https://store.kde.org/p/1109280/
+     - https://www.opendesktop.org/p/1109280
    - [Quake Wars: Enemy Territory](https://www.splashdamage.com/games/enemy-territory-quake-wars/)
    - [S.T.A.L.K.E.R.]()
      - [S.T.A.L.K.E.R. Anomaly ](https://drakelings.bluedrake42.com/index.php?/blogs/entry/11-i-cant-believe-this-full-game-is-free/)
