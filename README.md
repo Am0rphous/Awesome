@@ -218,6 +218,7 @@ Communicate clearly <br>
   ### IRC
   - [Kiwi IRC](https://kiwiirc.com)
   - [Limnoria](https://github.com/progval/Limnoria) - A robust, full-featured, and user/programmer-friendly Python IRC bot, with many existing plugins. Successor of the well-known Supybot.
+  - [Logbot](https://github.com/dannvix/Logbot) - Simple IRC logger with realtime web-based viewer.
   - [Mibbit](https://www.mibbit.com/)
   - [Quassel-irc](https://quassel-irc.org)
   #### IRC Clients
