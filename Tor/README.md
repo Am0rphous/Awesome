@@ -9,6 +9,7 @@
 - [Tor Flow Chart](https://torflow.uncharted.software)
 
 ## Setup
+- [Tor Relay Guide - Security](https://gitlab.torproject.org/legacy/trac/-/wikis/TorRelayGuide/Security)
 - [www.torproject.org/download/](https://www.torproject.org/download/)
 <br>Linux
 ````powershell
