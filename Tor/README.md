@@ -10,7 +10,9 @@
 
 ## Setup
 - [Docker: tor obfs4 bridge](https://github.com/fphammerle/docker-tor-obfs4-bridge) - Tor bridge running obfs4 obfuscation protocol in Alpine 🐳.
+- [Tor-alpine](https://github.com/klemmchr/tor-alpine) - Simple, minimal and self updating docker image for Tor based on Alpine Linux.
 - [Tor Relay Guide - Security](https://gitlab.torproject.org/legacy/trac/-/wikis/TorRelayGuide/Security)
+- [Tor Relay Server on Docker (Alpine)](https://github.com/chriswayg/tor-alpine) - 🐳 A Small Tor Relay Server with obfs4proxy on Alpine Linux on Docker.
 - [www.torproject.org/download/](https://www.torproject.org/download/)
 <br>Linux
 ````powershell
