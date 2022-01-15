@@ -920,6 +920,7 @@ upstream_recursive_servers:
   - [GoatCounter](https://github.com/zgoat/goatcounter) - Easy web analytics. No tracking of personal data.
   - [Koko Analytics](https://github.com/ibericode/koko-analytics) - Privacy-friendly analytics for your WordPress site. 
   - [Matomo Web Analytics](https://matomo.org) - "_Google Analytics alternative that protects your data and your customers' privacy_" [matomo.org](https://matomo.org/).
+    - [Matomo Github](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!
     - [Matamo Analytics for Wordpress](https://wordpress.org/plugins/matomo)
     - [Matomo Tracking Panel](https://github.com/thiagoarrais/grafana-matomo-tracking-panel) -  Matomo Tracking Panel for Grafana.
     - [Tutorial: Install Matomo Web Analytics (Piwik) on Ubuntu 20.04 with Apache/Nginx](https://www.linuxbabe.com/ubuntu/install-matomo-web-analytics-piwik-ubuntu-20-04-apache-nginx)
