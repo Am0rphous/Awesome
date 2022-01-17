@@ -95,6 +95,7 @@ Communicate clearly <br>
 - [Awesome Azure Security](https://github.com/kmcquade/awesome-azure-security) - A curated list of awesome Microsoft Azure Security tools, guides, blogs, and other resources.
 - [Awesome Cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - 🍻 awesome cheatsheet.
 - [Awesome CLI](https://github.com/umutphp/awesome-cli) - A simple command line tool to give you a fancy command line interface to dive into Awesome lists.
+- [Awesome Cloud Security](https://github.com/4ndersonLin/awesome-cloud-security) - 🛡️ Awesome Cloud Security Resources ⚔️.
 - [awesome Console Services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols).
 - [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [Awesome cve poc](https://github.com/qazbnm456/awesome-cve-poc) - A curated list of CVE PoCs.
