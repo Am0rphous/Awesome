@@ -1,5 +1,6 @@
 # Cryptocurrency
 - [Cryptopedia - www.gemini.com](https://www.gemini.com/cryptopedia)
+- [full-blockchain-solidity-course-py](https://github.com/smartcontractkit/full-blockchain-solidity-course-py) - Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition.
 
 ## Bitcoin
 - [Bitcoin source code](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree.
