@@ -79,6 +79,7 @@
 - [Redsocks – transparent TCP-to-proxy redirector](https://github.com/darkk/redsocks) -  transparent TCP-to-proxy redirector.
 - [RPIVOT](https://github.com/klsecservices/rpivot) - socks4 reverse proxy for penetration testing.
 - [Squid](http://www.squid-cache.org/) - Squid is a caching proxy for the Web supporting HTTP, HTTPS, FTP, and more. It reduces bandwidth and improves response times by caching and reusing frequently-requested web pages.
+- [tcp-over-http](https://github.com/neex/tcp-over-http#current-status) - This program is just a proxy server which multiplexes TCP connections into an HTTPS. The primary purpose is to make all connections look like legitimate ones for firewalls (including DPI).
 - [Tinyproxy](https://github.com/tinyproxy/tinyproxy) - Tinyproxy is a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems.
 - [Venom](https://github.com/Dliv3/Venom) - _A Multi-hop Proxy for Penetration Testers._
 
