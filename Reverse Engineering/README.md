@@ -158,6 +158,9 @@ getcap            #examine file capabilities
 ## Shellcode
 - [BlobRunner](https://github.com/OALabs/BlobRunner) - Quickly debug shellcode extracted during malware analysis.
 
+## Static Analysis
+- [CodeCat](https://github.com/CoolerVoid/codecat) - Tool to help in static analysis.
+
 ## Unsorted
 - [CryptoWall Analysis](https://github.com/ryancor/CryptoWall_Analysis) -  CryptoWall 3.0 Ransomware Reversing Documentation & Scripts.
 
