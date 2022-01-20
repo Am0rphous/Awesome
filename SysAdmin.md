@@ -785,6 +785,7 @@ upstream_recursive_servers:
 
 
 ## Virtualization
+-  [Container and Kernel-Based Virtual Machine (KVM) Virtualization for Network Function Virtualization (NFV)](https://builders.intel.com/docs/container-and-kvm-virtualization-for-nfv.PDF)
 - [IsardVDI](https://github.com/isard-vdi/isard) - Isard VDI. Open Source KVM Virtual Desktops based on KVM Linux and dockers [isardvdi.com](https://isardvdi.com).
 - [WebVirtCloud](https://github.com/retspen/webvirtcloud) - WebVirtCloud is virtualization web interface for admins and users.
 
