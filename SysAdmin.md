@@ -297,6 +297,7 @@ bro / zeek
 - [Warpinator](https://github.com/linuxmint/warpinator) - Share files across the LAN 
 
 ## Firewall
+- [HiddenWall](https://github.com/CoolerVoid/HiddenWall) - Tool to generate a Linux kernel module for custom rules with Netfilter hooking. (block ports, Hidden mode, firewall functionst).
 - iptables
   - [iptables-essentials](https://github.com/trimstray/iptables-essentials) -  Iptables Essentials: Common Firewall Rules and Commands.
 - [UFW - Uncomplicated Firewall]()
