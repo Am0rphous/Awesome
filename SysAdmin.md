@@ -247,6 +247,8 @@ bro / zeek
 - [Ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Ansible Tower offers free for handling up to 10 nodes.
   - [Ansible-template-ui](https://github.com/sivel/ansible-template-ui) - Web UI for testing ansible templates.
   - [Ansible-VMware-Workstation-Fusion-Pro-Modules](https://github.com/qsypoq/Ansible-VMware-Workstation-Fusion-Pro-Modules) - Ansible meet VMware Workstation/Fusion Pro.
+- [Cockpit](https://cockpit-project.org/) - Cockpit is a web-based graphical interface for servers.
+  - [Applications](https://cockpit-project.org/applications.html) - The Cockpit Web Console is extendable. The Cockpit team and others have built applications that are easy to install.
 - [Guide To Install Missing Firmware in Debian](https://www.techbrackets.com/install-missing-firmware-debian/) - Looking to install missing firmware in Debian or Ubuntu, then use this step by step guide.
 - [Puppet](https://github.com/puppetlabs/puppet/) - Server automation framework and application. [Puppet.com](https://puppet.com/)
   - [Puppet Consul](https://github.com/solarkennedy/puppet-consul) - A Puppet Module to Manage Consul.
