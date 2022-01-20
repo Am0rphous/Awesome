@@ -492,6 +492,7 @@ upstream_recursive_servers:
     - [TigerVNC](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server.
     - [xVNC](http://xvnc.sourceforge.net/)
 - [SSH](https://www.openssh.com)
+  - [Aker SSH Gateway](https://github.com/aker-gateway/Aker) - SSH bastion/jump host/jumpserver.
   - [DropBear SSH](https://github.com/mkj/dropbear) - S smallish SSH server and client. [https://matt.ucc.asn.au](https://matt.ucc.asn.au)
   - [Portable OpenSSH](https://github.com/openssh/openssh-portable)
   - [SSH2]() - SSH2 client and server modules written in pure JavaScript for node.js.
