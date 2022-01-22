@@ -308,13 +308,13 @@ Communicate clearly <br>
 - [Ly](https://github.com/nullgemm/ly) - Ly is a lightweight TUI (ncurses-like) display manager for Linux and BSD.
 - [Nacos](https://github.com/alibaba/nacos) - An easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
 - [Prompts](https://github.com/terkelg/prompts#selectmessage-choices-initial-hint-warn) - ❯ Lightweight, beautiful and user-friendly interactive prompts.
+- [Roadmap to becoming a developer in 2022 ](https://github.com/kamranahmedse/developer-roadmap)
 - [Thonny PyDev](https://github.com/thonny/thonny) - Python IDE for beginners.
 - [Vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 - [Vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [Wing](https://github.com/kbrsh/wing) - A beautiful CSS framework designed for minimalists [kbrsh.github.io](https://kbrsh.github.io/wing/).
   ### API
   - [Kong](https://github.com/Kong/kong) - The Cloud-Native API Gateway.
-
 
   ### Backend
   - [SupaBase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
