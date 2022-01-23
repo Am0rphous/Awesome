@@ -217,6 +217,7 @@ bro / zeek
 - [KasperSky's Free Ransomware Decryptors](https://noransom.kaspersky.com/)
 
 ## Benchmarking
+- [A beginners guide to performance testing](https://medium.com/sopra-steria-norge/a-beginners-guide-to-performance-testing-4ed13ac87e6d)
 - [ipc_benchmark](https://github.com/detailyang/ipc_benchmark) - IPC benchmark on Linux.
 - [peakperf](https://github.com/Dr-Noob/peakperf) - Microbenchmark to achieve peak performance on x86_64 CPUs and NVIDIA GPUs.
 - [phoronix-test-suite.com](https://www.phoronix-test-suite.com) - Open-Source, Automated Benchmarking.
