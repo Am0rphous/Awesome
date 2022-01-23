@@ -45,6 +45,7 @@ https://github.com/WebAssembly/wabt
   - [Angr Documentation](https://github.com/angr/angr-doc)
   - [Angr Gui](https://github.com/angr/angr-management) - A GUI for angr.
 - [BinWalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool.
+- [Cwe_checker](https://github.com/fkie-cad/cwe_checker) - cwe_checker finds vulnerable patterns in binary executables.
 - [DBA](https://github.com/s0i37/DBA) - Dynamic Binary Analysis scripts.
 - [Fq](https://github.com/wader/fq) - jq for binary formats.
 - [Pharos ](https://github.com/cmu-sei/pharos) - Automated static analysis tools for binary programs.
