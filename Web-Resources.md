@@ -72,8 +72,7 @@
 
 
 ## Intel
-
--[ncia.nato.int](https://www.ncia.nato.int/index.html) - NATO Communications and Information Agency
+- [ncia.nato.int](https://www.ncia.nato.int/index.html) - NATO Communications and Information Agency
 - [Submarine Cable Map](https://www.submarinecablemap.com/)
 
   ### Norway
