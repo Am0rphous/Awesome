@@ -473,6 +473,7 @@ Communicate clearly <br>
 - [Inventory Hunter](https://github.com/EricJMarti/inventory-hunter) - Get notified as soon as your next CPU, GPU, or game console is in stock.
 
 ## InfoSec
+- [academy.picussecurity.com](https://academy.picussecurity.com) - Open access cybersecurity courses
 - [academy.attackiq.com](https://academy.attackiq.com)
 - MITRE ATT&CK - https://attack.mitre.org/
         - https://mitre-attack.github.io/attack-navigator/enterprise/
