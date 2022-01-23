@@ -378,6 +378,7 @@ Communicate clearly <br>
     #### Matlab
     - [Awesome MATLAB](https://github.com/mikecroucher/awesome-MATLAB) - A curated list of awesome MATLAB toolboxes, applications, software and resources.
     - [Awesome MATLAB & Simulink Hackathons](https://github.com/mathworks/awesome-matlab-hackathons) - This repository is a resource center for hackathon participants! Check out the readme file to find getting started resources and inspiration for your next hack!
+    - [Awesome MATLAB and Simulink Robotics](https://github.com/mathworks-robotics/awesome-matlab-robotics) - This is a list of awesome demos, tutorials, utilities and overall resources for the robotics community that use MATLAB and Simulink. 
     #### Nim
     - [GUI Options for Nim](https://matthiashager.com/gui-options-for-nim)
     - [Nimwsnetproxy](https://github.com/skelsec/nimwsnetproxy) - Websockets-tcp proxy in nim.
