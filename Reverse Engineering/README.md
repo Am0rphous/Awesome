@@ -44,7 +44,6 @@ https://github.com/WebAssembly/wabt
 - [Angr](https://github.com/angr/angr) -  A powerful and user-friendly binary analysis platform.
   - [Angr Documentation](https://github.com/angr/angr-doc)
   - [Angr Gui](https://github.com/angr/angr-management) - A GUI for angr.
-- [BinWalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool.
 - [Cwe_checker](https://github.com/fkie-cad/cwe_checker) - cwe_checker finds vulnerable patterns in binary executables.
 - [DBA](https://github.com/s0i37/DBA) - Dynamic Binary Analysis scripts.
 - [Fq](https://github.com/wader/fq) - jq for binary formats.
@@ -110,7 +109,6 @@ Linux commands
 file              #determine file type
 getcap            #examine file capabilities
 ````
-
   ### File Conversion
   - [Dex2Jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files.
   - [Enjarify](https://github.com/Storyyeller/enjarify) - tool for translating Dalvik bytecode to equivalent Java bytecode.
@@ -118,6 +116,11 @@ getcap            #examine file capabilities
 
   ### PHP
   - [reverse-php-malware](https://github.com/bediger4000/reverse-php-malware) - De-obfuscate and reverse engineer PHP malware.
+
+## Firmware
+- [BinWalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool.
+- [The Firmware Analysis and Comparison Tool (FACT)](https://github.com/fkie-cad/FACT_core) - Firmware Analysis and Comparison Tool.
+
 
 ## Frameworks
 - [Cutter](https://github.com/radareorg/cutter) - Free and open-source reverse engineering framework powered by radare2.
