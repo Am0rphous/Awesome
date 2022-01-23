@@ -104,6 +104,7 @@ Communicate clearly <br>
 - [Awesome Cybersecurity Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam) - 💻🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
 - [Awesome Design](https://github.com/gztchan/awesome-design) - Curated design resources.
 - [Awesome DevSecOps](https://github.com/devsecops/awesome-devsecops) - An authoritative list of awesome devsecops tools with the help from community experiments and contributions.
+- [Awesome Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security#awesome-embedded-and-iot-security-) - A curated list of awesome embedded and IoT security resources.
 - [Awesome Fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统.
 - [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) - A collection of hacking / penetration testing resources to make you better.
 - [Awesome Humane Tech](https://github.com/humanetech-community/awesome-humane-tech)
