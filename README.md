@@ -112,6 +112,7 @@ Communicate clearly <br>
 - [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk)
 - [Awesome Industrial Control System Security](https://github.com/hslatman/awesome-industrial-control-system-security) - A curated list of resources related to Industrial Control System (ICS) security.
 - [Awesome Intelligence Writing](https://github.com/mxm0z/awesome-intelligence-writing) - Awesome collection of great and useful resources concerning intelligence writing such as manuals/guides, standards, books, and articles.
+- [Awesome iOS](https://github.com/vsouza/awesome-ios)
 - [Awesome jq](https://github.com/fiatjaf/awesome-jq) - A curated list of awesome jq tools and resources.
 - [Awesome Learning Resources](https://github.com/lauragift21/awesome-learning-resources) - Awesome list of resources on Web Development.
 - [Awesome List](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics.
