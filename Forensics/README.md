@@ -191,6 +191,7 @@ Description: The Portable Executable format is a file format for executables, ob
 - [OSXCollector](https://github.com/Yelp/osxcollector) - A forensic evidence collection & analysis toolkit for OS X.
 
 ## Static Analysis
+- [CodeAnalysis](https://github.com/Tencent/CodeAnalysis) - Static Code Analysis.
 - [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 
 ## Steganography
