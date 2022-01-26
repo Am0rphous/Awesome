@@ -39,6 +39,9 @@
 - [Public IOTA nodes](https://comnet.thetangle.org/nodes)
 - [Trinity Wallet (discontinued)](https://github.com/iotaledger/trinity-wallet) - The IOTA Trinity Wallet - available on App Store, Google Play and all major Desktop platforms.
 
+## Monitoring
+- [nypto](https://github.com/pbmartins/nypto) - ⭕️💰 Network monitoring solution to detect crypto-mining on local machines.
+
 ## News
 - [cryptocurrency-news-analysis](https://github.com/CyberPunkMetalHead/cryptocurrency-news-analysis) - This python module can analyse cryptocurrency news for any number of coins given and return a sentiment. Can be easily integrated with a Trading bot to keep an eye on the news.
 - [Cryptoslate.com](https://cryptoslate.com/)
