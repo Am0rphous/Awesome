@@ -5,6 +5,7 @@
 - [cPTS](https://github.com/reviewscientific2020/cPTS) - Carve for potential timestamps.
 - [Digital Forensics Lab & Shared Cyber Forensic Intelligence Repository](https://github.com/frankwxu/digital-forensics-lab) - Free hands-on digital forensics labs for students and faculty.
 - [ForensicsTools](https://github.com/mesquidar/ForensicsTools) - A list of free and open forensics analysis tools and other resources.
+- [Hashlookup-forensic-analyser](https://github.com/hashlookup/hashlookup-forensic-analyser) - Analyse a forensic target (such as a directory) to find and report files found and not found from CIRCL hashlookup public service - https://circl.lu/services/hashlookup/.
 - [Log2timeline's Plaso](https://github.com/log2timeline/plaso) - Super timeline all the things.
   - [Documentation](https://plaso.readthedocs.io/en/latest/)
 - [Guide-to-quick-forensics by securitywithoutborders](https://github.com/securitywithoutborders/guide-to-quick-forensics) - Guide to Quick Forensics.
