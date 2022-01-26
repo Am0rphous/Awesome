@@ -335,6 +335,7 @@ Communicate clearly <br>
   - [Sublime](https://www.sublimetext.com) - A sophisticated text editor for code, markup and prose.
     - [Emmet Sublime](https://github.com/sergeche/emmet-sublime) - Emmet for Sublime Text.
   - [Visual Studio Code](https://github.com/Microsoft/vscode) - [code.visualstudio.com](https://code.visualstudio.com)
+  - [VSCodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing. [homepage](https://vscodium.com/)
   - [Code Server](https://github.com/cdr/code-server) - VS Code in the browser.
 
   ### Frontend
