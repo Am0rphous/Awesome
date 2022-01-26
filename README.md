@@ -137,6 +137,7 @@ Communicate clearly <br>
 - [Awesome Ubuntu](https://github.com/awesome-soft/awesome-ubuntu) - A curated list of awesome software for Ubuntu.
 - [Awesome UNIX](https://github.com/sirredbeard/Awesome-UNIX) - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
 - [Awesome Uxn](https://github.com/hundredrabbits/awesome-uxn) - Awesome things from the community.
+- [Awesome WAF](https://github.com/0xInfection/Awesome-WAF) - 🔥 Everything about web-application firewalls (WAF).
 - [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) - A curated list of Web Security materials and resources.
 - [Awesome Workflow Engines](https://github.com/meirwah/awesome-workflow-engines) - A curated list of awesome open source workflow engines.
 - [Awesome WSL](https://github.com/sirredbeard/Awesome-WSL) - Awesome list dedicated to Windows Subsystem for Linux.
