@@ -301,6 +301,7 @@ Communicate clearly <br>
 
 ## Development
 - [Awesome Community](https://github.com/phpearth/awesome-community) - A curated list of awesome programming, development, technical support and discussion channels, groups, communities, resources and other shiny things.
+- [Capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️ .
 - [CppCheck](https://github.com/danmar/cppcheck) -  Static analysis of C/C++ code.
 - [Devilbox](https://github.com/cytopia/devilbox) - A modern Docker LAMP stack and MEAN stack for local development.
 - [DocToc](https://doctoc.herokuapp.com/) - Generates table of content for markdown files inside github repositories Tweet.
