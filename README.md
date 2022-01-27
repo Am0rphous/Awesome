@@ -524,6 +524,7 @@ Based on that data, you can find the most popular ones and their alternatives.
   - [InkScape](https://inkscape.org) - A powerful, free design tool.
   - [Krita](https://github.com/KDE/krita) - Krita is a professional free and open source painting program.
   - [LightZone](https://github.com/ktgw0316/LightZone) - LightZone is a photo editor for Mac, Windows, and Linux [lightzoneproject.org](http://lightzoneproject.org).
+  - [Lychee](https://github.com/LycheeOrg/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos. 
   - [Open @ Engine - o3de](https://o3de.org) - Source for fully featured AAA Open 3D Engine. [GitHub](https://github.com/o3de/o3de)
   - [Paint](https://www.getpaint.net) - Paint.NET is image and photo editing software for PCs that run Windows.
   - [Pinta](https://www.pinta-project.com) - Pinta is a free, open source program for drawing and image editing.
