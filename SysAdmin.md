@@ -643,6 +643,7 @@ upstream_recursive_servers:
   - KeePass Password Manager
     - [KeePassXC](https://github.com/keepassxreboot/keepassxc) - Open source password manager for Windows, Mac and Linux. [keepassxc.org](https://keepassxc.org)
     - [KeePassXC Browser Extension](https://github.com/keepassxreboot/keepassxc-browser)
+  - [OTP Auth(iOS)](https://cooperrs.de/otpauth.html) - [A Better iOS Authenticator: OTP Auth](https://greycoder.com/a-better-ios-authenticator-otp-auth/)
   - [Swifty](https://github.com/swiftyapp/swifty) - Free Offline Password Manager.
 
   ### Sandboxing tools
