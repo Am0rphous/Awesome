@@ -554,6 +554,7 @@ Based on that data, you can find the most popular ones and their alternatives.
    - [Plotly](https://pypi.org/project/plotly/) - An open-source, interactive data visualization library for Python.
      - [Plotly Dash](https://dash.plotly.com/layout)
    - [Protovis](https://mbostock.github.io/protovis/)
+   - [Qt Visual Graph Editor](https://github.com/ArsMasiuk/qvge) - QVGE is a multiplatform graph editor written in C++/Qt. Its main goal is to make possible visually edit two-dimensional graphs in a simple and intuitive way.
    - [RAWGraphs](https://github.com/rawgraphs/rawgraphs-app) - A web interface to create custom vector-based visualizations on top of RAWGraphs core.
    - [SciChart.js ](https://github.com/ABTSoftware/SciChart.JS.Examples) - JavaScript Chart Examples Suite.
    - [www.jqplot.com](http://www.jqplot.com) - jqPlot is a plotting and charting plugin for the jQuery Javascript framework. jqPlot produces beautiful line, bar and pie charts with many features.
