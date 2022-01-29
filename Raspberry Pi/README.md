@@ -3,7 +3,7 @@
 
 #### Table of content
 [Ad-block software](https://github.com/Am0rphous/Awesome/tree/master/Raspberry%20Pi#ad-block-software)
-  - [BlackList](https://github.com/Am0rphous/Awesome/tree/master/Raspberry%20Pi#blacklists)
+- [BlackList](https://github.com/Am0rphous/Awesome/tree/master/Raspberry%20Pi#blacklists)
 [Alternatives to Raspberry Pi](https://github.com/Am0rphous/Awesome/tree/master/Raspberry%20Pi#alternatives-to-raspberry-pi)
 [Guides, Help and Setup](https://github.com/Am0rphous/Awesome/tree/master/Raspberry%20Pi#guides-help-and-setup)
 [Home Automation Software](https://github.com/Am0rphous/Awesome/tree/master/Raspberry%20Pi#home-automation-software)
