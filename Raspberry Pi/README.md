@@ -1,16 +1,7 @@
 # Raspberry Pi
-- Free space tip (~2GB:
-  ````powershell
-  sudo apt-get purge wolfram*
-  ````
-- [Armbian Linux build tools](https://github.com/armbian/build)
-- [Index of /magpi-issues (The MagPi Magazine)](https://www.raspberrypi.org/magpi-issues/)
-  - [The MagPi - Issue 85 September 2019](https://www.raspberrypi.org/magpi-issues/MagPi85.pdf)
-- [Rpi_zram](https://github.com/novaspirit/rpi_zram) - script to enable zram for raspberry pi.
-- [System_info](https://github.com/kencormack/system_info) - A Raspberry Pi System Configuration Reporting Tool.
-- [TinyUSB](https://github.com/hathach/tinyusb) - _An open source cross-platform USB stack for embedded system._
 
-Table of content
+
+##Table of content
 - [Ad-block software](https://github.com/Am0rphous/Awesome/tree/master/Raspberry%20Pi#ad-block-software)
   - [BlackList](https://github.com/Am0rphous/Awesome/tree/master/Raspberry%20Pi#blacklists)
 - [Alternatives to Raspberry Pi](https://github.com/Am0rphous/Awesome/tree/master/Raspberry%20Pi#alternatives-to-raspberry-pi)
@@ -23,6 +14,10 @@ Table of content
 - [Projects](https://github.com/Am0rphous/Awesome/tree/master/Raspberry%20Pi#projects)
   - [Weather Station](https://github.com/Am0rphous/Awesome/tree/master/Raspberry%20Pi#weather-station)
 - [Software for the Raspberry](https://github.com/Am0rphous/Awesome/tree/master/Raspberry%20Pi#software-for-the-raspberry)
+  - [Tools and Tips](https://github.com/Am0rphous/Awesome/tree/master/Raspberry%20Pi#tools-and-tips)
+
+<br>
+<br>
 
 ## Ad-block software
 - [Blocky](https://github.com/0xERR0R/blocky) - DNS proxy as ad-blocker for local network.
@@ -162,4 +157,14 @@ Table of content
 - [OMX image viewer](https://github.com/HaarigerHarald/omxiv) - OpenMax image viewer for the Raspberry Pi.
 - [Raspberry Telegram Status](https://github.com/Datalux/raspberry-telegram-status) - A simple RaspberryPi monitor for temperature and disk usage using Telegram bot.
 - [XBian](https://github.com/xbianonpi/xbian) - _XBMC on Raspberry Pi, Bleeding Edge [xbian.org](https://xbian.org)._
-
+### Tools and Tips
+- Free space tip (~2GB:
+  ````powershell
+  sudo apt-get purge wolfram*
+  ````
+- [Armbian Linux build tools](https://github.com/armbian/build)
+- [Index of /magpi-issues (The MagPi Magazine)](https://www.raspberrypi.org/magpi-issues/)
+  - [The MagPi - Issue 85 September 2019](https://www.raspberrypi.org/magpi-issues/MagPi85.pdf)
+- [Rpi_zram](https://github.com/novaspirit/rpi_zram) - script to enable zram for raspberry pi.
+- [System_info](https://github.com/kencormack/system_info) - A Raspberry Pi System Configuration Reporting Tool.
+- [TinyUSB](https://github.com/hathach/tinyusb) - _An open source cross-platform USB stack for embedded system._
