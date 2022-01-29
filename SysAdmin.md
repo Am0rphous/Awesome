@@ -209,6 +209,7 @@ bro / zeek
 - [Gossin-backup](https://github.com/githubgossin/gossin-backup) - Simple backup script written in Bash.
 - [Linux Time Machine](https://github.com/cytopia/linux-timemachine) - Rsync-based OSX-like time machine for Linux, MacOS and BSD for atomic and resumable local and remote backups.
 - [Veeam Backup & Replication Community Editio](https://www.veeam.com/virtual-machine-backup-solution-free.html) - FREE backup software for VMware and Hyper-V, as well as physical servers, workstations, laptops and cloud instances.
+- [Rclone](https://rclone.org/)
 - [Rsync time backup](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync.
 - [TimeShift](https://github.com/teejee2008/timeshift) - Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB. 
 
@@ -634,6 +635,7 @@ upstream_recursive_servers:
   - [Test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
 
   ### Password Managers
+  - [Authy](https://authy.com/)
   - Bitwarden Password Manager
     - [Bitwarden CLI](https://github.com/bitwarden/cli) - Full-featured command-line interface (CLI) tool to access and manage a Bitwarden vault
     - [Bitwarden Desktop](https://github.com/bitwarden/desktop) - The desktop vault (Windows, macOS, & Linux).
