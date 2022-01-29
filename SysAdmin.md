@@ -720,6 +720,9 @@ upstream_recursive_servers:
     - [tmux-mem-cpu-load](https://github.com/thewtex/tmux-mem-cpu-load) - CPU, RAM, and load monitor for use with tmux.
     - [Tmux xPanes](https://github.com/greymd/tmux-xpanes) - Create multiple tmux terminals.
 
+  ### Text Editors
+  - [Vim-galore](https://github.com/mhinz/vim-galore) - 🎓 All things Vim!
+
   ### Scripting
   - [Awesome-Scripts by DedSecInside](https://github.com/DedSecInside/Awesome-Scripts) - A collection of awesome scripts from developers around the globe.
   - [HuePy](https://github.com/s0md3v/huepy) - Print awesomely in terminals.
