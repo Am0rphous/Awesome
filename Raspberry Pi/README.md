@@ -163,8 +163,10 @@
   sudo apt-get purge wolfram*
   ````
 - [Armbian Linux build tools](https://github.com/armbian/build)
+- [ESXi Arm](https://flings.vmware.com/esxi-arm-edition)
 - [Index of /magpi-issues (The MagPi Magazine)](https://www.raspberrypi.org/magpi-issues/)
   - [The MagPi - Issue 85 September 2019](https://www.raspberrypi.org/magpi-issues/MagPi85.pdf)
+- [PiKVM](https://github.com/pikvm/pikvm) - Open and cheap DIY IP-KVM based on Raspberry Pi.
 - [Rpi_zram](https://github.com/novaspirit/rpi_zram) - script to enable zram for raspberry pi.
 - [System_info](https://github.com/kencormack/system_info) - A Raspberry Pi System Configuration Reporting Tool.
 - [TinyUSB](https://github.com/hathach/tinyusb) - _An open source cross-platform USB stack for embedded system._
