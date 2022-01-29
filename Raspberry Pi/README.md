@@ -55,6 +55,7 @@
   - [homebridge-ws](https://github.com/ebaauw/homebridge-ws) -  Homebridege plugin for virtual weather station.
 - [Hue-cli](https://github.com/bahamas10/hue-cli) - A command line interface to phillips hue.
 - [PiMonitor](https://github.com/Buzz2d0/PiMonitor) - golang + RaspberryPi 实现可控制的WEB视频监控器.
+  - [On-Guard](https://github.com/Ken98045/On-Guard) - Adds Artificial Intelligence to almost any security camera that supports HTTP, ONVIF or FTP. It uses DeepStack as the AI engine. It allows the user to easily create areas in a photo that should trigger an action (HTTP/email/MQTT) or ignore activity in that area. It can dramatically reduce the incidents of picture false alarms. It can optionally …
 - [Zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 
 ## Magic Mirror repos
