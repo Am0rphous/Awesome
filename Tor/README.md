@@ -11,13 +11,14 @@
 
 ## Setup
 - [Docker: tor obfs4 bridge](https://github.com/fphammerle/docker-tor-obfs4-bridge) - Tor bridge running obfs4 obfuscation protocol in Alpine 🐳.
+- [Nyx](https://nyx.torproject.org/) - Nyx is a command-line monitor for Tor. With this you can get detailed real-time information about your relay such as bandwidth usage, connections, logs, and much more.
 - [Tor-alpine](https://github.com/klemmchr/tor-alpine) - Simple, minimal and self updating docker image for Tor based on Alpine Linux.
 - [Tor Relay Guide - Security](https://gitlab.torproject.org/legacy/trac/-/wikis/TorRelayGuide/Security)
 - [Tor Relay Server on Docker (Alpine)](https://github.com/chriswayg/tor-alpine) - 🐳 A Small Tor Relay Server with obfs4proxy on Alpine Linux on Docker.
 - [www.torproject.org/download/](https://www.torproject.org/download/)
 <br>Linux
 ````powershell
-sudo apt install tor torbrowser-launcher
+sudo apt install tor torbrowser-launcher nyx
 sudo service tor status
 netstat -tulpn | grep tor
 ````
@@ -26,6 +27,14 @@ netstat -tulpn | grep tor
 sudo apt install proxychains-ng -y
 proxychains curl ifconfig.me                 # should list tor IP
 proxychains program-name program-options
+````
+
+### Nyx - problem
+- "Cannot read TOR's control_auth_cookie"
+- Run
+````powershell
+sudo usermod -aG $USER debian-tor
+sudo chmod 644 /run/tor/control.authcookie
 ````
 
 ## Log Files and practical commands
