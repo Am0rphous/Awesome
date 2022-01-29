@@ -10,6 +10,20 @@
 - [System_info](https://github.com/kencormack/system_info) - A Raspberry Pi System Configuration Reporting Tool.
 - [TinyUSB](https://github.com/hathach/tinyusb) - _An open source cross-platform USB stack for embedded system._
 
+Table of content
+- [Ad-block software](https://github.com/Am0rphous/Awesome/tree/master/Raspberry%20Pi#ad-block-software)
+  - [BlackList](https://github.com/Am0rphous/Awesome/tree/master/Raspberry%20Pi#blacklists)
+- [Alternatives to Raspberry Pi](https://github.com/Am0rphous/Awesome/tree/master/Raspberry%20Pi#alternatives-to-raspberry-pi)
+- [Guides, Help and Setup](https://github.com/Am0rphous/Awesome/tree/master/Raspberry%20Pi#guides-help-and-setup)
+- [Home Automation Software](https://github.com/Am0rphous/Awesome/tree/master/Raspberry%20Pi#home-automation-software)
+- [Magic Mirror repos](https://github.com/Am0rphous/Awesome/tree/master/Raspberry%20Pi#magic-mirror-repos)
+- [Different Operatingsystems to run on Raspberry](https://github.com/Am0rphous/Awesome/tree/master/Raspberry%20Pi#different-operatingsystems-to-run-on-raspberry)
+  - [Operatingsystems for gaming](https://github.com/Am0rphous/Awesome/tree/master/Raspberry%20Pi#operatingsystems-for-gaming)
+    - [Gaming Software](https://github.com/Am0rphous/Awesome/tree/master/Raspberry%20Pi#gaming-software)
+- [Projects](https://github.com/Am0rphous/Awesome/tree/master/Raspberry%20Pi#projects)
+  - [Weather Station](https://github.com/Am0rphous/Awesome/tree/master/Raspberry%20Pi#weather-station)
+- [Software for the Raspberry](https://github.com/Am0rphous/Awesome/tree/master/Raspberry%20Pi#software-for-the-raspberry)
+
 ## Ad-block software
 - [Blocky](https://github.com/0xERR0R/blocky) - DNS proxy as ad-blocker for local network.
 - [PiHole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements.
@@ -127,7 +141,7 @@
    - [RetroArch](https://github.com/libretro/RetroArch) - RetroArch is a frontend for emulators, game engines and media players [www.retroarch.com](https://www.retroarch.com).
      - Install it as a snap package with `sudo snap install retroarch`
    - [RetroPie](https://retropie.org.uk/) - RetroPie allows you to turn your Raspberry Pi, ODroid C1/C2, or PC into a retro-gaming machine [RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup).
-     ## Gaming Software
+     #### Gaming Software
      - [dosbox / dosbox-staging](https://github.com/dosbox-staging/dosbox-staging) - DOS/x86 emulator focusing on ease of use.
        - Install with `sudo apt install dosbox`
 
