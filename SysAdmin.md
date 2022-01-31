@@ -220,10 +220,11 @@ bro / zeek
 ## Benchmarking
 - [A beginners guide to performance testing](https://medium.com/sopra-steria-norge/a-beginners-guide-to-performance-testing-4ed13ac87e6d)
 - [ipc_benchmark](https://github.com/detailyang/ipc_benchmark) - IPC benchmark on Linux.
-- [peakperf](https://github.com/Dr-Noob/peakperf) - Microbenchmark to achieve peak performance on x86_64 CPUs and NVIDIA GPUs.
-- [phoronix-test-suite.com](https://www.phoronix-test-suite.com) - Open-Source, Automated Benchmarking.
+- [Peakperf](https://github.com/Dr-Noob/peakperf) - Microbenchmark to achieve peak performance on x86_64 CPUs and NVIDIA GPUs.
+- [Phoronix-test-suite.com](https://www.phoronix-test-suite.com) - Open-Source, Automated Benchmarking.
   - [openbenchmarking.org](https://openbenchmarking.org) - Storage of Phoronix Test Suite benchmark result data (including optional system logs, etc).
   - [Phoronix Test Suite on Github](https://github.com/phoronix-test-suite/phoronix-test-suite) - The Phoronix Test Suite open-source, cross-platform automated testing/benchmarking software.
+  - [The Stress Terminal UI: s-tui](https://amanusk.github.io/s-tui/)
 
 ## Cloud
 - [Awesome Cloud Native Security 🐿](https://github.com/brant-ruan/awesome-cloud-native-security) - This repository is used to collect AWESOME resources on the topic of cloud native security found during research.
@@ -768,6 +769,8 @@ upstream_recursive_servers:
   - [Ventoy](https://github.com/ventoy/Ventoy) - Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files [ventoy.net](https://ventoy.net/en/download.html).
   - [WoeUSB](https://github.com/WoeUSB/WoeUSB) -  A Microsoft Windows® USB installation media preparer for GNU+Linux.
   ### Power and Battery
+  - [PowerAPI](https://github.com/powerapi-ng/powerapi) - PowerAPI is a Python framework for building software-defined power meters.
+  - [PowerStat](https://launchpad.net/~colin-king/+archive/ubuntu/powermanagement) - Various tools and utilities to help measure power consumption and monitor system activity.
   - [PowerTop](https://github.com/fenrus75/powertop) - Tool used to diagnose issues with power consumption and power management.
   - [TLP](https://github.com/linrunner/TLP) - Optimize Linux Laptop Battery Life.
     Usefull commands
@@ -942,6 +945,7 @@ upstream_recursive_servers:
     - [Matamo Analytics for Wordpress](https://wordpress.org/plugins/matomo)
     - [Matomo Tracking Panel](https://github.com/thiagoarrais/grafana-matomo-tracking-panel) -  Matomo Tracking Panel for Grafana.
     - [Tutorial: Install Matomo Web Analytics (Piwik) on Ubuntu 20.04 with Apache/Nginx](https://www.linuxbabe.com/ubuntu/install-matomo-web-analytics-piwik-ubuntu-20-04-apache-nginx)
+  - [Plausible Analytics](https://github.com/plausible/analytics/) - Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
   - [SuperCookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
   - [Umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
 
