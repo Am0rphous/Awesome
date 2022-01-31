@@ -23,7 +23,7 @@
 - [pancakeswap](https://exchange.pancakeswap.finance/#/swap)
 ### Norwegian
 - [Kaupang](https://www.kaupangkrypto.no/)
-- [MiraiEx](https://www.miraiex.com/no/)
+- [Firi (former MiraiEx)](https://www.firi.com/)
 - [NBX](https://nbx.com/) - Norwegian Block Exchange er en norsk kryptobørs.
 
 ## IOTA
