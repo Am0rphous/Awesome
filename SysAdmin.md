@@ -373,6 +373,7 @@ lsscsi                          #Print SCSI Devices Info
   #### ELK-stack
   - [Elasticsearch](https://github.com/elastic/elasticsearch) - Open Source, Distributed, RESTful Search Engine.
     - [detection-rules](https://github.com/elastic/detection-rules) -  Rules for Elastic Security's detection engine.
+  - [HELK](https://github.com/Cyb3rWard0g/HELK) - The Hunting ELK.
   - [LogStash](https://github.com/elastic/logstash) -  Logstash - transport and process your logs, events, or other data.
   - [Kibana](https://github.com/elastic/kibana) -  browser-based analytics and search dashboard for Elasticsearch.
    #### Good resources regarding ELK-stack
@@ -389,6 +390,7 @@ lsscsi                          #Print SCSI Devices Info
 - [LME - Logging Made Easy](https://github.com/ukncsc/lme) - Logging Made Easy is a self-install tutorial for small organisations to gain a basic level of centralised security logging for Windows clients and provide functionality to detect attacks. It's the coming together of multiple free and open-source software (some which is covered under licences other than Apache V2), where LME helps the reader integrate them together to produce an end-to-end logging capability. We also provide some pre-made configuration files and scripts, although there is the option to do it on your own.
 - [LogonTracer](https://github.com/JPCERTCC/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log.
 - [Malcolm](https://github.com/cisagov/Malcolm) - Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files) and Zeek logs. 
+- [Mercury](https://github.com/cisco/mercury) - Mercury: network metadata capture and analysis.
 - [Moloch](https://github.com/aol/moloch) - Moloch is an open source, large scale, full packet capturing, indexing, and database system. 
 - [Netsniff-ng](https://github.com/netsniff-ng/netsniff-ng) - A Swiss army knife for your daily Linux network plumbing.
 - [NetworkMiner](https://www.netresec.com/?page=Networkminer) - open source Network Forensic Analysis Tool (NFAT) for Windows (but also works in Linux / Mac OS X / FreeBSD). 
