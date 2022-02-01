@@ -436,6 +436,7 @@ lsscsi                          #Print SCSI Devices Info
 - [Flare-fakenet-ng](https://github.com/fireeye/flare-fakenet-ng) - Next Generation Dynamic Network Analysis Tool.
 - [GNs3-server](https://github.com/GNS3/gns3-server) - The GNS3 server manages emulators such as Dynamips, VirtualBox or Qemu/KVM. [www.gns3.com](https://www.gns3.com)
   - [GNs3-gui](https://github.com/GNS3/gns3-gui) - GNS3 Graphical Network Simulator.
+- [Go-netstat](https://github.com/cakturk/go-netstat) - A netstat implementation written in Go.
 - [GPing](https://github.com/orf/gping) - Ping, but with a graph.
 - [Hozz](https://github.com/ppoffice/Hozz/) - [Development indefinitely suspended] A better way to manage your hosts.
 - [Htrace.sh](https://github.com/trimstray/htrace.sh) - My simple Swiss Army knife for http/https troubleshooting and profiling.
