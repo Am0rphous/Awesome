@@ -101,6 +101,7 @@ Communicate clearly <br>
 - [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [Awesome cve poc](https://github.com/qazbnm456/awesome-cve-poc) - A curated list of CVE PoCs.
 - [Awesome Cyber Security](https://github.com/alphaSeclab/awesome-cyber-security) - Currently contains 8000+ open source repositories, and not very well classified.
+- [Awesome Cyber Security Newsletters](https://github.com/TalEliyahu/awesome-security-newsletters) - Periodic cyber security newsletters that capture the latest news, summaries of conference talks, research, best practices, tools, events, vulnerabilities, and analysis of trending threats and attacks.
 - [Awesome Cybersecurity Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam) - 💻🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
 - [Awesome Cybersecurity Interships](https://github.com/paralax/awesome-cybersecurity-internships) - a list of cybersecurity internships.
 - [Awesome Design](https://github.com/gztchan/awesome-design) - Curated design resources.
