@@ -233,6 +233,7 @@ bro / zeek
 - Azure
   - [Azure Red Team](https://github.com/rootsecdev/Azure-Red-Team) - Azure Security Resources and Notes.
 - [Cloud Foundry](https://www.cloudfoundry.org) - [github.com/cloudfoundry](https://github.com/cloudfoundry) Cloud Foundry provides a highly efficient, modern model for cloud native application delivery on top of Kubernetes.
+- [Localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline! 
 - [Mist.io](https://mist.io) - Mist is an open source multicloud management platform.
 - [OpenShift](https://www.openshift.com) - [github.com/openshift](https://github.com/openshift) Red Hat OpenShift is the hybrid cloud platform of open possibility: powerful, so you can build anything and flexible, so it works anywhere.
 - OpenStack - The Most Widely Deployed Open Source Cloud Software in the World
