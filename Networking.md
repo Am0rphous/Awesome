@@ -81,6 +81,7 @@
 - [Project V](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions. [Official website](https://www.v2fly.org)
 - [Redsocks – transparent TCP-to-proxy redirector](https://github.com/darkk/redsocks) -  transparent TCP-to-proxy redirector.
 - [RPIVOT](https://github.com/klsecservices/rpivot) - socks4 reverse proxy for penetration testing.
+- [Snicat](https://github.com/CTFd/snicat) - TLS & SNI aware netcat.
 - [SSLproxy](https://github.com/sonertari/SSLproxy) - Transparent SSL/TLS proxy for decrypting and diverting network traffic to other programs, such as UTM services, for deep SSL inspection.
 - [Squid](http://www.squid-cache.org/) - Squid is a caching proxy for the Web supporting HTTP, HTTPS, FTP, and more. It reduces bandwidth and improves response times by caching and reusing frequently-requested web pages.
 - [tcp-over-http](https://github.com/neex/tcp-over-http#current-status) - This program is just a proxy server which multiplexes TCP connections into an HTTPS. The primary purpose is to make all connections look like legitimate ones for firewalls (including DPI).
