@@ -100,6 +100,7 @@ virt-viewer vnc://localhost:5901
 - [Hosting](https://github.com/DanWin/hosting) - Setup for a Tor based shared web hosting server.
 - [Multitor](https://github.com/trimstray/multitor) -  Create multiple TOR instances with a load-balancing.
 - [Onion-Hunter](https://github.com/cribdragg3r/Onion-Hunter) - _Hunt and Analyze Tor Onion Sites._
+- [OnionJuggler](https://github.com/nyxnor/onionjuggler) - Manage your Onion Services via CLI or TUI on Unix-like operating system with a POSIX compliant shell.
 - [Onion-link-list](https://github.com/DanWin/onion-link-list) - A set of scripts to list tor hidden services.
 - [PICKYONION](https://github.com/maliciousgroup/PICKYONION) - PICKYONION is a private red team python library focused on leveraging TOR to establish secure communication and hidden service hosting.
 - [Real-world-onion-sites](https://github.com/alecmuffett/real-world-onion-sites) - list of substantial, commercial-or-social-good mainstream websites which provide onion services. 
