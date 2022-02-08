@@ -44,13 +44,14 @@ https://github.com/WebAssembly/wabt
   - [Appium](https://github.com/appium/appium) - open-source, cross-platform test automation tool for native, hybrid, and mobile web and desktop apps.
 
 ## [Binary Analysis](https://www.gnu.org/software/binutils/)
-- [Angr](https://github.com/angr/angr) -  A powerful and user-friendly binary analysis platform.
+- [Angr](https://github.com/angr/angr) - A powerful and user-friendly binary analysis platform.
   - [Angr Documentation](https://github.com/angr/angr-doc)
   - [Angr Gui](https://github.com/angr/angr-management) - A GUI for angr.
 - [Cwe_checker](https://github.com/fkie-cad/cwe_checker) - cwe_checker finds vulnerable patterns in binary executables.
 - [DBA](https://github.com/s0i37/DBA) - Dynamic Binary Analysis scripts.
 - [Fq](https://github.com/wader/fq) - jq for binary formats.
 - [Pharos ](https://github.com/cmu-sei/pharos) - Automated static analysis tools for binary programs.
+- [The Life of Binaries](https://opensecuritytraining.info/LifeOfBinaries.html)
 - [Viper](https://github.com/viper-framework/viper) -Viper is a binary analysis and management framework.
 ### PE - Portable Executables binaries
 - [Pev](https://github.com/merces/pev) - The PE file analysis toolkit.
