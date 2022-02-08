@@ -164,6 +164,7 @@
   sudo apt-get purge wolfram*
   ````
 - [Armbian Linux build tools](https://github.com/armbian/build)
+- [Emergency Mode Due to Bad fstab](https://www.clarkle.com/notes/emergecy-mode-bad-fstab/)
 - [ESXi Arm](https://flings.vmware.com/esxi-arm-edition)
 - [Index of /magpi-issues (The MagPi Magazine)](https://www.raspberrypi.org/magpi-issues/)
   - [The MagPi - Issue 85 September 2019](https://www.raspberrypi.org/magpi-issues/MagPi85.pdf)
