@@ -51,6 +51,7 @@ _“Intelligence is the ability to avoid doing work, yet getting the work done -
 - [Virtualization](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#virtualization)
   - [Container Technologies](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#container-technologies)
     - [Container orchestration](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#container-orchestration)
+  - [Hypervisors](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#hypervisors)
   - [Machines](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#machines)
 - [Web / Proxy](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#web-and-proxy-tools)
   - [Web Analytics](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#web-analytics)
@@ -856,6 +857,17 @@ upstream_recursive_servers:
    - [CTop](https://github.com/bcicen/ctop/) - Top-like interface for container metrics [ctop.sh](https://ctop.sh).
      - [ctop – Top-like Interface for Monitoring Docker Containers](https://www.tecmint.com/ctop-monitor-docker-containers/)
    - [ThreatMapper](https://github.com/deepfence/ThreatMapper) - Identify vulnerabilities in running containers, images, hosts and repositories.
+
+   ### Hypervisors
+   - [Openvz](https://download.openvz.org/virtuozzo/releases/7.0/x86_64/iso/)
+   - [Oracle VM Server for x86](https://www.oracle.com/in/a/ocom/docs/ovm-server-for-x86-459312.pdf)
+   - [oVirt](https://www.ovirt.org/download/) - oVirt is an open-source distributed virtualization solution developed for Linux operating systems such as RedHat Enterprise, CentOS, Scientific Linux, Fedora 28, and also available as oVirt Node which is CentOS based. It is a Linux KVM hypervisor designed for enterprise infrastructure.
+   - [Proxmox](https://www.proxmox.com/en/downloads) - Proxmox VE is a complete open-source virtualization management platform that closely integrates two virtualization technologies: KVM (Kernel-based Virtual Machine) hypervisor and Linux container (LXC) to provide enterprise-class virtualization.
+   - [SmartOS](https://wiki.smartos.org/download-smartos/) - SmartOS is a free and open-source SVR4 hypervisor based on the UNIX operating system that combines OpenSolaris technology with Linux’s KVM virtualization. It employs NetBSD pkgsrc package management.
+   - [VMware free ESXi](https://customerconnect.vmware.com/en/web/vmware/evalcenter?p=free-esxi6) - The user needs to enter the free license key to use the Vmware Type1 hypervisor otherwise it will expire after 60 days.
+   - [Xen Project](https://xenproject.org/users/virtualization/) - Xen is an open-source software platform or Linux hypervisor distro maintained by the global community of developers  It supports virtualization for x86, x86_64, IA64, ARM, and other CPU architectures. The Xen hypervisor is an enterprise-class alternative to proprietary virtualization platforms and hypervisors for x86 and IA64 platforms. Besides the open-source, it also available in the commercial version from Citrix.
+   - [XenServer](https://xenserver.org/) - XenServer hypervisor runs an open-source type-1 or bare-metal hypervisor available in three versions: community, standard, and enterprise.
+   
 
    ### Virtual Machines
    - [Ganeti](https://github.com/ganeti/ganeti) - Ganeti is a virtual machine cluster management tool built on top of existing virtualization technologies such as Xen or KVM and other open source software.
