@@ -99,6 +99,7 @@ virt-viewer vnc://localhost:5901
 - [Fresh Onions TOR Hidden Service Crawler](https://github.com/dirtyfilthy/freshonions-torscraper) - Fresh Onions is an open source TOR spider / hidden service onion crawler hosted at zlal32teyptf4tvi.onion.
 - [Hosting](https://github.com/DanWin/hosting) - Setup for a Tor based shared web hosting server.
 - [Multitor](https://github.com/trimstray/multitor) -  Create multiple TOR instances with a load-balancing.
+- [oniongrok](https://github.com/cmars/oniongrok) - oniongrok forwards ports on the local host to remote Onion addresses as Tor hidden services and vice-versa.
 - [Onion-Hunter](https://github.com/cribdragg3r/Onion-Hunter) - _Hunt and Analyze Tor Onion Sites._
 - [OnionJuggler](https://github.com/nyxnor/onionjuggler) - Manage your Onion Services via CLI or TUI on Unix-like operating system with a POSIX compliant shell.
 - [Onion-link-list](https://github.com/DanWin/onion-link-list) - A set of scripts to list tor hidden services.
