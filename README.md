@@ -382,6 +382,7 @@ Communicate clearly <br>
     - [Flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨.
     - [React](https://reactjs.org/) - A declarative, efficient, and flexible JavaScript library for building user interfaces. [Github](https://github.com/facebook/react)
       - [React Query](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React.
+    - [Vanta JS](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website.
     #### JQuery
     - [Awesome jQuery](https://github.com/petk/awesome-jquery) - A curated list of awesome jQuery plugins, resources and other shiny things.
     - [jquerytools.org](http://jquerytools.org/demos/) - [github](https://github.com/jquerytools/jquerytools)
