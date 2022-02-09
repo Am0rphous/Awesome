@@ -29,6 +29,7 @@ _“Intelligence is the ability to avoid doing work, yet getting the work done -
 - [Network Tools](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#network-tools)
   - [DHCP](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#dhcp)
   - [DNS](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#dns)
+  - [Homelab](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#homelab)
   - [Network Visualization](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#network-visualization)
   - [Remoting](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#remoting)
     - [VPN - Virtual Private Network](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#vpn---virtual-private-network)
@@ -471,6 +472,8 @@ upstream_recursive_servers:
     tls_port: 853
     tls_auth_name: "cloudflare-dns.com"
 ````
+  ### Homelab
+  - [Homelab](https://github.com/khuedoan/homelab) - Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
   ### Network Visualization
     - [Fantastic Full Source Code](https://github.com/besimorhino/project-fantastic) - visualizing tool made by InfoSec Innovations for exploring computer networks.
     - [Quark](https://github.com/s0md3v/Quark) - Quark is a data visualization framework.
@@ -507,7 +510,8 @@ upstream_recursive_servers:
   - [Aker SSH Gateway](https://github.com/aker-gateway/Aker) - SSH bastion/jump host/jumpserver.
   - [DropBear SSH](https://github.com/mkj/dropbear) - S smallish SSH server and client. [https://matt.ucc.asn.au](https://matt.ucc.asn.au)
   - [Portable OpenSSH](https://github.com/openssh/openssh-portable)
-  - [SSH2]() - SSH2 client and server modules written in pure JavaScript for node.js.
+  - [SSH2](https://github.com/mscdex/ssh2) - SSH2 client and server modules written in pure JavaScript for node.js.
+  - [SSH-tools](https://github.com/vaporup/ssh-tools) - Making SSH more convenient.
   - [SSH-Weak-DH](https://github.com/AonCyberLabs/SSH-Weak-DH)
   - [SSH Hardening](https://github.com/Am0rphous/CheatSheets/blob/main/Linux/ssh-hardening.md)
   - [SSH Hardening with Security Onion](https://docs.securityonion.net/en/2.3/ssh.html)
