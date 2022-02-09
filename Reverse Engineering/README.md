@@ -54,6 +54,7 @@ https://github.com/WebAssembly/wabt
 - [The Life of Binaries](https://opensecuritytraining.info/LifeOfBinaries.html)
 - [Viper](https://github.com/viper-framework/viper) -Viper is a binary analysis and management framework.
 ### PE - Portable Executables binaries
+- [Capa](https://github.com/mandiant/capa) - The FLARE team's open-source tool to identify capabilities in executable files.
 - [Pev](https://github.com/merces/pev) - The PE file analysis toolkit.
 - [XPEViewer](https://github.com/horsicq/XPEViewer) - PE file viewer/editor for Windows, Linux and MacOS.
 
