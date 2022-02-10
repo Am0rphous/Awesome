@@ -336,6 +336,8 @@ Communicate clearly <br>
   - [Graviton](https://github.com/Graviton-Code-Editor/Graviton-App) - A modern-looking Code Editor. [graviton.netlify.app](https://graviton.netlify.app/)
   - [KDevelop](https://www.kdevelop.org/) - A cross-platform IDE for C, C++, Python, QML/JavaScript and PHP.
   - [Light Table](http://lighttable.com/) - The next generation code editor.
+  - [NeoVim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability.
+    - [Tokyo Night Theme](https://github.com/folke/tokyonight.nvim) - 🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.
   - [PyCharm](https://www.jetbrains.com/pycharm) - Python IDE for Professional Developers.
   - [Spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder - The Scientific Python Development Environment.
   - [Sublime](https://www.sublimetext.com) - A sophisticated text editor for code, markup and prose.
