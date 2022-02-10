@@ -620,6 +620,7 @@ upstream_recursive_servers:
 - [Loki](https://github.com/Neo23x0/Loki) - Loki - Simple IOC and Incident Response Scanner.
 - [Lynis](https://github.com/CISOfy/Lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [Otseca](https://github.com/trimstray/otseca) - Open source security auditing tool to search and dump system configuration. It allows you to generate reports in HTML or RAW-HTML formats.
+- [PasswordPusher ](https://github.com/pglombardo/PasswordPusher) - 🔐 A dead-simple application to securely communicate passwords over the web. Passwords automatically expire after a certain number of views and/or time has passed.
 - [py_webauthn](https://github.com/duo-labs/py_webauthn) - A Python3 implementation of the WebAuthn API focused on making it easy to leverage the power of WebAuthn. This library supports all FIDO2-compliant authenticators, including security keys, Touch ID, Face ID, Windows Hello, Android biometrics...and pretty much everything else.
 - [SELinux Userspace](https://github.com/SELinuxProject/selinux) - Security Enhanced Linux (SELinux).
 - [Usb.Events](https://github.com/Jinjinov/Usb.Events) - Subscribe to the Inserted and Removed events to be notified when a USB drive is plugged in or unplugged, or when a USB device is connected or disconnected. Usb.Events is a .NET Standard 2.0 library and uses WMI on Windows, libudev on Linux and IOKit on macOS.
