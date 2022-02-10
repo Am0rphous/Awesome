@@ -426,6 +426,7 @@ Communicate clearly <br>
     #### Rust
     - [The Rust Programming Language](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
     #### Vlang
+    - [Offensive-vlang](https://github.com/alexfrancow/offensive-vlang) - POCs to test Vlang in cybersecurity aspects.
     - [V](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io.
     #### Web
     - [28+ Stylish HTML Music player With User-Friendly Features 2021 ](https://uicookies.com/html-music-player/)
