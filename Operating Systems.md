@@ -147,6 +147,7 @@
 - [Alpine Linux](https://www.alpinelinux.org) - [Alpine Gitlab](https://gitlab.alpinelinux.org)
 - [BSD Router](https://bsdrp.net) - Free open source software router distribution based on embedded FreeBSD.
 - [DD-WRT](https://dd-wrt.com) - DD-WRT is a Linux based alternative OpenSource firmware suitable for a great variety of WLAN routers and embedded systems.
+  - [DD-WRT Github](https://github.com/mirror/dd-wrt) - DD-WRT Subversion mirror.
   - [DD-WRT - Log](https://svn.dd-wrt.com/log/)
   - [DD-WRT - Timeline with changes](https://svn.dd-wrt.com/timeline)
   - Download DD-WRT - ftp://ftp.dd-wrt.com/betas/
