@@ -42,9 +42,13 @@ _“Intelligence is the ability to avoid doing work, yet getting the work done -
     - [Android Specific](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#android-specific)
     - [iOS Specific](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#ios-specific)
     - [MacOS Specific](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#macos-specific)
+  - [Linux Security](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#linux-security)
+    - [Linux Hardening Guides](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#linux-hardening-guides)
+  - [Password Managers](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#password-managers)
   - [Sandboxing tools](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#sandboxing-tools)
   - [Security Tutorials](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#security-tutorials)
   - [Windows Security](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#windows-security)
+    - [Windows Hardening Guides](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#windows-hardening-guides)
 - [Scripting](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#scripting)
 - [Terminal / Shell](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#terminal--shell)
   - [Bash](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#bash)
@@ -658,9 +662,9 @@ upstream_recursive_servers:
 
   ### Linux Security
   - [AppArmor](https://gitlab.com/apparmor/apparmor) - AppArmor is an effective and easy-to-use Linux application security system. AppArmor proactively protects the operating system and applications from external or internal threats, even zero-day attacks, by enforcing good behavior and preventing both known and unknown application flaws from being exploited.
-- [Auditd](https://manpages.ubuntu.com/manpages/jammy/en/man8/auditd.8.html) - The Linux Audit daemon.
-- [LKRG - Linux Kernel Runtime Guard](https://www.openwall.com/lkrg) -  LKRG performs runtime integrity checking of the Linux kernel and detection of security vulnerability exploits against the kernel.
-  - [Linux Kernel Runtime Guard (LKRG) for Debian, Whonix, Qubes, Kicksecure](https://www.whonix.org/wiki/Linux_Kernel_Runtime_Guard_LKRG)
+  - [Auditd](https://manpages.ubuntu.com/manpages/jammy/en/man8/auditd.8.html) - The Linux Audit daemon.
+  - [LKRG - Linux Kernel Runtime Guard](https://www.openwall.com/lkrg) -  LKRG performs runtime integrity checking of the Linux kernel and detection of security vulnerability exploits against the kernel.
+    - [Linux Kernel Runtime Guard (LKRG) for Debian, Whonix, Qubes, Kicksecure](https://www.whonix.org/wiki/Linux_Kernel_Runtime_Guard_LKRG)
   #### Linux Hardening Guides
   - [40 Linux Server Hardening Security Tips (2019 edition)](https://www.cyberciti.biz/tips/linux-security.html)
   - [Debian-cis](https://github.com/ovh/debian-cis) - PCI-DSS compliant Debian 9/10 hardening.
