@@ -41,6 +41,7 @@ _“Intelligence is the ability to avoid doing work, yet getting the work done -
   - [Authenticators](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#authenticators)
     - [Android Specific](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#android-specific)
     - [iOS Specific)(https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#ios-specific)
+    - [MacOS Specific)(https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#macos-specific)
   - [Sandboxing tools](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#sandboxing-tools)
   - [Security Tutorials](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#security-tutorials)
 - [Scripting](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#scripting)
@@ -633,6 +634,7 @@ upstream_recursive_servers:
 - [Yopass - Share Secrets Securely](https://github.com/jhaals/yopass) - Secure sharing for secrets, passwords and files.
 
   ### Authenticators
+  - [2fast](https://github.com/2fast-team/2fast) - Two-Factor Authenticator Supporting TOTP (Windows 10 & Android, iOS, Linux and macOS App).
   - [AndOTP](https://github.com/andOTP/andOTP) - Open source two-factor authentication for Android.
   - [Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
   - [Einmal](https://github.com/incipher/einmal) - ⏱ The two-factor authentication app you deserve.
@@ -654,6 +656,7 @@ upstream_recursive_servers:
   - [Authenticator](https://github.com/mattrubin/Authenticator) - Two-Factor Authentication Client for iOS.
   - [Krypton-ios](https://github.com/kryptco/krypton-ios) - Krypton turns your iOS device into a WebAuthn/U2F Authenticator: strong, unphishable 2FA.
   ### MacOS Specific
+  - [Authenticator](https://github.com/torinkwok/Authenticator) - 🔒 Happy Two-Factor Verifying!
   - [MinaOTP-MAC](https://github.com/MinaOTP/MinaOTP-MAC) - Two-factor authentication tray app in macOS.
     - [MinaOTP-Shell](https://github.com/MinaOTP/MinaOTP-Shell) - TOTP authenticator implement as a terminal tool.
 
@@ -940,7 +943,8 @@ upstream_recursive_servers:
 - [Lwan Web Server](https://github.com/lpereira/lwan) - Experimental, scalable, high performance HTTP server.
 - [MkChain](https://github.com/trimstray/mkchain) -  Open source tool to help you build a valid SSL certificate chain.
 - [NginX](https://nginx.org/en/) - an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server.
-  - [nginx-location-match-visible](https://github.com/detailyang/nginx-location-match-visible) - 🍻 help you understand how does nginx location match works.
+  - [Luzifer / nginx-sso](https://github.com/Luzifer/nginx-sso) - SSO authentication provider for the auth_request nginx module.
+  - [Nginx-location-match-visible](https://github.com/detailyang/nginx-location-match-visible) - 🍻 help you understand how does nginx location match works.
   - [Nginx Admin's Handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
   - [NginxExecute](https://github.com/limithit/NginxExecute) - The NginxExecute module executes the shell command through GET POST and HEAD to display the result.
 - [Proxify](https://github.com/projectdiscovery/proxify) - Swiss Army knife Proxy tool for HTTP/HTTPS traffic capture, manipulation, and replay on the go.
