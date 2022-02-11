@@ -40,10 +40,11 @@ _“Intelligence is the ability to avoid doing work, yet getting the work done -
 - [Security Tools](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#security-tools)
   - [Authenticators](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#authenticators)
     - [Android Specific](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#android-specific)
-    - [iOS Specific)(https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#ios-specific)
-    - [MacOS Specific)(https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#macos-specific)
+    - [iOS Specific](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#ios-specific)
+    - [MacOS Specific](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#macos-specific)
   - [Sandboxing tools](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#sandboxing-tools)
   - [Security Tutorials](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#security-tutorials)
+  - [Windows Security](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#windows-security)
 - [Scripting](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#scripting)
 - [Terminal / Shell](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#terminal--shell)
   - [Bash](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#bash)
@@ -652,17 +653,16 @@ upstream_recursive_servers:
     - [Yubico Authenticator](https://github.com/Yubico/yubioath-desktop) - Yubico Authenticator for Desktop (Windows, macOS and Linux).
   #### Android Specific
   - [Aegis Authenticator](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
-
   #### iOS Specific
   - [Authenticator](https://github.com/mattrubin/Authenticator) - Two-Factor Authentication Client for iOS.
   - [Krypton-ios](https://github.com/kryptco/krypton-ios) - Krypton turns your iOS device into a WebAuthn/U2F Authenticator: strong, unphishable 2FA.
-  ### MacOS Specific
+  #### MacOS Specific
   - [Authenticator](https://github.com/torinkwok/Authenticator) - 🔒 Happy Two-Factor Verifying!
   - [MinaOTP-MAC](https://github.com/MinaOTP/MinaOTP-MAC) - Two-factor authentication tray app in macOS.
     - [MinaOTP-Shell](https://github.com/MinaOTP/MinaOTP-Shell) - TOTP authenticator implement as a terminal tool.
 
-
-  ### Linux Hardening Guides
+  ### Linux Security
+  #### Linux Hardening Guides
   - [Debian-cis](https://github.com/ovh/debian-cis) - PCI-DSS compliant Debian 9/10 hardening.
   - [Guide to Deploying Diffie-Hellman for TLS](https://weakdh.org/sysadmin.html)
   - [Linux-hardening-checklist](https://github.com/trimstray/linux-hardening-checklist) - Simple checklist to help you deploying the most important areas of the GNU/Linux production systems - work in progress.
@@ -699,7 +699,9 @@ upstream_recursive_servers:
   - [Set Up Automatic Security Update on Ubuntu](https://www.linuxbabe.com/ubuntu/automatic-security-update-unattended-upgrades-ubuntu)
   - [Unattended-upgrades](https://github.com/mvo5/unattended-upgrades) - Automatic installation of security upgrades on apt based systems.
 
-  ### Windows Hardening Guides
+  ### Windows Security
+  #### Windows Hardening Guides
+  - [Hardentools](https://github.com/securitywithoutborders/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features.
   - [HardeningKitty](https://github.com/scipag/HardeningKitty) - Invoke-HardeningKitty - Checks and hardens your Windows configuration.
   - [windows_hardening](https://github.com/0x6d69636b/windows_hardening) - Windows Hardening settings and configurations.
 
