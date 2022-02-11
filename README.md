@@ -751,6 +751,7 @@ Based on that data, you can find the most popular ones and their alternatives.
   - [GNOME Calendar](https://gitlab.gnome.org/GNOME/gnome-calendar) [github](https://github.com/GNOME/gnome-calendar)
   - [HTML5 Binary Clock](https://github.com/AE0L/html5-binary-clock) - Binary Clock written in HTML5, CSS3, and Vanilla JS.
   - [Pomatez](https://github.com/roldanjr/pomatez) - Stay Focused. Take a Break.
+  - [Pomodoro Logger](https://github.com/zxch3n/PomodoroLogger) - Pomodoro Logger 🕤 -- When a time tracker meets Pomodoro and Kanban board.
   - [Tockler](https://github.com/MayGo/tockler) - Application that tracks your time by monitoring your active windows (only titles) and idle time. 
   - [Tui.calendar](https://github.com/nhn/tui.calendar) - JavaScript calendar that has everything you need.
   - [WNR](https://github.com/RoderickQiu/wnr) - It's a time-management tool for computers. Work and rest, with wnr now. (P.S.: being fed up of my heavy study work and an private Android project, I might not be able to response quickly).
