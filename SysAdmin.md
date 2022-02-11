@@ -38,6 +38,7 @@ _“Intelligence is the ability to avoid doing work, yet getting the work done -
   - [Switch](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#switch)
 - [Package Managers](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#package-managers)
 - [Security Tools](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#security-tools)
+  - [Authenticators](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#authenticators)
   - [Sandboxing tools](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#sandboxing-tools)
   - [Security Tutorials](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#security-tutorials)
 - [Scripting](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#scripting)
@@ -628,16 +629,23 @@ upstream_recursive_servers:
   - [USB-checking / GNOME Shell USB Lock](https://github.com/gmuraru/USB-checking) - Check if a connected devices was already seen by the computer. If the device was not seen, it will ask for your permission to add it to a trusted file (known_host in our case) - for the command line interface or you could add them manually from the Gtk+ interface.
 - [Whonix security-misc](https://github.com/Whonix/security-misc) - Kernel Hardening; Protect Linux User Accounts against Brute Force Attacks; Improve Entropy Collection; Strong Linux User Account Separation; Enhances Misc Security Settings - https://www.whonix.org/wiki/Security-misc.
 - [Yopass - Share Secrets Securely](https://github.com/jhaals/yopass) - Secure sharing for secrets, passwords and files.
-- YubiKey
-  - [Installing Yubico Software on Linux](https://support.yubico.com/hc/en-us/articles/360016649039-Enabling-the-Yubico-PPA-on-Ubuntu)
-  - [LUKS-Encrypted Filesystem with Yubikey PBA](https://github.com/sgillespie/nixos-yubikey-luks)
-    - [Fido2luks](https://github.com/shimunn/fido2luks) - Decrypt your LUKS partition using a FIDO2 compatible authenticator.
-      - [SoloKey Full Disk Encryption](https://github.com/saravanan30erd/solokey-full-disk-encryption) - Use SoloKey to unlock a LUKS encrypted partition.
-    - [Yubikey for LUKS](https://github.com/cornelinux/yubikey-luks) - Two factor authentication for harddisk encryption.
-  - [Passwordless login with Yubikey 5 NFC](https://askubuntu.com/questions/1167691/passwordless-login-with-yubikey-5-nfc)
-  - [Ubuntu Linux Login Guide - U2F ](https://support.yubico.com/hc/en-us/articles/360016649099-Ubuntu-Linux-Login-Guide-U2F)
-  - [Using Your U2F YubiKey with Linux ](https://support.yubico.com/hc/en-us/articles/360013708900-Using-Your-U2F-YubiKey-with-Linux)
-  - [Yubico Authenticator](https://github.com/Yubico/yubioath-desktop) - Yubico Authenticator for Desktop (Windows, macOS and Linux).
+
+  ### Authenticators
+  - [AndOTP](https://github.com/andOTP/andOTP) - Open source two-factor authentication for Android.
+  - [Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
+  - [Otplib](https://github.com/yeojz/otplib) - 🔑 One Time Password (OTP) / 2FA for Node.js and Browser - Supports HOTP, TOTP and Google Authenticator.
+  - YubiKey
+    - [Installing Yubico Software on Linux](https://support.yubico.com/hc/en-us/articles/360016649039-Enabling-the-Yubico-PPA-on-Ubuntu)
+    - [LUKS-Encrypted Filesystem with Yubikey PBA](https://github.com/sgillespie/nixos-yubikey-luks)
+      - [Fido2luks](https://github.com/shimunn/fido2luks) - Decrypt your LUKS partition using a FIDO2 compatible authenticator.
+        - [SoloKey Full Disk Encryption](https://github.com/saravanan30erd/solokey-full-disk-encryption) - Use SoloKey to unlock a LUKS encrypted partition.
+      - [Yubikey for LUKS](https://github.com/cornelinux/yubikey-luks) - Two factor authentication for harddisk encryption.
+    - [Passwordless login with Yubikey 5 NFC](https://askubuntu.com/questions/1167691/passwordless-login-with-yubikey-5-nfc)
+    - [Ubuntu Linux Login Guide - U2F ](https://support.yubico.com/hc/en-us/articles/360016649099-Ubuntu-Linux-Login-Guide-U2F)
+    - [Using Your U2F YubiKey with Linux ](https://support.yubico.com/hc/en-us/articles/360013708900-Using-Your-U2F-YubiKey-with-Linux)
+    - [Yubico Authenticator](https://github.com/Yubico/yubioath-desktop) - Yubico Authenticator for Desktop (Windows, macOS and Linux).
+  #### Android Specific
+  - [Aegis Authenticator](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 
   ### Linux Hardening Guides
   - [Debian-cis](https://github.com/ovh/debian-cis) - PCI-DSS compliant Debian 9/10 hardening.
