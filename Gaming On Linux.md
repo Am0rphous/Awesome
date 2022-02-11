@@ -29,6 +29,9 @@
 - [www.playOnLinux.com](https://www.playonlinux.com/en/) - [Supported app list](https://www.playonlinux.com/en/supported_apps-1-0.html)
 - [PlayOnLinux4](https://github.com/PlayOnLinux/POL-POM-4) - PlayOnLinux 4 repository.
 - [Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components.
+- [Steam](https://store.steampowered.com/) - Install with `sudo apt install steam`
+  - [Steamctl](https://github.com/ValvePython/steamctl) - 🤸 Take control of Steam from your terminal. Steamctl is an open-source CLI utility similar to steamcmd. It provides access to a number of Steam features and data from the command line. While it is possible to download apps and content from Steam, steamctl is not a game launcher.
+  - [Steam's Debian Wiki](https://wiki.debian.org/Steam#Basic_installation)
 - [Wine](https://github.com/wine-mirror/wine) - Program which allows running Microsoft Windows programs (including DOS, Windows 3.x, Win32, and Win64 executables) on Unix.
 - [WineTricks](https://github.com/Winetricks/winetricks) - Winetricks is an easy way to work around problems in Wine. [winehq.org](https://wiki.winehq.org/Winetricks)
 - [gamejolt.com/games?os=linux](https://gamejolt.com/games?os=linux) - Find great games.
