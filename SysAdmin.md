@@ -40,6 +40,7 @@ _“Intelligence is the ability to avoid doing work, yet getting the work done -
 - [Security Tools](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#security-tools)
   - [Authenticators](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#authenticators)
     - [Android Specific](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#android-specific)
+    - [iOS Specific)(https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#ios-specific)
   - [Sandboxing tools](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#sandboxing-tools)
   - [Security Tutorials](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#security-tutorials)
 - [Scripting](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#scripting)
@@ -634,6 +635,7 @@ upstream_recursive_servers:
   ### Authenticators
   - [AndOTP](https://github.com/andOTP/andOTP) - Open source two-factor authentication for Android.
   - [Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
+  - [Einmal](https://github.com/incipher/einmal) - ⏱ The two-factor authentication app you deserve.
   - [Otplib](https://github.com/yeojz/otplib) - 🔑 One Time Password (OTP) / 2FA for Node.js and Browser - Supports HOTP, TOTP and Google Authenticator.
   - YubiKey
     - [Installing Yubico Software on Linux](https://support.yubico.com/hc/en-us/articles/360016649039-Enabling-the-Yubico-PPA-on-Ubuntu)
@@ -647,6 +649,14 @@ upstream_recursive_servers:
     - [Yubico Authenticator](https://github.com/Yubico/yubioath-desktop) - Yubico Authenticator for Desktop (Windows, macOS and Linux).
   #### Android Specific
   - [Aegis Authenticator](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
+
+  #### iOS Specific
+  - [Authenticator](https://github.com/mattrubin/Authenticator) - Two-Factor Authentication Client for iOS.
+  - [Krypton-ios](https://github.com/kryptco/krypton-ios) - Krypton turns your iOS device into a WebAuthn/U2F Authenticator: strong, unphishable 2FA.
+  ### MacOS Specific
+  - [MinaOTP-MAC](https://github.com/MinaOTP/MinaOTP-MAC) - Two-factor authentication tray app in macOS.
+    - [MinaOTP-Shell](https://github.com/MinaOTP/MinaOTP-Shell) - TOTP authenticator implement as a terminal tool.
+
 
   ### Linux Hardening Guides
   - [Debian-cis](https://github.com/ovh/debian-cis) - PCI-DSS compliant Debian 9/10 hardening.
