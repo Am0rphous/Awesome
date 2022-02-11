@@ -39,6 +39,7 @@ _“Intelligence is the ability to avoid doing work, yet getting the work done -
 - [Package Managers](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#package-managers)
 - [Security Tools](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#security-tools)
   - [Authenticators](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#authenticators)
+    - [Android Specific](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#android-specific)
   - [Sandboxing tools](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#sandboxing-tools)
   - [Security Tutorials](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#security-tutorials)
 - [Scripting](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#scripting)
