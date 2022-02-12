@@ -56,6 +56,7 @@ _“Intelligence is the ability to avoid doing work, yet getting the work done -
   - [For fun](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#for-fun)
   - [Web Browser in Terminal](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#web-browser-in-terminal)
 - [Utilities](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#utilities)
+  - [Archiver utilities](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#archive-utilities)
   - [Create Bootable USB](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#create-bootable-usb)
   - [USB](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#usb)
 - [Virtualization](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#virtualization)
@@ -794,6 +795,9 @@ upstream_recursive_servers:
 - [KDU (Windows)](https://github.com/hfiref0x/KDU) - Kernel Driver Utility.
 - [RHash](https://github.com/rhash/RHash) - Great utility for computing hash sums.
 - [RipGrep-All](https://github.com/phiresky/ripgrep-all) - search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
+### Archiver utilities
+- [PeaZip]() - Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ2, CAB, CHM, CPIO, DEB, GZ, ISO, JAR, LHA/LZH, NSIS, OOo, PAQ/LPAQ, PEA, QUAD, RAR, RPM, split, TAR, Z, ZIP, ZIPX, Zstandard.
+
   ### Create Bootable USB
   - [Balena Etcher](https://github.com/balena-io/etcher) -  Flash OS images to SD cards & USB drives, safely and easily.
   - [Cubic](https://launchpad.net/cubic) - Custom Ubuntu ISO Creator) is a GUI wizard to create a customized Ubuntu Live ISO image.
