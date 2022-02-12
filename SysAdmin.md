@@ -15,6 +15,7 @@ _“Intelligence is the ability to avoid doing work, yet getting the work done -
 - [Benchmarking](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#benchmarking)
 - [Cloud](#cloud)
 - [Configuration Management](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#configuration-management)
+  - [Admin panels](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#admin-panels)
 - [Databases](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#databases)
 - [Dell Spesific Tools](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#dell-spesific-tools)
 - [Ebooks, PDFs and helpful resources](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#ebooks-pdfs-and-helpful-resources)
@@ -265,15 +266,25 @@ bro / zeek
 - [Ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Ansible Tower offers free for handling up to 10 nodes.
   - [Ansible-template-ui](https://github.com/sivel/ansible-template-ui) - Web UI for testing ansible templates.
   - [Ansible-VMware-Workstation-Fusion-Pro-Modules](https://github.com/qsypoq/Ansible-VMware-Workstation-Fusion-Pro-Modules) - Ansible meet VMware Workstation/Fusion Pro.
-- [Cockpit](https://cockpit-project.org/) - Cockpit is a web-based graphical interface for servers.
-  - [Applications](https://cockpit-project.org/applications.html) - The Cockpit Web Console is extendable. The Cockpit team and others have built applications that are easy to install.
-  - [Manage KVM Virtual Machines Using Cockpit Web Console](https://ostechnix.com/manage-kvm-virtual-machines-using-cockpit-web-console/)
-  - [Reconfiguring virtual machines with Cockpit](https://fedoramagazine.org/reconfiguring-virtual-machines-with-cockpit/)
+
 - [Guide To Install Missing Firmware in Debian](https://www.techbrackets.com/install-missing-firmware-debian/) - Looking to install missing firmware in Debian or Ubuntu, then use this step by step guide.
 - [Puppet](https://github.com/puppetlabs/puppet/) - Server automation framework and application. [Puppet.com](https://puppet.com/)
   - [Puppet Consul](https://github.com/solarkennedy/puppet-consul) - A Puppet Module to Manage Consul.
 - [Reload.sh](https://github.com/trimstray/reload.sh) - Wipe, reinstall or restore your system from running GNU/Linux distribution. Via SSH, without rebooting.
 - [wAuto](https://github.com/khchen/wAuto) - Windows automation module.
+
+### Admin panels
+- [AaPanel](https://www.aapanel.com/index.html)
+- [Ajenti GUI](https://ajenti.org/)
+- [Cockpit Web GUI Management](https://cockpit-project.org/) - Cockpit is a web-based graphical interface for servers.
+  - [Applications](https://cockpit-project.org/applications.html) - The Cockpit Web Console is extendable. The Cockpit team and others have built applications that are easy to install.
+  - [Manage KVM Virtual Machines Using Cockpit Web Console](https://ostechnix.com/manage-kvm-virtual-machines-using-cockpit-web-console/)
+  - [Reconfiguring virtual machines with Cockpit](https://fedoramagazine.org/reconfiguring-virtual-machines-with-cockpit/)
+- [Froxlor Server Management Panel](https://froxlor.org/)
+- [ISPConfig](https://www.ispconfig.org/)
+- [Sentroa Hosting Web GUI](http://www.sentora.org/)
+- [VestaCP](https://ajenti.org/)
+- [Webmin](https://webmin.com/)
 ### PowerShell
 - [Carbon](http://get-carbon.org/) - Carbon is a PowerShell module for automating the configuration of computers running Windows.
 
