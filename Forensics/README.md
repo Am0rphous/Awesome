@@ -125,6 +125,7 @@ dd if=/dev/fmem of=memory.raw bs=1MB count=2048
 - [Volatility](https://github.com/volatilityfoundation/volatility) - An advanced memory forensics framework [www.volatilityfoundation.org](https://www.volatilityfoundation.org/). [Githbu wiki](https://github.com/volatilityfoundation/volatility/wiki).
   - [Basic Volatilty Usage](https://samsclass.info/121/proj/p5-Vol.htm)
   - [Intro to Linux memory forensics](https://stuxnet999.github.io/dfir/2020/09/20/Linux-Memory-Forensics.html)
+  - [How to analyze a VMware memory image with Volatility](https://andreafortuna.org/2019/04/03/how-to-analyze-a-vmware-memory-image-with-volatility/)
   - [MalConfScan](https://github.com/JPCERTCC/MalConfScan) - Volatility plugin for extracts configuration data of known malware.
   - [Memory analysis of the KBeast Linux rootkit](https://apps.dtic.mil/sti/pdfs/AD1004348.pdf)
 - [volatility3](https://github.com/volatilityfoundation/volatility3)
