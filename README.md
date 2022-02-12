@@ -263,6 +263,8 @@ Communicate clearly <br>
     - [Package Hunter CLI](https://gitlab.com/gitlab-org/security-products/package-hunter-cli/-/blob/main/README.md#gitlab-ci) - Behavorial monitoring for identifying malicious dependencies. [link for later](https://news.itsfoss.com/gitlab-open-source-tool-malicious-code/)
     - [PlantUML](https://github.com/plantuml/plantuml) - Generate diagrams from textual description.
   - [GitUI](https://github.com/extrawurst/gitui) - GitUI provides you with the comfort of a git GUI but right in your terminal. Fast terminal-ui for git written in rust.
+  - [Logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap 
+    - [Awesome-logseq]()
   - [OutLine](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 
   ### VoIP
@@ -380,6 +382,7 @@ Communicate clearly <br>
     - [Awesome Go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software.
     - [Awesome Go Security](https://github.com/Binject/awesome-go-security) - A dedicated place for cool golang security projects.
     - [Hacking-With-Golang](https://github.com/AV1080p/Hacking-With-Golang) - Golang安全资源合集.
+    - [LearnGo](https://github.com/inancgumus/learngo) - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes.
     #### HTML
     - [HEAD](https://github.com/joshbuchea/HEAD) - 🗿 A list of everything that *could* go in the head of your document.
     #### Java
