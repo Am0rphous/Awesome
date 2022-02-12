@@ -333,6 +333,7 @@ bro / zeek
 - [Warpinator](https://github.com/linuxmint/warpinator) - Share files across the LAN 
 
 ## Firewall
+- [GoTestWAF](https://github.com/wallarm/gotestwaf) - An open-source project in Golang to test different web application firewalls (WAF) for detection logic and bypasses.
 - [HiddenWall](https://github.com/CoolerVoid/HiddenWall) - Tool to generate a Linux kernel module for custom rules with Netfilter hooking. (block ports, Hidden mode, firewall functionst).
 - iptables
   - [iptables-essentials](https://github.com/trimstray/iptables-essentials) -  Iptables Essentials: Common Firewall Rules and Commands.
