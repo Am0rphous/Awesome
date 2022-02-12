@@ -706,6 +706,7 @@ upstream_recursive_servers:
   - [HolyTips](https://github.com/HolyBugx/HolyTips) - Tips and Tutorials on Bug Bounty Hunting and Web App Security.
 
   ### Windows Security
+  - [WELA](https://github.com/Yamato-Security/WELA) - WELA (Windows Event Log Analyzer): The Swiss Army knife for Windows Event Logs! ゑ羅（ウェラ）.
   #### Windows Hardening Guides
   - [Hardentools](https://github.com/securitywithoutborders/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features.
   - [HardeningKitty](https://github.com/scipag/HardeningKitty) - Invoke-HardeningKitty - Checks and hardens your Windows configuration.
