@@ -57,6 +57,7 @@ _“Intelligence is the ability to avoid doing work, yet getting the work done -
   - [Web Browser in Terminal](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#web-browser-in-terminal)
 - [Utilities](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#utilities)
   - [Create Bootable USB](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#create-bootable-usb)
+  - [USB](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#usb)
 - [Virtualization](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#virtualization)
   - [Container Technologies](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#container-technologies)
     - [Container orchestration](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#container-orchestration)
@@ -793,8 +794,6 @@ upstream_recursive_servers:
 - [KDU (Windows)](https://github.com/hfiref0x/KDU) - Kernel Driver Utility.
 - [RHash](https://github.com/rhash/RHash) - Great utility for computing hash sums.
 - [RipGrep-All](https://github.com/phiresky/ripgrep-all) - search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
-- [USBUtils](https://github.com/gregkh/usbutils) - USB utilities for Linux, including lsusb.
-  - [LsUSB](https://github.com/linuxhw/LsUSB) - Most popular USB devices and lsusb reports.
   ### Create Bootable USB
   - [Balena Etcher](https://github.com/balena-io/etcher) -  Flash OS images to SD cards & USB drives, safely and easily.
   - [Cubic](https://launchpad.net/cubic) - Custom Ubuntu ISO Creator) is a GUI wizard to create a customized Ubuntu Live ISO image.
@@ -834,7 +833,10 @@ upstream_recursive_servers:
   - [Selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
   ### Troubleshooting
   - [htrace.sh](https://github.com/trimstray/htrace.sh) -  My simple Swiss Army knife for http/https troubleshooting and profiling.
-
+### USB
+- [Libuvc](https://github.com/libuvc/libuvc) - a cross-platform library for USB video devices.
+- [USBUtils](https://github.com/gregkh/usbutils) - USB utilities for Linux, including lsusb.
+  - [LsUSB](https://github.com/linuxhw/LsUSB) - Most popular USB devices and lsusb reports.
 
 
 ## Virtualization
