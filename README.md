@@ -785,6 +785,7 @@ Based on that data, you can find the most popular ones and their alternatives.
       - [InstaPy Documentation](https://github.com/InstaPy/instapy-docs) - 📜 Public information for users, testers, contributors, maintainers.
     - [Istekram](https://github.com/validatedev/istekram) - A simple app for Instagram.
     - [Ramme](https://github.com/terkelg/ramme) - **(Archived)** Unofficial Instagram Desktop App. 
+    - [Streamon](https://github.com/haxzie/instagram-live-streamer) - [Unofficial] Broadcast to Instagram Live from your Windows/Mac/Linux.
   
   ### Blogging
   - [Friendica](https://github.com/friendica/friendica) - Friendica Communications Platform.
