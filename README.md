@@ -32,6 +32,7 @@ Communicate clearly <br>
   - [Code Editors](https://github.com/Am0rphous/Awesome/blob/master/README.md#code-editors)
   - [Frontend](https://github.com/Am0rphous/Awesome/blob/master/README.md#frontend)
   - [Icons](https://github.com/Am0rphous/Awesome/blob/master/README.md#icons)
+  - [iOS](https://github.com/Am0rphous/Awesome/blob/master/README.md#ios)
   - [Programming](https://github.com/Am0rphous/Awesome/blob/master/README.md#programming)
     - [Electron](https://github.com/Am0rphous/Awesome/blob/master/README.md#electron)
     - [Go](https://github.com/Am0rphous/Awesome/blob/master/README.md#go)
@@ -118,6 +119,7 @@ Communicate clearly <br>
 - [Awesome jq](https://github.com/fiatjaf/awesome-jq) - A curated list of awesome jq tools and resources.
 - [Awesome Learning Resources](https://github.com/lauragift21/awesome-learning-resources) - Awesome list of resources on Web Development.
 - [Awesome List](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics.
+- [Awesome list of secrets in environment variables](https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables) - 🦄🔒 Awesome list of secrets in environment variables 🖥️.
 - [Awesome Linux](https://github.com/inputsh/awesome-linux) - 🐧 A list of awesome projects and resources that make Linux even more awesome. 🐧
 - [Awesome Loginless](https://github.com/fiatjaf/awesome-loginless) - an awesome list of internet services that don't require logins or registrations.
 - [Awesome Machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
@@ -357,6 +359,10 @@ Communicate clearly <br>
   - [Icons8.com](https://icons8.com/icons/)
   - [Material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google.
   - [Npm-icon-gen](https://github.com/akabekobeko/npm-icon-gen) - Icon file generator for Windows, macOS, Web.
+
+  ### iOS
+  - [Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps) - 📱 Collaborative List of Open-Source iOS Apps.
+  - [Swift Radio](https://github.com/analogcode/Swift-Radio-Pro) - Professional Radio Station App for iOS!.
 
   ### Programming
   - [Dart SDK](https://github.com/dart-lang/sdk) - Dart is an open-source, scalable programming language, with robust libraries and runtimes, for building web, server, and mobile apps.
