@@ -38,6 +38,7 @@ _“Intelligence is the ability to avoid doing work, yet getting the work done -
     - [Online Storage Services](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#online-storage-services)
   - [Switch](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#switch)
 - [Package Managers](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#package-managers)
+  - [Finding Software](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#finding-software)
 - [Security Tools](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#security-tools)
   - [Authenticators](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#authenticators)
     - [Android Specific](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#android-specific)
@@ -634,6 +635,8 @@ upstream_recursive_servers:
 - [Nimble](https://github.com/nim-lang/nimble#nimble-usage) - Package manager for the Nim programming language.
 - [Nixpkgs](https://github.com/NixOS/nixpkgs) - collection of over 60,000 software packages that can be installed with the Nix package manager [nixos.org](https://nixos.org).
 - [Snapd](https://snapcraft.io)
+### Finding Software
+- [Bitnami by VMware](https://bitnami.com/)
 
 ## Security Tools
 - [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) - Machine Learning for Cyber Security.
