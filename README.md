@@ -173,6 +173,7 @@ Communicate clearly <br>
   - [Mattermost Plugin Jitsi](https://github.com/mattermost/mattermost-plugin-jitsi) - Jitsi plugin for Mattermost 🔌
     - [RSSFeed Plugin](https://integrations.mattermost.com/rssfeed-plugin/)
   - [Mattermost Server](https://github.com/mattermost/mattermost-server)
+  - [Mattermost Team Edition packaged by Bitnami](https://bitnami.com/stack/mattermost/virtual-machine)
   - [Mmctl](https://docs.mattermost.com/manage/mmctl-command-line-tool.html)
     Install:
     ````
@@ -181,6 +182,7 @@ Communicate clearly <br>
     ````
 - [Microsoft Temas](https://www.microsoft.com/nb-no/microsoft-teams/download-app) - Linux, Mac, Windows, ios, android
   - [clear_cache_MS_Teams.sh](https://gist.github.com/mrcomoraes/c83a2745ef8b73f9530f2ec0433772b7)
+- [Openfire](https://igniterealtime.org/projects/openfire/) - Openfire is a real time collaboration (RTC) server licensed under the Open Source Apache License. It uses the only widely adopted open protocol for instant messaging, XMPP Openfire is incredibly easy to setup and administer, but offers rock-solid security and performance.
 - [Rambox](https://github.com/ramboxapp/commu nity-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The ultimate Free Open Source Solution for team communications.
   - [RC-Trending](https://github.com/frontendwizard/rc-trending) - News feed from multiple sources right into rocket chat.
