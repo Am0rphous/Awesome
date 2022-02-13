@@ -22,3 +22,6 @@
 - [PhishDetect Extension](https://github.com/phishdetect/phishdetect-extension) - Browser extension that complements the PhishDetect service.
 - [Privacy Badger by EFF Technologists](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
 - [uBlock Origin](https://github.com/gorhill/uBlock) - An efficient blocker for Chromium and Firefox. Fast and lean. [ublockorigin.com](https://ublockorigin.com/)
+
+## Security
+- [Multi-Account Containers](https://github.com/mozilla/multi-account-containers) - Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously. [Firefox Browser ADD-ONS](https://addons.mozilla.org/nb-NO/firefox/addon/multi-account-containers/)
