@@ -9,6 +9,7 @@ https://github.com/WebAssembly/wabt
 - [CyberChef](https://github.com/gchq/cyberchef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis.
   - [Cyberchef Recipes](https://github.com/mattnotmax/cyberchef-recipes) - A list of cyber-chef recipes and curated links.
   - [gchq.github.io/CyberChef](https://gchq.github.io/CyberChef)
+- [Malware-gems](https://github.com/0x4143/malware-gems) - A not so awesome list of malware gems for aspiring malware analysts.
 - [Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [Reverse Engineer's Toolkit](https://github.com/mentebinaria/retoolkit) - Collection of tools you may like if you are interested on reverse engineering and/or malware analysis on x86 and x64 Windows systems.
 
