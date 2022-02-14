@@ -43,6 +43,8 @@
 - [Debian Custom ISO Scripts and Tutorial](https://github.com/RackunSec/debian-custom-iso-scripts) - These are scripts I made to help with the design and customization of a Debian ISO (Primarily WeakerThan Linux).
 - [Linux From Scratch](http://www.linuxfromscratch.org)
 - [Linux Live Kit](https://www.linux-live.org)
+  - [Linux Live Kit Github](https://github.com/Tomas-M/linux-live) - Use this set of scripts to turn your existing preinstalled Linux
+distribution into a Live Kit (formely known as Live CD).
 - [Live Magic](https://chris-lamb.co.uk/projects/live-magic)
 - [Linux Respin](http://www.linuxrespin.org)
 - [Ubuntu Imager](https://github.com/Distroshare/distroshare-ubuntu-imager) - Creates an installable live CD from an installed Ubuntu or derivative distribution.
