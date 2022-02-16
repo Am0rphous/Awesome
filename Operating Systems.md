@@ -142,6 +142,8 @@ distribution into a Live Kit (formely known as Live CD).
 ## Minimal and Lightweight
 - [antiX Linux](https://antixlinux.com/) - Proudly anti-fascist "antiX Magic" in an environment suitable for old and new computers.
 - [ArchBang](https://archbang.org/)
+- [Bodhi Linux](https://www.bodhilinux.com/) - Lightweight distribution featuring the fast & fully customizable Moksha Desktop.
+- [Linux Lite](https://www.linuxliteos.com/) - Linux Lite isn't the smallest Linux distro of all, but it does run well on sufficiently scaled-back hardware. Based upon Ubuntu, the minimum recommended specs are a 1GHz processor with 768MB RAM, along with 8GB storage, which most modern hardware vastly outstrips. So, you can imagine how well Linux Lite will run on an older machine.
 - [Porteus](http://www.porteus.org/) - Porteus is a complete linux operating system that is optimized to run from CD, USB flash drive, hard drive, or other bootable storage media. It's small (under 300Mb) and insanely fast which allows you to start up and get online while most other operating systems are left spitting dust. Porteus comes in both 32 & 64 bit and aims to keep on the bleeding edge.
 - [Puppy Linux](https://puppylinux.com/)
 - [SliTaz](https://www.slitaz.org/en/) - SliTaz is a secure and high performance operating system using the Linux Kernel and GNU software.
