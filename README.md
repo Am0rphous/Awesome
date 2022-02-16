@@ -202,6 +202,7 @@ Communicate clearly <br>
     - [Media-Files-Share](https://github.com/afirdaus7891/Media-Files-Share) - Telegram Bot To Store Posts And Documents And it Can Access By Special Links.
   - [Telegram-Purple](https://github.com/majn/telegram-purple) - Adds support for Telegram to Pidgin, Adium, Finch and other Libpurple based messengers.
 - [Tox Chat](https://tox.chat/)
+- [Twake](https://twake.app/) - Open-source alternative to Microsoft Teams
 - [Twist](https://twist.com/home)
 - [Wire](https://github.com/wireapp/wire) - [app.wire.com](https://app.wire.com/auth/)
 - [YakYak](https://github.com/yakyak/yakyak) - Desktop chat client for Google Hangouts.
