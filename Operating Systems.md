@@ -11,6 +11,7 @@
 - [IoT, embedded devices, tablets](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#iot-embedded-devices-tablets)
   - [Mobile Operating Systems](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#mobile-operating-systems)
     - [Android-based Operating Systems](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#android-based-operating-systems)
+- [Minimal and Lightweight](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#minimal-and-lightweight)
 - [Pen-testing and security auditing](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#pen-testing-and-security-auditing)
 - [Router and Firewall OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#router-and-firewall-oses)
 - [Server OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#server-oses)
@@ -18,7 +19,7 @@
 - [Unix OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#unix-oses)
 - [Virtualization](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#virtualization)
 
-
+<br> <br>
 
 ## A list of web resources
 - [Archiveos.org](https://archiveos.org) - Arhive of Operating Systems with Linux, BSD, DOS, Solaris and others.
@@ -137,6 +138,14 @@ distribution into a Live Kit (formely known as Live CD).
   - [CopperheadOS](https://copperhead.co/android/) - Secure Android built for encrypted and secure phones by a privacy focused company. Available as security-centric and privacy focused Google-free Android for the latest Pixel devices.
   - [GrapheneOS](https://grapheneos.org) - GrapheneOS (formerly known as CopperheadOS) is a free and open-source security- and privacy-focused mobile operating system built on top of the Android Open Source Project. It currently specifically targets devices offering strong hardware security.
   - [LineageOS](https://www.lineageos.org) - LineageOS is a custom ROM based on the Android Open Source Project with official support for a wide variety of devices. The project is the successor to the popular CyanogenMod project, focusing on system control and customization, device longevity, and privacy. For security reasons, we do not recommend third-party builds of LineageOS for unsupported devices.
+
+## Minimal and Lightweight
+- [antiX Linux](https://antixlinux.com/) - Proudly anti-fascist "antiX Magic" in an environment suitable for old and new computers.
+- [ArchBang](https://archbang.org/)
+- [Porteus](http://www.porteus.org/) - Porteus is a complete linux operating system that is optimized to run from CD, USB flash drive, hard drive, or other bootable storage media. It's small (under 300Mb) and insanely fast which allows you to start up and get online while most other operating systems are left spitting dust. Porteus comes in both 32 & 64 bit and aims to keep on the bleeding edge.
+- [Puppy Linux](https://puppylinux.com/)
+- [SliTaz](https://www.slitaz.org/en/) - SliTaz is a secure and high performance operating system using the Linux Kernel and GNU software.
+- [Tiny Core Linux](http://tinycorelinux.net/welcome.html) - full Linux desktop in 22 MB. Unlike most operating systems, the Tiny Core can run completely from RAM. 
 
 ## Pen-testing and security auditing
 - [BlackArch](https://www.blackarch.org) - BlackArch Linux is an Arch Linux-based penetration testing distribution for penetration testers and security researchers.
