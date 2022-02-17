@@ -384,6 +384,7 @@ Communicate clearly <br>
     #### Go
     - [Awesome Go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software.
     - [Awesome Go Security](https://github.com/Binject/awesome-go-security) - A dedicated place for cool golang security projects.
+    - [Goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible.
     - [Hacking-With-Golang](https://github.com/AV1080p/Hacking-With-Golang) - Golang安全资源合集.
     - [LearnGo](https://github.com/inancgumus/learngo) - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes.
     #### HTML
