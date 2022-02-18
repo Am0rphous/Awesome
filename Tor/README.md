@@ -116,6 +116,13 @@ virt-viewer vnc://localhost:5901
   - Tor Status - https://jlve2y45zacpbz6s.tor2web.io
   - [Tor Status Github](https://github.com/paulchen/torstatus)
 
+### Helpful Web sites
+- [Censorship](https://support.torproject.org/censorship/)
+- [Community and legal resources](https://community.torproject.org/relay/community-resources/)
+- [ Help Censored Users, Run a Tor Bridge ](https://blog.torproject.org/run-a-bridge-campaign/)
+- [Response template for Tor relay operator to ISP](https://community.torproject.org/relay/community-resources/eff-tor-legal-faq/tor-dmca-response/)
+- [The Tor Network Runs Out Of Bridges, And The Project Is Asking For Help](https://www.eyerys.com/articles/news/tor-runs-out-of-bridges-ask-for-help)
+
 ### Onion Services
 - Ahmia.fi - http://haystakvxad7wbk5.onion/
 - DuckDuckGo - https://3g2upl4pq6kufc4m.onion
