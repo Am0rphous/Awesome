@@ -56,6 +56,9 @@
 ## Collaboration tools
 - [Timesketch](https://github.com/google/timesketch) - Collaborative forensic timeline analysis.
 
+## Disk
+- [WinBtrfs](https://github.com/maharmstone/btrfs) - WinBtrfs is a Windows driver for the next-generation Linux filesystem Btrfs. A reimplementation from scratch, it contains no code from the Linux kernel, and should work on any version from Windows XP onwards. It is also included as part of the free operating system ReactOS.
+
 ## Documents, Whitepapers and related resources
 - [Detecting Malware With Memory Forensics with Hal Pomeranz (SANS Institute)](http://www.deer-run.com/~hal/Detect_Malware_w_Memory_Forensics.pdf)
 - [Free Malicious PDF Analysis E-book](http://didierstevens.com/files/data/malicious-pdf-analysis-ebook.zip) - Also within this folder and "Documents".
