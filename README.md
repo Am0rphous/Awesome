@@ -433,6 +433,7 @@ Communicate clearly <br>
     - [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
     - [Pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more.
     - [Python Fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object. 
+    - [Pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python.
     - [Rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
       - [Enrich](https://github.com/pycontribs/enrich) - Enrich adds few missing features to the wonderful rich library.
     - [Textual](https://github.com/willmcgugan/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
