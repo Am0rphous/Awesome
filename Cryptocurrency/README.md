@@ -47,6 +47,10 @@
 - [Cryptoslate.com](https://cryptoslate.com/)
 - [Trustnodes.com](https://www.trustnodes.com)
 
+## Programming
+- Solidity - "_Solidity is an object-oriented programming language for writing smart contracts. It is used for implementing smart contracts on various blockchain platforms, most notably, Ethereum. - [Wikipedia](https://en.wikipedia.org/wiki/Solidity)"
+  - [Solidity Content & Resources]() - 📚 Content & Resources to get started on 🛠 Solidity.
+
 ## Trading
 - [Binance-News-Sentiment-Bot](https://github.com/CyberPunkMetalHead/Binance-News-Sentiment-Bot) - This is a fully functioning Binance trading bot that takes into account the news sentiment for the top 100 crypto feeds. If you like this project consider donating though the Brave browser to allow me to continuously improve the script.
 - [Binance-volatility-trading-bot](https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot) - This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though the Brave browser to allow me to continuously improve the script.
