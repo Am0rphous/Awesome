@@ -43,6 +43,7 @@ Communicate clearly <br>
     - [Matlab](https://github.com/Am0rphous/Awesome/blob/master/README.md#matlab)
     - [Nim](https://github.com/Am0rphous/Awesome/blob/master/README.md#nim)
     - [Node.js](https://github.com/Am0rphous/Awesome/blob/master/README.md#nodejs---open-source-and-cross-platform-javascript-runtime-environment)
+    - [Odin](https://github.com/Am0rphous/Awesome/blob/master/README.md#odin)
     - [PHP](https://github.com/Am0rphous/Awesome/blob/master/README.md#php)
     - [Python](https://github.com/Am0rphous/Awesome/blob/master/README.md#python)
     - [Rust](https://github.com/Am0rphous/Awesome/blob/master/README.md#rust)
@@ -419,6 +420,8 @@ Communicate clearly <br>
     - [Socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server).
       - [Socket.io-client](https://github.com/socketio/socket.io-client) - Realtime application framework (client).
     - [The Art of Node](https://github.com/maxogden/art-of-node) - A short introduction to node.js
+    #### Odin
+    - [Odin](https://github.com/odin-lang/Odin) - Odin Programming Language.
 
     #### PHP
     - [Awesome-PHP](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
