@@ -133,8 +133,9 @@ getcap            #examine file capabilities
 ## Frameworks
 - [Cutter](https://github.com/radareorg/cutter) - Free and open-source reverse engineering framework powered by radare2.
 - [Ghidra](https://github.com/NationalSecurityAgency/ghidra) - reverse engineering (SRE) framework created and maintained by the National Security Agency. [ghidra-sre.org](https://ghidra-sre.org/)
+  - [AngryGhidra](https://github.com/Nalen98/AngryGhidra) - Use angr in Ghidra.
   - [CERT Kaiju Binary Analysis Framework for GHIDRA](https://github.com/CERTCC/kaiju) - CERT Kaiju is a binary analysis framework extension for the Ghidra software reverse engineering suite. This repository is the primary, canonical repository for this project -- file bug reports and wishes here!
-  - [ghidra-dark](https://github.com/zackelia/ghidra-dark) - Dark theme installer for Ghidra.
+  - [Ghidra-dark](https://github.com/zackelia/ghidra-dark) - Dark theme installer for Ghidra.
   - [Ghidra Data](https://github.com/NationalSecurityAgency/ghidra-data) - Supporting Data Archives for Ghidra.
   - [Ghidra_kernelcache](https://github.com/0x36/ghidra_kernelcache) - a Ghidra iOS kernelcache framework for reverse engineering.
 - [Hobbits](https://github.com/Mahlet-Inc/hobbits) - A multi-platform GUI for bit-based analysis, processing, and visualization.
