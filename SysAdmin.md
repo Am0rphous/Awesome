@@ -580,6 +580,7 @@ upstream_recursive_servers:
 
   ### Storage
   - [Libvirt Storage Management](https://libvirt.org/index.html)
+  - [LinShare](https://www.linshare.org/) - Open-Source Google Drive Alternative.
   - [Lustre](https://www.lustre.org) - Open-source, parallel file system that supports many requirements of leadership class HPC simulation environments.
   - [Nextcloud Server](https://github.com/nextcloud/server) - Selfhosting storage server.
     - [Nextcloud Documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation.
