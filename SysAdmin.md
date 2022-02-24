@@ -306,6 +306,8 @@ bro / zeek
 - [ilo4_toolbox](https://github.com/airbus-seclab/ilo4_toolbox) - Toolbox for HPE iLO4 & iLO5 analysis.
 
 ## DNS
+- [Best Free Dynamic DNS Services](https://www.gnutomorrow.com/best-free-dynamic-dns-services/)
+  - [Duckdns.org](http://duckdns.org/) - duckdns.org is a free Dynamic DNS service offering accounts with up to 4 subdomains of duckdns.org. Optional donations will unlock more subdomains.
 - [DNS Proxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support.
 - [Dnscrypt Proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols [simplednscrypt.org](https://www.simplednscrypt.org).
 - [Encrypted DNS servers and relays](https://www.reddit.com/r/dnscrypt/comments/hllymo/new_encrypted_dns_servers_and_relays/)
