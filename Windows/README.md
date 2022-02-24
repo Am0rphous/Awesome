@@ -39,6 +39,9 @@
 3. Type: "setx /M MP_FORCE_USE_SANDBOX 1" and then press ENTER
 4. Then restart your computer, that’s it
 ````
+### Cheksum
+- [HashTab](https://hashtab.en.softonic.com/)
+
 ### Privacy
 - [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script/Utility/Application to debloat Windows 10, to remove Windows pre-installed unnecessary applications, stop some telemetry functions, stop Cortana from being used as your Search Index, disable unnecessary scheduled tasks, and more.
 
