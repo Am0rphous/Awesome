@@ -15,7 +15,7 @@
   - [Weather Station](https://github.com/Am0rphous/Awesome/tree/master/Raspberry%20Pi#weather-station)
 - [Software for the Raspberry](https://github.com/Am0rphous/Awesome/tree/master/Raspberry%20Pi#software-for-the-raspberry)
   - [Tools and Tips](https://github.com/Am0rphous/Awesome/tree/master/Raspberry%20Pi#tools-and-tips)
-
+  - [Virtualization](https://github.com/Am0rphous/Awesome/tree/master/Raspberry%20Pi#virtualization)
 <br>
 <br>
 
@@ -172,3 +172,6 @@
 - [Rpi_zram](https://github.com/novaspirit/rpi_zram) - script to enable zram for raspberry pi.
 - [System_info](https://github.com/kencormack/system_info) - A Raspberry Pi System Configuration Reporting Tool.
 - [TinyUSB](https://github.com/hathach/tinyusb) - _An open source cross-platform USB stack for embedded system._
+
+### Virtualization
+- [Pimox](https://github.com/pimox/pimox7) - Proxmox V7 for Raspberry Pi.
