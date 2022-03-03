@@ -638,7 +638,8 @@ upstream_recursive_servers:
 - [FlatPak](https://flatpak.org)
 - [Nimble](https://github.com/nim-lang/nimble#nimble-usage) - Package manager for the Nim programming language.
 - [Nixpkgs](https://github.com/NixOS/nixpkgs) - collection of over 60,000 software packages that can be installed with the Nix package manager [nixos.org](https://nixos.org).
-- [Snapd](https://snapcraft.io)
+- [Snapd](https://snapcraft.io) - [Github](https://github.com/snapcore/snapd)
+
 ### Finding Software
 - [Bitnami by VMware](https://bitnami.com/)
 
@@ -759,6 +760,7 @@ upstream_recursive_servers:
 - [Windows Terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place.
   - [Cascadia-code](https://github.com/microsoft/cascadia-code) - un, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal. 
   - [QTerminal](https://github.com/lxqt/qterminal) - A lightweight Qt-based terminal emulator.
+- [Xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered, cross-platform, Unix-gazing shell.
   ### Bash
   - [Awesome Bash](https://github.com/awesome-lists/awesome-bash) -  A curated list of delightful Bash scripts and resources.
   - [Bash-guide](https://github.com/Idnan/bash-guide) - A guide to learn bash.
