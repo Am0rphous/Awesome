@@ -761,6 +761,7 @@ upstream_recursive_servers:
   - [Cascadia-code](https://github.com/microsoft/cascadia-code) - un, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal. 
   - [QTerminal](https://github.com/lxqt/qterminal) - A lightweight Qt-based terminal emulator.
 - [Xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered, cross-platform, Unix-gazing shell.
+- [XXH]() - 🚀 Bring your favorite shell wherever you go through the ssh.
   ### Bash
   - [Awesome Bash](https://github.com/awesome-lists/awesome-bash) -  A curated list of delightful Bash scripts and resources.
   - [Bash-guide](https://github.com/Idnan/bash-guide) - A guide to learn bash.
