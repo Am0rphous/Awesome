@@ -54,6 +54,7 @@ ps axu | grep "/bin/tor"
 - [AppleALC](https://github.com/acidanthera/AppleALC) - Native macOS HD audio for not officially supported codecs.
 - [Blear](https://github.com/sindresorhus/blear) - iOS app that transforms your photos into stunning blurry wallpapers for your device.
 - [Brightness](https://github.com/nriley/brightness) - Command-line display brightness control for macOS.
+- [DiskUtilityUnhide](https://github.com/jacklukem/DiskUtilityUnhide) - to show all hidden EFIs and any APFS subvolumes.
 - [Eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
 - [Java](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html) - Go and download the .dmg file and follow instructions.
 - [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) - Intel Bluetooth Drivers for macOS.
