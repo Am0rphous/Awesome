@@ -3,6 +3,9 @@
 - [Digital Forensics and Incident Response](https://tajdini.net/blog/forensics-and-security/digital-forensics-and-incident-response/)
 - [hAcKtive Directory Forensics](https://github.com/YossiSassi/hAcKtive-Directory-Forensics) - Compiled for OSDFCon 2021 talk ["I know what your AD did last summer!.."](https://www.osdfcon.org/events_2021/i-know-what-your-ad-did-last-summer/) by 1nth35h311.
 
+## Disk
+- [Nntfstool](https://github.com/thewhiteninja/ntfstool) - Forensics tool for NTFS (parser, mft, bitlocker, deleted files).
+
 ## Event Log
 - [APT-Hunter](https://github.com/ahmedkhlief/APT-Hunter) - APT-Hunter is Threat Hunting tool for windows event logs which made by purple team mindset to provide detect APT movements hidden in the sea of windows event logs to decrease the time to uncover suspicious activity.
 
