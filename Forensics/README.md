@@ -132,7 +132,8 @@ dd if=/dev/fmem of=memory.raw bs=1MB count=2048
   - [How to analyze a VMware memory image with Volatility](https://andreafortuna.org/2019/04/03/how-to-analyze-a-vmware-memory-image-with-volatility/)
   - [MalConfScan](https://github.com/JPCERTCC/MalConfScan) - Volatility plugin for extracts configuration data of known malware.
   - [Memory analysis of the KBeast Linux rootkit](https://apps.dtic.mil/sti/pdfs/AD1004348.pdf)
-- [volatility3](https://github.com/volatilityfoundation/volatility3)
+  - [Volatility profiles](https://github.com/p0dalirius/volatility-profiles) - Memory mapping profiles for forensic analysis using volatility.
+- [Volatility3](https://github.com/volatilityfoundation/volatility3)
   - [Orochi](https://github.com/LDO-CERT/orochi) - The Volatility Collaborative GUI.
   - [plugins](https://github.com/volatilityfoundation/community) - Volatility plugins developed and maintained by the community.
 Vilatility commands
