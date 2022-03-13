@@ -590,6 +590,7 @@ upstream_recursive_servers:
   - [OpenDedupe](https://opendedup.org/odd) - OpenDedup provides an open source filesystem, SDFS, that includes inline deduplication to local or cloud storage targets.
   - [OpenZFS](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD.
   - [OwnCloud](https://owncloud.com) - Easy to install, free and self-hosted cloud-storage service.
+    - [Running OwnCloud in Docker on Linux](https://i12bretro.github.io/tutorials/0564.html)
   - [PetaSAN](http://www.petasan.org) - Open source Scale-Out SAN solution offering massive scalability and performance.
   - [Rockstor](http://rockstor.com) - BTRFS based NAS and private cloud storage solution. [Download Rockstor](https://sourceforge.net/projects/rockstor/files).
   - [SeaweedFS](https://github.com/chrislusf/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, Hadoop, WebDAV, encryption, Erasure Coding. 
