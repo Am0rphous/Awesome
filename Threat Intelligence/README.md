@@ -20,3 +20,5 @@
 - [ThreatHunting](https://github.com/GossiTheDog/ThreatHunting) - Tools for hunting for threats.
 - [TRAM](https://github.com/mitre-attack/tram) - Threat Report ATT&CK™ Mapping (TRAM) is a tool to aid analyst in mapping finished reports to ATT&CK.
 - [TypeDB Data - CTI](https://github.com/typedb-osi/typedb-data-cti) - Knowledge Graph for Cyber Threat Intelligence with TypeDB.
+- [VTI-Cosplay](https://github.com/r00tten/VTI-Cosplay) - vti-cosplay is a solution to the problem due to the lack of a Virustotal Enterprise license. First, it parses the YARA rule, maps each atomic entry to Virustotal API endpoints, and merges individual results. Subsequently, it mimics the YARA scan on the Virustotal platform.
+
