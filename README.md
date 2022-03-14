@@ -214,6 +214,7 @@ Communicate clearly <br>
   - [Gmail Desktop](https://github.com/timche/gmail-desktop) - 📮 Nifty Gmail desktop app for macOS, Linux & Windows.
   - [Post Quantum Mail](https://github.com/swapravo/pqm-client) - Quantum-safe anonymous encrypted emails. [postquantummail.com](https://postquantummail.com)
   - [ProtonMail](https://protonmail.com/) - ProtonMail is an end-to-end encrypted email service founded in 2013 in Geneva, Switzerland by scientists who spent time at the CERN research facility. ProtonMail uses client-side encryption to protect email content and user data before they are sent to ProtonMail servers, unlike other common email providers such as Gmail and Outlook.com. [Wikipedia](https://en.wikipedia.org/wiki/ProtonMail)
+  - [Prospect Mail client](https://github.com/julian-alarcon/prospect-mail) - Prospect is an Outlook mail desktop client powered by Electron.
   - [Roundcube Webmail](https://github.com/roundcube/roundcubemail) - [roundcube.net](https://roundcube.net)
   - [Thunderbird](https://www.thunderbird.net)
     - [Thunderbird Extensions](ps://addons.thunderbird.net)
