@@ -8,6 +8,7 @@
 - [Mapping MITRE ATT&CK® to CVEs for Impact](https://github.com/center-for-threat-informed-defense/attack_to_cve) - A methodology for mapping MITRE ATT&CK techniques to vulnerability records to describe the impact of a vulnerability.
 - [MISP - Threat Intelligence Sharing Platform](https://github.com/MISP/MISP) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform (formely known as Malware Information Sharing Platform).
   - [misp-modules](https://github.com/MISP/misp-modules) - Modules for expansion services, import and export in MISP.
+  - [misp-training-lea](https://github.com/MISP/misp-training-lea) - Practical Information Sharing between Law Enforcement and CSIRT communities using MISP.
   - [puppet-misp](https://github.com/voxpupuli/puppet-misp) - This module installs and configures MISP (Malware Information Sharing Platform).
 - [PyOTI - Python Open Threat Intelligence](https://github.com/RH-ISAC/PyOTI) - Python library for threat intelligence.
 - [Raven](https://github.com/qeeqbox/raven) - Advanced Cyber Threat Map (Simplified, customizable, responsive).
