@@ -783,6 +783,7 @@ upstream_recursive_servers:
 
   ### Emulators
   - [Cool Retro Term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display.
+  - [Darling](https://github.com/darlinghq/darling) - Darwin/macOS emulation layer for Linux.
   - [eDEX-UI](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
   - [Tilix](https://github.com/gnunn1/tilix/) - A tiling terminal emulator for Linux using GTK+ 3.
 
