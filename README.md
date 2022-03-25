@@ -306,6 +306,7 @@ Communicate clearly <br>
     xflux -k 3000 -l 51 -g 00 -nofork
     ````
   - [RedShift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings.
+  - [Safe Eyes](https://github.com/slgobinath/SafeEyes) - Protect your eyes from eye strain using this simple and beautiful, yet extensible break reminder.
   #### Themes
   - [18 Best GTK Themes for Ubuntu and other Linux Distributions](https://itsfoss.com/best-gtk-themes)
   - [25 Best Icon Themes For Ubuntu and Other Linux](https://itsfoss.com/best-icon-themes-ubuntu-16-04)
