@@ -286,7 +286,6 @@ Communicate clearly <br>
 - [GKrellM](http://gkrellm.srcbox.net/) - single process stack of system monitors.
 - [Plank](https://github.com/ricotz/plank) - Simple dock. Configure `plank   --preferences`
 - [Rainmeter](https://github.com/rainmeter/rainmeter) - (maybe run rainmeter in wine on linux?)
-- [RedShift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings.
 - [SpaceEye](https://github.com/KYDronePilot/SpaceEye) - Live satellite imagery for your desktop background.
 - [Variety](https://github.com/varietywalls/variety) - Wallpaper downloader and manager for Linux systems.
   #### Extensions
@@ -300,6 +299,13 @@ Communicate clearly <br>
   - [Gnome-look.org](https://www.gnome-look.org)
   - [NordTheme.com](https://www.nordtheme.com) - [Github](https://github.com/arcticicestudio/nord)
   - [Pling.com](https://www.pling.com)
+  #### Prevent Eyestrain
+  - [F.lux](https://justgetflux.com/) - it makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day. 
+    - [fluxgui](https://github.com/xflux-gui/fluxgui) - Better lighting for Linux. Open source GUI for xflux.
+    - ````powershell
+    xflux -k 3000 -l 51 -g 00 -nofork
+    ````
+  - [RedShift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings.
   #### Themes
   - [18 Best GTK Themes for Ubuntu and other Linux Distributions](https://itsfoss.com/best-gtk-themes)
   - [25 Best Icon Themes For Ubuntu and Other Linux](https://itsfoss.com/best-icon-themes-ubuntu-16-04)
