@@ -169,7 +169,7 @@ Communicate clearly <br>
 - [Mattermost](https://mattermost.com)
   - [Mattermost Antivirus Plugin](https://github.com/mattermost/mattermost-plugin-antivirus) - Antivirus plugin for scanning files uploaded to Mattermost.
   - [Mattermost Desktop Client](https://github.com/mattermost/desktop)
-  - [Mattermost Docker](https://github.com/mattermost/mattermost-docker) - Dockerfile for mattermost in production.
+  - [Mattermost Docker](https://github.com/mattermost/docker) - Redesigned mattermost-docker 
   - [Mattermost CLI](https://github.com/mattermost/mmctl)
   - [Mattermost Plugin E2EE](https://github.com/quarkslab/mattermost-plugin-e2ee) - End-to-end encryption plugin for Mattermost.
   - [Mattermost Plugin Jitsi](https://github.com/mattermost/mattermost-plugin-jitsi) - Jitsi plugin for Mattermost 🔌
