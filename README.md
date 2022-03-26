@@ -167,6 +167,7 @@ Communicate clearly <br>
   - [Set Up Jibri for Jitsi Recording/Streaming](https://nerdonthestreet.com/s/15) - This tutorial will demonstrate how to install Jibri to add recording and streaming functionality to a Jitsi Meet server.
 - [Lets Chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams.
 - [Mattermost](https://mattermost.com)
+  - [Mattermost Antivirus Plugin](https://github.com/mattermost/mattermost-plugin-antivirus) - Antivirus plugin for scanning files uploaded to Mattermost.
   - [Mattermost Desktop Client](https://github.com/mattermost/desktop)
   - [Mattermost Docker](https://github.com/mattermost/mattermost-docker) - Dockerfile for mattermost in production.
   - [Mattermost CLI](https://github.com/mattermost/mmctl)
