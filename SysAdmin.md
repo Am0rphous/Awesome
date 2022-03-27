@@ -591,6 +591,7 @@ upstream_recursive_servers:
   - [OpenDedupe](https://opendedup.org/odd) - OpenDedup provides an open source filesystem, SDFS, that includes inline deduplication to local or cloud storage targets.
   - [OpenZFS](https://github.com/openzfs/zfs) - OpenZFS on Linux and FreeBSD.
   - [OwnCloud](https://owncloud.com) - Easy to install, free and self-hosted cloud-storage service.
+    - [ownCloud docker: Server](https://github.com/owncloud-docker/server) - Docker image for ownCloud community edition.
     - [Running OwnCloud in Docker on Linux](https://i12bretro.github.io/tutorials/0564.html)
   - [PetaSAN](http://www.petasan.org) - Open source Scale-Out SAN solution offering massive scalability and performance.
   - [Rockstor](http://rockstor.com) - BTRFS based NAS and private cloud storage solution. [Download Rockstor](https://sourceforge.net/projects/rockstor/files).
