@@ -58,7 +58,12 @@
 - [Timesketch](https://github.com/google/timesketch) - Collaborative forensic timeline analysis.
 
 ## Disk
-- [WinBtrfs](https://github.com/maharmstone/btrfs) - WinBtrfs is a Windows driver for the next-generation Linux filesystem Btrfs. A reimplementation from scratch, it contains no code from the Linux kernel, and should work on any version from Windows XP onwards. It is also included as part of the free operating system ReactOS.
+- btrfs
+  - [How to recover data from Btrfs-RAID](https://www.ufsexplorer.com/articles/how-to/recover-data-btrfs-raid.php)
+  - [How to Recover Data from a BtrFS Drive or RAID System](https://hetmanrecovery.com/recovery_news/how-to-recover-data-from-btrfs-raid.htm)
+  - [Understanding and Working With BtrFS Filesystem in Linux](https://computingforgeeks.com/working-with-btrfs-filesystem-in-linux/)
+  - [Using RAID with btrfs and recovering from broken disks](https://linuxnatives.net/2015/using-raid-btrfs-recovering-broken-disks)
+  - [WinBtrfs](https://github.com/maharmstone/btrfs) - WinBtrfs is a Windows driver for the next-generation Linux filesystem Btrfs. A reimplementation from scratch, it contains no code from the Linux kernel, and should work on any version from Windows XP onwards. It is also included as part of the free operating system ReactOS.
 
 ## Documents, Whitepapers and related resources
 - [Detecting Malware With Memory Forensics with Hal Pomeranz (SANS Institute)](http://www.deer-run.com/~hal/Detect_Malware_w_Memory_Forensics.pdf)
