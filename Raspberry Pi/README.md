@@ -148,6 +148,8 @@
 - [Linux Weather Station Tutorial/inspo](https://www.landoflinux.com/linux_raspberry_pi_weather_station.html) - how to set up a Weather Station and a Raspberry Pi.
   - [WeeWX](http://weewx.com) - free, open source, software program, written in Python, which interacts with your weather station to produce graphs, reports, and HTML pages.
   - [WX Forum](https://www.wxforum.net/)
+- Netamo
+  - [CBatmo](https://github.com/Gulivertx/cbatmo) - A Netatmo Weather Station Web-APP for Raspberry Pi & official Raspberry touchscreen.
 - [Web-rpi-fm](https://github.com/dawiddyd/web-rpi-fm) - Web interface for Raspberry Pi fm transmitter. Made using Vue.js and Python.
 
 ## Software for the Raspberry
