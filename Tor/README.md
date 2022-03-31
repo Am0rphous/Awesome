@@ -94,8 +94,6 @@ virt-viewer vnc://localhost:5901
 
 ## Useful Resources
 - [Active Onions](https://github.com/k4m4/active-onions) - Filter out inactive onions from an array of onion URLs.
-- [Check.torproject.org](https://check.torproject.org/cgi-bin/TorBulkExitList.py?ip=1.1.1.1) - A list of all Tor exit nodes from the past 16 hours that can contact 1.1.1.1 on port 80
-- [Dan.me.uk](https://www.dan.me.uk/torlist/) - A page containing a full TOR nodelist.
 - [DEEP_WEB_LINKS_COLLECTION.md](https://gist.github.com/vyach-vasiliev/045af4c70cf2ed35c6091b4705093017)
 - [Eschalot](https://github.com/ReclaimYourPrivacy/eschalot) - It is important to stress that we have not written this piece of software (see LICENSE).
 - [Fresh Onions TOR Hidden Service Crawler](https://github.com/dirtyfilthy/freshonions-torscraper) - Fresh Onions is an open source TOR spider / hidden service onion crawler hosted at zlal32teyptf4tvi.onion.
@@ -124,6 +122,11 @@ virt-viewer vnc://localhost:5901
 - [ Help Censored Users, Run a Tor Bridge ](https://blog.torproject.org/run-a-bridge-campaign/)
 - [Response template for Tor relay operator to ISP](https://community.torproject.org/relay/community-resources/eff-tor-legal-faq/tor-dmca-response/)
 - [The Tor Network Runs Out Of Bridges, And The Project Is Asking For Help](https://www.eyerys.com/articles/news/tor-runs-out-of-bridges-ask-for-help)
+
+### Nodes
+- [Check.torproject.org](https://check.torproject.org/cgi-bin/TorBulkExitList.py?ip=1.1.1.1) - A list of all Tor exit nodes from the past 16 hours that can contact 1.1.1.1 on port 80
+- [Dan.me.uk](https://www.dan.me.uk/torlist/) - A page containing a full TOR nodelist.
+- [Exitgather](https://github.com/uforia/exitgather) - Tool for automatic list generation of known TOR and VPN exit nodes 
 
 ### Onion Services
 - Ahmia.fi - http://haystakvxad7wbk5.onion/
