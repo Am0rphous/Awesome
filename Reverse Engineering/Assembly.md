@@ -21,6 +21,12 @@ jmp <location>                  Jump to location
 je/jz <location>                Jump if equal/zero
 jne/jnz <location>              Jump if not equal/nonzero
 ret                             Pop return address from stack and jump to there
+
+add eax,[esp+4]                 "adds the value on the stack 4 bytes above the stack pointer esp"
+````
+- XORing a register with itself
+````
+xor eax, eax      #faster and more efficient way of setting eax to zero. 
 ````
 
 ## Assemblers
