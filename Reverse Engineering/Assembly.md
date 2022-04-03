@@ -25,3 +25,7 @@ ret                             Pop return address from stack and jump to there
 
 ## Assemblers
 - [NASM, the Netwide Assembler](https://github.com/netwide-assembler/nasm) - A cross-platform x86 assembler with an Intel-like syntax.
+
+## Mnemonics
+Description: It is a symbolic name for the instruction to execute.
+
