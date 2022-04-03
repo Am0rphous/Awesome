@@ -158,10 +158,12 @@ getcap            #examine file capabilities
 
 
 ## Frameworks
-
 - [Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
 - [ReverseAPK framework](https://github.com/1N3/ReverseAPK) - Quickly analyze and reverse engineer Android packages.
 - [Rizin](https://github.com/rizinorg/rizin) - UNIX-like reverse engineering framework and command-line toolset.
+
+## Learning Resources
+- [Learning Reverse Engineering](https://github.com/jstrosch/learning-reverse-engineering)
 
 ## Memory scanners
 - [Cheat-engine](https://github.com/cheat-engine/cheat-engine) - A development environment focused on modding. [cheatengine.org](https://cheatengine.org/)
