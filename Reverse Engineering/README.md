@@ -55,8 +55,11 @@ https://github.com/WebAssembly/wabt
 - [Pharos ](https://github.com/cmu-sei/pharos) - Automated static analysis tools for binary programs.
 - [The Life of Binaries](https://opensecuritytraining.info/LifeOfBinaries.html)
 - [Viper](https://github.com/viper-framework/viper) -Viper is a binary analysis and management framework.
-### PE - Portable Executables binaries
+### PE viewers
+Portable Executables binaries
 - [Capa](https://github.com/mandiant/capa) - The FLARE team's open-source tool to identify capabilities in executable files.
+- [CFF Explorer](https://ntcore.com/?page_id=388)
+- [PE Explorer](http://www.pe-explorer.com/)
 - [Pev](https://github.com/merces/pev) - The PE file analysis toolkit.
 - [XPEViewer](https://github.com/horsicq/XPEViewer) - PE file viewer/editor for Windows, Linux and MacOS.
 
@@ -91,25 +94,46 @@ windres       # A compiler for Windows resource files.
 
 
 ## Debugging
+Description: Used to manipulate the execution of a program to get intel on what it is doing when run.
 - [Bus Pirate](https://github.com/BusPirate/Bus_Pirate) - open source hacker multi-tool that talks to electronic stuff.
 - GDB
   - [GDB dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python.
 - [GEF](https://github.com/hugsy/gef) - GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers.
   - [GEF by bata24](https://github.com/bata24/gef) - GDB Enhanced Features for exploit devs & reversers.
+- [OllyDbg](http://www.ollydbg.de/)
 - [OpenOCD](http://openocd.org/) - open-source tool that allows debugging various ARM devices with GDB using a wide variety of JTAG programmers.
   - [JTAG Explained tutorial](https://blog.senr.io/blog/jtag-explained)
 - [ret-sync](https://github.com/bootleg/ret-sync) - ret-sync is a set of plugins that helps to synchronize a debugging session (WinDbg/GDB/LLDB/OllyDbg2/x64dbg) with IDA/Ghidra/Binary Ninja disassemblers. 
 - [x64dbg](https://github.com/x64dbg/x64dbg) - An open-source x64/x32 debugger for windows. 
 
 ## Decompilers
+Description: Uses a binary file to revert the compilation process and express the code as a structured higher-level language. A bit similar to disassemblers.
 - [JustDecompile Engine](https://github.com/telerik/JustDecompileEngine) - .NET decompiler.
 
 ## Disassemblers
+Description: Transforms a binary's machine code into assembly language/code.
 "takes one from binary to assembler–which is much lower level and is more difficult to read for humans."
- IDA Pro, Binary Ninja and radare2
+- [Binary Ninja](https://binary.ninja/) - Binary Ninja is an interactive disassembler, decompiler, and binary analysis platform for reverse engineers, malware analysts, vulnerability researchers, and software developers that runs on Windows, macOS, Linux.
 - [Capstone](https://github.com/aquynh/capstone) - Capstone disassembly/disassembler framework: Core (Arm, Arm64, BPF, EVM, M68K, M680X, MOS65xx, Mips, PPC, RISCV, Sparc, SystemZ, TMS320C64x, Web Assembly, X86, X86_64, XCore) + bindings.
+- [Cutter](https://github.com/radareorg/cutter) - Free and open-source reverse engineering framework powered by radare2.
+- [Ghidra](https://github.com/NationalSecurityAgency/ghidra) - reverse engineering (SRE) framework created and maintained by the National Security Agency. [ghidra-sre.org](https://ghidra-sre.org/)
+  - [AngryGhidra](https://github.com/Nalen98/AngryGhidra) - Use angr in Ghidra.
+  - [CERT Kaiju Binary Analysis Framework for GHIDRA](https://github.com/CERTCC/kaiju) - CERT Kaiju is a binary analysis framework extension for the Ghidra software reverse engineering suite. This repository is the primary, canonical repository for this project -- file bug reports and wishes here!
+  - [Ghidra-dark](https://github.com/zackelia/ghidra-dark) - Dark theme installer for Ghidra.
+  - [Ghidra Data](https://github.com/NationalSecurityAgency/ghidra-data) - Supporting Data Archives for Ghidra.
+  - [Ghidra_kernelcache](https://github.com/0x36/ghidra_kernelcache) - a Ghidra iOS kernelcache framework for reverse engineering.
+- [Hobbits](https://github.com/Mahlet-Inc/hobbits) - A multi-platform GUI for bit-based analysis, processing, and visualization.
+- [IDA Pro / IDA Home](https://www.hex-rays.com)
+  - [EfiXplorer](https://github.com/binarly-io/efiXplorer) - IDA plugin for UEFI firmware analysis and reverse engineering automation.
+  - [HashDB IDA Plugin](https://github.com/OALabs/hashdb-ida) - HashDB API hash lookup plugin for IDA Pro.
+  - [HexRaysPyTools](https://github.com/igogo-x86/HexRaysPyTools) - IDA Pro plugin which improves work with HexRays decompiler and helps in process of reconstruction structures and classes.
+  - [Obfuscation Detection](https://github.com/mcdulltii/obfDetect) - IDA plugin to pinpoint obfuscated code.
+  - [Wilhelm](https://github.com/zerotypic/wilhelm) - Alternative API for IDA / Hex-Rays.
 - [Smali](https://github.com/JesusFreke/smali) - assembler/disassembler for the dex format used by dalvik, Android's Java VM implementation.
 - [Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler, assembler, and disassembler.
+- [Radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset.
+  - [A journey into Radare2](https://github.com/ITAYC0HEN/A-journey-into-Radare2) - A series of tutorials about radare2 framework from [megabeets.net](https://www.megabeets.net)
+  - [R2sim](https://github.com/W3ndige/r2sim) - Hacked script to show similarities between two samples using radare2 framework.
 
 ## Dynamic analysis
 
@@ -133,24 +157,8 @@ getcap            #examine file capabilities
 
 
 ## Frameworks
-- [Cutter](https://github.com/radareorg/cutter) - Free and open-source reverse engineering framework powered by radare2.
-- [Ghidra](https://github.com/NationalSecurityAgency/ghidra) - reverse engineering (SRE) framework created and maintained by the National Security Agency. [ghidra-sre.org](https://ghidra-sre.org/)
-  - [AngryGhidra](https://github.com/Nalen98/AngryGhidra) - Use angr in Ghidra.
-  - [CERT Kaiju Binary Analysis Framework for GHIDRA](https://github.com/CERTCC/kaiju) - CERT Kaiju is a binary analysis framework extension for the Ghidra software reverse engineering suite. This repository is the primary, canonical repository for this project -- file bug reports and wishes here!
-  - [Ghidra-dark](https://github.com/zackelia/ghidra-dark) - Dark theme installer for Ghidra.
-  - [Ghidra Data](https://github.com/NationalSecurityAgency/ghidra-data) - Supporting Data Archives for Ghidra.
-  - [Ghidra_kernelcache](https://github.com/0x36/ghidra_kernelcache) - a Ghidra iOS kernelcache framework for reverse engineering.
-- [Hobbits](https://github.com/Mahlet-Inc/hobbits) - A multi-platform GUI for bit-based analysis, processing, and visualization.
-- [IDA Pro / IDA Home](https://www.hex-rays.com)
-  - [EfiXplorer](https://github.com/binarly-io/efiXplorer) - IDA plugin for UEFI firmware analysis and reverse engineering automation.
-  - [HashDB IDA Plugin](https://github.com/OALabs/hashdb-ida) - HashDB API hash lookup plugin for IDA Pro.
-  - [HexRaysPyTools](https://github.com/igogo-x86/HexRaysPyTools) - IDA Pro plugin which improves work with HexRays decompiler and helps in process of reconstruction structures and classes.
-  - [Obfuscation Detection](https://github.com/mcdulltii/obfDetect) - IDA plugin to pinpoint obfuscated code.
-  - [Wilhelm](https://github.com/zerotypic/wilhelm) - Alternative API for IDA / Hex-Rays.
+
 - [Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
-- [Radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset.
-  - [A journey into Radare2](https://github.com/ITAYC0HEN/A-journey-into-Radare2) - A series of tutorials about radare2 framework from [megabeets.net](https://www.megabeets.net)
-  - [R2sim](https://github.com/W3ndige/r2sim) - Hacked script to show similarities between two samples using radare2 framework.
 - [ReverseAPK framework](https://github.com/1N3/ReverseAPK) - Quickly analyze and reverse engineer Android packages.
 - [Rizin](https://github.com/rizinorg/rizin) - UNIX-like reverse engineering framework and command-line toolset.
 
