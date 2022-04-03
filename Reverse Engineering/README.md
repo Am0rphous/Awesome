@@ -122,6 +122,7 @@ Description: Transforms a binary's machine code into assembly language/code.
   - [Ghidra-dark](https://github.com/zackelia/ghidra-dark) - Dark theme installer for Ghidra.
   - [Ghidra Data](https://github.com/NationalSecurityAgency/ghidra-data) - Supporting Data Archives for Ghidra.
   - [Ghidra_kernelcache](https://github.com/0x36/ghidra_kernelcache) - a Ghidra iOS kernelcache framework for reverse engineering.
+  - [Patching Binaries With Ghidra](https://materials.rangeforce.com/tutorial/2020/04/12/Patching-Binaries/)
 - [Hobbits](https://github.com/Mahlet-Inc/hobbits) - A multi-platform GUI for bit-based analysis, processing, and visualization.
 - [IDA Pro / IDA Home](https://www.hex-rays.com)
   - [EfiXplorer](https://github.com/binarly-io/efiXplorer) - IDA plugin for UEFI firmware analysis and reverse engineering automation.
