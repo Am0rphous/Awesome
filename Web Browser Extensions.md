@@ -6,6 +6,7 @@
 - [Firefox GNOME theme ](https://github.com/rafaelmardojai/firefox-gnome-theme) - A GNOME👣 theme for Firefox🔥.
 - [H264ify](https://github.com/erkserkserks/h264ify) - A Chrome/Firefox extension that makes YouTube stream H.264 videos instead of VP8/VP9 videos.
   - [H264ify - addons.mozilla.org](https://addons.mozilla.org/en-US/firefox/addon/h264ify/)
+- [Night Eye](https://nighteye.app/) - Night Eye Extension - Dark mode on any website
 - [Promnesia](https://github.com/karlicoss/promnesia) - Promnesia is a browser extension for Chrome/Firefox (including Firefox for Android!) which serves as a web surfing copilot, enhancing your browsing history and web exploration experience.
 - [Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) - Translate your page in real time using Google or Yandex.
   - [Add-On FireFox - Translate Web Pages by Filipe Ps](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
