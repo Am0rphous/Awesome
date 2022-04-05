@@ -307,7 +307,7 @@ Communicate clearly <br>
     xflux -k 3400 -l 59.9 -g 10.7              #default color temperature
     xflux -k 2000 -l 59.9 -g 10.7 -nofork
     ````
-  - [RedShift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings.
+  - [RedShift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. [jonls.dk/redshift](http://jonls.dk/redshift/)
   - [Safe Eyes](https://github.com/slgobinath/SafeEyes) - Protect your eyes from eye strain using this simple and beautiful, yet extensible break reminder.
   #### Themes
   - [18 Best GTK Themes for Ubuntu and other Linux Distributions](https://itsfoss.com/best-gtk-themes)
