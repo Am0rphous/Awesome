@@ -11,8 +11,6 @@
 - [Guide-to-quick-forensics by securitywithoutborders](https://github.com/securitywithoutborders/guide-to-quick-forensics) - Guide to Quick Forensics.
 - [Paladin](https://sumuri.com/software/paladin/)
 - [The CERT Linux Forensics Tools Repository - LiFTeR](https://forensics.cert.org/)
-- [Tracee](https://github.com/aquasecurity/tracee) - Linux Runtime Security and Forensics using eBPF.
-  - [Bpftrace](https://github.com/iovisor/bpftrace) - High-level tracing language for Linux eBPF.
 - [Velociraptor](https://github.com/Velocidex/velociraptor) - Velociraptor is an advanced digital forensic and incident response tool that enhances your visibility into your endpoints. [Docs](https://docs.velociraptor.app/)
 
 ## Analysis of Office Documents (e.g. pdf)
@@ -69,6 +67,11 @@
 - [Detecting Malware With Memory Forensics with Hal Pomeranz (SANS Institute)](http://www.deer-run.com/~hal/Detect_Malware_w_Memory_Forensics.pdf)
 - [Free Malicious PDF Analysis E-book](http://didierstevens.com/files/data/malicious-pdf-analysis-ebook.zip) - Also within this folder and "Documents".
 - [SANS Forensics Whitepapers](https://digital-forensics.sans.org/community/whitepapers) - Papers written by forensic practitioners seeking GCFA, GCFE, and GREM Gold.
+
+## [eBPF](https://ebpf.io/)
+- [Bad BPF](https://github.com/pathtofile/bad-bpf) - A collection of eBPF programs demonstrating bad behavior.
+- [Tracee](https://github.com/aquasecurity/tracee) - Linux Runtime Security and Forensics using eBPF.
+  - [Bpftrace](https://github.com/iovisor/bpftrace) - High-level tracing language for Linux eBPF.
 
 ## Evidence collection 
 - [AutoLLR](https://github.com/Dead-Simple-Scripts/AutoLLR) - Script to automate Linux live evidence collection.
