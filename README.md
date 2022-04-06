@@ -171,6 +171,7 @@ Communicate clearly <br>
   - [Mattermost Desktop Client](https://github.com/mattermost/desktop)
   - [Mattermost Docker](https://github.com/mattermost/docker) - Redesigned mattermost-docker 
   - [Mattermost CLI](https://github.com/mattermost/mmctl)
+  - [Mattermost LDAP Module](https://github.com/Crivaledaz/Mattermost-LDAP) - This module provides an external LDAP authentication in Mattermost for the Team Edition (free).
   - [Mattermost Plugin E2EE](https://github.com/quarkslab/mattermost-plugin-e2ee) - End-to-end encryption plugin for Mattermost.
   - [Mattermost Plugin Jitsi](https://github.com/mattermost/mattermost-plugin-jitsi) - Jitsi plugin for Mattermost 🔌
     - [RSSFeed Plugin](https://integrations.mattermost.com/rssfeed-plugin/)
