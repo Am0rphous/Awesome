@@ -128,6 +128,7 @@ Description: Transforms a binary's machine code into assembly language/code.
   - [EfiXplorer](https://github.com/binarly-io/efiXplorer) - IDA plugin for UEFI firmware analysis and reverse engineering automation.
   - [HashDB IDA Plugin](https://github.com/OALabs/hashdb-ida) - HashDB API hash lookup plugin for IDA Pro.
   - [HexRaysPyTools](https://github.com/igogo-x86/HexRaysPyTools) - IDA Pro plugin which improves work with HexRays decompiler and helps in process of reconstruction structures and classes.
+  - [Ida Plugins List](https://github.com/onethawt/idaplugins-list) - A list of IDA Plugins.
   - [IdaRef](https://github.com/nologic/idaref) - IDA Pro Instruction Reference Plugin.
   - [Obfuscation Detection](https://github.com/mcdulltii/obfDetect) - IDA plugin to pinpoint obfuscated code.
   - [Wilhelm](https://github.com/zerotypic/wilhelm) - Alternative API for IDA / Hex-Rays.
