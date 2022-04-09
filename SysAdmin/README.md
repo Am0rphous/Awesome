@@ -3,8 +3,8 @@
 _"A good admin is a paranoid one. A better admin is both paranoid and prepared. - Unknown"_ <br>
 _“Intelligence is the ability to avoid doing work, yet getting the work done - Linux Torvald"_
 
-- [Active Directory & LDAP](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#active-directory--ldap)
-  - [Security](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#security)
+- [Active Directory & LDAP](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#active-directory--ldap)
+  - [Security](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin.md#security)
 - [Ad-block and Spam](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#ad-block-and-spam)
   - [Blocklists](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#blocklists)
 - [Anti-Virus / malware and rootkit detection](https://github.com/Am0rphous/Awesome/blob/master/SysAdmin.md#anti-virus--malware-and-rootkit-detection)
