@@ -46,6 +46,7 @@
 
 ## Bypass Firewalls / Encapsulation traffic
 - [CensoredPlanet.org](https://censoredplanet.org/)
+- [Cloak](https://github.com/cbeuw/Cloak) - A censorship circumvention tool to evade detection by authoritarian state adversaries.
 - [FindFrontableDomains](https://github.com/rvrsh3ll/FindFrontableDomains) - Search for potential frontable domains.
 - [Geneva](https://github.com/Kkevsterrr/geneva) - automated censorship evasion for the client-side and server-side 
   - [Article: Geneva tool lets you bypass censorship by merely doing nothing](https://www.hackread.com/geneva-tool-bypass-censorship-by-doing-nothing/)
