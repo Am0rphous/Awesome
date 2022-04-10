@@ -105,6 +105,7 @@ ps axu | grep "/bin/tor"
 ### Remote Desktop Applications
 - [Remote Desktop Manager Free](https://remotedesktopmanager.com/home/downloadfree) - Windows, Mac, Linux, Android & iOS.
 ### Virtualization
+- [Getutm](https://mac.getutm.app/)
 - [QEMU](https://www.qemu.org/download/#macos) - May be installed with `brew install qemu`.
 - [Parallels Desktop ($)](https://www.parallels.com/eu/) - The fastest, easiest and most powerful application for running Windows on Mac—without rebooting. Includes 30+ utilities to simplify everyday tasks on Mac and Windows.
 - [VirtualBox](https://www.virtualbox.org)
