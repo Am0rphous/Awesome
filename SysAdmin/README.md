@@ -941,6 +941,11 @@ upstream_recursive_servers:
    - [Proxmox](https://www.proxmox.com/en/downloads) - Proxmox VE is a complete open-source virtualization management platform that closely integrates two virtualization technologies: KVM (Kernel-based Virtual Machine) hypervisor and Linux container (LXC) to provide enterprise-class virtualization.
    - [SmartOS](https://wiki.smartos.org/download-smartos/) - SmartOS is a free and open-source SVR4 hypervisor based on the UNIX operating system that combines OpenSolaris technology with Linux’s KVM virtualization. It employs NetBSD pkgsrc package management.
    - [VMware free ESXi](https://customerconnect.vmware.com/en/web/vmware/evalcenter?p=free-esxi6) - The user needs to enter the free license key to use the Vmware Type1 hypervisor otherwise it will expire after 60 days.
+     - [Automated vSphere with Tanzu Basic Lab Deployment](https://github.com/lamw/vsphere-with-tanzu-basic-automated-lab-deployment) - Automated vSphere with Tanzu and HAProxy Lab Deployment.
+     - [ghettoVCB](https://github.com/lamw/ghettoVCB)
+     - [VMware Script Repository](https://github.com/lamw/vmware-scripts) - Various scripts for VMware based solutions.
+     - [vSphere Automated Lab Deployment](https://github.com/lamw/vsphere-automated-lab-deployment) - vSphere Automated Lab Deployment for vSphere 6.x (6.0, 6.5 & 6.7).
+     - [vSphere with Tanzu using NSX-T Automated Lab Deployment](https://github.com/lamw/vsphere-with-tanzu-nsxt-automated-lab-deployment) - vSphere with Tanzu using NSX-T Automated Lab Deployment.
    - [Xen Project](https://xenproject.org/users/virtualization/) - Xen is an open-source software platform or Linux hypervisor distro maintained by the global community of developers  It supports virtualization for x86, x86_64, IA64, ARM, and other CPU architectures. The Xen hypervisor is an enterprise-class alternative to proprietary virtualization platforms and hypervisors for x86 and IA64 platforms. Besides the open-source, it also available in the commercial version from Citrix.
    - [XenServer](https://xenserver.org/) - XenServer hypervisor runs an open-source type-1 or bare-metal hypervisor available in three versions: community, standard, and enterprise.
    
