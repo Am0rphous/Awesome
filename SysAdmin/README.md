@@ -463,6 +463,7 @@ lsscsi                          #Print SCSI Devices Info
   - [AwStats](https://www.awstats.org/) - Powerful and featureful web server log analyzer.
   - [Chainsaw](https://github.com/countercept/chainsaw) - Rapidly Search and Hunt through Windows Event Logs.
   - [GoAccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
+  - [Loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
   - [PgBadger](https://github.com/darold/pgbadger) - A fast PostgreSQL Log Analyzer [pgbadger.darold.net](https://pgbadger.darold.net).
   - [PgFormatter](https://github.com/darold/pgFormatter) - A PostgreSQL SQL syntax beautifier that can work as a console program or as a CGI. On-line demo site at [sqlformat.darold.net](http://sqlformat.darold.net).
   - [SendMailAnalyzer](https://github.com/darold/sendmailanalyzer) - Sendmail log Analyzer is a tool to monitor sendmail usage and generate HTML and graph reports. It reports all you ever wanted to know about email trafic on your network. You can also use it in ISP environment with per domain and per mailbox report.
