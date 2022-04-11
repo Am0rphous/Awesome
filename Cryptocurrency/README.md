@@ -48,6 +48,10 @@
 - [Cryptoslate.com](https://cryptoslate.com/)
 - [Trustnodes.com](https://www.trustnodes.com)
 
+## Privacy
+- [Conceal Network](https://conceal.network/)
+  - [Conceal Desktop (GUI)](https://github.com/ConcealNetwork/conceal-desktop)
+
 ## Programming
 - Solidity - "_Solidity is an object-oriented programming language for writing smart contracts. It is used for implementing smart contracts on various blockchain platforms, most notably, Ethereum. - [Wikipedia](https://en.wikipedia.org/wiki/Solidity)"
   - [Solidity Content & Resources]() - 📚 Content & Resources to get started on 🛠 Solidity.
