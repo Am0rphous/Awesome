@@ -509,6 +509,7 @@ sudo apt-get install redshift-gtk
 - [All AWESOME Linux Applications and Tools](https://www.fossmint.com/awesome-linux-software/)
 - [FossHub](https://www.fosshub.com/) - Free Open-Source Software
 - [Gnome Apps](https://wiki.gnome.org/Apps)
+- [LibHUnt](https://www.libhunt.com/)
 - [Linux.softpedia.com](https://linux.softpedia.com)
 - [Linux App Finder](https://linuxappfinder.com)
 - [pling.com](https://www.pling.com) - Pling.com is part of Opendesktop.org. It is the Store section, where creators can publish their libre products and content and get a small compensation each time a product is downloaded or media is viewed, limited on the amount of donations available for each section.
