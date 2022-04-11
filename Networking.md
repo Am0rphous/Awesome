@@ -1,5 +1,7 @@
 # Networking
+
 - [Checkip](https://github.com/jreisinger/checkip) - Check an IP address using various public services.
+- [Cidranger](https://github.com/yl2chen/cidranger) - Fast IP to CIDR lookup in Golang.
 - [Darknet-tools](https://cybercoplabs.net/article/darknet-tools)
 - [Firehol's blocklist-ipsets](https://github.com/firehol/blocklist-ipsets) - ipsets dynamically updated with firehol's update-ipsets.sh script.
 - [Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) - 我终于能用谷歌搜中文了…… 
