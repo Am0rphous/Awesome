@@ -762,6 +762,7 @@ upstream_recursive_servers:
 - [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) - A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. [ohmyz.sh](https://ohmyz.sh/)
   - [Powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme.
 - [Guake](https://github.com/Guake/guake) - Drop-down terminal for GNOME.
+- [Shell Script Compiler]() - Shell script compiler.
 - [Terminal](https://github.com/elementary/terminal) - Terminal emulator designed for elementary OS.
 - [Terminals Are Sexy ](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [Tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix.
