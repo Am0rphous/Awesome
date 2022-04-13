@@ -134,6 +134,7 @@ bro / zeek
     - [compromised-ips.txt by emergingthreats.net](https://rules.emergingthreats.net/blockrules/compromised-ips.txt)
     - [emerging-Block-IPs.txt by emergingthreats.net](https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt)
 
+
 ## Anti-Virus / malware and rootkit detection
 - [AlphaSeclab's anti-av](https://github.com/alphaSeclab/anti-av) - Resources About Anti-Virus and Anti-Anti-Virus, including 200+ tools and 1300+ posts.
 - [Al-khaser](https://github.com/LordNoteworthy/al-khaser) - PoC "malware" application with good intentions that aims to stress your anti-malware system.
@@ -177,6 +178,7 @@ bro / zeek
 - [linux-malware-detect](https://github.com/rfxn/linux-malware-detect) - Linux Malware Detection (LMD) [R-fx Networks](https://www.rfxn.com/projects/linux-malware-detect/).
 - [Malware-ioc by ESET](https://github.com/eset/malware-ioc) - Indicators of Compromises (IOC) of our various investigations.
 - [Microsoft Safety Scanner](https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/safety-scanner-download) - Microsoft Safety Scanner is a scan tool designed to find and remove malware from Windows computers.
+- [Penne](https://github.com/Penetrum-Security/Penne) - Penne is an opensource AV (anti-virus) developed by Penetrum LLC.
 - [Phishdetect-node](https://github.com/phishdetect/phishdetect-node) - Server component of PhishDetect.
 - [PHP Malware Finder](https://github.com/jvoisin/php-malware-finder) - Does its very best to detect obfuscated/dodgy code as well as files using PHP functions often used in malwares/webshells.
 - [PhpMussel](https://github.com/phpMussel/phpMussel) - PHP-based anti-virus anti-trojan anti-malware solution.
