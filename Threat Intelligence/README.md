@@ -12,6 +12,7 @@
   - [misp-modules](https://github.com/MISP/misp-modules) - Modules for expansion services, import and export in MISP.
   - [misp-training-lea](https://github.com/MISP/misp-training-lea) - Practical Information Sharing between Law Enforcement and CSIRT communities using MISP.
   - [puppet-misp](https://github.com/voxpupuli/puppet-misp) - This module installs and configures MISP (Malware Information Sharing Platform).
+- [Penetrum LLC Opensource Threat Intelligence](https://github.com/Penetrum-Security/Threat-Intelligence) - Penetrum LLC opensource Threat Intel. All information is also available at https://penetrum.com.
 - [PyOTI - Python Open Threat Intelligence](https://github.com/RH-ISAC/PyOTI) - Python library for threat intelligence.
 - [Raven](https://github.com/qeeqbox/raven) - Advanced Cyber Threat Map (Simplified, customizable, responsive).
   - [Worldmap](https://github.com/qeeqbox/worldmap) - An interactive world-map that has been used in live Cyber Threat interfaces.
