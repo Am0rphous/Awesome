@@ -53,6 +53,7 @@ https://github.com/WebAssembly/wabt
 - [DBA](https://github.com/s0i37/DBA) - Dynamic Binary Analysis scripts.
 - [Fq](https://github.com/wader/fq) - jq for binary formats.
 - [Pharos ](https://github.com/cmu-sei/pharos) - Automated static analysis tools for binary programs.
+- [Qiling](https://github.com/qilingframework/qiling) - Qiling Advanced Binary Emulation Framework.
 - [The Life of Binaries](https://opensecuritytraining.info/LifeOfBinaries.html)
 - [Viper](https://github.com/viper-framework/viper) -Viper is a binary analysis and management framework.
 ### PE viewers
