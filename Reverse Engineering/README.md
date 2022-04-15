@@ -93,6 +93,10 @@ windmc        # A Windows compatible message compiler.
 windres       # A compiler for Windows resource files.
 ````
 
+- nm
+````
+nm -D file.so | grep T
+````
 
 ## Debugging
 Description: Used to manipulate the execution of a program to get intel on what it is doing when run.
