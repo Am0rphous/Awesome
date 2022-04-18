@@ -402,6 +402,7 @@ lsscsi                          #Print SCSI Devices Info
 - [AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - Free admin dashboard template based on Bootstrap 4. [adminlte.io](https://adminlte.io)
 - [BashTop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor.
 - [Bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor.
+- [DetectionLabELK](https://github.com/cyberdefenders/DetectionLabELK) - DetectionLabELK is a fork from DetectionLab with ELK stack instead of Splunk.
 - [Docker Swarm - Promitheus, Grafana, Node Exporter, Loki, Promtail, Caddy](https://github.com/zet694/promitheus_monitoring) - Docker Swarm - Promitheus, Grafana, Node Exporter, Loki, Promtail, Caddy.
 - [Elastic stack (ELK) on Docker](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 - [FileMonitor](https://github.com/TheKingOfDuck/FileMonitor) - 文件变化实时监控工具(代码审计/黑盒/白盒审计辅助工具).
