@@ -101,6 +101,7 @@ nm -D file.so | grep T
 ## Debugging
 Description: Used to manipulate the execution of a program to get intel on what it is doing when run.
 - [Bus Pirate](https://github.com/BusPirate/Bus_Pirate) - open source hacker multi-tool that talks to electronic stuff.
+- [Frida](https://frida.re/) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers. [Github](https://github.com/frida/frida)
 - GDB
   - [GDB dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python.
 - [GEF](https://github.com/hugsy/gef) - GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers.
@@ -123,6 +124,7 @@ Description: Transforms a binary's machine code into assembly language/code.
 - [Cutter](https://github.com/radareorg/cutter) - Free and open-source reverse engineering framework powered by radare2.
   - [Cutter Plugins](https://github.com/rizinorg/cutter-plugins) - A curated list of Community Plugins and Scripts written for Cutter.
     - [Radare2-deep-graphs](https://github.com/JavierYuste/radare2-deep-graph) - A Cutter plugin to generate radare2 graphs.
+- [Frida](https://www.frida.xyz/)
 - [Ghidra](https://github.com/NationalSecurityAgency/ghidra) - reverse engineering (SRE) framework created and maintained by the National Security Agency. [ghidra-sre.org](https://ghidra-sre.org/)
   - [AngryGhidra](https://github.com/Nalen98/AngryGhidra) - Use angr in Ghidra.
   - [CERT Kaiju Binary Analysis Framework for GHIDRA](https://github.com/CERTCC/kaiju) - CERT Kaiju is a binary analysis framework extension for the Ghidra software reverse engineering suite. This repository is the primary, canonical repository for this project -- file bug reports and wishes here!
