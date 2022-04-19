@@ -286,6 +286,7 @@ bro / zeek
   - [Applications](https://cockpit-project.org/applications.html) - The Cockpit Web Console is extendable. The Cockpit team and others have built applications that are easy to install.
   - [Manage KVM Virtual Machines Using Cockpit Web Console](https://ostechnix.com/manage-kvm-virtual-machines-using-cockpit-web-console/)
   - [Reconfiguring virtual machines with Cockpit](https://fedoramagazine.org/reconfiguring-virtual-machines-with-cockpit/)
+- [Dashy](https://github.com/Lissy93/dashy) - A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!
 - [Froxlor Server Management Panel](https://froxlor.org/)
 - [ISPConfig](https://www.ispconfig.org/)
 - [Sentroa Hosting Web GUI](http://www.sentora.org/)
