@@ -272,7 +272,8 @@ Communicate clearly <br>
     - [PlantUML](https://github.com/plantuml/plantuml) - Generate diagrams from textual description.
   - [GitUI](https://github.com/extrawurst/gitui) - GitUI provides you with the comfort of a git GUI but right in your terminal. Fast terminal-ui for git written in rust.
   - [Logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap 
-    - [Awesome-logseq]()
+    - [Awesome-logseq](https://github.com/logseq/awesome-logseq)
+  - [Most active GitHub users in Norway](https://commits.top/norway.html)
   - [OutLine](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
 
   ### VoIP
