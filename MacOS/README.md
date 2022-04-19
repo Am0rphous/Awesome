@@ -8,6 +8,7 @@
 - [Awesome macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
 - [Awesome macOS open source applications by  serhii-londar](https://github.com/serhii-londar/open-source-mac-os-apps)
 - [Cmatrix](https://github.com/levithomason/cmatrix) - The original Matrix effect for your Mac terminal.
+- [Does it ARM](https://github.com/ThatGuySam/doesitarm) - 🦾 A list of reported app support for Apple Silicon and the new Apple M1 Macs.
 - [Download-BigSur](https://github.com/chris1111/Download-BigSur) - Simple macOS Appplication for downloading macOS Big Sur 11.
 - [Mac Apps](https://github.com/jeffreyjackson/mac-apps)
 - [MacOS-Security-and-Privacy-Guide ](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS.
