@@ -788,6 +788,8 @@ Based on that data, you can find the most popular ones and their alternatives.
   sudo howdy disable 1            #disable it
   sudo howdy disable 0            #enable it
   ````
+  - [Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist) - A curated checklist of 300+ tips for protecting digital security and privacy in 2022.
+  
   ### Time Management
   - [Deepin Calender](https://github.com/linuxdeepin/dde-calendar) - Calendar application for DDE.
   - [GNOME Calendar](https://gitlab.gnome.org/GNOME/gnome-calendar) [github](https://github.com/GNOME/gnome-calendar)
