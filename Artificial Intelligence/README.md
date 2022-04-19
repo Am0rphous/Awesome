@@ -81,6 +81,7 @@ Description: _Sentiment analysis (also known as opinion mining or emotion AI) is
 - [Docker Container wallstreetbets-sentiment-analysis](https://github.com/asad70/wallstreetbets-sentiment-analysis)
 - [FastText](https://github.com/facebookresearch/fastText) -  Library for fast text representation and classification.
 - [Napkin-text-analysis](https://github.com/adulau/napkin-text-analysis) - Napkin is a simple tool to produce statistical analysis of a text.
+- [Twitter Sentiment Visualisations](https://github.com/Lissy93/twitter-sentiment-visualisation) - The R&D of a sentiment analysis module, and the implementation of it on real-time social media data, to generate a series of live visual representations of sentiment towards a specific topic or by location in order to find trends.
 
 ## Web
 - [Cogito-ntnu.no](https://cogito-ntnu.no)
