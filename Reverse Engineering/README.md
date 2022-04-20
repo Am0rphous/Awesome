@@ -120,6 +120,7 @@ Description: Uses a binary file to revert the compilation process and express th
 Description: Transforms a binary's machine code into assembly language/code.
 "takes one from binary to assembler–which is much lower level and is more difficult to read for humans."
 - [Binary Ninja](https://binary.ninja/) - Binary Ninja is an interactive disassembler, decompiler, and binary analysis platform for reverse engineers, malware analysts, vulnerability researchers, and software developers that runs on Windows, macOS, Linux.
+  - [ObjCGraphView](https://github.com/trailofbits/ObjCGraphView) - A graph view plugin for Binary Ninja to visualize Objective-C.
 - [Capstone](https://github.com/aquynh/capstone) - Capstone disassembly/disassembler framework: Core (Arm, Arm64, BPF, EVM, M68K, M680X, MOS65xx, Mips, PPC, RISCV, Sparc, SystemZ, TMS320C64x, Web Assembly, X86, X86_64, XCore) + bindings.
 - [Cutter](https://github.com/radareorg/cutter) - Free and open-source reverse engineering framework powered by radare2.
   - [Cutter Plugins](https://github.com/rizinorg/cutter-plugins) - A curated list of Community Plugins and Scripts written for Cutter.
