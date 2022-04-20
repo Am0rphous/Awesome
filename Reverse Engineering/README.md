@@ -49,6 +49,7 @@ https://github.com/WebAssembly/wabt
 - [Angr](https://github.com/angr/angr) - A powerful and user-friendly binary analysis platform.
   - [Angr Documentation](https://github.com/angr/angr-doc)
   - [Angr Gui](https://github.com/angr/angr-management) - A GUI for angr.
+- [BinAbsInspector](https://github.com/KeenSecurityLab/BinAbsInspector) - BinAbsInspector (Binary Abstract Inspector) is a static analyzer for automated reverse engineering and scanning vulnerabilities in binaries, which is a long-term research project incubated at Keenlab. It is based on abstract interpretation with the support from Ghidra. It works on Ghidra's Pcode instead of assembly. Currently it supports binaries on x86,x64, armv7 and aarch64.
 - [Cwe_checker](https://github.com/fkie-cad/cwe_checker) - cwe_checker finds vulnerable patterns in binary executables.
 - [DBA](https://github.com/s0i37/DBA) - Dynamic Binary Analysis scripts.
 - [Fq](https://github.com/wader/fq) - jq for binary formats.
