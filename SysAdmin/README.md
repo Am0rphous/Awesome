@@ -373,6 +373,8 @@ lsscsi                          #Print SCSI Devices Info
 - [Awesome Endpoint Detection and Response tools](https://github.com/remiflavien1/awesome-endpoint-detection-and-response) - Collection of tool you need to have in your Endpoint Detection and Response arsenal.
 - [CrowdSec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative IPS able to analyze visitor behavior & provide an adapted response to all kinds of attacks. It also leverages the crowd power to generate a global CTI database to protect the user network.
 - [DenyHosts](https://github.com/denyhosts/denyhosts) - Automated host blocking from SSH brute force attacks.
+- [Ehids-agent](https://github.com/ehids/ehids-agent) - A Linux Host-based Intrusion Detection System based on eBPF. 
+  - [Ecapture](https://github.com/ehids/ecapture) - capture SSL/TLS text content without CA cert by eBPF.
 - [EmoCheck](https://github.com/JPCERTCC/EmoCheck) -  Emotet detection tool for Windows OS.
 - [Fail2Ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors. [www.fail2ban.org](https://www.fail2ban.org)
 - [FwKnop (FireWall KNock OPerator)](https://github.com/mrash/fwknop) - Single Packet Authorization > Port Knocking.
