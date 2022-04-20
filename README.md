@@ -455,9 +455,10 @@ sudo apt-get install redshift-gtk
     - [Laravel](https://github.com/laravel/laravel) - A PHP framework for web artisans.
       - [laravel.com](https://laravel.com)
       - [Laravel Passport](https://github.com/laravel/passport) - Laravel Passport provides OAuth2 server support to Laravel.
-    #### Python Fire
+    #### Python
     - [30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python) - Short Python code snippets for all your development needs.
     - [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
+    - [orbit](https://github.com/uber/orbit) - A Python package for Bayesian forecasting with object-oriented design and probabilistic models under the hood. 
     - [Pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more.
     - [Python Fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object. 
     - [Pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python.
