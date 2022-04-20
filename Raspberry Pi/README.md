@@ -24,6 +24,7 @@
 - [PiHole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements.
   - [Docker Pi-hole](https://github.com/pi-hole/docker-pi-hole) -  Pi-hole in a docker container.
 - [AdGuard](https://github.com/AdguardTeam/AdguardHome) - Network-wide ads & trackers blocking DNS server.
+  - [AdGuard-WireGuard-Unbound-Cloudflare](https://github.com/trinib/AdGuard-WireGuard-Unbound-Cloudflare) - The Ultimate Network Security Guide ─ Protection🔒 | Privacy🔎 | Performance🚀 for your network 24/7🕛 Accessible anywhere🌏 
   ### BlackLists
   - [DNSblacklist](https://github.com/farhanfaisal/DNSblacklist) - _A shell script to download malware domains from various sources, and configuring unbound DNS config file to be used as a local recursive DNS server._
   - [Exposure: Finding Malicious Domains Using Passive DNS Analysis](https://www.ndss-symposium.org/wp-content/uploads/2017/09/bilge2.pdf)
