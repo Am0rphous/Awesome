@@ -142,6 +142,7 @@ Communicate clearly <br>
 - [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin#metric--metric-collection) -  MOVED/ARCHIVED A curated list of amazingly awesome open source sysadmin resources.
 - [Awesome Termux](https://github.com/T4P4N/Awesome-Termux)
 - [Awesome Ubuntu](https://github.com/awesome-soft/awesome-ubuntu) - A curated list of awesome software for Ubuntu.
+- [Awesome Ubuntu Startup](https://github.com/trinib/Awesome-Ubuntu-Startup) - 😎Basic yet awesome stuff for Ubuntu based distributions😎.
 - [Awesome UNIX](https://github.com/sirredbeard/Awesome-UNIX) - All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
 - [Awesome Uxn](https://github.com/hundredrabbits/awesome-uxn) - Awesome things from the community.
 - [Awesome WAF](https://github.com/0xInfection/Awesome-WAF) - 🔥 Everything about web-application firewalls (WAF).
