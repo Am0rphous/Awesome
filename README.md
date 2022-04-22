@@ -738,8 +738,11 @@ Based on that data, you can find the most popular ones and their alternatives.
 
   ### Note Taking Apps
   - [Ao](https://github.com/klaussinani/ao) - Elegant Microsoft To-Do desktop app [klaussinani.github.io/ao](https://klaussinani.github.io/ao).
-  - |CherryTree](https://github.com/giuspen/cherrytree) - A hierarchical note taking application, featuring rich text and syntax highlighting, storing data in a single XML or SQLite file. The project home page is [giuspen.com/cherrytree](https://www.giuspen.com/cherrytree/)
+  - [CherryTree](https://github.com/giuspen/cherrytree) - A hierarchical note taking application, featuring rich text and syntax highlighting, storing data in a single XML or SQLite file. The project home page is [giuspen.com/cherrytree](https://www.giuspen.com/cherrytree/)
   - [Etherpad](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
+  - [Evernote](https://evernote.com)
+    - [NixNote2](https://github.com/baumgarr/Nixnote2) - A clone of Evernote for Linux.
+    - [Tusk](https://github.com/klaussinani/tusk) - Refined Evernote desktop app.
   - [Joplin](https://github.com/laurent22/joplin) - An open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: [discourse.joplinapp.org](https://discourse.joplinapp.org)
   - [MindNode](https://mindnode.com/download) - Brainstorm and mind mapping.
     - [Dracula for MindNode](https://github.com/dracula/mindnode) - Dark theme for MindNode.
