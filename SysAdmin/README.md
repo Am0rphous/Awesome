@@ -860,7 +860,11 @@ upstream_recursive_servers:
   - [Rufus (Windows)](https://rufus.ie) - The Reliable USB Formatting Utility.
   - [UNetbootin](https://github.com/unetbootin/unetbootin) - UNetbootin installs Linux/BSD distributions to a partition or USB drive.
   - [Ventoy](https://github.com/ventoy/Ventoy) - Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files [ventoy.net](https://ventoy.net/en/download.html).
-  - [WoeUSB](https://github.com/WoeUSB/WoeUSB) -  A Microsoft Windows® USB installation media preparer for GNU+Linux.
+  - [WoeUSB](https://github.com/WoeUSB/WoeUSB) - A Microsoft Windows® USB installation media preparer for GNU+Linux.
+  #### Operating System
+  - [Packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+  - [Self-Installing Windows OVA & ISO](https://github.com/brimstone/windows-ova) - Self-Installing Windows OVA. Automate and distribute Windows as an OVA.
+  
   ### Power and Battery
   - [PowerAPI](https://github.com/powerapi-ng/powerapi) - PowerAPI is a Python framework for building software-defined power meters.
   - [PowerStat](https://launchpad.net/~colin-king/+archive/ubuntu/powermanagement) - Various tools and utilities to help measure power consumption and monitor system activity.
