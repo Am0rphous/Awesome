@@ -385,6 +385,7 @@ sudo apt-get install redshift-gtk
   ### Icons
   - [100+ Awesome Free Icons Sets by designwall.com](https://www.designwall.com/blog/100-awesome-free-icons-sets/)
   - [Cloud Security Icons](https://github.com/aquasecurity/cloudsec-icons) - A collection of cloud security icons ☁️🔒
+  - [Emote](https://github.com/tom-james-watson/Emote) - Emoji Picker for Linux written in GTK3.
   - [Fontawesome.com's icons](https://fontawesome.com/v4.7/icons/)
   - [Icon](https://github.com/bung87/icon) - Icon file generator for Windows, macOS, Web.
   - [Icons8.com](https://icons8.com/icons/)
