@@ -795,6 +795,7 @@ Based on that data, you can find the most popular ones and their alternatives.
   - [Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist) - A curated checklist of 300+ tips for protecting digital security and privacy in 2022.
   
   ### Time Management
+  - [BreakTimer App](https://github.com/tom-james-watson/breaktimer-app) - Manage periodic breaks. Avoid eye-strain and RSI.
   - [Deepin Calender](https://github.com/linuxdeepin/dde-calendar) - Calendar application for DDE.
   - [GNOME Calendar](https://gitlab.gnome.org/GNOME/gnome-calendar) [github](https://github.com/GNOME/gnome-calendar)
   - [HTML5 Binary Clock](https://github.com/AE0L/html5-binary-clock) - Binary Clock written in HTML5, CSS3, and Vanilla JS.
