@@ -379,6 +379,9 @@ sudo apt-get install redshift-gtk
   - [VSCodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing. [homepage](https://vscodium.com/)
   - [Code Server](https://github.com/cdr/code-server) - VS Code in the browser.
 
+  ### File Managers
+  - [Spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. 
+  
   ### Frontend
   - [codepen.io](https://codepen.io/) - The best place to build, test, and discover front-end code.
 
