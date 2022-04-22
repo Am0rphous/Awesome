@@ -24,6 +24,14 @@ Towards Deep Learning
 Description: _Reinforcement learning is an area of machine learning concerned with how intelligent agents ought to take actions in an environment in order to maximize the notion of cumulative reward. Reinforcement learning is one of three basic machine learning paradigms, alongside supervised learning and unsupervised learning._ [wikipedia](https://en.wikipedia.org/wiki/Reinforcement_learning)
 - [Vicero](https://github.com/CogitoNTNU/vicero) - Reinforcement Learning Framework.
 
+## Learning
+- [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 25 lessons, 50 quizzes, classic Machine Learning for all.
+- [Machine Learning for Cyber Security](https://github.com/wtsxDev/Machine-Learning-for-Cyber-Security) - Curated list of tools and resources related to the use of machine learning for cyber security.
+- [ML Course Notes](https://github.com/dair-ai/ML-Course-Notes) - Sharing course notes on all topics related to machine learning, NLP, and AI.
+- [ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses) - A place to discover the latest machine learning courses on YouTube.
+- [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
+
+
 ## Resources
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [Camera Classifier](https://github.com/NeuralNine/camera-classifier) - A Python application that uses camera input to train a SVM to respond to specific actions.
@@ -31,10 +39,8 @@ Description: _Reinforcement learning is an area of machine learning concerned wi
 - [Emojifier](https://github.com/Anandesh-Sharma/Emojifier) - Recognizes faces in real time and predict emoji according to the emotion.
 - [GoLearn](https://github.com/sjwhitworth/golearn) - Machine Learning for Go.
 - [Machine Learning and Security](https://github.com/13o-bbr-bbq/machine_learning_security) - Source code about machine learning and security.
-- [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 25 lessons, 50 quizzes, classic Machine Learning for all.
-- [Machine Learning for Cyber Security](https://github.com/wtsxDev/Machine-Learning-for-Cyber-Security) - Curated list of tools and resources related to the use of machine learning for cyber security.
 - [ML Visuals](https://github.com/dair-ai/ml-visuals) - ML Visuals contains figures and templates which you can reuse and customize to improve your scientific writing.
 - [MLSpace](https://github.com/abhishekkrthakur/mlspace) - MLSpace: Hassle-free machine learning & deep learning development.
 - [OAP-MLlib](https://github.com/oap-project/oap-mllib) - Optimized Spark package to accelerate machine learning algorithms in Apache Spark MLlib.
 - [ONNX Runtime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
-- [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
+
