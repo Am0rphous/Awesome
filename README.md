@@ -188,6 +188,7 @@ Communicate clearly <br>
 - [Microsoft Temas](https://www.microsoft.com/nb-no/microsoft-teams/download-app) - Linux, Mac, Windows, ios, android
   - [clear_cache_MS_Teams.sh](https://gist.github.com/mrcomoraes/c83a2745ef8b73f9530f2ec0433772b7)
 - [Openfire](https://igniterealtime.org/projects/openfire/) - Openfire is a real time collaboration (RTC) server licensed under the Open Source Apache License. It uses the only widely adopted open protocol for instant messaging, XMPP Openfire is incredibly easy to setup and administer, but offers rock-solid security and performance. [Github](https://github.com/igniterealtime/Openfire)
+- [p2p.chat](https://github.com/tom-james-watson/p2p.chat) - p2p video conferencing powered by WebRTC.
 - [Rambox](https://github.com/ramboxapp/commu nity-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The ultimate Free Open Source Solution for team communications.
   - [RC-Trending](https://github.com/frontendwizard/rc-trending) - News feed from multiple sources right into rocket chat.
@@ -521,6 +522,7 @@ sudo apt-get install redshift-gtk
 
 ## Games
 - [Games on Github](https://github.com/leereilly/games) - A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine. 
+- [Wiki Trivia](https://github.com/tom-james-watson/wikitrivia) - Wikidata as a trivia card game.
 
 ## Geography and maps
 - [Cruiser](https://wiki.openstreetmap.org/wiki/Cruiser)
