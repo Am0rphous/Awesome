@@ -1,5 +1,8 @@
 # Artificial Intelligence Resources
 
+- [correlation](https://github.com/easystats/correlation) - Methods for Correlation Analysis.
+
+<br>
 
 - [AI Cheatsheets](https://github.com/kailashahirwar/cheatsheets-ai) - Essential Cheat Sheets for deep learning and machine learning researchers.
 - [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2020.
