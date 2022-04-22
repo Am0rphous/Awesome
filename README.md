@@ -321,7 +321,6 @@ sudo apt-get install fluxgui
 ````powershell
 sudo apt-get install redshift-gtk
 ````
-- [Safe Eyes](https://github.com/slgobinath/SafeEyes) - Protect your eyes from eye strain using this simple and beautiful, yet extensible break reminder.
   #### Themes
   - [18 Best GTK Themes for Ubuntu and other Linux Distributions](https://itsfoss.com/best-gtk-themes)
   - [25 Best Icon Themes For Ubuntu and Other Linux](https://itsfoss.com/best-icon-themes-ubuntu-16-04)
@@ -801,6 +800,7 @@ Based on that data, you can find the most popular ones and their alternatives.
   - [HTML5 Binary Clock](https://github.com/AE0L/html5-binary-clock) - Binary Clock written in HTML5, CSS3, and Vanilla JS.
   - [Pomatez](https://github.com/roldanjr/pomatez) - Stay Focused. Take a Break.
   - [Pomodoro Logger](https://github.com/zxch3n/PomodoroLogger) - Pomodoro Logger 🕤 -- When a time tracker meets Pomodoro and Kanban board.
+  - [Safe Eyes](https://github.com/slgobinath/SafeEyes) - Protect your eyes from eye strain using this simple and beautiful, yet extensible break reminder.
   - [Tockler](https://github.com/MayGo/tockler) - Application that tracks your time by monitoring your active windows (only titles) and idle time. 
   - [Tui.calendar](https://github.com/nhn/tui.calendar) - JavaScript calendar that has everything you need.
   - [WNR](https://github.com/RoderickQiu/wnr) - It's a time-management tool for computers. Work and rest, with wnr now. (P.S.: being fed up of my heavy study work and an private Android project, I might not be able to response quickly).
