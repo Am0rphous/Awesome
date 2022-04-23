@@ -57,6 +57,7 @@ https://github.com/WebAssembly/wabt
 - [Fq](https://github.com/wader/fq) - jq for binary formats.
 - [Pharos ](https://github.com/cmu-sei/pharos) - Automated static analysis tools for binary programs.
 - [Qiling](https://github.com/qilingframework/qiling) - Qiling Advanced Binary Emulation Framework.
+- [ROPgadget Tool](https://github.com/JonathanSalwan/ROPgadget) - This tool lets you search your gadgets on your binaries to facilitate your ROP exploitation. ROPgadget supports ELF, PE and Mach-O format on x86, x64, ARM, ARM64, PowerPC, SPARC and MIPS architectures.
 - [The Life of Binaries](https://opensecuritytraining.info/LifeOfBinaries.html)
 - [Viper](https://github.com/viper-framework/viper) -Viper is a binary analysis and management framework.
 ### PE viewers
@@ -151,6 +152,7 @@ Description: Transforms a binary's machine code into assembly language/code.
 - [Radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset.
   - [A journey into Radare2](https://github.com/ITAYC0HEN/A-journey-into-Radare2) - A series of tutorials about radare2 framework from [megabeets.net](https://www.megabeets.net)
   - [R2sim](https://github.com/W3ndige/r2sim) - Hacked script to show similarities between two samples using radare2 framework.
+- [Triton](https://github.com/jonathansalwan/Triton) - Triton is a dynamic binary analysis library. Build your own program analysis tools, automate your reverse engineering, perform software verification or just emulate code.
 
 ## Dynamic analysis
 
