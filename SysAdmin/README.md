@@ -328,6 +328,7 @@ bro / zeek
 - [linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel.
 
 ## File Sharing
+- [Flying Carpet](https://github.com/spieglt/FlyingCarpet) - Encrypted file transfer over ad hoc WiFi. No network infrastructure required, just two laptops in close range. Linux, Mac, and Windows.
 - [Forban](https://github.com/adulau/Forban) - Forban is a p2p application for link-local and local area networks. Forban works independently from the Internet and uses only the local area capabilities to announce, discover, search or share files. Forban relies on HTTP and it is "opportunistic". http://www.foo.be/forban
 - [Muon SSH Terminal/SFTP client (Formerly Snowflake)](https://github.com/subhra74/snowflake) -  Graphical SFTP client and terminal emulator with helpful utilities.
 - [OpenDrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python.
@@ -336,6 +337,7 @@ bro / zeek
   - [piping-ui.org](https://piping-ui.org)
 - [ProFTPD](https://github.com/proftpd/proftpd) - ProFTPD source code.
 - [PURE-FTPD](https://github.com/jedisct1/pure-ftpd) - Pure FTP server. [www.pureftpd.org](https://www.pureftpd.org)
+- [Qrcp](https://github.com/claudiodangelis/qrcp) - ⚡ Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 - [Serve by Vercel](https://github.com/vercel/serve) - Static file serving and directory listing.
 - [Share File Systems](https://github.com/prettydiff/share-file-systems) - Use a Windows/OSX like GUI in the browser to share files cross OS privately. No cloud, no server, no third party.
 - [Surge - P2P on steroids ](https://github.com/rule110-io/surge) - Surge is a p2p filesharing app designed to utilize blockchain technologies to enable 100% anonymous file transfers. Surge is end-to-end encrypted, decentralized and open source.
