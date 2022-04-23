@@ -1,5 +1,9 @@
 # Assembly notes
 
+- [x86reference](https://github.com/Barebit/x86reference) - X86 Opcode and Instruction Reference: [http://ref.x86asm.net](http://ref.x86asm.net)
+
+<br>
+
 - Machine/processor language equals patterns of ones and zeros (low-level language): `10110000 01100001`.
   - A binary consits of ones and zeros. A binary can be viewed in hex view programs, where the binary is expressed in hex-format/hexadeciaml.
 - "Assembly language" translates machine language into processor instructions, where the above represents the instructions `mov  al, 0x61`. 
