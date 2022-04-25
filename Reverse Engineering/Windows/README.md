@@ -5,6 +5,7 @@
 - [MiniVisor](https://github.com/tandasat/MiniVisorPkg) - The research UEFI hypervisor that supports booting an operating system.
 
 ### Basic static
+- [BinText](https://www.aldeid.com/wiki/BinText)
 - [Exeinfo PE](https://github.com/ExeinfoASL/Exeinfo)
 
 
@@ -14,3 +15,6 @@
 - [OLESS](https://github.com/DBHeise/oless) - OLE Structured Storage Tool.
 - [Structured Storage Viewer](https://www.mitec.cz/ssv.html)
   - [SRP Streams in MS Office Documents Reveal Earlier Versions of Malicious Macros](https://www.sans.org/blog/srp-streams-in-ms-office-documents-reveal-earlier-versions-of-malicious-macros/)
+
+### Network
+- [Argon Network Switcher ](https://sourceforge.net/projects/argonswitcher/) - Argon is an open source utility with the aim to supply multiple network configuration in Windows XP, Windows 7 and Windows 8.
