@@ -18,3 +18,6 @@
 
 ### Network
 - [Argon Network Switcher ](https://sourceforge.net/projects/argonswitcher/) - Argon is an open source utility with the aim to supply multiple network configuration in Windows XP, Windows 7 and Windows 8.
+
+## Setuo
+- [win-config / install.ps1](https://github.com/petikvx/win-config/blob/main/install.ps1)
