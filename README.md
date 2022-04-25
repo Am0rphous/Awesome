@@ -265,6 +265,7 @@ Communicate clearly <br>
   - [Revolt](https://revolt.chat/) - An Open-Source free Alternative to Discord. [Revolt Desktop App](https://github.com/revoltchat/desktop) [Revolt Themes](https://github.com/revoltchat/themes)
 
   ### Version Control, Wiki, Knowledge base
+  - [Bitbucket](https://www.atlassian.com/software/bitbucket/enterprise/data-center)
   - [Gitfiti](https://github.com/gelstudios/gitfiti) - Carefully crafted graffiti in a github commit history calendar.
   - [Gitea](https://github.com/go-gitea/gitea)  - Git with a cup of tea, painless self-hosted git service.
   - [GitKraken](https://www.gitkraken.com/) - Legendary Git GUI client for Windows, Mac & Linux
@@ -272,12 +273,18 @@ Communicate clearly <br>
     - [Gitlab Watchman](https://github.com/PaperMtn/gitlab-watchman) - Monitoring GitLab for sensitive data shared publicly.
     - [Package Hunter CLI](https://gitlab.com/gitlab-org/security-products/package-hunter-cli/-/blob/main/README.md#gitlab-ci) - Behavorial monitoring for identifying malicious dependencies. [link for later](https://news.itsfoss.com/gitlab-open-source-tool-malicious-code/)
     - [PlantUML](https://github.com/plantuml/plantuml) - Generate diagrams from textual description.
+  - [GitPrep](http://gitprep.yukikimoto.com/)
+  - [GitList](https://gitlist.org/)
+  - [Gitolite](https://github.com/sitaramc/gitolite) - Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features.
   - [GitUI](https://github.com/extrawurst/gitui) - GitUI provides you with the comfort of a git GUI but right in your terminal. Fast terminal-ui for git written in rust.
   - [Logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap 
     - [Awesome-logseq](https://github.com/logseq/awesome-logseq)
-  - [Gogs](https://github.com/gogs/gogs) -  Gogs is a painless self-hosted Git service.
+  - [Gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service.
+  - [Kallithea](https://kallithea-scm.org/)
   - [Most active GitHub users in Norway](https://commits.top/norway.html)
   - [OutLine](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
+  - [Rhodecode](https://rhodecode.com/)
+  - [Savannah](https://savannah.gnu.org/)
 
   ### VoIP
   - [Mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software.
