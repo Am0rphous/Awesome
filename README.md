@@ -235,6 +235,8 @@ Communicate clearly <br>
 
   #### Security Tools
   - [E-Mail Header Analyzer (MHA)](https://github.com/cyberdefenders/email-header-analyzer) - E-Mail header analyzer is a tool written in flask for parsing email headers and converting them to a human readable format and it also can: Identify hop delays, Identify the source of the email, Identify hop country.
+  - [OpenPGP ](https://www.openpgp.org/)
+    - [keys.openpgp.org](https://keys.openpgp.org/)
 
   ### IRC
   - [Kiwi IRC](https://kiwiirc.com)
