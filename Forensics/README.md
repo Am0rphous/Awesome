@@ -190,6 +190,7 @@ Description: The Portable Executable format is a file format for executables, ob
 - [AnalyzePE](https://github.com/hiddenillusion/AnalyzePE) - Wraps around various tools and provides some additional checks/information to produce a centralized report of a PE file.
 - [Cerbero Suite](https://cerbero.io/)
 - [CFF Explorer / Explorer Suite](http://www.ntcore.com/exsuite.php)
+- [Dump2exe](https://github.com/whikernel/dump2exe) - Extract PE binaries from dumps.
 - [DynLogger](https://www.ntcore.com/?page_id=376) - logs all dynamically retrieved functions by reporting the module name and the requested function. It also logs loaded modules. It can come very handy when one wants to know a “hidden” function used by an application.
 
 ## Process Analysis
