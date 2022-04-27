@@ -18,6 +18,8 @@
 - [Cryptocurrency-calculator-cli](https://github.com/madnight/cryptocurrency-calculator-cli) - Cryptocurrency Converter Calculator as command line util.
 
 ## Exchanges
+- [Binance.com](https://www.binance.com/en)
+  - [Telegram group: BNB Community - Norge](https://t.me/BNBNorge)
 - [bitfinex.com](https://www.bitfinex.com/)
 - [Guarda Exchange](https://guarda.com/exchange/)
 - [pancakeswap](https://exchange.pancakeswap.finance/#/swap)
