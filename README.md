@@ -837,6 +837,7 @@ Based on that data, you can find the most popular ones and their alternatives.
 ## Social Media
 - [Caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app.
 - [Mastodon](https://github.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community.
+  - [Mastodon-install-script](https://github.com/nesosuke/mastodon-install-script) - 誰でもMastodonサーバーを立てられるようになるやつ(主語デカ) .
 - [Diaspora](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network.
   ### Images
   - [PixelFed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
