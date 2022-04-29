@@ -207,6 +207,8 @@ Communicate clearly <br>
   - [File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot) - Telegram Bot to store Posts and Documents and it can Access by Special Links.
     - [Media-Files-Share](https://github.com/afirdaus7891/Media-Files-Share) - Telegram Bot To Store Posts And Documents And it Can Access By Special Links.
   - [Telegram-Purple](https://github.com/majn/telegram-purple) - Adds support for Telegram to Pidgin, Adium, Finch and other Libpurple based messengers.
+- [Threema](https://threema.ch/en/)
+  - [Threema For Desktop](https://github.com/GeekCornerGH/threema-for-desktop) - Unofficial desktop client for Threema.
 - [Tox Chat](https://tox.chat/)
 - [Twake](https://twake.app/) - Open-source alternative to Microsoft Teams
 - [Twist](https://twist.com/home)
