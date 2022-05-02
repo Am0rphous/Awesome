@@ -440,6 +440,7 @@ sudo apt-get install redshift-gtk
     - [Babel](https://babeljs.io/) - JavaScript compiler.
     - [Flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨.
     - [React](https://reactjs.org/) - A declarative, efficient, and flexible JavaScript library for building user interfaces. [Github](https://github.com/facebook/react)
+    - [React Native Graph](https://github.com/margelo/react-native-graph) - 📈 Beautiful, high-performance Graphs and Charts for React Native.
       - [React Query](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React.
     - [Vanta JS](https://github.com/tengbao/vanta) - Animated 3D backgrounds for your website.
     #### JQuery
