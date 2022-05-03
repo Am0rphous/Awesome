@@ -484,6 +484,7 @@ lsscsi                          #Print SCSI Devices Info
   - [Loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
   - [PgBadger](https://github.com/darold/pgbadger) - A fast PostgreSQL Log Analyzer [pgbadger.darold.net](https://pgbadger.darold.net).
   - [PgFormatter](https://github.com/darold/pgFormatter) - A PostgreSQL SQL syntax beautifier that can work as a console program or as a CGI. On-line demo site at [sqlformat.darold.net](http://sqlformat.darold.net).
+  - [Quickwit](https://github.com/quickwit-oss/quickwit) - Open-source & cloud-native log management & analytics.
   - [SendMailAnalyzer](https://github.com/darold/sendmailanalyzer) - Sendmail log Analyzer is a tool to monitor sendmail usage and generate HTML and graph reports. It reports all you ever wanted to know about email trafic on your network. You can also use it in ISP environment with per domain and per mailbox report.
   - [Sigma](https://github.com/SigmaHQ/sigma) - Generic Signature Format for SIEM Systems.
   - [SquidAnalyzer](https://github.com/darold/squidanalyzer) - Squid Analyzer parses Squid proxy access log and reports general statistics about hits, bytes, users, networks, top URLs, and top second level domains. Statistic reports are oriented toward user and bandwidth control.
