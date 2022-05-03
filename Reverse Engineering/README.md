@@ -56,11 +56,13 @@ https://github.com/WebAssembly/wabt
 - [Cwe_checker](https://github.com/fkie-cad/cwe_checker) - cwe_checker finds vulnerable patterns in binary executables.
 - [DBA](https://github.com/s0i37/DBA) - Dynamic Binary Analysis scripts.
 - [Fq](https://github.com/wader/fq) - jq for binary formats.
+- [Package Analysis](https://github.com/ossf/package-analysis) - Open Source Package Analysis.
 - [Pharos ](https://github.com/cmu-sei/pharos) - Automated static analysis tools for binary programs.
 - [Qiling](https://github.com/qilingframework/qiling) - Qiling Advanced Binary Emulation Framework.
 - [ROPgadget Tool](https://github.com/JonathanSalwan/ROPgadget) - This tool lets you search your gadgets on your binaries to facilitate your ROP exploitation. ROPgadget supports ELF, PE and Mach-O format on x86, x64, ARM, ARM64, PowerPC, SPARC and MIPS architectures.
 - [The Life of Binaries](https://opensecuritytraining.info/LifeOfBinaries.html)
 - [Viper](https://github.com/viper-framework/viper) -Viper is a binary analysis and management framework.
+
 ### PE viewers
 Portable Executables binaries
 - [Capa](https://github.com/mandiant/capa) - The FLARE team's open-source tool to identify capabilities in executable files.
