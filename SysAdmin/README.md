@@ -24,6 +24,7 @@ _“Intelligence is the ability to avoid doing work, yet getting the work done -
 - [EDR, IDS, HIDS and IPS](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#edr-ids-hids-and-ips)
   - [Firewall](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#firewall)
 - [Monitoring](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#monitoring)
+  - [CPU](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#cpu)
   - [ELK-stack](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#elk-stack)
   - [Good resources](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#good-resources)
   - [Logs](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#logs)
@@ -418,6 +419,9 @@ lsscsi                          #Print SCSI Devices Info
 - [healthchecks.io](https://healthchecks.io/)
 - [Lima Charlie](https://github.com/nextgens/limacharlie) - Endpoint monitoring stack.
 - [Supervisor](https://github.com/Supervisor/supervisor) - Supervisor is a client/server system that allows its users to control a number of processes on UNIX-like operating systems.
+  #### CPU
+  - [xfce4-cpufreq-plugin](https://gitlab.xfce.org/panel-plugins/xfce4-cpufreq-plugin) - Shows CPU frequencies and governor
+  
   #### ELK-stack
   - [Elasticsearch](https://github.com/elastic/elasticsearch) - Open Source, Distributed, RESTful Search Engine.
     - [detection-rules](https://github.com/elastic/detection-rules) -  Rules for Elastic Security's detection engine.
