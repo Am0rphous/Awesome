@@ -56,6 +56,7 @@
   - [Binary](https://github.com/hackerschoice/binary) - Binary and Static Releases.
 - [ICMPTunnel](https://github.com/DhavalKapil/icmptunnel) - Transparently tunnel your IP traffic through ICMP echo and reply packets. [dhavalkapil.com/icmptunnel/](https://dhavalkapil.com/icmptunnel/)
 - [Portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance.
+- [trojan](https://github.com/trojan-gfw/trojan) - An unidentifiable mechanism that helps you bypass GFW.
 - [Udp2raw-tunnel](https://github.com/wangyu-/udp2raw-tunnel) - A Tunnel which turns UDP Traffic into Encrypted FakeTCP/UDP/ICMP Traffic by using Raw Socket, helps you Bypass UDP FireWalls(or Unstable UDP Environment).
 - [VPN Pivot](https://github.com/0x36/VPNPivot) - Explore the network using VPNPivot tool.
 - [WsTunnel](https://github.com/erebe/wstunnel) - Tunneling over websocket protocol - Static binary available.
