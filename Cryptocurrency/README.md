@@ -14,7 +14,7 @@
 ## Contract Analysis
 - [Mythril](https://github.com/ConsenSys/mythril) - Security analysis tool for EVM bytecode. Supports smart contracts built for Ethereum, Hedera, Quorum, Vechain, Roostock, Tron and other EVM-compatible blockchains. 
 ### Ethereum
-- [Maian]()
+- [Maian](https://github.com/ivicanikolicsg/MAIAN) - MAIAN: automatic tool for finding trace vulnerabilities in Ethereum smart contracts.
 
 ## Convertion / Calculation
 - [Cryptocurrency-calculator-cli](https://github.com/madnight/cryptocurrency-calculator-cli) - Cryptocurrency Converter Calculator as command line util.
