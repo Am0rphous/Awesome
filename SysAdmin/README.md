@@ -421,6 +421,7 @@ lsscsi                          #Print SCSI Devices Info
 - [Lima Charlie](https://github.com/nextgens/limacharlie) - Endpoint monitoring stack.
 - [Supervisor](https://github.com/Supervisor/supervisor) - Supervisor is a client/server system that allows its users to control a number of processes on UNIX-like operating systems.
   #### CPU
+  - [CPUGraph - xfce4-cpugraph-plugin](https://docs.xfce.org/panel-plugins/xfce4-cpugraph-plugin/start) - This panel plugin offers multiple display modes (LED, gradient, fire, etc…) to show the current CPU load of the system. Various appearance options, like colors or size, are customizable. [Source code](https://gitlab.xfce.org/panel-plugins/xfce4-cpugraph-plugin)
   - [xfce4-cpufreq-plugin](https://gitlab.xfce.org/panel-plugins/xfce4-cpufreq-plugin) - Shows CPU frequencies and governor
   
   #### ELK-stack
