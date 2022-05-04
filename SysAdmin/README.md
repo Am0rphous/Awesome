@@ -65,6 +65,7 @@ _“Intelligence is the ability to avoid doing work, yet getting the work done -
 - [Virtualization](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#virtualization)
   - [Container Technologies](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#container-technologies)
     - [Container orchestration](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#container-orchestration)
+    - [Container Registers](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#container-registry)
   - [Hypervisors](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#hypervisors)
   - [Machines](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#machines)
 - [Web / Proxy](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#web-and-proxy-tools)
@@ -963,6 +964,9 @@ upstream_recursive_servers:
   - [Podman](https://github.com/containers/podman) - A tool for managing OCI containers and pods. OCI = Open Container Initiative.
     - [Replacing Docker Compose with Podman (Debian)](https://thesynack.com/posts/docker-compose-podman/)
   - [Portainer](https://www.portainer.io) - Open source container management tool for Kubernetes, Docker, Docker Swarm and Azure ACI.
+   #### Container Registers
+   - [Harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content. 
+   
    #### Various
    - [CTop](https://github.com/bcicen/ctop/) - Top-like interface for container metrics [ctop.sh](https://ctop.sh).
      - [ctop – Top-like Interface for Monitoring Docker Containers](https://www.tecmint.com/ctop-monitor-docker-containers/)
