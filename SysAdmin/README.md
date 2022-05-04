@@ -688,6 +688,7 @@ upstream_recursive_servers:
   - [2fast](https://github.com/2fast-team/2fast) - Two-Factor Authenticator Supporting TOTP (Windows 10 & Android, iOS, Linux and macOS App).
   - [AndOTP](https://github.com/andOTP/andOTP) - Open source two-factor authentication for Android.
   - [Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
+  - [Authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. [goauthentik.io](https://goauthentik.io/)
   - [Einmal](https://github.com/incipher/einmal) - ⏱ The two-factor authentication app you deserve.
   - [Otplib](https://github.com/yeojz/otplib) - 🔑 One Time Password (OTP) / 2FA for Node.js and Browser - Supports HOTP, TOTP and Google Authenticator.
   - YubiKey
