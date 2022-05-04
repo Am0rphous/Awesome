@@ -482,6 +482,7 @@ lsscsi                          #Print SCSI Devices Info
   - [AwStats](https://www.awstats.org/) - Powerful and featureful web server log analyzer.
   - [Chainsaw](https://github.com/countercept/chainsaw) - Rapidly Search and Hunt through Windows Event Logs.
   - [GoAccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
+  - [evtx-hunter](https://github.com/NVISOsecurity/evtx-hunter) - evtx-hunter helps to quickly spot interesting security-related activity in Windows Event Viewer (EVTX) files.
   - [Loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
   - [PgBadger](https://github.com/darold/pgbadger) - A fast PostgreSQL Log Analyzer [pgbadger.darold.net](https://pgbadger.darold.net).
   - [PgFormatter](https://github.com/darold/pgFormatter) - A PostgreSQL SQL syntax beautifier that can work as a console program or as a CGI. On-line demo site at [sqlformat.darold.net](http://sqlformat.darold.net).
