@@ -290,7 +290,9 @@ Communicate clearly <br>
   - [OutLine](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
   - [Rhodecode](https://rhodecode.com/)
   - [Savannah](https://savannah.gnu.org/)
-
+  ### CI/CD
+  - [Earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere 
+  
   ### VoIP
   - [Mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software.
   - [Rocket Streaming Audio Server](https://www.rocketbroadcaster.com/streaming-audio-server) - Rocket Streaming Audio Server broadcasts live audio over HTTP(S), and is a modern replacement for Icecast and SHOUTcast.
