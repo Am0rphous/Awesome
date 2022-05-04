@@ -376,6 +376,7 @@ sudo apt-get install redshift-gtk
   - [Kong](https://github.com/Kong/kong) - The Cloud-Native API Gateway.
 
   ### Backend
+  - [Appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative. 
   - [SupaBase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 
   ### Code Editors / IDE
