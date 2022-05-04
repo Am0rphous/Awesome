@@ -86,6 +86,10 @@ Samhain Labs, https://www.la-samhna.de/services.html, docs: https://la-samhna.de
 
 bro / zeek
 
+- Translation
+- [The Norwegian Nynorsk morphology and tools](https://github.com/giellalt/lang-nno-x-ext-apertium) - Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Norwegian Nynorsk language.
+<br>
+
 - [awesome-network-stuff](https://github.com/alphaSeclab/awesome-network-stuff) - Resources about network security, including: Proxy/GFW/ReverseProxy/Tunnel/VPN/Tor/I2P, and MiTM/PortKnocking/NetworkSniff/NetworkAnalysis/etc。More than 1700 open source tools for now. Post incoming. 
 - [File Integrity Monitoring](https://cybersecurity.att.com/solutions/pci-dss-file-integrity-monitoring
 - [FireEye's ThreatPursuit-VM](https://github.com/fireeye/ThreatPursuit-VM) - A fully customizable, open-sourced Windows-based distribution focused on threat intelligence analysis and hunting designed for intel and malware analysts as well as threat hunters to get up and running quickly.
