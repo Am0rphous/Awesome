@@ -584,6 +584,8 @@ upstream_recursive_servers:
   - [Hyprspace](https://github.com/hyprspace/hyprspace) - A Lightweight VPN Built on top of Libp2p for Truly Distributed Networks.
   - [IPsec VPN Server Auto Setup Scripts](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2.
   - [IPsec VPN Server on Docker](https://github.com/hwdsl2/docker-ipsec-vpn-server) - Docker image to run an IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2.
+  - [Mullvad VPN](https://mullvad.net)
+    - [Mullvad VPN desktop and mobile app](https://github.com/mullvad/mullvadvpn-app) - The Mullvad VPN client app for desktop and mobile.
   - [OpenConnect](https://github.com/openconnect/openconnect) - SSL VPN client initially created to support Cisco's AnyConnect SSL VPN.
       [infradead.org/openconnect](https://www.infradead.org/openconnect/index.html)
       Brew: `brew install openconnect`
