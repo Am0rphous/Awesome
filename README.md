@@ -33,6 +33,7 @@ Communicate clearly <br>
   - [Frontend](https://github.com/Am0rphous/Awesome/blob/master/README.md#frontend)
   - [Icons](https://github.com/Am0rphous/Awesome/blob/master/README.md#icons)
   - [iOS](https://github.com/Am0rphous/Awesome/blob/master/README.md#ios)
+  - [Linux](https://github.com/Am0rphous/Awesome/blob/master/README.md#linux)
   - [Programming](https://github.com/Am0rphous/Awesome/blob/master/README.md#programming)
     - [Electron](https://github.com/Am0rphous/Awesome/blob/master/README.md#electron)
     - [Go](https://github.com/Am0rphous/Awesome/blob/master/README.md#go)
@@ -302,6 +303,7 @@ Communicate clearly <br>
 - [Conky-Colors](https://github.com/helmuthdu/conky_colors) - easier way to configure Conky.
 - [Docky](https://gitlab.com/docky-dock-app-linux/docky) - Docky is a full fledged dock application that makes opening common applications and managing windows easier and quicker. The official project is abandoned, so we forked it to keep the project alive.
 - [GKrellM](http://gkrellm.srcbox.net/) - single process stack of system monitors.
+- [Hardcode-Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - Fixes Hardcoded tray icons in Linux.
 - [Plank](https://github.com/ricotz/plank) - Simple dock. Configure `plank   --preferences`
 - [Rainmeter](https://github.com/rainmeter/rainmeter) - (maybe run rainmeter in wine on linux?)
 - [SpaceEye](https://github.com/KYDronePilot/SpaceEye) - Live satellite imagery for your desktop background.
@@ -407,11 +409,15 @@ sudo apt-get install redshift-gtk
   - [Icons8.com](https://icons8.com/icons/)
   - [Material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google.
   - [Npm-icon-gen](https://github.com/akabekobeko/npm-icon-gen) - Icon file generator for Windows, macOS, Web.
-
   ### iOS
   - [Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps) - 📱 Collaborative List of Open-Source iOS Apps.
   - [Swift Radio](https://github.com/analogcode/Swift-Radio-Pro) - Professional Radio Station App for iOS!.
-
+  
+  ### Linux
+  - [Akira](https://github.com/akiraux/Akira) - Native Linux App for UI and UX Design built in Vala and GTK.
+  - [Inspirational designs for Linux apps](https://dribbble.com/tags/linux_app)
+  - [Make Apps for Linux](https://makealinux.app/#/)
+  
   ### Programming
   - [Dart SDK](https://github.com/dart-lang/sdk) - Dart is an open-source, scalable programming language, with robust libraries and runtimes, for building web, server, and mobile apps.
   - [Flask-base](https://github.com/hack4impact/flask-base) - A simple Flask boilerplate app with SQLAlchemy, Redis, User Authentication, and more. 
