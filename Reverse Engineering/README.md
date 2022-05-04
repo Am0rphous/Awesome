@@ -122,6 +122,7 @@ Description: Used to manipulate the execution of a program to get intel on what 
 ## Decompilers
 Description: Uses a binary file to revert the compilation process and express the code as a structured higher-level language. A bit similar to disassemblers.
 - [JustDecompile Engine](https://github.com/telerik/JustDecompileEngine) - .NET decompiler.
+- [Reopt](https://github.com/GaloisInc/reopt) - A tool for analyzing x86-64 binaries. 
 
 ## Disassemblers
 Description: Transforms a binary's machine code into assembly language/code.
