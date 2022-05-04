@@ -756,7 +756,8 @@ upstream_recursive_servers:
 
   ### Windows Security
   - [WELA](https://github.com/Yamato-Security/WELA) - WELA (Windows Event Log Analyzer): The Swiss Army knife for Windows Event Logs! ゑ羅（ウェラ）.
-  #### Windows Hardening Guides
+  #### Windows Hardening
+  - [binsnitch.py](https://github.com/NVISOsecurity/binsnitch) - Detect silent (unwanted) changes to files on your system.
   - [Hardentools](https://github.com/securitywithoutborders/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features.
   - [HardeningKitty](https://github.com/scipag/HardeningKitty) - Invoke-HardeningKitty - Checks and hardens your Windows configuration.
   - [windows_hardening](https://github.com/0x6d69636b/windows_hardening) - Windows Hardening settings and configurations.
@@ -1061,6 +1062,7 @@ upstream_recursive_servers:
   - [Certificate-transparency-go](https://github.com/google/certificate-transparency-go) - Auditing for TLS certificates (Go code).
   - [Certify The Web - Certificate Manager UI for Windows](https://github.com/webprofusion/certify) - Professional TLS/SSL Certificate Manager UI for Windows, powered by Let's Encrypt and compatible with all ACME v2 CAs. Download from certifytheweb.com.
   - [Kleopatra](https://www.openpgp.org/software/kleopatra/)
+  - [Magisk Trust User Certs](https://github.com/NVISOsecurity/MagiskTrustUserCerts) - A Magisk module that automatically adds user certificates to the system root CA store.
   - [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 
   ### Web Hosting Services worth checking out
