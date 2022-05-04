@@ -702,6 +702,7 @@ upstream_recursive_servers:
   - [Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
   - [Authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. [goauthentik.io](https://goauthentik.io/)
   - [Einmal](https://github.com/incipher/einmal) - ⏱ The two-factor authentication app you deserve.
+  - [Hasura Auth](https://github.com/nhost/hasura-auth) - The open source authentication service for Hasura. 
   - [Otplib](https://github.com/yeojz/otplib) - 🔑 One Time Password (OTP) / 2FA for Node.js and Browser - Supports HOTP, TOTP and Google Authenticator.
   - YubiKey
     - [Installing Yubico Software on Linux](https://support.yubico.com/hc/en-us/articles/360016649039-Enabling-the-Yubico-PPA-on-Ubuntu)
