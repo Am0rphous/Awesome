@@ -44,6 +44,8 @@ Note: https://favouriteblog.com/50-best-github-artificial-intelligence/
 - [Action-Net](https://github.com/OlafenwaMoses/Action-Net) - A dataset of images for artificial intelligence models to recognize human actions.
   - [DeepStack_ActionNET](https://github.com/OlafenwaMoses/DeepStack_ActionNET) - Provides a custom DeepStack model that has been trained and can be used for creating a new object detection API for detecting 16 human actions present in the ActionNET Dataset dataset.
 - [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) - Real-Time and Accurate Full-Body Multi-Person Pose Estimation&Tracking System.
+- [AWESOME-FER](https://github.com/EvelynFan/AWESOME-FER) - Top conferences & Journals focused on Facial expression recognition (FER)/ Facial action unit (FAU).
+- [deep-intake-detection: Automatic detection of intake gestures from video](https://github.com/prouast/deep-intake-detection) - A deep neural network implementation for detection of food and drink intake gestures from video.
 - [Detectron2](https://github.com/facebookresearch/detectron2) - Detectron2 is FAIR's next-generation platform for object detection, segmentation and other visual recognition tasks.
 - [FACE MASK DETECTION SYSTEM ](https://github.com/memudualimatou/FACE-MASK-DETECTION-WEB-APP-FLASK-PYTHON)
 - [FireNET](https://github.com/OlafenwaMoses/FireNET) - A deep learning model for detecting fire in video and camera streams.
