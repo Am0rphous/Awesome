@@ -978,7 +978,9 @@ upstream_recursive_servers:
    - [Oracle VM Server for x86](https://www.oracle.com/in/a/ocom/docs/ovm-server-for-x86-459312.pdf)
    - [oVirt](https://www.ovirt.org/download/) - oVirt is an open-source distributed virtualization solution developed for Linux operating systems such as RedHat Enterprise, CentOS, Scientific Linux, Fedora 28, and also available as oVirt Node which is CentOS based. It is a Linux KVM hypervisor designed for enterprise infrastructure.
    - [Proxmox](https://www.proxmox.com/en/downloads) - Proxmox VE is a complete open-source virtualization management platform that closely integrates two virtualization technologies: KVM (Kernel-based Virtual Machine) hypervisor and Linux container (LXC) to provide enterprise-class virtualization.
+     - [High Availability](https://pve.proxmox.com/wiki/High_Availability)
      - [PVEDiscordDark](https://github.com/Weilbyte/PVEDiscordDark) - A Discord-like dark theme for the Proxmox Web UI.
+     - [VM Templates and Clones](https://pve.proxmox.com/wiki/VM_Templates_and_Clones)
    - [SmartOS](https://wiki.smartos.org/download-smartos/) - SmartOS is a free and open-source SVR4 hypervisor based on the UNIX operating system that combines OpenSolaris technology with Linux’s KVM virtualization. It employs NetBSD pkgsrc package management.
    - [VMware free ESXi](https://customerconnect.vmware.com/en/web/vmware/evalcenter?p=free-esxi6) - The user needs to enter the free license key to use the Vmware Type1 hypervisor otherwise it will expire after 60 days.
      - [Automated vSphere with Tanzu Basic Lab Deployment](https://github.com/lamw/vsphere-with-tanzu-basic-automated-lab-deployment) - Automated vSphere with Tanzu and HAProxy Lab Deployment.
