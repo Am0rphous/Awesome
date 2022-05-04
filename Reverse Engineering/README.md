@@ -207,6 +207,9 @@ getcap            #examine file capabilities
 ## Shellcode
 - [BlobRunner](https://github.com/OALabs/BlobRunner) - Quickly debug shellcode extracted during malware analysis.
 
+## Source-code analysis
+- [graudit](https://github.com/wireghoul/graudit) - grep rough audit - source code auditing tool.
+
 ## Static Analysis
 - [CodeCat](https://github.com/CoolerVoid/codecat) - Tool to help in static analysis.
 
