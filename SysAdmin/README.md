@@ -51,7 +51,7 @@ _“Intelligence is the ability to avoid doing work, yet getting the work done -
   - [Sandboxing tools](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#sandboxing-tools)
   - [Security Tutorials](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#security-tutorials)
   - [Windows Security](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#windows-security)
-    - [Windows Hardening Guides](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#windows-hardening-guides)
+    - [Windows Hardening](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#windows-hardening)
 - [Scripting](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#scripting)
 - [Terminal / Shell](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#terminal--shell)
   - [Bash](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#bash)
@@ -427,6 +427,7 @@ lsscsi                          #Print SCSI Devices Info
   #### ELK-stack
   - [Elasticsearch](https://github.com/elastic/elasticsearch) - Open Source, Distributed, RESTful Search Engine.
     - [detection-rules](https://github.com/elastic/detection-rules) -  Rules for Elastic Security's detection engine.
+    - [ee-outliers](https://github.com/NVISOsecurity/ee-outliers) - Open-source framework to detect outliers in Elasticsearch events.
   - [HELK](https://github.com/Cyb3rWard0g/HELK) - The Hunting ELK.
   - [LogStash](https://github.com/elastic/logstash) -  Logstash - transport and process your logs, events, or other data.
   - [Kibana](https://github.com/elastic/kibana) -  browser-based analytics and search dashboard for Elasticsearch.
