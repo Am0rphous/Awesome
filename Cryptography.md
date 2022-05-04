@@ -11,3 +11,5 @@
 ## Digital Signatures
 - [SignTool](https://www.linux.org/docs/man1/signtool.html) - Digitally sign objects and files.
 
+## Hash collisions
+- [Hash collisions and exploitations](https://github.com/corkami/collisions)
