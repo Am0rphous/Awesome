@@ -851,8 +851,6 @@ Based on that data, you can find the most popular ones and their alternatives.
 
 ## Social Media
 - [Caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app.
-- [Mastodon](https://github.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community.
-  - [Mastodon-install-script](https://github.com/nesosuke/mastodon-install-script) - 誰でもMastodonサーバーを立てられるようになるやつ(主語デカ) .
 - [Diaspora](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network.
   ### Images
   - [PixelFed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
@@ -870,7 +868,12 @@ Based on that data, you can find the most popular ones and their alternatives.
   - [Friendica](https://github.com/friendica/friendica) - Friendica Communications Platform.
   - [GNU social](https://gnusocial.network/)
   - [Mastodon](https://github.com/tootsuite/mastodon) - Mastodon is a free, open-source social network server based on ActivityPub where users can follow friends and discover new ones. On Mastodon, users can publish anything they want: links, pictures, text, video. All Mastodon servers are interoperable as a federated network (users on one server can seamlessly communicate with users from another one, including non-Mastodon software that implements ActivityPub)!
+    - [Mastodon-install-script](https://github.com/nesosuke/mastodon-install-script) - 誰でもMastodonサーバーを立てられるようになるやつ(主語デカ) .
   - [Plume](https://github.com/Plume-org/Plume) - Plume is a federated blogging engine, based on ActivityPub. It is written in Rust, with the Rocket framework, and Diesel to interact with the database. The front-end uses Ructe templates, WASM and SCSS.
+  - Twitter (microblogging)
+    - [Awesome Twitter Bots](https://github.com/amandeepmittal/awesome-twitter-bots) - Resource repo for Twitter Bots.
+    - [Awesome Twitter Data](https://github.com/shaypal5/awesome-twitter-data) - A list of Twitter datasets and related resources.
+    - [Semiphemeral](https://github.com/micahflee/semiphemeral) - Automatically delete your old tweets, except for the ones you want to keep.
   ### Music
   - [Funkwhale](https://funkwhale.audio/) - Funkwhale is a community-driven project that lets you listen and share music and audio within a decentralized, open network.
     - [Funkwhale Docker Container](https://github.com/michaelmob/docker-funkwhale) - All-in-one funkwhale docker image.
