@@ -844,6 +844,7 @@ Based on that data, you can find the most popular ones and their alternatives.
   - [Tockler](https://github.com/MayGo/tockler) - Application that tracks your time by monitoring your active windows (only titles) and idle time. 
   - [Tui.calendar](https://github.com/nhn/tui.calendar) - JavaScript calendar that has everything you need.
   - [WNR](https://github.com/RoderickQiu/wnr) - It's a time-management tool for computers. Work and rest, with wnr now. (P.S.: being fed up of my heavy study work and an private Android project, I might not be able to response quickly).
+  - [Workrave](https://github.com/rcaelers/workrave) - Workrave is a program that assists in the recovery and prevention of Repetitive Strain Injury (RSI). The program frequently alerts you to take micro-pauses, rest breaks and restricts you to your daily limit.
     ### Polls
     - [Framadate](https://framagit.org/framasoft/framadate/framadate) - [Framadate.org](https://framadate.org/) is an online service for planning an appointment or making a decision quickly and easily. It's a community free/libre software alternative to Doodle.
 
