@@ -153,6 +153,7 @@ Communicate clearly <br>
 - [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - 🔗 Some useful websites for programmers.
 - [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome)
 <br>
+
 - [StarGazed](https://github.com/abhijithvijayan/stargazed) - Creating your own Awesome List of GitHub stars!
 
 ## Communication and Collaboration Tools
@@ -190,7 +191,7 @@ Communicate clearly <br>
   - [clear_cache_MS_Teams.sh](https://gist.github.com/mrcomoraes/c83a2745ef8b73f9530f2ec0433772b7)
 - [Openfire](https://igniterealtime.org/projects/openfire/) - Openfire is a real time collaboration (RTC) server licensed under the Open Source Apache License. It uses the only widely adopted open protocol for instant messaging, XMPP Openfire is incredibly easy to setup and administer, but offers rock-solid security and performance. [Github](https://github.com/igniterealtime/Openfire)
 - [p2p.chat](https://github.com/tom-james-watson/p2p.chat) - p2p video conferencing powered by WebRTC.
-- [Rambox](https://github.com/ramboxapp/commu nity-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
+- [Rambox](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The ultimate Free Open Source Solution for team communications.
   - [RC-Trending](https://github.com/frontendwizard/rc-trending) - News feed from multiple sources right into rocket chat.
   - [Rocket-chat-denied-mask.sh](https://gist.github.com/Majunko/81e8b45f2a7588975d48be156fd38173#file-rocket-chat-denied-mask-sh) - Repair Denied mask spam in journal.
@@ -201,7 +202,7 @@ Communicate clearly <br>
 - [Signal](https://www.signal.org)
   - [Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
   - [Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - Private Messenger for Windows, Mac, and Linux.
-  - [Signal-iOS](https://github.com/signalapp /Signal-iOS) - A private messenger for iOS.
+  - [Signal-iOS](https://github.com/signalapp/Signal-iOS) - A private messenger for iOS.
   - [Signal-Server](https://github.com/signalapp/Signal-Server) - Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS.
 - [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app.
   - [Telegram-CLI](https://github.com/vysheng/tg) - Command-line interface for Telegram.
@@ -328,7 +329,7 @@ Communicate clearly <br>
 xflux -k 3400 -l 59.9 -g 10.7              #default color temperature
 xflux -k 2000 -l 59.9 -g 10.7 -nofork
 ````
-- This might be outdated. [source](https://itsfoss.com/night-shift-flux-ubuntu-linux/)
+This might be outdated. [source](https://itsfoss.com/night-shift-flux-ubuntu-linux/)
 ````
 sudo add-apt-repository ppa:nathan-renniewaldock/flux
 sudo apt-get update
@@ -863,7 +864,7 @@ Based on that data, you can find the most popular ones and their alternatives.
       - [InstaPy Documentation](https://github.com/InstaPy/instapy-docs) - 📜 Public information for users, testers, contributors, maintainers.
     - [Istekram](https://github.com/validatedev/istekram) - A simple app for Instagram.
     - [Ramme](https://github.com/terkelg/ramme) - **(Archived)** Unofficial Instagram Desktop App. 
-    - [Streamon](https://github.com/haxzie/instagram-live-streamer) - [Unofficial] Broadcast to Instagram Live from your Windows/Mac/Linux.
+    - [Streamon](https://github.com/haxzie/instagram-live-streamer) - (Unofficial) Broadcast to Instagram Live from your Windows/Mac/Linux.
   
   ### Blogging
   - [Friendica](https://github.com/friendica/friendica) - Friendica Communications Platform.
