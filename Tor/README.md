@@ -17,6 +17,7 @@
 - [Nyx](https://nyx.torproject.org/) - Nyx is a command-line monitor for Tor. With this you can get detailed real-time information about your relay such as bandwidth usage, connections, logs, and much more.
   - [Nyx github](https://github.com/torproject/nyx)
 - [Tor-alpine](https://github.com/klemmchr/tor-alpine) - Simple, minimal and self updating docker image for Tor based on Alpine Linux.
+- [Tor Browser Launcher](https://github.com/micahflee/torbrowser-launcher) - Securely and easily download, verify, install, and launch Tor Browser in Linux.
 - [Tor Relay Guide - Security](https://gitlab.torproject.org/legacy/trac/-/wikis/TorRelayGuide/Security)
 - [Tor Relay Server on Docker (Alpine)](https://github.com/chriswayg/tor-alpine) - 🐳 A Small Tor Relay Server with obfs4proxy on Alpine Linux on Docker.
 - [www.torproject.org/download/](https://www.torproject.org/download/)
