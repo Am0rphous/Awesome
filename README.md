@@ -734,7 +734,6 @@ Based on that data, you can find the most popular ones and their alternatives.
        - [CPod](https://github.com/z-------------/CPod) - A simple, beautiful podcast app for Windows, macOS, and Linux.
        - [Winds](https://github.com/getstream/winds/) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io.
 
-
 ## News, RSS Feed
 - [Akregator](https://kontact.kde.org/components/akregator.html) - Akregator helps you to keep informed about new stories on websites like KDE Dot News and Planet KDE blogs. The technology used is RSS and many sites support it.
 - [CyberSecurityRSS](https://github.com/zer0yu/CyberSecurityRSS) - CyberSecurityRSS: 优秀的网络安全知识来源 / A collection of cybersecurity rss to make you better!.
@@ -836,8 +835,10 @@ Based on that data, you can find the most popular ones and their alternatives.
   - [Deepin Calender](https://github.com/linuxdeepin/dde-calendar) - Calendar application for DDE.
   - [GNOME Calendar](https://gitlab.gnome.org/GNOME/gnome-calendar) [github](https://github.com/GNOME/gnome-calendar)
   - [HTML5 Binary Clock](https://github.com/AE0L/html5-binary-clock) - Binary Clock written in HTML5, CSS3, and Vanilla JS.
-  - [Pomatez](https://github.com/roldanjr/pomatez) - Stay Focused. Take a Break.
-  - [Pomodoro Logger](https://github.com/zxch3n/PomodoroLogger) - Pomodoro Logger 🕤 -- When a time tracker meets Pomodoro and Kanban board.
+  - Pomodoro
+    - [Mater](https://github.com/jasonlong/mater) - A simple menubar Pomodoro app.
+    - [Pomatez](https://github.com/roldanjr/pomatez) - Stay Focused. Take a Break.
+    - [Pomodoro Logger](https://github.com/zxch3n/PomodoroLogger) - Pomodoro Logger 🕤 -- When a time tracker meets Pomodoro and Kanban board.
   - [Safe Eyes](https://github.com/slgobinath/SafeEyes) - Protect your eyes from eye strain using this simple and beautiful, yet extensible break reminder.
   - [Tockler](https://github.com/MayGo/tockler) - Application that tracks your time by monitoring your active windows (only titles) and idle time. 
   - [Tui.calendar](https://github.com/nhn/tui.calendar) - JavaScript calendar that has everything you need.
@@ -865,6 +866,7 @@ Based on that data, you can find the most popular ones and their alternatives.
     - [Streamon](https://github.com/haxzie/instagram-live-streamer) - (Unofficial) Broadcast to Instagram Live from your Windows/Mac/Linux.
   
   ### Blogging
+  - [Beam](https://github.com/planetscale/beam) - A simple message board for your organization or project.
   - [Friendica](https://github.com/friendica/friendica) - Friendica Communications Platform.
   - [GNU social](https://gnusocial.network/)
   - [Mastodon](https://github.com/tootsuite/mastodon) - Mastodon is a free, open-source social network server based on ActivityPub where users can follow friends and discover new ones. On Mastodon, users can publish anything they want: links, pictures, text, video. All Mastodon servers are interoperable as a federated network (users on one server can seamlessly communicate with users from another one, including non-Mastodon software that implements ActivityPub)!
