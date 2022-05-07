@@ -613,6 +613,7 @@ Based on that data, you can find the most popular ones and their alternatives.
   - [Open @ Engine - o3de](https://o3de.org) - Source for fully featured AAA Open 3D Engine. [GitHub](https://github.com/o3de/o3de)
   - [Paint](https://www.getpaint.net) - Paint.NET is image and photo editing software for PCs that run Windows.
   - [PhotoPrism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨ .
+  - [PicGo](https://github.com/Molunerfinn/PicGo) - 🚀A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder 
   - [Pinta](https://www.pinta-project.com) - Pinta is a free, open source program for drawing and image editing.
   - [Pixeluvo](http://www.pixeluvo.com) - A Beautifully Designed Image and Photo Editor for Windows and Linux.
   - [RawTherapee](https://github.com/Beep6581/RawTherapee) - A powerful cross-platform raw photo processing program [rawtherapee.com](https://rawtherapee.com).
