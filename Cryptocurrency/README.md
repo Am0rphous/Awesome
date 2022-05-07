@@ -50,6 +50,9 @@
 - [Public IOTA nodes](https://comnet.thetangle.org/nodes)
 - [Trinity Wallet (discontinued)](https://github.com/iotaledger/trinity-wallet) - The IOTA Trinity Wallet - available on App Store, Google Play and all major Desktop platforms.
 
+## Miners
+- [teamredminer](https://github.com/todxx/teamredminer) - AMD GPU Optimized Cryptocurrency Miner 
+
 ## Monitoring
 - [nypto](https://github.com/pbmartins/nypto) - ⭕️💰 Network monitoring solution to detect crypto-mining on local machines.
 
