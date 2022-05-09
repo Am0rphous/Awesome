@@ -51,6 +51,7 @@
 - [Trinity Wallet (discontinued)](https://github.com/iotaledger/trinity-wallet) - The IOTA Trinity Wallet - available on App Store, Google Play and all major Desktop platforms.
 
 ## Miners
+- [lolMiner](https://github.com/Lolliedieb/lolMiner-releases) - AMD & Nvidia Miner for Ethash, Etchash, Autolykos2, Beam, Grin, Ae Flux, Equihash and more
 - [teamredminer](https://github.com/todxx/teamredminer) - AMD GPU Optimized Cryptocurrency Miner 
 
 ## Monitoring
