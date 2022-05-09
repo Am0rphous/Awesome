@@ -3,6 +3,7 @@
 - [Adversary Emulation Plan Library](https://github.com/scythe-io/community-threats) - The largest, public library of adversary emulation plans in JSON. A place to share custom SCYTHE threats with the community. #ThreatThursday.
 - [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) - A curated list of Awesome Threat Intelligence resources.
 - [Awesome Threat Modeling](https://github.com/hysnsec/awesome-threat-modelling) - A curated list of threat modeling resources (Books, courses - free and paid, videos, tools, tutorials and workshops to practice on ) for learning Threat modeling and initial phases of security review.
+- [Best Practices in Threat Intelligence](https://github.com/MISP/best-practices-in-threat-intelligence) - Best practices in threat intelligence 
 - [DeepdarkCTI](https://github.com/fastfire/deepdarkCTI) - Collection of Cyber Threat Intelligence sources from the deep and dark web.
 - [Intel Architecture Map](https://github.com/Errum/IntelArchitectureMap) - The Intelligence Architecture Map is based on interviews of industry experts, former intelligence practitioners, and my personal views. It represents a logical and meaningful way I see the different aspects of producing intelligence should be put together.
 - [IoC](https://github.com/avast/ioc) - Threat Intel IoCs + bits and pieces of dark matter.
