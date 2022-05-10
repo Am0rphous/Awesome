@@ -266,6 +266,7 @@ bro / zeek
 - [Mist.io](https://mist.io) - Mist is an open source multicloud management platform.
 - [OpenShift](https://www.openshift.com) - [github.com/openshift](https://github.com/openshift) Red Hat OpenShift is the hybrid cloud platform of open possibility: powerful, so you can build anything and flexible, so it works anywhere.
 - OpenStack - The Most Widely Deployed Open Source Cloud Software in the World
+  - [defsec](https://github.com/aquasecurity/defsec) - DefSec is a set of tools for scanning IaC and configuration files. 
   - [OpenStack.org](https://www.openstack.org/)
   - [Octavia](https://wiki.openstack.org/wiki/Octavia ) - Octavia is an operator-grade open source scalable load balancer. 
   - [OpenStack Horizon](https://github.com/openstack/horizon) - Horizon is a Django-based project aimed at providing a complete OpenStack Dashboard along with an extensible framework for building new dashboards from reusable components.
