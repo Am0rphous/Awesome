@@ -798,6 +798,7 @@ Based on that data, you can find the most popular ones and their alternatives.
     - [Words](https://calligra.org/words/index.html) - Calligra Words is an intuitive word processor application with desktop publishing features. With it, you can create informative and attractive documents with ease. Calligra Words makes adding images, charts etc to your documents effortless. It’s as simple as dragging it onto the document. 
   - [FreeOffice](https://www.freeoffice.com)
     - [Dictionaries](https://www.freeoffice.com/en/download/dictionaries)
+    - [Installing FreeOffice for Linux](https://www.freeoffice.com/en/service/tips-and-tricks/linux)
   - [Libre Cloud Services](https://www.opendesktop.org/)
   - [Libre Office](https://www.libreoffice.org/)
   - [SoftMaker Office](https://www.softmaker.com/en/softmaker-office-download) - Free for 30 days.
