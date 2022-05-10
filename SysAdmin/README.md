@@ -235,6 +235,7 @@ bro / zeek
 - [Gossin-backup](https://github.com/githubgossin/gossin-backup) - Simple backup script written in Bash.
 - [Linux Time Machine](https://github.com/cytopia/linux-timemachine) - Rsync-based OSX-like time machine for Linux, MacOS and BSD for atomic and resumable local and remote backups.
 - [Veeam Backup & Replication Community Editio](https://www.veeam.com/virtual-machine-backup-solution-free.html) - FREE backup software for VMware and Hyper-V, as well as physical servers, workstations, laptops and cloud instances.
+- [rbackup.sh](https://github.com/brainfucksec/rbackup) - Shell script for encrypted backups with rsync and gpg 
 - [Rclone](https://rclone.org/)
 - [Rsync time backup](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync.
 - [TimeShift](https://github.com/teejee2008/timeshift) - Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB. 
