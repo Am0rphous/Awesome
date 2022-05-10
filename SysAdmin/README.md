@@ -718,15 +718,21 @@ upstream_recursive_servers:
       - [Fido2luks](https://github.com/shimunn/fido2luks) - Decrypt your LUKS partition using a FIDO2 compatible authenticator.
         - [SoloKey Full Disk Encryption](https://github.com/saravanan30erd/solokey-full-disk-encryption) - Use SoloKey to unlock a LUKS encrypted partition.
       - [Yubikey for LUKS](https://github.com/cornelinux/yubikey-luks) - Two factor authentication for harddisk encryption.
+        - [Using a Yubikey to unlock a luks encrypted hard drive at boot time](https://wiki.debian.org/Smartcards/YubiKey4)
     - [Passwordless login with Yubikey 5 NFC](https://askubuntu.com/questions/1167691/passwordless-login-with-yubikey-5-nfc)
     - [Ubuntu Linux Login Guide - U2F ](https://support.yubico.com/hc/en-us/articles/360016649099-Ubuntu-Linux-Login-Guide-U2F)
     - [Using Your U2F YubiKey with Linux ](https://support.yubico.com/hc/en-us/articles/360013708900-Using-Your-U2F-YubiKey-with-Linux)
     - [Yubico Authenticator](https://github.com/Yubico/yubioath-desktop) - Yubico Authenticator for Desktop (Windows, macOS and Linux).
+    #### TOP
+    - [yubikey-totp](https://packages.debian.org/python-yubico-tools) - generate a TOTP code from a secret stored on the key. 
+    - [Yubico Authenticator (debian package)](https://packages.debian.org/yubioath-desktop) - generate OATH-HOTP and OATH-TOTP one-time password codes from secretes protected by the key 
   #### Android Specific
   - [Aegis Authenticator](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
+
   #### iOS Specific
   - [Authenticator](https://github.com/mattrubin/Authenticator) - Two-Factor Authentication Client for iOS.
   - [Krypton-ios](https://github.com/kryptco/krypton-ios) - Krypton turns your iOS device into a WebAuthn/U2F Authenticator: strong, unphishable 2FA.
+
   #### MacOS Specific
   - [Authenticator](https://github.com/torinkwok/Authenticator) - 🔒 Happy Two-Factor Verifying!
   - [MinaOTP-MAC](https://github.com/MinaOTP/MinaOTP-MAC) - Two-factor authentication tray app in macOS.
@@ -737,6 +743,7 @@ upstream_recursive_servers:
   - [Auditd](https://manpages.ubuntu.com/manpages/jammy/en/man8/auditd.8.html) - The Linux Audit daemon.
   - [LKRG - Linux Kernel Runtime Guard](https://www.openwall.com/lkrg) -  LKRG performs runtime integrity checking of the Linux kernel and detection of security vulnerability exploits against the kernel.
     - [Linux Kernel Runtime Guard (LKRG) for Debian, Whonix, Qubes, Kicksecure](https://www.whonix.org/wiki/Linux_Kernel_Runtime_Guard_LKRG)
+
   #### Linux Hardening Guides
   - [40 Linux Server Hardening Security Tips (2019 edition)](https://www.cyberciti.biz/tips/linux-security.html)
   - [Debian-cis](https://github.com/ovh/debian-cis) - PCI-DSS compliant Debian 9/10 hardening.
