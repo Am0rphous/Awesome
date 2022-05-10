@@ -31,8 +31,9 @@ netstat -tulpn | grep tor
  Install proxychains-ng to be able to run programs over Tor
 ````powershell
 sudo apt install proxychains-ng -y
-proxychains curl ifconfig.me                 # should list tor IP
-proxychains program-name program-options
+proxychains4 curl ifconfig.me                 # should list tor IP
+proxychains4 program-name program-parameters
+proxychains4 nmap -v 1.1.1.1 -p 80
 ````
 
 ### Nyx - problem
