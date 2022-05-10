@@ -155,6 +155,7 @@ Description: Transforms a binary's machine code into assembly language/code.
   - [IdaRef](https://github.com/nologic/idaref) - IDA Pro Instruction Reference Plugin.
   - [Obfuscation Detection](https://github.com/mcdulltii/obfDetect) - IDA plugin to pinpoint obfuscated code.
   - [Wilhelm](https://github.com/zerotypic/wilhelm) - Alternative API for IDA / Hex-Rays.
+  - [x64dbgida](https://github.com/x64dbg/x64dbgida) - Official x64dbg plugin for IDA Pro. 
 - [Smali](https://github.com/JesusFreke/smali) - assembler/disassembler for the dex format used by dalvik, Android's Java VM implementation.
 - [Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler, assembler, and disassembler.
 - [Radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset.
