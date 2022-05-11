@@ -968,6 +968,7 @@ upstream_recursive_servers:
   - [MiniShift](https://github.com/minishift/minishift) - Open source tool that helps you run a single-node OpenShift cluster locally inside a VM. [okd.io](https://www.okd.io)
   - [Panamax-ui](https://github.com/CenturyLinkLabs/panamax-ui) - The Web GUI for Panamax.
   - [The Moby Project](https://github.com/moby/moby) - A collaborative project for the container ecosystem to assemble container-based systems.
+  - [vSphere Integrated Containers](https://github.com/vmware/vic-product) - vSphere Integrated Containers enables VMware customers to deliver a production-ready container solution to their developers and DevOps teams. 
   - [RunC](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification.
   - [V86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly.
 
