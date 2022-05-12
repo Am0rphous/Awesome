@@ -24,6 +24,7 @@ _“Intelligence is the ability to avoid doing work, yet getting the work done -
 - [EDR, IDS, HIDS and IPS](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#edr-ids-hids-and-ips)
   - [Firewall](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#firewall)
 - [Monitoring](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#monitoring)
+  - [Cloud Monitoring](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#cloud-monitoring)
   - [CPU](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#cpu)
   - [ELK-stack](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#elk-stack)
   - [Good resources](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#good-resources)
@@ -433,6 +434,9 @@ lsscsi                          #Print SCSI Devices Info
   #### Attack Surface Monitoring
   - [Awesome Attack Surface Monitoring](https://github.com/0xtavian/awesome-attack-surface-monitoring) - Curated list of open-source & paid Attack Surface Monitoring (ASM) tools. 
 
+  #### Cloud Monitoring
+  - [Nightingale](https://github.com/didi/nightingale) - An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and management. 
+  
   #### CPU
   - [CPUGraph - xfce4-cpugraph-plugin](https://docs.xfce.org/panel-plugins/xfce4-cpugraph-plugin/start) - This panel plugin offers multiple display modes (LED, gradient, fire, etc…) to show the current CPU load of the system. Various appearance options, like colors or size, are customizable. [Source code](https://gitlab.xfce.org/panel-plugins/xfce4-cpugraph-plugin)
   - [xfce4-cpufreq-plugin](https://gitlab.xfce.org/panel-plugins/xfce4-cpufreq-plugin) - Shows CPU frequencies and governor
