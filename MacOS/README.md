@@ -128,6 +128,9 @@ ps axu | grep "/bin/tor"
 
   ### Linux tools specificly for Macbook
   - [mbpfan](https://github.com/linux-on-mac/mbpfan) - A simple daemon to control fan speed on all MacBook/MacBook Pros (probably all Apple computers) for Linux Kernel 3 and newer 
+  ### Macbook Pro 14.3 (late 2017)
+  - [BCM43602_macbookpro](https://github.com/andyholst/BCM43602_macbookpro) - Bruteforce test the boardflags 3 for 2.4 Ghz and 5 Ghz band
+    - [Solution which makes the wifi work](https://bugzilla.kernel.org/show_bug.cgi?id=193121#c52)
 
 ## Productivity
 - [AirUnlock-for-Mac (Archived)](https://github.com/pinetum/AirUnlock-for-Mac) - Using android phone to establish a connection with your Mac via Bluetooth low-energy (BLE), controlling Mac lock state (Lock or Unlock).
