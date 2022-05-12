@@ -722,6 +722,7 @@ Based on that data, you can find the most popular ones and their alternatives.
       ###### Equalizers
       - [EasyEffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications.
       ###### Music Apps
+      - [Blanket](https://github.com/rafaelmardojai/blanket) - Listen to different sounds 
       - [Guayadeque](https://github.com/anonbeat/Guayadeque) - Music management program designed for all music enthusiasts. [guayadeque.org](http://www.guayadeque.org)
       - [Lollypop](https://gitlab.gnome.org/World/lollypop) - Lollypop is a lightweight modern music player designed to work excellently on the GNOME desktop environment. [Lollypop flatpak](https://www.flathub.org/apps/details/org.gnome.Lollypop)
       - [Midomi.com](https://www.midomi.com) - Online SoundHound alternative.
