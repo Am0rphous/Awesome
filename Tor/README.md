@@ -140,6 +140,7 @@ virt-viewer vnc://localhost:5901
 - NotEvil Dark Web - https://3g2upl4pq6kufc4m.onion/ 
 - ProtonMail - https://protonirockerxow.onion
 - Torch - http://cnkj6nippubgycuj.onion/
+- Tor's Gitlab http://eweiibe6tdjsdprb4px6rqrzzcsi22m4koia44kc5pcjr7nec2rlxyad.onion
 
 ### Collections
 - [DEEP WEB LINKS COLLECTION](https://gist.github.com/vyach-vasiliev/045af4c70cf2ed35c6091b4705093017)
