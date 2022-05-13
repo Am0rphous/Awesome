@@ -132,15 +132,5 @@ virt-viewer vnc://localhost:5901
 - [Dan.me.uk](https://www.dan.me.uk/torlist/) - A page containing a full TOR nodelist.
 - [Exitgather](https://github.com/uforia/exitgather) - Tool for automatic list generation of known TOR and VPN exit nodes 
 
-### Onion Services
-- Ahmia.fi - http://haystakvxad7wbk5.onion/
-- DuckDuckGo - https://3g2upl4pq6kufc4m.onion
-- Haystak - http://haystakvxad7wbk5.onion/
-- Index of torproject.org - http://sdscoq7snqtznauu.onion
-- NotEvil Dark Web - https://3g2upl4pq6kufc4m.onion/ 
-- ProtonMail - https://protonirockerxow.onion
-- Torch - http://cnkj6nippubgycuj.onion/
-- Tor's Gitlab http://eweiibe6tdjsdprb4px6rqrzzcsi22m4koia44kc5pcjr7nec2rlxyad.onion
-
 ### Collections
 - [DEEP WEB LINKS COLLECTION](https://gist.github.com/vyach-vasiliev/045af4c70cf2ed35c6091b4705093017)
