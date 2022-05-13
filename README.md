@@ -15,21 +15,26 @@ Communicate clearly <br>
 - [Awesome entitled projects](https://github.com/Am0rphous/Awesome/blob/master/README.md#awesome-entitled-projects)
 - [Communication and Collaboration Tools](https://github.com/Am0rphous/Awesome/blob/master/README.md#communication-and-collaboration-tools)
   - [E-mail](https://github.com/Am0rphous/Awesome#e-mail)
+    - [Security Tools](https://github.com/Am0rphous/Awesome#security-tools)
   - [IRC](https://github.com/Am0rphous/Awesome#irc)
     - [IRC Clients](https://github.com/Am0rphous/Awesome/blob/master/README.md#irc-clients)
     - [IRC Servers](https://github.com/Am0rphous/Awesome/blob/master/README.md#irc-servers)
   - [Matrix](https://github.com/Am0rphous/Awesome#matrix)
   - [Version Control, Wiki, Knowledge base](https://github.com/Am0rphous/Awesome#version-control-wiki-knowledge-base)
+    - [CI/CD](https://github.com/Am0rphous/Awesome#cicd)
   - [VoIP](https://github.com/Am0rphous/Awesome#voip)
 - [Desktop Customization](https://github.com/Am0rphous/Awesome/blob/master/README.md#desktop-customization)
   - [Extensions](https://github.com/Am0rphous/Awesome/blob/master/README.md#extensions)
   - [Inspiration](https://github.com/Am0rphous/Awesome/blob/master/README.md#inspiration)
+  - [Prevent Eyestrain](https://github.com/Am0rphous/Awesome#prevent-eyestrain)
+  - [Screensavers](https://github.com/Am0rphous/Awesome/blob/master/README.md#screensavers)
   - [Themes](https://github.com/Am0rphous/Awesome/blob/master/README.md#themes)
   - [Wallapers](https://github.com/Am0rphous/Awesome/blob/master/README.md#wallpapers)
 - [Development](https://github.com/Am0rphous/Awesome/blob/master/README.md#development)
   - [API](https://github.com/Am0rphous/Awesome/blob/master/README.md#api)
   - [Backend](https://github.com/Am0rphous/Awesome/blob/master/README.md#backend)
-  - [Code Editors](https://github.com/Am0rphous/Awesome/blob/master/README.md#code-editors)
+  - [Code Editors/IDE](https://github.com/Am0rphous/Awesome#code-editors--ide)
+  - [File Managers](https://github.com/Am0rphous/Awesome#file-managers)
   - [Frontend](https://github.com/Am0rphous/Awesome/blob/master/README.md#frontend)
   - [Icons](https://github.com/Am0rphous/Awesome/blob/master/README.md#icons)
   - [iOS](https://github.com/Am0rphous/Awesome/blob/master/README.md#ios)
@@ -55,40 +60,50 @@ Communicate clearly <br>
 - [Finance](https://github.com/Am0rphous/Awesome/blob/master/README.md#finance)
   - [Cryptocurrency](https://github.com/Am0rphous/Awesome/blob/master/README.md#cryptocurrency)
 - [Finding Software](https://github.com/Am0rphous/Awesome/blob/master/README.md#finding-software)
+  - [Looking for software, projects, courses or inspiration?](https://github.com/Am0rphous/Awesome/blob/master/README.md#looking-for-software-projects-courses-or-inspiration)
 - [Food and Drinks](https://github.com/Am0rphous/Awesome/blob/master/README.md#food-and-drinks)
 - [Games](https://github.com/Am0rphous/Awesome/blob/master/README.md#games)
-- [Geography](https://github.com/Am0rphous/Awesome/blob/master/README.md#geography)
+- [Geography and maps](https://github.com/Am0rphous/Awesome#geography-and-maps)
 - [Hardware](https://github.com/Am0rphous/Awesome/blob/master/README.md#hardware)
 - [InfoSec](https://github.com/Am0rphous/Awesome/blob/master/README.md#infosec)
+  - [Privacy](https://github.com/Am0rphous/Awesome/blob/master/README.md#privacy)
+  - [Security](https://github.com/Am0rphous/Awesome/blob/master/README.md#security)
 - [Learning resources](https://github.com/Am0rphous/Awesome/blob/master/README.md#learning-resources)
-- [Looking for software, projects, courses or inspiration?](https://github.com/Am0rphous/Awesome/blob/master/README.md#looking-for-software-projects-courses-or-inspiration)
-- [Media](https://github.com/Am0rphous/Awesome/blob/master/README.md#media)
-  - [Image](https://github.com/Am0rphous/Awesome/blob/master/README.md#image)
+- [Multimedia](https://github.com/Am0rphous/Awesome/blob/master/README.md#multimedia)
+  - [Image and pictures](https://github.com/Am0rphous/Awesome/blob/master/README.md#image)
     - [Graphs, Charts, Diagrams and Data Visualization](https://github.com/Am0rphous/Awesome/blob/master/README.md#graphs-charts-diagrams-and-data-visualization)
   - [Video](https://github.com/Am0rphous/Awesome/blob/master/README.md#video)
   - [Media Servers](https://github.com/Am0rphous/Awesome/blob/master/README.md#media-servers)
     - [Docker](https://github.com/Am0rphous/Awesome/blob/master/README.md#docker)
-  - [IP-TV](https://github.com/Am0rphous/Awesome/blob/master/README.md#ip-tv)
+    - [IP-TV](https://github.com/Am0rphous/Awesome/blob/master/README.md#ip-tv)
   - [Music](https://github.com/Am0rphous/Awesome/blob/master/README.md#music)
+    - [Free Music](https://github.com/Am0rphous/Awesome#free-music)
+    - [Radio](https://github.com/Am0rphous/Awesome#radio)
     - [Sound Production](https://github.com/Am0rphous/Awesome/blob/master/README.md#sound-production)
-    - [Equalizers](https://github.com/Am0rphous/Awesome/blob/master/README.md#equalizers)
-    - [Music Apps](https://github.com/Am0rphous/Awesome/blob/master/README.md#music-apps)
-    - [Podcast](https://github.com/Am0rphous/Awesome/blob/master/README.md#podcast)
+      - [Equalizers](https://github.com/Am0rphous/Awesome/blob/master/README.md#equalizers)
+      - [Music Apps](https://github.com/Am0rphous/Awesome/blob/master/README.md#music-apps)
+      - [Podcast](https://github.com/Am0rphous/Awesome/blob/master/README.md#podcast)
 - [News, RSS Feed](https://github.com/Am0rphous/Awesome/blob/master/README.md#news-rss-feed)
-- [Privacy](https://github.com/Am0rphous/Awesome/blob/master/README.md#privacy)
 - [Productivity Tools](https://github.com/Am0rphous/Awesome/blob/master/README.md#productivity-tools)
   - [Note Taking Apps](https://github.com/Am0rphous/Awesome/blob/master/README.md#note-taking-apps)
     - [Pastebins](https://github.com/Am0rphous/Awesome/blob/master/README.md#pastebins)
   - [Office Tools](https://github.com/Am0rphous/Awesome/blob/master/README.md#office-tools)
   - [Project Management](https://github.com/Am0rphous/Awesome/blob/master/README.md#project-management)
-  - [Security](https://github.com/Am0rphous/Awesome/blob/master/README.md#security)
+  - [Reference Management](https://github.com/Am0rphous/Awesome#reference-management)
   - [Time Management](https://github.com/Am0rphous/Awesome/blob/master/README.md#time-management)
     - [Polls](https://github.com/Am0rphous/Awesome/blob/master/README.md#polls)
-    - [Weather](https://github.com/Am0rphous/Awesome/blob/master/README.md#weather)
+  - [Weather](https://github.com/Am0rphous/Awesome/blob/master/README.md#weather)
+- [Social Media](https://github.com/Am0rphous/Awesome#social-media)
+  - [Images](https://github.com/Am0rphous/Awesome#images)
+    - [Instagram](https://github.com/Am0rphous/Awesome#instagram)
+  - [Bloggng](https://github.com/Am0rphous/Awesome#blogging)
+  - [Music](https://github.com/Am0rphous/Awesome#music-1)
+  - [Video Hosting](https://github.com/Am0rphous/Awesome#video-hosting)
 - [Resources](https://github.com/Am0rphous/Awesome/blob/master/README.md#resources)
 - [Tools](https://github.com/Am0rphous/Awesome/blob/master/README.md#tools)
   - [DVD-ripping](https://github.com/Am0rphous/Awesome/blob/master/README.md#dvd-ripping)
   - [Hex](https://github.com/Am0rphous/Awesome/blob/master/README.md#hex)
+  - [Linux Tools](https://github.com/Am0rphous/Awesome#linux-tools)
   - [Torrent](https://github.com/Am0rphous/Awesome/blob/master/README.md#torrent)
     - [Streaming torrent](https://github.com/Am0rphous/Awesome/blob/master/README.md#streaming-torrent)
 - [Web Browsers](https://github.com/Am0rphous/Awesome/blob/master/README.md#web-browsers)
@@ -166,7 +181,7 @@ Communicate clearly <br>
 - [Discord](https://discord.com/) - Discord is a VoIP, instant messaging and digital distribution platform. Users communicate with voice calls, video calls, text messaging, media and files in private chats or as part of communities called "servers". Servers are a collection of persistent chat rooms and voice chat channels. [wikipedia](https://en.wikipedia.org/wiki/Discord_(software))
   - [Eth-Price-Bot](https://github.com/hjoelh/Eth-Price-Bot) - Simple discord bot to display the current ethereum price.
 - [Discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
-- [Jami](https://git.jami.net/savoirfairelinux/ring-project) -Jami is a serverless peer-to-peer communication platform that delivers maximum privacy via end-to-end encryption. Installation e.g. `sudo snap install jami-gnome` [snapcraft.io/jami-gnome](https://snapcraft.io/jami-gnome)
+- [Jami](https://git.jami.net/savoirfairelinux/ring-project) - Jami is a serverless peer-to-peer communication platform that delivers maximum privacy via end-to-end encryption. Installation e.g. `sudo snap install jami-gnome` [snapcraft.io/jami-gnome](https://snapcraft.io/jami-gnome)
 - [Jitsi Meet](https://github.com/jitsi/jitsi-meet) - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
   - [Jibri](https://github.com/jitsi/jibri) - Jitsi BRoadcasting Infrastructure. Jibri provides services for recording or streaming a Jitsi Meet conference.
   - [Set Up Jibri for Jitsi Recording/Streaming](https://nerdonthestreet.com/s/15) - This tutorial will demonstrate how to install Jibri to add recording and streaming functionality to a Jitsi Meet server.
@@ -292,8 +307,8 @@ Communicate clearly <br>
   - [OutLine](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
   - [Rhodecode](https://rhodecode.com/)
   - [Savannah](https://savannah.gnu.org/)
-  ### CI/CD
-  - [Earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere 
+    #### CI/CD
+    - [Earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere 
   
   ### VoIP
   - [Mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software.
@@ -324,8 +339,8 @@ Communicate clearly <br>
   - [NordTheme.com](https://www.nordtheme.com) - [Github](https://github.com/arcticicestudio/nord)
   - [Pling.com](https://www.pling.com)
   #### Prevent Eyestrain
-- [F.lux](https://justgetflux.com/) - it makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day. 
-- [fluxgui](https://github.com/xflux-gui/fluxgui) - Better lighting for Linux. Open source GUI for xflux.
+  - [F.lux](https://justgetflux.com/) - it makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day. 
+  - [fluxgui](https://github.com/xflux-gui/fluxgui) - Better lighting for Linux. Open source GUI for xflux.
 ````powershell
 xflux -k 3400 -l 59.9 -g 10.7              #default color temperature
 xflux -k 2000 -l 59.9 -g 10.7 -nofork
@@ -336,10 +351,13 @@ sudo add-apt-repository ppa:nathan-renniewaldock/flux
 sudo apt-get update
 sudo apt-get install fluxgui
 ````
-- [RedShift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. [jonls.dk/redshift](http://jonls.dk/redshift/)
+  - [RedShift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. [jonls.dk/redshift](http://jonls.dk/redshift/)
 ````powershell
 sudo apt-get install redshift-gtk
 ````
+  #### Screensavers
+  - [XScreenSaver](https://www.jwz.org/xscreensaver/)
+  
   #### Themes
   - [18 Best GTK Themes for Ubuntu and other Linux Distributions](https://itsfoss.com/best-gtk-themes)
   - [25 Best Icon Themes For Ubuntu and Other Linux](https://itsfoss.com/best-icon-themes-ubuntu-16-04)
@@ -347,6 +365,7 @@ sudo apt-get install redshift-gtk
   - [Minimal Conception Theme](https://www.gnome-look.org/p/1235451/)
   - [Nordic GTK3/4 Theme](https://www.pling.com/s/Gnome/p/1267246)
   - [Top 35 Best Ubuntu Themes That Will Blow Your Mind](https://www.ubuntupit.com/best-ubuntu-themes-will-blow-mind/)
+
   #### Wallpapers
   - [Linux OS specific wallpapers](https://www.pling.com/browse?cat=261&ord=latest)
   - [Wallhaven.cc](https://wallhaven.cc/)
@@ -550,6 +569,19 @@ sudo apt-get install redshift-gtk
 - [Linux App Finder](https://linuxappfinder.com)
 - [pling.com](https://www.pling.com) - Pling.com is part of Opendesktop.org. It is the Store section, where creators can publish their libre products and content and get a small compensation each time a product is downloaded or media is viewed, limited on the amount of donations available for each section.
 
+  ### Looking for software, projects, courses or inspiration?
+  - [Ail-framework](https://github.com/ail-project/ail-framework) - Analysis Information Leak framework.
+  - [AwesomeOpenSource](https://awesomeopensource.com/)
+  - [FeatHub](https://feathub.com)
+  - [FindBestPpenSource.com/projects](https://www.findbestopensource.com/projects)
+  - [Electronjs.org/apps](https://www.electronjs.org/apps)
+  - [GitHunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub. [Hunt Online](https://kamranahmed.info/githunt)
+  - [Gitstar Ranking](https://gitstar-ranking.com) - Unofficial GitHub star ranking for users, organizations and repositories.
+  - [LibHunt](https://www.libhunt.com/) -LibHunt tracks mentions of open-source projects and software libraries.
+Based on that data, you can find the most popular ones and their alternatives.
+  - [Udemy Downloader GUI](https://github.com/FaisalUmair/udemy-downloader-gui) - A desktop application for downloading Udemy Courses.
+
+
 ## Food and Drinks
 - [Brewtarget](https://github.com/Brewtarget/brewtarget) - Brewtarget is free open-source brewing software, and a beer recipe creation tool available for Linux, Mac, and Windows. It automatically calculates color, bitterness, and other parameters for you while you drag and drop ingredients into the recipe.
 
@@ -576,7 +608,27 @@ sudo apt-get install redshift-gtk
 - [academy.attackiq.com](https://academy.attackiq.com)
 - MITRE ATT&CK - https://attack.mitre.org/
   - [MITRE ATT&CK® Navigator](https://mitre-attack.github.io/attack-navigator/enterprise/)
-- [TaskBook](https://github.com/klaussinani/taskbook/blob/master/.gitattributes) - Tasks, boards & notes for the command-line habitat  
+- [TaskBook](https://github.com/klaussinani/taskbook/blob/master/.gitattributes) - Tasks, boards & notes for the command-line habitat.
+
+  ### Privacy
+  - [Digita Privacy](https://github.com/ffffffff0x/Digital-Privacy) - 一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗.
+
+  ### Security
+  - [Howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux.
+  Commands:
+  ````powershell
+  sudo add-apt-repository ppa:boltgolt/howdy
+  sudo apt install howdy
+  sudo howdy add
+  sudo howdy -U myUserName add
+  sudo howdy config                 # device_path should be e.g. /dev/video0
+  sudo howdy list
+  sudo howdy remove face_ID
+  sudo howdy clear
+  sudo howdy disable 1            #disable it
+  sudo howdy disable 0            #enable it
+  ````
+  - [Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist) - A curated checklist of 300+ tips for protecting digital security and privacy in 2022.
 
 ## Learning resources
 - [Command Line Text Processing](https://github.com/learnbyexample/Command-line-text-processing#ebook) - From finding text to search and replace, from sorting to beautifying text and more. [Gitbook](https://learnbyexample.gitbooks.io/command-line-text-processing/content/)
@@ -586,23 +638,11 @@ sudo apt-get install redshift-gtk
 - [Linux_command_line](https://github.com/learnbyexample/Linux_command_line) - Introduction to Linux commands and Shell scripting.
 - [Scripting_course](https://github.com/learnbyexample/scripting_course) - A reference guide to Linux command line, Vim and Scripting.
 
-## Looking for software, projects, courses or inspiration?
-- [Ail-framework](https://github.com/ail-project/ail-framework) - Analysis Information Leak framework.
-- [AwesomeOpenSource](https://awesomeopensource.com/)
-- [FeatHub](https://feathub.com)
-- [FindBestPpenSource.com/projects](https://www.findbestopensource.com/projects)
-- [Electronjs.org/apps](https://www.electronjs.org/apps)
-- [GitHunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub. [Hunt Online](https://kamranahmed.info/githunt)
-- [Gitstar Ranking](https://gitstar-ranking.com) - Unofficial GitHub star ranking for users, organizations and repositories.
-- [LibHunt](https://www.libhunt.com/) -LibHunt tracks mentions of open-source projects and software libraries.
-Based on that data, you can find the most popular ones and their alternatives.
-- [Udemy Downloader GUI](https://github.com/FaisalUmair/udemy-downloader-gui) - A desktop application for downloading Udemy Courses.
-
 ## Media
 - [Multimedia and Television Support on Linux](https://www.linuxtv.org)
 - [System Color Picker](https://github.com/sindresorhus/System-Color-Picker) - The macOS color picker as an app with more features 
 - [Wwmark](https://github.com/mylamour/Wwmark) - Watermark Swiss Army Knife.
-  ### Image
+  ### Image and pictures
   - [Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework.
   - [DarkTable](https://github.com/darktable-org/darktable) - open source photography workflow application and raw developer. A virtual lighttable and darkroom for photographers. [darktable.org](https://www.darktable.org)
   - [DigiKam from KDE](https://www.digikam.org) - [Github](https://github.com/KDE/digikam) Advanced open-source digital photo management application that runs on Linux, Windows, and MacOS. The application provides a comprehensive set of tools for importing, managing, editing, and sharing photos and raw files.
@@ -663,22 +703,25 @@ Based on that data, you can find the most popular ones and their alternatives.
    - [Xtreme Download Manager](https://github.com/subhra74/xdm) -  Powerfull download accelerator and video downloader.
 
   ### Media Servers
-   - [Forked-daapd](https://github.com/ejurgensen/forked-daapd) - Linux/FreeBSD DAAP (iTunes) and MPD media server with support for AirPlay devices (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio. 
-   - [Jellyfin](https://github.com/jellyfin/jellyfin) - Free Software Media System that puts you in control of managing and streaming your media. [jellyfin.org](https://jellyfin.org)
-   - [Kodi](https://github.com/xbmc/xbmc) - award-winning free and open source home theater/media center software and entertainment hub for digital media. [kodi.tv](https://kodi.tv)
-   - [Lidarr](https://github.com/lidarr/Lidarr) - Lidarr is a music collection manager for Usenet and BitTorrent users. [lidarr.audio](https://lidarr.audio/)
-   - [Mopidy](https://github.com/mopidy/mopidy) - plays music from local disk, Spotify, SoundCloud, Google Play Music, and more. [Mopidy.com](https://mopidy.com/)
-   - [Plex](https://www.plex.tv/) -  closed source media server + desktop application. [plex.tv](https://www.plex.tv/)
-     - [Omni](https://github.com/tidusjar/Ombi) - Want a Movie or TV Show on Plex or Emby? Use Ombi. [omni.io](https://ombi.io/)
-     - [Telly](https://github.com/tellytv/telly) - IPTV proxy for Plex Live written in Golang.
-   - [Snapcast](https://github.com/badaix/snapcast) - Snapcast is a multiroom client-server audio player, where all clients are time synchronized with the server to play perfectly synced audio. [Homepage Snapcast](https://mjaggard.github.io/snapcast/)
+  - [Forked-daapd](https://github.com/ejurgensen/forked-daapd) - Linux/FreeBSD DAAP (iTunes) and MPD media server with support for AirPlay devices (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio. 
+  - [Jellyfin](https://github.com/jellyfin/jellyfin) - Free Software Media System that puts you in control of managing and streaming your media. [jellyfin.org](https://jellyfin.org)
+  - [Kodi](https://github.com/xbmc/xbmc) - award-winning free and open source home theater/media center software and entertainment hub for digital media. [kodi.tv](https://kodi.tv)
+  - [Lidarr](https://github.com/lidarr/Lidarr) - Lidarr is a music collection manager for Usenet and BitTorrent users. [lidarr.audio](https://lidarr.audio/)
+  - [Mopidy](https://github.com/mopidy/mopidy) - plays music from local disk, Spotify, SoundCloud, Google Play Music, and more. [Mopidy.com](https://mopidy.com/)
+  - [Plex](https://www.plex.tv/) -  closed source media server + desktop application. [plex.tv](https://www.plex.tv/)
+    - [Omni](https://github.com/tidusjar/Ombi) - Want a Movie or TV Show on Plex or Emby? Use Ombi. [omni.io](https://ombi.io/)
+    - [Telly](https://github.com/tellytv/telly) - IPTV proxy for Plex Live written in Golang.
+  - [Snapcast](https://github.com/badaix/snapcast) - Snapcast is a multiroom client-server audio player, where all clients are time synchronized with the server to play perfectly synced audio. [Homepage Snapcast](https://mjaggard.github.io/snapcast/)
+
     #### Docker
     - [Couchpotato by Linuxserver](https://hub.docker.com/r/linuxserver/couchpotato/)
     - [Docker-bazarr](https://github.com/linuxserver/docker-bazarr) - Bazarr is a companion application to Sonarr and Radarr. It can manage and download subtitles based on your requirements.
+
     #### IP-TV
     - [FreeTuxTV](https://github.com/freetuxtv/freetuxtv/) - FreetuxTV Internet television and radio player.
     - [IPTV by iptv-org](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world.
-    - [IPTVx](https://github.com/jankammerath/iptvx) - IPTV player and streamer for Linux that allows to play any stream that LibVLC can play, offers an overlay based on WebKit using HTML5, JavaScript and CSS and uses XMLTV data for EPG information. It allows the playback of URLs, files and can grab URLs from shell scripts. XMLTV EPG data can be downloaded from URLs or grabbed from shell scripts. 
+    - [IPTVx](https://github.com/jankammerath/iptvx) - IPTV player and streamer for Linux that allows to play any stream that LibVLC can play, offers an overlay based on WebKit using HTML5, JavaScript and CSS and uses XMLTV data for EPG information. It allows the playback of URLs, files and can grab URLs from shell scripts. XMLTV EPG data can be downloaded from URLs or grabbed from shell scripts.
+
     #### Music
     - [AirSonic](https://github.com/airsonic/airsonic) - 📡 ☁️ 🎶Airsonic, a Free and Open Source community driven media server (fork of Subsonic and Libresonic).
       - [Airsonic-Advanced](https://github.com/airsonic-advanced/airsonic-advanced) - modern implementation of the Airsonic fork with several key performance and feature enhancements.
@@ -704,6 +747,7 @@ Based on that data, you can find the most popular ones and their alternatives.
     - [Radiotray-NG](https://github.com/ebruck/radiotray-ng) - An Internet radio player for Linux.
     - [Shortwave](https://gitlab.gnome.org/World/Shortwave) - Find and listen to internet radio stations.
     - [Strimio](https://www.strimio.com) - A Beautiful Modern Radio Streaming App. [snap package](https://snapcraft.io/strimio-desktop)
+
     ##### Sound Production
     - [Ardour](https://ardour.org/) - Record, Edit, and Mix on Linux, macOS and Windows
     - [Audacity](https://sourceforge.net/projects/audacity)
@@ -753,9 +797,6 @@ Based on that data, you can find the most popular ones and their alternatives.
 - [RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible.
 - [Terminews](https://github.com/antavelos/terminews) - Manage RSS sources and display news feed in terminal.
 - [Wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
-
-## Privacy
-- [Digita Privacy](https://github.com/ffffffff0x/Digital-Privacy) - 一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗.
 
 ## Productivity Tools
 - [Albert Launcher](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher. [Homepage](https://albertlauncher.github.io/)
@@ -822,22 +863,6 @@ Based on that data, you can find the most popular ones and their alternatives.
     - [Zotero DOI Manager](https://github.com/bwiernik/zotero-shortdoi) - Zotero extension to retrieve and validate DOIs and shortDOIs.
     - [Zotero Storage Scanner](https://github.com/retorquere/zotero-storage-scanner) - A Zotero plugin to remove the broken & duplicate attachment link of the bibliography.
 
-  ### Security
-  - [Howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux.
-  Commands:
-  ````powershell
-  sudo add-apt-repository ppa:boltgolt/howdy
-  sudo apt install howdy
-  sudo howdy add
-  sudo howdy -U myUserName add
-  sudo howdy config                 # device_path should be e.g. /dev/video0
-  sudo howdy list
-  sudo howdy remove face_ID
-  sudo howdy clear
-  sudo howdy disable 1            #disable it
-  sudo howdy disable 0            #enable it
-  ````
-  - [Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist) - A curated checklist of 300+ tips for protecting digital security and privacy in 2022.
   
   ### Time Management
   - [BreakTimer App](https://github.com/tom-james-watson/breaktimer-app) - Manage periodic breaks. Avoid eye-strain and RSI.
@@ -856,9 +881,9 @@ Based on that data, you can find the most popular ones and their alternatives.
     ### Polls
     - [Framadate](https://framagit.org/framasoft/framadate/framadate) - [Framadate.org](https://framadate.org/) is an online service for planning an appointment or making a decision quickly and easily. It's a community free/libre software alternative to Doodle.
 
-    ### Weather
-    - [HDFM](https://github.com/KYDronePilot/hdfm) - A program that displays weather and traffic maps received from NRSC-5 (HDFM) radio station.
-    - [wittr.in](https://github.com/chubin/wttr.in) - ⛅ The right way to check the weather.
+  ### Weather
+  - [HDFM](https://github.com/KYDronePilot/hdfm) - A program that displays weather and traffic maps received from NRSC-5 (HDFM) radio station.
+  - [wittr.in](https://github.com/chubin/wttr.in) - ⛅ The right way to check the weather.
 
 ## Social Media
 - [Caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app.
