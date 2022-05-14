@@ -1,5 +1,6 @@
 # Cryptography
 
+- [CSCI-462](https://github.com/sarah-dill/CSCI-462) - Contains scripts from the class CSCI-462 Introduction to Cryptography 
 - [CryptoHack.org](https://cryptohack.org/) - A fun free platform for learning modern cryptography.
 - [Dcipher](https://github.com/k4m4/dcipher) - Decipher hashes using online rainbow & lookup table attack services.
 - [DEScrypto](https://github.com/DedSecInside/DEScrypto) - DES Encrypter/Decrypter.
