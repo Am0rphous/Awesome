@@ -56,7 +56,6 @@ Communicate clearly <br>
     - [Vlang](https://github.com/Am0rphous/Awesome/blob/master/README.md#vlang)
     - [Web](https://github.com/Am0rphous/Awesome/blob/master/README.md#web)
 - [E-books](https://github.com/Am0rphous/Awesome/blob/master/README.md#e-books)
-- [Encryption](https://github.com/Am0rphous/Awesome/blob/master/README.md#encryption)
 - [Finance](https://github.com/Am0rphous/Awesome/blob/master/README.md#finance)
   - [Cryptocurrency](https://github.com/Am0rphous/Awesome/blob/master/README.md#cryptocurrency)
 - [Finding Software](https://github.com/Am0rphous/Awesome/blob/master/README.md#finding-software)
@@ -543,18 +542,6 @@ sudo apt-get install redshift-gtk
 - [Linux-Books](https://github.com/manjunath5496/Linux-Books) - "We all love Linux, but it's also a fact that some people might not be able to migrate." - Miguel de Icaza.
 - [Secure Coding Handbook](https://github.com/joswha/Secure-Coding-Handbook) - Web Application Secure Coding Handbook resource.
 - [The Cyber Plumber's Handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook) - _"This repo contains the PDF book The Cyber Plumber's Handbook - The definitive guide to Secure Shell (SSH) tunneling, port redirection, and bending traffic like a boss. The book was first published in October 2018 for purchase, but now I'm providing it for FREE to anyone interested in learning more about the magic of SSH tunnels and port redirection."_
-
-## Encryption
-- [Ciphey](https://github.com/Ciphey/Ciphey) - Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes
-- [Crypto](https://developer.mozilla.org/en-US/docs/Web/API/Crypto) - The Crypto interface represents basic cryptography features available in the current context. It allows access to a cryptographically strong random number generator and to cryptographic primitives.
-- [Encrypting Kali Setup Tutorial (working pr. 10.11.20)](https://www.informaticar.net/how-to-manually-partition-and-encrypt-kali-linux/)
-- [GnuPGP](https://gnupg.org/) - The GNU Privacy Guard. GnuPG is a complete and free implementation of the OpenPGP standard as defined by RFC4880 (also known as PGP). GnuPG allows you to encrypt and sign your data and communications; it features a versatile key management system, along with access modules for all kinds of public key directories. GnuPG, also known as GPG, is a command line tool with features for easy integration with other applications. A wealth of frontend applications and libraries are available. GnuPG also provides support for S/MIME and Secure Shell (ssh).
-  - [EasyGPG](https://github.com/guelfoweb/easygpg) - Zenity GUI to manage GPG keys.
-  - [GnuPG Github](https://github.com/gpg/gnupg)
-- [LibreCrypt](https://github.com/t-d-k/LibreCrypt) - LibreCrypt: Transparent on-the-fly disk encryption for Windows. LUKS compatible.
-- [OpenSSL](https://github.com/openssl/openssl) - TLS/SSL and crypto library.
-- [Sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets 
-- [VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt.
 
 ## Finance
 - [Firefly III:](https://github.com/firefly-iii/firefly-iii) - a personal finances manager 
