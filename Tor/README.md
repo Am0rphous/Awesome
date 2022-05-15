@@ -102,7 +102,6 @@ virt-viewer vnc://localhost:5901
 - [DEEP_WEB_LINKS_COLLECTION.md](https://gist.github.com/vyach-vasiliev/045af4c70cf2ed35c6091b4705093017)
 - [Eschalot](https://github.com/ReclaimYourPrivacy/eschalot) - It is important to stress that we have not written this piece of software (see LICENSE).
 - [Fresh Onions TOR Hidden Service Crawler](https://github.com/dirtyfilthy/freshonions-torscraper) - Fresh Onions is an open source TOR spider / hidden service onion crawler hosted at zlal32teyptf4tvi.onion.
-- [Hosting](https://github.com/DanWin/hosting) - Setup for a Tor based shared web hosting server.
 - [Multitor](https://github.com/trimstray/multitor) -  Create multiple TOR instances with a load-balancing.
 - [oniongrok](https://github.com/cmars/oniongrok) - oniongrok forwards ports on the local host to remote Onion addresses as Tor hidden services and vice-versa.
 - [Onion-Hunter](https://github.com/cribdragg3r/Onion-Hunter) - _Hunt and Analyze Tor Onion Sites._
@@ -121,6 +120,9 @@ virt-viewer vnc://localhost:5901
   - Tor Status - https://jlve2y45zacpbz6s.tor2web.io
   - [Tor Status Github](https://github.com/paulchen/torstatus)
 
+### Collections
+- [DEEP WEB LINKS COLLECTION](https://gist.github.com/vyach-vasiliev/045af4c70cf2ed35c6091b4705093017)
+
 ### Helpful Web sites
 - [Censorship](https://support.torproject.org/censorship/)
 - [Community and legal resources](https://community.torproject.org/relay/community-resources/)
@@ -133,5 +135,6 @@ virt-viewer vnc://localhost:5901
 - [Dan.me.uk](https://www.dan.me.uk/torlist/) - A page containing a full TOR nodelist.
 - [Exitgather](https://github.com/uforia/exitgather) - Tool for automatic list generation of known TOR and VPN exit nodes 
 
-### Collections
-- [DEEP WEB LINKS COLLECTION](https://gist.github.com/vyach-vasiliev/045af4c70cf2ed35c6091b4705093017)
+### Services
+- [Hosting](https://github.com/DanWin/hosting) - Setup for a Tor based shared web hosting server.
+- [mail-hosting](https://github.com/DanWin/mail-hosting) - This is a setup for a Tor based mail hosting server 
