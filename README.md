@@ -538,6 +538,7 @@ sudo apt-get install redshift-gtk
 ## E-books
 - [Check Am0rphous Web-Resources.md](https://github.com/Am0rphous/Awesome/blob/master/Web-Resources.md)
 - [Calibre](https://github.com/kovidgoyal/calibre) - calibre is an e-book manager. It can view, convert, edit and catalog e-books in all of the major e-book formats.
+- [Hacking Books](https://github.com/tanc7/hacking-books)
 - [HonKit](https://github.com/honkit/honkit) - 📖 HonKit is building beautiful books using Markdown - Fork of GitBook.
 - [Linux-Books](https://github.com/manjunath5496/Linux-Books) - "We all love Linux, but it's also a fact that some people might not be able to migrate." - Miguel de Icaza.
 - [Secure Coding Handbook](https://github.com/joswha/Secure-Coding-Handbook) - Web Application Secure Coding Handbook resource.
