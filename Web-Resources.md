@@ -30,6 +30,7 @@
 - [Free-programming-books](https://github.com/EbookFoundation/free-programming-books) - Freely available programming books.
 - [Free Security eBooks](https://github.com/Hack-with-Github/Free-Security-eBooks) - A curated list of free Security and Pentesting related E-Books available on the Internet.
 - [getbestbooks.com](https://getbestbooks.com) - Free ebooks.
+- [Nasjonalbiblioteket](https://www.nb.no/) - Norwegian library
 - [Pdfdrive.com](https://www.pdfdrive.com) - search engine for PDF files.
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/) - [Github development](https://github.com/sysprog21/lkmpg) -  The Linux Kernel Module Programming Guide (updated for 5.x kernels).
