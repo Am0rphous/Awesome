@@ -811,6 +811,7 @@ Based on that data, you can find the most popular ones and their alternatives.
   - [Joplin](https://github.com/laurent22/joplin) - An open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: [discourse.joplinapp.org](https://discourse.joplinapp.org)
   - [MindNode](https://mindnode.com/download) - Brainstorm and mind mapping.
     - [Dracula for MindNode](https://github.com/dracula/mindnode) - Dark theme for MindNode.
+  - [Notejot](https://github.com/lainsce/notejot) - Stupidly-simple notes app. 
   - [Simplenote for Electron](https://github.com/Automattic/simplenote-electron) - Simplenote for Web, Windows, and Linux.
   - [Standard Notes](https://github.com/standardnotes/desktop) - A free, open-source, and completely encrypted notes app. Mac, PC, & Linux app repository. [standardnotes.com](https://standardnotes.com)
   - [Notes](https://github.com/nuttyartist/notes) - Note-taking application, write down your thoughts.
@@ -857,6 +858,7 @@ Based on that data, you can find the most popular ones and their alternatives.
   - [Deepin Calender](https://github.com/linuxdeepin/dde-calendar) - Calendar application for DDE.
   - [GNOME Calendar](https://gitlab.gnome.org/GNOME/gnome-calendar) [github](https://github.com/GNOME/gnome-calendar)
   - [HTML5 Binary Clock](https://github.com/AE0L/html5-binary-clock) - Binary Clock written in HTML5, CSS3, and Vanilla JS.
+  - [Khronos](https://github.com/lainsce/khronos) - Log each task's time in a simple inobtrusive way 
   - Pomodoro
     - [Mater](https://github.com/jasonlong/mater) - A simple menubar Pomodoro app.
     - [Pomatez](https://github.com/roldanjr/pomatez) - Stay Focused. Take a Break.
