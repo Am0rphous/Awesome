@@ -139,6 +139,7 @@
   - [Information Systems DIGEST Podcast](https://isdigest.buzzsprout.com/)
   - [Beers with Talos](https://talosintelligence.com/podcasts/shows/beers_with_talos)
   - SoundCloud
+    - [Nasjonal sikkerhetsmyndighet (NSM)](https://soundcloud.com/nasjonal-sikkerhetsmyndighet)
     - [Palo Alto Networks](https://soundcloud.com/paloaltonetworks)
   - Spotify
     - [CyberWire Daily](https://open.spotify.com/show/0CnYnxrAcfRjh0YSQINAwe?si=X2BItZkmQUSKyPZ1XvcmOA&dl_branch=1)
