@@ -26,6 +26,10 @@
 - [WeLiveSecurity.com](https://www.welivesecurity.com)
 - [Zdnet.com](https://www.zdnet.com)
 
+  ### Norwegian Sources
+  - Telenor
+    - [Digital Sikkerhet 2020 ](https://www.telenor.no/om/digital-sikkerhet/2021.jsp)
+
 ## E-books, PDF's and other documents
 - [Free-programming-books](https://github.com/EbookFoundation/free-programming-books) - Freely available programming books.
 - [Free Security eBooks](https://github.com/Hack-with-Github/Free-Security-eBooks) - A curated list of free Security and Pentesting related E-Books available on the Internet.
