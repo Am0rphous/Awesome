@@ -599,7 +599,8 @@ Based on that data, you can find the most popular ones and their alternatives.
 - [TaskBook](https://github.com/klaussinani/taskbook/blob/master/.gitattributes) - Tasks, boards & notes for the command-line habitat.
 
   ### Privacy
-  - [Digita Privacy](https://github.com/ffffffff0x/Digital-Privacy) - 一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗.
+  - [Digital Privacy](https://github.com/ffffffff0x/Digital-Privacy) - 一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗.
+  - [searX](https://github.com/searx/searx) - Privacy-respecting metasearch engine 
 
   ### Security
   - [Howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux.
