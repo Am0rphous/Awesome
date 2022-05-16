@@ -728,6 +728,7 @@ upstream_recursive_servers:
     - [Ubuntu Linux Login Guide - U2F ](https://support.yubico.com/hc/en-us/articles/360016649099-Ubuntu-Linux-Login-Guide-U2F)
     - [Using Your U2F YubiKey with Linux ](https://support.yubico.com/hc/en-us/articles/360013708900-Using-Your-U2F-YubiKey-with-Linux)
     - [Yubico Authenticator](https://github.com/Yubico/yubioath-desktop) - Yubico Authenticator for Desktop (Windows, macOS and Linux).
+    - [YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH 
     #### TOP
     - [yubikey-totp](https://packages.debian.org/python-yubico-tools) - generate a TOTP code from a secret stored on the key. 
     - [Yubico Authenticator (debian package)](https://packages.debian.org/yubioath-desktop) - generate OATH-HOTP and OATH-TOTP one-time password codes from secretes protected by the key 
