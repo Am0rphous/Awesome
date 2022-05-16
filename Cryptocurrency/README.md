@@ -25,6 +25,9 @@
 ## Convertion / Calculation
 - [Cryptocurrency-calculator-cli](https://github.com/madnight/cryptocurrency-calculator-cli) - Cryptocurrency Converter Calculator as command line util.
 
+## Documents & Reports
+- [Arcane](https://arcane.no/research/reports)
+
 ## Exchanges
 - [Binance.com](https://www.binance.com/en)
   - [Telegram group: BNB Community - Norge](https://t.me/BNBNorge)
