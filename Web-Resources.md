@@ -28,7 +28,9 @@
 
   ### Norwegian Sources
   - Telenor
-    - [Digital Sikkerhet 2020 ](https://www.telenor.no/om/digital-sikkerhet/2021.jsp)
+    - [Digital Sikkerhet 2021](https://www.telenor.no/om/digital-sikkerhet/2021.jsp)
+    - [Digital Sikkerhet 2020](https://www.telenor.no/om/digital-sikkerhet/2021.jsp)
+    - [Digital Sikkerhet 2019 ](https://www.telenor.no/om/digital-sikkerhet/2019.html)
 
 ## E-books, PDF's and other documents
 - [Free-programming-books](https://github.com/EbookFoundation/free-programming-books) - Freely available programming books.
