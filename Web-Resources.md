@@ -78,9 +78,13 @@
 
   ### Norway
   - [pst.no](https://pst.no/) - Norwegian Police Security Service is the police security agency of Norway, somewhat comparable to the British MI5 [wikipedia](https://en.wikipedia.org/wiki/Norwegian_Police_Security_Service).
-  #### Norwegian Threat Assessments
-  - [PST's trusselvurdering 2018](https://www.pst.no/alle-artikler/trusselvurderinger/trusselvurdering-2018/)
+  
+  #### PST - Norwegian Threat Assessments
+  - [PST's trusselvurdering 2022](https://www.pst.no/globalassets/ntv/2022/nasjonal-trusselvurdering-2022-pa-norsk.pdf) - [English](https://www.pst.no/globalassets/ntv/2022/nasjonal-trusselvurdering-2022-pa-engelsk.pdf)
+  - [PST's trusselvurdering 2021](https://www.pst.no/alle-artikler/trusselvurderinger/nasjonal-trusselvurdering-2021/)
+  - [PST's trusselvurdering 2020](https://pst.no/alle-artikler/trusselvurderinger/nasjonal-trusselvurdering-2020/)
   - [PST's trusselvurdering 2029](https://www.pst.no/alle-artikler/trusselvurderinger/trusselvurdering-2019/)
+  - [PST's trusselvurdering 2018](https://www.pst.no/alle-artikler/trusselvurderinger/trusselvurdering-2018/)
 
   ### Russia
   - [svr.gov.ru](http://svr.gov.ru/)
