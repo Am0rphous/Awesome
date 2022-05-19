@@ -67,10 +67,16 @@ _“Intelligence is the ability to avoid doing work, yet getting the work done -
   - [Container Technologies](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#container-technologies)
     - [Container orchestration](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#container-orchestration)
     - [Container Registers](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#container-registry)
+    - [Various](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#various)
+  - [Virtual Machines](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#virtual-machines)
   - [Hypervisors](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#hypervisors)
+    - [VM prep](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#vm-prep)
   - [Machines](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#machines)
-- [Web / Proxy](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#web-and-proxy-tools)
+- [Web and Proxy Tools](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#web-and-proxy-tools)
+  - [Certificates](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#certificates)
+  - [Web Hosting Services worth checking out](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#web-hosting-services-worth-checking-out)
   - [Web Analytics](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#web-analytics)
+  - [Web Development Tools](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#web-development-tools)
 
 ````
 https://www.freedesktop.org/wiki/Software/
@@ -1005,23 +1011,23 @@ upstream_recursive_servers:
      - [ctop – Top-like Interface for Monitoring Docker Containers](https://www.tecmint.com/ctop-monitor-docker-containers/)
    - [ThreatMapper](https://github.com/deepfence/ThreatMapper) - Identify vulnerabilities in running containers, images, hosts and repositories.
 
-   ### Hypervisors
-   - [Openvz](https://download.openvz.org/virtuozzo/releases/7.0/x86_64/iso/)
-   - [Oracle VM Server for x86](https://www.oracle.com/in/a/ocom/docs/ovm-server-for-x86-459312.pdf)
-   - [oVirt](https://www.ovirt.org/download/) - oVirt is an open-source distributed virtualization solution developed for Linux operating systems such as RedHat Enterprise, CentOS, Scientific Linux, Fedora 28, and also available as oVirt Node which is CentOS based. It is a Linux KVM hypervisor designed for enterprise infrastructure.
-   - [Proxmox](https://www.proxmox.com/en/downloads) - Proxmox VE is a complete open-source virtualization management platform that closely integrates two virtualization technologies: KVM (Kernel-based Virtual Machine) hypervisor and Linux container (LXC) to provide enterprise-class virtualization.
-     - [High Availability](https://pve.proxmox.com/wiki/High_Availability)
-     - [PVEDiscordDark](https://github.com/Weilbyte/PVEDiscordDark) - A Discord-like dark theme for the Proxmox Web UI.
-     - [VM Templates and Clones](https://pve.proxmox.com/wiki/VM_Templates_and_Clones)
-   - [SmartOS](https://wiki.smartos.org/download-smartos/) - SmartOS is a free and open-source SVR4 hypervisor based on the UNIX operating system that combines OpenSolaris technology with Linux’s KVM virtualization. It employs NetBSD pkgsrc package management.
-   - [VMware free ESXi](https://customerconnect.vmware.com/en/web/vmware/evalcenter?p=free-esxi6) - The user needs to enter the free license key to use the Vmware Type1 hypervisor otherwise it will expire after 60 days.
-     - [Automated vSphere with Tanzu Basic Lab Deployment](https://github.com/lamw/vsphere-with-tanzu-basic-automated-lab-deployment) - Automated vSphere with Tanzu and HAProxy Lab Deployment.
-     - [ghettoVCB](https://github.com/lamw/ghettoVCB)
-     - [VMware Script Repository](https://github.com/lamw/vmware-scripts) - Various scripts for VMware based solutions.
-     - [vSphere Automated Lab Deployment](https://github.com/lamw/vsphere-automated-lab-deployment) - vSphere Automated Lab Deployment for vSphere 6.x (6.0, 6.5 & 6.7).
-     - [vSphere with Tanzu using NSX-T Automated Lab Deployment](https://github.com/lamw/vsphere-with-tanzu-nsxt-automated-lab-deployment) - vSphere with Tanzu using NSX-T Automated Lab Deployment.
-   - [Xen Project](https://xenproject.org/users/virtualization/) - Xen is an open-source software platform or Linux hypervisor distro maintained by the global community of developers  It supports virtualization for x86, x86_64, IA64, ARM, and other CPU architectures. The Xen hypervisor is an enterprise-class alternative to proprietary virtualization platforms and hypervisors for x86 and IA64 platforms. Besides the open-source, it also available in the commercial version from Citrix.
-   - [XenServer](https://xenserver.org/) - XenServer hypervisor runs an open-source type-1 or bare-metal hypervisor available in three versions: community, standard, and enterprise.
+ ### Hypervisors
+ - [Openvz](https://download.openvz.org/virtuozzo/releases/7.0/x86_64/iso/)
+ - [Oracle VM Server for x86](https://www.oracle.com/in/a/ocom/docs/ovm-server-for-x86-459312.pdf)
+ - [oVirt](https://www.ovirt.org/download/) - oVirt is an open-source distributed virtualization solution developed for Linux operating systems such as RedHat Enterprise, CentOS, Scientific Linux, Fedora 28, and also available as oVirt Node which is CentOS based. It is a Linux KVM hypervisor designed for enterprise infrastructure.
+ - [Proxmox](https://www.proxmox.com/en/downloads) - Proxmox VE is a complete open-source virtualization management platform that closely integrates two virtualization technologies: KVM (Kernel-based Virtual Machine) hypervisor and Linux container (LXC) to provide enterprise-class virtualization.
+   - [High Availability](https://pve.proxmox.com/wiki/High_Availability)
+   - [PVEDiscordDark](https://github.com/Weilbyte/PVEDiscordDark) - A Discord-like dark theme for the Proxmox Web UI.
+   - [VM Templates and Clones](https://pve.proxmox.com/wiki/VM_Templates_and_Clones)
+ - [SmartOS](https://wiki.smartos.org/download-smartos/) - SmartOS is a free and open-source SVR4 hypervisor based on the UNIX operating system that combines OpenSolaris technology with Linux’s KVM virtualization. It employs NetBSD pkgsrc package management.
+ - [VMware free ESXi](https://customerconnect.vmware.com/en/web/vmware/evalcenter?p=free-esxi6) - The user needs to enter the free license key to use the Vmware Type1 hypervisor otherwise it will expire after 60 days.
+   - [Automated vSphere with Tanzu Basic Lab Deployment](https://github.com/lamw/vsphere-with-tanzu-basic-automated-lab-deployment) - Automated vSphere with Tanzu and HAProxy Lab Deployment.
+   - [ghettoVCB](https://github.com/lamw/ghettoVCB)
+   - [VMware Script Repository](https://github.com/lamw/vmware-scripts) - Various scripts for VMware based solutions.
+   - [vSphere Automated Lab Deployment](https://github.com/lamw/vsphere-automated-lab-deployment) - vSphere Automated Lab Deployment for vSphere 6.x (6.0, 6.5 & 6.7).
+   - [vSphere with Tanzu using NSX-T Automated Lab Deployment](https://github.com/lamw/vsphere-with-tanzu-nsxt-automated-lab-deployment) - vSphere with Tanzu using NSX-T Automated Lab Deployment.
+ - [Xen Project](https://xenproject.org/users/virtualization/) - Xen is an open-source software platform or Linux hypervisor distro maintained by the global community of developers  It supports virtualization for x86, x86_64, IA64, ARM, and other CPU architectures. The Xen hypervisor is an enterprise-class alternative to proprietary virtualization platforms and hypervisors for x86 and IA64 platforms. Besides the open-source, it also available in the commercial version from Citrix.
+ - [XenServer](https://xenserver.org/) - XenServer hypervisor runs an open-source type-1 or bare-metal hypervisor available in three versions: community, standard, and enterprise.
    
 
    ### Virtual Machines
@@ -1097,10 +1103,10 @@ upstream_recursive_servers:
   - [Wordpress Comment Blacklist](https://github.com/splorp/wordpress-comment-blacklist) - A simple solution for WordPress comment spam.
   - [WP-Desktop](https://github.com/Automattic/wp-desktop) - WordPress.com for Desktop.
   - [WPScan](https://github.com/wpscanteam/wpscan) - WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites.
-  ### Plugins
-  - [Cookiebot](https://wordpress.org/plugins/cookiebot/) - Cookiebot is a cloud-driven solution that automatically controls cookies and trackers, enabling full GDPR/ePR and CCPA compliance and offering.
-  - [Cookie Notice](https://wordpress.org/plugins/cookie-notice/) - Cookie Notice provides a simple, customizable website banner that can be used to help your website comply with certain cookie consent requirements under the EU GDPR cookie law and CCPA regulations and includes seamless integration with Cookie Compliance to help your site comply with the latest updates to existing consent laws.
-  - [MP3 Audio Player for Music, Radio & Podcast by Sonaar](https://wordpress.org/plugins/mp3-music-player-by-sonaar/)
+    Wordpress Plugins
+    - [Cookiebot](https://wordpress.org/plugins/cookiebot/) - Cookiebot is a cloud-driven solution that automatically controls cookies and trackers, enabling full GDPR/ePR and CCPA compliance and offering.
+    - [Cookie Notice](https://wordpress.org/plugins/cookie-notice/) - Cookie Notice provides a simple, customizable website banner that can be used to help your website comply with certain cookie consent requirements under the EU GDPR cookie law and CCPA regulations and includes seamless integration with Cookie Compliance to help your site comply with the latest updates to existing consent laws.
+    - [MP3 Audio Player for Music, Radio & Podcast by Sonaar](https://wordpress.org/plugins/mp3-music-player-by-sonaar/)
 
   ### Certificates
   - [Acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol.
