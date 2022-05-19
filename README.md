@@ -290,6 +290,8 @@ Communicate clearly <br>
   - [Gitfiti](https://github.com/gelstudios/gitfiti) - Carefully crafted graffiti in a github commit history calendar.
   - [Gitea](https://github.com/go-gitea/gitea)  - Git with a cup of tea, painless self-hosted git service.
   - [GitKraken](https://www.gitkraken.com/) - Legendary Git GUI client for Windows, Mac & Linux
+  - GitHub
+    - [giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions.
   - [GitLab](https://about.gitlab.com/install/) - web-based DevOps lifecycle tool that provides a Git-repository manager providing wiki, issue-tracking and continuous integration and deployment pipeline features, using an open-source license, developed by GitLab Inc.
     - [Gitlab Watchman](https://github.com/PaperMtn/gitlab-watchman) - Monitoring GitLab for sensitive data shared publicly.
     - [Package Hunter CLI](https://gitlab.com/gitlab-org/security-products/package-hunter-cli/-/blob/main/README.md#gitlab-ci) - Behavorial monitoring for identifying malicious dependencies. [link for later](https://news.itsfoss.com/gitlab-open-source-tool-malicious-code/)
