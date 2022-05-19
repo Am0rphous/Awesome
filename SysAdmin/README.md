@@ -1115,6 +1115,7 @@ upstream_recursive_servers:
     Wordpress Plugins
     - [Cookiebot](https://wordpress.org/plugins/cookiebot/) - Cookiebot is a cloud-driven solution that automatically controls cookies and trackers, enabling full GDPR/ePR and CCPA compliance and offering.
     - [Cookie Notice](https://wordpress.org/plugins/cookie-notice/) - Cookie Notice provides a simple, customizable website banner that can be used to help your website comply with certain cookie consent requirements under the EU GDPR cookie law and CCPA regulations and includes seamless integration with Cookie Compliance to help your site comply with the latest updates to existing consent laws.
+    - [Masteriyo](https://masteriyo.com/wordpress-lms/) - A revolutionary WordPress LMS & eLearning plugin to create and sell online courses. Teach anything anytime from anywhere.
     - [MP3 Audio Player for Music, Radio & Podcast by Sonaar](https://wordpress.org/plugins/mp3-music-player-by-sonaar/)
 
   ### Certificates
