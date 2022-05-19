@@ -1012,6 +1012,8 @@ upstream_recursive_servers:
    #### Container Registers
    - [Harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content. 
    
+   #### Tutorials and learning
+   - [Container Training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes. [container.training](https://container.training/)
    #### Various
    - [CTop](https://github.com/bcicen/ctop/) - Top-like interface for container metrics [ctop.sh](https://ctop.sh).
      - [ctop – Top-like Interface for Monitoring Docker Containers](https://www.tecmint.com/ctop-monitor-docker-containers/)
