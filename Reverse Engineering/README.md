@@ -112,6 +112,7 @@ Description: Used to manipulate the execution of a program to get intel on what 
 - [Bus Pirate](https://github.com/BusPirate/Bus_Pirate) - open source hacker multi-tool that talks to electronic stuff.
 - [Frida](https://frida.re/) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers. [Github](https://github.com/frida/frida)
   - [Fermion](https://github.com/FuzzySecurity/Fermion) - Fermion, an electron wrapper for Frida & Monaco. 
+  - [FRIDA-DEXDump](https://github.com/hluwa/frida-dexdump) - A frida tool to dump dex in memory to support security engineers analyzing malware. 
   - [frida-node](https://github.com/frida/frida-node) - Frida Node.js bindings 
   - [frida-scripts](https://github.com/0xdea/frida-scripts) - A collection of my Frida.re instrumentation scripts to facilitate reverse engineering of mobile apps. 
 - GDB
