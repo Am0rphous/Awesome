@@ -1,3 +1,5 @@
+## Some inspiration from: https://gitlab.com/yawning/obfs4
+
 ## You can put this code at the end of your /etc/tor/torrc file
 ## 1. Install obfs4proxy with:    sudo apt install obfs4proxy
 ## 2. Get new obfs4 bridges at:   https://bridges.torproject.org/bridges?transport=obfs4
