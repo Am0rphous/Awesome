@@ -174,6 +174,9 @@ Communicate clearly <br>
 ## Communication and Collaboration Tools
 - [Apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
   - [Apprise API](https://github.com/caronc/apprise-api) - A lightweight REST framework that wraps the Apprise Notification Library.
+- [Bluebubbles](https://bluebubbles.app/) - _"Bringing iMessage to Windows, Linux,and Android. "_
+  - [Bluebubbels-server](https://github.com/BlueBubblesApp/bluebubbles-server) - Server for forwarding iMessages to clients within the BlueBubbles App ecosystem.
+  - [BlueBubbles Clients](https://github.com/BlueBubblesApp/bluebubbles-app) - A cross-platform app ecosystem, bringing iMessage to Android, PC (Windows, Linux, & even macOS), and Web! [bluebubbles.app](https://bluebubbles.app/)
 - [Convos](https://convos.chat)
 - [CryptPad](https://github.com/xwiki-labs/cryptpad) - Collaboration suite, encrypted and open-source.
 - [Darkwire.io](https://github.com/darkwire/darkwire.io) - End-to-end encrypted instant web chat [https://darkwire.io](https://darkwire.io).
