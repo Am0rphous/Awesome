@@ -1,5 +1,7 @@
 # System Administrator Tools
 
+<br>
+
 _"A good admin is a paranoid one. A better admin is both paranoid and prepared. - Unknown"_ 
 <br> <br>
 _“Intelligence is the ability to avoid doing work, yet getting the work done - Linux Torvald"_
