@@ -1,7 +1,0 @@
-
-#work in progress
-#"you can put this code at the end of your torrc file "
-
-UseBridges 1  
-Bridge obfs3 YOUR_BRIDGE 
-ClientTransportPlugin obfs4 exec /usr/bin/obfsproxy --managed
