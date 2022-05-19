@@ -79,6 +79,7 @@ _“Intelligence is the ability to avoid doing work, yet getting the work done -
   - [Machines](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#machines)
 - [Web and Proxy Tools](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#web-and-proxy-tools)
   - [Certificates](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#certificates)
+  - [Security](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#security)
   - [Web Hosting Services worth checking out](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#web-hosting-services-worth-checking-out)
   - [Web Analytics](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#web-analytics)
   - [Web Development Tools](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#web-development-tools)
@@ -1122,6 +1123,10 @@ upstream_recursive_servers:
   - [Kleopatra](https://www.openpgp.org/software/kleopatra/)
   - [Magisk Trust User Certs](https://github.com/NVISOsecurity/MagiskTrustUserCerts) - A Magisk module that automatically adds user certificates to the system root CA store.
   - [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+
+  ### Security
+  - ModSecurity
+    - [OWASP ModSecurity Core Rule Set (CRS)](https://github.com/coreruleset/coreruleset) - OWASP ModSecurity Core Rule Set (Official Repository) - [Installation](https://coreruleset.org/installation/)
 
   ### Web Hosting Services worth checking out
   - [000webhost.com](https://www.000webhost.com)
