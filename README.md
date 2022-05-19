@@ -387,12 +387,14 @@ sudo apt-get install redshift-gtk
 - [Markdoc](https://github.com/markdoc/markdoc) - A Markdown-based authoring system 
 - [Nacos](https://github.com/alibaba/nacos) - An easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
 - [Porting Windows Dynamic Link Libraries to Linux](https://github.com/taviso/loadlibrary) - Porting Windows Dynamic Link Libraries to Linux.
+- [Presentation Slides for Developers ](https://github.com/slidevjs/slidev)
 - [Prompts](https://github.com/terkelg/prompts#selectmessage-choices-initial-hint-warn) - ❯ Lightweight, beautiful and user-friendly interactive prompts.
 - [Roadmap to becoming a developer in 2022 ](https://github.com/kamranahmedse/developer-roadmap)
 - [Thonny PyDev](https://github.com/thonny/thonny) - Python IDE for beginners.
 - [Vagrant](https://github.com/hashicorp/vagrant) - Vagrant is a tool for building and distributing development environments.
 - [Vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [Wing](https://github.com/kbrsh/wing) - A beautiful CSS framework designed for minimalists [kbrsh.github.io](https://kbrsh.github.io/wing/).
+
   ### API
   - [Kong](https://github.com/Kong/kong) - The Cloud-Native API Gateway.
 
@@ -430,6 +432,7 @@ sudo apt-get install redshift-gtk
   - [Emote](https://github.com/tom-james-watson/Emote) - Emoji Picker for Linux written in GTK3.
   - [Fontawesome.com's icons](https://fontawesome.com/v4.7/icons/)
   - [Icon](https://github.com/bung87/icon) - Icon file generator for Windows, macOS, Web.
+  - [Icônes](https://github.com/antfu/icones) - Icon Explorer with Instant searching, powered by Iconify 
   - [Icons8.com](https://icons8.com/icons/)
   - [Material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google.
   - [Npm-icon-gen](https://github.com/akabekobeko/npm-icon-gen) - Icon file generator for Windows, macOS, Web.
@@ -531,6 +534,7 @@ sudo apt-get install redshift-gtk
       - [Sobelow](https://github.com/nccgroup/sobelow) - Sobelow is a security-focused static analysis tool for the Phoenix framework. For security researchers, it is a useful tool for getting a quick view of points-of-interest. For project maintainers, it can be used to prevent the introduction of a number of common vulnerabilities.
     - [Selenium](https://www.selenium.dev/)
     - [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
+    - [UnoCSS](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine. [uno.antfu.me](https://uno.antfu.me/)
     - [Waline](https://github.com/walinejs/waline) - A Simple, Safe Comment System inspired by Valine | 一款基于 Valine 衍生的简洁、安全的评论系统.
       - [Waline Example](https://github.com/mIcHyAmRaNe/waline) - This directory is a brief example of a Waline app that can be deployed with Vercel and zero configuration.
     - [Wpgtk](https://github.com/deviantfero/wpgtk) - 🎴 a colorscheme, wallpaper and template manager for *nix.
