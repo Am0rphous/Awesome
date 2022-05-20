@@ -30,6 +30,7 @@ _“Intelligence is the ability to avoid doing work, yet getting the work done -
 - [EDR, IDS, HIDS and IPS](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#edr-ids-hids-and-ips)
   - [Firewall](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#firewall)
 - [Monitoring](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#monitoring)
+- [Anomaly Detection](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#anomaly-detection)
   - [Cloud Monitoring](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#cloud-monitoring)
   - [CPU](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#cpu)
   - [ELK-stack](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#elk-stack)
@@ -447,6 +448,9 @@ lsscsi                          #Print SCSI Devices Info
 - [Lima Charlie](https://github.com/nextgens/limacharlie) - Endpoint monitoring stack.
 - [Prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. 
 - [Supervisor](https://github.com/Supervisor/supervisor) - Supervisor is a client/server system that allows its users to control a number of processes on UNIX-like operating systems.
+
+  #### Anomay Detection
+  - [Awesome anomaly detection](https://github.com/hoya012/awesome-anomaly-detection) - A curated list of awesome anomaly detection resources 
 
   #### Attack Surface Monitoring
   - [Awesome Attack Surface Monitoring](https://github.com/0xtavian/awesome-attack-surface-monitoring) - Curated list of open-source & paid Attack Surface Monitoring (ASM) tools. 
