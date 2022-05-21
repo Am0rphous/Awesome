@@ -50,7 +50,7 @@ _“Intelligence is the ability to avoid doing work, yet getting the work done -
 - [Package Managers](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#package-managers)
   - [Finding Software](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#finding-software)
 - [Security Tools](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#security-tools)
-  - [Authenticators](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#authenticators)
+  - [Authentication](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#authentication)
     - [Android Specific](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#android-specific)
     - [iOS Specific](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#ios-specific)
     - [MacOS Specific](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#macos-specific)
@@ -755,7 +755,9 @@ upstream_recursive_servers:
     - [YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH 
     #### TOP
     - [yubikey-totp](https://packages.debian.org/python-yubico-tools) - generate a TOTP code from a secret stored on the key. 
-    - [Yubico Authenticator (debian package)](https://packages.debian.org/yubioath-desktop) - generate OATH-HOTP and OATH-TOTP one-time password codes from secretes protected by the key 
+    - [Yubico Authenticator (debian package)](https://packages.debian.org/yubioath-desktop) - generate OATH-HOTP and OATH-TOTP one-time password codes from secretes protected by the key.
+  - [ZITADEL](https://github.com/zitadel/zitadel) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era. 
+  
   #### Android Specific
   - [Aegis Authenticator](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 
