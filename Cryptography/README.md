@@ -22,5 +22,6 @@
 ## Digital Signatures
 - [SignTool](https://www.linux.org/docs/man1/signtool.html) - Digitally sign objects and files.
 
-## Hash collisions
+## Hashes
+- [HAITI](https://github.com/Orange-Cyberdefense/haiti) - A CLI tool to identify the hash type of a given hash. 
 - [Hash collisions and exploitations](https://github.com/corkami/collisions)
