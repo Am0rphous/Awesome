@@ -65,13 +65,17 @@ https://github.com/WebAssembly/wabt
 - [The Life of Binaries](https://opensecuritytraining.info/LifeOfBinaries.html)
 - [Viper](https://github.com/viper-framework/viper) -Viper is a binary analysis and management framework.
 
-### PE viewers
+  ### ELF (Executable and Linkable Format)
+  - [elfcat](https://github.com/ruslashev/elfcat) - An in-development ELF visualizer. Generates HTML files from ELF binaries. 
+  - [The 101 of ELF files on Linux: Understanding and Analysis](https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/)
+
+  ### PE viewers
 Portable Executables binaries
-- [Capa](https://github.com/mandiant/capa) - The FLARE team's open-source tool to identify capabilities in executable files.
-- [CFF Explorer](https://ntcore.com/?page_id=388)
-- [PE Explorer](http://www.pe-explorer.com/)
-- [Pev](https://github.com/merces/pev) - The PE file analysis toolkit.
-- [XPEViewer](https://github.com/horsicq/XPEViewer) - PE file viewer/editor for Windows, Linux and MacOS.
+  - [Capa](https://github.com/mandiant/capa) - The FLARE team's open-source tool to identify capabilities in executable files.
+  - [CFF Explorer](https://ntcore.com/?page_id=388)
+  - [PE Explorer](http://www.pe-explorer.com/)
+  - [Pev](https://github.com/merces/pev) - The PE file analysis toolkit.
+  - [XPEViewer](https://github.com/horsicq/XPEViewer) - PE file viewer/editor for Windows, Linux and MacOS.
 
 ## BlackBox Testing
 - [DRAKVUF™](https://github.com/tklengyel/drakvuf) - DRAKVUF is a virtualization based agentless black-box binary analysis system. DRAKVUF allows for in-depth execution tracing of arbitrary binaries (including operating systems), all without having to install any special software within the virtual machine used for analysis. [drakvuf.com](https://drakvuf.com)
