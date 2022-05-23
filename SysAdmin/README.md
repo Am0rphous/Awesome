@@ -1070,6 +1070,7 @@ upstream_recursive_servers:
   - [oVirt](https://www.ovirt.org) - Free open-source virtualization solution for your entire enterprise.
     - [oVirt documentation](https://www.ovirt.org/documentation)
   - [UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS.
+  - [Vagrant](https://www.vagrantup.com) - Vagrant is a tool for building and distributing development environments. [Github](https://github.com/hashicorp/vagrant)
   - [Virtlyst](https://github.com/cutelyst/Virtlyst) - Web interface to manage virtual machines with libvirt.
   - [VirtualBox](https://www.virtualbox.org) - Hypervisor by Oracle (formerly by Sun) for Windows, Linux, macOS, and Solaris.
     - [Antivmdetection](https://github.com/nsmfoo/antivmdetection) - Script to create templates to use with VirtualBox to make vm detection harder.
