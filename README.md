@@ -515,17 +515,7 @@ sudo apt-get install redshift-gtk
       - [laravel.com](https://laravel.com)
       - [Laravel Passport](https://github.com/laravel/passport) - Laravel Passport provides OAuth2 server support to Laravel.
     #### Python
-    - [30-seconds-of-python](https://github.com/30-seconds/30-seconds-of-python) - Short Python code snippets for all your development needs.
-    - [Awesome Python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources.
-    - [Cartopy](https://github.com/SciTools/cartopy) - Cartopy - a cartographic python library with matplotlib support 
-    - [orbit](https://github.com/uber/orbit) - A Python package for Bayesian forecasting with object-oriented design and probabilistic models under the hood. 
-    - [Pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more.
-    - [Python Fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object. 
-    - [Pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python.
-    - [Rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-      - [Enrich](https://github.com/pycontribs/enrich) - Enrich adds few missing features to the wonderful rich library.
-    - [Textual](https://github.com/willmcgugan/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
-    - [What the f*ck Python](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱 . Exploring and understanding Python through surprising snippets.
+    - [Moved to -> Am0rphous/Python](https://github.com/Am0rphous/Python)
     #### Rust
     - [The Rust Programming Language](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
     #### Vlang
