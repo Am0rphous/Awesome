@@ -26,6 +26,7 @@
 - [AdGuard](https://github.com/AdguardTeam/AdguardHome) - Network-wide ads & trackers blocking DNS server.
   - [AdGuard-WireGuard-Unbound-Cloudflare](https://github.com/trinib/AdGuard-WireGuard-Unbound-Cloudflare) - The Ultimate Network Security Guide ─ Protection🔒 | Privacy🔎 | Performance🚀 for your network 24/7🕛 Accessible anywhere🌏 
   ### BlackLists
+  - [Black-Mirror](https://github.com/T145/black-mirror) - _Automatically maintained malicious host blacklists and false-positive whitelists._
   - [DNSblacklist](https://github.com/farhanfaisal/DNSblacklist) - _A shell script to download malware domains from various sources, and configuring unbound DNS config file to be used as a local recursive DNS server._
   - [Exposure: Finding Malicious Domains Using Passive DNS Analysis](https://www.ndss-symposium.org/wp-content/uploads/2017/09/bilge2.pdf)
 
@@ -39,6 +40,7 @@
 ## Guides, Help and Setup
 - [Official Raspberry Pi Beginnger's Guide](https://www.raspberrypi.org/magpi-issues/Beginners_Guide_v1.pdf)
 - [Raspberry Pi Encrypted Boot with SSH](https://github.com/ViRb3/pi-encrypted-boot-ssh) - 🔑 Raspberry Pi Encrypted Boot with Remote SSH.
+- [Securing Raspberry Pi](https://gist.github.com/boseji/c9e91ff3bd0b3cfb62a5e260fe505374) 🔒
 - [Tutorial: Raspberry Pi](https://people.cs.clemson.edu/~yfeaste/cybersecurity/CPSC424/project/RaspberryPiTutorial.pdf)
 - [Ziadoz' raspberry-pi-3-setup](https://github.com/ziadoz/raspberry-pi-3-setup)
 
@@ -110,6 +112,7 @@
 - [Alpine Linux](https://wiki.alpinelinux.org/wiki/Raspberry_Pi)
 - [ArmPIv3](https://github.com/waldo-irc/ArmPi) - Raspbian IMG for ARM Reverse Engineering for CTFs.
 - [Chromium OS](https://github.com/FydeOS/chromium_os-raspberry_pi)
+- [DietPi](https://dietpi.com/) - Extremely lightweight at its core.
 - [Home Assistant Operating System](https://github.com/home-assistant/operating-system)
 - [IchigoJam BASIC](https://ichigojam.github.io/RPi)
 - [Kali Linux](https://www.kali.org/docs/arm/raspberry-pi-full-encryption)
@@ -138,6 +141,11 @@
    - [RetroArch](https://github.com/libretro/RetroArch) - RetroArch is a frontend for emulators, game engines and media players [www.retroarch.com](https://www.retroarch.com).
      - Install it as a snap package with `sudo snap install retroarch`
    - [RetroPie](https://retropie.org.uk/) - RetroPie allows you to turn your Raspberry Pi, ODroid C1/C2, or PC into a retro-gaming machine [RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup).
+     - [Arcade Punkz](https://www.arcadepunks.com/download-raspberry-pi-4-images/) - The website for all things arcade, gaming and fun. Retro, Pi, Hyperspin, PC, Board based, downloads and much more.
+     - [Bezel Project](https://github.com/thebezelproject/BezelProject) - This utility provides a download for a bezel pack for a system and includes a PNG bezel file for every ROM.
+     - [GLSL Shaders](https://github.com/libretro/glsl-shaders) - Graphic pipeline presets to render pixel lighting and [shading effects](https://retropie.org.uk/docs/Shaders-and-Smoothing/).
+     - [HurstyThemes](https://github.com/RetroHursty69/HurstyThemes) - RetroPie [Emulation Station](https://retropie.org.uk/docs/EmulationStation/) themes downloader.
+
      #### Gaming Software
      - [dosbox / dosbox-staging](https://github.com/dosbox-staging/dosbox-staging) - DOS/x86 emulator focusing on ease of use.
        - Install with `sudo apt install dosbox`
