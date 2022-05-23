@@ -37,6 +37,7 @@ _“Intelligence is the ability to avoid doing work, yet getting the work done -
   - [ELK-stack](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#elk-stack)
   - [Good resources](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#good-resources)
   - [Logs](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#logs)
+  - [Push services](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#push-services)
 - [Network Tools](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#network-tools)
   - [DHCP](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#dhcp)
   - [DNS](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#dns)
@@ -530,6 +531,9 @@ lsscsi                          #Print SCSI Devices Info
   - [SendMailAnalyzer](https://github.com/darold/sendmailanalyzer) - Sendmail log Analyzer is a tool to monitor sendmail usage and generate HTML and graph reports. It reports all you ever wanted to know about email trafic on your network. You can also use it in ISP environment with per domain and per mailbox report.
   - [Sigma](https://github.com/SigmaHQ/sigma) - Generic Signature Format for SIEM Systems.
   - [SquidAnalyzer](https://github.com/darold/squidanalyzer) - Squid Analyzer parses Squid proxy access log and reports general statistics about hits, bytes, users, networks, top URLs, and top second level domains. Statistic reports are oriented toward user and bandwidth control.
+
+  ### Push Services
+  - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui) 
 
  ## Network Tools
 - [ARP-scan](https://github.com/royhills/arp-scan) - Scanning hosts on a network with the ARP protocol.
