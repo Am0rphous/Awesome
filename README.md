@@ -842,6 +842,7 @@ Based on that data, you can find the most popular ones and their alternatives.
   - [TagSpaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support.
   ### Project Management
   - [Plan](https://calligra.org/plan/index.html) - Plan is a project management application. It is intended for managing moderately large projects with multiple resources.To enable you to model your project adequately, Plan offers different types of task dependencies and timing constraints. The usual use case is to define your tasks, estimate the effort needed to perform each task, allocate resources and then let Plan schedule the tasks according to network and resource availability. 
+  - [Planner](https://github.com/alainm23/planner) - Task manager with Todoist support designed for GNU/Linux 🚀 
   - [Taiga](https://www.taiga.io/) - Taiga is the project management tool for multi-functional agile teams. It has a rich feature set and at the same time it is very simple to start with through its intuitive user interface. Free: up to 15 users, 5 private projects, unlimited public projects and 300 MB storage in private projects.
 
   ### Reference Management
