@@ -130,31 +130,31 @@ Communicate clearly <br>
 | [Awesome Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security#awesome-embedded-and-iot-security) | A curated list of awesome embedded and IoT security resources.|
 | [Awesome Fenix](https://github.com/fenixsoft/awesome-fenix) | 讨论如何构建一套可靠的大型分布式系统.|
 | [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) | A collection of hacking / penetration testing resources to make you better.|
-| [Awesome Humane Tech](https://github.com/humanetech-community/awesome-humane-tech)||
+| [Awesome Humane Tech](https://github.com/humanetech-community/awesome-humane-tech)| Promoting Solutions that Improve Wellbeing, Freedom and Society |
 | [Awesome IAM](https://github.com/kdeldycke/awesome-iam) | 👤 Identity and Access Management Knowledge for Cloud Platforms.|
-| [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk)||
+| [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk)|Awesome Indexed|
 | [Awesome Industrial Control System Security](https://github.com/hslatman/awesome-industrial-control-system-security) | A curated list of resources related to Industrial Control System (ICS) security.|
 | [Awesome Intelligence Writing](https://github.com/mxm0z/awesome-intelligence-writing) | Awesome collection of great and useful resources concerning intelligence writing such as manuals/guides, standards, books, and articles.|
-| [Awesome iOS](https://github.com/vsouza/awesome-ios)||
+| [Awesome iOS](https://github.com/vsouza/awesome-ios)| A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects |
 | [Awesome jq](https://github.com/fiatjaf/awesome-jq) | A curated list of awesome jq tools and resources.|
 | [Awesome Learning Resources](https://github.com/lauragift21/awesome-learning-resources) |Awesome list of resources on Web Development.|
 | [Awesome List](https://github.com/sindresorhus/awesome) |Awesome lists about all kinds of interesting topics.|
 | [Awesome list of secrets in environment variables](https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables)| 🦄🔒 Awesome list of secrets in environment variables 🖥️.|
 | [Awesome Linux](https://github.com/inputsh/awesome-linux) | 🐧 A list of awesome projects and resources that make Linux even more awesome. 🐧|
 | [Awesome Loginless](https://github.com/fiatjaf/awesome-loginless) | an awesome list of internet services that don't require logins or registrations.|
-| [Awesome Machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)||
+| [Awesome Machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)| A curated list of awesome machine learning interpretability resources. |
 | [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) | Machine Learning for Cyber Security.|
-| [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)||
+| [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)| Defund the Police. |
 | [Awesome Movies For Hackers](https://github.com/k4m4/movies-for-hackers) | 🎬 A curated list of movies every hacker & cyberpunk must watch.|
 | [Awesome Open Source](https://awesomeopensource.com)| Find Open Source By Searching, Browsing and Combining 7,000 Topics Across 59 Categories And 337,263 Projects|
-| [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts)||
+| [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts)| Collection of awesome podcasts |
 | [Awesome Python](https://github.com/vinta/awesome-python)| A curated list of awesome Python frameworks, libraries, software and resources.|
 | [Awesome Security](https://github.com/sbilly/awesome-security) | A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.|
 | [Awesome Security Apis](https://github.com/jaegeral/security-apis) | A collective list of public APIs for use in security. Contributions welcome.|
 | [Awesome Security Hardening](https://github.com/decalage2/awesome-security-hardening) | A collection of awesome security hardening guides, tools and other resources.|
 | [Awesome Security Talks](https://github.com/PaulSec/awesome-sec-talks)| A collected list of awesome security talks.|
-| [Awesome Search](https://awesomelists.top)||
-  - [awesome-search by frutik](https://github.com/frutik/awesome-search)| Awesome Search - this is all about the (e-commerce) search and its awesomeness.|
+| [Awesome Search](https://awesomelists.top)|There are so many awesome lists in the 🕶 sindresorhus/awesome. |
+| [awesome-search by frutik](https://github.com/frutik/awesome-search)| Awesome Search - this is all about the (e-commerce) search and its awesomeness.|
 | [Awesome Selfhosted](https://gitlab.com/awesome-selfhosted/awesome-selfhosted)||
 | [Awesome Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture) | A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles.|
  [Awesome SSH](https://github.com/moul/awesome-ssh)||
