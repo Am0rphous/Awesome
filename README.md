@@ -112,7 +112,6 @@ Communicate clearly <br>
 ## Awesome Entitled Projects
 
 | Name | Description |
-| -- | --- |
 |- [Awesome Azure Security](https://github.com/kmcquade/awesome-azure-security) - | A curated list of awesome Microsoft Azure Security tools, guides, blogs, and other resources.|
 |- [Awesome Broadcasting](https://github.com/ebu/awesome-broadcasting) - | A curated list of amazingly awesome open source resources related to broadcast technologies |
 - [Awesome Cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - 🍻 awesome cheatsheet.
