@@ -307,6 +307,7 @@ bro / zeek
 - [Puppet](https://github.com/puppetlabs/puppet/) - Server automation framework and application. [Puppet.com](https://puppet.com/)
   - [Puppet Consul](https://github.com/solarkennedy/puppet-consul) - A Puppet Module to Manage Consul.
 - [Reload.sh](https://github.com/trimstray/reload.sh) - Wipe, reinstall or restore your system from running GNU/Linux distribution. Via SSH, without rebooting.
+- [Talosplus](https://github.com/tarunKoyalwar/talosplus) - Create and Run Intelligent Automation Scripts Without learning bash scripting 
 - [wAuto](https://github.com/khchen/wAuto) - Windows automation module.
 
 ### Admin panels
