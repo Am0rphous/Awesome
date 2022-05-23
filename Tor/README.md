@@ -16,6 +16,7 @@
   - [obfs4-spec.txt](https://github.com/Yawning/obfs4/blob/master/doc/obfs4-spec.txt)
 - [kali anonstealth](https://github.com/Und3rf10w/kali-anonsurf) - A port of ParrotSec's stealth and anonsurf modules to Kali Linux 
 - [kali torify](https://github.com/BrainfuckSec/kalitorify) - Transparent proxy through Tor for Kali Linux OS 
+- [Nipe](https://github.com/htrgouvea/nipe) - An engine to make Tor network your default gateway 
 - [Nyx](https://nyx.torproject.org/) - Nyx is a command-line monitor for Tor. With this you can get detailed real-time information about your relay such as bandwidth usage, connections, logs, and much more.
   - [Nyx github](https://github.com/torproject/nyx)
 - [stealth-tor-docker](https://github.com/jamesacampbell/stealth-tor-docker) - spin up a new ubuntu based tor-enabled hidden ssh server quickly and easily 
