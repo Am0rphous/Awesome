@@ -157,9 +157,9 @@ Communicate clearly <br>
 | [awesome-search by frutik](https://github.com/frutik/awesome-search)| Awesome Search - this is all about the (e-commerce) search and its awesomeness.|
 | [Awesome Selfhosted](https://gitlab.com/awesome-selfhosted/awesome-selfhosted)||
 | [Awesome Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture) | A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles.|
- [Awesome SSH](https://github.com/moul/awesome-ssh)||
+ [Awesome SSH](https://github.com/moul/awesome-ssh)| 💻 A curated list of SSH resources. |
 | [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin#metric--metric-collection) |  MOVED/ARCHIVED A curated list of amazingly awesome open source sysadmin resources.|
-| [Awesome Termux](https://github.com/T4P4N/Awesome-Termux)||
+| [Awesome Termux](https://github.com/T4P4N/Awesome-Termux)| Awesome Termux :- Bash Scripts, Wiki, Articles,Shells & Many More... |
 | [Awesome Ubuntu](https://github.com/awesome-soft/awesome-ubuntu) | A curated list of awesome software for Ubuntu.|
 | [Awesome Ubuntu Startup](https://github.com/trinib/Awesome-Ubuntu-Startup) |😎Basic yet awesome stuff for Ubuntu based distributions😎.|
 | [Awesome UNIX](https://github.com/sirredbeard/Awesome-UNIX) | All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.|
@@ -169,7 +169,7 @@ Communicate clearly <br>
 |[Awesome Workflow Engines](https://github.com/meirwah/awesome-workflow-engines) | A curated list of awesome open source workflow engines.|
 |[Awesome WSL](https://github.com/sirredbeard/Awesome-WSL) | Awesome list dedicated to Windows Subsystem for Linux.|
 |[Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) | 🔗 Some useful websites for programmers.|
-|[StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome)||
+|[StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome)| ⚡️A browser extension that takes you to a random site from one of the awesome curated lists. Like good ol' StumbleUpon, for developers, tech & science lovers. |
 <br>
 
 - [StarGazed](https://github.com/abhijithvijayan/stargazed) - Creating your own Awesome List of GitHub stars!
