@@ -110,6 +110,8 @@ Communicate clearly <br>
   - [Search Engines](https://github.com/Am0rphous/Awesome/blob/master/README.md#search-engines)
 
 ## Awesome Entitled Projects
+
+| -- | --- |
 |- [Awesome Azure Security](https://github.com/kmcquade/awesome-azure-security) -| A curated list of awesome Microsoft Azure Security tools, guides, blogs, and other resources.|
 |- [Awesome Broadcasting](https://github.com/ebu/awesome-broadcasting) -| A curated list of amazingly awesome open source resources related to broadcast technologies |
 - [Awesome Cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - 🍻 awesome cheatsheet.
