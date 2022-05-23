@@ -155,7 +155,10 @@ Communicate clearly <br>
 | [Awesome Security Talks](https://github.com/PaulSec/awesome-sec-talks)| A collected list of awesome security talks.|
 | [Awesome Search](https://awesomelists.top)|There are so many awesome lists in the 🕶 sindresorhus/awesome. |
 | [awesome-search by frutik](https://github.com/frutik/awesome-search)| Awesome Search - this is all about the (e-commerce) search and its awesomeness.|
-| [Awesome Selfhosted](https://gitlab.com/awesome-selfhosted/awesome-selfhosted)||
+| [Awesome Selfhosted](https://gitlab.com/awesome-selfhosted/awesome-selfhosted)|
+
+This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
+|
 | [Awesome Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture) | A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles.|
  [Awesome SSH](https://github.com/moul/awesome-ssh)| 💻 A curated list of SSH resources. |
 | [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin#metric--metric-collection) |  MOVED/ARCHIVED A curated list of amazingly awesome open source sysadmin resources.|
