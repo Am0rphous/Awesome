@@ -821,6 +821,7 @@ Based on that data, you can find the most popular ones and their alternatives.
   - [rofi-todo.sh](https://github.com/claudiodangelis/rofi-todo) - 📓 Minimal todo client for the rofi launcher.
   - [Taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
     - [How to Manage Your Tasks in the Terminal with Taskbook](https://www.maketecheasier.com/manage-tasks-in-terminal-with-taskbook/)
+  - [Taskwarrior](https://taskwarrior.org/)
   - [QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.
   ### Pastebins
   - [Framabin](https://framabin.org/) - Minimalist, open source online pastebin.
