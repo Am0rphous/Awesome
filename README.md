@@ -865,13 +865,13 @@ Based on that data, you can find the most popular ones and their alternatives.
 
   
   ### Time Management
-  - [A time management utility for GNOME](https://github.com/gnome-pomodoro/gnome-pomodoro) - A time management utility for GNOME based on the pomodoro technique! 
   - [BreakTimer App](https://github.com/tom-james-watson/breaktimer-app) - Manage periodic breaks. Avoid eye-strain and RSI.
   - [Deepin Calender](https://github.com/linuxdeepin/dde-calendar) - Calendar application for DDE.
   - [GNOME Calendar](https://gitlab.gnome.org/GNOME/gnome-calendar) [github](https://github.com/GNOME/gnome-calendar)
   - [HTML5 Binary Clock](https://github.com/AE0L/html5-binary-clock) - Binary Clock written in HTML5, CSS3, and Vanilla JS.
   - [Khronos](https://github.com/lainsce/khronos) - Log each task's time in a simple inobtrusive way 
   - Pomodoro
+     - [A time management utility for GNOME](https://github.com/gnome-pomodoro/gnome-pomodoro) - A time management utility for GNOME based on the pomodoro technique! 
     - [Mater](https://github.com/jasonlong/mater) - A simple menubar Pomodoro app.
     - [Pomatez](https://github.com/roldanjr/pomatez) - Stay Focused. Take a Break.
     - [Pomodoro Logger](https://github.com/zxch3n/PomodoroLogger) - Pomodoro Logger 🕤 -- When a time tracker meets Pomodoro and Kanban board.
