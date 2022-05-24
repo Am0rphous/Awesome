@@ -944,7 +944,7 @@ upstream_recursive_servers:
   - [Packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
   - [Self-Installing Windows OVA & ISO](https://github.com/brimstone/windows-ova) - Self-Installing Windows OVA. Automate and distribute Windows as an OVA.
   
-  ### Power and Battery
+  ### Power, Battery and Performance
   - [PowerAPI](https://github.com/powerapi-ng/powerapi) - PowerAPI is a Python framework for building software-defined power meters.
   - [PowerStat](https://launchpad.net/~colin-king/+archive/ubuntu/powermanagement) - Various tools and utilities to help measure power consumption and monitor system activity.
   - [PowerTop](https://github.com/fenrus75/powertop) - Tool used to diagnose issues with power consumption and power management.
@@ -963,6 +963,8 @@ upstream_recursive_servers:
      sudo add-apt-repository ppa:slimbook/slimbook
      sudo apt-get install slimbookbattery
      ````
+   - [TuneD](https://github.com/redhat-performance/tuned) - Tuning Profile Delivery Mechanism for Linux 
+   
   ### Testing
   - [Cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
   - [Selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
