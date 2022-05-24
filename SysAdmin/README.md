@@ -846,6 +846,7 @@ upstream_recursive_servers:
 - [kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal.
 - [Modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [NuShell](https://github.com/nushell/nushell) - A new type of shell.
+- [Oh My Posh](https://ohmyposh.dev/)
 - [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) - A delightful community-driven (with 1700+ contributors) framework for managing your zsh configuration. [ohmyz.sh](https://ohmyz.sh/)
   - [Powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme.
 - [Guake](https://github.com/Guake/guake) - Drop-down terminal for GNOME.
