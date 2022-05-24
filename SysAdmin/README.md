@@ -574,11 +574,15 @@ upstream_recursive_servers:
     tls_port: 853
     tls_auth_name: "cloudflare-dns.com"
 ````
+
   ### Homelab
   - [Homelab](https://github.com/khuedoan/homelab) - Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
-  ### Network Visualization
+
+  ### Network Diagrams and Visualization 
     - [Fantastic Full Source Code](https://github.com/besimorhino/project-fantastic) - visualizing tool made by InfoSec Innovations for exploring computer networks.
+    [Visua Paradigm Online](https://online.visual-paradigm.com/drive/#diagramlist:proj=0&dashboard)
     - [Quark](https://github.com/s0md3v/Quark) - Quark is a data visualization framework.
+
   ### Remoting
   - [Cakeway](https://github.com/containrrr/cakeway) - Simple TCP tunneling using SSH.
   - [PowerShell](https://github.com/PowerShell/PowerShell) - _Cross-platform (Windows, Linux, and macOS) automation and configuration tool/framework._
