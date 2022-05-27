@@ -579,6 +579,7 @@ Based on that data, you can find the most popular ones and their alternatives.
 
 ## Games
 - [Games on Github](https://github.com/leereilly/games) - A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine. 
+- [Tambola Tickets Generator](https://github.com/praveenpuglia/tambola-tickets) - The tambola ticket generator that does it the right way. 
 - [Wiki Trivia](https://github.com/tom-james-watson/wikitrivia) - Wikidata as a trivia card game.
 
 ## Geography and maps
