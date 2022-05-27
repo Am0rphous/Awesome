@@ -337,6 +337,7 @@ Communicate clearly <br>
   - [Polybar Collection](https://github.com/Murzchnvok/polybar-collection) - Beautiful collection of Polybar themes 
   - [polybar Scripts](https://github.com/polybar/polybar-scripts) - This is a community project. We write and collect scripts for polybar! 
 - [Rainmeter](https://github.com/rainmeter/rainmeter) - (maybe run rainmeter in wine on linux?)
+- [Rofi](https://github.com/davatorium/rofi#screenshots) - Rofi: A window switcher, application launcher and dmenu replacement 
 - [SpaceEye](https://github.com/KYDronePilot/SpaceEye) - Live satellite imagery for your desktop background.
 - [Variety](https://github.com/varietywalls/variety) - Wallpaper downloader and manager for Linux systems.
   #### Extensions
