@@ -216,13 +216,14 @@ getcap            #examine file capabilities
 
 ## Processes
 - [KsDumper](https://github.com/EquiFox/KsDumper) - Dumping processes using the power of kernel space.
-- [Magic-trace ]() - magic-trace collects and displays high-resolution traces of what a process is doing.
+- [Magic-trace ](https://github.com/janestreet/magic-trace) - magic-trace collects and displays high-resolution traces of what a process is doing.
 
 ## Shellcode
 - [BlobRunner](https://github.com/OALabs/BlobRunner) - Quickly debug shellcode extracted during malware analysis.
 
 ## Source-code analysis
 - [graudit](https://github.com/wireghoul/graudit) - grep rough audit - source code auditing tool.
+- [tabby](https://github.com/wh1t3p1g/tabby) - A CAT called tabby ( Code Analysis Tool ) 
 
 ## Static Analysis
 - [CodeCat](https://github.com/CoolerVoid/codecat) - Tool to help in static analysis.
