@@ -333,6 +333,9 @@ Communicate clearly <br>
 - [GKrellM](http://gkrellm.srcbox.net/) - single process stack of system monitors.
 - [Hardcode-Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - Fixes Hardcoded tray icons in Linux.
 - [Plank](https://github.com/ricotz/plank) - Simple dock. Configure `plank   --preferences`
+- [Polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar 
+  - [Polybar Collection](https://github.com/Murzchnvok/polybar-collection) - Beautiful collection of Polybar themes 
+  - [polybar Scripts](https://github.com/polybar/polybar-scripts) - This is a community project. We write and collect scripts for polybar! 
 - [Rainmeter](https://github.com/rainmeter/rainmeter) - (maybe run rainmeter in wine on linux?)
 - [SpaceEye](https://github.com/KYDronePilot/SpaceEye) - Live satellite imagery for your desktop background.
 - [Variety](https://github.com/varietywalls/variety) - Wallpaper downloader and manager for Linux systems.
