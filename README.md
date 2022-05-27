@@ -338,6 +338,7 @@ Communicate clearly <br>
   - [polybar Scripts](https://github.com/polybar/polybar-scripts) - This is a community project. We write and collect scripts for polybar! 
 - [Rainmeter](https://github.com/rainmeter/rainmeter) - (maybe run rainmeter in wine on linux?)
 - [Rofi](https://github.com/davatorium/rofi#screenshots) - Rofi: A window switcher, application launcher and dmenu replacement 
+  - [Rofi Collection](https://github.com/Murzchnvok/rofi-collection) - Beautiful collection of Rofi themes 
 - [SpaceEye](https://github.com/KYDronePilot/SpaceEye) - Live satellite imagery for your desktop background.
 - [Variety](https://github.com/varietywalls/variety) - Wallpaper downloader and manager for Linux systems.
   #### Extensions
@@ -831,6 +832,7 @@ Based on that data, you can find the most popular ones and their alternatives.
   - [Taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
     - [How to Manage Your Tasks in the Terminal with Taskbook](https://www.maketecheasier.com/manage-tasks-in-terminal-with-taskbook/)
   - [Taskwarrior](https://taskwarrior.org/)
+  - [Ugly To-Do](https://github.com/Murzchnvok/ugly-todo) - Just an Ugly To-Do app that I wanted to develop. 
   - [QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.
   ### Pastebins
   - [Framabin](https://framabin.org/) - Minimalist, open source online pastebin.
