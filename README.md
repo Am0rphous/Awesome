@@ -597,6 +597,8 @@ Based on that data, you can find the most popular ones and their alternatives.
 - [MapSCII](https://github.com/rastapasta/mapscii) - world_map MapSCII is a Braille & ASCII world map renderer for your console - enter => telnet mapscii.me <= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows.
 - [Marble](https://marble.kde.org/) - Marble is an open source map viewer, atlas explorer and globe viewer. Developed by the KDE team, Marble allows you to plan routes and it can search for maps from multiple sources.
 - [Pure Maps]() - Maps and navigation.
+- [World Net Map](https://github.com/ixty/wnm) - World Internet Map, internet visualization, networks, AS, BGP, ... 
+  - [World Net Map data](https://github.com/ixty/wnm_data) - World Internet Map, internet networks, infrastructure & world data, used by https://github.com/ixty/wnm 
 
 ## Hardware
 - [Inventory Hunter](https://github.com/EricJMarti/inventory-hunter) - Get notified as soon as your next CPU, GPU, or game console is in stock.
