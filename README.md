@@ -946,6 +946,7 @@ Based on that data, you can find the most popular ones and their alternatives.
   - [Static-binaries](https://github.com/andrew-d/static-binaries) - Various *nix tools built as statically-linked binaries.
 
   ### Torrent
+  - [Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers 
   - [Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
   - [qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client [www.qbittorrent.org](https://www.qbittorrent.org).
     ### Streaming torrent
