@@ -1,4 +1,4 @@
-# Networking
+# Anonymity
 
 - [Checkip](https://github.com/jreisinger/checkip) - Check an IP address using various public services.
 - [Cidranger](https://github.com/yl2chen/cidranger) - Fast IP to CIDR lookup in Golang.
@@ -8,6 +8,7 @@
 - [Mmdb-server](https://github.com/adulau/mmdb-server) - mmdb-server is an open source fast API server to lookup IP addresses for their geographic location.
 - [OSI-Model](https://osi-model.com/) - The OSI Model was designed in 1977 and is part of the ISO specifications since 1984. Each OSI layer serves a unique task for network communication.
 - [qPeer](https://github.com/Quimzy/qPeer) - A peer-to-peer routing protocol to run your decentralized network.
+- [Secure Distributed Network Time Synchronization](https://github.com/Kicksecure/sdwdate) - Secure Distributed Web Date; privacy, anonymity and Tor friendly; console time fetcher and daemon; optional graphical user interface etc. Website: https://www.kicksecure.com/wiki/sdwdate 
 - [TCP ISN CPU Information Leak Protection](https://github.com/Kicksecure/tirdad) - TCP ISN CPU Information Leak Protection. TCP Initial Sequence Numbers Randomization to prevent TCP ISN based CPU Information Leaks. 
 - [Yggdrasil](https://github.com/yggdrasil-network/yggdrasil-go) - An experiment in scalable routing as an encrypted IPv6 overlay network.
 - [ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth.
