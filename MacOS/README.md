@@ -1,5 +1,7 @@
 # Macbook Pro Resources
 
+- [Softwareupdate-full-installer](https://github.com/chris1111/Softwareupdate-full-installer) - Command Line script to download Install macOS 
+
 ## Anti-Virus, Anti-Malware, Rootkits and infections
 - [Dylib Hijack Scanner](https://objective-see.com/products/dhs.html)
 
