@@ -215,6 +215,7 @@ Communicate clearly <br>
 - [Openfire](https://igniterealtime.org/projects/openfire/) - Openfire is a real time collaboration (RTC) server licensed under the Open Source Apache License. It uses the only widely adopted open protocol for instant messaging, XMPP Openfire is incredibly easy to setup and administer, but offers rock-solid security and performance. [Github](https://github.com/igniterealtime/Openfire)
 - [p2p.chat](https://github.com/tom-james-watson/p2p.chat) - p2p video conferencing powered by WebRTC.
 - [Rambox](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
+- [Ricochet Refresh](https://github.com/blueprint-freespeech/ricochet-refresh) - Anonymous peer-to-peer instant messaging 
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The ultimate Free Open Source Solution for team communications.
   - [RC-Trending](https://github.com/frontendwizard/rc-trending) - News feed from multiple sources right into rocket chat.
   - [Rocket-chat-denied-mask.sh](https://gist.github.com/Majunko/81e8b45f2a7588975d48be156fd38173#file-rocket-chat-denied-mask-sh) - Repair Denied mask spam in journal.
