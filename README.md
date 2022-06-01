@@ -40,6 +40,7 @@ Communicate clearly <br>
   - [iOS](https://github.com/Am0rphous/Awesome/blob/master/README.md#ios)
   - [Linux](https://github.com/Am0rphous/Awesome/blob/master/README.md#linux)
   - [Programming](https://github.com/Am0rphous/Awesome/blob/master/README.md#programming)
+    - [C++](https://github.com/Am0rphous/Awesome/blob/master/README.md#c++)
     - [Electron](https://github.com/Am0rphous/Awesome/blob/master/README.md#electron)
     - [Go](https://github.com/Am0rphous/Awesome/blob/master/README.md#go)
     - [HTML](https://github.com/Am0rphous/Awesome/blob/master/README.md#html)
@@ -466,6 +467,8 @@ sudo apt-get install redshift-gtk
   - [KDevelop](https://github.com/KDE/kdevelop) - Cross-platform IDE for C, C++, Python, QML/JavaScript and PHP.
   - [Nest](https://github.com/MLX15/nestjs) - A progressive Node.js framework for building efficient and scalable server-side applications.
   - [Tokei](https://github.com/XAMPPRocky/tokei) - Tokei is a program that displays statistics about your code. Tokei will show the number of files, total lines within those files and code, comments, and blanks grouped by language.
+    #### C++
+    - [Awesome C++](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. 
     #### Electron
     - [Awesome Electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron.
     - [Electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS .
