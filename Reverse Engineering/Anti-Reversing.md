@@ -1,5 +1,7 @@
 # Anti-Reverse Engineering
 
+- [BeatRev](https://github.com/Octoberfest7/BeatRev) - POC for frustrating/defeating Malware Analysts 
+
 ## Low Level Virtual Machine (LLVM)
 - [llvm.org](https://llvm.org/)
 - [YANSOllvm](https://github.com/emc2314/YANSOllvm) - Yet Another Not So Obfuscated LLVM 
