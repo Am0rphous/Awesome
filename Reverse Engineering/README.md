@@ -146,8 +146,7 @@ getcap            #examine file capabilities
   - [Enjarify](https://github.com/Storyyeller/enjarify) - tool for translating Dalvik bytecode to equivalent Java bytecode.
   - [Smali2Java](https://github.com/alexeysoshin/smali2java) - Recreate Java code from Smali.
 
-  ### PHP
-  - [reverse-php-malware](https://github.com/bediger4000/reverse-php-malware) - De-obfuscate and reverse engineer PHP malware.
+  
 
 ## Firmware
 - [BinWalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool.
@@ -174,6 +173,12 @@ getcap            #examine file capabilities
 
 ## OSes
 - [ArmPIv3](https://github.com/waldo-irc/ArmPi) - Raspbian IMG for ARM Reverse Engineering for CTFs.
+
+## Packers & Unpackers
+- [Python-exe-unpacker](https://github.com/countercept/python-exe-unpacker) - A helper script for unpacking and decompiling EXEs compiled from python code. 
+- [Unpacker Karton Service](https://github.com/c3rb3ru5d3d53c/karton-unpacker) - A modular Karton Framework service that unpacks common packers like UPX and others using the Qiling Framework. 
+- [UPX](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables.
+
 
 ## Processes
 - [KsDumper](https://github.com/EquiFox/KsDumper) - Dumping processes using the power of kernel space.
