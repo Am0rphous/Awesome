@@ -48,9 +48,6 @@
   - [Tor Relay Search](https://metrics.torproject.org/rs.html#)
   - [yui.cat](https://yui.cat) - List of relays.
 
-## Bot Net
-- [Byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers. [byob.dev](https://byob.dev/)
-- [PoshBot](https://github.com/poshbotio/PoshBot) - Powershell-based bot framework 
 
 ## Bypass Firewalls / Encapsulation traffic
 - [CensoredPlanet.org](https://censoredplanet.org/)
@@ -67,14 +64,15 @@
 - [VPN Pivot](https://github.com/0x36/VPNPivot) - Explore the network using VPNPivot tool.
 - [WsTunnel](https://github.com/erebe/wstunnel) - Tunneling over websocket protocol - Static binary available.
 
-## Packet Capture
-- [Extract-tls-secrets](https://github.com/neykov/extract-tls-secrets) - Decrypt HTTPS/TLS connections on the fly with Wireshark.
-- [Wireshark](https://github.com/wireshark/wireshark) - wireshark.org
-
-### Deep Packet Inspection
-- [deep-packet-inspection](https://devopedia.org/deep-packet-inspection)
-- [DPI Using GPUs pdf](https://on-demand.gputechconf.com/gtc/2017/presentation/s7468-wenji-wu-network-traffic-analysis-using-gpus.pdf) - Deep Packet Inspection Using GPUs
-- [WireCAP](https://wirecap.fnal.gov/) - a Novel Packet Capture Engine for Commodity NICs in High-speed Networks
+## Disk Cleanup
+- [Permadelete](https://github.com/DevelopersTree/permadelete) - Permanently shreds files, easily. 
+- [secure-rm-cli](https://github.com/oganexon/secure-rm-cli) - Completely erases files by making recovery impossible. (CLI for secure-rm) 
+- shred
+````
+shred -vzu -n5 pw.txt     #v=verbose z=zeros after hred u=remove file n=number of overwrites
+shred -vfz /dev/sdb       #f=forces write permissions if missing
+````
+- [wiper](https://github.com/r3nt0n/wiper) - Toolkit to perform secure destruction of sensitive virtual data, temporary files and swap memories. 
 
 ## Network Simulation
 - [flare-fakenet-ng](https://github.com/fireeye/flare-fakenet-ng) - Next Generation Dynamic Network Analysis Tool.
@@ -83,28 +81,6 @@
 - [INetSim](https://www.inetsim.org/) - software suite for simulating common internet services in a lab environment, e.g. for analyzing the network behaviour of unknown malware samples. 
 - [The Shadow Simulator](https://github.com/shadow/shadow) - Shadow is a unique discrete-event network simulator that runs real applications like Tor, and distributed systems of thousands of nodes on a single machine. 
 
-## Online Tools
-- [SSH Check](https://sshcheck.com/) - Check a server's SSH capabilities.
-
-## Proxy
-- [Anyproxy](https://github.com/wzshiming/anyproxy) - Proxy server supporting http/ssh/socks4/socks5/shadowsocks on port.
-- [Privoxy](https://www.privoxy.org/) - Privoxy is a non-caching web proxy with advanced filtering capabilities for enhancing privacy, modifying web page data and HTTP headers, controlling access, and removing ads and other obnoxious Internet junk.
-- [Project V](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions. [Official website](https://www.v2fly.org)
-- [Redsocks – transparent TCP-to-proxy redirector](https://github.com/darkk/redsocks) -  transparent TCP-to-proxy redirector.
-- [RPIVOT](https://github.com/klsecservices/rpivot) - socks4 reverse proxy for penetration testing.
-- [Snicat](https://github.com/CTFd/snicat) - TLS & SNI aware netcat.
-- [SSLproxy](https://github.com/sonertari/SSLproxy) - Transparent SSL/TLS proxy for decrypting and diverting network traffic to other programs, such as UTM services, for deep SSL inspection.
-- [Squid](http://www.squid-cache.org/) - Squid is a caching proxy for the Web supporting HTTP, HTTPS, FTP, and more. It reduces bandwidth and improves response times by caching and reusing frequently-requested web pages.
-- [tcp-over-http](https://github.com/neex/tcp-over-http#current-status) - This program is just a proxy server which multiplexes TCP connections into an HTTPS. The primary purpose is to make all connections look like legitimate ones for firewalls (including DPI).
-- [Tinyproxy](https://github.com/tinyproxy/tinyproxy) - Tinyproxy is a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems.
-- [Venom](https://github.com/Dliv3/Venom) - _A Multi-hop Proxy for Penetration Testers._
-
-### Other proxies
-- [Apache2](https://httpd.apache.org/)
-- [NginX](https://www.nginx.com/) - [Nginx GIthub](https://github.com/nginx/nginx)
-
-## Remoting
-- [Remmina](https://gitlab.com/Remmina/Remmina) - Remote desktop client. [remmina.org](http://remmina.org/)
 
 ## Secure WebBrowsers
 - Comodo Dragon https://www.comodo.com/home/browsers-toolbars/browser.php
