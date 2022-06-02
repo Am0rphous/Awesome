@@ -65,13 +65,17 @@
 - [WsTunnel](https://github.com/erebe/wstunnel) - Tunneling over websocket protocol - Static binary available.
 
 ## Disk Cleanup
+- [drive-shred](https://github.com/elements518/drive-shred) - A simple script that is ideal to put on a small linux machine to be used to delete drives safely. 
+- [LogShred](https://github.com/MrFlyingToasterman/LogShred) - GUI tool for shredding logfiles in Linux 
 - [Permadelete](https://github.com/DevelopersTree/permadelete) - Permanently shreds files, easily. 
+- [Secure-rm](https://github.com/secure-rm/core) - Completely erases files by making recovery impossible. (core library for secure-rm) 
 - [secure-rm-cli](https://github.com/oganexon/secure-rm-cli) - Completely erases files by making recovery impossible. (CLI for secure-rm) 
 - shred
 ````
 shred -vzu -n5 pw.txt     #v=verbose z=zeros after hred u=remove file n=number of overwrites
 shred -vfz /dev/sdb       #f=forces write permissions if missing
 ````
+- [shred-go](https://github.com/lu4p/shred) - This is a libary to mimic the functionallity of the linux shred command. 
 - [wiper](https://github.com/r3nt0n/wiper) - Toolkit to perform secure destruction of sensitive virtual data, temporary files and swap memories. 
 
 ## Network Simulation
