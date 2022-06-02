@@ -940,11 +940,11 @@ Based on that data, you can find the most popular ones and their alternatives.
 
   ### Hex
   - [Bless](https://github.com/afrantzis/bless) - Hex Editor.
-  - [GHex](https://github.com/GNOME/ghex) - GHex can load raw data from binary files and display them for editing in a traditional hex editor view. The display is split in two columns, with hexadecimal values in one column and the ASCII representation in the other. GHex is a useful tool for working with raw data.
+  - [GHex](https://github.com/GNOME/ghex) - GHex can load raw data from binary files and display them for editing in a traditional hex editor view. The display is split in two columns, with hexadecimal values in one column and the ASCII representation in the other. GHex is a useful tool for working with raw data. `sudo apt install ghex`
   - [Hex Editor Neo](https://www.hhdsoftware.com/hex-editor)
   - [ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
   - [SuperHexEditor](https://github.com/philipxyc/SuperHexEditor) - A powerful and open source Hex Editor for Windows10.
-  - [vxHexEditor](https://github.com/EUA/wxHexEditor) - [www.wxhexeditor.org](http://www.wxhexeditor.org/)
+  - [wxHexEditor](https://github.com/EUA/wxHexEditor) - [www.wxhexeditor.org](http://www.wxhexeditor.org/) - `sudo apt install wxhexeditor` (can look at disks!)
   ### Linux Tools
   - [Linux Surface](https://github.com/linux-surface/linux-surface) - Linux Kernel for Surface Devices.
   - [Lisa19 - Linux Terminal Tools](https://github.com/ketancmaheshwari/lisa19) - Linux Terminal Tools. PDF slides.
