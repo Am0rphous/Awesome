@@ -43,6 +43,7 @@ _“Intelligence is the ability to avoid doing work, yet getting the work done -
   - [DNS](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#dns)
   - [Homelab](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#homelab)
   - [Network Visualization](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#network-visualization)
+  - [Packet Capture](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#packet-capture)
   - [Remoting](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#remoting)
     - [VPN - Virtual Private Network](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#vpn---virtual-private-network)
   - [Storage](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#storage)
@@ -588,6 +589,13 @@ upstream_recursive_servers:
     [Visua Paradigm Online](https://online.visual-paradigm.com/drive/#diagramlist:proj=0&dashboard)
     - [Quark](https://github.com/s0md3v/Quark) - Quark is a data visualization framework.
 
+  ## Packet Capture
+  - [deep-packet-inspection](https://devopedia.org/deep-packet-inspection)
+  - [DPI Using GPUs pdf](https://on-demand.gputechconf.com/gtc/2017/presentation/s7468-wenji-wu-network-traffic-analysis-using-gpus.pdf) - Deep Packet Inspection Using GPUs
+  - [Extract TLS Secrets](https://github.com/neykov/extract-tls-secrets) - Decrypt HTTPS/TLS connections on the fly with Wireshark.
+  - [WireCAP](https://wirecap.fnal.gov/) - a Novel Packet Capture Engine for Commodity NICs in High-speed Networks
+  - [Wireshark](https://github.com/wireshark/wireshark) - wireshark.org
+
   ### Remoting
   - [Cakeway](https://github.com/containrrr/cakeway) - Simple TCP tunneling using SSH.
   - [PowerShell](https://github.com/PowerShell/PowerShell) - _Cross-platform (Windows, Linux, and macOS) automation and configuration tool/framework._
@@ -622,7 +630,8 @@ upstream_recursive_servers:
   - [DropBear SSH](https://github.com/mkj/dropbear) - S smallish SSH server and client. [https://matt.ucc.asn.au](https://matt.ucc.asn.au)
   - [Portable OpenSSH](https://github.com/openssh/openssh-portable)
   - [SSH2](https://github.com/mscdex/ssh2) - SSH2 client and server modules written in pure JavaScript for node.js.
-  - [SSH-tools](https://github.com/vaporup/ssh-tools) - Making SSH more convenient.
+  - [SSH Check](https://sshcheck.com/) - Check a server's SSH capabilities.
+  - [SSH Tools](https://github.com/vaporup/ssh-tools) - Making SSH more convenient.
   - [SSH-Weak-DH](https://github.com/AonCyberLabs/SSH-Weak-DH)
   - [SSH Hardening](https://github.com/Am0rphous/CheatSheets/blob/main/Linux/ssh-hardening.md)
   - [SSH Hardening with Security Onion](https://docs.securityonion.net/en/2.3/ssh.html)
@@ -1106,6 +1115,7 @@ upstream_recursive_servers:
 
 ## Web and Proxy Tools
 - [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) - A curated list of Web Security materials and resources.
+- [Anyproxy](https://github.com/wzshiming/anyproxy) - Proxy server supporting http/ssh/socks4/socks5/shadowsocks on port.
 - [Apache](https://httpd.apache.org/) - Open-source web server for modern operating systems including UNIX and Windows. 
   - [Apache Kafka](https://kafka.apache.org/) - open-source distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications.
   - [logging-log4j2](https://github.com/apache/logging-log4j2) - Apache Log4j 2 is an upgrade to Log4j that provides significant improvements over its predecessor, Log4j 1.x, and provides many of the improvements available in Logback while fixing some inherent problems in Logback's architecture. 
@@ -1125,14 +1135,23 @@ upstream_recursive_servers:
   - [Nginx Admin's Handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
   - [NginxExecute](https://github.com/limithit/NginxExecute) - The NginxExecute module executes the shell command through GET POST and HEAD to display the result.
 - [Pomerium]()
+- [Privoxy](https://www.privoxy.org/) - Privoxy is a non-caching web proxy with advanced filtering capabilities for enhancing privacy, modifying web page data and HTTP headers, controlling access, and removing ads and other obnoxious Internet junk.
+- [Project V](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions. [Official website](https://www.v2fly.org)
 - [Proxify](https://github.com/projectdiscovery/proxify) - Swiss Army knife Proxy tool for HTTP/HTTPS traffic capture, manipulation, and replay on the go.
 - [ProxyChains by haad](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 - [ProxyChains-NG by rofl0r](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.
 - [Python-proxy](https://github.com/qwj/python-proxy) - HTTP/HTTP2/HTTP3/Socks4/Socks5/Shadowsocks/ShadowsocksR/SSH/Redirect/Pf TCP/UDP asynchronous tunnel proxy implemented in Python 3 asyncio.
+- [Redsocks – transparent TCP-to-proxy redirector](https://github.com/darkk/redsocks) -  transparent TCP-to-proxy redirector.
 - [Robots.txt tester](https://github.com/p0dalirius/robotstester) - This Python script can enumerate all URLs present in robots.txt files, and test whether they can be accessed or not.
+- [RPIVOT](https://github.com/klsecservices/rpivot) - socks4 reverse proxy for penetration testing.
 - [Sanstorm](https://sandstorm.io/) - Sandstorm is an open source platform for self-hosting web apps
-- Squid
+- [Snicat](https://github.com/CTFd/snicat) - TLS & SNI aware netcat.
+- [SSLproxy](https://github.com/sonertari/SSLproxy) - Transparent SSL/TLS proxy for decrypting and diverting network traffic to other programs, such as UTM services, for deep SSL inspection.
+- [Squid](http://www.squid-cache.org/) - Squid is a caching proxy for the Web supporting HTTP, HTTPS, FTP, and more. It reduces bandwidth and improves response times by caching and reusing frequently-requested web pages.
   - [SquidGuard](http://www.squidguard.org)
+- [tcp-over-http](https://github.com/neex/tcp-over-http#current-status) - This program is just a proxy server which multiplexes TCP connections into an HTTPS. The primary purpose is to make all connections look like legitimate ones for firewalls (including DPI).
+- [Tinyproxy](https://github.com/tinyproxy/tinyproxy) - Tinyproxy is a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems.
+- [Venom](https://github.com/Dliv3/Venom) - _A Multi-hop Proxy for Penetration Testers._
 - [Wordpress](https://wordpress.com/)
   - [Automattic's Free Themes](https://github.com/Automattic/themes) - WordPress.com themes.
   - [Calypso](https://github.com/Automattic/wp-calypso) - The JavaScript and API powered WordPress.com. [developer.wordpress.com/calypso/](https://developer.wordpress.com/calypso/)
