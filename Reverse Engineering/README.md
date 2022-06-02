@@ -66,6 +66,7 @@ https://github.com/WebAssembly/wabt
 - [Viper](https://github.com/viper-framework/viper) -Viper is a binary analysis and management framework.
 
   ### ELF (Executable and Linkable Format)
+  - [Awesome ELF Resources](https://github.com/tmpout/awesome-elf)
   - [elfcat](https://github.com/ruslashev/elfcat) - An in-development ELF visualizer. Generates HTML files from ELF binaries. 
   - [The 101 of ELF files on Linux: Understanding and Analysis](https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/)
 
