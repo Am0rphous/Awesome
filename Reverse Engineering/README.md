@@ -1,8 +1,7 @@
 # Reverse Engineering Tools
 "Reverse engineering, also called backwards engineering or back engineering, is the process by which an artificial object is deconstructed to reveal its designs, architecture, code or to extract knowledge from the object."
 
-For later:
-https://github.com/WebAssembly/wabt
+
 
 
 - [Awesome Reverse Engineering](https://github.com/alphaSeclab/awesome-reverse-engineering) - Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT) And Every Aspect! (More than 3500 open source tools and 2300 posts&videos).
@@ -56,33 +55,8 @@ https://github.com/WebAssembly/wabt
   - [Angr Gui](https://github.com/angr/angr-management) - A GUI for angr.
 - [BinAbsInspector](https://github.com/KeenSecurityLab/BinAbsInspector) - BinAbsInspector (Binary Abstract Inspector) is a static analyzer for automated reverse engineering and scanning vulnerabilities in binaries, which is a long-term research project incubated at Keenlab. It is based on abstract interpretation with the support from Ghidra. It works on Ghidra's Pcode instead of assembly. Currently it supports binaries on x86,x64, armv7 and aarch64.
 - [Cwe_checker](https://github.com/fkie-cad/cwe_checker) - cwe_checker finds vulnerable patterns in binary executables.
-- [DBA](https://github.com/s0i37/DBA) - Dynamic Binary Analysis scripts.
-- [Fq](https://github.com/wader/fq) - jq for binary formats.
-- [Package Analysis](https://github.com/ossf/package-analysis) - Open Source Package Analysis.
-- [Pharos ](https://github.com/cmu-sei/pharos) - Automated static analysis tools for binary programs.
-- [Qiling](https://github.com/qilingframework/qiling) - Qiling Advanced Binary Emulation Framework.
-- [ROPgadget Tool](https://github.com/JonathanSalwan/ROPgadget) - This tool lets you search your gadgets on your binaries to facilitate your ROP exploitation. ROPgadget supports ELF, PE and Mach-O format on x86, x64, ARM, ARM64, PowerPC, SPARC and MIPS architectures.
-- [The Life of Binaries](https://opensecuritytraining.info/LifeOfBinaries.html)
-- [Viper](https://github.com/viper-framework/viper) -Viper is a binary analysis and management framework.
-
-  ### ELF (Executable and Linkable Format)
-  - [Awesome ELF Resources](https://github.com/tmpout/awesome-elf)
-  - [elfcat](https://github.com/ruslashev/elfcat) - An in-development ELF visualizer. Generates HTML files from ELF binaries. 
-  - [The 101 of ELF files on Linux: Understanding and Analysis](https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/)
-
-  ### PE viewers
-Portable Executables binaries
-  - [Capa](https://github.com/mandiant/capa) - The FLARE team's open-source tool to identify capabilities in executable files.
-  - [CFF Explorer](https://ntcore.com/?page_id=388)
-  - [PE Explorer](http://www.pe-explorer.com/)
-  - [Pev](https://github.com/merces/pev) - The PE file analysis toolkit.
-  - [XPEViewer](https://github.com/horsicq/XPEViewer) - PE file viewer/editor for Windows, Linux and MacOS.
-
-## BlackBox Testing
-- [DRAKVUF™](https://github.com/tklengyel/drakvuf) - DRAKVUF is a virtualization based agentless black-box binary analysis system. DRAKVUF allows for in-depth execution tracing of arbitrary binaries (including operating systems), all without having to install any special software within the virtual machine used for analysis. [drakvuf.com](https://drakvuf.com)
-
-## GNU Binutils
-- [GitWeb Interface](https://sourceware.org/git/gitweb.cgi?p=binutils-gdb.git)
+- GNU Binutils
+  - [GitWeb Interface](https://sourceware.org/git/gitweb.cgi?p=binutils-gdb.git)
 Main tools:
 ````bash
 ld      #the GNU linker     Main tool one
@@ -107,10 +81,31 @@ windmc        # A Windows compatible message compiler.
 windres       # A compiler for Windows resource files.
 ````
 
-- nm
-````
-nm -D file.so | grep T
-````
+- [DBA](https://github.com/s0i37/DBA) - Dynamic Binary Analysis scripts.
+- [DRAKVUF™](https://github.com/tklengyel/drakvuf) - DRAKVUF is a virtualization based agentless black-box binary analysis system. DRAKVUF allows for in-depth execution tracing of arbitrary binaries (including operating systems), all without having to install any special software within the virtual machine used for analysis. [drakvuf.com](https://drakvuf.com)
+- [Fq](https://github.com/wader/fq) - jq for binary formats.
+- nm - usage: `nm -D file.so | grep T`
+- [Package Analysis](https://github.com/ossf/package-analysis) - Open Source Package Analysis.
+- [Pharos ](https://github.com/cmu-sei/pharos) - Automated static analysis tools for binary programs.
+- [Qiling](https://github.com/qilingframework/qiling) - Qiling Advanced Binary Emulation Framework.
+- [ROPgadget Tool](https://github.com/JonathanSalwan/ROPgadget) - This tool lets you search your gadgets on your binaries to facilitate your ROP exploitation. ROPgadget supports ELF, PE and Mach-O format on x86, x64, ARM, ARM64, PowerPC, SPARC and MIPS architectures.
+- [The Life of Binaries](https://opensecuritytraining.info/LifeOfBinaries.html)
+- [Viper](https://github.com/viper-framework/viper) -Viper is a binary analysis and management framework.
+
+  ### ELF (Executable and Linkable Format)
+  - [Awesome ELF Resources](https://github.com/tmpout/awesome-elf)
+  - [elfcat](https://github.com/ruslashev/elfcat) - An in-development ELF visualizer. Generates HTML files from ELF binaries. 
+  - [The 101 of ELF files on Linux: Understanding and Analysis](https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/)
+
+  ### PE viewers
+Portable Executables binaries
+  - [Capa](https://github.com/mandiant/capa) - The FLARE team's open-source tool to identify capabilities in executable files.
+  - [CFF Explorer](https://ntcore.com/?page_id=388)
+  - [PE Explorer](http://www.pe-explorer.com/)
+  - [Pev](https://github.com/merces/pev) - The PE file analysis toolkit.
+  - [XPEViewer](https://github.com/horsicq/XPEViewer) - PE file viewer/editor for Windows, Linux and MacOS.
+
+
 
 ## Debugging
 Description: Used to manipulate the execution of a program to get intel on what it is doing when run.
@@ -229,12 +224,8 @@ getcap            #examine file capabilities
 ## Static Analysis
 - [CodeCat](https://github.com/CoolerVoid/codecat) - Tool to help in static analysis.
 
-## Unsorted
-- [CryptoWall Analysis](https://github.com/ryancor/CryptoWall_Analysis) -  CryptoWall 3.0 Ransomware Reversing Documentation & Scripts.
 
 ## WebAssembly
 - [Binaryen](https://github.com/WebAssembly/binaryen) - Compiler infrastructure and toolchain library for WebAssembly.
-- [WABT](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit.
-
-Free and open-source graphical subsystem originally developed by Microsoft for rendering user interfaces.
+- [WABT](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit. These tools are intended for use in (or for development of) toolchains or other systems that want to manipulate WebAssembly files. 
 - [Snoopwpf - open source WPF spying utility](https://github.com/snoopwpf/snoopwpf) - allows you to spy/browse the visual tree of a running application (without the need for a debugger) and change properties, view triggers, set breakpoints on property changes and many more things.
