@@ -30,8 +30,6 @@ later
 - push   <source>                    Push source onto stack
 - ret                                Pop return address from stack and jump to there
 
-
-````
 - XORing a register with itself
 ````
 xor eax, eax      #faster and more efficient way of setting eax to zero. 
