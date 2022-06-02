@@ -14,20 +14,23 @@
 later
 - Opcode and mnemonics.
 
-### Commonly used instructions
-````
-<operation> <list of arguments>
-int                                Sends an interupt signal to the kernel
-mov    <source>, <destination>     Move data from source to destination
-push   <source>                    Push source onto stack
-pop    <destination>               Pop top of stack into destination
-add    <source>, <destination>     Add source to destination
-jmp    <location>                  Jump to location
-je/jz  <location>                  Jump if equal/zero
-jne/jnz <location>                 Jump if not equal/nonzero
-ret                                Pop return address from stack and jump to there
+### Instruction mnemonics
+- Mnemonics are a symbolic name for the instruction to execute.
+- <operation> <list of arguments>
+- add    <source>, <destination>     Add source to destination
+- add eax,[esp+4]                 "adds the value on the stack 4 bytes above the stack pointer esp"
+- int                                Sends an interupt signal to the kernel
 
-add eax,[esp+4]                 "adds the value on the stack 4 bytes above the stack pointer esp"
+- je/jz  <location>                  Jump if equal/zero
+- jmp    <location>                  Jump to location
+- jne/jnz <location>                 Jump if not equal/nonzero.
+- jnz <location> Jump if not nonzero. "The instruction is very similar to `call`, except that is uses only an 8-bit signed relative displacement
+- mov    <source>, <destination>     Move data from source to destination
+- pop    <destination>               Pop top of stack into destination
+- push   <source>                    Push source onto stack
+- ret                                Pop return address from stack and jump to there
+
+
 ````
 - XORing a register with itself
 ````
@@ -48,6 +51,4 @@ xor eax, eax      #faster and more efficient way of setting eax to zero.
 ## Assemblers
 - [NASM, the Netwide Assembler](https://github.com/netwide-assembler/nasm) - A cross-platform x86 assembler with an Intel-like syntax.
 
-## Mnemonics
-Description: It is a symbolic name for the instruction to execute.
-
+  
