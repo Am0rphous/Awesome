@@ -135,6 +135,7 @@ ps axu | grep "/bin/tor"
     - [Solution which makes the wifi work](https://bugzilla.kernel.org/show_bug.cgi?id=193121#c52) - [Original thread](https://github.com/Dunedan/mbp-2016-linux/issues/47)
 
 ## Productivity
+- [Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts 
 - [AirUnlock-for-Mac (Archived)](https://github.com/pinetum/AirUnlock-for-Mac) - Using android phone to establish a connection with your Mac via Bluetooth low-energy (BLE), controlling Mac lock state (Lock or Unlock).
 - [Fanny](https://github.com/DanielStormApps/Fanny) - Monitor your Mac's fan speed and CPU/GPU temperature from your Notification Center. [fannywidget.com](https://www.fannywidget.com)
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - A Caffeine clone for macOS. Prevents your Mac from going to sleep.
