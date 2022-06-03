@@ -16,9 +16,9 @@
 ## iOS
 - [Cydia Impactor](https://cydiaimpactor.biz/download/) https://cydiaimpactor.online/cydia-impactor-alternative/ - application that can sideload any IPA file through a Windows, Mac or Linux PC to any kind of iDevice. 
 - [HorizonCalendar](https://github.com/airbnb/HorizonCalendar) - A declarative, performant, iOS calendar UI component that supports use cases ranging from simple date pickers all the way up to fully-featured calendar apps.
-
 ### Anonymity
 - [OnionBrowser](https://onionbrowser.com/)
-
 ### Privacy
 - [Guardian](https://guardianapp.com/)
+
+## Security
