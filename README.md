@@ -554,6 +554,7 @@ sudo apt-get install redshift-gtk
 - [Calibre](https://github.com/kovidgoyal/calibre) - calibre is an e-book manager. It can view, convert, edit and catalog e-books in all of the major e-book formats.
 - [Hacking Books](https://github.com/tanc7/hacking-books)
 - [HonKit](https://github.com/honkit/honkit) - 📖 HonKit is building beautiful books using Markdown - Fork of GitBook.
+- [Kindle Previewer](https://www.amazon.com/Kindle-Previewer/b?node=21381691011) - "free desktop application that enables authors, publishers and eBook service providers to preview how their books will appear when delivered to Kindle customers"
 - [Linux-Books](https://github.com/manjunath5496/Linux-Books) - "We all love Linux, but it's also a fact that some people might not be able to migrate." - Miguel de Icaza.
 - [Secure Coding Handbook](https://github.com/joswha/Secure-Coding-Handbook) - Web Application Secure Coding Handbook resource.
 - [The Cyber Plumber's Handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook) - _"This repo contains the PDF book The Cyber Plumber's Handbook - The definitive guide to Secure Shell (SSH) tunneling, port redirection, and bending traffic like a boss. The book was first published in October 2018 for purchase, but now I'm providing it for FREE to anyone interested in learning more about the magic of SSH tunnels and port redirection."_
