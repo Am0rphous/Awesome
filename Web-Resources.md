@@ -1,6 +1,6 @@
 # Web Resources
 
-## Table of Content
+#### Table of Content
 - [Buying Linux Computers](#buying-linux-computers)
 - [Cyber Security News](#cyber-security-news)
   - [Norwegian Sources](#Norwegian-Sources)
