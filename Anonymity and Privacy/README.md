@@ -1,5 +1,9 @@
 # Anonymity
 
+- [Privacy Guide: Fight Surveillance with Encryption and Privacy Tools](https://www.privacytools.io/)
+
+<br>
+
 - [Checkip](https://github.com/jreisinger/checkip) - Check an IP address using various public services.
 - [Cidranger](https://github.com/yl2chen/cidranger) - Fast IP to CIDR lookup in Golang.
 - [Darknet-tools](https://cybercoplabs.net/article/darknet-tools)
