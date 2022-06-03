@@ -22,3 +22,4 @@
 - [Guardian](https://guardianapp.com/)
 
 ## Security
+- [GSMK CryptoPhone](https://www.cryptophone.de/)
