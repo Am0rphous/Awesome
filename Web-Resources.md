@@ -23,6 +23,9 @@
 - [Random](#random)
 - [Social Media](Social-Media)
 
+<br>
+<br>
+
 ## Buying Linux Computers
 - [Framework Laptop](https://frame.work/)
 - [Purism](https://puri.sm)
