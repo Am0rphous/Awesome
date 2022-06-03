@@ -1,5 +1,10 @@
+# Web Resources
 
-## Buying a computer
+## Table of Content
+- [Buying Linux Computers]
+- [Cyber Security News](#cyber-security-news)
+
+## Buying Linux Computers
 - [Framework Laptop](https://frame.work/)
 - [Purism](https://puri.sm)
 - [System76](https://system76.com/)
