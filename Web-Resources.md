@@ -4,7 +4,25 @@
 - [Buying Linux Computers](#buying-linux-computers)
 - [Cyber Security News](#cyber-security-news)
   - [Norwegian Sources](#Norwegian-Sources)
-
+- [E-books, PDF's and other documents](#e-books-pdfs-and-other-documents)
+- [Forums and blogs](#forums-and-blogs)
+- [Games](#games)
+- [Hacker Simolator](#hacker-simulator)
+- [Intel](#intel)
+  - [Norway](#norway)
+    - [PST - Norwegian Threat Assessments](#pst---norwegian-threat-assessments)
+  - [Russia](#russia)
+  - [United Kingdom](#United-Kingdom)
+  - [US](#us)
+- [Learning material](#Learning-material)
+  - [Conferences](#Conferences)
+  - [Courses](#courses)
+  - [E-books](#3-books)
+  - [Podcasts for Cybersecurity](#Podcasts-for-Cybersecurity)
+  - [PowerShell](#PowerShell)
+- [Privacy](#Privacy)
+- [Random](#random)
+- [Social Media](Social-Media)
 
 ## Buying Linux Computers
 - [Framework Laptop](https://frame.work/)
@@ -78,11 +96,10 @@
 - [emulatoronline.com](https://emulatoronline.com)
 - [slavehack2.com](https://www.slavehack2.com/)
 - [s0urce.io/](http://www.s0urce.io/)
-
-## Hacking Simulator for the kidz
-- https://hackertyper.io/
-- https://hacker-simulator.com/
-- https://geekprank.com/hacker/
+  ### Hacker Simulator
+  - https://hackertyper.io/
+  - https://hacker-simulator.com/
+  - https://geekprank.com/hacker/
 
 
 ## Intel
