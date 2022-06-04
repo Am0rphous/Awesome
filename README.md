@@ -959,6 +959,7 @@ Based on that data, you can find the most popular ones and their alternatives.
   - [Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers 
   - [Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
   - [qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client [www.qbittorrent.org](https://www.qbittorrent.org).
+  - [ Transmission](https://transmissionbt.com/download/)
     ### Streaming torrent
     - [https://torrent.express](https://torrent.express)
 
