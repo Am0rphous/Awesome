@@ -493,6 +493,7 @@ sudo apt-get install redshift-gtk
     - [30 seconds of code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs.
     - [Babel](https://babeljs.io/) - JavaScript compiler.
     - [Flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨.
+    - [Polacode — Polaroid for your code 📸](https://github.com/octref/polacode) - Polaroid for your code 
     - [React](https://reactjs.org/) - A declarative, efficient, and flexible JavaScript library for building user interfaces. [Github](https://github.com/facebook/react)
     - [React Native Graph](https://github.com/margelo/react-native-graph) - 📈 Beautiful, high-performance Graphs and Charts for React Native.
       - [React Query](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React.
@@ -558,6 +559,7 @@ sudo apt-get install redshift-gtk
 - [Kindle Previewer](https://www.amazon.com/Kindle-Previewer/b?node=21381691011) - "free desktop application that enables authors, publishers and eBook service providers to preview how their books will appear when delivered to Kindle customers"
 - [Linux-Books](https://github.com/manjunath5496/Linux-Books) - "We all love Linux, but it's also a fact that some people might not be able to migrate." - Miguel de Icaza.
 - [Secure Coding Handbook](https://github.com/joswha/Secure-Coding-Handbook) - Web Application Secure Coding Handbook resource.
+- [The Arcane Algorithm Archive](https://github.com/algorithm-archivists/algorithm-archive) - A collaborative book on algorithms 
 - [The Cyber Plumber's Handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook) - _"This repo contains the PDF book The Cyber Plumber's Handbook - The definitive guide to Secure Shell (SSH) tunneling, port redirection, and bending traffic like a boss. The book was first published in October 2018 for purchase, but now I'm providing it for FREE to anyone interested in learning more about the magic of SSH tunnels and port redirection."_
 
 ## Finance
