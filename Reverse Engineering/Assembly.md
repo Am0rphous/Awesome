@@ -27,10 +27,7 @@ later
 - jnz <location> Jump if not nonzero. "The instruction is very similar to `call`, except that is uses only an 8-bit signed relative displacement
 - mov    <source>, <destination>     Move data from source to destination
 
-### NOP - No Operations
-- Does nothing. Execution simply proceeds to next instruction.
-- Pseudonym for the instruction `xchg eax, eax` which means that the EAX register exchanges EAX with itself, which does nothing.
-- OP code: 0x90
+
 ### pop    <destination>               Pop top of stack into destination
 - push   <source>                    Push source onto stack
 - ret                                Pop return address from stack and jump to there
