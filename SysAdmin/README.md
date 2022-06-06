@@ -839,6 +839,7 @@ upstream_recursive_servers:
   - [HolyTips](https://github.com/HolyBugx/HolyTips) - Tips and Tutorials on Bug Bounty Hunting and Web App Security.
 
   ### Windows Security
+  - [Seatbelt](https://github.com/GhostPack/Seatbelt) - Seatbelt is a C# project that performs a number of security oriented host-survey "safety checks" relevant from both offensive and defensive security perspectives. 
   - [WELA](https://github.com/Yamato-Security/WELA) - WELA (Windows Event Log Analyzer): The Swiss Army knife for Windows Event Logs! ゑ羅（ウェラ）.
   #### Windows Hardening
   - [binsnitch.py](https://github.com/NVISOsecurity/binsnitch) - Detect silent (unwanted) changes to files on your system.
