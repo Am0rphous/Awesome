@@ -158,6 +158,7 @@ distribution into a Live Kit (formely known as Live CD).
 - [Demon Linux](https://demonlinux.com/) - Demon Linux is a penetration testing custom Debian distribution packaged as an ISO file.
 - [Garuda Linux](https://garudalinux.org)
 - [Kali](https://www.kali.org) - Advanced Penetration Testing Distribution.
+  - [How to Route all traffic on Kali through Tor using Whonix](https://www.1337pwn.com/route-traffic-kali-linux-tor-using-whonix/)
 - [Parrot](https://www.parrotsec.org) - designed for penetration testing, vulnerability assessment and mitigation, computer forensics and anonymous web browsing. 
 
 ## Router and Firewall OSes
