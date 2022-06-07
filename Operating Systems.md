@@ -101,6 +101,7 @@ distribution into a Live Kit (formely known as Live CD).
  - [Tailes](https://tails.boum.org) - Portable operating system that protects against surveillance and censorship
  - [Qubes OS](https://www.qubes-os.org) - Edward Snowden said in a [Twitter message](https://twitter.com/Snowden/status/781493632293605376) "_If you're serious about security, [@QubesOS](https://twitter.com/QubesOS) is the best OS available today. It's what I use, and free. Nobody does VM isolation better._"
  - [Whonix](https://www.whonix.org) - "_Software That Can Anonymize Everything You Do Online_".
+   - [Common Whonix ™ CLI Commands](https://www.whonix.org/wiki/Common_CLI_Commands)
    - [error: Requested operation is not valid: blkio device weight is valid only for bfq or cfq scheduler](https://www.reddit.com/r/Whonix/comments/hg9du9/issues_running_whonix_in_kvm/)
  <br>
  
