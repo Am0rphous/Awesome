@@ -1,5 +1,6 @@
 # Assembly notes
 
+- [Hex to Binary converter](https://www.rapidtables.com/convert/number/hex-to-binary.html)
 - [x86reference](https://github.com/Barebit/x86reference) - X86 Opcode and Instruction Reference: [http://ref.x86asm.net](http://ref.x86asm.net)
 
 <br>
