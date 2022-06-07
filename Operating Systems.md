@@ -100,7 +100,9 @@ distribution into a Live Kit (formely known as Live CD).
  - [PwOSS Mobile/Desktop/Server](https://pwoss.org/)
  - [Tailes](https://tails.boum.org) - Portable operating system that protects against surveillance and censorship
  - [Qubes OS](https://www.qubes-os.org) - Edward Snowden said in a [Twitter message](https://twitter.com/Snowden/status/781493632293605376) "_If you're serious about security, [@QubesOS](https://twitter.com/QubesOS) is the best OS available today. It's what I use, and free. Nobody does VM isolation better._"
- - [Whoonix](https://www.whonix.org) - "_Software That Can Anonymize Everything You Do Online_".
+ - [Whonix](https://www.whonix.org) - "_Software That Can Anonymize Everything You Do Online_".
+   - [error: Requested operation is not valid: blkio device weight is valid only for bfq or cfq scheduler](https://www.reddit.com/r/Whonix/comments/hg9du9/issues_running_whonix_in_kvm/)
+ <br>
  
   "_Key disclosure laws, also known as mandatory key disclosure, is legislation that requires individuals to surrender cryptographic keys to law enforcement. The purpose is to allow access to material for confiscation or digital forensics purposes and use it either as evidence in a court of law or to enforce national security interests._" [Wikipedia](https://en.wikipedia.org/wiki/Key_disclosure_law).
 | Key discolsure laws apply | Key disclosure may apply | Key disclosure laws don't apply |
