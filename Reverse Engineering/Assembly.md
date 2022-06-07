@@ -27,7 +27,8 @@ add eax,[esp+4]                 "adds the value on the stack 4 bytes above the s
 - int                                Sends an interupt signal to the kernel
 ````
 ````
-- je/jz  <location>                  Jump if equal/zero
+
+  - je/jz  <location>                  Jump if equal/zero
 ````
 ````
 - jmp    <location>                  Jump to location
