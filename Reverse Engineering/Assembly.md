@@ -16,6 +16,8 @@ later
 - Opcode and mnemonics.
 
 ## Instruction mnemonics
+- [nasm x86 Assembly Quick Reference](https://www.cs.uaf.edu/2008/fall/cs301/support/x86/)
+- [x86 cheat sheet](https://pages.cs.wisc.edu/~remzi/Classes/354/Fall2012/Handouts/Handout-x86-cheat-sheet.pdf)
 - Mnemonics are a symbolic name for the instruction to execute.
 - <operation> <list of arguments>
 - add    <source>, <destination>     Add source to destination
