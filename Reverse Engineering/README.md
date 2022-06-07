@@ -162,9 +162,10 @@ getcap            #examine file capabilities
 ## Learning Resources
 - [Learning Reverse Engineering](https://github.com/jstrosch/learning-reverse-engineering)
 
-## Memory scanners
+## Memory
 - [Cheat-engine](https://github.com/cheat-engine/cheat-engine) - A development environment focused on modding. [cheatengine.org](https://cheatengine.org/)
 - [CrySearch Memory Scanner](https://www.crysearch.nl/) -  analysis, debugging and memory modification.
+- [ReClassEx](https://github.com/ajkhoury/ReClassEx) - memory reverse engineering tool
 
 ## Mobile Forensics
 - [AndroGuard](https://github.com/androguard/androguard) - Reverse engineering, Malware and goodware analysis of Android applications ... and more (ninja !)
