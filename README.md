@@ -559,6 +559,7 @@ sudo apt-get install redshift-gtk
 - [Kindle Previewer](https://www.amazon.com/Kindle-Previewer/b?node=21381691011) - "free desktop application that enables authors, publishers and eBook service providers to preview how their books will appear when delivered to Kindle customers"
 - [Linux-Books](https://github.com/manjunath5496/Linux-Books) - "We all love Linux, but it's also a fact that some people might not be able to migrate." - Miguel de Icaza.
 - [Secure Coding Handbook](https://github.com/joswha/Secure-Coding-Handbook) - Web Application Secure Coding Handbook resource.
+- [Sumatra PDF](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF is a multi-format (PDF, EPUB, MOBI, FB2, CHM, XPS, DjVu) reader for Windows under (A)GPLv3 license, with some code under BSD license (see AUTHORS).
 - [The Arcane Algorithm Archive](https://github.com/algorithm-archivists/algorithm-archive) - A collaborative book on algorithms 
 - [The Cyber Plumber's Handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook) - _"This repo contains the PDF book The Cyber Plumber's Handbook - The definitive guide to Secure Shell (SSH) tunneling, port redirection, and bending traffic like a boss. The book was first published in October 2018 for purchase, but now I'm providing it for FREE to anyone interested in learning more about the magic of SSH tunnels and port redirection."_
 
