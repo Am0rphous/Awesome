@@ -18,23 +18,40 @@ later
 - Mnemonics are a symbolic name for the instruction to execute.
 - <operation> <list of arguments>
 - add    <source>, <destination>     Add source to destination
-- add eax,[esp+4]                 "adds the value on the stack 4 bytes above the stack pointer esp"
+````
+add eax,[esp+4]                 "adds the value on the stack 4 bytes above the stack pointer esp"
+````
 - int                                Sends an interupt signal to the kernel
-
+````
+````
 - je/jz  <location>                  Jump if equal/zero
+````
+````
 - jmp    <location>                  Jump to location
+````
+````
 - jne/jnz <location>                 Jump if not equal/nonzero.
+````
+````
 - jnz <location> Jump if not nonzero. "The instruction is very similar to `call`, except that is uses only an 8-bit signed relative displacement
+````
+````
 - mov    <source>, <destination>     Move data from source to destination
+````
+````
 
-
-### pop    <destination>               Pop top of stack into destination
+- pop    <destination>               Pop top of stack into destination
+````
+````
 - push   <source>                    Push source onto stack
+````
+````
 - ret                                Pop return address from stack and jump to there
-
+````
+````
 - XORing a register with itself
 ````
-xor eax, eax      #faster and more efficient way of setting eax to zero. 
+xor eax, eax      #Clears the EAX register. Faster and more efficient way of setting eax to zero. 
 ````
 
 ## Registers
