@@ -335,6 +335,7 @@ bro / zeek
 - [InfluxDB](https://www.influxdata.com/) - open-source time series database developed by the company InfluxData. It is written in the Go programming language for storage and retrieval of time series data in fields such as operations monitoring, application metrics, Internet of Things sensor data, and real-time analytics. It also has support for processing data from Graphite.
 - [KEXI](https://calligra.org/kexi/index.html) - KEXI is a visual database applications creator. It can be used for designing database applications, inserting and editing data, performing queries, and processing data. Forms can be created to provide a custom interface to your data. All database objects – tables, queries, forms, reports – are stored in the database, making it easy to share data and design. 
 - [MariaDB Server](https://github.com/MariaDB/server) - MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.
+- [Milvus](https://github.com/milvus-io/milvus) - Vector database for scalable similarity search and AI applications. 
 - [NocoDB](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs. 
 - PostgreSQL
   - [CredCheck](https://github.com/MigOpsRepos/credcheck) - PostgreSQL plain credential checker.
@@ -351,6 +352,7 @@ bro / zeek
   - [Duckdns.org](http://duckdns.org/) - duckdns.org is a free Dynamic DNS service offering accounts with up to 4 subdomains of duckdns.org. Optional donations will unlock more subdomains.
 - [DNS Proxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support.
 - [Dnscrypt Proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols [simplednscrypt.org](https://www.simplednscrypt.org).
+- [DNSStresss](https://github.com/MickaelBergem/dnsstresss) - Simple Go program to stress test DNS servers 
 - [Encrypted DNS servers and relays](https://www.reddit.com/r/dnscrypt/comments/hllymo/new_encrypted_dns_servers_and_relays/)
 - [Lists of public DNSCrypt and DoH servers](https://github.com/DNSCrypt/dnscrypt-resolvers) - Lists of public DNSCrypt / DoH DNS servers and DNS relays.
 
