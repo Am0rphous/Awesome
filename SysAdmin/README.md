@@ -1032,6 +1032,7 @@ upstream_recursive_servers:
   - [MiniKube](https://github.com/kubernetes/minikube) - Minikube implements a local Kubernetes cluster on macOS, Linux, and Windows. [minikube.sigs.k8s.io](https://minikube.sigs.k8s.io/docs/)
   - [MiniShift](https://github.com/minishift/minishift) - Open source tool that helps you run a single-node OpenShift cluster locally inside a VM. [okd.io](https://www.okd.io)
   - [Panamax-ui](https://github.com/CenturyLinkLabs/panamax-ui) - The Web GUI for Panamax.
+  - [Tini - A tiny but valid init for containers](https://github.com/krallin/tini) - A tiny but valid `init` for containers 
   - [The Moby Project](https://github.com/moby/moby) - A collaborative project for the container ecosystem to assemble container-based systems.
   - [vSphere Integrated Containers](https://github.com/vmware/vic-product) - vSphere Integrated Containers enables VMware customers to deliver a production-ready container solution to their developers and DevOps teams. 
   - [RunC](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification.
