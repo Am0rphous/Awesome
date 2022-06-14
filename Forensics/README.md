@@ -81,6 +81,7 @@
 
 ## File Analysis
 - [Debsums](https://manpages.ubuntu.com/manpages/trusty/man1/debsums.1.html) - check the MD5 sums of installed Debian packages.
+- [tree](https://github.com/kddnewton/tree) - Implementations of the unix tree command 
 - [TrID](https://mark0.net/soft-trid-e.html) -  Identify file types from their binary signatures. Win32, Linux 32/64-bit
   - [Online TrID File Identifier](https://mark0.net/onlinetrid.html) - Size <= 10 MB.
   - [TrIDNet (GUI)](https://mark0.net/soft-tridnet-e.html) - GUI version of TrID. Requires .NET for function [Install .NET on Linux](https://docs.microsoft.com/en-us/dotnet/core/install/linux)
