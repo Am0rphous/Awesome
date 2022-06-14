@@ -2,6 +2,7 @@
 
 - [Digital Forensics and Incident Response](https://tajdini.net/blog/forensics-and-security/digital-forensics-and-incident-response/)
 - [hAcKtive Directory Forensics](https://github.com/YossiSassi/hAcKtive-Directory-Forensics) - Compiled for OSDFCon 2021 talk ["I know what your AD did last summer!.."](https://www.osdfcon.org/events_2021/i-know-what-your-ad-did-last-summer/) by 1nth35h311.
+- [IRMA - Incident Response - Minimal Analysis](https://github.com/codeyourweb/irma) - enpoint detection / live analysis & sandbox host / signatures quality test 
 
 ## Disk
 - [Nntfstool](https://github.com/thewhiteninja/ntfstool) - Forensics tool for NTFS (parser, mft, bitlocker, deleted files).
