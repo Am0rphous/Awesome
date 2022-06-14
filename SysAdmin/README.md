@@ -241,6 +241,7 @@ bro / zeek
   - [MetaDefender](https://metadefender.opswat.com/?lang=en)
   - [valkyrie.comodo.com](https://valkyrie.comodo.com) - Advanced File Analysis System.
   - [VirusTotal](https://www.virustotal.com/gui/) - Free service that analyzes suspicious files and URLs and facilitates the quick detection of viruses, worms, trojans, and all kinds of malware.
+    - [VirusTotal users comments realtime monitoring](https://github.com/codeyourweb/vt_users_monitoring) - VirusTotal users comments monitoring and associated match output 
   ### Test your AntiVirus
   Download the eicar file to test your antivirus software.
   By running `wget http://www.eicar.org/download/eicar.com`. The file looks like this
