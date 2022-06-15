@@ -666,6 +666,7 @@ upstream_recursive_servers:
     - [Ovpn-admin](https://github.com/flant/ovpn-admin) - Simple web UI to manage OpenVPN users.
   - [Streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
   - [WireGuard](https://github.com/WireGuard) - WireGuard® is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. [Wireguard.com](https://www.wireguard.com)
+  - [docker-wireguard](https://github.com/linuxserver/docker-wireguard)
     - [Macos-menubar-wireguard](https://github.com/aequitas/macos-menubar-wireguard) - macOS menubar icon for WireGuard/wg-quick.
     - [Subspace](https://github.com/subspacecloud/subspace) - A simple WireGuard VPN server GUI.
       - [Subspace fork](https://github.com/subspacecommunity/subspace) - A fork of the simple WireGuard VPN server GUI community maintained.
@@ -1138,6 +1139,7 @@ upstream_recursive_servers:
 - [Lwan Web Server](https://github.com/lpereira/lwan) - Experimental, scalable, high performance HTTP server.
 - [MkChain](https://github.com/trimstray/mkchain) -  Open source tool to help you build a valid SSL certificate chain.
 - [NginX](https://nginx.org/en/) - an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server.
+- [docker-swag](https://github.com/linuxserver/docker-swag) - Nginx webserver and reverse proxy with php support and a built-in Certbot (Let's Encrypt) client. It also contains fail2ban for intrusion prevention. 
   - [Luzifer / nginx-sso](https://github.com/Luzifer/nginx-sso) - SSO authentication provider for the auth_request nginx module.
   - [Nginx-location-match-visible](https://github.com/detailyang/nginx-location-match-visible) - 🍻 help you understand how does nginx location match works.
   - [Nginx Admin's Handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
