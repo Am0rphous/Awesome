@@ -57,6 +57,7 @@
 
 ## Miners
 - [lolMiner](https://github.com/Lolliedieb/lolMiner-releases) - AMD & Nvidia Miner for Ethash, Etchash, Autolykos2, Beam, Grin, Ae Flux, Equihash and more
+- [RainbowMiner](https://github.com/RainbowMiner/RainbowMiner) - GPU/CPU Mining script with intelligent profit-switching between miningpools, algorithms, miners, using all possible combinations of devices (NVIDIA, AMD, CPU). Features: actively maintained, uses the top actual miner programs (Bminer, Ccminer, Claymore, Dstm, EnemyZ, Sgminer, T-rex and more) easy setup wizard, webinterface, auto update. 
 - [teamredminer](https://github.com/todxx/teamredminer) - AMD GPU Optimized Cryptocurrency Miner 
 
 ## Monitoring
