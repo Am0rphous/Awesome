@@ -351,6 +351,7 @@ bro / zeek
 ## DNS
 - [Best Free Dynamic DNS Services](https://www.gnutomorrow.com/best-free-dynamic-dns-services/)
   - [Duckdns.org](http://duckdns.org/) - duckdns.org is a free Dynamic DNS service offering accounts with up to 4 subdomains of duckdns.org. Optional donations will unlock more subdomains.
+- [dns.toys](https://github.com/knadh/dns.toys) - A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc. 
 - [DNS Proxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support.
 - [Dnscrypt Proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols [simplednscrypt.org](https://www.simplednscrypt.org).
 - [DNSStresss](https://github.com/MickaelBergem/dnsstresss) - Simple Go program to stress test DNS servers 
