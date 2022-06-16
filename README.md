@@ -70,7 +70,7 @@ Communicate clearly <br>
   - [Security](https://github.com/Am0rphous/Awesome/blob/master/README.md#security)
 - [Learning resources](https://github.com/Am0rphous/Awesome/blob/master/README.md#learning-resources)
 - [Multimedia](https://github.com/Am0rphous/Awesome/blob/master/README.md#multimedia)
-  - [Image and pictures](https://github.com/Am0rphous/Awesome/blob/master/README.md#image)
+  - [Image and pictures]([https://github.com/Am0rphous/Awesome/blob/master/README.md#image](https://github.com/Am0rphous/Awesome/blob/master/README.md#image-and-pictures))
     - [Graphs, Charts, Diagrams and Data Visualization](https://github.com/Am0rphous/Awesome/blob/master/README.md#graphs-charts-diagrams-and-data-visualization)
   - [Video](https://github.com/Am0rphous/Awesome/blob/master/README.md#video)
   - [Media Servers](https://github.com/Am0rphous/Awesome/blob/master/README.md#media-servers)
@@ -656,6 +656,7 @@ Based on that data, you can find the most popular ones and their alternatives.
 - [Multimedia and Television Support on Linux](https://www.linuxtv.org)
 - [System Color Picker](https://github.com/sindresorhus/System-Color-Picker) - The macOS color picker as an app with more features 
 - [Wwmark](https://github.com/mylamour/Wwmark) - Watermark Swiss Army Knife.
+
   ### Image and pictures
   - [Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework.
   - [DarkTable](https://github.com/darktable-org/darktable) - open source photography workflow application and raw developer. A virtual lighttable and darkroom for photographers. [darktable.org](https://www.darktable.org)
@@ -664,6 +665,7 @@ Based on that data, you can find the most popular ones and their alternatives.
   - [GIMP](https://gitlab.gnome.org/GNOME/gimp) - GNU Image Manipulation Program [gimp.org](https://www.gimp.org)
   - [Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac.
   - [GeoPattern](https://github.com/jasonlong/geo_pattern) - Create beautiful generative geometric background images from a string.
+  - [Globe](https://github.com/mmcloughlin/globe) - Globe wireframe visualizations in Golang 
   - [InkScape](https://inkscape.org) - A powerful, free design tool.
   - [Krita](https://github.com/KDE/krita) - Krita is a professional free and open source painting program.
   - [LightZone](https://github.com/ktgw0316/LightZone) - LightZone is a photo editor for Mac, Windows, and Linux [lightzoneproject.org](http://lightzoneproject.org).
