@@ -6,7 +6,7 @@
 - [E-books, PDF's and other documents](#e-books-pdfs-and-other-documents)
 - [Forums and blogs](#forums-and-blogs)
 - [Games](#games)
-- [Hacker Simolator](#hacker-simulator)
+  - [Hacker Simolator](#hacker-simulator)
 - [Intel](#intel)
   - [Norway](#norway)
     - [PST - Norwegian Threat Assessments](#pst---norwegian-threat-assessments)
@@ -96,6 +96,7 @@
 
 ## Games
 - [emulatoronline.com](https://emulatoronline.com)
+- [Gamle norske dataspill](https://docs.google.com/document/d/1w7Gf6GdEWutyL1H9C-toqpUmqJSfMy4KxLsM73XrQNs/edit) _"Dette er en liste over norske spill/spill med norsk tale som ligger ute på archive.org. Disse spillene kan du laste ned å kjøre på din egen maskin"_
 - [slavehack2.com](https://www.slavehack2.com/)
 - [s0urce.io/](http://www.s0urce.io/)
   ### Hacker Simulator
