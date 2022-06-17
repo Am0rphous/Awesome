@@ -676,6 +676,7 @@ Based on that data, you can find the most popular ones and their alternatives.
   - [PicGo](https://github.com/Molunerfinn/PicGo) - 🚀A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder 
   - [Pinta](https://www.pinta-project.com) - Pinta is a free, open source program for drawing and image editing.
   - [Pixeluvo](http://www.pixeluvo.com) - A Beautifully Designed Image and Photo Editor for Windows and Linux.
+  - [Posters, drawings... ](https://github.com/corkami/pics)
   - [RawTherapee](https://github.com/Beep6581/RawTherapee) - A powerful cross-platform raw photo processing program [rawtherapee.com](https://rawtherapee.com).
    #### Graphs, Charts, Diagrams and Data Visualization
    - [Amcharts.com](https://www.amcharts.com/) - Programming library for all your data visualization needs.
