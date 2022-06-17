@@ -168,6 +168,7 @@
   - Search
     - [CfpSec](https://github.com/alexandreborges/cfpsec) - CFPsec is a program to list Call For Papers or upcoming Hacking/Security Conferences based on cfptime.org website.
   ### Certifications
+  - [Infosec Certification list](https://resources.infosecinstitute.com/certifications/)
   - [VMware Certification](https://www.vmware.com/learning/certification.html)
   
   ### Courses
