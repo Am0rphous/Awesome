@@ -414,6 +414,7 @@ lsscsi                          #Print SCSI Devices Info
 ````
 
 ## EDR, IDS, HIDS and IPS
+- [AIDE - Advanced Intrusion Detection Environment](https://github.com/aide/aide) - AIDE is a tool for monitoring file system changes. It can be used to detect unauthorized monitored files and directories. AIDE was written to be a simple and free alternative to Tripwire. 
 - [Awesome Endpoint Detection and Response tools](https://github.com/remiflavien1/awesome-endpoint-detection-and-response) - Collection of tool you need to have in your Endpoint Detection and Response arsenal.
 - [CrowdSec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative IPS able to analyze visitor behavior & provide an adapted response to all kinds of attacks. It also leverages the crowd power to generate a global CTI database to protect the user network.
 - [DenyHosts](https://github.com/denyhosts/denyhosts) - Automated host blocking from SSH brute force attacks.
