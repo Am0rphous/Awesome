@@ -60,6 +60,7 @@ Note: https://favouriteblog.com/50-best-github-artificial-intelligence/
   - [Roboflow Object Tracking Example](https://github.com/roboflow-ai/zero-shot-object-tracking) - Object tracking implemented with the Roboflow Inference API, DeepSort, and OpenAI CLIP.
  ### Face / Emotions
 - [Detect Eyes and Detect Faces in Python](https://copyassignment.com/detect-eyes-and-detect-faces-in-python-and-opencv/)
+- [Emotime](https://github.com/luca-m/emotime) - Recognizing emotional states in faces 
 - [FacEmoji](https://github.com/PiotrDabrowskey/facemoji) - Detects face and its emotion, draws according emoji over face.
 
 
