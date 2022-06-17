@@ -809,6 +809,7 @@ upstream_recursive_servers:
   - [Auditd](https://manpages.ubuntu.com/manpages/jammy/en/man8/auditd.8.html) - The Linux Audit daemon.
   - [LKRG - Linux Kernel Runtime Guard](https://www.openwall.com/lkrg) -  LKRG performs runtime integrity checking of the Linux kernel and detection of security vulnerability exploits against the kernel. [Github](https://github.com/lkrg-org/lkrg)
     - [Linux Kernel Runtime Guard (LKRG) for Debian, Whonix, Qubes, Kicksecure](https://www.whonix.org/wiki/Linux_Kernel_Runtime_Guard_LKRG)
+- [VED (Vault Exploit Defense) - Linux kernel threat detection and prevention system](https://github.com/hardenedvault/ved)
 
   #### Linux Hardening Guides
   - [40 Linux Server Hardening Security Tips (2019 edition)](https://www.cyberciti.biz/tips/linux-security.html)
