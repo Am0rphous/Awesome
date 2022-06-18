@@ -46,6 +46,7 @@ _“Intelligence is the ability to avoid doing work, yet getting the work done -
   - [Packet Capture](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#packet-capture)
   - [Remoting](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#remoting)
     - [VPN - Virtual Private Network](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#vpn---virtual-private-network)
+      - [Free services](#free-services)
   - [Storage](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#storage)
     - [Online Storage Services](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#online-storage-services)
   - [Switch](https://github.com/Am0rphous/Awesome/tree/master/SysAdmin#switch)
@@ -684,7 +685,10 @@ upstream_recursive_servers:
     - [wireguard install](https://github.com/Nyr/wireguard-install) - WireGuard road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora.
     - [Wireguard-macOS-LinuxVM](https://github.com/mrash/Wireguard-macOS-LinuxVM) -  Send all traffic from macOS through Wireguard running on a Linux VM.
     - [Wireguard Whitepaper](https://www.wireguard.com/papers/wireguard.pdf) - WireGuard: Next Generation Kernel Network Tunnel.
-
+    #### Free services
+    - [Cryptofree](https://cryptostorm.is/cryptofree)
+    - [FreeVPN.me](https://freevpn.me/)
+    
   ### Storage
   - [Libvirt Storage Management](https://libvirt.org/index.html)
   - [LinShare](https://www.linshare.org/) - Open-Source Google Drive Alternative.
