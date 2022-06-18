@@ -664,6 +664,7 @@ upstream_recursive_servers:
       Brew: `brew install openconnect`
   - [Openconnect VPN Server](https://ocserv.gitlab.io/www/index.html) - Openconnect server (ocserv) is an SSL VPN server for administrators who require elaborate user management and control.
   - [OpenVPN](https://github.com/OpenVPN)
+    - Supports SOCKS proxy. You could start e.g. Tor browser which starts a socks proxy on port 9150, and then make openvpn use that by specifying: `--socks-proxy 127.0.0.1 9150 `
     - [Autovpn2](https://github.com/ruped24/autovpn2) - OpenVPN VPN Gate Client for Linux, connects you to a random Free VPN in a country of your choice by country code.
     - [OpenVPN Admin](https://github.com/Chocobozzz/OpenVPN-Admin) - Administrate its OpenVPN with a web interface (logs visualisations, users managing...) and a SQL database.
     - [Openvpn install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora.
