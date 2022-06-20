@@ -7,6 +7,7 @@
   - [IntelliJ Detekt Plugin](https://github.com/detekt/detekt-intellij-plugin) - Integrates detekt, a static code analysis tool for the Kotlin programming language, into IntelliJ.
 - [ApkAnalyser](https://github.com/TheKingOfDuck/ApkAnalyser) - 一键提取安卓应用中可能存在的敏感信息。.
 - [APKLab](https://github.com/Surendrajat/APKLab) - _Android Reverse Engineering WorkBench for VS Code._
+- [APKLeaks](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets. 
 - [ApkUrlGrep](https://github.com/ndelphit/apkurlgrep) - Extract endpoints from APK files.
 - [ApkVuln](https://github.com/Josue87/apkvuln) - Static analysis of APKs with regular expressions.
 - [calabash-android](https://github.com/calabash/calabash-android) -  Automated Functional testing for Android using cucumber.
