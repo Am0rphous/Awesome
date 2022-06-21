@@ -307,9 +307,10 @@ Communicate clearly <br>
     - [Gitlab Watchman](https://github.com/PaperMtn/gitlab-watchman) - Monitoring GitLab for sensitive data shared publicly.
     - [Package Hunter CLI](https://gitlab.com/gitlab-org/security-products/package-hunter-cli/-/blob/main/README.md#gitlab-ci) - Behavorial monitoring for identifying malicious dependencies. [link for later](https://news.itsfoss.com/gitlab-open-source-tool-malicious-code/)
     - [PlantUML](https://github.com/plantuml/plantuml) - Generate diagrams from textual description.
-  - [GitPrep](http://gitprep.yukikimoto.com/)
+  - [Gitinspector](https://github.com/ejwa/gitinspector) - The statistical analysis tool for git repositories 
   - [GitList](https://gitlist.org/)
   - [Gitolite](https://github.com/sitaramc/gitolite) - Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features.
+  - [GitPrep](http://gitprep.yukikimoto.com/)
   - [GitUI](https://github.com/extrawurst/gitui) - GitUI provides you with the comfort of a git GUI but right in your terminal. Fast terminal-ui for git written in rust.
   - [Logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap 
     - [Awesome-logseq](https://github.com/logseq/awesome-logseq)
