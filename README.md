@@ -12,103 +12,104 @@ Communicate clearly <br>
 
  <br> <br>
 # Table of content
-- [Awesome entitled projects](https://github.com/Am0rphous/Awesome/blob/master/README.md#awesome-entitled-projects)
-- [Communication and Collaboration Tools](https://github.com/Am0rphous/Awesome/blob/master/README.md#communication-and-collaboration-tools)
-  - [E-mail](https://github.com/Am0rphous/Awesome#e-mail)
-    - [Security Tools](https://github.com/Am0rphous/Awesome#security-tools)
-  - [IRC](https://github.com/Am0rphous/Awesome#irc)
-    - [IRC Clients](https://github.com/Am0rphous/Awesome/blob/master/README.md#irc-clients)
-    - [IRC Servers](https://github.com/Am0rphous/Awesome/blob/master/README.md#irc-servers)
-  - [Matrix](https://github.com/Am0rphous/Awesome#matrix)
-  - [Version Control, Wiki, Knowledge base](https://github.com/Am0rphous/Awesome#version-control-wiki-knowledge-base)
-    - [CI/CD](https://github.com/Am0rphous/Awesome#cicd)
-  - [VoIP](https://github.com/Am0rphous/Awesome#voip)
-- [Desktop Customization](https://github.com/Am0rphous/Awesome/blob/master/README.md#desktop-customization)
-  - [Extensions](https://github.com/Am0rphous/Awesome/blob/master/README.md#extensions)
-  - [Inspiration](https://github.com/Am0rphous/Awesome/blob/master/README.md#inspiration)
-  - [Prevent Eyestrain](https://github.com/Am0rphous/Awesome#prevent-eyestrain)
-  - [Screensavers](https://github.com/Am0rphous/Awesome/blob/master/README.md#screensavers)
-  - [Themes](https://github.com/Am0rphous/Awesome/blob/master/README.md#themes)
-  - [Wallapers](https://github.com/Am0rphous/Awesome/blob/master/README.md#wallpapers)
-- [Development](https://github.com/Am0rphous/Awesome/blob/master/README.md#development)
-  - [API](https://github.com/Am0rphous/Awesome/blob/master/README.md#api)
-  - [Backend](https://github.com/Am0rphous/Awesome/blob/master/README.md#backend)
-  - [Code Editors/IDE](https://github.com/Am0rphous/Awesome#code-editors--ide)
-  - [File Managers](https://github.com/Am0rphous/Awesome#file-managers)
-  - [Frontend](https://github.com/Am0rphous/Awesome/blob/master/README.md#frontend)
-  - [Icons](https://github.com/Am0rphous/Awesome/blob/master/README.md#icons)
-  - [iOS](https://github.com/Am0rphous/Awesome/blob/master/README.md#ios)
-  - [Linux](https://github.com/Am0rphous/Awesome/blob/master/README.md#linux)
-  - [Programming](https://github.com/Am0rphous/Awesome/blob/master/README.md#programming)
-    - [C++](https://github.com/Am0rphous/Awesome/blob/master/README.md#c++)
-    - [Electron](https://github.com/Am0rphous/Awesome/blob/master/README.md#electron)
-    - [Go](https://github.com/Am0rphous/Awesome/blob/master/README.md#go)
-    - [HTML](https://github.com/Am0rphous/Awesome/blob/master/README.md#html)
-    - [Java](https://github.com/Am0rphous/Awesome/blob/master/README.md#java)
-    - [JavaScript](https://github.com/Am0rphous/Awesome/blob/master/README.md#javascript)
-    - [JQuery](https://github.com/Am0rphous/Awesome/blob/master/README.md#jquery)
-    - [Matlab](https://github.com/Am0rphous/Awesome/blob/master/README.md#matlab)
-    - [Nim](https://github.com/Am0rphous/Awesome/blob/master/README.md#nim)
-    - [Node.js](https://github.com/Am0rphous/Awesome/blob/master/README.md#nodejs---open-source-and-cross-platform-javascript-runtime-environment)
-    - [Odin](https://github.com/Am0rphous/Awesome/blob/master/README.md#odin)
-    - [PHP](https://github.com/Am0rphous/Awesome/blob/master/README.md#php)
-    - [Python](https://github.com/Am0rphous/Awesome/blob/master/README.md#python)
-    - [Rust](https://github.com/Am0rphous/Awesome/blob/master/README.md#rust)
-    - [Vlang](https://github.com/Am0rphous/Awesome/blob/master/README.md#vlang)
-    - [Web](https://github.com/Am0rphous/Awesome/blob/master/README.md#web)
-- [E-books](https://github.com/Am0rphous/Awesome/blob/master/README.md#e-books)
-- [Finance](https://github.com/Am0rphous/Awesome/blob/master/README.md#finance)
-  - [Cryptocurrency](https://github.com/Am0rphous/Awesome/blob/master/README.md#cryptocurrency)
-- [Finding Software](https://github.com/Am0rphous/Awesome/blob/master/README.md#finding-software)
-  - [Looking for software, projects, courses or inspiration?](https://github.com/Am0rphous/Awesome/blob/master/README.md#looking-for-software-projects-courses-or-inspiration)
-- [Food and Drinks](https://github.com/Am0rphous/Awesome/blob/master/README.md#food-and-drinks)
-- [Games](https://github.com/Am0rphous/Awesome/blob/master/README.md#games)
-- [Geography and maps](https://github.com/Am0rphous/Awesome#geography-and-maps)
-- [Hardware](https://github.com/Am0rphous/Awesome/blob/master/README.md#hardware)
-- [InfoSec](https://github.com/Am0rphous/Awesome/blob/master/README.md#infosec)
-  - [Privacy](https://github.com/Am0rphous/Awesome/blob/master/README.md#privacy)
-  - [Security](https://github.com/Am0rphous/Awesome/blob/master/README.md#security)
-- [Learning resources](https://github.com/Am0rphous/Awesome/blob/master/README.md#learning-resources)
+- [Awesome entitled projects](#awesome-entitled-projects)
+- [Communication and Collaboration Tools](#communication-and-collaboration-tools)
+  - [E-mail](#e-mail)
+    - [Security Tools](#security-tools)
+  - [IRC](#irc)
+    - [IRC Clients](#irc-clients)
+    - [IRC Servers](#irc-servers)
+  - [Matrix](#matrix)
+  - [Secure Communication](#secure-communication)
+  - [Version Control, Wiki, Knowledge base](#version-control-wiki-knowledge-base)
+    - [CI/CD](#cicd)
+  - [VoIP](#voip)
+- [Desktop Customization](#desktop-customization)
+  - [Extensions](#extensions)
+  - [Inspiration](#inspiration)
+  - [Prevent Eyestrain](#prevent-eyestrain)
+  - [Screensavers](#screensavers)
+  - [Themes](#themes)
+  - [Wallapers](#wallpapers)
+- [Development](#development)
+  - [API](#api)
+  - [Backend](#backend)
+  - [Code Editors/IDE](#code-editors--ide)
+  - [File Managers](#file-managers)
+  - [Frontend](#frontend)
+  - [Icons](#icons)
+  - [iOS](#ios)
+  - [Linux](#linux)
+  - [Programming](#programming)
+    - [C++](#c++)
+    - [Electron](#electron)
+    - [Go](#go)
+    - [HTML](#html)
+    - [Java](#java)
+    - [JavaScript](#javascript)
+    - [JQuery](#jquery)
+    - [Matlab](#matlab)
+    - [Nim](#nim)
+    - [Node.js](#nodejs---open-source-and-cross-platform-javascript-runtime-environment)
+    - [Odin](#odin)
+    - [PHP](#php)
+    - [Python](#python)
+    - [Rust](#rust)
+    - [Vlang](#vlang)
+    - [Web](#web)
+- [E-books](#e-books)
+- [Finance](#finance)
+  - [Cryptocurrency](#cryptocurrency)
+- [Finding Software](#finding-software)
+  - [Looking for software, projects, courses or inspiration?](#looking-for-software-projects-courses-or-inspiration)
+- [Food and Drinks](#food-and-drinks)
+- [Games](#games)
+- [Geography and maps](#geography-and-maps)
+- [Hardware](#hardware)
+- [InfoSec](#infosec)
+  - [Privacy](#privacy)
+  - [Security](#security)
+- [Learning resources](#learning-resources)
 - [Multimedia](#multimedia)
   - [Image and pictures](#image-and-pictures)
     - [Graphs, Charts, Diagrams and Data Visualization](#graphs-charts-diagrams-and-data-visualization)
   - [Video](#video)
-  - [Media Servers](https://github.com/Am0rphous/Awesome/blob/master/README.md#media-servers)
-    - [Docker](https://github.com/Am0rphous/Awesome/blob/master/README.md#docker)
-    - [IP-TV](https://github.com/Am0rphous/Awesome/blob/master/README.md#ip-tv)
-  - [Music](https://github.com/Am0rphous/Awesome/blob/master/README.md#music)
-    - [Free Music](https://github.com/Am0rphous/Awesome#free-music)
-    - [Radio](https://github.com/Am0rphous/Awesome#radio)
-    - [Sound Production](https://github.com/Am0rphous/Awesome/blob/master/README.md#sound-production)
-      - [Equalizers](https://github.com/Am0rphous/Awesome/blob/master/README.md#equalizers)
-      - [Music Apps](https://github.com/Am0rphous/Awesome/blob/master/README.md#music-apps)
-      - [Podcast](https://github.com/Am0rphous/Awesome/blob/master/README.md#podcast)
-- [News, RSS Feed](https://github.com/Am0rphous/Awesome/blob/master/README.md#news-rss-feed)
-- [Productivity Tools](https://github.com/Am0rphous/Awesome/blob/master/README.md#productivity-tools)
-  - [Note Taking Apps](https://github.com/Am0rphous/Awesome/blob/master/README.md#note-taking-apps)
-    - [Pastebins](https://github.com/Am0rphous/Awesome/blob/master/README.md#pastebins)
-  - [Office Tools](https://github.com/Am0rphous/Awesome/blob/master/README.md#office-tools)
-  - [Project Management](https://github.com/Am0rphous/Awesome/blob/master/README.md#project-management)
-  - [Reference Management](https://github.com/Am0rphous/Awesome#reference-management)
-  - [Time Management](https://github.com/Am0rphous/Awesome/blob/master/README.md#time-management)
-    - [Polls](https://github.com/Am0rphous/Awesome/blob/master/README.md#polls)
-  - [Weather](https://github.com/Am0rphous/Awesome/blob/master/README.md#weather)
-- [Social Media](https://github.com/Am0rphous/Awesome#social-media)
-  - [Images](https://github.com/Am0rphous/Awesome#images)
-    - [Instagram](https://github.com/Am0rphous/Awesome#instagram)
-  - [Bloggng](https://github.com/Am0rphous/Awesome#blogging)
-  - [Music](https://github.com/Am0rphous/Awesome#music-1)
-  - [Video Hosting](https://github.com/Am0rphous/Awesome#video-hosting)
-- [Resources](https://github.com/Am0rphous/Awesome/blob/master/README.md#resources)
-- [Tools](https://github.com/Am0rphous/Awesome/blob/master/README.md#tools)
-  - [DVD-ripping](https://github.com/Am0rphous/Awesome/blob/master/README.md#dvd-ripping)
-  - [Hex](https://github.com/Am0rphous/Awesome/blob/master/README.md#hex)
-  - [Linux Tools](https://github.com/Am0rphous/Awesome#linux-tools)
-  - [Torrent](https://github.com/Am0rphous/Awesome/blob/master/README.md#torrent)
-    - [Streaming torrent](https://github.com/Am0rphous/Awesome/blob/master/README.md#streaming-torrent)
-- [Web Browsers](https://github.com/Am0rphous/Awesome/blob/master/README.md#web-browsers)
-  - [Privacy Focused](https://github.com/Am0rphous/Awesome/blob/master/README.md#privacy-focused)
-  - [Search Engines](https://github.com/Am0rphous/Awesome/blob/master/README.md#search-engines)
+  - [Media Servers](#media-servers)
+    - [Docker](#docker)
+    - [IP-TV](#ip-tv)
+  - [Music](#music)
+    - [Free Music](#free-music)
+    - [Radio](#radio)
+    - [Sound Production](#sound-production)
+      - [Equalizers](#equalizers)
+      - [Music Apps](#music-apps)
+      - [Podcast](#podcast)
+- [News, RSS Feed](#news-rss-feed)
+- [Productivity Tools](#productivity-tools)
+  - [Note Taking Apps](#note-taking-apps)
+    - [Pastebins](#pastebins)
+  - [Office Tools](#office-tools)
+  - [Project Management](#project-management)
+  - [Reference Management](#reference-management)
+  - [Time Management](#time-management)
+    - [Polls](#polls)
+  - [Weather](#weather)
+- [Social Media](#social-media)
+  - [Images](#images)
+    - [Instagram](#instagram)
+  - [Bloggng](#blogging)
+  - [Music](#music-1)
+  - [Video Hosting](#video-hosting)
+- [Resources](#resources)
+- [Tools](#tools)
+  - [DVD-ripping](#dvd-ripping)
+  - [Hex](#hex)
+  - [Linux Tools](#linux-tools)
+  - [Torrent](#torrent)
+    - [Streaming torrent](#streaming-torrent)
+- [Web Browsers](#web-browsers)
+  - [Privacy Focused](#privacy-focused)
+  - [Search Engines](#search-engines)
 
 ## Awesome Entitled Projects
 
@@ -183,15 +184,12 @@ Communicate clearly <br>
   - [Bluebubbels-server](https://github.com/BlueBubblesApp/bluebubbles-server) - Server for forwarding iMessages to clients within the BlueBubbles App ecosystem.
   - [BlueBubbles Clients](https://github.com/BlueBubblesApp/bluebubbles-app) - A cross-platform app ecosystem, bringing iMessage to Android, PC (Windows, Linux, & even macOS), and Web! [bluebubbles.app](https://bluebubbles.app/)
 - [Convos](https://convos.chat)
-- [CryptPad](https://github.com/xwiki-labs/cryptpad) - Collaboration suite, encrypted and open-source.
-- [Darkwire.io](https://github.com/darkwire/darkwire.io) - End-to-end encrypted instant web chat [https://darkwire.io](https://darkwire.io).
+
+
 - [Discord](https://discord.com/) - Discord is a VoIP, instant messaging and digital distribution platform. Users communicate with voice calls, video calls, text messaging, media and files in private chats or as part of communities called "servers". Servers are a collection of persistent chat rooms and voice chat channels. [wikipedia](https://en.wikipedia.org/wiki/Discord_(software))
   - [Eth-Price-Bot](https://github.com/hjoelh/Eth-Price-Bot) - Simple discord bot to display the current ethereum price.
 - [Discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
-- [Jami](https://git.jami.net/savoirfairelinux/ring-project) - Jami is a serverless peer-to-peer communication platform that delivers maximum privacy via end-to-end encryption. Installation e.g. `sudo snap install jami-gnome` [snapcraft.io/jami-gnome](https://snapcraft.io/jami-gnome)
-- [Jitsi Meet](https://github.com/jitsi/jitsi-meet) - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-  - [Jibri](https://github.com/jitsi/jibri) - Jitsi BRoadcasting Infrastructure. Jibri provides services for recording or streaming a Jitsi Meet conference.
-  - [Set Up Jibri for Jitsi Recording/Streaming](https://nerdonthestreet.com/s/15) - This tutorial will demonstrate how to install Jibri to add recording and streaming functionality to a Jitsi Meet server.
+
 - [Lets Chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams.
 - [Mattermost](https://mattermost.com)
   - [Mattermost Antivirus Plugin](https://github.com/mattermost/mattermost-plugin-antivirus) - Antivirus plugin for scanning files uploaded to Mattermost.
@@ -222,12 +220,7 @@ Communicate clearly <br>
   - [Rocket.Chat.RaspberryPi](https://github.com/RocketChat/Rocket.Chat.RaspberryPi)
   - [Rocket.Chat-Cryptoconvert](https://github.com/nicholasfoden/rocketchat-cryptoconvert) - rocket.chat app to convert between cryptocurrencies using the cryptocompare API.
   - [rocket-chat-denied-mask.sh](https://gist.github.com/Majunko/81e8b45f2a7588975d48be156fd38173#file-rocket-chat-denied-mask-sh) - issue [link](https://github.com/RocketChat/Rocket.Chat/issues/14562)
-- [Session](https://getsession.org/) - Session is an end-to-end encrypted messenger that minimises sensitive metadata, designed and built for people who want absolute privacy and freedom from any form of surveillance. [Session Desktop](https://github.com/oxen-io/session-desktop) - Session Desktop - Onion routing based messenge.
-- [Signal](https://www.signal.org)
-  - [Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
-  - [Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - Private Messenger for Windows, Mac, and Linux.
-  - [Signal-iOS](https://github.com/signalapp/Signal-iOS) - A private messenger for iOS.
-  - [Signal-Server](https://github.com/signalapp/Signal-Server) - Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS.
+
 - [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app.
   - [Telegram-CLI](https://github.com/vysheng/tg) - Command-line interface for Telegram.
   - [File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot) - Telegram Bot to store Posts and Documents and it can Access by Special Links.
@@ -238,7 +231,7 @@ Communicate clearly <br>
 - [Tox Chat](https://tox.chat/)
 - [Twake](https://twake.app/) - Open-source alternative to Microsoft Teams
 - [Twist](https://twist.com/home)
-- [Wire](https://github.com/wireapp/wire) - [app.wire.com](https://app.wire.com/auth/)
+
 - [YakYak](https://github.com/yakyak/yakyak) - Desktop chat client for Google Hangouts.
 - [Zulip](https://zulip.com/) - Chat for distributed teams. Slack alternative. [Github](https://github.com/zulip)
 
@@ -293,6 +286,22 @@ Communicate clearly <br>
   - [Gomuks](https://github.com/tulir/gomuks) - A terminal based Matrix client written in Go.
   - [Neochat](https://github.com/KDE/neochat) - A client for matrix, the decentralized communication protoco.
   - [Revolt](https://revolt.chat/) - An Open-Source free Alternative to Discord. [Revolt Desktop App](https://github.com/revoltchat/desktop) [Revolt Themes](https://github.com/revoltchat/themes)
+
+  ### Secure Communication
+  - [Berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network.
+  - [CryptPad](https://github.com/xwiki-labs/cryptpad) - Collaboration suite, encrypted and open-source.
+  - [Darkwire.io](https://github.com/darkwire/darkwire.io) - End-to-end encrypted instant web chat [https://darkwire.io](https://darkwire.io).
+  - [Jami](https://git.jami.net/savoirfairelinux/ring-project) - Jami is a serverless peer-to-peer communication platform that delivers maximum privacy via end-to-end encryption. Installation e.g. `sudo snap install jami-gnome` [snapcraft.io/jami-gnome](https://snapcraft.io/jami-gnome)
+  - [Jitsi Meet](https://github.com/jitsi/jitsi-meet) - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+    - [Jibri](https://github.com/jitsi/jibri) - Jitsi BRoadcasting Infrastructure. Jibri provides services for recording or streaming a Jitsi Meet conference.
+    - [Set Up Jibri for Jitsi Recording/Streaming](https://nerdonthestreet.com/s/15) - This tutorial will demonstrate how to install Jibri to add recording and streaming functionality to a Jitsi Meet server.
+  - [Session](https://getsession.org/) - Session is an end-to-end encrypted messenger that minimises sensitive metadata, designed and built for people who want absolute privacy and freedom from any form of surveillance. [Session Desktop](https://github.com/oxen-io/session-desktop) - Session Desktop - Onion routing based messenge.
+  - [Signal](https://www.signal.org)
+    - [Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
+    - [Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - Private Messenger for Windows, Mac, and Linux.
+    - [Signal-iOS](https://github.com/signalapp/Signal-iOS) - A private messenger for iOS.
+    - [Signal-Server](https://github.com/signalapp/Signal-Server) - Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS.
+  - [Wire](https://github.com/wireapp/wire) - [app.wire.com](https://app.wire.com/auth/)
 
   ### Version Control, Wiki, Knowledge base
   - [Bitbucket](https://www.atlassian.com/software/bitbucket/enterprise/data-center)
