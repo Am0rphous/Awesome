@@ -10,7 +10,7 @@
 - [Tor-Proxy](https://github.com/Narasimha1997/tor-proxy) - An experimental Tor-Proxy serivce written in Go using Go-proxy and Go-libtor.
 - [Tor Flow Chart](https://torflow.uncharted.software)
 
-## Setup
+## Setup stuff
 - [Docker: tor obfs4 bridge](https://github.com/fphammerle/docker-tor-obfs4-bridge) - Tor bridge running obfs4 obfuscation protocol in Alpine 🐳.
 - [Bridge Docker (Tor Doc)](https://community.torproject.org/relay/setup/bridge/docker/)
   - [obfs4-spec.txt](https://github.com/Yawning/obfs4/blob/master/doc/obfs4-spec.txt)
@@ -24,6 +24,7 @@
 - [Tor Browser Launcher](https://github.com/micahflee/torbrowser-launcher) - Securely and easily download, verify, install, and launch Tor Browser in Linux.
 - [Tor Relay Guide - Security](https://gitlab.torproject.org/legacy/trac/-/wikis/TorRelayGuide/Security)
 - [Tor Relay Server on Docker (Alpine)](https://github.com/chriswayg/tor-alpine) - 🐳 A Small Tor Relay Server with obfs4proxy on Alpine Linux on Docker.
+- [torsocks](https://gitweb.torproject.org/torsocks.git/)
 - [www.torproject.org/download/](https://www.torproject.org/download/)
 <br>Linux
 ````powershell
@@ -41,10 +42,10 @@ proxychains4 nmap -v 1.1.1.1 -p 80
 
 ### Nyx - problem
 - "Cannot read TOR's control_auth_cookie"
-- Run
+- Run:
 ````powershell
-sudo usermod -aG $USER debian-tor          #or sudo adduser $USER debian-tor
-#sudo chmod 644 /run/tor/control.authcookie #careful with this one
+sudo usermod -aG $USER debian-tor             #or sudo adduser $USER debian-tor
+#sudo chmod 644 /run/tor/control.authcookie   #careful with this one
 ````
 
 ## Log Files and practical commands
