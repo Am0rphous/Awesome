@@ -144,6 +144,7 @@ distribution into a Live Kit (formely known as Live CD).
   - [LineageOS](https://www.lineageos.org) - LineageOS is a custom ROM based on the Android Open Source Project with official support for a wide variety of devices. The project is the successor to the popular CyanogenMod project, focusing on system control and customization, device longevity, and privacy. For security reasons, we do not recommend third-party builds of LineageOS for unsupported devices.
 
 ## Minimal and Lightweight
+- Also check this [list](Light-weight Linux distribution)
 - [antiX Linux](https://antixlinux.com/) - Proudly anti-fascist "antiX Magic" in an environment suitable for old and new computers.
 - [ArchBang](https://archbang.org/)
 - [Bodhi Linux](https://www.bodhilinux.com/) - Lightweight distribution featuring the fast & fully customizable Moksha Desktop.
