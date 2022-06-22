@@ -25,6 +25,13 @@
 - [Tor Relay Guide - Security](https://gitlab.torproject.org/legacy/trac/-/wikis/TorRelayGuide/Security)
 - [Tor Relay Server on Docker (Alpine)](https://github.com/chriswayg/tor-alpine) - 🐳 A Small Tor Relay Server with obfs4proxy on Alpine Linux on Docker.
 - [torsocks](https://gitweb.torproject.org/torsocks.git/)
+````powershell
+sudo apt install torsocks
+torsocks curl ifconfig.me
+#Set shell to use Torsocks by default
+. torsocks on
+. torsocks off
+````
 - [www.torproject.org/download/](https://www.torproject.org/download/)
 <br>Linux
 ````powershell
