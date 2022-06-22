@@ -13,6 +13,7 @@
 - [OSI-Model](https://osi-model.com/) - The OSI Model was designed in 1977 and is part of the ISO specifications since 1984. Each OSI layer serves a unique task for network communication.
 - [qPeer](https://github.com/Quimzy/qPeer) - A peer-to-peer routing protocol to run your decentralized network.
 - [Secure Distributed Network Time Synchronization](https://github.com/Kicksecure/sdwdate) - Secure Distributed Web Date; privacy, anonymity and Tor friendly; console time fetcher and daemon; optional graphical user interface etc. Website: https://www.kicksecure.com/wiki/sdwdate 
+- [shadowsocks](https://github.com/shadowsocks/shadowsocks-rust) - shadowsocks is a fast tunnel proxy that helps you bypass firewalls.
 - [TCP ISN CPU Information Leak Protection](https://github.com/Kicksecure/tirdad) - TCP ISN CPU Information Leak Protection. TCP Initial Sequence Numbers Randomization to prevent TCP ISN based CPU Information Leaks. 
 - [Yggdrasil](https://github.com/yggdrasil-network/yggdrasil-go) - An experiment in scalable routing as an encrypted IPv6 overlay network.
 - [ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth.
