@@ -33,13 +33,6 @@
 
 Note: https://favouriteblog.com/50-best-github-artificial-intelligence/
 
-## Deep Learning
-- [Deep Learning Object Detection](https://github.com/hoya012/deep_learning_object_detection) - A paper list of object detection using deep learning. 
-- [Deep Learning (PyTorch) - ND101 v7]() - Projects and exercises for the latest Deep Learning ND program [course/deep-learning-nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101).
-- [Keras](https://github.com/keras-team/keras) - Deep Learning for humans. Keras is a deep learning API written in Python, running on top of the machine learning platform TensorFlow. It was developed with a focus on enabling fast experimentation. Being able to go from idea to result as fast as possible is key to doing good research.
-  - [DenseNet-Keras](https://github.com/flyyufelix/DenseNet-Keras) - DenseNet Implementation in Keras with ImageNet Pretrained Models.
-- [Tinygrad](https://github.com/geohot/tinygrad)
-- [TorchFusion](https://github.com/johnolafenwa/TorchFusion) - A modern deep learning framework built to accelerate research and development of AI systems.
 
 ## Detection / Recognition / Vision / Object Tracking
 - [Action-Net](https://github.com/OlafenwaMoses/Action-Net) - A dataset of images for artificial intelligence models to recognize human actions.
@@ -68,12 +61,6 @@ Note: https://favouriteblog.com/50-best-github-artificial-intelligence/
 _Convolutional neural networks power image recognition and computer vision tasks._
 - [Eyeballer](https://github.com/BishopFox/eyeballer) - Eyeballer is meant for large-scope network penetration tests where you need to find "interesting" targets from a huge set of web-based hosts. Go ahead and use your favorite screenshotting tool like normal (EyeWitness or GoWitness) and then run them through Eyeballer to tell you what's likely to contain vulnerabilities, and what isn't.
 
-
-## Machine Learning
-- [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) - Machine Learning for Cyber Security.
-- [Behaviour Suite for Reinforcement Learning (bsuite)](https://github.com/deepmind/bsuite) - bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent.
-- [Tvm](https://github.com/apache/tvm) - Open deep learning compiler stack for cpu, gpu and specialized accelerators [tvm.apache.org](https://tvm.apache.org).
-
 ## Neural Networks 
 - [CNNArchitectures](https://github.com/OlafenwaMoses/CNNArchitectures) - Code implementation of major Convolutional Neural Networks.
 
@@ -89,6 +76,9 @@ Description: _Sentiment analysis (also known as opinion mining or emotion AI) is
 - [FastText](https://github.com/facebookresearch/fastText) -  Library for fast text representation and classification.
 - [Napkin-text-analysis](https://github.com/adulau/napkin-text-analysis) - Napkin is a simple tool to produce statistical analysis of a text.
 - [Twitter Sentiment Visualisations](https://github.com/Lissy93/twitter-sentiment-visualisation) - The R&D of a sentiment analysis module, and the implementation of it on real-time social media data, to generate a series of live visual representations of sentiment towards a specific topic or by location in order to find trends.
+
+## Speech
+- [Project DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers. 
 
 ## Web
 - [Cogito-ntnu.no](https://cogito-ntnu.no)
