@@ -1,5 +1,10 @@
 # Browser extensions
 
+- [Privacy](#Privacy)
+  - [Censorship](#Censorship)
+- [Security]()
+
+<br>
 
 - [Dark Reader](https://github.com/darkreader/darkreader) - Inverts brightness of web pages and aims to reduce eyestrain while you browse the web. [darkreader.org](https://darkreader.org/)
 - [Enhancer for YouTube™](https://addons.mozilla.org/nb-NO/firefox/addon/enhancer-for-youtube/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=recommended_fallback)
@@ -26,6 +31,7 @@
   - [Development repo](https://git.synz.io/Synzvato/decentraleyes)
   - [Decentraleyes for Firefox](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)
 - [DuckDuckGo Privacy Essentials (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) - Privacy, simplified. Our add-on provides the privacy essentials you need to seamlessly take control of your personal information, no matter where the internet takes you: tracker blocking, smarter encryption, DuckDuckGo private search, and more.
+- [Enhanced iFrame Protection](https://github.com/odacavo/enhanced-iframe-protection) - A lightweight extension to automatically detect and provide verbose warnings for embedded iframe elements in order to protect against Browser-In-The-Browser (BITB) attacks. 
 - [Facebook Container](https://github.com/mozilla/contain-facebook) - Prevent Facebook from tracking your visits to other websites.
 - [FoxyProxy Standard (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard) - FoxyProxy is an advanced proxy management tool that completely replaces Firefox's limited proxying capabilities.
 - [HTTPS Everywhere](https://github.com/EFForg/https-everywhere) - A browser extension that encrypts your communications with many websites that offer HTTPS but still allow unencrypted connections. [www.eff.org/https-everywhere](https://www.eff.org/https-everywhere)
