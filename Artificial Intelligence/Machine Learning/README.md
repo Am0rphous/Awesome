@@ -22,15 +22,16 @@ Towards Deep Learning
 
 ## Reinforcement Learning
 Description: _Reinforcement learning is an area of machine learning concerned with how intelligent agents ought to take actions in an environment in order to maximize the notion of cumulative reward. Reinforcement learning is one of three basic machine learning paradigms, alongside supervised learning and unsupervised learning._ [wikipedia](https://en.wikipedia.org/wiki/Reinforcement_learning)
+- [Behaviour Suite for Reinforcement Learning (bsuite)](https://github.com/deepmind/bsuite) - bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent.
 - [Vicero](https://github.com/CogitoNTNU/vicero) - Reinforcement Learning Framework.
 
-## Learning
+## Learning ML
+- [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) - Machine Learning for Cyber Security.
 - [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 25 lessons, 50 quizzes, classic Machine Learning for all.
 - [Machine Learning for Cyber Security](https://github.com/wtsxDev/Machine-Learning-for-Cyber-Security) - Curated list of tools and resources related to the use of machine learning for cyber security.
 - [ML Course Notes](https://github.com/dair-ai/ML-Course-Notes) - Sharing course notes on all topics related to machine learning, NLP, and AI.
 - [ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses) - A place to discover the latest machine learning courses on YouTube.
 - [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
-
 
 ## Resources
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
