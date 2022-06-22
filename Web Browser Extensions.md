@@ -1,11 +1,12 @@
 # Browser extensions
+
 Table of content
 - [Privacy](#Privacy)
   - [Censorship](#Censorship)
 - [Security]()
 
 <br>
-
+<br>
 
 - [Dark Reader](https://github.com/darkreader/darkreader) - Inverts brightness of web pages and aims to reduce eyestrain while you browse the web. [darkreader.org](https://darkreader.org/)
 - [Enhancer for YouTube™](https://addons.mozilla.org/nb-NO/firefox/addon/enhancer-for-youtube/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=recommended_fallback)
