@@ -345,6 +345,8 @@ Communicate clearly <br>
 - [Docky](https://gitlab.com/docky-dock-app-linux/docky) - Docky is a full fledged dock application that makes opening common applications and managing windows easier and quicker. The official project is abandoned, so we forked it to keep the project alive.
 - [GKrellM](http://gkrellm.srcbox.net/) - single process stack of system monitors.
 - [Hardcode-Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - Fixes Hardcoded tray icons in Linux.
+- [Hypr](https://github.com/hyprwm/Hypr) - Hypr is a tiling window manager written in modern C++. 
+- [Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks. 
 - [Plank](https://github.com/ricotz/plank) - Simple dock. Configure `plank   --preferences`
 - [Polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar 
   - [Polybar Collection](https://github.com/Murzchnvok/polybar-collection) - Beautiful collection of Polybar themes 
