@@ -51,10 +51,12 @@ Note: https://favouriteblog.com/50-best-github-artificial-intelligence/
 - [Traffic-Net](https://github.com/OlafenwaMoses/Traffic-Net) - A dataset of traffic, fire and accident images for training deep learning models.
 - [Yolov4-deepsort by theAIGuysCode ](https://github.com/theAIGuysCode/yolov4-deepsort) - Object tracking implemented with YOLOv4, DeepSort, and TensorFlow.
   - [Roboflow Object Tracking Example](https://github.com/roboflow-ai/zero-shot-object-tracking) - Object tracking implemented with the Roboflow Inference API, DeepSort, and OpenAI CLIP.
+
  ### Face / Emotions
-- [Detect Eyes and Detect Faces in Python](https://copyassignment.com/detect-eyes-and-detect-faces-in-python-and-opencv/)
-- [Emotime](https://github.com/luca-m/emotime) - Recognizing emotional states in faces 
-- [FacEmoji](https://github.com/PiotrDabrowskey/facemoji) - Detects face and its emotion, draws according emoji over face.
+ - [Deep-PoC](https://github.com/PoCInnovation/Deep-PoC) - Deep-PoC is a deepFake detection tool designed to detect deepfakes from videos or images using artificial intelligence. 
+ - [Detect Eyes and Detect Faces in Python](https://copyassignment.com/detect-eyes-and-detect-faces-in-python-and-opencv/)
+ - [Emotime](https://github.com/luca-m/emotime) - Recognizing emotional states in faces 
+ - [FacEmoji](https://github.com/PiotrDabrowskey/facemoji) - Detects face and its emotion, draws according emoji over face.
 
 
 ## Convolutional neural network
