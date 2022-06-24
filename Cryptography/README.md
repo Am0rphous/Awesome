@@ -8,6 +8,7 @@
 - [DEScrypto](https://github.com/DedSecInside/DEScrypto) - DES Encrypter/Decrypter.
 - [Encrypting Kali Setup Tutorial (working pr. 10.11.20)](https://www.informaticar.net/how-to-manually-partition-and-encrypt-kali-linux/)
 - [End-to-end](https://github.com/google/end-to-end) - End-To-End is a crypto library to encrypt, decrypt, digital sign, and verify signed messages (implementing OpenPGP).
+- [fr/tools-list#Cryptography](https://www.dcode.fr/tools-list#Cryptography)
 - [GEA1_break](https://github.com/airbus-seclab/GEA1_break) - Implementation of the key recovery attack against GEA-1 keys (Eurocrypt 2021).
 - [GnuPGP](https://gnupg.org/) - The GNU Privacy Guard. GnuPG is a complete and free implementation of the OpenPGP standard as defined by RFC4880 (also known as PGP). GnuPG allows you to encrypt and sign your data and communications; it features a versatile key management system, along with access modules for all kinds of public key directories. GnuPG, also known as GPG, is a command line tool with features for easy integration with other applications. A wealth of frontend applications and libraries are available. GnuPG also provides support for S/MIME and Secure Shell (ssh).
   - [EasyGPG](https://github.com/guelfoweb/easygpg) - Zenity GUI to manage GPG keys.
