@@ -870,7 +870,7 @@ Based on that data, you can find the most popular ones and their alternatives.
 
   ### Office Tools
   - [Apache OpenOffice](https://www.openoffice.org/)
-  - [Calligra](https://calligra.org/) - Calligra Suite is an office and graphic art suite by KDE. It is available for desktop PCs, tablet computers, and smartphones. It contains applications for word processing, spreadsheets, presentation, vector graphics, and editing databases. [Development](https://invent.kde.org/office/calligra)
+  - [Calligra](https://calligra.org/) - Calligra Suite is an office and graphic art suite by KDE. It is available for desktop PCs, tablet computers, and smartphones. It contains applications for word processing, spreadsheets, presentation, vector graphics, and editing databases. [Development](https://invent.kde.org/office/calligra) Install: `sudo apt install calligra`
     - [KEXI](https://calligra.org/kexi/index.html) - KEXI is a visual database applications creator. It can be used for designing database applications, inserting and editing data, performing queries, and processing data. Forms can be created to provide a custom interface to your data. All database objects – tables, queries, forms, reports – are stored in the database, making it easy to share data and design. Install: `sudo apt install kexi`
     - [Sheets](https://calligra.org/sheets/index.html) - Calligra Sheets is a fully-featured spreadsheet application. Use it to quickly create spreadsheets with formulas and charts, to calculate and organize your data. 
     - [Stage](https://calligra.org/stage/index.html) - Calligra Stage is a powerful and easy to use presentation application.You can dazzle your audience with stunning slides containing images, videos, animation and more.
