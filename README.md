@@ -473,6 +473,7 @@ sudo apt-get install redshift-gtk
   
   ### Linux
   - [Akira](https://github.com/akiraux/Akira) - Native Linux App for UI and UX Design built in Vala and GTK.
+  - [bauh](https://github.com/vinifmor/bauh) - Graphical user interface for managing your Linux applications. Supports AppImage, Arch packages (including AUR), Debian packages, Flatpak, Snap and native Web applications 
   - [Inspirational designs for Linux apps](https://dribbble.com/tags/linux_app)
   - [Make Apps for Linux](https://makealinux.app/#/)
   
