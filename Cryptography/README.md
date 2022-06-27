@@ -3,6 +3,7 @@
 - [Ciphey](https://github.com/Ciphey/Ciphey) - Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes
 - [CSCI-462](https://github.com/sarah-dill/CSCI-462) - Contains scripts from the class CSCI-462 Introduction to Cryptography 
 - [Crypto](https://developer.mozilla.org/en-US/docs/Web/API/Crypto) - The Crypto interface represents basic cryptography features available in the current context. It allows access to a cryptographically strong random number generator and to cryptographic primitives.
+- [Cryptofuzz](https://github.com/guidovranken/cryptofuzz) - Fuzzing cryptographic libraries. Magic bug printer go brrrr. 
 - [CryptoHack.org](https://cryptohack.org/) - A fun free platform for learning modern cryptography.
 - [Dcipher](https://github.com/k4m4/dcipher) - Decipher hashes using online rainbow & lookup table attack services.
 - [DEScrypto](https://github.com/DedSecInside/DEScrypto) - DES Encrypter/Decrypter.
