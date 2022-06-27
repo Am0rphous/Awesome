@@ -347,6 +347,7 @@ Communicate clearly <br>
 - [Hardcode-Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - Fixes Hardcoded tray icons in Linux.
 - [Hypr](https://github.com/hyprwm/Hypr) - Hypr is a tiling window manager written in modern C++. 
 - [Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks. 
+- [linux-desktop-environment-tool-cli](https://github.com/LinuxEuphony/linux-desktop-environment-tool-cli) - This script helps Debian and Ubuntu users install the below desktop environments from a list of options on a terminal menu. It also has an uninstall option for the installed desktop environments. The script will update system packages and upgrade software packages before installing or uninstalling any desktop environment. 
 - [Plank](https://github.com/ricotz/plank) - Simple dock. Configure `plank   --preferences`
 - [Polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar 
   - [Polybar Collection](https://github.com/Murzchnvok/polybar-collection) - Beautiful collection of Polybar themes 
