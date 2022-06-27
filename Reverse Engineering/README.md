@@ -3,7 +3,7 @@
 
 
 
-
+- [Awesome-Malware-Analysis-Reverse-Engineering](https://github.com/CyberSecurityUP/Awesome-Malware-Analysis-Reverse-Engineering)
 - [Awesome Reverse Engineering](https://github.com/alphaSeclab/awesome-reverse-engineering) - Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT) And Every Aspect! (More than 3500 open source tools and 2300 posts&videos).
 - [CyberChef](https://github.com/gchq/cyberchef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis.
   - [Cyberchef Recipes](https://github.com/mattnotmax/cyberchef-recipes) - A list of cyber-chef recipes and curated links.
