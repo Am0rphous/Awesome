@@ -82,7 +82,6 @@ _“Intelligence is the ability to avoid doing work, yet getting the work done -
   - [Virtual Machines](#virtual-machines)
   - [Hypervisors](#hypervisors)
     - [VM prep](#vm-prep)
-  - [Machines](#machines)
 - [Web and Proxy Tools](#web-and-proxy-tools)
   - [Certificates](#certificates)
   - [Security](#security)
