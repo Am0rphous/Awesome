@@ -1,23 +1,23 @@
 
 # Operating systems
 
-- [A list of web resources](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#a-list-of-web-resources)
-- [BOOT / BIOS](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#boot--bios)
-- [Create Your Own Custom Linux OS](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#create-your-own-custom-linux-os)
-- [Country Specific](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#country-specific)
-- [Desktop OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#desktop-oses)
-  - [Privacy and security focused Desktops](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#privacy-and-security-focused-desktops)
-- [Educational OS'es](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#educational-oses)
-- [IoT, embedded devices, tablets](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#iot-embedded-devices-tablets)
-  - [Mobile Operating Systems](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#mobile-operating-systems)
-    - [Android-based Operating Systems](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#android-based-operating-systems)
-- [Minimal and Lightweight](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#minimal-and-lightweight)
-- [Pen-testing and security auditing](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#pen-testing-and-security-auditing)
-- [Router and Firewall OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#router-and-firewall-oses)
-- [Server OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#server-oses)
-  - [NAS](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#nas)
-- [Unix OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#unix-oses)
-- [Virtualization](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#virtualization)
+- [A list of web resources](#a-list-of-web-resources)
+- [BOOT / BIOS](#boot--bios)
+- [Create Your Own Custom Linux OS](#create-your-own-custom-linux-os)
+- [Country Specific](#country-specific)
+- [Desktop OSes](#desktop-oses)
+  - [Privacy and security focused Desktops](#privacy-and-security-focused-desktops)
+- [Educational OS'es](#educational-oses)
+- [IoT, embedded devices, tablets](#iot-embedded-devices-tablets)
+  - [Mobile Operating Systems](#mobile-operating-systems)
+    - [Android-based Operating Systems](#android-based-operating-systems)
+- [Minimal and Lightweight](#minimal-and-lightweight)
+- [Pen-testing and security auditing](#pen-testing-and-security-auditing)
+- [Router and Firewall OSes](#router-and-firewall-oses)
+- [Server OSes](#server-oses)
+  - [NAS](#nas)
+- [Unix OSes](#unix-oses)
+- [Virtualization OSes](#virtualization-oses)
 
 <br> <br>
 
@@ -218,7 +218,7 @@ distribution into a Live Kit (formely known as Live CD).
 - [Midnight BSD](https://www.midnightbsd.org)
 - [Open BSD](https://www.openbsd.org)
 
-## Virtualization
+## Virtualization OSes
 - [Citrix XenServer](https://docs.citrix.com/en-us/xenserver.html)
 - [Xen XCP-ng](https://xcp-ng.org/) - Open source virtualization solution with pro support options for the most demanding companies. 
 
