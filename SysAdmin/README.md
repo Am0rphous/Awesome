@@ -1181,6 +1181,7 @@ upstream_recursive_servers:
   - [SquidGuard](http://www.squidguard.org)
 - [tcp-over-http](https://github.com/neex/tcp-over-http#current-status) - This program is just a proxy server which multiplexes TCP connections into an HTTPS. The primary purpose is to make all connections look like legitimate ones for firewalls (including DPI).
 - [Tinyproxy](https://github.com/tinyproxy/tinyproxy) - Tinyproxy is a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems.
+- [tun2socks](https://github.com/xjasonlyu/tun2socks) - tun2socks - powered by gVisor TCP/IP stack 
 - [Venom](https://github.com/Dliv3/Venom) - _A Multi-hop Proxy for Penetration Testers._
 - [Wordpress](https://wordpress.com/)
   - [Automattic's Free Themes](https://github.com/Automattic/themes) - WordPress.com themes.
