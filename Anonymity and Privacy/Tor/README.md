@@ -25,11 +25,13 @@
 - [Tor Relay Server on Docker (Alpine)](https://github.com/chriswayg/tor-alpine) - 🐳 A Small Tor Relay Server with obfs4proxy on Alpine Linux on Docker.
 - [torsocks](https://gitweb.torproject.org/torsocks.git/)
 ````powershell
-sudo apt install torsocks
-torsocks curl ifconfig.me
-#Set shell to use Torsocks by default
-. torsocks on
-. torsocks off
+sudo apt install torsocks             #Linux
+brew install torsocks                 #macOS
+ . torsocks on                        #Set your current shell in Tor mode
+ . torsocks off
+torsocks curl ifconfig.me             #shows your Tor IP
+torsocks ssh user@host.com -p 1234    #SSH over Tor
+
 ````
 - [www.torproject.org/download/](https://www.torproject.org/download/)
 <br>Linux
