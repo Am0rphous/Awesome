@@ -2,9 +2,9 @@
 
 <br>
 
-<p align="center">"A good admin is a paranoid one. A better admin is both paranoid and prepared. - Unknown"
+<p align="center">"A good admin is a paranoid one. A better admin is both paranoid and prepared - Unknown"
 <br>
-“Intelligence is the ability to avoid doing work, yet getting the work done - Linux Torvald"
+"Intelligence is the ability to avoid doing work, yet getting the work done - Linux Torvald"
 </p>
 <br>
 
