@@ -4,7 +4,7 @@
 
 <br>
 
-- [Checkip](https://github.com/jreisinger/checkip) - Check an IP address using various public services.
+- [Checkip](https://github.com/jreisinger/checkip) -  Get (security) info about IP addresses.
 - [Cidranger](https://github.com/yl2chen/cidranger) - Fast IP to CIDR lookup in Golang.
 - [Darknet-tools](https://cybercoplabs.net/article/darknet-tools)
 - [Firehol's blocklist-ipsets](https://github.com/firehol/blocklist-ipsets) - ipsets dynamically updated with firehol's update-ipsets.sh script.
