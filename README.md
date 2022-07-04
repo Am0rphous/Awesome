@@ -1,4 +1,4 @@
-_"Freely accessing knowledge is an essential human right. Knowledge is the foundation for human potential, freedom and opportunity and everyone should have access to knowledge for free, without any restriction or limitation."_ - [Linuxbabe.com](https://www.linuxbabe.com)
+<p align="center"> <i>"Freely accessing knowledge is an essential human right. Knowledge is the foundation for human potential, freedom and opportunity and everyone should have access to knowledge for free, without any restriction or limitation." - [Linuxbabe.com](https://www.linuxbabe.com) </i>
 
 <p align="center">
 Don't break simplicity - KISS <br>
