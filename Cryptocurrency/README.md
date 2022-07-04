@@ -15,6 +15,7 @@
 - [BTC Recover](https://github.com/gurnec/btcrecover) - An open source Bitcoin wallet password and seed recovery tool designed for the case where you already know most of your password/seed, but need assistance in trying different possible combinations.
 - [How can I setup Bitcoin to be anonymous with Tor?](https://bitcoin.stackexchange.com/questions/70069/how-can-i-setup-bitcoin-to-be-anonymous-with-tor)
 - [How to Host a Bitcoin Full Node on a Raspberry Pi B+](https://gist.github.com/alexanderjsingleton/70fbf4db00a91d54545db7006b54fe27)
+- [PlanB](https://planbtc.com/) - PlanB @100trillionUSD is a former institutional investor with 25 years of experience in financial markets. In March 2019 he created the bitcoin Stock-to-Flow (S2F) model. Currently his main focus is on bitcoin analysis, investing and trading. 
 
 
 ## Charts
