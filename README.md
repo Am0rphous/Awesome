@@ -588,7 +588,7 @@ sudo apt-get install redshift-gtk
 
 ## Finding Software
 - [All AWESOME Linux Applications and Tools](https://www.fossmint.com/awesome-linux-software/)
-- [Flathub](https://flathub.org/home)
+- [Flathub](https://flathub.org/home) - Apps for Linux
 - [FossHub](https://www.fosshub.com/) - Free Open-Source Software
 - [Gnome Apps](https://wiki.gnome.org/Apps)
 - [LibHUnt](https://www.libhunt.com/)
@@ -890,6 +890,7 @@ Based on that data, you can find the most popular ones and their alternatives.
     - [Installing FreeOffice for Linux](https://www.freeoffice.com/en/service/tips-and-tricks/linux)
   - [Libre Cloud Services](https://www.opendesktop.org/)
   - [Libre Office](https://www.libreoffice.org/)
+  - [OnlyOffice](https://www.onlyoffice.com) - Office productivity suite. [Flatpak](https://flathub.org/apps/details/org.onlyoffice.desktopeditors)
   - [SoftMaker Office](https://www.softmaker.com/en/softmaker-office-download) - Free for 30 days.
   - [TagSpaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support.
   ### Project Management
