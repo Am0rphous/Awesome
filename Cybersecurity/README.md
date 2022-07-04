@@ -1,11 +1,11 @@
-# Cybersecurity and System Administrator Tools
+# Cybersecurity & SysAdmin Tools
 
 <br>
 
-_"A good admin is a paranoid one. A better admin is both paranoid and prepared. - Unknown"_ 
+<p align="center">_"A good admin is a paranoid one. A better admin is both paranoid and prepared. - Unknown"_ 
 <br> <br>
 _“Intelligence is the ability to avoid doing work, yet getting the work done - Linux Torvald"_
-
+</p>
 <br>
 
 - [Active Directory & LDAP](#active-directory--ldap)
