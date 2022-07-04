@@ -16,6 +16,7 @@
 - [shadowsocks](https://github.com/shadowsocks/shadowsocks-rust) - shadowsocks is a fast tunnel proxy that helps you bypass firewalls.
   - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX 
 - [TCP ISN CPU Information Leak Protection](https://github.com/Kicksecure/tirdad) - TCP ISN CPU Information Leak Protection. TCP Initial Sequence Numbers Randomization to prevent TCP ISN based CPU Information Leaks. 
+- [Whoami Project](https://github.com/omer-dogan/kali-whoami) - Whoami is a privacy tool developed to keep you anonymous on Kali Linux at the highest level.
 - [Yggdrasil](https://github.com/yggdrasil-network/yggdrasil-go) - An experiment in scalable routing as an encrypted IPv6 overlay network.
 - [ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth.
 
