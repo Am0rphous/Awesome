@@ -1,6 +1,5 @@
 ## The Onion Router
 
-- [How can I setup Bitcoin to be anonymous with Tor?](https://bitcoin.stackexchange.com/questions/70069/how-can-i-setup-bitcoin-to-be-anonymous-with-tor)
 - [How to route all the machine Traffic Through TOR in Kali Linux ](https://ourcodeworld.com/articles/read/953/how-to-route-all-the-machine-traffic-through-tor-in-kali-linux)
 - [Expose server behind NAT with Tor](https://golb.hplar.ch/2019/01/expose-server-tor.html)
 - [Multitor](https://github.com/trimstray/multitor) - Create multiple TOR instances with a load-balancing.
