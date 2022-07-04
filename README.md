@@ -11,7 +11,8 @@ Communicate clearly <br>
 </p>
 
  <br> <br>
-# Table of content
+<h2>Table of content</h2>
+
 - [Awesome entitled projects](#awesome-entitled-projects)
 - [Communication and Collaboration Tools](#communication-and-collaboration-tools)
   - [E-mail](#e-mail)
