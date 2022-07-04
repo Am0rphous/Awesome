@@ -23,7 +23,7 @@ The ost recent emagazines at the top.
 - November [Cyber Defense eMagazine](https://www.cyberdefensemagazine.com/newsletters/november-2021/CDM-CYBER-DEFENSE-eMAGAZINE-November-2021.pdf)
 - October [Cyber Defense eMagazine](https://www.cyberdefensemagazine.com/newsletters/october-2021/CDM-CYBER-DEFENSE-eMAGAZINE-October-2021.pdf)
 - September [Cyber Defense eMagazine](https://www.cyberdefensemagazine.com/newsletters/september-2021/CDM-CYBER-DEFENSE-eMAGAZINE-September-2021.pdf)
-- August [Cyber Defense eMagazine](https://www.cyberdefensemagazine.com/newsletters/august-2021/CDM-CYBER-DEFENSE-eMAGAZINE-august-2021.pdf)
+- August [Cyber Defense eMagazine](https://www.cyberdefensemagazine.com/newsletters/august-2021/CDM-CYBER-DEFENSE-eMAGAZINE-August-2021.pdf)
 - July [Cyber Defense eMagazine](https://www.cyberdefensemagazine.com/newsletters/july-2021/CDM-CYBER-DEFENSE-eMAGAZINE-July-2021.pdf)
 - June [Cyber Defense eMagazine](https://www.cyberdefensemagazine.com/newsletters/june-2021/CDM-CYBER-DEFENSE-eMAGAZINE-June-2021.pdf)
 - May [Cyber Defense eMagazine](https://www.cyberdefensemagazine.com/newsletters/may-2021/CDM-CYBER-DEFENSE-eMAGAZINE-May-2021.pdf)
