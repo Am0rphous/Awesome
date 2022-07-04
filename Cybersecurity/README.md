@@ -379,6 +379,7 @@ bro / zeek
 - [OnionShare](https://github.com/micahflee/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network [onionshare.org](https://onionshare.org).
 - [Piping-server](https://github.com/nwtgck/piping-server) - Infinitely transfer between every device over pure HTTP: designed for everyone including people using Unix pipe and even for browser users.
   - [piping-ui.org](https://piping-ui.org)
+- [portal](https://github.com/jackyzha0/portal) - 🔗 zero-config peer-to-peer encrypted live folder syncing that respects your `.gitignore` 
 - [ProFTPD](https://github.com/proftpd/proftpd) - ProFTPD source code.
 - [PURE-FTPD](https://github.com/jedisct1/pure-ftpd) - Pure FTP server. [www.pureftpd.org](https://www.pureftpd.org)
 - [Qrcp](https://github.com/claudiodangelis/qrcp) - ⚡ Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
