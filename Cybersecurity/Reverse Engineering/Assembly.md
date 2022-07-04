@@ -1,7 +1,10 @@
 # Assembly notes
 
 - [Hex to Binary converter](https://www.rapidtables.com/convert/number/hex-to-binary.html)
-- [x86reference](https://github.com/Barebit/x86reference) - X86 Opcode and Instruction Reference: [http://ref.x86asm.net](http://ref.x86asm.net)
+- [x86-64 Assembly Language Summary](https://docs.google.com/document/d/1hwABu-SL6u2cdhVkjOCUU6T0UyALujep1NfwYfQzWSo/edit#)
+- [x86 Assembly Guide](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
+- [x86 Instructions](https://www.aldeid.com/wiki/X86-assembly/Instructions)
+- [x86 Reference](https://github.com/Barebit/x86reference) - X86 Opcode and Instruction Reference: [http://ref.x86asm.net](http://ref.x86asm.net)
 
 <br>
 
