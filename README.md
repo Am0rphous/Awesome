@@ -1,4 +1,4 @@
-<p align="center"> <i>"Freely accessing knowledge is an essential human right. Knowledge is the foundation for human potential, freedom and opportunity and everyone should have access to knowledge for free, without any restriction or limitation. <a href="[https://www.example.com/](https://www.linuxbabe.com)" title="Linuxbabe.com">Linuxbabe.com</a> </i>
+<p align="center"> <i>"Freely accessing knowledge is an essential human right. Knowledge is the foundation for human potential, freedom and opportunity and everyone should have access to knowledge for free, without any restriction or limitation. <a href="https://www.linuxbabe.com" title="Linuxbabe.com">Linuxbabe.com</a> </i> </p>
  
 
  
