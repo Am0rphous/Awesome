@@ -1,6 +1,6 @@
 # Cyber Defense eMagazines
 
-The ost recent emagazines at the top.
+The most recent emagazines at the top.
 
 ## 2022
 - December [~~Cyber Defense eMagazine~~](https://www.cyberdefensemagazine.com/newsletters/december-2022/CDM-CYBER-DEFENSE-eMAGAZINE-December-2022.pdf)
