@@ -2,7 +2,7 @@
 
 - [The future of IoT: 10 predictions about the Internet of Things](https://us.norton.com/internetsecurity-iot-5-predictions-for-the-future-of-iot.html)
 
-<h2> Various IoT devices</h2>
+<h3> List of various IoT devices</h3>
 
 - [Adafruit](https://www.adafruit.com/)
 - [Arduino](https://www.arduino.cc/)
