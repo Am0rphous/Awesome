@@ -1,5 +1,6 @@
 # IoT
 
+- [4 key areas where AI and IoT are being combined ](https://www.weforum.org/agenda/2021/03/ai-is-fusing-with-the-internet-of-things-to-create-new-technology-innovations/)
 - [The future of IoT: 10 predictions about the Internet of Things](https://us.norton.com/internetsecurity-iot-5-predictions-for-the-future-of-iot.html)
 
 <h3> List of various IoT devices</h3>
