@@ -209,6 +209,7 @@ bro / zeek
 - [Kjackal](https://github.com/dgoulet/kjackal) - Linux Rootkit Scanner 
 - [Malware-ioc by ESET](https://github.com/eset/malware-ioc) - Indicators of Compromises (IOC) of our various investigations.
 - [Microsoft Safety Scanner](https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/safety-scanner-download) - Microsoft Safety Scanner is a scan tool designed to find and remove malware from Windows computers.
+- [Moneta](https://github.com/forrest-orr/moneta) - Moneta is a live usermode memory analysis tool for Windows with the capability to detect malware IOCs.
 - [Penne](https://github.com/Penetrum-Security/Penne) - Penne is an opensource AV (anti-virus) developed by Penetrum LLC.
 - [Phishdetect-node](https://github.com/phishdetect/phishdetect-node) - Server component of PhishDetect.
 - [PHP Malware Finder](https://github.com/jvoisin/php-malware-finder) - Does its very best to detect obfuscated/dodgy code as well as files using PHP functions often used in malwares/webshells.
