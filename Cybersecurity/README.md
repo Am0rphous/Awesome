@@ -345,8 +345,6 @@ bro / zeek
 - [Sentroa Hosting Web GUI](http://www.sentora.org/)
 - [VestaCP](https://ajenti.org/)
 - [Webmin](https://webmin.com/)
-### PowerShell
-- [Carbon](http://get-carbon.org/) - Carbon is a PowerShell module for automating the configuration of computers running Windows.
 
 ## Databases
 - [CockroachDB](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database. 
