@@ -116,31 +116,31 @@
 - [WebThings Gateway](https://iot.mozilla.org/gateway/) - An open platform for monitoring and controlling devices over the web.
 - [Windows IoT Core](https://www.microsoft.com/en-us/software-download/windows10iotcore)
 
- ### Operatingsystems for gaming
-   - [Batocera.linux](https://github.com/batocera-linux/batocera.linux) - [www.batocera.org](https://batocera.org)
-   - [Lakka](https://github.com/libretro/Lakka-LibreELEC) - Lakka is a lightweight Linux distribution that transforms a small computer into a full blown retrogaming console [lakka.tv](http://www.lakka.tv).
-   - [RetroArch](https://github.com/libretro/RetroArch) - RetroArch is a frontend for emulators, game engines and media players [www.retroarch.com](https://www.retroarch.com).
-     - Install it as a snap package with `sudo snap install retroarch`
-   - [RetroPie](https://retropie.org.uk/) - RetroPie allows you to turn your Raspberry Pi, ODroid C1/C2, or PC into a retro-gaming machine [RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup).
-     - [Arcade Punkz](https://www.arcadepunks.com/download-raspberry-pi-4-images/) - The website for all things arcade, gaming and fun. Retro, Pi, Hyperspin, PC, Board based, downloads and much more.
-     - [Bezel Project](https://github.com/thebezelproject/BezelProject) - This utility provides a download for a bezel pack for a system and includes a PNG bezel file for every ROM.
-     - [GLSL Shaders](https://github.com/libretro/glsl-shaders) - Graphic pipeline presets to render pixel lighting and [shading effects](https://retropie.org.uk/docs/Shaders-and-Smoothing/).
-     - [HurstyThemes](https://github.com/RetroHursty69/HurstyThemes) - RetroPie [Emulation Station](https://retropie.org.uk/docs/EmulationStation/) themes downloader.
+  ### Operatingsystems for gaming
+  - [Batocera.linux](https://github.com/batocera-linux/batocera.linux) - [www.batocera.org](https://batocera.org)
+  - [Lakka](https://github.com/libretro/Lakka-LibreELEC) - Lakka is a lightweight Linux distribution that transforms a small computer into a full blown retrogaming console [lakka.tv](http://www.lakka.tv).
+  - [RetroArch](https://github.com/libretro/RetroArch) - RetroArch is a frontend for emulators, game engines and media players [www.retroarch.com](https://www.retroarch.com).
+    - Install it as a snap package with `sudo snap install retroarch`
+  - [RetroPie](https://retropie.org.uk/) - RetroPie allows you to turn your Raspberry Pi, ODroid C1/C2, or PC into a retro-gaming machine [RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup).
+    - [Arcade Punkz](https://www.arcadepunks.com/download-raspberry-pi-4-images/) - The website for all things arcade, gaming and fun. Retro, Pi, Hyperspin, PC, Board based, downloads and much more.
+    - [Bezel Project](https://github.com/thebezelproject/BezelProject) - This utility provides a download for a bezel pack for a system and includes a PNG bezel file for every ROM.
+    - [GLSL Shaders](https://github.com/libretro/glsl-shaders) - Graphic pipeline presets to render pixel lighting and [shading effects](https://retropie.org.uk/docs/Shaders-and-Smoothing/).
+    - [HurstyThemes](https://github.com/RetroHursty69/HurstyThemes) - RetroPie [Emulation Station](https://retropie.org.uk/docs/EmulationStation/) themes downloader.
 
-     #### Gaming Software
-     - [dosbox / dosbox-staging](https://github.com/dosbox-staging/dosbox-staging) - DOS/x86 emulator focusing on ease of use.
-       - Install with `sudo apt install dosbox`
+    #### Gaming Software
+    - [dosbox / dosbox-staging](https://github.com/dosbox-staging/dosbox-staging) - DOS/x86 emulator focusing on ease of use.
+      - Install with `sudo apt install dosbox`
 
 ## Projects
 - [AmpliPi](https://github.com/micro-nova/AmpliPi) - Whole House Audio System 🔊
 
-### Weather Station
-- [Linux Weather Station Tutorial/inspo](https://www.landoflinux.com/linux_raspberry_pi_weather_station.html) - how to set up a Weather Station and a Raspberry Pi.
-  - [WeeWX](http://weewx.com) - free, open source, software program, written in Python, which interacts with your weather station to produce graphs, reports, and HTML pages.
-  - [WX Forum](https://www.wxforum.net/)
-- Netamo
-  - [CBatmo](https://github.com/Gulivertx/cbatmo) - A Netatmo Weather Station Web-APP for Raspberry Pi & official Raspberry touchscreen.
-- [Web-rpi-fm](https://github.com/dawiddyd/web-rpi-fm) - Web interface for Raspberry Pi fm transmitter. Made using Vue.js and Python.
+  ### Weather Station
+  - [Linux Weather Station Tutorial/inspo](https://www.landoflinux.com/linux_raspberry_pi_weather_station.html) - how to set up a Weather Station and a Raspberry Pi.
+    - [WeeWX](http://weewx.com) - free, open source, software program, written in Python, which interacts with your weather station to produce graphs, reports, and HTML pages.
+    - [WX Forum](https://www.wxforum.net/)
+  - Netamo
+    - [CBatmo](https://github.com/Gulivertx/cbatmo) - A Netatmo Weather Station Web-APP for Raspberry Pi & official Raspberry touchscreen.
+  - [Web-rpi-fm](https://github.com/dawiddyd/web-rpi-fm) - Web interface for Raspberry Pi fm transmitter. Made using Vue.js and Python.
 
 ## Software for the Raspberry
 - [Audio Reactive LED Strip](https://github.com/scottlawsonbc/audio-reactive-led-strip) - 🎵 🌈 Real-time LED strip music visualization using Python and the ESP8266 or Raspberry Pi.
@@ -170,4 +170,5 @@
 - [TinyUSB](https://github.com/hathach/tinyusb) - _An open source cross-platform USB stack for embedded system._
 
 ### Virtualization
+- Also check out LXC, LXD, KVM, Docker and Xen
 - [Pimox](https://github.com/pimox/pimox7) - Proxmox V7 for Raspberry Pi.
