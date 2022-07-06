@@ -2,8 +2,6 @@
 <br>
 
 #### Table of content
-- [Ad-block software](#ad-block-software)
-  - [BlackList](#blacklists)
 - [Guides, Help and Setup](#guides-help-and-setup)
 - [Home Automation Software](#home-automation-software)
 - [Magic Mirror repos](#magic-mirror-repos)
@@ -19,16 +17,6 @@
 <br>
 <br>
 
-## Ad-block software
-- [Blocky](https://github.com/0xERR0R/blocky) - DNS proxy as ad-blocker for local network.
-- [PiHole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements.
-  - [Docker Pi-hole](https://github.com/pi-hole/docker-pi-hole) -  Pi-hole in a docker container.
-- [AdGuard](https://github.com/AdguardTeam/AdguardHome) - Network-wide ads & trackers blocking DNS server.
-  - [AdGuard-WireGuard-Unbound-DNScrypt](https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt) - The ultimate self-hosted network security guide ─ Protection | Privacy | Performance for your network 24/7 Accessible anywhere 
-  ### BlackLists
-  - [Black-Mirror](https://github.com/T145/black-mirror) - _Automatically maintained malicious host blacklists and false-positive whitelists._
-  - [DNSblacklist](https://github.com/farhanfaisal/DNSblacklist) - _A shell script to download malware domains from various sources, and configuring unbound DNS config file to be used as a local recursive DNS server._
-  - [Exposure: Finding Malicious Domains Using Passive DNS Analysis](https://www.ndss-symposium.org/wp-content/uploads/2017/09/bilge2.pdf)
 
 ## Guides, Help and Setup
 - [Official Raspberry Pi Beginnger's Guide](https://www.raspberrypi.org/magpi-issues/Beginners_Guide_v1.pdf)
