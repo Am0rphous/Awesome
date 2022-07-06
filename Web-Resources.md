@@ -5,7 +5,7 @@
   - [Norwegian Sources](#Norwegian-Sources)
 - [Forums and blogs](#forums-and-blogs)
 - [Games](#games)
-  - [Hacker Simolator](#hacker-simulator)
+  - [Hacker Simulator](#hacker-simulator)
 - [Intel](#intel)
   - [Norway](#norway)
     - [PST - Norwegian Threat Assessments](#pst---norwegian-threat-assessments)
