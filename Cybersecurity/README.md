@@ -119,6 +119,7 @@ bro / zeek
 
 - [Knowledge](https://github.com/jturgasen/my-links)
 
+
 ## Active Directory & LDAP
 - [Apache Directory Studio](https://directory.apache.org/studio/) - complete directory tooling platform intended to be used with any LDAP server however it is particularly designed for use with ApacheDS. 
 - [FreeIPA](https://github.com/freeipa/freeipa) -  Mirror of FreeIPA, an integrated security information management solution. [freeipa.org](https://www.freeipa.org)
@@ -129,6 +130,8 @@ bro / zeek
   - [WatchAD](https://github.com/0Kee-Team/WatchAD) - AD Security Intrusion Detection System.
     - [WatchAD-Web](https://github.com/0Kee-Team/WatchAD-Web) - A simple web platform for WatchAD.
   - [WinPwn](https://github.com/S3cur3Th1sSh1t/WinPwn) - Automation for internal Windows Penetrationtest / AD-Security.
+
+
 
 ## Ad-block and Spam
 - [AdGuard](https://github.com/AdguardTeam/AdguardHome) - Network-wide ads & trackers blocking DNS server.
@@ -149,9 +152,15 @@ bro / zeek
   - [Docker Pi-hole](https://github.com/pi-hole/docker-pi-hole) -  Pi-hole in a docker container.
   - [PADD](https://github.com/pi-hole/PADD) - PADD (formerly Chronometer2) is a more expansive version of the original chronometer.sh that is included with Pi-Hole. PADD provides in-depth information about your Pi-hole.
 - [SpamCop](https://www.spamcop.net) - SpamCop is the premier service for reporting spam. SpamCop determines the origin of unwanted email and reports it to the relevant Internet service providers.
-#### Blocklists
-  - [AdGuard CNAME Tracker List](https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt)
-  - [binarydefense.com/banlist.txt](https://www.binarydefense.com/banlist.txt)
+
+  ### Blocklists
+  - [AdGuard](https://github.com/AdguardTeam/AdguardHome) - Network-wide ads & trackers blocking DNS server.
+    - [AdGuard CNAME Tracker List](https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt)
+    - [AdGuard WireGuard Unbound DNScrypt](https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt) - The ultimate self-hosted network security guide ─ Protection | Privacy | Performance for your network 24/7 Accessible anywhere 
+  - [BinaryDefense.com/banlist.txt](https://www.binarydefense.com/banlist.txt)
+  - [Black Mirror](https://github.com/T145/black-mirror) - _Automatically maintained malicious host blacklists and false-positive whitelists._
+  - [Blocky](https://github.com/0xERR0R/blocky) - DNS proxy as ad-blocker for local network.
+  - [DNSblacklist](https://github.com/farhanfaisal/DNSblacklist) - _A shell script to download malware domains from various sources, and configuring unbound DNS config file to be used as a local recursive DNS server._
   - [EasyList](https://github.com/easylist/easylist) - EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List).
   - [hosts-blocklists by Notracking](https://github.com/notracking/hosts-blocklists) - Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage.
   - [iplists.firehol.org](https://iplists.firehol.org)
@@ -161,8 +170,11 @@ bro / zeek
   - [Proofpoint Emerging Threats Rules](https://rules.emergingthreats.net/blockrules/)
     - [compromised-ips.txt by emergingthreats.net](https://rules.emergingthreats.net/blockrules/compromised-ips.txt)
     - [emerging-Block-IPs.txt by emergingthreats.net](https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt)
+  - [PiHole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements.
+    - [Docker Pi-hole](https://github.com/pi-hole/docker-pi-hole) -  Pi-hole in a docker container.
   - [The Ultimate Hosts Blacklist](https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist) - The Ultimate Unified Hosts file for protecting your network, computer, smartphones and Wi-Fi devices against millions of bad web sites. Protect your children and family from gaining access to bad web sites and protect your devices and pc from being infected with Malware or Ransomware. 
-
+    #### Finding Malicious Domains
+    - [Exposure: Finding Malicious Domains Using Passive DNS Analysis](https://www.ndss-symposium.org/wp-content/uploads/2017/09/bilge2.pdf)
 
 ## Anti-Virus / malware and rootkit detection
 - [AlphaSeclab's anti-av](https://github.com/alphaSeclab/anti-av) - Resources About Anti-Virus and Anti-Anti-Virus, including 200+ tools and 1300+ posts.
