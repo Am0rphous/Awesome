@@ -4,7 +4,6 @@
 #### Table of content
 - [Ad-block software](#ad-block-software)
   - [BlackList](#blacklists)
-- [Alternatives to Raspberry Pi](#alternatives-to-raspberry-pi)
 - [Guides, Help and Setup](#guides-help-and-setup)
 - [Home Automation Software](#home-automation-software)
 - [Magic Mirror repos](#magic-mirror-repos)
@@ -30,13 +29,6 @@
   - [Black-Mirror](https://github.com/T145/black-mirror) - _Automatically maintained malicious host blacklists and false-positive whitelists._
   - [DNSblacklist](https://github.com/farhanfaisal/DNSblacklist) - _A shell script to download malware domains from various sources, and configuring unbound DNS config file to be used as a local recursive DNS server._
   - [Exposure: Finding Malicious Domains Using Passive DNS Analysis](https://www.ndss-symposium.org/wp-content/uploads/2017/09/bilge2.pdf)
-
-## Alternatives to Raspberry Pi
-- [Arduino](https://www.arduino.cc)
-- [LattePanda](https://www.lattepanda.com)
-- [ODROID](https://www.hardkernel.com)
-- [Orange Pi 4B](http://www.orangepi.org/Orange%20Pi%204B/)
-- [Rock64](https://www.pine64.org/devices/single-board-computers/rock64/)
 
 ## Guides, Help and Setup
 - [Official Raspberry Pi Beginnger's Guide](https://www.raspberrypi.org/magpi-issues/Beginners_Guide_v1.pdf)
