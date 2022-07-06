@@ -2,20 +2,21 @@
 <br>
 
 #### Table of content
-- [Ad-block software](https://github.com/Am0rphous/Awesome/tree/master/Raspberry%20Pi#ad-block-software)
-  - [BlackList](https://github.com/Am0rphous/Awesome/tree/master/Raspberry%20Pi#blacklists)
-- [Alternatives to Raspberry Pi](https://github.com/Am0rphous/Awesome/tree/master/Raspberry%20Pi#alternatives-to-raspberry-pi)
-- [Guides, Help and Setup](https://github.com/Am0rphous/Awesome/tree/master/Raspberry%20Pi#guides-help-and-setup)
-- [Home Automation Software](https://github.com/Am0rphous/Awesome/tree/master/Raspberry%20Pi#home-automation-software)
-- [Magic Mirror repos](https://github.com/Am0rphous/Awesome/tree/master/Raspberry%20Pi#magic-mirror-repos)
-- [Different Operatingsystems to run on Raspberry](https://github.com/Am0rphous/Awesome/tree/master/Raspberry%20Pi#different-operatingsystems-to-run-on-raspberry)
-  - [Operatingsystems for gaming](https://github.com/Am0rphous/Awesome/tree/master/Raspberry%20Pi#operatingsystems-for-gaming)
-    - [Gaming Software](https://github.com/Am0rphous/Awesome/tree/master/Raspberry%20Pi#gaming-software)
-- [Projects](https://github.com/Am0rphous/Awesome/tree/master/Raspberry%20Pi#projects)
-  - [Weather Station](https://github.com/Am0rphous/Awesome/tree/master/Raspberry%20Pi#weather-station)
-- [Software for the Raspberry](https://github.com/Am0rphous/Awesome/tree/master/Raspberry%20Pi#software-for-the-raspberry)
-  - [Tools and Tips](https://github.com/Am0rphous/Awesome/tree/master/Raspberry%20Pi#tools-and-tips)
-  - [Virtualization](https://github.com/Am0rphous/Awesome/tree/master/Raspberry%20Pi#virtualization)
+- [Ad-block software](#ad-block-software)
+  - [BlackList](#blacklists)
+- [Alternatives to Raspberry Pi](#alternatives-to-raspberry-pi)
+- [Guides, Help and Setup](#guides-help-and-setup)
+- [Home Automation Software](#home-automation-software)
+- [Magic Mirror repos](#magic-mirror-repos)
+- [Different Operatingsystems to run on Raspberry](#different-operatingsystems-to-run-on-raspberry)
+  - [Operatingsystems for gaming](#operatingsystems-for-gaming)
+    - [Gaming Software](#gaming-software)
+- [Projects](#projects)
+  - [Weather Station](#weather-station)
+- [Software for the Raspberry](#software-for-the-raspberry)
+  - [Security](#security)
+  - [Tools and Tips](#tools-and-tips)
+  - [Virtualization](#virtualization)
 <br>
 <br>
 
@@ -169,6 +170,10 @@
 - [OMX image viewer](https://github.com/HaarigerHarald/omxiv) - OpenMax image viewer for the Raspberry Pi.
 - [Raspberry Telegram Status](https://github.com/Datalux/raspberry-telegram-status) - A simple RaspberryPi monitor for temperature and disk usage using Telegram bot.
 - [XBian](https://github.com/xbianonpi/xbian) - _XBMC on Raspberry Pi, Bleeding Edge [xbian.org](https://xbian.org)._
+
+  ### Security
+  - [Turn your Rasp Zero W in a multitool for pentesting ](https://github.com/FuocomanSap/P4wnp1-ALOA-Menu-Reworked)
+
 ### Tools and Tips
 - Free space tip (~2GB:
   ````powershell
