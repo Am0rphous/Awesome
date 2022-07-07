@@ -15,7 +15,6 @@
 - [Learning material](#Learning-material)
   - [Conferences](#Conferences)
   - [Courses](#courses)
-  - [E-books](#3-books)
   - [Podcasts for Cybersecurity](#Podcasts-for-Cybersecurity)
   - [PowerShell](#PowerShell)
 - [Privacy](#Privacy)
@@ -160,8 +159,7 @@
   ### Courses
   - [Comptia+](https://www.comptia.org/) - _"Get the skills you want and employers need."_
   - [Free Linux course](https://geek-university.com/course/free-linux-course/)
-  ### E-books
-  - [PDF Drive.com](https://www.pdfdrive.com/) - Search engine for PDF, Mobi, epub and other e-book files.
+
   ### Podcasts for Cybersecurity
   - [Digital Forensic Survival Podcast](https://digitalforensicsurvivalpodcast.com/)
   - [Information Systems DIGEST Podcast](https://isdigest.buzzsprout.com/)
