@@ -14,7 +14,6 @@
   - [US](#us)
 - [Learning material](#Learning-material)
   - [Conferences](#Conferences)
-  - [Certifications](#certifications)
   - [Courses](#courses)
   - [E-books](#3-books)
   - [Podcasts for Cybersecurity](#Podcasts-for-Cybersecurity)
@@ -157,9 +156,6 @@
   - [Paranoia](https://www.paranoia.watchcom.no/) - The Nordic's Leading Cyber Security Conference
   - How to find more
     - [CfpSec](https://github.com/alexandreborges/cfpsec) - CFPsec is a program to list Call For Papers or upcoming Hacking/Security Conferences based on cfptime.org website.
-  ### Certifications
-  - [Infosec Certification list](https://resources.infosecinstitute.com/certifications/)
-  - [VMware Certification](https://www.vmware.com/learning/certification.html)
   
   ### Courses
   - [Comptia+](https://www.comptia.org/) - _"Get the skills you want and employers need."_
