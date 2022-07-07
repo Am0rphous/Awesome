@@ -38,6 +38,7 @@
    - [pdfid.py](https://github.com/DidierStevens/DidierStevensSuite/blob/master/pdfid.py) - Tool to test PDF files (Comes default in Remnux OS). Syntax: 'pdfid.py malware.pdf'
    - [PdfParser](https://github.com/smalot/pdfparser) - PdfParser, a standalone PHP library, provides various tools to extract data from a PDF file. 
 - [compare-strings by kesarawimal](https://github.com/kesarawimal/compare-strings) - Finds degree of similarity between two strings, based on Dice's Coefficient and Levenshtein Distance.
+- [pdfminer.six](https://github.com/pdfminer/pdfminer.six) - Community maintained fork of pdfminer - we fathom PDF 
 - [Peepdf - PDF Analysis Tool](https://github.com/jesparza/peepdf)
   - [tools/peepdf-pdf-analysis-tool](https://eternal-todo.com/tools/peepdf-pdf-analysis-tool)
   
