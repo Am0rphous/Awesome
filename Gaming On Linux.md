@@ -22,6 +22,7 @@
 - [Lakka](http://www.lakka.tv/) - Lakka is a lightweight RetroArch distribution designed for small, less powerful machines. Single-board computers like the Raspberry Pi are perfect for Lakka. 
 - [SteamOS](https://store.steampowered.com/steamos) - SteamOS is the primary operating system for the Steam Machine gaming platform by Valve. It is based on the Debian distribution of Linux.
 - [Ubuntu Gamepack](https://ualinux.com/en/ubuntu-gamepack) - It is an operating system that will guarantee the launch of more than 85,842 games developed both specifically for Linux and developed for Windows, DOS, various game consoles Sega, Nintendo, PSP, Sony PlayStation, ZX Spectrum and many others.
+- [winesapOS](https://github.com/LukeShortCloud/winesapOS) - winesapOS - Game with Linux anywhere, no installation required! 
 
 ## Gaming on Linux
 - [Bottles](https://flathub.org/apps/details/com.usebottles.bottles) - Run Windows software on Linux with Bottles!
