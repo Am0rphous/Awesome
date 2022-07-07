@@ -813,6 +813,7 @@ Based on that data, you can find the most popular ones and their alternatives.
     - [Mixxx](https://mixxx.org/) - Mixxx is free open-source software and entirely community-driven. There is no company behind Mixxx — the development is shouldered by passionate DJs and programmers that dedicate their free time to working on their favorite DJ software. Mixxx is and always will be free!
     - [MusE](https://github.com/muse-sequencer/muse) - MusE is a digital audio workstation with support for both Audio and MIDI.
     - [Ossia](https://ossia.io/)
+    - [Python Voice Recorder](https://github.com/iamsrujith/python-voice-recorder)
     - [Qtractor](https://www.qtractor.org/)
     - [REAPER](https://www.reaper.fm/)
     - [Rosegarden](https://www.rosegardenmusic.com/) - Rosegarden is a music composition and editing environment based around a MIDI sequencer that features a rich understanding of music notation and includes basic support for digital audio.
