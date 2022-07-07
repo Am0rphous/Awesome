@@ -16,7 +16,6 @@
   - [Conferences](#Conferences)
   - [Courses](#courses)
   - [Podcasts for Cybersecurity](#Podcasts-for-Cybersecurity)
-  - [PowerShell](#PowerShell)
 - [Privacy](#Privacy)
 - [Random](#random)
 - [Social Media](Social-Media)
@@ -169,8 +168,6 @@
     - [Palo Alto Networks](https://soundcloud.com/paloaltonetworks)
   - Spotify
     - [CyberWire Daily](https://open.spotify.com/show/0CnYnxrAcfRjh0YSQINAwe?si=X2BItZkmQUSKyPZ1XvcmOA&dl_branch=1)
-  ### PowerShell
-  - [Scriptigator.com](https://scriptigator.com)
 
 ## Privacy
 - [DarkSearch](https://darksearch.io/)
