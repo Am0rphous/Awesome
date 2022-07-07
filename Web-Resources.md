@@ -152,8 +152,10 @@
 - [UbuntuPit.com](https://www.ubuntupit.com)
 - [Zeropointsecurity.co.uk/red-team-ops](https://www.zeropointsecurity.co.uk/red-team-ops) - Offensive Cyber Security Training.
   ### Conferences
+  - [HackCon](https://hackcon.org/) - The Norwegian Cyber Security Convention
   - [Infosec-conferences.com](https://infosec-conferences.com)
-  - Search
+  - [Paranoia](https://www.paranoia.watchcom.no/) - The Nordic's Leading Cyber Security Conference
+  - How to find more
     - [CfpSec](https://github.com/alexandreborges/cfpsec) - CFPsec is a program to list Call For Papers or upcoming Hacking/Security Conferences based on cfptime.org website.
   ### Certifications
   - [Infosec Certification list](https://resources.infosecinstitute.com/certifications/)
