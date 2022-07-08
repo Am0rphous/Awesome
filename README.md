@@ -14,6 +14,9 @@ Communicate clearly <br>
 </p>
 
  <br> <br>
+
+![GitHub forks](https://img.shields.io/github/forks/Am0rphous/Awesome/) ![GitHub issues](https://img.shields.io/github/issues/Am0rphous/Awesome/)
+
 <h2>Table of content</h2>
 
 - [Awesome entitled projects](#awesome-entitled-projects)
