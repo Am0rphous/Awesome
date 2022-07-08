@@ -72,6 +72,14 @@ Portable Executables binaries
 
 
 
+## Code Analysis
+- [CodeCat](https://github.com/CoolerVoid/codecat) - Tool to help in static analysis.
+- [CppCheck](https://github.com/danmar/cppcheck) -  Static analysis of C/C++ code.
+- [Graudit](https://github.com/wireghoul/graudit) - grep rough audit - source code auditing tool.
+- [Tabby](https://github.com/wh1t3p1g/tabby) - A CAT called tabby ( Code Analysis Tool ) 
+
+
+
 ## Debugging
 Description: Used to manipulate the execution of a program to get intel on what it is doing when run.
 - [Bus Pirate](https://github.com/BusPirate/Bus_Pirate) - open source hacker multi-tool that talks to electronic stuff.
@@ -93,10 +101,14 @@ Description: Used to manipulate the execution of a program to get intel on what 
 - [ScyllaHide](https://github.com/x64dbg/ScyllaHide) - Advanced usermode anti-anti-debugger. Forked from https://bitbucket.org/NtQuery/scyllahide 
 - [x64dbg](https://github.com/x64dbg/x64dbg) - An open-source x64/x32 debugger for windows. 
 
+
+
 ## Decompilers
 Description: Uses a binary file to revert the compilation process and express the code as a structured higher-level language. A bit similar to disassemblers.
 - [JustDecompile Engine](https://github.com/telerik/JustDecompileEngine) - .NET decompiler.
 - [Reopt](https://github.com/GaloisInc/reopt) - A tool for analyzing x86-64 binaries. 
+
+
 
 ## Disassemblers
 Description: Transforms a binary's machine code into assembly language/code.
@@ -134,7 +146,6 @@ Description: Transforms a binary's machine code into assembly language/code.
   - [R2sim](https://github.com/W3ndige/r2sim) - Hacked script to show similarities between two samples using radare2 framework.
 - [Triton](https://github.com/jonathansalwan/Triton) - Triton is a dynamic binary analysis library. Build your own program analysis tools, automate your reverse engineering, perform software verification or just emulate code.
 
-## Dynamic analysis
 
 ## File Analysis
 Linux commands
@@ -188,14 +199,6 @@ getcap            #examine file capabilities
 
 ## Shellcode
 - [BlobRunner](https://github.com/OALabs/BlobRunner) - Quickly debug shellcode extracted during malware analysis.
-
-## Source-code analysis
-- [graudit](https://github.com/wireghoul/graudit) - grep rough audit - source code auditing tool.
-- [tabby](https://github.com/wh1t3p1g/tabby) - A CAT called tabby ( Code Analysis Tool ) 
-
-## Static Analysis
-- [CodeCat](https://github.com/CoolerVoid/codecat) - Tool to help in static analysis.
-
 
 ## WebAssembly
 - [Binaryen](https://github.com/WebAssembly/binaryen) - Compiler infrastructure and toolchain library for WebAssembly.
