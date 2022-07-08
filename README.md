@@ -13,9 +13,8 @@ Code readability: test with unexperienced programmers <br>
 Communicate clearly <br>
 </p>
 
- <br> <br>
-
-![GitHub forks](https://img.shields.io/github/forks/Am0rphous/Awesome) ![GitHub issues](https://img.shields.io/github/issues/Am0rphous/Awesome)
+ <br>
+![Github stars](https://img.shields.io/github/stars/Am0rphous/Awesome) ![GitHub forks](https://img.shields.io/github/forks/Am0rphous/Awesome) ![GitHub issues](https://img.shields.io/github/issues/Am0rphous/Awesome)
 
 <h2>Table of content</h2>
 
