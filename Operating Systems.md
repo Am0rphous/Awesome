@@ -197,6 +197,7 @@ distribution into a Live Kit (formely known as Live CD).
   - [Clear OS Knowledge Base](https://documentation.clearos.com/index:kb)
 - [Debian](https://www.debian.org)
 - [Fedora Server](https://getfedora.org/en/server)
+- [Oracle Linux](https://www.oracle.com/linux/) - "A highly performant and secure operating environment, Oracle Linux delivers virtualization, management, automation, and cloud native computing tools, along with the operating system, in a single, easy-to-manage support offering. Oracle Linux provides a 100% application binary compatible alternative to Red Hat Enterprise Linux and CentOS Linux and is supported across both hybrid and multicloud environments. "
 - [PwOSS Server](https://pwoss.org/)
 - [Rockstor](http://rockstor.com) - Personal Cloud Server, SMB Cloud Server, Traditional NAS server. [Download Rocktor](https://sourceforge.net/projects/rockstor/files/)
 - [Rocky Linux](https://rockylinux.org) - [github](https://github.com/rocky-linux/rocky) Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS [rockylinux.org](https://rockylinux.org).
