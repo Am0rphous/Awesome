@@ -143,7 +143,6 @@ Communicate clearly <br>
 | [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk)|Awesome Indexed|
 | [Awesome Industrial Control System Security](https://github.com/hslatman/awesome-industrial-control-system-security) | A curated list of resources related to Industrial Control System (ICS) security.|
 | [Awesome Intelligence Writing](https://github.com/mxm0z/awesome-intelligence-writing) | Awesome collection of great and useful resources concerning intelligence writing such as manuals/guides, standards, books, and articles.|
-| [Awesome iOS](https://github.com/vsouza/awesome-ios)| A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects |
 | [Awesome jq](https://github.com/fiatjaf/awesome-jq) | A curated list of awesome jq tools and resources.|
 | [Awesome Learning Resources](https://github.com/lauragift21/awesome-learning-resources) |Awesome list of resources on Web Development.|
 | [Awesome List](https://github.com/sindresorhus/awesome) |Awesome lists about all kinds of interesting topics.|
@@ -474,7 +473,9 @@ sudo apt-get install redshift-gtk
   - [Material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google.
   - [Npm-icon-gen](https://github.com/akabekobeko/npm-icon-gen) - Icon file generator for Windows, macOS, Web.
   ### iOS
+  - [Awesome iOS](https://github.com/vsouza/awesome-ios)| A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
   - [Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps) - 📱 Collaborative List of Open-Source iOS Apps.
+  - [SignTools](https://github.com/SignTools/SignTools) - ✒ A free, self-hosted platform to sign and install iOS apps without a computer 
   - [Swift Radio](https://github.com/analogcode/Swift-Radio-Pro) - Professional Radio Station App for iOS!.
   
   ### Linux
