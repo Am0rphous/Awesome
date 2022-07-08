@@ -411,9 +411,9 @@ sudo apt-get install redshift-gtk
 ## Development
 - [Awesome Community](https://github.com/phpearth/awesome-community) - A curated list of awesome programming, development, technical support and discussion channels, groups, communities, resources and other shiny things.
 - [Capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️ .
-- [CppCheck](https://github.com/danmar/cppcheck) -  Static analysis of C/C++ code.
 - [Devilbox](https://github.com/cytopia/devilbox) - A modern Docker LAMP stack and MEAN stack for local development.
 - [DocToc](https://doctoc.herokuapp.com/) - Generates table of content for markdown files inside github repositories Tweet.
+- [Flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond 
 - [Git / Github Desktop](https://github.com/desktop/desktop) - open source Electron-based GitHub app. It is written in TypeScript and uses React [desktop.github.com/](https://desktop.github.com).
   - [Gitify](https://github.com/manosim/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
 - [INGInious](https://github.com/UCL-INGI/INGInious) - INGInious is a secure and automated exercises assessment platform using your own tests, also providing a pluggable interface with your existing LMS.
