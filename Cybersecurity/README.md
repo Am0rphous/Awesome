@@ -1059,6 +1059,7 @@ upstream_recursive_servers:
     - [Weave](https://github.com/weaveworks/weave) -  Simple, resilient multi-host containers networking and more. Weaveworks is the company that delivers the most productive way for developers to connect, observe and control Docker containers.
       - [Weave Scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes.
   - [Images by linuxserver.io](https://fleet.linuxserver.io)
+  - [Kata Containers](https://katacontainers.io/) - [Kata Containers snap package](https://github.com/kata-containers/kata-containers/blob/main/docs/install/snap-installation-guide.md)
   - [SecretScanner](https://github.com/deepfence/SecretScanner) - Find secrets and passwords in container images and file systems.
   - [Firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing [firecracker-microvm.github.io](https://firecracker-microvm.github.io).
     - [Firecracker Containerd](https://github.com/firecracker-microvm/firecracker-containerd) - Firecracker-containerd enables containerd to manage containers as Firecracker microVMs.
@@ -1095,6 +1096,7 @@ upstream_recursive_servers:
   - [Portainer](https://www.portainer.io) - Open source container management tool for Kubernetes, Docker, Docker Swarm and Azure ACI.
    #### Container Registers
    - [Harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content. 
+   - [Nydus: Dragonfly Container Image Service](https://github.com/dragonflyoss/image-service) - Nydus - the Dragonfly image service, providing fast, secure and easy access to container images. 
    
    #### Tutorials and learning
    - [Container Training](https://github.com/jpetazzo/container.training) - Slides and code samples for training, tutorials, and workshops about Docker, containers, and Kubernetes. [container.training](https://container.training/)
