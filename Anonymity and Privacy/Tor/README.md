@@ -106,6 +106,14 @@ group = "root"
 vnc_listen = "0.0.0.0"
 virt-viewer vnc://localhost:5901
 ````
+- Routing another VM through Whonix on Virtualbox: First remove the default nic. Then add the internal whonix-nic to the VM. Then give the VM network settings which may look like:
+````
+iface eth0 inet static
+  address 10.152.152.11
+  netmask 255.255.192.0
+  gateway 10.152.152.10
+  nameservers 10.152.152.10 #cant rememver if this was correct syntax
+````
 
 ## Useful Resources
 - [Active Onions](https://github.com/k4m4/active-onions) - Filter out inactive onions from an array of onion URLs.
