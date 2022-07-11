@@ -3,7 +3,8 @@
 Table of content
 - [Privacy](#Privacy)
   - [Censorship](#Censorship)
-- [Security]()
+- [Productivity](#productivity)
+- [Security](#Security)
 
 <br>
 <br>
@@ -27,6 +28,9 @@ Table of content
 - [uBlock Origin](https://github.com/gorhill/uBlock) - An efficient blocker for Chromium and Firefox. Fast and lean. [ublockorigin.com](https://ublockorigin.com/)
 ### Censorship
 - [Snowflake by The Tor Project](https://snowflake.torproject.org) - Snowflake is a WebRTC pluggable transport for Tor.
+
+## Productivity
+- [Jiffy Reader](https://github.com/ansh/jiffyreader.com#FAQ) -  A Browser Extension for Bionic Reading on ANY website! 
 
 ## Security
 - [Decentraleyes](https://decentraleyes.org/) - A web browser extension that emulates Content Delivery Networks to improve your online privacy.
