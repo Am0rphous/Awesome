@@ -477,6 +477,7 @@ lsscsi                          #Print SCSI Devices Info
   - [Glances – A Versatile System Monitoring Tool for Linux Systems](https://itsfoss.com/glances/)
 - [Healthchecks.io](https://healthchecks.io/)
 - [Lima Charlie](https://github.com/nextgens/limacharlie) - Endpoint monitoring stack.
+- [Netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud 
 - [Prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. 
 - [SkyWalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System 
 - [SMS-Alerts](https://github.com/AshleyNikr/SMS-Alerts) - 🌺 Adding SMS alerts to shell scripts 🌺 
