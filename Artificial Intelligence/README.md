@@ -5,6 +5,7 @@
 <br>
 
 - [AI Cheatsheets](https://github.com/kailashahirwar/cheatsheets-ai) - Essential Cheat Sheets for deep learning and machine learning researchers.
+- [Ai Experiments]() - Here's a bunch of experimental self learning AIs 
 - [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2020.
 - [AIMA3e-Java (JDK 8+)](https://github.com/aimacode/aima-java) - Java implementation of algorithms from Russell And Norvig's "Artificial Intelligence - A Modern Approach" 
 - [AIMA-Python](https://github.com/aimacode/aima-python) - Python implementation of algorithms from Russell And Norvig's "Artificial Intelligence - A Modern Approach".
