@@ -30,7 +30,7 @@ Table of content
 - [Snowflake by The Tor Project](https://snowflake.torproject.org) - Snowflake is a WebRTC pluggable transport for Tor.
 
 ## Productivity
-- [Jiffy Reader](https://github.com/ansh/jiffyreader.com#FAQ) -  A Browser Extension for Bionic Reading on ANY website! 
+- [Jiffy Reader](https://github.com/ansh/jiffyreader.com#FAQ) -  A Browser Extension for Bionic Reading on ANY website! [Jiffy Reader on FireFox](https://addons.mozilla.org/en-US/firefox/addon/jiffy-reader/), [JiffyReader.com](https://www.jiffyreader.com/)
 
 ## Security
 - [Decentraleyes](https://decentraleyes.org/) - A web browser extension that emulates Content Delivery Networks to improve your online privacy.
