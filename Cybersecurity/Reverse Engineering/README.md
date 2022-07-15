@@ -105,6 +105,7 @@ Description: Used to manipulate the execution of a program to get intel on what 
 
 ## Decompilers
 Description: Uses a binary file to revert the compilation process and express the code as a structured higher-level language. A bit similar to disassemblers.
+- [Decompiler Explorer](https://github.com/decompiler-explorer/decompiler-explorer) - Decompiler Explorer! Compare tools on the forefront of static analysis, now in your web browser! 
 - [JustDecompile Engine](https://github.com/telerik/JustDecompileEngine) - .NET decompiler.
 - [Reopt](https://github.com/GaloisInc/reopt) - A tool for analyzing x86-64 binaries. 
 
