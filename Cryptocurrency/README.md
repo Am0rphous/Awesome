@@ -10,7 +10,7 @@
 - [CryptoWall Analysis](https://github.com/ryancor/CryptoWall_Analysis) -  CryptoWall 3.0 Ransomware Reversing Documentation & Scripts.
 - [Mythril](https://github.com/ConsenSys/mythril) - Security analysis tool for EVM bytecode. Supports smart contracts built for Ethereum, Hedera, Quorum, Vechain, Roostock, Tron and other EVM-compatible blockchains. 
   ### Heatmaps
-  - [Crypto Heatmap from TradingView](https://www.tradingview.com/heatmap/crypto/?color=change&dataset=Crypto&group=no_group&size=market_cap_calc)
+  - [Crypto Heatmap from TradingView.com](https://www.tradingview.com/heatmap/crypto/?color=change&dataset=Crypto&group=no_group&size=market_cap_calc)
 
 ## Bitcoin
 - [Bitcoin source code](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree.
