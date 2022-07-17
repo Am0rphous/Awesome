@@ -729,7 +729,7 @@ upstream_recursive_servers:
   #### Online Storage Services
   - [DropBox](https://www.dropbox.com) - From 2 GB to ~16 GB depending of different opportunities.
     - [Dropbox Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a BASH script which can be used to upload, download, list or delete files from Dropbox, an online file sharing, synchronization and backup service. 
-  - [Google Drive](https://drive.google.com) - 15 GB.
+  - [Google Drive](https://drive.google.com) - 15 GB free. [Google Drive Client](https://www.google.com/drive/download/)
   - [MEGASync](https://mega.io/sync) - 50 GB free, but after 6 months this will be reduced to 15 GB.
   - [OneDrive](https://www.microsoft.com/nb-no/microsoft-365/onedrive/online-cloud-storage) - By Microsoft with 5GB free online storage.
   ##### Clients
