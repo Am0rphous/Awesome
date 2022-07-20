@@ -1,10 +1,10 @@
-### Enable Tor's Bridge mode when using e.g.
-- the tor service when running Linux
-- proxychains4 when running
+## Enable Tor's Bridge mode
+- When running tors default service on Linux
+- When using proxychains4 on MacOS
 
 I got some inspiration from: https://gitlab.com/yawning/obfs4
 
-1. Install obfs4proxy with:    `sudo apt install obfs4proxy`
+## 1. Install obfs4proxy with:    `sudo apt install obfs4proxy`
 2. Get new obfs4 bridges at:   https://bridges.torproject.org/bridges?transport=obfs4
 3. Write configuration to `/etc/tor/torrc` that looks like the example below, but with new bridge info as the ones below have changed characters and is not intended to work:
 ````
