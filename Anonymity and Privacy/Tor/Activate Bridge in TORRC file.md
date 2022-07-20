@@ -15,5 +15,5 @@ Bridge obfs4 135.246.188.36:7120 0F14AB47FA6195E8B509AA9401D310264FC637FF cert=6
 Bridge obfs4 101.95.103.31:45339 C867CE362BFCE5C501FA24CD04A6DCB3F2588AD2 cert=w9r9t1hs3NO+6TSivjQ/2XFZMiw9g8J3SM40yX5nTxFCRIiuHc+3supROSDupN60ElZ7VA iat-mode=0
 ClientTransportPlugin obfs4 exec /usr/bin/obfs4proxy
 ````
-#### 4. Restart tor-service:            `sudo service tor restart`
+#### 4. Restart the tor service:            `sudo service tor restart`
 #### 5. Test configuration with e.g.:   `proxychains4 curl ifconfig.me`
