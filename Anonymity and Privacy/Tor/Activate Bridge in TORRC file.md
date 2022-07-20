@@ -1,7 +1,11 @@
-## Some inspiration from: https://gitlab.com/yawning/obfs4
+### Follow the setup below to be able to enable bridge mode automatically when the tor service runs
 
-## You can put this code at the end of your /etc/tor/torrc file
-## 1. Install obfs4proxy with:    sudo apt install obfs4proxy
+- I got some inspiration from: https://gitlab.com/yawning/obfs4
+
+1. Install obfs4proxy with:    `sudo apt install obfs4proxy`
+
+## Put this code at the end of your `/etc/tor/torrc` file
+
 ## 2. Get new obfs4 bridges at:   https://bridges.torproject.org/bridges?transport=obfs4
 ## 3. Write configuration to /etc/tor/torrc that looks like this, but with new bridge info:
 
