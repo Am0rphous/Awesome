@@ -141,6 +141,10 @@ iface eth0 inet static
 ### Collections
 - [DEEP WEB LINKS COLLECTION](https://gist.github.com/vyach-vasiliev/045af4c70cf2ed35c6091b4705093017)
 
+### Crawlers
+- [ahmia-crawler](https://github.com/ahmia/ahmia-crawler) - Collection of crawlers used by the ahmia search engine 
+  - [onionElasticBot](https://github.com/ahmia/ahmia-crawler/tree/master/ahmia) - Crawl .onion and .i2p websites from the Tor network
+
 ### Helpful Web sites
 - [Censorship](https://support.torproject.org/censorship/)
 - [Community and legal resources](https://community.torproject.org/relay/community-resources/)
