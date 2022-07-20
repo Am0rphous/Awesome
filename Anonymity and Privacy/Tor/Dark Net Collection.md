@@ -5,7 +5,7 @@
 
 | Service Name | Tor URL |
 | ----------- | ----------- |
-|Ahmia.fi |http://haystakvxad7wbk5.onion |
+
 |DuckDuckGo | https://3g2upl4pq6kufc4m.onion |
 |Haystak | http://haystakvxad7wbk5.onion |
 |Index of torproject.org | http://sdscoq7snqtznauu.onion |
@@ -21,4 +21,5 @@
 ### 
 | Search engines  | Tor URL |
 | ----------- | ----------- |
+|Ahmia.fi | http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/ |
 |OnionLand Search | http://3bbad7fauom4d6sgppalyqddsqbf5u5p56b5k5uk2zxsy3d6ey2jobad.onion/|
