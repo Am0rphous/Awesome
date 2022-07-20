@@ -112,7 +112,7 @@ iface eth0 inet static
   address 10.152.152.11
   netmask 255.255.192.0
   gateway 10.152.152.10
-  nameservers 10.152.152.10 #cant rememver if this was correct syntax
+  dns-nameservers 10.152.152.10 #cant remember if this was correct syntax lol
 ````
 
 ## Useful Resources
