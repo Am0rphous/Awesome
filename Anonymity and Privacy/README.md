@@ -1,6 +1,7 @@
 # Anonymity
 
 - [Privacy Guide: Fight Surveillance with Encryption and Privacy Tools](https://www.privacytools.io/)
+- [Surveillance Self-Defense](https://ssd.eff.org/)
 
 <br>
 
