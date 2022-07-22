@@ -1,5 +1,6 @@
-# Anonymity
+ # Anonymity and Privacy
 
+- [Anonymity and Privacy for Advanced Linux Users](https://we.riseup.net/opsec/anonymity-and-privacy-for-advanced-linux-users#secure-data-wiping-linux)
 - [Privacy Guide: Fight Surveillance with Encryption and Privacy Tools](https://www.privacytools.io/)
 - [Surveillance Self-Defense](https://ssd.eff.org/)
 
