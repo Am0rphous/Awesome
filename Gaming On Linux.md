@@ -1,6 +1,6 @@
 # Gaming
 
-Useful links
+Useful links generally
 - [gamingonlinux.com](https://www.gamingonlinux.com/)
 - [Trends - Hardware for Linux](https://linux-hardware.org/?view=trends)
   - [Github repo - Trends in Hardware](https://github.com/linuxhw/Trends)
@@ -12,6 +12,8 @@ Useful links
   - [Games](#games)
 - [OS dedicated for gaming](#os-dedicated-for-gaming)
 - [Peripherals](#Peripherals)
+
+<br>
 
 ## OS dedicated for gaming
 - [Drauger OS](https://draugeros.org/)
