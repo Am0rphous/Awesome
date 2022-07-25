@@ -692,7 +692,8 @@ upstream_recursive_servers:
     - [Ovpn-admin](https://github.com/flant/ovpn-admin) - Simple web UI to manage OpenVPN users.
   - [Streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
   - [WireGuard](https://github.com/WireGuard) - WireGuard® is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. [Wireguard.com](https://www.wireguard.com)
-  - [docker-wireguard](https://github.com/linuxserver/docker-wireguard)
+    - [docker-wireguard](https://github.com/linuxserver/docker-wireguard)
+    - [docker-wireguard-socks-proxy](https://github.com/kizzx2/docker-wireguard-socks-proxy) - Expose a WireGuard tunnel as a SOCKS5 proxy 
     - [Macos-menubar-wireguard](https://github.com/aequitas/macos-menubar-wireguard) - macOS menubar icon for WireGuard/wg-quick.
     - [Subspace](https://github.com/subspacecloud/subspace) - A simple WireGuard VPN server GUI.
       - [Subspace fork](https://github.com/subspacecommunity/subspace) - A fork of the simple WireGuard VPN server GUI community maintained.
@@ -704,6 +705,7 @@ upstream_recursive_servers:
     - [wireguard install](https://github.com/Nyr/wireguard-install) - WireGuard road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora.
     - [Wireguard-macOS-LinuxVM](https://github.com/mrash/Wireguard-macOS-LinuxVM) -  Send all traffic from macOS through Wireguard running on a Linux VM.
     - [Wireguard Whitepaper](https://www.wireguard.com/papers/wireguard.pdf) - WireGuard: Next Generation Kernel Network Tunnel.
+
     #### Free services
     - [Cryptofree](https://cryptostorm.is/cryptofree)
     - [FreeVPN.me](https://freevpn.me/)
