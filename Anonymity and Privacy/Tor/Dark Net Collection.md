@@ -5,9 +5,9 @@
 
 | Service Name | Tor URL |
 | ----------- | ----------- |
-
 |DuckDuckGo | https://3g2upl4pq6kufc4m.onion |
 |Haystak | http://haystakvxad7wbk5.onion |
+| Hidden Wiki (clearnet) | https://hiddenwikitor.com/ |
 |Index of torproject.org | http://sdscoq7snqtznauu.onion |
 |NotEvil Dark Web | https://3g2upl4pq6kufc4m.onion |
 |ProtonMail | https://protonirockerxow.onion |
