@@ -9,6 +9,7 @@
 - [Cryptocurrency Analysis](https://github.com/prouast/cryptocurrency-analysis) - Analysis and visualisation of the cryptocurrency market.
 - [CryptoWall Analysis](https://github.com/ryancor/CryptoWall_Analysis) -  CryptoWall 3.0 Ransomware Reversing Documentation & Scripts.
 - [Mythril](https://github.com/ConsenSys/mythril) - Security analysis tool for EVM bytecode. Supports smart contracts built for Ethereum, Hedera, Quorum, Vechain, Roostock, Tron and other EVM-compatible blockchains. 
+- [predicting-future-bitcoin-prices](https://github.com/derkzomer/predicting-future-bitcoin-prices) - This code is part of an article exploring the use of the LSTM model to predict future Bitcoin prices- [blog article](https://towardsdatascience.com/using-machine-learning-to-predict-future-bitcoin-prices-6637e7bfa58f) 
   ### Heatmaps
   - [Crypto Heatmap from TradingView.com](https://www.tradingview.com/heatmap/crypto/?color=change&dataset=Crypto&group=no_group&size=market_cap_calc)
 
