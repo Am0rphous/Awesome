@@ -1,21 +1,17 @@
 # Gaming
+
+Useful links
 - [gamingonlinux.com](https://www.gamingonlinux.com/)
-- [Hardware for Linux Trends](https://linux-hardware.org/?view=trends)
+- [Trends - Hardware for Linux](https://linux-hardware.org/?view=trends)
   - [Github repo - Trends in Hardware](https://github.com/linuxhw/Trends)
   - [PCI passthrough via OVMF](https://wiki.archlinux.org/title/PCI_passthrough_via_OVMF) - Arch wiki
 
-## Peripherals
-- [AntiMicro](https://github.com/AntiMicro/antimicro) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
-- [AntiMicroX](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
-- [CKB](https://github.com/ccMSC/ckb) - RGB Driver for Linux and OS X.
-- [Piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices.
-- Razer
-  - [OpenRazer](https://openrazer.github.io/) - Open source driver and user-space daemon that allows you to manage your Razer peripherals on GNU/Linux. [openrazer.github.io/#ubuntu](https://openrazer.github.io/#ubuntu)
-  - [Polychromatic](https://github.com/polychromatic/polychromatic) - RGB lighting management software for GNU/Linux. Powered by OpenRazer (soon to be vendor agnostic). [polychromatic.app](https://polychromatic.app)
-  - [RazerGenie ](https://github.com/z3ntu/RazerGenie) - Qt application for configuring your Razer devices under GNU/Linux.
-  - [RazerCommander](https://github.com/GabMus/razerCommander) - Simple GUI written in Gtk3.
-  - [Snake](http://bithatch.co.uk/snake.html) - a stylised tool and tray applet for configuring Razer devices on Linux, written in Java.
-  - [Chroma Feedback](https://github.com/redaxmedia/chroma-feedback) - Turn your Razer keyboard, mouse or headphone into a extreme feedback device.
+
+### Table of content
+- [Gaming on Linux](#gaming-on-linux)
+  - [Games](#games)
+- [OS dedicated for gaming](#os-dedicated-for-gaming)
+- [Peripherals](#Peripherals)
 
 ## OS dedicated for gaming
 - [Drauger OS](https://draugeros.org/)
@@ -62,3 +58,16 @@
 - [Itch.io](https://itch.io/) - Collection of some of the most unique, interesting, and independent creations you'll find on the web.
 - [gamejolt.com](https://gamejolt.com) - Hosting free and commercial indie games.
 
+
+## Peripherals
+- [AntiMicro](https://github.com/AntiMicro/antimicro) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
+- [AntiMicroX](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
+- [CKB](https://github.com/ccMSC/ckb) - RGB Driver for Linux and OS X.
+- [Piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices.
+- Razer
+  - [OpenRazer](https://openrazer.github.io/) - Open source driver and user-space daemon that allows you to manage your Razer peripherals on GNU/Linux. [openrazer.github.io/#ubuntu](https://openrazer.github.io/#ubuntu)
+  - [Polychromatic](https://github.com/polychromatic/polychromatic) - RGB lighting management software for GNU/Linux. Powered by OpenRazer (soon to be vendor agnostic). [polychromatic.app](https://polychromatic.app)
+  - [RazerGenie ](https://github.com/z3ntu/RazerGenie) - Qt application for configuring your Razer devices under GNU/Linux.
+  - [RazerCommander](https://github.com/GabMus/razerCommander) - Simple GUI written in Gtk3.
+  - [Snake](http://bithatch.co.uk/snake.html) - a stylised tool and tray applet for configuring Razer devices on Linux, written in Java.
+  - [Chroma Feedback](https://github.com/redaxmedia/chroma-feedback) - Turn your Razer keyboard, mouse or headphone into a extreme feedback device.
