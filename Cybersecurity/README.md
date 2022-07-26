@@ -651,6 +651,7 @@ upstream_recursive_servers:
   - [Vinagre](https://wiki.gnome.org/Apps/Vinagre) - Vinagre is a remote desktop viewer for GNOME. 
   - [xRDP](https://github.com/neutrinolabs/xrdp) - Open source RDP server.
     - [Setting up RDP with Xfce](https://www.kali.org/docs/general-use/xfce-with-rdp/)
+      - [xfce4.sh](https://gitlab.com/kalilinux/recipes/kali-scripts/-/blob/main/xfce4.sh)
   - VNC (Virtual Network Computing)
     - [TigerVNC](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server.
     - [xVNC](http://xvnc.sourceforge.net/)
