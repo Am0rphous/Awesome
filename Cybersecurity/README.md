@@ -873,6 +873,8 @@ upstream_recursive_servers:
 
   ### Sandboxing tools
   - [BubbleWrap](https://github.com/containers/bubblewrap) - Unprivileged sandboxing tool
+  - [eBPF](https://ebpf.io/) - _"eBPF is a revolutionary technology with origins in the Linux kernel that can run sandboxed programs in an operating system kernel. It is used to safely and efficiently extend the capabilities of the kernel without requiring to change kernel source code or load kernel modules."_
+    - [Awesome eBPF](https://github.com/zoidbergwill/awesome-ebpf) - A curated list of awesome projects related to eBPF. 
   - [FireJail](https://github.com/netblue30/firejail) - SUID sandbox program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces, seccomp-bpf and Linux capabilities. [FireJail Homepage](https://firejail.wordpress.com/)
   - [Windows_Sandbox_Editor](https://github.com/damienvanrobaeys/Windows_Sandbox_Editor) - Generate and manage your windows sandbox.
   - [Run-in-Sandbox](https://github.com/damienvanrobaeys/Run-in-Sandbox) - Run PS1, VBS, EXE, MSI in Windows Sandbox very quickly just from a right-click.
