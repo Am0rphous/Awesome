@@ -473,11 +473,13 @@ sudo apt-get install redshift-gtk
   - [EmojiPedia.org](https://emojipedia.org/)
   - [Emote](https://github.com/tom-james-watson/Emote) - Emoji Picker for Linux written in GTK3.
   - [Fontawesome.com's icons](https://fontawesome.com/v4.7/icons/)
+  - [Free Gophers Pack](https://github.com/MariaLetta/free-gophers-pack) - ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more. 
   - [Icon](https://github.com/bung87/icon) - Icon file generator for Windows, macOS, Web.
   - [Icônes](https://github.com/antfu/icones) - Icon Explorer with Instant searching, powered by Iconify 
   - [Icons8.com](https://icons8.com/icons/)
   - [Material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google.
   - [Npm-icon-gen](https://github.com/akabekobeko/npm-icon-gen) - Icon file generator for Windows, macOS, Web.
+  - [Mega Doodles Pack](https://github.com/MariaLetta/mega-doodles-pack) - 🔥 Big vector pack with hand-drawn doodles for presentations, social media, blog posts and so on 
   ### iOS
   - [Awesome iOS](https://github.com/vsouza/awesome-ios)| A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
   - [Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps) - 📱 Collaborative List of Open-Source iOS Apps.
