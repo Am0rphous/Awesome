@@ -586,6 +586,8 @@ sudo apt-get install redshift-gtk
 - [GetBestBooks.com](https://getbestbooks.com) - Free ebooks.
 - [Hacking Books](https://github.com/tanc7/hacking-books)
 - [HonKit](https://github.com/honkit/honkit) - 📖 HonKit is building beautiful books using Markdown - Fork of GitBook.
+- [Library Genesis+](https://libgen.li/)
+  - [ibgen.is](https://libgen.is/)
 - [Linux-Books](https://github.com/manjunath5496/Linux-Books) - "We all love Linux, but it's also a fact that some people might not be able to migrate." - Miguel de Icaza.
 - [NasjonalBiblioteket](https://www.nb.no/) - Norwegian library
 - [PdfDrive.com](https://www.pdfdrive.com) - search engine for PDF files.
