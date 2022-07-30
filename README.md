@@ -270,11 +270,12 @@ Communicate clearly <br>
     - [keys.openpgp.org](https://keys.openpgp.org/)
 
   ### IRC
+  - [awesome-irc](https://github.com/davisonio/awesome-irc) - A curated list of awesome IRC resources.
   - [Kiwi IRC](https://kiwiirc.com)
   - [Limnoria](https://github.com/progval/Limnoria) - A robust, full-featured, and user/programmer-friendly Python IRC bot, with many existing plugins. Successor of the well-known Supybot.
   - [Logbot](https://github.com/dannvix/Logbot) - Simple IRC logger with realtime web-based viewer.
   - [Mibbit](https://www.mibbit.com/)
-  - [Quassel-irc](https://quassel-irc.org)
+  - [Quassel](https://quassel-irc.org) - [Source Code](https://github.com/quassel/quassel)
   #### IRC Clients
   - [Birch](https://github.com/dylanaraps/birch) - An IRC client written in bash.
   - [HexChat](https://github.com/hexchat/hexchat) - IRC client for Windows and UNIX-like operating systems [hexchat.github.io](https://hexchat.github.io)
@@ -284,7 +285,7 @@ Communicate clearly <br>
   - [Pidgin](https://www.pidgin.im) - instant messaging program which lets you log in to accounts on multiple chat networks simultaneously. It runs on Windows, Linux, and other UNIX operating systems.
   - [Polari](https://github.com/GNOME/polari) - source IRC client for the GNOME desktop environment. [wiki.gnome.org/Apps/Polari](https://wiki.gnome.org/Apps/Polari)
   - [Rirc](https://github.com/rcr/rirc) -  A terminal IRC client in C. [rcr.io/rirc](http://rcr.io/rirc/)
-  - Quassel, HexChat, WeeChat, Konversation, XChat, Smuxi, Polari, KVIrc, ERC, : https://www.ubuntupit.com/top-20-best-irc-clients-for-linux-that-you-should-use-everyday/
+  - WeeChat, Konversation, XChat, Smuxi, Polari, KVIrc, ERC, : https://www.ubuntupit.com/top-20-best-irc-clients-for-linux-that-you-should-use-everyday/
   - [TheLounge](https://thelounge.chat) - self-hosted web IRC client.
     #### IRC Servers
     - [ngIRCd](https://ngircd.barton.de/) -  ngIRCd is a free, portable and lightweight Internet Relay Chat server for small or private networks, developed under the GNU General Public License (GPL).
