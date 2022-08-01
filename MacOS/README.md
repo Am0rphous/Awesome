@@ -2,9 +2,6 @@
 
 - [Softwareupdate-full-installer](https://github.com/chris1111/Softwareupdate-full-installer) - Command Line script to download Install macOS 
 
-## Anti-Virus, Anti-Malware, Rootkits and infections
-- [Dylib Hijack Scanner](https://objective-see.com/products/dhs.html)
-
 ## Collection of various resources
 - [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
 - [Awesome macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
@@ -49,6 +46,7 @@ ps axu | grep "/bin/tor"
   - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX.
   ### Security
   - [DoNotDisturb](https://github.com/objective-see/DoNotDisturb) - Detect Evil Maid Attacks. 'Do Not Disturb' (DnD) is a free open-source security tool for macOS that aims to detect unauthorized physical access to your laptop!
+  - [Dylib Hijack Scanner](https://objective-see.com/products/dhs.html)
   - [ReiKey](https://github.com/objective-see/ReiKey) - Malware and other applications may install persistent keyboard "event taps" to intercept your keystrokes. ReiKey can scan, detect, and monitor for such taps!
 
 ## Sound
@@ -66,6 +64,8 @@ ps axu | grep "/bin/tor"
 - [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) - Intel Bluetooth Drivers for macOS.
 - [itlwm](https://github.com/OpenIntelWireless/itlwm) - Intel Wi-Fi Drivers for macOS.
 - [Keka](https://github.com/aonez/Keka) - The macOS file archiver.
+- [lsusb](https://github.com/jlhonora/lsusb) - Install with `brew install lsusb`
+  - Use this in stead `brew install -s usbutils`
 - [MacForge](https://github.com/MacEnhance/MacForge) - Plugin, App, and Theme store which includes plugin injection for macOS.
 - [MacHack](https://github.com/kendfinger/MacHack) - Hidden Tools in macOS.
 - [MacOS Fortress](https://github.com/essandess/macOS-Fortress) - Firewall and Privatizing Proxy for Trackers, Attackers, Malware, Adware, and Spammers with Anti-Virus On-Demand and On-Access Scanning (PF, squid, privoxy, hphosts, dshield, emergingthreats, hostsfile, PAC file, clamav).
