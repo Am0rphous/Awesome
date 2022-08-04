@@ -35,6 +35,7 @@
 - [LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall.
   - Install with `brew install lulu`
 - Tor
+  - The torrc file is located at `~/Library/Application Support/TorBrowser-Data/Tor`
 ````powershell
 brew install tor
 brew services start tor
