@@ -828,6 +828,7 @@ upstream_recursive_servers:
   #### iOS Specific
   - [Authenticator](https://github.com/mattrubin/Authenticator) - Two-Factor Authentication Client for iOS.
   - [Krypton-ios](https://github.com/kryptco/krypton-ios) - Krypton turns your iOS device into a WebAuthn/U2F Authenticator: strong, unphishable 2FA.
+  - [Tofu](https://github.com/calleluks/Tofu) - An easy-to-use two-factor authentication app for iOS
 
   #### MacOS Specific
   - [Authenticator](https://github.com/torinkwok/Authenticator) - 🔒 Happy Two-Factor Verifying!
