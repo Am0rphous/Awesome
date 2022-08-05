@@ -100,6 +100,7 @@ Communicate clearly <br>
   - [Note Taking Apps](#note-taking-apps)
     - [Pastebins](#pastebins)
   - [Office Tools](#office-tools)
+    - [Fonts](#fonts)
   - [Project Management](#project-management)
   - [Reference Management](#reference-management)
   - [Time Management](#time-management)
@@ -932,6 +933,9 @@ Based on that data, you can find the most popular ones and their alternatives.
   - [OnlyOffice](https://www.onlyoffice.com) - Office productivity suite. [Flatpak](https://flathub.org/apps/details/org.onlyoffice.desktopeditors)
   - [SoftMaker Office](https://www.softmaker.com/en/softmaker-office-download) - Free for 30 days.
   - [TagSpaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support.
+  ### Fonts
+  - [85+ Best Free and Premium Hack Fonts](https://hyperpix.net/fonts/hack-fonts/)
+  
   ### Project Management
   - [Plan](https://calligra.org/plan/index.html) - Plan is a project management application. It is intended for managing moderately large projects with multiple resources.To enable you to model your project adequately, Plan offers different types of task dependencies and timing constraints. The usual use case is to define your tasks, estimate the effort needed to perform each task, allocate resources and then let Plan schedule the tasks according to network and resource availability. 
   - [Planner](https://github.com/alainm23/planner) - Task manager with Todoist support designed for GNU/Linux 🚀 
