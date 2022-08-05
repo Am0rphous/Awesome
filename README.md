@@ -965,6 +965,7 @@ Based on that data, you can find the most popular ones and their alternatives.
     - [Framadate](https://framagit.org/framasoft/framadate/framadate) - [Framadate.org](https://framadate.org/) is an online service for planning an appointment or making a decision quickly and easily. It's a community free/libre software alternative to Doodle.
 
   ### Weather
+  - [Earth](https://github.com/cambecc/earth) - a project to visualize global weather conditions. [earth.nullschool.net](https://earth.nullschool.net)
   - [HDFM](https://github.com/KYDronePilot/hdfm) - A program that displays weather and traffic maps received from NRSC-5 (HDFM) radio station.
   - [wittr.in](https://github.com/chubin/wttr.in) - ⛅ The right way to check the weather.
 
