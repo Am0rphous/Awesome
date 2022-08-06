@@ -120,6 +120,7 @@ ps axu | grep "/bin/tor"
   - [Open Virtualization Format Tool (ovftool)](https://code.vmware.com/web/tool/4.4.0/ovf) - VMware OVF Tool is a command-line utility that allows you to import and export OVF packages to and from many VMware products.
 
 ## Macbook with Linux
+- [Asahi Linux ](https://asahilinux.org/) <-- NICE: "Asahi Linux aims to bring you a polished Linux® experience on Apple Silicon Macs."
 - [bcwc_pcie](https://github.com/patjak/bcwc_pcie) - Reverse engineered Linux driver for the FacetimeHD (Broadcom 1570) PCIe webcam.
 - [Hw-probe](https://github.com/linuxhw/hw-probe) - Probe for hardware, check operability and find drivers.
 - [Linux ARM M1](https://github.com/corellium/linux-m1)
@@ -135,6 +136,7 @@ ps axu | grep "/bin/tor"
   ### Macbook Pro 14.3 (late 2017)
   - [BCM43602_macbookpro](https://github.com/andyholst/BCM43602_macbookpro) - Bruteforce test the boardflags 3 for 2.4 Ghz and 5 Ghz band
     - [Solution which makes the wifi work](https://bugzilla.kernel.org/show_bug.cgi?id=193121#c52) - [Original thread](https://github.com/Dunedan/mbp-2016-linux/issues/47)
+    - [Maybe this works brcmfmac43602-pcie.txt](https://github.com/Dunedan/mbp-2016-linux/files/4977482/brcmfmac43602-pcie.txt)
   - [Sonal's macbookpro14-3 repo](https://github.com/sonals/macbookpro14-3)
 
 ## Productivity
