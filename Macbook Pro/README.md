@@ -130,10 +130,12 @@ ps axu | grep "/bin/tor"
 - [State of Linux on the MacBook Pro 2016 & 2017](https://github.com/Dunedan/mbp-2016-linux) - Provides an overview about Linux support for Apple's MacBook Pro 2016 and MacBook Pro 2017 models.
 
   ### Linux tools specificly for Macbook
-  - [mbpfan](https://github.com/linux-on-mac/mbpfan) - A simple daemon to control fan speed on all MacBook/MacBook Pros (probably all Apple computers) for Linux Kernel 3 and newer 
+  - [mbpfan](https://github.com/linux-on-mac/mbpfan) - A simple daemon to control fan speed on all MacBook/MacBook Pros (probably all Apple computers) for Linux Kernel 3 and newer
+  
   ### Macbook Pro 14.3 (late 2017)
   - [BCM43602_macbookpro](https://github.com/andyholst/BCM43602_macbookpro) - Bruteforce test the boardflags 3 for 2.4 Ghz and 5 Ghz band
     - [Solution which makes the wifi work](https://bugzilla.kernel.org/show_bug.cgi?id=193121#c52) - [Original thread](https://github.com/Dunedan/mbp-2016-linux/issues/47)
+  - [Sonal's macbookpro14-3 repo](https://github.com/sonals/macbookpro14-3)
 
 ## Productivity
 - [Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts 
