@@ -807,6 +807,7 @@ Based on that data, you can find the most popular ones and their alternatives.
     - [Funkwhale for YunoHost](https://github.com/YunoHost-Apps/funkwhale_ynh) - A modern, convivial and free music server on YunoHost.
     - [Gonic](https://github.com/sentriz/gonic) - Music streaming server / subsonic server API implementation.
     - [Icecast-Server](https://gitlab.xiph.org/xiph/icecast-server) - Icecast streaming media server.
+    - [navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
     - [Subsonic](http://www.subsonic.org/pages/index.jsp) - Music streaming server.
       - [Subsonic App List](http://www.subsonic.org/pages/apps.jsp)
     - [Ultrasonic](https://github.com/ultrasonic/ultrasonic) - Free and open-source music streaming Android client for Subsonic API compatible servers.
