@@ -876,6 +876,7 @@ Based on that data, you can find the most popular ones and their alternatives.
 - [RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible.
 - [Terminews](https://github.com/antavelos/terminews) - Manage RSS sources and display news feed in terminal.
 - [Wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
+- [yarr](https://github.com/nkanaev/yarr) - yet another rss reader
 
 ## Productivity Tools
 - [Albert Launcher](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher. [Homepage](https://albertlauncher.github.io/)
