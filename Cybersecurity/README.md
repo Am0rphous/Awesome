@@ -816,6 +816,7 @@ upstream_recursive_servers:
     - [Passwordless login with Yubikey 5 NFC](https://askubuntu.com/questions/1167691/passwordless-login-with-yubikey-5-nfc)
     - [Ubuntu Linux Login Guide - U2F ](https://support.yubico.com/hc/en-us/articles/360016649099-Ubuntu-Linux-Login-Guide-U2F)
     - [Using Your U2F YubiKey with Linux ](https://support.yubico.com/hc/en-us/articles/360013708900-Using-Your-U2F-YubiKey-with-Linux)
+    - [Awesome Webauthn](https://github.com/herrjemand/awesome-webauthn) - A curated list of awesome WebAuthn/FIDO2 and now Passkey resources
     - [Yubico Authenticator](https://github.com/Yubico/yubioath-desktop) - Yubico Authenticator for Desktop (Windows, macOS and Linux).
     - [YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey for GPG and SSH 
     #### TOP
