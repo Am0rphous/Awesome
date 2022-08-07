@@ -489,7 +489,8 @@ lsscsi                          #Print SCSI Devices Info
     - [Awesome Anomaly Detection by zhuyiche](https://github.com/zhuyiche/awesome-anomaly-detection) - A complete list of papers on anomaly detection. 
 
   #### Attack Surface Monitoring
-  - [Awesome Attack Surface Monitoring](https://github.com/0xtavian/awesome-attack-surface-monitoring) - Curated list of open-source & paid Attack Surface Monitoring (ASM) tools. 
+  - [Awesome Attack Surface Monitoring](https://github.com/0xtavian/awesome-attack-surface-monitoring) - Curated list of open-source & paid Attack Surface Monitoring (ASM) tools.
+  - [Proteus](https://github.com/pry0cc/proteus) - A projectdiscovery driven attack surface monitoring bot powered by axiom
 
   #### Cloud Monitoring
   - [Nightingale](https://github.com/didi/nightingale) - An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and management. 
