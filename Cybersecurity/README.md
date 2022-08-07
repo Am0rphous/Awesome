@@ -1067,6 +1067,7 @@ upstream_recursive_servers:
     - [Watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
     - [Weave](https://github.com/weaveworks/weave) -  Simple, resilient multi-host containers networking and more. Weaveworks is the company that delivers the most productive way for developers to connect, observe and control Docker containers.
       - [Weave Scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes.
+  - [dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers
   - [Images by linuxserver.io](https://fleet.linuxserver.io)
   - [Kata Containers](https://katacontainers.io/) - [Kata Containers snap package](https://github.com/kata-containers/kata-containers/blob/main/docs/install/snap-installation-guide.md)
   - [SecretScanner](https://github.com/deepfence/SecretScanner) - Find secrets and passwords in container images and file systems.
