@@ -331,6 +331,7 @@ Communicate clearly <br>
     - [Gitify](https://github.com/manosim/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
     - [Giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions.
     - [GitNoter](https://github.com/git-noter/gitnoter) - An open source, markdown-based, self-hosted note taking webapp. 
+    - [metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
   - [GitLab](https://about.gitlab.com/install/) - web-based DevOps lifecycle tool that provides a Git-repository manager providing wiki, issue-tracking and continuous integration and deployment pipeline features, using an open-source license, developed by GitLab Inc.
     - [Gitlab Watchman](https://github.com/PaperMtn/gitlab-watchman) - Monitoring GitLab for sensitive data shared publicly.
     - [Package Hunter CLI](https://gitlab.com/gitlab-org/security-products/package-hunter-cli/-/blob/main/README.md#gitlab-ci) - Behavorial monitoring for identifying malicious dependencies. [link for later](https://news.itsfoss.com/gitlab-open-source-tool-malicious-code/)
