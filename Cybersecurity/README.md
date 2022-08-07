@@ -799,13 +799,13 @@ upstream_recursive_servers:
 
   ### Authenticators
   - [2fast](https://github.com/2fast-team/2fast) - Two-Factor Authenticator Supporting TOTP (Windows 10 & Android, iOS, Linux and macOS App).
-  - [AndOTP](https://github.com/andOTP/andOTP) - Open source two-factor authentication for Android.
   - [Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
   - [Authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. [goauthentik.io](https://goauthentik.io/)
   - [Einmal](https://github.com/incipher/einmal) - ⏱ The two-factor authentication app you deserve.
   - [Hasura Auth](https://github.com/nhost/hasura-auth) - The open source authentication service for Hasura. 
   - [OTP Auth](https://apps.apple.com/us/app/otp-auth/id659877384) - https://cooperrs.de/otpauth.html - `ios`
   - [Otplib](https://github.com/yeojz/otplib) - 🔑 One Time Password (OTP) / 2FA for Node.js and Browser - Supports HOTP, TOTP and Google Authenticator.
+  - [SoloKeys](https://solokeys.com/) - hardware tokens
   - YubiKey
     - [Installing Yubico Software on Linux](https://support.yubico.com/hc/en-us/articles/360016649039-Enabling-the-Yubico-PPA-on-Ubuntu)
     - [LUKS-Encrypted Filesystem with Yubikey PBA](https://github.com/sgillespie/nixos-yubikey-luks)
@@ -826,6 +826,7 @@ upstream_recursive_servers:
   
   #### Android Specific
   - [Aegis Authenticator](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
+  - [AndOTP](https://github.com/andOTP/andOTP) - Open source two-factor authentication for Android.
 
   #### iOS Specific
   - [Authenticator](https://github.com/mattrubin/Authenticator) - Two-Factor Authentication Client for iOS.
