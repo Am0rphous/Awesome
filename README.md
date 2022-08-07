@@ -881,6 +881,7 @@ Based on that data, you can find the most popular ones and their alternatives.
 
 ## Productivity Tools
 - [Albert Launcher](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher. [Homepage](https://albertlauncher.github.io/)
+- [coggle.it](https://coggle.it/)
 - [CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features.
 - [DopplerTask](https://github.com/dopplertask/dopplertask) - A revolutionary open-source automation tool 
 - [GoAlert](https://github.com/target/goalert) - Open source on-call scheduling, automated escalations, and notifications so you never miss a critical alert.
