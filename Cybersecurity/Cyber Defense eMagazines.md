@@ -7,7 +7,8 @@ The most recent emagazines at the top.
 - November [~~Cyber Defense eMagazine~~](https://www.cyberdefensemagazine.com/newsletters/november-2022/CDM-CYBER-DEFENSE-eMAGAZINE-November-2022.pdf)
 - October [~~Cyber Defense eMagazine~~](https://www.cyberdefensemagazine.com/newsletters/october-2022/CDM-CYBER-DEFENSE-eMAGAZINE-October-2022.pdf)
 - September [~~Cyber Defense eMagazine~~](https://www.cyberdefensemagazine.com/newsletters/september-2022/CDM-CYBER-DEFENSE-eMAGAZINE-September-2022.pdf)
-- August [~~Cyber Defense eMagazine~~](https://www.cyberdefensemagazine.com/newsletters/august-2022/CDM-CYBER-DEFENSE-eMAGAZINE-August-2022.pdf)
+<br>
+- August [Cyber Defense eMagazine](https://www.cyberdefensemagazine.com/newsletters/august-2022/CDM-CYBER-DEFENSE-eMAGAZINE-August-2022.pdf)
 - July [Cyber Defense eMagazine](https://www.cyberdefensemagazine.com/newsletters/july-2022/CDM-CYBER-DEFENSE-eMAGAZINE-July-2022.pdf)
 - June [Cyber Defense eMagazine](https://www.cyberdefensemagazine.com/newsletters/june-2022/CDM-CYBER-DEFENSE-eMAGAZINE-June-2022.pdf)
 - May [Cyber Defense eMagazine](https://www.cyberdefensemagazine.com/newsletters/may-2022/CDM-CYBER-DEFENSE-eMAGAZINE-May-2022.pdf)
