@@ -38,6 +38,7 @@ Description: _Reinforcement learning is an area of machine learning concerned wi
 - [Camera Classifier](https://github.com/NeuralNine/camera-classifier) - A Python application that uses camera input to train a SVM to respond to specific actions.
 - [CrypTen](https://github.com/facebookresearch/CrypTen) - A framework for Privacy Preserving Machine Learning.
 - [Emojifier](https://github.com/Anandesh-Sharma/Emojifier) - Recognizes faces in real time and predict emoji according to the emotion.
+- [envd](https://github.com/tensorchord/envd) - 🏕️ Development environment for machine learning
 - [GoLearn](https://github.com/sjwhitworth/golearn) - Machine Learning for Go.
 - [Machine Learning and Security](https://github.com/13o-bbr-bbq/machine_learning_security) - Source code about machine learning and security.
 - [ML Visuals](https://github.com/dair-ai/ml-visuals) - ML Visuals contains figures and templates which you can reuse and customize to improve your scientific writing.
