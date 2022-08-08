@@ -715,6 +715,7 @@ Based on that data, you can find the most popular ones and their alternatives.
 - [Wwmark](https://github.com/mylamour/Wwmark) - Watermark Swiss Army Knife.
 
   ### Image and pictures
+  - [Chaotica](https://chaoticafractals.com/download) -  Chaotica is free for noncommercial use, and can render up to 1.23 megapixel images (e.g. 1280x960 resolution) and up to 30 second 480p animations without a licence.
   - [Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework.
   - [DarkTable](https://github.com/darktable-org/darktable) - open source photography workflow application and raw developer. A virtual lighttable and darkroom for photographers. [darktable.org](https://www.darktable.org)
   - [DigiKam from KDE](https://www.digikam.org) - [Github](https://github.com/KDE/digikam) Advanced open-source digital photo management application that runs on Linux, Windows, and MacOS. The application provides a comprehensive set of tools for importing, managing, editing, and sharing photos and raw files.
