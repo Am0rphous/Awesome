@@ -1047,17 +1047,19 @@ Based on that data, you can find the most popular ones and their alternatives.
 ## Web Browsers
 - [Chromium](https://www.chromium.org/) - With Chromium, you get rid of all the tracking features that Google Chrome boasts.
   - [ungoogled-chromium Github](https://github.com/Eloston/ungoogled-chromium)
-- [Brave Browser](https://brave.com/download)
+
 - [Elza Browser](https://elzabrowser.com/) - Private, fast and minimal web browser based on electron with built-in tor.
-- [Mozilla Firefox](https://www.mozilla.org)
-  - [Pale Moon](https://www.palemoon.org)
+- [Pale Moon](https://www.palemoon.org)
 - [Waterfox](https://www.waterfox.net)
 
   ### Privacy focused
+  - [Brave Browser](https://brave.com/download)
   - [Bromite](https://www.bromite.org) - Bromite a Chromium fork with ad blocking and privacy enhancements; take back your browser!
   - [IceCat](https://www.gnu.org/software/gnuzilla)
   - [Iridium Browser](https://iridiumbrowser.de) - A browser securing your privacy. That's it.
   - [LibreWolf](https://librewolf.net/)
+  - [Mozilla Firefox](https://www.mozilla.org)
+    - [Yet Another Firefox Hardening Guide](https://chrisx.xyz/blog/yet-another-firefox-hardening-guide/)
   - [Tenta](https://tenta.com)
   - [Tor Browser](https://www.torproject.org) - **Best one!**
   
