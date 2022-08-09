@@ -406,6 +406,7 @@ bro / zeek
 - [HiddenWall](https://github.com/CoolerVoid/HiddenWall) - Tool to generate a Linux kernel module for custom rules with Netfilter hooking. (block ports, Hidden mode, firewall functionst).
 - iptables
   - [iptables-essentials](https://github.com/trimstray/iptables-essentials) -  Iptables Essentials: Common Firewall Rules and Commands.
+- [OpenSnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
 - [UFW - Uncomplicated Firewall]()
   - [Block Visitors by Country with ‘ufw’](https://minnmyatsoe.com/2019/02/21/ubuntu-how-to-block-visitors-by-country-with-ufw/)
 ### Port Knocking
