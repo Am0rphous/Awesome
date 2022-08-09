@@ -1052,12 +1052,15 @@ Based on that data, you can find the most popular ones and their alternatives.
 - [Mozilla Firefox](https://www.mozilla.org)
   - [Pale Moon](https://www.palemoon.org)
 - [Waterfox](https://www.waterfox.net)
+
   ### Privacy focused
   - [Bromite](https://www.bromite.org) - Bromite a Chromium fork with ad blocking and privacy enhancements; take back your browser!
   - [IceCat](https://www.gnu.org/software/gnuzilla)
   - [Iridium Browser](https://iridiumbrowser.de) - A browser securing your privacy. That's it.
+  - [LibreWolf](https://librewolf.net/)
   - [Tenta](https://tenta.com)
   - [Tor Browser](https://www.torproject.org) - **Best one!**
+  
   ### Search Engines
   - [DuckDuckGo](https://duckduckgo.com)
     - [IP addresses - Web crawler DuckDuckGo](https://help.duckduckgo.com/duckduckgo-help-pages/results/duckduckbot/)
