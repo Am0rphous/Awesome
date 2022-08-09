@@ -164,6 +164,7 @@ getcap            #examine file capabilities
 ## Firmware
 - [BinWalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool.
 - [The Firmware Analysis and Comparison Tool (FACT)](https://github.com/fkie-cad/FACT_core) - Firmware Analysis and Comparison Tool.
+- [unblob](https://github.com/onekey-sec/unblob) - Extract files from any kind of container formats
 
 
 ## Frameworks
