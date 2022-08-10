@@ -306,6 +306,7 @@ Communicate clearly <br>
 
   ### Secure Communication
   - [Berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network.
+  - [Briar](https://briarproject.org/) - Briar is a messaging app designed for activists, journalists, and anyone else who needs a safe, easy and robust way to communicate. Unlike traditional messaging tools such as email, Twitter or Telegram, Briar doesn't rely on a central server - messages are synchronized directly between the users' devices. If the Internet's down, Briar can sync via Bluetooth or Wi-Fi, keeping information flowing in a crisis. If the Internet's up, Briar can sync via the Tor network, protecting users and their relationships from surveillance.
   - [CryptPad](https://github.com/xwiki-labs/cryptpad) - Collaboration suite, encrypted and open-source.
   - [Darkwire.io](https://github.com/darkwire/darkwire.io) - End-to-end encrypted instant web chat [https://darkwire.io](https://darkwire.io).
   - [Jami](https://git.jami.net/savoirfairelinux/ring-project) - Jami is a serverless peer-to-peer communication platform that delivers maximum privacy via end-to-end encryption. Installation e.g. `sudo snap install jami-gnome` [snapcraft.io/jami-gnome](https://snapcraft.io/jami-gnome)
