@@ -986,6 +986,7 @@ Based on that data, you can find the most popular ones and their alternatives.
 ## Social Media
 - [Caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app.
 - [Diaspora](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network.
+- [Profile Pic Maker](https://pfpmaker.com/) - Make an awesome profile picture from any photo 
   ### Images
   - [PixelFed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
     #### Instagram
