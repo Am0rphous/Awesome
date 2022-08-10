@@ -1274,8 +1274,10 @@ upstream_recursive_servers:
     - [Angular CLI](https://github.com/angular/angular-cli) - TypeScript -based open-source web application framework.
     - [Protractor]() - E2E test framework for Angular apps [www.protractortest.org](http://www.protractortest.org)
   - [Ant Design](https://github.com/ant-design/ant-design) - 🌈 A UI Design Language and React UI library.
-  - [awesome-web-effect](https://github.com/lindelof/awesome-web-effect) - A series of exquisite and compact web page cool effects.
+  - [Awesome Web Effect](https://github.com/lindelof/awesome-web-effect) - A series of exquisite and compact web page cool effects.
   - [Bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-  - [brusher](https://github.com/kamranahmedse/brusher) - Create beautiful webpage backgrounds 
+  - [Brusher](https://github.com/kamranahmedse/brusher) - Create beautiful webpage backgrounds.
+  - [CodeMirror](https://codemirror.net/) - CodeMirror is a code editor component for the web. It can be used in websites to implement a text input field with support for many editing features, and has a rich programming interface to allow further extension.
+    - [ThemeMirror](https://github.com/vadimdemedes/thememirror) - 🦚 Beautiful themes for CodeMirror  [thememirror.net](https://thememirror.net/)
   - [Developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021.
 
