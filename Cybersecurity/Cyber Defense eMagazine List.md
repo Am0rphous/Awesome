@@ -1,4 +1,4 @@
-# Cyber Defense eMagazines
+# Cyber Defense eMagazine List
 
 The most recent emagazines at the top.
 
