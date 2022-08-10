@@ -503,6 +503,7 @@ lsscsi                          #Print SCSI Devices Info
   #### ELK-stack
   - [Elasticsearch](https://github.com/elastic/elasticsearch) - Open Source, Distributed, RESTful Search Engine.
     - [detection-rules](https://github.com/elastic/detection-rules) -  Rules for Elastic Security's detection engine.
+      - [Protections Artifacts](https://github.com/elastic/protections-artifacts) - Elastic Security detection content for Endpoint 
     - [ee-outliers](https://github.com/NVISOsecurity/ee-outliers) - Open-source framework to detect outliers in Elasticsearch events.
   - [HELK](https://github.com/Cyb3rWard0g/HELK) - The Hunting ELK.
   - [LogStash](https://github.com/elastic/logstash) -  Logstash - transport and process your logs, events, or other data.
