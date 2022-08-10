@@ -771,6 +771,7 @@ Based on that data, you can find the most popular ones and their alternatives.
    - [ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly.
    - [FFscreencast](https://github.com/cytopia/ffscreencast) - ffscreencast - ffmpeg screencast/desktop-recording with video overlay and multi monitor support.
    - [Free assets for your next video project](https://mixkit.co/)
+   - [ Free Stock Video Footage ](https://www.videvo.net/)
    - [Kap](https://github.com/wulkano/Kap) -  An open-source screen recorder built with web technology.
    - [Kazam](https://github.com/hzbd/kazam) - Kazam is a simple screen recording program that will capture the content of your screen.
    - [Kdenlive](https://invent.kde.org/multimedia/kdenlive) - Free and open source video editor, based on MLT Framework and KDE Frameworks 5. [Github](https://github.com/KDE/kdenlive)
@@ -780,6 +781,7 @@ Based on that data, you can find the most popular ones and their alternatives.
    - [Pitivi](https://www.pitivi.org/) - Free video editor with a beautiful and intuitive user interface, a clean codebase and a fantastic community.
    - [Screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥.
    - [SSR (SimpleScreenRecorder)](https://github.com/MaartenBaert/ssr) - SimpleScreenRecorder, a screen recorder for Linux
+   - 
    - [Xtreme Download Manager](https://github.com/subhra74/xdm) -  Powerfull download accelerator and video downloader.
 
   ### Media Servers
