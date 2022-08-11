@@ -127,26 +127,8 @@ Communicate clearly <br>
 
 | Name | Description |
 | - | - |
-| [Awesome AppSec](https://github.com/paragonie/awesome-appsec) | A curated list of resources for learning about application security |
-|[Awesome Azure Security](https://github.com/kmcquade/awesome-azure-security) | A curated list of awesome Microsoft Azure Security tools, guides, blogs, and other resources.|
-|[Awesome Broadcasting](https://github.com/ebu/awesome-broadcasting) | A curated list of amazingly awesome open source resources related to broadcast technologies |
-|[Awesome Cheatsheet](https://github.com/detailyang/awesome-cheatsheet) |🍻 awesome cheatsheet.|
-|[Awesome CLI](https://github.com/umutphp/awesome-cli) |A simple command line tool to give you a fancy command line interface to dive into Awesome lists.|
-|[Awesome Cloud Security](https://github.com/4ndersonLin/awesome-cloud-security) | 🛡️ Awesome Cloud Security Resources ⚔️.|
-|[awesome Console Services](https://github.com/chubin/awesome-console-services) | A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols).|
-|[Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) | Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.|
-|[Awesome cve poc](https://github.com/qazbnm456/awesome-cve-poc) |A curated list of CVE PoCs.|
-|[Awesome Cyber Security](https://github.com/alphaSeclab/awesome-cyber-security) | Currently contains 8000+ open source repositories, and not very well classified.|
-|[Awesome Cyber Security Newsletters](https://github.com/TalEliyahu/awesome-security-newsletters) | Periodic cyber security newsletters that capture the latest news, summaries of conference talks, research, best practices, tools, events, vulnerabilities, and analysis of trending threats and attacks.|
-|[Awesome Cybersecurity Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam) | 💻🛡️ A curated collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.|
-|[Awesome Cybersecurity Interships](https://github.com/paralax/awesome-cybersecurity-internships) | a list of cybersecurity internships.|
-|[Awesome Design](https://github.com/gztchan/awesome-design) | Curated design resources.|
 |[Awesome DevSecOps](https://github.com/devsecops/awesome-devsecops) | An authoritative list of awesome devsecops tools with the help from community experiments and contributions.|
-| [Awesome Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security#awesome-embedded-and-iot-security) | A curated list of awesome embedded and IoT security resources.|
-| [Awesome Fenix](https://github.com/fenixsoft/awesome-fenix) | 讨论如何构建一套可靠的大型分布式系统.|
-| [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources) | A collection of hacking / penetration testing resources to make you better.|
 | [Awesome Humane Tech](https://github.com/humanetech-community/awesome-humane-tech)| Promoting Solutions that Improve Wellbeing, Freedom and Society |
-| [Awesome IAM](https://github.com/kdeldycke/awesome-iam) | 👤 Identity and Access Management Knowledge for Cloud Platforms.|
 | [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk)|Awesome Indexed|
 | [Awesome Industrial Control System Security](https://github.com/hslatman/awesome-industrial-control-system-security) | A curated list of resources related to Industrial Control System (ICS) security.|
 | [Awesome Intelligence Writing](https://github.com/mxm0z/awesome-intelligence-writing) | Awesome collection of great and useful resources concerning intelligence writing such as manuals/guides, standards, books, and articles.|
@@ -156,34 +138,6 @@ Communicate clearly <br>
 | [Awesome list of secrets in environment variables](https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables)| 🦄🔒 Awesome list of secrets in environment variables 🖥️.|
 | [Awesome Linux](https://github.com/inputsh/awesome-linux) | 🐧 A list of awesome projects and resources that make Linux even more awesome. 🐧|
 | [Awesome Loginless](https://github.com/fiatjaf/awesome-loginless) | an awesome list of internet services that don't require logins or registrations.|
-| [Awesome Machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)| A curated list of awesome machine learning interpretability resources. |
-| [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) | Machine Learning for Cyber Security.|
-| [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)| Defund the Police. |
-| [Awesome Movies For Hackers](https://github.com/k4m4/movies-for-hackers) | 🎬 A curated list of movies every hacker & cyberpunk must watch.|
-| [Awesome Open Source](https://awesomeopensource.com)| Find Open Source By Searching, Browsing and Combining 7,000 Topics Across 59 Categories And 337,263 Projects|
-| [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts)| Collection of awesome podcasts |
-| [Awesome Python](https://github.com/vinta/awesome-python)| A curated list of awesome Python frameworks, libraries, software and resources.|
-| [Awesome Security](https://github.com/sbilly/awesome-security) | A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.|
-| [Awesome Security Apis](https://github.com/jaegeral/security-apis) | A collective list of public APIs for use in security. Contributions welcome.|
-| [Awesome Security Hardening](https://github.com/decalage2/awesome-security-hardening) | A collection of awesome security hardening guides, tools and other resources.|
-| [Awesome Security Talks](https://github.com/PaulSec/awesome-sec-talks)| A collected list of awesome security talks.|
-| [Awesome Search](https://awesomelists.top)|There are so many awesome lists in the 🕶 sindresorhus/awesome. |
-| [awesome-search by frutik](https://github.com/frutik/awesome-search)| Awesome Search - this is all about the (e-commerce) search and its awesomeness.|
-| [Awesome Selfhosted](https://gitlab.com/awesome-selfhosted/awesome-selfhosted)| This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.|
-| [Awesome Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture) | A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles.|
- [Awesome SSH](https://github.com/moul/awesome-ssh)| 💻 A curated list of SSH resources. |
-| [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin#metric--metric-collection) |  MOVED/ARCHIVED A curated list of amazingly awesome open source sysadmin resources.|
-| [Awesome Termux](https://github.com/T4P4N/Awesome-Termux)| Awesome Termux :- Bash Scripts, Wiki, Articles,Shells & Many More... |
-| [Awesome Ubuntu](https://github.com/awesome-soft/awesome-ubuntu) | A curated list of awesome software for Ubuntu.|
-| [Awesome Ubuntu Startup](https://github.com/trinib/Awesome-Ubuntu-Startup) |😎Basic yet awesome stuff for Ubuntu based distributions😎.|
-| [Awesome UNIX](https://github.com/sirredbeard/Awesome-UNIX) | All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.|
-|[Awesome Uxn](https://github.com/hundredrabbits/awesome-uxn) |Awesome things from the community.|
-[Awesome WAF](https://github.com/0xInfection/Awesome-WAF) | 🔥 Everything about web-application firewalls (WAF).|
-| [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) | A curated list of Web Security materials and resources.|
-|[Awesome Workflow Engines](https://github.com/meirwah/awesome-workflow-engines) | A curated list of awesome open source workflow engines.|
-|[Awesome WSL](https://github.com/sirredbeard/Awesome-WSL) | Awesome list dedicated to Windows Subsystem for Linux.|
-|[Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) | 🔗 Some useful websites for programmers.|
-|[StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome)| ⚡️A browser extension that takes you to a random site from one of the awesome curated lists. Like good ol' StumbleUpon, for developers, tech & science lovers. |
 <br>
 
 - [StarGazed](https://github.com/abhijithvijayan/stargazed) - Creating your own Awesome List of GitHub stars!
