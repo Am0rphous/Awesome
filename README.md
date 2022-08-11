@@ -903,6 +903,7 @@ Based on that data, you can find the most popular ones and their alternatives.
   - [Libre Cloud Services](https://www.opendesktop.org/)
   - [Libre Office](https://www.libreoffice.org/)
   - [OnlyOffice](https://www.onlyoffice.com) - Office productivity suite. [Flatpak](https://flathub.org/apps/details/org.onlyoffice.desktopeditors)
+  - [pdftotext](https://www.xpdfreader.com/pdftotext-man.html) - Portable Document Format (PDF) to text converter
   - [SoftMaker Office](https://www.softmaker.com/en/softmaker-office-download) - Free for 30 days.
   - [TagSpaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support.
   ### Fonts
