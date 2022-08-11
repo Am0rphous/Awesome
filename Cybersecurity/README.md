@@ -110,7 +110,9 @@ bro / zeek
 - [The Norwegian Nynorsk morphology and tools](https://github.com/giellalt/lang-nno-x-ext-apertium) - Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Norwegian Nynorsk language.
 <br>
 
-- [awesome-network-stuff](https://github.com/alphaSeclab/awesome-network-stuff) - Resources about network security, including: Proxy/GFW/ReverseProxy/Tunnel/VPN/Tor/I2P, and MiTM/PortKnocking/NetworkSniff/NetworkAnalysis/etc。More than 1700 open source tools for now. Post incoming. 
+- [Awesome Network Stuff](https://github.com/alphaSeclab/awesome-network-stuff) - Resources about network security, including: Proxy/GFW/ReverseProxy/Tunnel/VPN/Tor/I2P, and MiTM/PortKnocking/NetworkSniff/NetworkAnalysis/etc。More than 1700 open source tools for now. Post incoming. 
+- [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin#metric--metric-collection) |  MOVED/ARCHIVED A curated list of amazingly awesome open source sysadmin resources.
+- [Awesome Ubuntu](https://github.com/awesome-soft/awesome-ubuntu) | A curated list of awesome software for Ubuntu.
 - [File Integrity Monitoring](https://cybersecurity.att.com/solutions/pci-dss-file-integrity-monitoring
 - [FireEye's ThreatPursuit-VM](https://github.com/fireeye/ThreatPursuit-VM) - A fully customizable, open-sourced Windows-based distribution focused on threat intelligence analysis and hunting designed for intel and malware analysts as well as threat hunters to get up and running quickly.
 - [RedWolfIntelligence's Open-Source-Security-List-](https://github.com/RedWolfIntelligence/Open-Source-Security-List-)
@@ -662,7 +664,8 @@ upstream_recursive_servers:
     - [xVNC](http://xvnc.sourceforge.net/)
 - [SSH](https://www.openssh.com)
   - [Aker SSH Gateway](https://github.com/aker-gateway/Aker) - SSH bastion/jump host/jumpserver.
-  - [ASSH](https://github.com/moul/assh) - 💻 make your ssh client smarter 
+  - [ASSH](https://github.com/moul/assh) - 💻 make your ssh client smarter
+  - [Awesome SSH](https://github.com/moul/awesome-ssh)| 💻 A curated list of SSH resources.
   - [DropBear SSH](https://github.com/mkj/dropbear) - S smallish SSH server and client. [https://matt.ucc.asn.au](https://matt.ucc.asn.au)
   - [Portable OpenSSH](https://github.com/openssh/openssh-portable)
   - [SSH2](https://github.com/mscdex/ssh2) - SSH2 client and server modules written in pure JavaScript for node.js.
@@ -787,6 +790,8 @@ upstream_recursive_servers:
 
 ## Security Tools
 - [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) - Machine Learning for Cyber Security.
+- [Awesome Security Hardening](https://github.com/decalage2/awesome-security-hardening) | A collection of awesome security hardening guides, tools and other resources.
+- [Awesome Security Talks](https://github.com/PaulSec/awesome-sec-talks)| A collected list of awesome security talks.
 - [Etcdmanager](https://github.com/gtamas/etcdmanager) - A cross-platform GUI and ETCD client.
 - [Horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode.
 - [Loki](https://github.com/Neo23x0/Loki) - Loki - Simple IOC and Incident Response Scanner.
