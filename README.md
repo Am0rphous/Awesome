@@ -424,6 +424,7 @@ sudo apt-get install redshift-gtk
 
 ## Development
 - [Awesome Community](https://github.com/phpearth/awesome-community) - A curated list of awesome programming, development, technical support and discussion channels, groups, communities, resources and other shiny things.
+- [Awesome Design](https://github.com/gztchan/awesome-design) - Curated design resources.
 - [Capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️ .
 - [Devilbox](https://github.com/cytopia/devilbox) - A modern Docker LAMP stack and MEAN stack for local development.
 - [DocToc](https://doctoc.herokuapp.com/) - Generates table of content for markdown files inside github repositories Tweet.
@@ -502,6 +503,7 @@ sudo apt-get install redshift-gtk
   - [Make Apps for Linux](https://makealinux.app/#/)
   
   ### Programming
+  - [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
   - [Awesome Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture) | A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles.
   - [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) | 🔗 Some useful websites for programmers.
   - [Dart SDK](https://github.com/dart-lang/sdk) - Dart is an open-source, scalable programming language, with robust libraries and runtimes, for building web, server, and mobile apps.
