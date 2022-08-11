@@ -662,6 +662,7 @@ upstream_recursive_servers:
     - [xVNC](http://xvnc.sourceforge.net/)
 - [SSH](https://www.openssh.com)
   - [Aker SSH Gateway](https://github.com/aker-gateway/Aker) - SSH bastion/jump host/jumpserver.
+  - [ASSH](https://github.com/moul/assh) - 💻 make your ssh client smarter 
   - [DropBear SSH](https://github.com/mkj/dropbear) - S smallish SSH server and client. [https://matt.ucc.asn.au](https://matt.ucc.asn.au)
   - [Portable OpenSSH](https://github.com/openssh/openssh-portable)
   - [SSH2](https://github.com/mscdex/ssh2) - SSH2 client and server modules written in pure JavaScript for node.js.
