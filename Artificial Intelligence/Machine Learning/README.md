@@ -35,6 +35,7 @@ Description: _Reinforcement learning is an area of machine learning concerned wi
 
 ## Resources
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
+- [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) | Machine Learning for Cyber Security.
 - [Camera Classifier](https://github.com/NeuralNine/camera-classifier) - A Python application that uses camera input to train a SVM to respond to specific actions.
 - [CrypTen](https://github.com/facebookresearch/CrypTen) - A framework for Privacy Preserving Machine Learning.
 - [Emojifier](https://github.com/Anandesh-Sharma/Emojifier) - Recognizes faces in real time and predict emoji according to the emotion.
