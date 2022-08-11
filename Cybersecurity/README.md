@@ -920,6 +920,7 @@ upstream_recursive_servers:
 - [ASCII Banner](https://manytools.org/hacker-tools/ascii-banner)
 - [Autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal. [fig.io](https://fig.io/)
 - [Awesome CLI](https://github.com/umutphp/awesome-cli) - A simple command line tool to give you a fancy command line interface to dive into Awesome lists.
+- [Awesome Console Services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols).
 - [Awesome Shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [Awesome Termux](https://github.com/T4P4N/Awesome-Termux) - Android terminal emulator and Linux environment app that works directly with no rooting or setup required.
 - [B-Menu](https://github.com/bartobri/bmenu) - A general purpose terminal menu that focuses on ease of configuration and use.
