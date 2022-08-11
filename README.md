@@ -444,6 +444,7 @@ sudo apt-get install redshift-gtk
 - [Wing](https://github.com/kbrsh/wing) - A beautiful CSS framework designed for minimalists [kbrsh.github.io](https://kbrsh.github.io/wing/).
 
   ### API
+  - [Awesome Security APIs](https://github.com/jaegeral/security-apis) | A collective list of public APIs for use in security. Contributions welcome.
   - [Kong](https://github.com/Kong/kong) - The Cloud-Native API Gateway.
 
   ### Backend
