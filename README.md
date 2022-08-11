@@ -737,6 +737,7 @@ Based on that data, you can find the most popular ones and their alternatives.
   - [Pixeluvo](http://www.pixeluvo.com) - A Beautifully Designed Image and Photo Editor for Windows and Linux.
   - [Posters, drawings... ](https://github.com/corkami/pics)
   - [RawTherapee](https://github.com/Beep6581/RawTherapee) - A powerful cross-platform raw photo processing program [rawtherapee.com](https://rawtherapee.com).
+  
    #### Graphs, Charts, Diagrams and Data Visualization
    - [Amcharts.com](https://www.amcharts.com/) - Programming library for all your data visualization needs.
       - [Live.amcharts.com](https://live.amcharts.com/)
@@ -744,7 +745,7 @@ Based on that data, you can find the most popular ones and their alternatives.
    - [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the `<canvas>` tag.
    - [Chartify](https://github.com/spotify/chartify) - Python library that makes it easy for data scientists to create charts.
    - [Chartist.js](https://github.com/gionkunz/chartist-js) - Simple responsive charts.
-   - [cloud.smartdraw.com](https://cloud.smartdraw.com)
+   - [Cloud.smartdraw.com](https://cloud.smartdraw.com)
    - [D3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. 📊📈🎉 
    - [Drawio Desktop](https://github.com/jgraph/drawio-desktop) - drawio-desktop is a diagrams.net desktop app based on Electron.
      - [Drawio - app.diagrams.net](https://app.diagrams.net) - diagrams.net is open source, online, desktop and container deployable diagramming software.
@@ -752,6 +753,7 @@ Based on that data, you can find the most popular ones and their alternatives.
    - [ExcaliDraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams.
    - [Flot](https://www.flotcharts.org/)
    - [Gephi - The Open Graph Viz Platform](https://github.com/gephi/gephi) - award-winning open-source platform for visualizing and manipulating large graphs. For Linux, Mac and Windows.
+   - [Gliffy.com](https://www.gliffy.com/) - The Easy Way to Draw A Diagram Online
    - [HighchartTable](http://highcharttable.org/)
    - [Javascript Heatmap Charts](https://github.com/fusionchartsexpress/JavascriptHeatmapCharts)
    - [jChaart](https://github.com/oazabir/jChaart) - Javascript and HTML based Web Dashboard framework.
