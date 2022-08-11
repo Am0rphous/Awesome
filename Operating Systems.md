@@ -82,6 +82,8 @@ distribution into a Live Kit (formely known as Live CD).
 - [KDE Neon](https://neon.kde.org)
 - [KDE Plasma](https://kde.org)
 - [Linux Lite](https://www.linuxliteos.com/) - Based on Debian and Ubuntu. Lightweigth OS. Perfect OS if you want to go from Windows to a Windows-like OS but want it to be Linux.
+- [Linux Mint](https://linuxmint.com/)
+  - [Awesome Mint Setup](https://github.com/trinib/Awesome-Mint-Setup) - 😎 Awesome setup for Linux Mint Cinnamon 
 - [Manjaro](https://manjaro.org)
 - [MX Linux](https://mxlinux.org) - Midweight Simple Stable Desktop OS.
 - [Nitrux OS](https://nxos.org)
