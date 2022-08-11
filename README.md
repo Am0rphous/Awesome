@@ -231,6 +231,7 @@ Communicate clearly <br>
 
   ### IRC
   - [awesome-irc](https://github.com/davisonio/awesome-irc) - A curated list of awesome IRC resources.
+  - [BitlBee](https://github.com/bitlbee/bitlbee) - An IRC to other chat networks gateway :bee:
   - [Kiwi IRC](https://kiwiirc.com)
   - [Limnoria](https://github.com/progval/Limnoria) - A robust, full-featured, and user/programmer-friendly Python IRC bot, with many existing plugins. Successor of the well-known Supybot.
   - [Logbot](https://github.com/dannvix/Logbot) - Simple IRC logger with realtime web-based viewer.
