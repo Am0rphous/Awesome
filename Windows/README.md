@@ -48,5 +48,6 @@
 ## Terminal / CMD / PowerShell
 - [Awesome Windows Command-line](https://github.com/Awesome-Windows/awesome-windows-command-line) - ◼️ Use your Windows terminal to do awesome things.
 - [Windows Terminal](https://github.com/Microsoft/Terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-- [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10) -Windows Subsystem for Linux.
+- [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10) - Windows Subsystem for Linux.
+  - [Awesome WSL](https://github.com/sirredbeard/Awesome-WSL) | Awesome list dedicated to Windows Subsystem for Linux.
   - [WSL gui](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios.
