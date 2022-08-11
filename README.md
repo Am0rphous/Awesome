@@ -282,7 +282,9 @@ Communicate clearly <br>
   - [Logbot](https://github.com/dannvix/Logbot) - Simple IRC logger with realtime web-based viewer.
   - [Mibbit](https://www.mibbit.com/)
   - [Quassel](https://quassel-irc.org) - [Source Code](https://github.com/quassel/quassel)
+  
   #### IRC Clients
+  - [Adium](https://github.com/adium/adium) - Adium is an open source and free instant messaging application for macOS that can connect to XMPP (Jabber), IRC and more. 
   - [Birch](https://github.com/dylanaraps/birch) - An IRC client written in bash.
   - [HexChat](https://github.com/hexchat/hexchat) - IRC client for Windows and UNIX-like operating systems [hexchat.github.io](https://hexchat.github.io)
   - [Irssi](https://irssi.org/) - vpowerful text-mode IRC client.
@@ -314,11 +316,7 @@ Communicate clearly <br>
     - [Jibri](https://github.com/jitsi/jibri) - Jitsi BRoadcasting Infrastructure. Jibri provides services for recording or streaming a Jitsi Meet conference.
     - [Set Up Jibri for Jitsi Recording/Streaming](https://nerdonthestreet.com/s/15) - This tutorial will demonstrate how to install Jibri to add recording and streaming functionality to a Jitsi Meet server.
   - [Session](https://getsession.org/) - Session is an end-to-end encrypted messenger that minimises sensitive metadata, designed and built for people who want absolute privacy and freedom from any form of surveillance. [Session Desktop](https://github.com/oxen-io/session-desktop) - Session Desktop - Onion routing based messenge.
-  - [Signal](https://www.signal.org)
-    - [Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
-    - [Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - Private Messenger for Windows, Mac, and Linux.
-    - [Signal-iOS](https://github.com/signalapp/Signal-iOS) - A private messenger for iOS.
-    - [Signal-Server](https://github.com/signalapp/Signal-Server) - Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS.
+  - [Signal](https://www.signal.org) - Supports any platform (Linux, MacOS, Windows, Android and iOS)
   - [Wire](https://github.com/wireapp/wire) - [app.wire.com](https://app.wire.com/auth/)
 
   ### Version Control, Wiki, Knowledge base
