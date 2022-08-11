@@ -241,7 +241,7 @@ Communicate clearly <br>
   - [Adium](https://github.com/adium/adium) - Adium is an open source and free instant messaging application for macOS that can connect to XMPP (Jabber), IRC and more. 
   - [Birch](https://github.com/dylanaraps/birch) - An IRC client written in bash.
   - [HexChat](https://github.com/hexchat/hexchat) - IRC client for Windows and UNIX-like operating systems [hexchat.github.io](https://hexchat.github.io)
-  - [Irssi](https://irssi.org/) - vpowerful text-mode IRC client.
+  - [Irssi](https://irssi.org/) - vpowerful text-mode IRC client. [Source code](https://github.com/irssi/irssi)
   - [Kirc](https://github.com/mcpcpc/kirc) -  A tiny IRC client written in POSIX C99.
   - [LimeChat](https://github.com/psychs/limechat) - IRC Client for Mac.
   - [Pidgin](https://www.pidgin.im) - instant messaging program which lets you log in to accounts on multiple chat networks simultaneously. It runs on Windows, Linux, and other UNIX operating systems.
