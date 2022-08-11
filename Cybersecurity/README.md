@@ -111,8 +111,10 @@ bro / zeek
 <br>
 
 - [Awesome Network Stuff](https://github.com/alphaSeclab/awesome-network-stuff) - Resources about network security, including: Proxy/GFW/ReverseProxy/Tunnel/VPN/Tor/I2P, and MiTM/PortKnocking/NetworkSniff/NetworkAnalysis/etc。More than 1700 open source tools for now. Post incoming. 
+- [Awesome Selfhosted](https://gitlab.com/awesome-selfhosted/awesome-selfhosted)| This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
 - [Awesome Sysadmin](https://github.com/n1trux/awesome-sysadmin#metric--metric-collection) |  MOVED/ARCHIVED A curated list of amazingly awesome open source sysadmin resources.
 - [Awesome Ubuntu](https://github.com/awesome-soft/awesome-ubuntu) | A curated list of awesome software for Ubuntu.
+- [Awesome UNIX](https://github.com/sirredbeard/Awesome-UNIX) | All the UNIX and UNIX-Like: Linux, BSD, macOS, Illumos, 9front, and more.
 - [File Integrity Monitoring](https://cybersecurity.att.com/solutions/pci-dss-file-integrity-monitoring
 - [FireEye's ThreatPursuit-VM](https://github.com/fireeye/ThreatPursuit-VM) - A fully customizable, open-sourced Windows-based distribution focused on threat intelligence analysis and hunting designed for intel and malware analysts as well as threat hunters to get up and running quickly.
 - [RedWolfIntelligence's Open-Source-Security-List-](https://github.com/RedWolfIntelligence/Open-Source-Security-List-)
@@ -126,8 +128,9 @@ bro / zeek
 - [Apache Directory Studio](https://directory.apache.org/studio/) - complete directory tooling platform intended to be used with any LDAP server however it is particularly designed for use with ApacheDS. 
 - [FreeIPA](https://github.com/freeipa/freeipa) -  Mirror of FreeIPA, an integrated security information management solution. [freeipa.org](https://www.freeipa.org)
 - [JXplorer](https://github.com/pegacat/jxplorer) - an open source LDAP browser.
-- [ LDAP Browser For MAC ](https://ldapbrowsermac.com/)
+- [LDAP Browser For MAC](https://ldapbrowsermac.com/)
 - [Openldap](https://github.com/openldap/openldap) - free, open-source implementation of the Lightweight Directory Access Protocol (LDAP) developed by the OpenLDAP Project.
+
   ### Security
   - [WatchAD](https://github.com/0Kee-Team/WatchAD) - AD Security Intrusion Detection System.
     - [WatchAD-Web](https://github.com/0Kee-Team/WatchAD-Web) - A simple web platform for WatchAD.
@@ -790,6 +793,7 @@ upstream_recursive_servers:
 
 ## Security Tools
 - [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) - Machine Learning for Cyber Security.
+- [Awesome Security](https://github.com/sbilly/awesome-security) | A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 - [Awesome Security Hardening](https://github.com/decalage2/awesome-security-hardening) | A collection of awesome security hardening guides, tools and other resources.
 - [Awesome Security Talks](https://github.com/PaulSec/awesome-sec-talks)| A collected list of awesome security talks.
 - [Etcdmanager](https://github.com/gtamas/etcdmanager) - A cross-platform GUI and ETCD client.
