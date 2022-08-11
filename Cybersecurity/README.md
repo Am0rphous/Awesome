@@ -793,6 +793,9 @@ upstream_recursive_servers:
 
 ## Security Tools
 - [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) - Machine Learning for Cyber Security.
+- [Awesome Cyber Security](https://github.com/alphaSeclab/awesome-cyber-security) - Currently contains 8000+ open source repositories, and not very well classified.
+- [Awesome Cybersecurity Interships](https://github.com/paralax/awesome-cybersecurity-internships) - a list of cybersecurity internships.
+- [Awesome Cyber Security Newsletters](https://github.com/TalEliyahu/awesome-security-newsletters) - Periodic cyber security newsletters that capture the latest news, summaries of conference talks, research, best practices, tools, events, vulnerabilities, and analysis of trending threats and attacks.
 - [Awesome Security](https://github.com/sbilly/awesome-security) | A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 - [Awesome Security Hardening](https://github.com/decalage2/awesome-security-hardening) | A collection of awesome security hardening guides, tools and other resources.
 - [Awesome Security Talks](https://github.com/PaulSec/awesome-sec-talks)| A collected list of awesome security talks.
