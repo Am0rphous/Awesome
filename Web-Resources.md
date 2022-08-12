@@ -143,7 +143,7 @@
 - [Linux Training Academy](https://www.linuxtrainingacademy.com) - _"We Help IT Professionals Level-Up Their Careers by Teaching Them Practical Linux Skills."_
 - [Lorn.tech](https://www.lorn.tech) - masse nyttige podcasts.
 - [Its FOSS.com](https://itsfoss.com) - Open source related articles published on It’s FOSS.
-- [sans.org](https://www.sans.org/emea/)
+- [sans.org](https://www.sans.org/emea/) - Cyber Security Training, Certifications, Degrees and Resources 
 - [SecJuice.com](https://www.secjuice.com) - Non-profit cyber goodness.
 - [Spyboy blog](https://spyboy.blog) - Learn ethical hacking , cyber security, computer programming, networking, android tricks and windows tricks.
 - [SS64](https://ss64.com) - Reference guide containing syntax and examples for the most prevalent computing commands (Database and Operating System).
