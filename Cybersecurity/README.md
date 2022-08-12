@@ -815,6 +815,7 @@ upstream_recursive_servers:
   - [Authenticator](https://github.com/Authenticator-Extension/Authenticator) - Authenticator generates 2-Step Verification codes in your browser.
   - [Authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. [goauthentik.io](https://goauthentik.io/)
   - [Einmal](https://github.com/incipher/einmal) - ⏱ The two-factor authentication app you deserve.
+  - [FreeOTP](https://github.com/freeotp) - Android, iOS, MacOS, Linux, Windows
   - [Hasura Auth](https://github.com/nhost/hasura-auth) - The open source authentication service for Hasura. 
   - [OTP Auth](https://apps.apple.com/us/app/otp-auth/id659877384) - https://cooperrs.de/otpauth.html - `ios`
   - [Otplib](https://github.com/yeojz/otplib) - 🔑 One Time Password (OTP) / 2FA for Node.js and Browser - Supports HOTP, TOTP and Google Authenticator.
@@ -835,7 +836,6 @@ upstream_recursive_servers:
     #### TOP
     - [yubikey-totp](https://packages.debian.org/python-yubico-tools) - generate a TOTP code from a secret stored on the key. 
     - [Yubico Authenticator (debian package)](https://packages.debian.org/yubioath-desktop) - generate OATH-HOTP and OATH-TOTP one-time password codes from secretes protected by the key.
-  - [ZITADEL](https://github.com/zitadel/zitadel) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era. 
   
   #### Android Specific
   - [Aegis Authenticator](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
