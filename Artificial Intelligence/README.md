@@ -55,6 +55,10 @@ Note: https://favouriteblog.com/50-best-github-artificial-intelligence/
 - [Yolov4-deepsort by theAIGuysCode ](https://github.com/theAIGuysCode/yolov4-deepsort) - Object tracking implemented with YOLOv4, DeepSort, and TensorFlow.
   - [Roboflow Object Tracking Example](https://github.com/roboflow-ai/zero-shot-object-tracking) - Object tracking implemented with the Roboflow Inference API, DeepSort, and OpenAI CLIP.
 
+## Design
+- [DALL·E 2](https://openai.com/dall-e-2/) - DALL·E 2 is a new AI system that can create realistic images and art from a description in natural language.
+- [vizcom.ai](https://vizcom.ai/) - AI creative tools for artists and designers
+
  ### Face / Emotions
  - [Deep-PoC](https://github.com/PoCInnovation/Deep-PoC) - Deep-PoC is a deepFake detection tool designed to detect deepfakes from videos or images using artificial intelligence. 
  - [Detect Eyes and Detect Faces in Python](https://copyassignment.com/detect-eyes-and-detect-faces-in-python-and-opencv/)
