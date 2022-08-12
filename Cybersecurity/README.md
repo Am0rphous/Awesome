@@ -406,16 +406,6 @@ bro / zeek
 - [Warpinator](https://github.com/linuxmint/warpinator) - Share files across the LAN.
 - [Yarsync](https://github.com/ynikitenko/yarsync) - Yet Another Rsync: synchronize files between Linux systems.
 
-## Firewall
-- [GoTestWAF](https://github.com/wallarm/gotestwaf) - An open-source project in Golang to test different web application firewalls (WAF) for detection logic and bypasses.
-- [HiddenWall](https://github.com/CoolerVoid/HiddenWall) - Tool to generate a Linux kernel module for custom rules with Netfilter hooking. (block ports, Hidden mode, firewall functionst).
-- iptables
-  - [iptables-essentials](https://github.com/trimstray/iptables-essentials) -  Iptables Essentials: Common Firewall Rules and Commands.
-- [OpenSnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
-- [UFW - Uncomplicated Firewall]()
-  - [Block Visitors by Country with ‘ufw’](https://minnmyatsoe.com/2019/02/21/ubuntu-how-to-block-visitors-by-country-with-ufw/)
-### Port Knocking
-- [knockknock](https://github.com/moxie0/knockknock) - A simple, secure, and stealthy port knocking implementation that does not use libpcap or bind to a socket interface. 
 
 ## Hardware
 - [Hardinfo](https://github.com/lpereira/hardinfo) - System profiler and benchmark tool for Linux systems [hardinfo.org](http://hardinfo.org).
@@ -441,6 +431,7 @@ lsscsi                          #Print SCSI Devices Info
 - [Awesome Endpoint Detection and Response tools](https://github.com/remiflavien1/awesome-endpoint-detection-and-response) - Collection of tool you need to have in your Endpoint Detection and Response arsenal.
 - [CrowdSec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative IPS able to analyze visitor behavior & provide an adapted response to all kinds of attacks. It also leverages the crowd power to generate a global CTI database to protect the user network.
 - [DenyHosts](https://github.com/denyhosts/denyhosts) - Automated host blocking from SSH brute force attacks.
+- [Ebpf-edr](https://github.com/bm9w/ebpf-edr) - eBPF-based EDR for Linux.
 - [Ehids-agent](https://github.com/ehids/ehids-agent) - A Linux Host-based Intrusion Detection System based on eBPF. 
   - [Ecapture](https://github.com/ehids/ecapture) - capture SSL/TLS text content without CA cert by eBPF.
 - [EmoCheck](https://github.com/JPCERTCC/EmoCheck) -  Emotet detection tool for Windows OS.
@@ -448,6 +439,7 @@ lsscsi                          #Print SCSI Devices Info
 - [FwKnop (FireWall KNock OPerator)](https://github.com/mrash/fwknop) - Single Packet Authorization > Port Knocking.
 - [FwSnort](https://github.com/mrash/fwsnort) - Application Layer IDS/IPS with iptables.
   - [FwSnort Docs](http://www.cipherdyne.org/fwsnort/docs)
+- [Louis](https://github.com/sourque/louis) - Linux EDR written in Golang and based on eBPF.
 - [Ossec](https://github.com/ossec/ossec-hids) - OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response. [ossec.net](http://www.ossec.net/)
 - [Psad](https://github.com/mrash/psad) - Intrusion Detection with iptables Logs.
   - [How to Install and Use PSAD IDS on Ubuntu Linux](https://blog.rapid7.com/2017/06/24/how-to-install-and-use-psad-ids-on-ubuntu-linux) - Nice Tutorial.
@@ -465,9 +457,19 @@ lsscsi                          #Print SCSI Devices Info
 - [Teler](https://github.com/kitabisa/teler) -  Real-time HTTP Intrusion Detection.
 - [TripWire](https://github.com/Tripwire/tripwire-open-source) - Security and data integrity tool for monitoring and alerting on file & directory changes. 
 - [Wazuh](https://github.com/wazuh/wazuh/) - free and open source platform used for threat prevention, detection, and response. It is capable of protecting workloads across on-premises, virtualized, containerized, and cloud-based environments.
-## EDR specific
-- [Ebpf-edr](https://github.com/bm9w/ebpf-edr) - eBPF-based EDR for Linux.
-- [Louis](https://github.com/sourque/louis) - Linux EDR written in Golang and based on eBPF.
+
+
+### Firewall
+- [GoTestWAF](https://github.com/wallarm/gotestwaf) - An open-source project in Golang to test different web application firewalls (WAF) for detection logic and bypasses.
+- [HiddenWall](https://github.com/CoolerVoid/HiddenWall) - Tool to generate a Linux kernel module for custom rules with Netfilter hooking. (block ports, Hidden mode, firewall functionst).
+- iptables
+  - [iptables-essentials](https://github.com/trimstray/iptables-essentials) -  Iptables Essentials: Common Firewall Rules and Commands.
+- [OpenSnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
+- [UFW - Uncomplicated Firewall]()
+  - [Block Visitors by Country with ‘ufw’](https://minnmyatsoe.com/2019/02/21/ubuntu-how-to-block-visitors-by-country-with-ufw/)
+### Port Knocking
+- [knockknock](https://github.com/moxie0/knockknock) - A simple, secure, and stealthy port knocking implementation that does not use libpcap or bind to a socket interface. 
+
 
 ## Monitoring
 - [Adminator HTML5 Admin Template](https://github.com/puikinsh/Adminator-admin-dashboard) - Adminator is a easy to use and well design admin dashboard template for web apps, websites, services and more.
