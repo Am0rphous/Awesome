@@ -26,7 +26,6 @@
   - [Admin panels](#admin-panels)
 - [Databases](#databases)
 - [Dell Spesific Tools](#dell-spesific-tools)
-- [Ebooks, PDFs and helpful resources](#ebooks-pdfs-and-helpful-resources)
 - [File Sharing](#file-sharing)
 - [Hardware](#hardware)
 - [EDR, IDS, HIDS and IPS](#edr-ids-hids-and-ips)
@@ -380,12 +379,7 @@ bro / zeek
 - [Encrypted DNS servers and relays](https://www.reddit.com/r/dnscrypt/comments/hllymo/new_encrypted_dns_servers_and_relays/)
 - [Lists of public DNSCrypt and DoH servers](https://github.com/DNSCrypt/dnscrypt-resolvers) - Lists of public DNSCrypt / DoH DNS servers and DNS relays.
 
-## Ebooks, PDFs and helpful resources
-- [Books](https://github.com/briskinfosec/Books) - Free Online Books for all infosec folks & students who want to stay shine in information security domain and for their research purpose.
-- [Devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions.
-- [GeekGuide - Linux in the Time of Malware](https://www.linuxjournal.com/sites/default/files/2018-11/GeekGuide-Bit9-3.pdf)
-- [GeekGuide - SysAdmin 101](https://www.linuxjournal.com/sites/default/files/2018-12/SysAdmin101-Ebook.pdf)
-- [linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel.
+
 
 ## File Sharing
 - [Flying Carpet](https://github.com/spieglt/FlyingCarpet) - Encrypted file transfer over ad hoc WiFi. No network infrastructure required, just two laptops in close range. Linux, Mac, and Windows.
