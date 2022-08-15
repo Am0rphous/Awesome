@@ -124,6 +124,7 @@ bro / zeek
 
 
 ## Active Directory & LDAP
+- [ADsys](https://github.com/ubuntu/adsys) - Active Directory bridging tool suite
 - [Apache Directory Studio](https://directory.apache.org/studio/) - complete directory tooling platform intended to be used with any LDAP server however it is particularly designed for use with ApacheDS. 
 - [FreeIPA](https://github.com/freeipa/freeipa) -  Mirror of FreeIPA, an integrated security information management solution. [freeipa.org](https://www.freeipa.org)
 - [JXplorer](https://github.com/pegacat/jxplorer) - an open source LDAP browser.
