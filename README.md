@@ -993,6 +993,8 @@ Based on that data, you can find the most popular ones and their alternatives.
 
 ## Tools
 - [lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm.
+- [QR Code Generator](https://www.qr-code-generator.com/)
+
   ### DVD-ripping
   - [Asunder](http://littlesvr.ca/asunder/) - Asunder is a graphical Audio CD ripper and encoder for Linux. You can use it to save tracks from an Audio CD as any of WAV, MP3, OGG, FLAC, Opus, WavPack, Musepack, AAC, and Monkey's Audio files.
 
