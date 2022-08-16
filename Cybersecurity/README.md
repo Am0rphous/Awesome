@@ -222,7 +222,8 @@ bro / zeek
 - [HashDB](https://github.com/OALabs/hashdb) - Assortment of hashing algorithms used in malware.
 - [HerdProtect](https://www.herdprotect.com/index.aspx) - Second line of defense malware scanning platform powered by 68 anti-malware engines in the cloud.
 - [Intezer Labs](https://github.com/intezer)
-- [linux-malware-detect](https://github.com/rfxn/linux-malware-detect) - Linux Malware Detection (LMD) [R-fx Networks](https://www.rfxn.com/projects/linux-malware-detect/).
+- [LibreDefender](https://github.com/kpcyrd/libredefender) - Imagine the information security compliance guideline says you need an antivirus but you run Arch Linux
+- [Linux Malware Detect (LMD)](https://github.com/rfxn/linux-malware-detect) - Linux Malware Detection (LMD) [R-fx Networks](https://www.rfxn.com/projects/linux-malware-detect/).
 - [Kjackal](https://github.com/dgoulet/kjackal) - Linux Rootkit Scanner 
 - [Malware-ioc by ESET](https://github.com/eset/malware-ioc) - Indicators of Compromises (IOC) of our various investigations.
 - [Microsoft Safety Scanner](https://docs.microsoft.com/en-us/windows/security/threat-protection/intelligence/safety-scanner-download) - Microsoft Safety Scanner is a scan tool designed to find and remove malware from Windows computers.
