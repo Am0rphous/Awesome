@@ -1070,6 +1070,7 @@ upstream_recursive_servers:
   ### Troubleshooting
   - [htrace.sh](https://github.com/trimstray/htrace.sh) -  My simple Swiss Army knife for http/https troubleshooting and profiling.
 ### USB
+- [CameraController](https://github.com/Itaybre/CameraController) - 📷 Control USB Cameras from an app
 - [Libuvc](https://github.com/libuvc/libuvc) - a cross-platform library for USB video devices.
 - [USBUtils](https://github.com/gregkh/usbutils) - USB utilities for Linux, including lsusb.
   - [LsUSB](https://github.com/linuxhw/LsUSB) - Most popular USB devices and lsusb reports.
