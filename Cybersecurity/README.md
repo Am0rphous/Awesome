@@ -74,6 +74,7 @@
 - [Utilities](#utilities)
   - [Archiver utilities](#archive-utilities)
   - [Create Bootable USB](#create-bootable-usb)
+  - [QR Codes](#qr-codes)
   - [USB](#usb)
 - [Virtualization](#virtualization)
   - [Container Technologies](#container-technologies)
@@ -1056,7 +1057,11 @@ upstream_recursive_servers:
      sudo add-apt-repository ppa:slimbook/slimbook
      sudo apt-get install slimbookbattery
      ````
-   - [TuneD](https://github.com/redhat-performance/tuned) - Tuning Profile Delivery Mechanism for Linux 
+   - [TuneD](https://github.com/redhat-performance/tuned) - Tuning Profile Delivery Mechanism for Linux
+   
+   ### QR Codes
+   - [QR Code Generator.com](https://www.qr-code-generator.com/) - Nice one
+   - [WiFi QR Code Generator](https://qifi.org/)
    
   ### Testing
   - [Cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
