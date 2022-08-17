@@ -564,13 +564,14 @@ sudo apt-get install redshift-gtk
 - [Linux Insides book](https://0xax.gitbooks.io/linux-insides/content/index.html) - [Source code](https://github.com/0xAX/linux-insides)
 - [NasjonalBiblioteket](https://www.nb.no/) - Norwegian library
 - [PdfDrive.com](https://www.pdfdrive.com) - search engine for PDF files.
+- [sci-hub.st](https://www.sci-hub.st/)
 - [Secure Coding Handbook](https://github.com/joswha/Secure-Coding-Handbook) - Web Application Secure Coding Handbook resource.
 - [The Arcane Algorithm Archive](https://github.com/algorithm-archivists/algorithm-archive) - A collaborative book on algorithms 
 - [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [The Cyber Plumber's Handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook) - _"This repo contains the PDF book The Cyber Plumber's Handbook - The definitive guide to Secure Shell (SSH) tunneling, port redirection, and bending traffic like a boss. The book was first published in October 2018 for purchase, but now I'm providing it for FREE to anyone interested in learning more about the magic of SSH tunnels and port redirection."_
 - [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/) - [Github development](https://github.com/sysprog21/lkmpg) -  The Linux Kernel Module Programming Guide (updated for 5.x kernels).
 - [TradePub.com](https://sf.tradepub.com) - The top resource for free professional and technical research, white papers, case studies, magazines, and eBooks.
-- [Z-lib.org](https://z-lib.org)
+- [Z-lib.org](https://z-lib.org) - the world’s largest e-book library
 
   ### E-books Readers
   - [Bookworm by blindpandas](https://getbookworm.com/) - The Universally Accessible document Reader. [Github](https://github.com/blindpandas/bookworm)
@@ -583,7 +584,7 @@ sudo apt-get install redshift-gtk
   - [Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper) - Download all your kindle books script. 
   - [Lucidor](https://www.lucidor.org/)
   - [Okular](https://github.com/KDE/okular) - KDE document viewer. Okular can view and annotate documents of various formats, including PDF, Postscript, Comic Book, and various image formats. It supports native PDF annotations.
-- [Sumatra PDF](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF is a multi-format (PDF, EPUB, MOBI, FB2, CHM, XPS, DjVu) reader for Windows under (A)GPLv3 license, with some code under BSD license (see AUTHORS).
+  - [Sumatra PDF](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF is a multi-format (PDF, EPUB, MOBI, FB2, CHM, XPS, DjVu) reader for Windows under (A)GPLv3 license, with some code under BSD license (see AUTHORS).
 
 ## Finance
 - [Firefly III:](https://github.com/firefly-iii/firefly-iii) - a personal finances manager 
