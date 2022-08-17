@@ -47,7 +47,7 @@
   - [Packet Capture](#packet-capture)
   - [Remoting](#remoting)
     - [VPN - Virtual Private Network](#vpn---virtual-private-network)
-      - [Free services](#free-services)
+      - [Services](#services)
   - [Storage](#storage)
     - [Online Storage Services](#online-storage-services)
   - [Switch](#switch)
@@ -718,9 +718,11 @@ upstream_recursive_servers:
     - [Wireguard-macOS-LinuxVM](https://github.com/mrash/Wireguard-macOS-LinuxVM) -  Send all traffic from macOS through Wireguard running on a Linux VM.
     - [Wireguard Whitepaper](https://www.wireguard.com/papers/wireguard.pdf) - WireGuard: Next Generation Kernel Network Tunnel.
 
-    #### Free services
+    #### Services
     - [Cryptofree](https://cryptostorm.is/cryptofree)
     - [FreeVPN.me](https://freevpn.me/)
+    - [JonDoNym - anonymous-proxy-servers.net](https://anonymous-proxy-servers.net/)
+      - [Combining Whonix ™ with JonDonym](https://www.whonix.org/wiki/JonDonym)
     
   ### Storage
   - [Libvirt Storage Management](https://libvirt.org/index.html)
