@@ -31,6 +31,7 @@ Table of content
 
 ## Productivity
 - [Jiffy Reader](https://github.com/ansh/jiffyreader.com#FAQ) -  A Browser Extension for Bionic Reading on ANY website! [Jiffy Reader on FireFox](https://addons.mozilla.org/en-US/firefox/addon/jiffy-reader/), [JiffyReader.com](https://www.jiffyreader.com/)
+- [Tomato Clock](https://addons.mozilla.org/en-US/firefox/addon/tomato-clock/) - [Source code](https://github.com/samueljun/tomato-clock) - Tomato Clock is a simple browser extension for managing your productivity. 
 
 ## Security
 - [Decentraleyes](https://decentraleyes.org/) - A web browser extension that emulates Content Delivery Networks to improve your online privacy.
