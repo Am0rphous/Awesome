@@ -245,6 +245,7 @@ bro / zeek
   - [Fireeye Red-Team's Yara rules](https://github.com/fireeye/red_team_tool_countermeasures/blob/master/all-yara.yar)
   - [MQuery](https://github.com/CERT-Polska/mquery) - YARA malware query accelerator (web frontend). Blazingly fast Yara queries for malware analysts
   - [Public Yara-Rules repo](https://github.com/Yara-Rules/rules) -  Repository of yara rules.
+  - [sauron](https://github.com/evilsocket/sauron) - A minimalistic cross-platform malware scanner with non-blocking realtime filesystem monitoring using YARA rules.
   - [Yara for Atom](https://atom.io/packages/language-yara)
   - [Yara Scanner](https://github.com/iomoath/yara-scanner) - YaraScanner is a threat hunting tool, based on Yara Rules.
   - [Yara for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=infosec-intern.yara)
