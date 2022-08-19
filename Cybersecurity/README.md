@@ -684,6 +684,7 @@ upstream_recursive_servers:
   - [Running Linux GUI applications in a Docker container using Xpra](https://mybyways.com/blog/running-linux-gui-applications-in-a-docker-container-using-xpra)
 
   #### VPN - Virtual Private Network
+  - [algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
   - [Create Mac OS VPNs programmatically](https://github.com/halo/macosvpn) - 🔧 Create macOS VPNs programmatically (L2TP & Cisco).
   - [Faceless](https://github.com/sh377c0d3/faceless) - VPN based on TOR Network for your Linux based distro.
   - [Gluetun VPN client](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
