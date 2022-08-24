@@ -1220,6 +1220,7 @@ upstream_recursive_servers:
 - [DNScrypt-proxy 2](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [FastTunnel](https://github.com/SpringHgui/FastTunnel) - NAT 内网穿透 远程内网计算机 域名访问内网站点 反向代理内网服务 花生壳 端口转发 http代理 微信 小程序 expose a local server behind a NAT or firewall to the internet like ngrok and frp. NAT ssh proxy tunnel reverse-proxy.
 - [Frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+- [Ghost](https://github.com/TryGhost/Ghost) - Ghost is a powerful app for new-media creators to publish, share, and grow a business around their content. It comes with modern tools to build a website, publish content, send newsletters & offer paid subscriptions to members.
 - [Hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [Lwan Web Server](https://github.com/lpereira/lwan) - Experimental, scalable, high performance HTTP server.
 - [MkChain](https://github.com/trimstray/mkchain) -  Open source tool to help you build a valid SSL certificate chain.
