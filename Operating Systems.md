@@ -2,16 +2,16 @@
 # Operating systems
 
 _Considering key questions:_
-- Supplier of distribution
-- criticality of the target application
-- security
-- life-cycle support for your product
-- Open Source community upon which it is based on
-- Is this for an IT application?
-- Is this for an OT (Operational Technology) application?
-- How long will this system be in the field?
-- ability to deliver security patches in a timely manner once systems are fielded.
-- What processes and procedures are used by my supplier to cover security vulnerabilities?_
+- _Supplier of distribution_
+- _Criticality of the target application_
+- _Security_
+- _Life-cycle support for your product_
+- _Open Source community upon which it is based on_
+- _Is this for an IT application?_
+- _Is this for an OT (Operational Technology) application?_
+- _How long will this system be in the field?_
+- _ability to deliver security patches in a timely manner once systems are fielded._
+- _What processes and procedures are used by my supplier to cover security vulnerabilities?_
 
 <br>
 
