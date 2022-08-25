@@ -1,7 +1,7 @@
 
 # Operating systems
 
-_Considering key questions:
+_Considering key questions:_
 - Supplier of distribution
 - criticality of the target application
 - security
