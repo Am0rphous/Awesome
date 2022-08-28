@@ -16,9 +16,9 @@ _Considering key questions:_
 <br>
 
 - [A list of web resources](#a-list-of-web-resources)
-- [BOOT / BIOS](#boot--bios)
-- [Create Your Own Custom Linux OS](#create-your-own-custom-linux-os)
+- [Boot / BIOS](#boot--bios)
 - [Country Specific](#country-specific)
+- [Create Your Own Custom Linux OS](#create-your-own-custom-linux-os)
 - [Desktop OSes](#desktop-oses)
   - [Privacy and security focused Desktops](#privacy-and-security-focused-desktops)
 - [Educational OS'es](#educational-oses)
@@ -41,7 +41,7 @@ _Considering key questions:_
 - [Don't use Windows 10 - It's a privacy nightmare](https://www.privacytools.io/operating-systems/#win10)
 - [Hardware for Linux Trends](https://linux-hardware.org/?view=trends)
 
-## BOOT / BIOS
+## Boot / BIOS
 - [Coreboot](https://github.com/coreboot/coreboot) - [coreboot.org](https://coreboot.org) - Coreboot is a Free Software project aimed at replacing the proprietary BIOS (firmware) found in most computers. coreboot performs a little bit of hardware initialization and then executes additional boot logic, called a payload.
   - [Documentation Coreboot](https://doc.coreboot.org/#)
 - [Coreboot by system76](https://github.com/system76/coreboot) - _Coreboot is a Free Software project aimed at replacing the proprietary BIOS (firmware) found in most computers. coreboot performs a little bit of hardware initialization and then executes additional boot logic, called a payload._
@@ -53,6 +53,26 @@ _Considering key questions:_
 - [rEFInd Boot Manager](https://www.rodsbooks.com/refind/)
   - [Theming rEFInd](https://www.rodsbooks.com/refind/themes.html)
 
+
+## Country Specific 
+### China
+- Ubuntu Kylin](https://www.ubuntukylin.com/index.php?lang=en)
+  - [China rallies support for Kylin Linux in war on Windows](https://www.theregister.com/2022/07/03/china_openkylin/)
+  - [Ubuntu Kylin: The Official Chinese Version of Ubuntu](https://itsfoss.com/ubuntu-kylin/)
+### India
+- [Bosss Linx](https://bosslinux.in/) - "BOSS is an Indian GNU/Linux distribution developed by CDAC and is customized to suit Indian's digital environment. It supports most of the Indian languages."
+### Indonesia
+- Nusantra
+### North Koera
+- [Red Star OS](https://archiveos.org/redstar/)
+### Russian Federation
+- Rosa Linux - Certified by FSTEC (Federal Service for Technical and Export Control of Russia)
+ - [Rosa Fresh](http://rosalinux.com/rosa-fresh) - Free and free system for home use.
+ - [Rosa Enterprise Linux Desktop](http://rosalinux.com/red)
+ - [Rosa Enterprise Linux Server](http://rosalinux.com/rels)
+### Turkey
+- [Pardus Linux](https://www.pardusproject.org)
+
 ## Create Your Own Custom Linux OS
 - [Cubic](https://launchpad.net/cubic)
 - [Debian Custom ISO Scripts and Tutorial](https://github.com/RackunSec/debian-custom-iso-scripts) - These are scripts I made to help with the design and customization of a Debian ISO (Primarily WeakerThan Linux).
@@ -63,23 +83,6 @@ distribution into a Live Kit (formely known as Live CD).
 - [Live Magic](https://chris-lamb.co.uk/projects/live-magic)
 - [Linux Respin](http://www.linuxrespin.org)
 - [Ubuntu Imager](https://github.com/Distroshare/distroshare-ubuntu-imager) - Creates an installable live CD from an installed Ubuntu or derivative distribution.
-
-## Country Specific 
-### China
-- Ubuntu Kylin
-### India
-- BOSS
-### Indonesia
-- Nusantra
-### North Koera
-- Red Star OS
-### Russian Federation
-- Rosa Linux - Certified by FSTEC (Federal Service for Technical and Export Control of Russia)
- - [Rosa Fresh](http://rosalinux.com/rosa-fresh) - Free and free system for home use.
- - [Rosa Enterprise Linux Desktop](http://rosalinux.com/red)
- - [Rosa Enterprise Linux Server](http://rosalinux.com/rels)
-### Turkey
-- Pardus Linux
 
 ## Desktop OSes
 - [Asahi](https://asahilinux.org) - Asahi Linux aims to bring you a polished Linux experience on Apple Silicon Macs.
@@ -108,6 +111,7 @@ distribution into a Live Kit (formely known as Live CD).
 - [Solus](https://getsol.us/home)
 - [Ubuntu Desktop](https://ubuntu.com) - Cloud, servers, IoT, desktop.
   - [Ubuntu 20.04 Installation Guide on amd64](https://help.ubuntu.com/20.04/installation-guide/amd64/index.html)
+- [Windows 10 VMs](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
 - [Qubes OS](https://www.qubes-os.org/downloads) - OS designed for privacy and security.
 - [Zorin OS](https://zorinos.com) 
  
