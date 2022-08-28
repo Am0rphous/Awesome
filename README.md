@@ -648,10 +648,6 @@ Based on that data, you can find the most popular ones and their alternatives.
   - [MITRE ATT&CK® Navigator](https://mitre-attack.github.io/attack-navigator/enterprise/)
 - [TaskBook](https://github.com/klaussinani/taskbook/blob/master/.gitattributes) - Tasks, boards & notes for the command-line habitat.
 
-  ### Privacy
-  - [Digital Privacy](https://github.com/ffffffff0x/Digital-Privacy) - 一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗.
-  - [searX](https://github.com/searx/searx) - Privacy-respecting metasearch engine 
-
   ### Security
   - [Howdy](https://github.com/boltgolt/howdy) - 🛡️ Windows Hello™ style facial authentication for Linux.
   Commands:
@@ -1046,5 +1042,6 @@ Based on that data, you can find the most popular ones and their alternatives.
   ### Search Engines
   - [DuckDuckGo](https://duckduckgo.com)
     - [IP addresses - Web crawler DuckDuckGo](https://help.duckduckgo.com/duckduckgo-help-pages/results/duckduckbot/)
+  - [searX](https://github.com/searx/searx) - Privacy-respecting metasearch engine 
   - [Qwant](https://www.qwant.com)
 
