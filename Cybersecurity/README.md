@@ -1083,6 +1083,7 @@ upstream_recursive_servers:
 ## Virtualization
 -  [Container and Kernel-Based Virtual Machine (KVM) Virtualization for Network Function Virtualization (NFV)](https://builders.intel.com/docs/container-and-kvm-virtualization-for-nfv.PDF)
 - [IsardVDI](https://github.com/isard-vdi/isard) - Isard VDI. Open Source KVM Virtual Desktops based on KVM Linux and dockers [isardvdi.com](https://isardvdi.com).
+- [Unicorn Engine](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86) 
 - [WebVirtCloud](https://github.com/retspen/webvirtcloud) - WebVirtCloud is virtualization web interface for admins and users.
 - [VMware](https://vmware.com)
   - [HCIBench](https://flings.vmware.com/hcibench) - open source benchmark tool. The tool fully automates the end-to-end process of deploying test VMs, coordinating workload runs, aggregating test results, performance analysis and collecting necessary data for troubleshooting purposes. HCIBench is not only a benchmark tool designed for vSAN, but also could be used to evaluate the performance of all kinds of Hyper-Converged Infrastructure Storage in vSphere environment. 
