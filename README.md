@@ -281,6 +281,7 @@ Communicate clearly <br>
   - [Gitea](https://github.com/go-gitea/gitea)  - Git with a cup of tea, painless self-hosted git service.
   - [GitKraken](https://www.gitkraken.com/) - Legendary Git GUI client for Windows, Mac & Linux
   - GitHub
+    - [Github Cloner](https://github.com/mazen160/GithubCloner) - A script that clones Github repositories of users and organizations. 
     - [Github Desktop](https://github.com/desktop/desktop) - open source Electron-based GitHub app. It is written in TypeScript and uses React [desktop.github.com/](https://desktop.github.com).
     - [Gitify](https://github.com/manosim/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
     - [Giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions.
