@@ -125,11 +125,12 @@ bro / zeek
 
 
 ## Active Directory & LDAP
+- [AD Admin Tool](https://www.ldapsoft.com/download.html)
 - [ADsys](https://github.com/ubuntu/adsys) - Active Directory bridging tool suite
 - [Apache Directory Studio](https://directory.apache.org/studio/) - complete directory tooling platform intended to be used with any LDAP server however it is particularly designed for use with ApacheDS. 
 - [FreeIPA](https://github.com/freeipa/freeipa) -  Mirror of FreeIPA, an integrated security information management solution. [freeipa.org](https://www.freeipa.org)
-- [JXplorer](https://github.com/pegacat/jxplorer) - an open source LDAP browser.
-- [LDAP Browser For MAC](https://ldapbrowsermac.com/)
+- [JXplorer](https://github.com/pegacat/jxplorer) - A free java ldap client with LDIF support, security (inc SSL, SASL & GSSAPI), translated into many languages (inc. Chinese), online help, user forms and many other features. 
+- [LDAP Browser (MacOS)](https://ldapbrowsermac.com) - LDAP Admin Tool, a ldap and active directory browser and editior is a graphical tool designed to provide a user friendly environment in which to connect to any ldap aware directory server, modify data , run queries, export and print data. 
 - [Openldap](https://github.com/openldap/openldap) - free, open-source implementation of the Lightweight Directory Access Protocol (LDAP) developed by the OpenLDAP Project.
 
   ### Security
