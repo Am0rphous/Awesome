@@ -1213,6 +1213,7 @@ upstream_recursive_servers:
 - [Apache](https://httpd.apache.org/) - Open-source web server for modern operating systems including UNIX and Windows. 
   - [Apache Kafka](https://kafka.apache.org/) - open-source distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications.
   - [logging-log4j2](https://github.com/apache/logging-log4j2) - Apache Log4j 2 is an upgrade to Log4j that provides significant improvements over its predecessor, Log4j 1.x, and provides many of the improvements available in Logback while fixing some inherent problems in Logback's architecture. 
+  - [server-status PWN](https://github.com/mazen160/server-status_PWN) - A script that monitors and extracts requested URLs and clients connected to the service by exploiting publicly accessible Apache server-status instances. 
   - [Superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform.
 - [binserve](https://github.com/mufeedvh/binserve) - A fast static web server with routing, templating, and security in a single binary you can set up with zero code. 
 - [Caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS.
