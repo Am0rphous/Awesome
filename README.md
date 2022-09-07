@@ -807,6 +807,7 @@ Based on that data, you can find the most popular ones and their alternatives.
     - [Cecilia](http://ajaxsoundstudio.com/software/cecilia/) - Cecilia is an audio signal processing environment aimed at sound designers. Cecilia mangles sound in ways unheard of. Cecilia lets you create your own GUI using a simple syntax. Cecilia comes with many original built-in modules and presets for sound effects and synthesis.
     - [CubicSDR](https://github.com/cjcliffe/CubicSDR) - Cross-Platform Software-Defined Radio Application. [www.cubicsdr.com](http://www.cubicsdr.com/)
     - [LMMS](https://lmms.io/) - LMMS is a free and open source (cross-platform) digital audio workstation. It includes all the basic audio editing functionalities along with a lot of advanced features.
+    - [Matching](https://github.com/sergree/matchering) - Open Source Audio Matching and Mastering 
     - [Mixxx](https://mixxx.org/) - Mixxx is free open-source software and entirely community-driven. There is no company behind Mixxx — the development is shouldered by passionate DJs and programmers that dedicate their free time to working on their favorite DJ software. Mixxx is and always will be free!
     - [MusE](https://github.com/muse-sequencer/muse) - MusE is a digital audio workstation with support for both Audio and MIDI.
     - [Ossia](https://ossia.io/)
@@ -841,6 +842,7 @@ Based on that data, you can find the most popular ones and their alternatives.
 
 ## News, RSS Feed
 - [Akregator](https://kontact.kde.org/components/akregator.html) - Akregator helps you to keep informed about new stories on websites like KDE Dot News and Planet KDE blogs. The technology used is RSS and many sites support it.
+- [Chinese Security RSS](https://github.com/zhengjim/Chinese-Security-RSS) - 网络安全资讯的RSS订阅，网络安全博客的RSS订阅，网络安全公众号的RSS订阅 
 - [CyberSecurityRSS](https://github.com/zer0yu/CyberSecurityRSS) - CyberSecurityRSS: 优秀的网络安全知识来源 / A collection of cybersecurity rss to make you better!.
 - [detoxed.news](https://github.com/tom-james-watson/detoxed.news) - The important news, without the toxicity.
 - [FreshRSS](https://github.com/FreshRSS/FreshRSS) - FreshRSS is a self-hosted RSS feed aggregator like Leed or Kriss Feed. It is lightweight, easy to work with, powerful, and customizable.
