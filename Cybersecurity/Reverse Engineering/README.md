@@ -93,6 +93,14 @@ Description: Used to manipulate the execution of a program to get intel on what 
 - [ttddbg - Time Travel Debugging IDA plugin](https://github.com/airbus-cert/ttddbg) - Time Travel Debugging IDA plugin 
 - GDB
   - [GDB dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python.
+  - Syntax
+````
+gdb
+gdb remmina
+run
+bt
+q
+````
 - [GEF](https://github.com/hugsy/gef) - GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers.
   - [GEF by bata24](https://github.com/bata24/gef) - GDB Enhanced Features for exploit devs & reversers.
 - [OllyDbg](http://www.ollydbg.de/)
