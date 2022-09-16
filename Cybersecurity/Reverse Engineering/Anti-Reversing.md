@@ -3,6 +3,7 @@
 - [APICallProxy](https://github.com/MahmoudZohdy/APICallProxy) - This Project is for Windows API Call Obfuscation to make static/Dynamic analysis of a program harder, and to make it harder to recognize and extract the sequance of Windows API the application Call.
 - [BeatRev](https://github.com/Octoberfest7/BeatRev) - POC for frustrating/defeating Malware Analysts 
 - [Ekko](https://github.com/Cracked5pider/Ekko) - Sleep Obfuscation 
+- [The Anti-Analysis Menagerie](https://github.com/ex0dus-0x/menagerie) - Cross-platform malware development library for anti-analysis techniques 
 
 ## Low Level Virtual Machine (LLVM)
 - [llvm.org](https://llvm.org/)
