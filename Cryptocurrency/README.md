@@ -12,6 +12,7 @@
 - [predicting-future-bitcoin-prices](https://github.com/derkzomer/predicting-future-bitcoin-prices) - This code is part of an article exploring the use of the LSTM model to predict future Bitcoin prices- [blog article](https://towardsdatascience.com/using-machine-learning-to-predict-future-bitcoin-prices-6637e7bfa58f) 
   ### Heatmaps
   - [Crypto Heatmap from TradingView.com](https://www.tradingview.com/heatmap/crypto/?color=change&dataset=Crypto&group=no_group&size=market_cap_calc)
+  - [Cryptocurrency Performance Heat Map from marketbeat.com](https://www.marketbeat.com/market-data/sector-performance/cryptocurrencies/)
 
 ## Bitcoin
 - [Bitcoin source code](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree.
