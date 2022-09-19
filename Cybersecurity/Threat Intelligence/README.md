@@ -35,6 +35,7 @@
   - [misp-training-lea](https://github.com/MISP/misp-training-lea) - Practical Information Sharing between Law Enforcement and CSIRT communities using MISP.
   - [MISP Virtual Machine](https://vm.misp-project.org/)
   - [puppet-misp](https://github.com/voxpupuli/puppet-misp) - This module installs and configures MISP (Malware Information Sharing Platform).
+  - [PyMISP](https://github.com/MISP/PyMISP) - Python library using the MISP Rest API 
   
 ### Feed
 - [Botvrij.eu OSINT feed](https://www.botvrij.eu/data/feed-osint/)
