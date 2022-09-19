@@ -713,6 +713,7 @@ Based on that data, you can find the most popular ones and their alternatives.
    - [Chartist.js](https://github.com/gionkunz/chartist-js) - Simple responsive charts.
    - [Cloud.smartdraw.com](https://cloud.smartdraw.com)
    - [D3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. 📊📈🎉 
+   - [Diagrams](https://github.com/mingrammer/diagrams) - Diagram as Code for prototyping cloud system architectures 
    - [Drawio Desktop](https://github.com/jgraph/drawio-desktop) - drawio-desktop is a diagrams.net desktop app based on Electron.
      - [Drawio - app.diagrams.net](https://app.diagrams.net) - diagrams.net is open source, online, desktop and container deployable diagramming software.
    - [Dygraphs](https://dygraphs.com) - dygraphs is a fast, flexible open source JavaScript charting library.
