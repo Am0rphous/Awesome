@@ -850,6 +850,7 @@ Based on that data, you can find the most popular ones and their alternatives.
 - [detoxed.news](https://github.com/tom-james-watson/detoxed.news) - The important news, without the toxicity.
 - [FreshRSS](https://github.com/FreshRSS/FreshRSS) - FreshRSS is a self-hosted RSS feed aggregator like Leed or Kriss Feed. It is lightweight, easy to work with, powerful, and customizable.
 - [Homura](https://github.com/Saul-Mirone/homura) - Elegant RSS reader.
+- [Information and Cyber Security RSS/Atom Feeds](https://github.com/phretor/infosec-opml) - "My very personal and opinionatedly organized infosec/cybersec sources in one OPML file"
 - [Raven Reader](https://github.com/hello-efficiency-inc/raven-reader) - All your articles in one place. Beautiful. The most flexible news reader ever
 - [RSS-Bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it.
 - [RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible.
