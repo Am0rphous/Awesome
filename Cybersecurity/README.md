@@ -625,7 +625,8 @@ upstream_recursive_servers:
 
   ### Network Diagrams and Visualization 
     - [Fantastic Full Source Code](https://github.com/besimorhino/project-fantastic) - visualizing tool made by InfoSec Innovations for exploring computer networks.
-    [Visua Paradigm Online](https://online.visual-paradigm.com/drive/#diagramlist:proj=0&dashboard)
+    - [NAV by Uninet](https://github.com/Uninett/nav) - Network Administration Visualized 
+    - [Visua Paradigm Online](https://online.visual-paradigm.com/drive/#diagramlist:proj=0&dashboard)
     - [Quark](https://github.com/s0md3v/Quark) - Quark is a data visualization framework.
 
   ## Packet Capture
