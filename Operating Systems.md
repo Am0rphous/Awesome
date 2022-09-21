@@ -112,6 +112,7 @@ distribution into a Live Kit (formely known as Live CD).
 - [Ubuntu Desktop](https://ubuntu.com) - Cloud, servers, IoT, desktop.
   - [Ubuntu 20.04 Installation Guide on amd64](https://help.ubuntu.com/20.04/installation-guide/amd64/index.html)
 - [Windows 10 VMs](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
+  - [Fido: A PowerShell download script for Windows ISOs and UEFI Shell](https://github.com/pbatard/Fido) - A PowerShell script to download Windows ISOs or the UEFI Shell 
 - [Qubes OS](https://www.qubes-os.org/downloads) - OS designed for privacy and security.
 - [Zorin OS](https://zorinos.com) 
  
