@@ -1280,6 +1280,7 @@ upstream_recursive_servers:
   - [Kleopatra](https://www.openpgp.org/software/kleopatra/)
   - [Magisk Trust User Certs](https://github.com/NVISOsecurity/MagiskTrustUserCerts) - A Magisk module that automatically adds user certificates to the system root CA store.
   - [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+  - [Testing TLS/SSL encryption](https://testssl.sh/)
 
   ### Security
   - ModSecurity
