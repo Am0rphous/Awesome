@@ -1047,10 +1047,12 @@ Based on that data, you can find the most popular ones and their alternatives.
   
   ### Search Engines
   - [DuckDuckGo](https://duckduckgo.com)
-    - [IP addresses - Web crawler DuckDuckGo](https://help.duckduckgo.com/duckduckgo-help-pages/results/duckduckbot/)
-  - [metager.org](https://metager.org/)
+    - [IP addresses - Web crawler DuckDuckGo](https://help.duckduckgo.com/duckduckgo-help-pages/results/duckduckbot)
+  - [metager.org](https://metager.org)
   - [searX](https://github.com/searx/searx) - Privacy-respecting metasearch engine
-    - [searx.ninja](https://searx.ninja/)
-    - [searx.xyz](https://searx.xyz/)
+    - [searx.ninja](https://searx.ninja)
+    - [searx.xyz](https://searx.xyz)
+  - [swisscows.ch](https://swisscows.ch)
   - [Qwant](https://www.qwant.com)
+  - [Yacy](https://yacy.net) - peer to peer, federated, decentralized, private, free and open source search engine.
 
