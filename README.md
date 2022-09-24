@@ -1048,6 +1048,9 @@ Based on that data, you can find the most popular ones and their alternatives.
   ### Search Engines
   - [DuckDuckGo](https://duckduckgo.com)
     - [IP addresses - Web crawler DuckDuckGo](https://help.duckduckgo.com/duckduckgo-help-pages/results/duckduckbot/)
-  - [searX](https://github.com/searx/searx) - Privacy-respecting metasearch engine 
+  - [metager.org](https://metager.org/)
+  - [searX](https://github.com/searx/searx) - Privacy-respecting metasearch engine
+    - [searx.ninja](https://searx.ninja/)
+    - [searx.xyz](https://searx.xyz/)
   - [Qwant](https://www.qwant.com)
 
