@@ -392,6 +392,7 @@ sudo apt-get install redshift-gtk
 - [Ly](https://github.com/nullgemm/ly) - Ly is a lightweight TUI (ncurses-like) display manager for Linux and BSD.
 - [Markdoc](https://github.com/markdoc/markdoc) - A Markdown-based authoring system 
 - [Nacos](https://github.com/alibaba/nacos) - An easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
+- [Nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [Porting Windows Dynamic Link Libraries to Linux](https://github.com/taviso/loadlibrary) - Porting Windows Dynamic Link Libraries to Linux.
 - [Presentation Slides for Developers ](https://github.com/slidevjs/slidev)
 - [Prompts](https://github.com/terkelg/prompts#selectmessage-choices-initial-hint-warn) - ❯ Lightweight, beautiful and user-friendly interactive prompts.
