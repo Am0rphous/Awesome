@@ -55,6 +55,9 @@ Note: https://favouriteblog.com/50-best-github-artificial-intelligence/
 - [Yolov4-deepsort by theAIGuysCode ](https://github.com/theAIGuysCode/yolov4-deepsort) - Object tracking implemented with YOLOv4, DeepSort, and TensorFlow.
   - [Roboflow Object Tracking Example](https://github.com/roboflow-ai/zero-shot-object-tracking) - Object tracking implemented with the Roboflow Inference API, DeepSort, and OpenAI CLIP.
 
+## Coding
+- [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
+
 ## Design
 - [DALL·E 2](https://openai.com/dall-e-2/) - DALL·E 2 is a new AI system that can create realistic images and art from a description in natural language.
 - [vizcom.ai](https://vizcom.ai/) - AI creative tools for artists and designers
