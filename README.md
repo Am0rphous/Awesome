@@ -672,8 +672,9 @@ Based on that data, you can find the most popular ones and their alternatives.
 - [Command Line Text Processing](https://github.com/learnbyexample/Command-line-text-processing#ebook) - From finding text to search and replace, from sorting to beautifying text and more. [Gitbook](https://learnbyexample.gitbooks.io/command-line-text-processing/content/)
 - [computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science! 
 - [kali-linux-cheatsheet](https://github.com/NoorQureshi/kali-linux-cheatsheet) - Kali Linux Cheat Sheet for Penetration Testers.
-- [Learn_gnuawk](https://github.com/learnbyexample/learn_gnuawk) - Example based guide to mastering GNU awk.
-- [Learn_gnused](https://github.com/learnbyexample/learn_gnused) - Example based guide to mastering GNU sed.
+- [learn anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths - [learn-anything.xyz](https://learn-anything.xyz/)
+- [Learn gnu awk](https://github.com/learnbyexample/learn_gnuawk) - Example based guide to mastering GNU awk.
+- [Learn gnu sed](https://github.com/learnbyexample/learn_gnused) - Example based guide to mastering GNU sed.
 - [Linux_command_line](https://github.com/learnbyexample/Linux_command_line) - Introduction to Linux commands and Shell scripting.
 - [Scripting_course](https://github.com/learnbyexample/scripting_course) - A reference guide to Linux command line, Vim and Scripting.
 
