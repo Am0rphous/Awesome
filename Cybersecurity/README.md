@@ -156,6 +156,7 @@ bro / zeek
 - [Energized Protection - block ⚡](https://github.com/EnergizedProtection/block) - Let's make an annoyance free, better open internet, altogether!
 - [hosts](https://github.com/StevenBlack/hosts) - Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [PiHole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements.
+  - [AdminLTE](https://github.com/pi-hole/AdminLTE) - Pi-hole Dashboard for stats and more 
   - [Docker Pi-hole](https://github.com/pi-hole/docker-pi-hole) -  Pi-hole in a docker container.
   - [PADD](https://github.com/pi-hole/PADD) - PADD (formerly Chronometer2) is a more expansive version of the original chronometer.sh that is included with Pi-Hole. PADD provides in-depth information about your Pi-hole.
 - [SpamCop](https://www.spamcop.net) - SpamCop is the premier service for reporting spam. SpamCop determines the origin of unwanted email and reports it to the relevant Internet service providers.
