@@ -483,6 +483,7 @@ lsscsi                          #Print SCSI Devices Info
 - [FileMonitor](https://github.com/TheKingOfDuck/FileMonitor) - 文件变化实时监控工具(代码审计/黑盒/白盒审计辅助工具).
 - [Glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
   - [Glances – A Versatile System Monitoring Tool for Linux Systems](https://itsfoss.com/glances/)
+- [Gotify](https://gotify.net/) -a simple server for sending and receiving messages
 - [Healthchecks.io](https://healthchecks.io/)
 - [HertzBeat](https://github.com/dromara/hertzbeat) - A real-time monitoring system with custom-monitor and agentless. Support web service, database, os, middleware and more. 一个拥有强大自定义监控能力，无需Agent的实时监控系统。网站监测，PING连通性，端口可用性，数据库，操作系统，中间件，API监控，阈值告警，告警通知(邮件微信钉钉飞书)。 
 - [Lima Charlie](https://github.com/nextgens/limacharlie) - Endpoint monitoring stack.
