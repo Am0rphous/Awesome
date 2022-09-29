@@ -117,6 +117,7 @@ Communicate clearly <br>
   - [DVD-ripping](#dvd-ripping)
   - [Hex](#hex)
   - [Linux Tools](#linux-tools)
+  - [Peripherals](#Peripherals)
   - [Torrent](#torrent)
     - [Streaming torrent](#streaming-torrent)
 - [Web Browsers](#web-browsers)
@@ -1021,6 +1022,14 @@ Based on that data, you can find the most popular ones and their alternatives.
   - [Linux Surface](https://github.com/linux-surface/linux-surface) - Linux Kernel for Surface Devices.
   - [Lisa19 - Linux Terminal Tools](https://github.com/ketancmaheshwari/lisa19) - Linux Terminal Tools. PDF slides.
   - [Static-binaries](https://github.com/andrew-d/static-binaries) - Various *nix tools built as statically-linked binaries.
+
+  ### Peripherals
+  - [logiops](https://github.com/PixlOne/logiops) - An unofficial userspace driver for HID++ Logitech devices - [askubuntu: Logitech MX Master](https://askubuntu.com/questions/1149310/logitech-mx-master-2s-via-bluetooth-change-pointer-speed/1246278#1246278)
+  - [piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices
+  - [Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
+
+
+  
 
   ### Torrent
   - [Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers 
