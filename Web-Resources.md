@@ -135,6 +135,7 @@
 - [Golinuxcloud.com](https://www.golinuxcloud.com)
 - [Hackemall.live](https://hackemall.live/)
 - [Hackingpassion.com](https://hackingpassion.com)
+- [Its FOSS.com](https://itsfoss.com) - Open source related articles published on It’s FOSS.
 - [kernel.org/doc](https://www.kernel.org/doc/html/latest/index.html) - The Linux Kernel documentation.
 - [Landoflinux.com](https://www.landoflinux.com/index.html) - free guides and tutorials for all things Linux.
 - [Linux.com](https://www.linux.com)
@@ -143,7 +144,7 @@
 - [Linux Links.com](https://www.linuxlinks.com)
 - [Linux Training Academy](https://www.linuxtrainingacademy.com) - _"We Help IT Professionals Level-Up Their Careers by Teaching Them Practical Linux Skills."_
 - [Lorn.tech](https://www.lorn.tech) - masse nyttige podcasts.
-- [Its FOSS.com](https://itsfoss.com) - Open source related articles published on It’s FOSS.
+- [man.cx](https://man.cx/) - Manpages
 - [sans.org](https://www.sans.org/emea/) - Cyber Security Training, Certifications, Degrees and Resources 
 - [SecJuice.com](https://www.secjuice.com) - Non-profit cyber goodness.
 - [Spyboy blog](https://spyboy.blog) - Learn ethical hacking , cyber security, computer programming, networking, android tricks and windows tricks.
