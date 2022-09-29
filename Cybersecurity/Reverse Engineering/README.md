@@ -138,6 +138,7 @@ Description: Transforms a binary's machine code into assembly language/code.
   - [Ghidra-dark](https://github.com/zackelia/ghidra-dark) - Dark theme installer for Ghidra.
   - [Ghidra Data](https://github.com/NationalSecurityAgency/ghidra-data) - Supporting Data Archives for Ghidra.
   - [Ghidra_kernelcache](https://github.com/0x36/ghidra_kernelcache) - a Ghidra iOS kernelcache framework for reverse engineering.
+  - [Ghidrathon](https://github.com/mandiant/Ghidrathon) - The FLARE team's open-source extension to add Python 3 scripting to Ghidra.
   - [Patching Binaries With Ghidra](https://materials.rangeforce.com/tutorial/2020/04/12/Patching-Binaries/)
 - [Hobbits](https://github.com/Mahlet-Inc/hobbits) - A multi-platform GUI for bit-based analysis, processing, and visualization.
 - [IDA - The Interactive Disassembler](https://www.hex-rays.com) - Pro, Home, Free and Demo version.
