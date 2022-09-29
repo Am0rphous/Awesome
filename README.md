@@ -845,7 +845,9 @@ Based on that data, you can find the most popular ones and their alternatives.
         - [Psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI.
         - [Spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
         - [Tmux-spotify](https://github.com/xamut/tmux-spotify) - Spotify plugin for tmux.
+        
        ###### Podcast
+       - [audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server - https://www.audiobookshelf.org
        - [Awesome Podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts.
        - [CPod](https://github.com/z-------------/CPod) - A simple, beautiful podcast app for Windows, macOS, and Linux.
        - [Winds](https://github.com/getstream/winds/) - A Beautiful Open Source RSS & Podcast App Powered by Getstream.io.
