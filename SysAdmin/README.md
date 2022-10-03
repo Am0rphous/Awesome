@@ -1,4 +1,4 @@
-<h1 align="center">Cybersecurity & SysAdmin Tools </h1>
+<h1 align="center">SysAdmin Tools </h1>
 
 <br>
 
