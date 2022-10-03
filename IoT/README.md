@@ -5,6 +5,7 @@
 - [The future of IoT: 10 predictions about the Internet of Things](https://us.norton.com/internetsecurity-iot-5-predictions-for-the-future-of-iot.html)
 
 <h3> List of different IoT devices</h3>
+
 - [Adafruit](https://www.adafruit.com/)
 - [Arduino](https://www.arduino.cc/)
   - [Arduino Automatic Smart Plant Watering Kit](https://www.elecrow.com/arduino-automatic-smart-plant-watering-kit.html)
