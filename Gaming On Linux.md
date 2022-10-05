@@ -37,9 +37,11 @@ Useful links generally
 - [Wine](https://github.com/wine-mirror/wine) - Program which allows running Microsoft Windows programs (including DOS, Windows 3.x, Win32, and Win64 executables) on Unix.
 - [WineTricks](https://github.com/Winetricks/winetricks) - Winetricks is an easy way to work around problems in Wine. [winehq.org](https://wiki.winehq.org/Winetricks)
 - [gamejolt.com/games?os=linux](https://gamejolt.com/games?os=linux) - Find great games.
+
   ### Games
    - [30 free and open source Linux games – part 2 ](https://github.blog/2021-08-26-30-free-and-open-source-linux-games-part-2/)
    - [BFHD PRO II - Patch G2 (Gold)](https://www.moddb.com/mods/battlefield-hd-remastered-3/downloads/bfhd-pro-ii-patch-g-gold) - (wine/winetriks) Battlefield Remastered 3.0 has finally has gone gold after a 2 years development.
+   - [Endless Sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game. https://endless-sky.github.io/
    - [Free Games by The Drakelings Community](https://drakelings.bluedrake42.com/index.php?/category/1-free-games/)
    - [Minesweeper-Login](https://github.com/OGoodness/Minesweeper-Login) - Command Line version of MineSweeper for Unix-like systems (GNU/Linux, macOS, BSD).
    - [QMLSokoban](https://github.com/yzhs/qmlsokoban)
