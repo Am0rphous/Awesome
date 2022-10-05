@@ -181,6 +181,8 @@ getcap            #examine file capabilities
 
 
 ## Frameworks
+- [Dissect](https://docs.dissect.tools/en/latest/) - Dissect is a collection of Python libraries and tools to facilitate enterprise-scale incident response and forensics. It supports you, the analyst, from the moment of acquisition of artifacts, to normalisation and processing.
+  - [dissect](https://github.com/fox-it/dissect) - This project is a meta package, it will install all other Dissect modules with the right combination of versions.
 - [Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
 - [ReverseAPK framework](https://github.com/1N3/ReverseAPK) - Quickly analyze and reverse engineer Android packages.
 - [Rizin](https://github.com/rizinorg/rizin) - UNIX-like reverse engineering framework and command-line toolset.
