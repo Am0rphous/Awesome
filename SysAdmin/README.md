@@ -529,6 +529,7 @@ lsscsi                          #Print SCSI Devices Info
 - [Hastic Server](https://github.com/hastic/hastic-server) - Hastic data management server for analyzing patterns and anomalies from Grafana.
 - [Linux Dash](https://github.com/afaqurk/linux-dash) - A beautiful web dashboard for Linux.
   - [Linux-dash-docker](https://github.com/alysivji/linux-dash-docker) - linux-dash in a container.
+- [Linux-Radeon-GPU-Monitor](https://github.com/nkschlos/Linux-Radeon-GPU-Monitor) - A simple GPU resource monitor for Radeon devices on Linux using Python
 - [LME - Logging Made Easy](https://github.com/ukncsc/lme) - Logging Made Easy is a self-install tutorial for small organisations to gain a basic level of centralised security logging for Windows clients and provide functionality to detect attacks. It's the coming together of multiple free and open-source software (some which is covered under licences other than Apache V2), where LME helps the reader integrate them together to produce an end-to-end logging capability. We also provide some pre-made configuration files and scripts, although there is the option to do it on your own.
 - [LogonTracer](https://github.com/JPCERTCC/LogonTracer) - Investigate malicious Windows logon by visualizing and analyzing Windows event log.
 - [Malcolm](https://github.com/cisagov/Malcolm) - Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files) and Zeek logs. 
@@ -541,6 +542,7 @@ lsscsi                          #Print SCSI Devices Info
 - [OpenNMS](https://github.com/OpenNMS/opennms) - Enterprise-Grade Open-Source Network Management Platform [www.opennms.org](http://www.opennms.org).
 - [OSQuery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [pSpy](https://github.com/DominicBreuker/pspy) - Monitor linux processes without root permissions
+- [radeontop](https://github.com/clbr/radeontop)
 - [RansomWatch](https://github.com/captainGeech42/ransomwatch) - RansomWatch is a ransomware leak site monitoring tool. It will scrape all of the entries on various ransomware leak sites, store the data in a SQLite database, and send notifications via Slack or Discord when a new victim shows up, or when a victim is removed.
 - [Security Onion OS](https://securityonionsolutions.com)
   - [Github: Security Onion 2.3.10](https://github.com/Security-Onion-Solutions/securityonion)
