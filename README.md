@@ -35,12 +35,12 @@ Communicate clearly <br>
     - [CI/CD](#cicd)
   - [VoIP](#voip)
 - [Desktop Customization](#desktop-customization)
+  - [Background and Wallapers](#background-and-wallpapers)
   - [Extensions](#extensions)
   - [Inspiration](#inspiration)
   - [Prevent Eyestrain](#prevent-eyestrain)
   - [Screensavers](#screensavers)
   - [Themes](#themes)
-  - [Wallapers](#wallpapers)
 - [Development](#development)
   - [API](#api)
   - [Backend](#backend)
@@ -317,14 +317,13 @@ Communicate clearly <br>
 ## Desktop Customization
 - [Barrier](https://github.com/debauchee/barrier) - Share your mouse and keyboard between computers. _Barrier is software that mimics the functionality of a KVM switch, which historically would allow you to use a single keyboard and mouse to control multiple computers by physically turning a dial on the box to switch the machine you're controlling at any given moment._
   - [Barrier doc](https://github.com/debauchee/barrier/tree/master/doc) 
-- [Conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X-
+- [Conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X
 - [Conky-Colors](https://github.com/helmuthdu/conky_colors) - easier way to configure Conky.
 - [Docky](https://gitlab.com/docky-dock-app-linux/docky) - Docky is a full fledged dock application that makes opening common applications and managing windows easier and quicker. The official project is abandoned, so we forked it to keep the project alive.
 - [GKrellM](http://gkrellm.srcbox.net/) - single process stack of system monitors.
 - [Hardcode-Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - Fixes Hardcoded tray icons in Linux.
 - [Hypr](https://github.com/hyprwm/Hypr) - Hypr is a tiling window manager written in modern C++. 
 - [Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks. 
-- [komorebi](https://github.com/cheesecakeufo/komorebi) - A beautiful and customizable wallpapers manager for Linux
 - [latte-dock](https://github.com/KDE/latte-dock) - Replacement dock for Plasma desktops, providing an elegant and intuitive experience for your tasks and plasmoids
 - [linux-desktop-environment-tool-cli](https://github.com/LinuxEuphony/linux-desktop-environment-tool-cli) - This script helps Debian and Ubuntu users install the below desktop environments from a list of options on a terminal menu. It also has an uninstall option for the installed desktop environments. The script will update system packages and upgrade software packages before installing or uninstalling any desktop environment. 
 - [Plank](https://github.com/ricotz/plank) - Simple dock. Configure `plank   --preferences`
@@ -336,9 +335,19 @@ Communicate clearly <br>
   - [Rofi Collection](https://github.com/Murzchnvok/rofi-collection) - Beautiful collection of Rofi themes 
 - [SpaceEye](https://github.com/KYDronePilot/SpaceEye) - Live satellite imagery for your desktop background.
 - [Variety](https://github.com/varietywalls/variety) - Wallpaper downloader and manager for Linux systems.
+
+#### Background and Wallapers
+- [hidamari](https://github.com/jeffshee/hidamari) - Video wallpaper for Linux. Written in Python. 🐍
+- [Linux OS specific wallpapers](https://www.pling.com/browse?cat=261&ord=latest)
+- [komorebi](https://github.com/cheesecakeufo/komorebi) - A beautiful and customizable wallpapers manager for Linux
+- [Wallhaven.cc](https://wallhaven.cc/)
+- [Wallpapers Gnome](https://www.pling.com/s/Gnome/browse?cat=300&ord=latest)
+- [xlivebg](https://github.com/jtsiomb/xlivebg) - Live wallpapers for the X window system.
+
   #### Extensions
   - [compiz-alike-magic-lamp-effect](https://github.com/hermes83/compiz-alike-magic-lamp-effect) - Compiz alike magic lamp effect for GNOME Shell.
   - [compiz-alike-windows-effect](https://github.com/hermes83/compiz-alike-windows-effect) - Compiz alike windows effect for GNOME Shell.
+  
   #### Inspiration
   - [b00merang.weebly.com](https://b00merang.weebly.com/)
     - [MacOS 11 'Big Sur'](https://github.com/B00merang-Project/macOS) - macOS theme for Gnome and GTK-based desktops.
@@ -347,6 +356,7 @@ Communicate clearly <br>
   - [Gnome-look.org](https://www.gnome-look.org)
   - [NordTheme.com](https://www.nordtheme.com) - [Github](https://github.com/arcticicestudio/nord)
   - [Pling.com](https://www.pling.com)
+  
   #### Prevent Eyestrain
   - [F.lux](https://justgetflux.com/) - it makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day. 
   - [fluxgui](https://github.com/xflux-gui/fluxgui) - Better lighting for Linux. Open source GUI for xflux.
@@ -374,12 +384,6 @@ sudo apt-get install redshift-gtk
   - [Minimal Conception Theme](https://www.gnome-look.org/p/1235451/)
   - [Nordic GTK3/4 Theme](https://www.pling.com/s/Gnome/p/1267246)
   - [Top 35 Best Ubuntu Themes That Will Blow Your Mind](https://www.ubuntupit.com/best-ubuntu-themes-will-blow-mind/)
-
-  #### Wallpapers
-  - [Linux OS specific wallpapers](https://www.pling.com/browse?cat=261&ord=latest)
-  - [Wallhaven.cc](https://wallhaven.cc/)
-  - [Wallpapers Gnome](https://www.pling.com/s/Gnome/browse?cat=300&ord=latest)
-  - [xlivebg](https://github.com/jtsiomb/xlivebg) - Live wallpapers for the X window system.
 
 
 ## Development
