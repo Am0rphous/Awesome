@@ -315,6 +315,7 @@ bro / zeek
 - [Cloud Foundry](https://www.cloudfoundry.org) - [github.com/cloudfoundry](https://github.com/cloudfoundry) Cloud Foundry provides a highly efficient, modern model for cloud native application delivery on top of Kubernetes.
 - [Effectively Securing Clouds Whitepaper](https://raw.githubusercontent.com/hardenedvault/vault-docs/master/whitepaper/hardenedvault-whitepaper-en.pdf)
 - [Envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy.
+- [Free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev 
 - [Infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
 - [Localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline! 
 - [Mist.io](https://mist.io) - Mist is an open source multicloud management platform.
