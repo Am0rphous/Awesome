@@ -11,6 +11,7 @@
 - [Download-BigSur](https://github.com/chris1111/Download-BigSur) - Simple macOS Appplication for downloading macOS Big Sur 11.
 - [Mac Apps](https://github.com/jeffreyjackson/mac-apps)
 - [MacOS-Security-and-Privacy-Guide ](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS.
+- [Macos_virtualization](https://github.com/AriESQ/macos_virtualization) - Notes on macos virtualization with a focus on running guest OS on Apple M1 Silicon
 
 ## Communication
 - [ThunderBird](https://www.thunderbird.net)
