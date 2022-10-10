@@ -460,6 +460,8 @@ sudo apt-get install redshift-gtk
   - [Material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google.
   - [Npm-icon-gen](https://github.com/akabekobeko/npm-icon-gen) - Icon file generator for Windows, macOS, Web.
   - [Mega Doodles Pack](https://github.com/MariaLetta/mega-doodles-pack) - 🔥 Big vector pack with hand-drawn doodles for presentations, social media, blog posts and so on 
+  - [Papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Papirus icon theme for Linux
+
   ### iOS
   - [Awesome iOS](https://github.com/vsouza/awesome-ios)| A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
   - [Open-Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps) - 📱 Collaborative List of Open-Source iOS Apps.
