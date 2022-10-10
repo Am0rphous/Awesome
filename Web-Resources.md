@@ -108,6 +108,7 @@
 
   ### Russia
   - [svr.gov.ru](http://svr.gov.ru/)
+  - [The Ministry of Foreign Affairs of the Russian Federation](https://mid.ru/en/)
 
   ### United Kingdom
   - [MI6 / Secret Intelligence Service](https://www.sis.gov.uk/) - Foreign intelligence service of the United Kingdom, tasked mainly with the covert overseas collection and analysis of human intelligence in support of the UK's national security [Wikipedia](https://en.wikipedia.org/wiki/Secret_Intelligence_Service).
