@@ -168,10 +168,12 @@ Linux commands
 file              #determine file type
 getcap            #examine file capabilities
 ````
-  ### File Conversion
-  - [Dex2Jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files.
-  - [Enjarify](https://github.com/Storyyeller/enjarify) - tool for translating Dalvik bytecode to equivalent Java bytecode.
-  - [Smali2Java](https://github.com/alexeysoshin/smali2java) - Recreate Java code from Smali.
+- [Seer](https://github.com/krsh/seer) - Seer is a tool that recognizes the architecture of a binary file
+
+### File Conversion
+- [Dex2Jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files.
+- [Enjarify](https://github.com/Storyyeller/enjarify) - tool for translating Dalvik bytecode to equivalent Java bytecode.
+- [Smali2Java](https://github.com/alexeysoshin/smali2java) - Recreate Java code from Smali.
 
   
 
