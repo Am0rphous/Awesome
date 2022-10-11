@@ -202,6 +202,7 @@ Communicate clearly <br>
 - [Zulip](https://zulip.com/) - Chat for distributed teams. Slack alternative. [Github](https://github.com/zulip)
 
   ### E-mail
+  - [Davmail](https://github.com/mguessan/davmail) - DavMail POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange and Office 365 Gateway - Synced with main subversion repository at
   - [ElectronMail](https://github.com/vladimiry/ElectronMail) - Unofficial ProtonMail Desktop App.
   - [Gmail Desktop](https://github.com/timche/gmail-desktop) - 📮 Nifty Gmail desktop app for macOS, Linux & Windows.
   - [Post Quantum Mail](https://github.com/swapravo/pqm-client) - Quantum-safe anonymous encrypted emails. [postquantummail.com](https://postquantummail.com)
