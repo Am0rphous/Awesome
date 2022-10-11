@@ -118,6 +118,7 @@
   (for later: https://www.usa.gov/federal-agencies/u-s-department-of-defense)
   - [cia.gov](https://www.cia.gov/) - The Central Intelligence Agency is a civilian foreign intelligence service of the federal government of the United States, officially tasked with gathering, processing, and analyzing national security information from around the world, primarily through the use of human intelligence [wikipedia](https://en.wikipedia.org/wiki/Central_Intelligence_Agency).
     - [cia on TOR - http://ciadotgov4sjwlzihbbgxnqg3xiyrg7so2r2o3lt5wz5ypk4sxyjstad.onion](http://ciadotgov4sjwlzihbbgxnqg3xiyrg7so2r2o3lt5wz5ypk4sxyjstad.onion)
+    - [The World Factbook](https://www.cia.gov/the-world-factbook/) - The World Factbook provides basic intelligence on the history, people, government, economy, energy, geography, environment, communications, transportation, military, terrorism, and transnational issues for 266 world entities.
   - [dia.mil - Defense Intelligence Agency](https://www.dia.mil)
   - [fbi.gov](https://www.fbi.gov/) - The Federal Bureau of Investigation is the domestic intelligence and security service of the United States and its principal federal law enforcement agency.
     - [FBI - Internet Crime Complaint Center IC3](https://www.ic3.gov)
