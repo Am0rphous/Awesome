@@ -443,6 +443,7 @@ lsscsi                          #Print SCSI Devices Info
 - [FwKnop (FireWall KNock OPerator)](https://github.com/mrash/fwknop) - Single Packet Authorization > Port Knocking.
 - [FwSnort](https://github.com/mrash/fwsnort) - Application Layer IDS/IPS with iptables.
   - [FwSnort Docs](http://www.cipherdyne.org/fwsnort/docs)
+- [IPBan](https://github.com/DigitalRuby/IPBan) - Since 2011, IPBan is the worlds most trusted security software to block hackers and botnets. With both Windows and Linux support, IPBan has your dedicated or cloud server protected.
 - [Louis](https://github.com/sourque/louis) - Linux EDR written in Golang and based on eBPF.
 - [Ossec](https://github.com/ossec/ossec-hids) - OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response. [ossec.net](http://www.ossec.net/)
 - [Psad](https://github.com/mrash/psad) - Intrusion Detection with iptables Logs.
