@@ -728,6 +728,7 @@ upstream_recursive_servers:
       - [How to install tinc VPN on Ubuntu Linux 16.04 LTS](https://www.cyberciti.biz/faq/how-to-install-tinc-vpn-on-ubuntu-linux-16-04-to-secure-traffic/)
     - [Ubuntu 20.04 set up WireGuard VPN server](https://www.cyberciti.biz/faq/ubuntu-20-04-set-up-wireguard-vpn-server/)
     - [wg-install](https://github.com/its0x08/wg-install) - Wireguard road warrior installer for Ubuntu, Debian, CentOS and Fedora.
+    - [Wg-meshconf](https://github.com/k4yt3x/wg-meshconf) - WireGuard full mesh configuration generator.
     - [wireguard install](https://github.com/Nyr/wireguard-install) - WireGuard road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora.
     - [WireGuard installer](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers 
     - [Wireguard-macOS-LinuxVM](https://github.com/mrash/Wireguard-macOS-LinuxVM) -  Send all traffic from macOS through Wireguard running on a Linux VM.
@@ -889,6 +890,7 @@ upstream_recursive_servers:
   - [Guide to Deploying Diffie-Hellman for TLS](https://weakdh.org/sysadmin.html)
   - [How To Secure A Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
     - [How To Secure A Linux Server - Firewall with UFW](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server#firewall-with-ufw-uncomplicated-firewall) - An evolving how-to guide for securing a Linux server.
+  - [K4YT3X's Hardened sysctl Configuration](https://github.com/k4yt3x/sysctl) - K4YT3X's Hardened sysctl Configuration 
   - [Linux-hardening-checklist](https://github.com/trimstray/linux-hardening-checklist) - Simple checklist to help you deploying the most important areas of the GNU/Linux production systems - work in progress.
   - [Linux Kernel /etc/sysctl.conf Security Hardening](https://www.cyberciti.biz/faq/linux-kernel-etcsysctl-conf-security-hardening/)
   - [Set Up Automatic Security Update on Ubuntu](https://www.linuxbabe.com/ubuntu/automatic-security-update-unattended-upgrades-ubuntu)
