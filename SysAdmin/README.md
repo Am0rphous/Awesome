@@ -1291,6 +1291,7 @@ upstream_recursive_servers:
   - [Magisk Trust User Certs](https://github.com/NVISOsecurity/MagiskTrustUserCerts) - A Magisk module that automatically adds user certificates to the system root CA store.
   - [mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
   - [Testing TLS/SSL encryption](https://testssl.sh/) - Testing TLS/SSL encryption anywhere on any port. [Github](https://github.com/drwetter/testssl.sh)
+  - [win-acme.com](https://www.win-acme.com) - A simple ACMEv2 client for Windows (for use with Let's Encrypt et al
 
   ### Security
   - ModSecurity
