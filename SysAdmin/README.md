@@ -448,6 +448,7 @@ lsscsi                          #Print SCSI Devices Info
 - [Ossec](https://github.com/ossec/ossec-hids) - OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response. [ossec.net](http://www.ossec.net/)
 - [Psad](https://github.com/mrash/psad) - Intrusion Detection with iptables Logs.
   - [How to Install and Use PSAD IDS on Ubuntu Linux](https://blog.rapid7.com/2017/06/24/how-to-install-and-use-psad-ids-on-ubuntu-linux) - Nice Tutorial.
+- [SELKS](https://github.com/StamusNetworks/SELKS) - A Suricata based IDS/IPS/NSM distro
 - [Snort3](https://github.com/snort3/snort3) - next generation Snort IPS (Intrusion Prevention System). [snort.org](https://snort.org/)
   - [Eldondev's Snort rules](https://github.com/eldondev/Snort/tree/master/rules)
   - [ET OPEN Ruleset Download Instructions](https://rules.emergingthreats.net/OPEN_download_instructions.html) - Emergingthreats.
