@@ -53,6 +53,7 @@ Useful links generally
    - [Splitgate](https://store.steampowered.com/app/677620/Splitgate/) - Free and works on Steamos/linux
    - [SuperTuxKart](https://snapcraft.io/supertuxkart) - SuperTuxKart is a 3D open-source arcade racer with a variety of characters, tracks, and modes to play. 
    - [Unreal Tournament](https://www.epicgames.com/unrealtournament/en-US/) - first-person shooter, with head-to-head multiplayer deathmatches being the primary focus of the game [Wikipedia](https://en.wikipedia.org./wiki/Unreal_tournament).
+   - [Urban Terror](https://www.urbanterror.info/home/)
    - [Warsow - Warsow is Art of Respect and Sportsmanship Over the Web](https://warsow.net/) - Since 2005, Warsow is considered as one of the most skill-demanding games in the fast-paced arena shooter scene.[Discord](https://discord.com/invite/Z9UgZZM)
 
 ## Other
