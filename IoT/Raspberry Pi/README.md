@@ -152,6 +152,7 @@
 - [XBian](https://github.com/xbianonpi/xbian) - _XBMC on Raspberry Pi, Bleeding Edge [xbian.org](https://xbian.org)._
 
   ### Security
+  - [piVPN](https://github.com/pivpn/pivpn) -  The Simplest VPN installer, designed for Raspberry Pi 
   - [Turn your Rasp Zero W in a multitool for pentesting ](https://github.com/FuocomanSap/P4wnp1-ALOA-Menu-Reworked)
 
 ### Tools and Tips
