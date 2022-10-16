@@ -31,6 +31,7 @@ _Considering key questions:_
 - [Server OSes](#server-oses)
   - [NAS](#nas)
 - [Unix OSes](#unix-oses)
+- [Utilities](#utilities)
 - [Virtualization OSes](#virtualization-oses)
 
 <br> <br>
@@ -242,6 +243,8 @@ distribution into a Live Kit (formely known as Live CD).
 - [Midnight BSD](https://www.midnightbsd.org)
 - [Open BSD](https://www.openbsd.org)
 
+## Utilities
+- [Netgear Unbrick Utility](https://github.com/jclehner/nmrpflash)
 ## Virtualization OSes
 - [Citrix XenServer](https://docs.citrix.com/en-us/xenserver.html)
 - [Xen XCP-ng](https://xcp-ng.org/) - Open source virtualization solution with pro support options for the most demanding companies. 
