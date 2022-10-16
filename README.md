@@ -455,6 +455,7 @@ sudo apt-get install redshift-gtk
   - [Fontawesome.com's icons](https://fontawesome.com/v4.7/icons/)
   - [Free Gophers Pack](https://github.com/MariaLetta/free-gophers-pack) - ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more. 
   - [gopher icons](https://github.com/JasonkayZK/gopher-icons) - A repo to collect gopher icons. 
+    - [Gophers by ashleymcnamara](https://github.com/ashleymcnamara/gophers) - Gopher Artwork by Ashley McNamara
     - [Gophers by egonelbre](https://github.com/egonelbre/gophers) - Free gophers
     - [Gopher icons by shalakhin](https://github.com/shalakhin/gophericons) - 34 gopher images for Go developers community
   - [Icon](https://github.com/bung87/icon) - Icon file generator for Windows, macOS, Web.
