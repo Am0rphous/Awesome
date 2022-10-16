@@ -17,8 +17,6 @@
   - [DeepStack.cc](https://www.deepstack.cc/)
   - [DeepStack_ExDark](https://github.com/OlafenwaMoses/DeepStack_ExDark) - A DeepStack custom model for detecting common objects in dark/night images and videos.
 - [Fairseq](https://github.com/pytorch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
-- [ImageAI](https://github.com/OlafenwaMoses/ImageAI) - A python library built to empower developers to build applications and systems with self-contained Computer Vision capabilities.
-  - [ImageAIDocumentation](https://github.com/OlafenwaMoses/ImageAIDocumentation) - Official English Documentation of ImageAI.
 - [Malmo](https://github.com/microsoft/malmo) - Project Malmo is a platform for Artificial Intelligence experimentation and research built on top of Minecraft. 
 - [OpenCog](https://github.com/opencog/opencog) - A framework for integrated Artificial Intelligence & Artificial General Intelligence (AGI) 
 - [Ruby Warrior](https://github.com/ryanb/ruby-warrior) - Game written in Ruby for learning Ruby and artificial intelligence. 
@@ -72,6 +70,12 @@ Note: https://favouriteblog.com/50-best-github-artificial-intelligence/
 ## Convolutional neural network
 _Convolutional neural networks power image recognition and computer vision tasks._
 - [Eyeballer](https://github.com/BishopFox/eyeballer) - Eyeballer is meant for large-scope network penetration tests where you need to find "interesting" targets from a huge set of web-based hosts. Go ahead and use your favorite screenshotting tool like normal (EyeWitness or GoWitness) and then run them through Eyeballer to tell you what's likely to contain vulnerabilities, and what isn't.
+
+## Image
+- [ImageAI](https://github.com/OlafenwaMoses/ImageAI) - A python library built to empower developers to build applications and systems with self-contained Computer Vision capabilities.
+  - [ImageAIDocumentation](https://github.com/OlafenwaMoses/ImageAIDocumentation) - Official English Documentation of ImageAI.
+- [Stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
+
 
 ## Neural Networks 
 - [CNNArchitectures](https://github.com/OlafenwaMoses/CNNArchitectures) - Code implementation of major Convolutional Neural Networks.
