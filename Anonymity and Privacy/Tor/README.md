@@ -162,6 +162,7 @@ iface eth0 inet static
 - [Check.torproject.org](https://check.torproject.org/cgi-bin/TorBulkExitList.py?ip=1.1.1.1) - A list of all Tor exit nodes from the past 16 hours that can contact 1.1.1.1 on port 80
 - [Dan.me.uk](https://www.dan.me.uk/torlist/) - A page containing a full TOR nodelist.
 - [Exitgather](https://github.com/uforia/exitgather) - Tool for automatic list generation of known TOR and VPN exit nodes 
+- [tor_nodes_ipv4](https://unlockforus.com/pfblockerng/tor_nodes_ipv4.txt)
 
 ### Services
 - [Hosting](https://github.com/DanWin/hosting) - Setup for a Tor based shared web hosting server.
