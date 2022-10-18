@@ -9,6 +9,7 @@
 - [Best Practices in Threat Intelligence](https://github.com/MISP/best-practices-in-threat-intelligence) - Best practices in threat intelligence 
 - [blocklist.de](https://www.blocklist.de)
 - [DeepdarkCTI](https://github.com/fastfire/deepdarkCTI) - Collection of Cyber Threat Intelligence sources from the deep and dark web.
+- [DocIntel](https://github.com/docintelapp/DocIntel) - Open Source Platform for storing, organizing, and searching documents related to cyber threats
 - [Intel Architecture Map](https://github.com/Errum/IntelArchitectureMap) - The Intelligence Architecture Map is based on interviews of industry experts, former intelligence practitioners, and my personal views. It represents a logical and meaningful way I see the different aspects of producing intelligence should be put together.
 - [IoC](https://github.com/avast/ioc) - Threat Intel IoCs + bits and pieces of dark matter.
 - [Karakurt Hacking Team Indicators of Compromise (IOC)](https://github.com/infinitumitlabs/Karakurt-Hacking-Team-CTI) - IOC Data Obtained From Karakurt Hacking Team's Internal Infrastructure.
