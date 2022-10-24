@@ -90,7 +90,7 @@
 
 ## Wallets
 - [Guarda Desktop Crypto Wallet](https://guarda.com/desktop/)
-- [Sinovate Wallet](https://sinovate.io/sin-wallets/)
+- [Sinovate Wallet](https://sinovate.io/sin-wallets/) - [Another link](https://service.sinovate.io/1click/latest/)
 
 ## Widgets
 - [Cryptowidgets](https://github.com/sxiii/cryptowidgets) - Collection of crypto widgets that are helpful for traders & crypto users.
