@@ -143,6 +143,8 @@ iface eth0 inet static
 - [Tor Status](https://torstatus.rueckgr.at)
   - Tor Status - https://jlve2y45zacpbz6s.tor2web.io
   - [Tor Status Github](https://github.com/paulchen/torstatus)
+- [Torutils](https://github.com/toralf/torutils) - Few tools for a Tor relay.
+
 
 ### Collections
 - [DEEP WEB LINKS COLLECTION](https://gist.github.com/vyach-vasiliev/045af4c70cf2ed35c6091b4705093017)
