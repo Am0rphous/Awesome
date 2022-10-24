@@ -487,24 +487,31 @@ sudo apt-get install redshift-gtk
   - [KDevelop](https://github.com/KDE/kdevelop) - Cross-platform IDE for C, C++, Python, QML/JavaScript and PHP.
   - [Nest](https://github.com/MLX15/nestjs) - A progressive Node.js framework for building efficient and scalable server-side applications.
   - [Tokei](https://github.com/XAMPPRocky/tokei) - Tokei is a program that displays statistics about your code. Tokei will show the number of files, total lines within those files and code, comments, and blanks grouped by language.
+  
     #### C++
     - [Awesome C++](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. 
+    
     #### Electron
     - [Awesome Electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron.
     - [Electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS .
       - [Electron Apps](https://github.com/electron/apps) -  A collection of apps built on Electron. [electronjs.org/apps](https://www.electronjs.org/apps)
     - [Menubar](https://github.com/maxogden/menubar) - Heavy_minus_sign high level way to create menubar desktop applications with electron.
     - [Glasstron](https://github.com/AryToNeX/Glasstron) - The go-to solution to Electron composition effects, such as blurry windows.
+    
     #### Go
     - [Awesome Go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software.
     - [Awesome Go Security](https://github.com/Binject/awesome-go-security) - A dedicated place for cool golang security projects.
     - [Goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible.
     - [Hacking-With-Golang](https://github.com/AV1080p/Hacking-With-Golang) - Golang安全资源合集.
     - [LearnGo](https://github.com/inancgumus/learngo) - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes.
+    
     #### HTML
     - [HEAD](https://github.com/joshbuchea/HEAD) - 🗿 A list of everything that *could* go in the head of your document.
+    
     #### Java
+    - [Awesome-java-security](https://github.com/pen4uin/awesome-java-security) - Java Security ☞ Vulnerability Research
     - [IntelliJ IDEA](https://www.jetbrains.com/idea/) - IntelliJ IDEA is an integrated development environment (IDE) for Java development. It’s developed by JetBrains. [Github](https://github.com/JetBrains/intellij-community)
+    
     #### JavaScript
     - [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days. This challenge may take up to 100 days, please just follow your own pace.
     - [30 seconds of code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs.
