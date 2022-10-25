@@ -26,6 +26,7 @@ Useful links generally
 ## Gaming on Linux
 - [Bottles](https://flathub.org/apps/details/com.usebottles.bottles) - Run Windows software on Linux with Bottles!
   - [usebottles.com](https://usebottles.com/) - [AppStore](https://usebottles.com/appstore/) - Origin, Ubisoft Connect, Steam, EA Launcher ++.
+- [GameHub](https://github.com/tkashkin/GameHub) - All your games in one place
 - [Lutris](https://github.com/lutris/lutris) - Open Source gaming platform for GNU/Linux. [lutris.net](https://lutris.net/)
 - [Phoenicis PlayOnLinux](https://github.com/PhoenicisOrg/phoenicis) - Software which allows you to easily install and use numerous games and apps designed to run with Windows. [phoenicis.org](https://phoenicis.org/)
 - [www.playOnLinux.com](https://www.playonlinux.com/en/) - [Supported app list](https://www.playonlinux.com/en/supported_apps-1-0.html)
