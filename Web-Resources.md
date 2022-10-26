@@ -169,6 +169,7 @@
   - [Digital Forensic Survival Podcast](https://digitalforensicsurvivalpodcast.com/)
   - [Information Systems DIGEST Podcast](https://isdigest.buzzsprout.com/)
   - [Beers with Talos](https://talosintelligence.com/podcasts/shows/beers_with_talos)
+  - [Secure AF - Cybersecurity Podcast by AliasInfosec.com](https://aliasinfosec.com/resources/secure-af)
   - SoundCloud
     - [Nasjonal sikkerhetsmyndighet (NSM)](https://soundcloud.com/nasjonal-sikkerhetsmyndighet)
     - [Palo Alto Networks](https://soundcloud.com/paloaltonetworks)
