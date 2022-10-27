@@ -341,7 +341,9 @@ bro / zeek
 
 - [Guide To Install Missing Firmware in Debian](https://www.techbrackets.com/install-missing-firmware-debian/) - Looking to install missing firmware in Debian or Ubuntu, then use this step by step guide.
 - [Puppet](https://github.com/puppetlabs/puppet/) - Server automation framework and application. [Puppet.com](https://puppet.com/)
+  - [Puppetboard](https://github.com/voxpupuli/puppetboard) - Web frontend for PuppetDB
   - [Puppet Consul](https://github.com/solarkennedy/puppet-consul) - A Puppet Module to Manage Consul.
+  - [Puppet explorer](https://github.com/dalen/puppetexplorer) - Puppet web interface written in CoffeeScript using AngularJS
 - [Reload.sh](https://github.com/trimstray/reload.sh) - Wipe, reinstall or restore your system from running GNU/Linux distribution. Via SSH, without rebooting.
 - [Talosplus](https://github.com/tarunKoyalwar/talosplus) - Create and Run Intelligent Automation Scripts Without learning bash scripting 
 - [wAuto](https://github.com/khchen/wAuto) - Windows automation module.
