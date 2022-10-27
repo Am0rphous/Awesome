@@ -509,7 +509,8 @@ lsscsi                          #Print SCSI Devices Info
 
   #### Attack Surface Monitoring
   - [Awesome Attack Surface Monitoring](https://github.com/0xtavian/awesome-attack-surface-monitoring) - Curated list of open-source & paid Attack Surface Monitoring (ASM) tools.
-  - [Proteus](https://github.com/pry0cc/proteus) - A projectdiscovery driven attack surface monitoring bot powered by axiom
+  - [Proteus](https://github.com/pry0cc/proteus) - A projectdiscovery driven attack surface monitoring bot powered by axiom.
+  - [Attack Surface Management](https://github.com/1N3/AttackSurfaceManagement) - Discover the attack surface and prioritize risks with our continuous Attack Surface Management (ASM) platform - Sn1per Professional #pentest #redteam #bugbounty
 
   #### Cloud Monitoring
   - [Nightingale](https://github.com/didi/nightingale) - An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and management. 
