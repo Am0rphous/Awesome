@@ -287,6 +287,7 @@ Communicate clearly <br>
     - [Github Cloner](https://github.com/mazen160/GithubCloner) - A script that clones Github repositories of users and organizations. 
     - [Github Desktop](https://github.com/desktop/desktop) - open source Electron-based GitHub app. It is written in TypeScript and uses React [desktop.github.com/](https://desktop.github.com).
     - [Gitify](https://github.com/manosim/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
+    - [Gitleaks](https://github.com/zricethezav/gitleaks) - Protect and discover secrets using Gitleaks 🔑
     - [Giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions.
     - [GitNoter](https://github.com/git-noter/gitnoter) - An open source, markdown-based, self-hosted note taking webapp. 
     - [metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
