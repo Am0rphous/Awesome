@@ -724,6 +724,9 @@ upstream_recursive_servers:
     - [OpenVPN WebAdmin](https://github.com/Wutze/OpenVPN-WebAdmin) - Create and manage your virtual private network via web browser and OpenVPN with your private OpenVPN-WebAdmin.
     - [Ovpn-admin](https://github.com/flant/ovpn-admin) - Simple web UI to manage OpenVPN users.
   - [Streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
+  - [Proton VPN](https://protonvpn.com/secure-vpn/) - highly recommended - for every platform. [github](https://github.com/ProtonVPN)
+    - [VPN Threat Model](https://protonvpn.com/blog/threat-model/)
+    - [Linux app github](https://github.com/ProtonVPN/linux-app) - [Linux app github CLI](https://github.com/ProtonVPN/linux-cli)
   - [WireGuard](https://github.com/WireGuard) - WireGuard® is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. [Wireguard.com](https://www.wireguard.com)
     - [docker-wireguard](https://github.com/linuxserver/docker-wireguard)
     - [docker-wireguard-socks-proxy](https://github.com/kizzx2/docker-wireguard-socks-proxy) - Expose a WireGuard tunnel as a SOCKS5 proxy 
