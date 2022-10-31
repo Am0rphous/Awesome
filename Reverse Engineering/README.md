@@ -61,6 +61,7 @@ windres       # A compiler for Windows resource files.
 
   ### ELF (Executable and Linkable Format)
   - [Awesome ELF Resources](https://github.com/tmpout/awesome-elf)
+  - [E9patch](https://github.com/GJDuck/e9patch) - A powerful static binary rewriting tool
   - [elfcat](https://github.com/ruslashev/elfcat) - An in-development ELF visualizer. Generates HTML files from ELF binaries. 
   - [The 101 of ELF files on Linux: Understanding and Analysis](https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/)
 
