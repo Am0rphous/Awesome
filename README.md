@@ -213,6 +213,7 @@ Communicate clearly <br>
     - [Thunderbird Extensions](ps://addons.thunderbird.net)
       - [DeepDark for Thunderbird](https://addons.thunderbird.net/thunderbird/addon/deepdark-for-thunderbird/?src=cb-dl-rating) - Dark mode for Thunderbird UI.
       - [Enigmail](https://addons.thunderbird.net/thunderbird/addon/enigmail/?src=cb-dl-users) - OpenPGP message encryption and authentication for Thunderbird.
+      - [Expression-search-NG](https://github.com/opto/expression-search-NG) - update of Thunderbird addon ExpressionSearch/Gmail UI for TB 78 and later
       - [Message Filters](http://kb.mozillazine.org/Filters_(Thunderbird)#Creating_and_editing_filters)
       - [How can I get Thunderbird to read msgFilterRules.dat?](https://support.mozilla.org/en-US/questions/1269514)
       - [Owl for Exchange](https://addons.thunderbird.net/thunderbird/addon/owl-for-exchange/?src=search) - Allows you to use your Exchange email accounts that use Outlook Web Access (OWA) with Thunderbird [beonex.com/owl](https://www.beonex.com/owl).
