@@ -1173,6 +1173,7 @@ upstream_recursive_servers:
   - [Podman](https://github.com/containers/podman) - A tool for managing OCI containers and pods. OCI = Open Container Initiative.
     - [Replacing Docker Compose with Podman (Debian)](https://thesynack.com/posts/docker-compose-podman/)
   - [Portainer](https://www.portainer.io) - Open source container management tool for Kubernetes, Docker, Docker Swarm and Azure ACI.
+  
    #### Container Registers
    - [Harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content. 
    - [Nydus: Dragonfly Container Image Service](https://github.com/dragonflyoss/image-service) - Nydus - the Dragonfly image service, providing fast, secure and easy access to container images. 
@@ -1204,42 +1205,44 @@ upstream_recursive_servers:
  - [XenServer](https://xenserver.org/) - XenServer hypervisor runs an open-source type-1 or bare-metal hypervisor available in three versions: community, standard, and enterprise.
    
 
-   ### Virtual Machines
-   - [Ganeti](https://github.com/ganeti/ganeti) - Ganeti is a virtual machine cluster management tool built on top of existing virtualization technologies such as Xen or KVM and other open source software.
-   - [GraalVM](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere 🚀.
-   - [HAXM](https://github.com/intel/haxm) - HAXM is a cross-platform hardware-assisted virtualization engine (hypervisor), widely used as an accelerator for Android Emulator and QEMU. It has always supported running on Windows and macOS, and has been ported to other host operating systems as well, such as Linux and NetBSD.
-   - [KVM](https://www.linux-kvm.org/page/Main_Page)
-    - [Kimchi](https://github.com/kimchi-project/kimchi) - HTML5 based management tool for KVM.
-    - [KVM Management Tools list](https://www.linux-kvm.org/page/Management_Tools) - Options available to manage kvm virtual machines.
-    - [Virt-manager](https://virt-manager.org/) - The virt-manager application is a desktop user interface for managing virtual machines through libvirt. It primarily targets KVM VMs, but also manages Xen and LXC (linux containers).
-    - [Vmmaestro](https://github.com/mzch/vmmaestro) - Tiny control wrapper for KVM.
-  - [MacVM](https://github.com/KhaosT/MacVM) - macOS VM for Apple Silicon using Virtualization API 
-  - [Multipass](https://ubuntu.com/server/docs/virtualization-multipass) - Instant Ubuntu VMs (Windows, macOS and Linux)
-  - [Nanos VMs](https://github.com/nanovms/nanos) - A kernel designed to run one and only one application in a virtualized environment. [nanos.org](https://nanos.org)
-  - [oVirt](https://www.ovirt.org) - Free open-source virtualization solution for your entire enterprise.
-    - [oVirt documentation](https://www.ovirt.org/documentation)
-  - [UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS.
-  - [Vagrant](https://www.vagrantup.com) - Vagrant is a tool for building and distributing development environments. [Github](https://github.com/hashicorp/vagrant)
-  - [Virtlyst](https://github.com/cutelyst/Virtlyst) - Web interface to manage virtual machines with libvirt.
-  - [VirtualBox](https://www.virtualbox.org) - Hypervisor by Oracle (formerly by Sun) for Windows, Linux, macOS, and Solaris.
-    - [Antivmdetection](https://github.com/nsmfoo/antivmdetection) - Script to create templates to use with VirtualBox to make vm detection harder.
-    - [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS 
-  - [VMWare Fusion (macOS)](https://www.vmware.com/products/fusion/fusion-evaluation.html)
-    - [Open Virtualization Format Tool (ovftool)](https://code.vmware.com/web/tool/4.4.0/ovf) - VMware OVF Tool is a command-line utility that allows you to import and export OVF packages to and from many VMware products.
-    - Commands
-      ````powershell
-      /Applications/VMware\ OVF\ Tool/ovftool --version
-      /Applications/VMware\ OVF\ Tool/ovftool --help 
-      ````
-  - [Qemu](https://www.qemu.org) - Generic and open source machine emulator and virtualizer. [Github](https://github.com/qemu/qemu)
-    - [OVMF](https://wiki.ubuntu.com/UEFI/OVMF) - OVMF is a port of Intel's tianocore firmware to the qemu virtual machine. This allows easy debugging and experimentation with UEFI firmware; either for testing Ubuntu or using the (included) EFI shell.
-    - [Qemu Docs](https://www.qemu.org/docs/master)
-    - [Qira](https://github.com/geohot/qira) - QEMU Interactive Runtime Analyser.
-  - [Quickemu](https://github.com/wimpysworld/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
-  - [XCP-ng](https://xcp-ng.org) - Virtualization platform based on Xen Source and Citrix® Hypervisor (formerly XenServer). XCP-ng stands for Xen Cloud Platform - New Generation.
-    - [XCP-ng documentation](https://xcp-ng.org/docs)
-    #### VM prep
-    - [prepare-ubuntu-18.04-template.sh](https://github.com/jimangel/ubuntu-18.04-scripts/blob/master/prepare-ubuntu-18.04-template.sh)
+### Virtual Machines
+ - [Boxes](https://flathub.org/apps/details/org.gnome.Boxes) - Select an operating system and let Boxes download and install it for you in a virtual machine.
+ - [Ganeti](https://github.com/ganeti/ganeti) - Ganeti is a virtual machine cluster management tool built on top of existing virtualization technologies such as Xen or KVM and other open source software.
+ - [GraalVM](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere 🚀.
+ - [HAXM](https://github.com/intel/haxm) - HAXM is a cross-platform hardware-assisted virtualization engine (hypervisor), widely used as an accelerator for Android Emulator and QEMU. It has always supported running on Windows and macOS, and has been ported to other host operating systems as well, such as Linux and NetBSD.
+ - [KVM](https://www.linux-kvm.org/page/Main_Page)
+  - [Kimchi](https://github.com/kimchi-project/kimchi) - HTML5 based management tool for KVM.
+  - [KVM Management Tools list](https://www.linux-kvm.org/page/Management_Tools) - Options available to manage kvm virtual machines.
+  - [libosinfo: The Operating System information database](https://libosinfo.org/)
+  - [Virt-manager](https://virt-manager.org/) - The virt-manager application is a desktop user interface for managing virtual machines through libvirt. It primarily targets KVM VMs, but also manages Xen and LXC (linux containers).
+  - [Vmmaestro](https://github.com/mzch/vmmaestro) - Tiny control wrapper for KVM.
+- [MacVM](https://github.com/KhaosT/MacVM) - macOS VM for Apple Silicon using Virtualization API 
+- [Multipass](https://ubuntu.com/server/docs/virtualization-multipass) - Instant Ubuntu VMs (Windows, macOS and Linux)
+- [Nanos VMs](https://github.com/nanovms/nanos) - A kernel designed to run one and only one application in a virtualized environment. [nanos.org](https://nanos.org)
+- [oVirt](https://www.ovirt.org) - Free open-source virtualization solution for your entire enterprise.
+  - [oVirt documentation](https://www.ovirt.org/documentation)
+- [UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS.
+- [Vagrant](https://www.vagrantup.com) - Vagrant is a tool for building and distributing development environments. [Github](https://github.com/hashicorp/vagrant)
+- [Virtlyst](https://github.com/cutelyst/Virtlyst) - Web interface to manage virtual machines with libvirt.
+- [VirtualBox](https://www.virtualbox.org) - Hypervisor by Oracle (formerly by Sun) for Windows, Linux, macOS, and Solaris.
+  - [Antivmdetection](https://github.com/nsmfoo/antivmdetection) - Script to create templates to use with VirtualBox to make vm detection harder.
+  - [macos-virtualbox](https://github.com/myspaghetti/macos-virtualbox) - Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS 
+- [VMWare Fusion (macOS)](https://www.vmware.com/products/fusion/fusion-evaluation.html)
+  - [Open Virtualization Format Tool (ovftool)](https://code.vmware.com/web/tool/4.4.0/ovf) - VMware OVF Tool is a command-line utility that allows you to import and export OVF packages to and from many VMware products.
+  - Commands
+    ````powershell
+    /Applications/VMware\ OVF\ Tool/ovftool --version
+    /Applications/VMware\ OVF\ Tool/ovftool --help 
+    ````
+- [Qemu](https://www.qemu.org) - Generic and open source machine emulator and virtualizer. [Github](https://github.com/qemu/qemu)
+  - [OVMF](https://wiki.ubuntu.com/UEFI/OVMF) - OVMF is a port of Intel's tianocore firmware to the qemu virtual machine. This allows easy debugging and experimentation with UEFI firmware; either for testing Ubuntu or using the (included) EFI shell.
+  - [Qemu Docs](https://www.qemu.org/docs/master)
+  - [Qira](https://github.com/geohot/qira) - QEMU Interactive Runtime Analyser.
+- [Quickemu](https://github.com/wimpysworld/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
+- [XCP-ng](https://xcp-ng.org) - Virtualization platform based on Xen Source and Citrix® Hypervisor (formerly XenServer). XCP-ng stands for Xen Cloud Platform - New Generation.
+  - [XCP-ng documentation](https://xcp-ng.org/docs)
+  #### VM prep
+  - [prepare-ubuntu-18.04-template.sh](https://github.com/jimangel/ubuntu-18.04-scripts/blob/master/prepare-ubuntu-18.04-template.sh)
 
 ## Web and Proxy Tools
 - [Awesome Web Security](https://github.com/qazbnm456/awesome-web-security) - A curated list of Web Security materials and resources.
