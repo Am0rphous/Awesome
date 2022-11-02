@@ -524,6 +524,7 @@ lsscsi                          #Print SCSI Devices Info
   - [xfce4-cpufreq-plugin](https://gitlab.xfce.org/panel-plugins/xfce4-cpufreq-plugin) - Shows CPU frequencies and governor
   
   #### ELK-stack
+  - [CVElk](https://github.com/jgamblin/CVElk) - Autoconfigured ELK Stack That Contains All EPSS and NVD CVE Data
   - [Elasticsearch](https://github.com/elastic/elasticsearch) - Open Source, Distributed, RESTful Search Engine.
     - [detection-rules](https://github.com/elastic/detection-rules) -  Rules for Elastic Security's detection engine.
       - [Protections Artifacts](https://github.com/elastic/protections-artifacts) - Elastic Security detection content for Endpoint 
