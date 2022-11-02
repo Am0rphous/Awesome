@@ -1206,7 +1206,7 @@ upstream_recursive_servers:
    
 
 ### Virtual Machines
- - [Boxes](https://flathub.org/apps/details/org.gnome.Boxes) - Select an operating system and let Boxes download and install it for you in a virtual machine.
+ - [Boxes](https://wiki.gnome.org/Apps/Boxes) - Select an operating system and let Boxes download and install it for you in a virtual machine. [flatpak](https://flathub.org/apps/details/org.gnome.Boxes)
  - [Ganeti](https://github.com/ganeti/ganeti) - Ganeti is a virtual machine cluster management tool built on top of existing virtualization technologies such as Xen or KVM and other open source software.
  - [GraalVM](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere 🚀.
  - [HAXM](https://github.com/intel/haxm) - HAXM is a cross-platform hardware-assisted virtualization engine (hypervisor), widely used as an accelerator for Android Emulator and QEMU. It has always supported running on Windows and macOS, and has been ported to other host operating systems as well, such as Linux and NetBSD.
