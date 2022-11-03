@@ -384,6 +384,7 @@ sudo apt-get install redshift-gtk
   - [18 Best GTK Themes for Ubuntu and other Linux Distributions](https://itsfoss.com/best-gtk-themes)
   - [25 Best Icon Themes For Ubuntu and Other Linux](https://itsfoss.com/best-icon-themes-ubuntu-16-04)
   - [How to Make Ubuntu 20.04 Look Like Mac OS](https://azatb.com/2020/10/12/how-to-make-ubuntu-20-04-look-like-mac-os-linux-hint)
+  - [WhiteSur-gtk-theme](https://github.com/vinceliuice/WhiteSur-gtk-theme) - MacOS Big Sur like theme for Gnome desktops
   - [Minimal Conception Theme](https://www.gnome-look.org/p/1235451/)
   - [Nordic GTK3/4 Theme](https://www.pling.com/s/Gnome/p/1267246)
   - [Top 35 Best Ubuntu Themes That Will Blow Your Mind](https://www.ubuntupit.com/best-ubuntu-themes-will-blow-mind/)
