@@ -6,6 +6,9 @@
 ## Anti-Virus and Anti-Rootkit
 - [OpenArk](https://github.com/BlackINT3/OpenArk) - OpenArk is an open source anti-rookit(ARK) tool for Windows [openark.blackint3.com](https://openark.blackint3.com).
 
+## Gaming
+- [Total Conflict: Resistance](https://store.steampowered.com/app/1860510/Total_Conflict_Resistance/)
+
 ## Hardware
 - [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - Gathers info about processor, mainboard, chipset, memory ++.
 - [FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
