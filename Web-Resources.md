@@ -166,6 +166,7 @@
   - [Free Linux course](https://geek-university.com/course/free-linux-course/)
 
   ### Podcasts for Cybersecurity
+  - [5h3llcast](https://podcast.5h3ll.sh/) - 5h3llcast er en uformell sikkerhetspodcast på norsk. Vi drikker øl og snakker om hva enn vi er interessert i innen datasikkerhet. Følg oss på Twitter @5h3llcast 
   - [Digital Forensic Survival Podcast](https://digitalforensicsurvivalpodcast.com/)
   - [Information Systems DIGEST Podcast](https://isdigest.buzzsprout.com/)
   - [Beers with Talos](https://talosintelligence.com/podcasts/shows/beers_with_talos)
