@@ -164,6 +164,7 @@ bro / zeek
   ### Blocklists
   - [AdGuard](https://github.com/AdguardTeam/AdguardHome) - Network-wide ads & trackers blocking DNS server.
     - [AdGuard CNAME Tracker List](https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt)
+    - [AdGuardS DNS Filter](https://github.com/AdguardTeam/AdGuardSDNSFilter) - AdGuard Simplified Domain names filter
     - [AdGuard WireGuard Unbound DNScrypt](https://github.com/trinib/AdGuard-WireGuard-Unbound-DNScrypt) - The ultimate self-hosted network security guide ─ Protection | Privacy | Performance for your network 24/7 Accessible anywhere 
   - [BinaryDefense.com/banlist.txt](https://www.binarydefense.com/banlist.txt)
   - [Black Mirror](https://github.com/T145/black-mirror) - _Automatically maintained malicious host blacklists and false-positive whitelists._
