@@ -926,6 +926,7 @@ Based on that data, you can find the most popular ones and their alternatives.
   - [Notes](https://github.com/nuttyartist/notes) - Note-taking application, write down your thoughts.
   - [Notion](https://www.notion.so) - All-in-one workspace.
   - [P3X OneNote Linux](https://github.com/patrikx3/onenote) - 📚 Linux Electron Onenote - A Linux compatible version of OneNote.
+  - [oamresearch.com](https://roamresearch.com/) - A note-taking tool for networked thought. As easy to use as a document. As powerful as a graph database. Roam helps you organize your research for the long haul.
   - [rofi-todo.sh](https://github.com/claudiodangelis/rofi-todo) - 📓 Minimal todo client for the rofi launcher.
   - [Taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
     - [How to Manage Your Tasks in the Terminal with Taskbook](https://www.maketecheasier.com/manage-tasks-in-terminal-with-taskbook/)
