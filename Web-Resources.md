@@ -178,15 +178,16 @@
     - [CyberWire Daily](https://open.spotify.com/show/0CnYnxrAcfRjh0YSQINAwe?si=X2BItZkmQUSKyPZ1XvcmOA&dl_branch=1)
 
 ## Privacy
-- [DarkSearch](https://darksearch.io/)
-- [privacytools.io](https://www.privacytools.io/)
-- [Qwant.com](https://www.qwant.com/) - Qwant is a French[1] search engine, launched in July 2013 and operated from Paris. It is one of the few EU-based search engines and one that has its own indexing engine.[2] It claims that it does not employ user tracking or personalize search results in order to avoid trapping users in a filter bubble.[3] The search engine is available in 26 languages.
+- [DarkSearch](https://darksearch.io)
+- [privacytools.io](https://www.privacytools.io)
+- [Qwant.com](https://www.qwant.com) - Qwant is a French[1] search engine, launched in July 2013 and operated from Paris. It is one of the few EU-based search engines and one that has its own indexing engine.[2] It claims that it does not employ user tracking or personalize search results in order to avoid trapping users in a filter bubble.[3] The search engine is available in 26 languages.
 
 ## Random
-- [Core](https://core.ac.uk/) - The world’s largest collection of open access research papers.
-- [Ghostarchive](https://ghostarchive.org/)
+- [Core](https://core.ac.uk) - The world’s largest collection of open access research papers.
+- [Ghostarchive](https://ghostarchive.org)
 - [elephind.com](https://elephind.com) - Search the world's historic newspaper archives.
-- [Old Time Radio](https://oldtime.radio/)
+- [Nickfinder.com ](https://nickfinder.com) - Nicknames and names
+- [Old Time Radio](https://oldtime.radio)
 
 ## Social Media
 - [Mastodon](https://joinmastodon.org/)
