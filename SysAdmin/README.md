@@ -990,6 +990,7 @@ upstream_recursive_servers:
 - [WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal. 
 - [Xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered, cross-platform, Unix-gazing shell.
 - [XXH](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
+- [YouPlot](https://github.com/red-data-tools/YouPlot) - A command line tool that draw plots on the terminal.
 
   ### Bash
   - [Awesome Bash](https://github.com/awesome-lists/awesome-bash) -  A curated list of delightful Bash scripts and resources.
