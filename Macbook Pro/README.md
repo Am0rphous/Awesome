@@ -61,6 +61,7 @@ ps axu | grep "/bin/tor"
 - [Blear](https://github.com/sindresorhus/blear) - iOS app that transforms your photos into stunning blurry wallpapers for your device.
 - [Brightness](https://github.com/nriley/brightness) - Command-line display brightness control for macOS.
 - [DiskUtilityUnhide](https://github.com/jacklukem/DiskUtilityUnhide) - to show all hidden EFIs and any APFS subvolumes.
+- [DisplayLink Manager Graphics Connectivity](https://www.synaptics.com/products/displaylink-graphics/downloads/macos-connectivity-1.8?filetype=exe) - _"DisplayLink Manager is a new way to enable your DisplayLink dock, adapter or monitor on macOS platforms. It's an application that combines our latest driver with features that streamline the setup of mutliple displays up to 4K."_
 - [Eul](https://github.com/gao-sun/eul) - 🖥️ macOS status monitoring app written in SwiftUI.
 - [Java](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html) - Go and download the .dmg file and follow instructions.
 - [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) - Intel Bluetooth Drivers for macOS.
