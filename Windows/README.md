@@ -7,6 +7,7 @@
 - [OpenArk](https://github.com/BlackINT3/OpenArk) - OpenArk is an open source anti-rookit(ARK) tool for Windows [openark.blackint3.com](https://openark.blackint3.com).
 
 ## Gaming
+- [Halo Infinite](https://store.steampowered.com/app/1240440/Halo_Infinite/)
 - [Total Conflict: Resistance](https://store.steampowered.com/app/1860510/Total_Conflict_Resistance/)
 
 ## Hardware
