@@ -773,6 +773,7 @@ Based on that data, you can find the most popular ones and their alternatives.
    - [Free assets for your next video project](https://mixkit.co/)
    - [Free Stock Video Footage ](https://www.videvo.net/)
    - [Invidious](https://invidious.io/) - Invidious is an open source alternative front-end to YouTube. [Github](https://github.com/iv-org/invidious)
+     - [Invidious Instances](https://docs.invidious.io/instances/)
    - [Kap](https://github.com/wulkano/Kap) -  An open-source screen recorder built with web technology.
    - [Kazam](https://github.com/hzbd/kazam) - Kazam is a simple screen recording program that will capture the content of your screen.
    - [Kdenlive](https://invent.kde.org/multimedia/kdenlive) - Free and open source video editor, based on MLT Framework and KDE Frameworks 5. [Github](https://github.com/KDE/kdenlive)
