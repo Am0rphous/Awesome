@@ -779,6 +779,7 @@ Based on that data, you can find the most popular ones and their alternatives.
    - [OBS Studio](https://github.com/obsproject/obs-studio) - Free and open source software for live streaming and screen recording.
      - [Screen Recording in Linux With OBS and Wayland](https://itsfoss.com/screen-record-obs-wayland/)
    - [Pensela](https://github.com/weiameili/Pensela) - The Swiss Army Knife of Screen Annotation Tools
+   - [Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
    - [Pitivi](https://www.pitivi.org/) - Free video editor with a beautiful and intuitive user interface, a clean codebase and a fantastic community.
    - [Screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥.
    - [SSR (SimpleScreenRecorder)](https://github.com/MaartenBaert/ssr) - SimpleScreenRecorder, a screen recorder for Linux
