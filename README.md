@@ -489,6 +489,7 @@ sudo apt-get install redshift-gtk
   - [Every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
   - [Flask-base](https://github.com/hack4impact/flask-base) - A simple Flask boilerplate app with SQLAlchemy, Redis, User Authentication, and more. 
   - [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+  - [How-to-be-a-great-programmer](https://github.com/WeeJeWel/how-to-be-a-great-programmer) - null
   - [KDevelop](https://github.com/KDE/kdevelop) - Cross-platform IDE for C, C++, Python, QML/JavaScript and PHP.
   - [Nest](https://github.com/MLX15/nestjs) - A progressive Node.js framework for building efficient and scalable server-side applications.
   - [Sonarqube](https://github.com/SonarSource/sonarqube) - Continuous Inspection
