@@ -94,5 +94,6 @@
 
 ## Widgets
 - [Cryptowidgets](https://github.com/sxiii/cryptowidgets) - Collection of crypto widgets that are helpful for traders & crypto users.
+- [Crypto-bar](https://github.com/geraldoramos/crypto-bar) - 📈 A menu bar app that updates cryptocurrencies prices in real-time
 - [JavascriptBitcoinCharts](https://github.com/fusionchartsexpress/JavascriptBitcoinCharts) - Steps For Creating Historical Bitcoin Charts Using FusionCharts.
   - [Turbocharge Bitcoin Data With Beautiful Javascript Spline Charts](https://www.fusioncharts.com/blog/turbocharge-bitcoin-data-with-beautiful-javascript-spline-charts/)
