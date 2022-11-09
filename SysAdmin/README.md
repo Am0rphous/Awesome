@@ -980,6 +980,7 @@ upstream_recursive_servers:
 - [Guake](https://github.com/Guake/guake) - Drop-down terminal for GNOME.
 - [iTerm Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty 
 - [Shell Script Compiler](https://neurobin.org/projects/softwares/unix/shc/) - Shell script compiler.
+- [Table](https://github.com/aquasecurity/table) - 🧮 Tables for terminals, in Go.
 - [Terminal](https://github.com/elementary/terminal) - Terminal emulator designed for elementary OS.
 - [Terminals Are Sexy ](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [Tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix.
