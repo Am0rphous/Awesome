@@ -907,6 +907,7 @@ Based on that data, you can find the most popular ones and their alternatives.
 - [GoAlert](https://github.com/target/goalert) - Open source on-call scheduling, automated escalations, and notifications so you never miss a critical alert.
 - [KOrganizer](https://github.com/KDE/korganizer) - Organizational assistant, providing calendars and other similar functionality.
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
+- [Ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [Open-event-frontend](https://github.com/fossasia/open-event-frontend) - The frontend for the Open Event API Server
 - [Open-event-server](https://github.com/fossasia/open-event-server) - The Open Event Organizer Server to Manage Events http://open-event-api.herokuapp.com
 - [Sleek](https://github.com/ransome1/sleek) - Todo app based on todo.txt for Linux, Windows and MacOS, free and open-source.
