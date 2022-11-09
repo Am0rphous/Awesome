@@ -93,6 +93,7 @@
 - [Sinovate Wallet](https://sinovate.io/sin-wallets/) - [Another link](https://service.sinovate.io/1click/latest/)
 
 ## Widgets
+- [Coin Tick - Menu Bar Crypto](https://apps.apple.com/ru/app/coin-tick-menu-bar-crypto/id1141688067?mt=12) - macos
 - [Cryptowidgets](https://github.com/sxiii/cryptowidgets) - Collection of crypto widgets that are helpful for traders & crypto users.
 - [Crypto-bar](https://github.com/geraldoramos/crypto-bar) - 📈 A menu bar app that updates cryptocurrencies prices in real-time
 - [JavascriptBitcoinCharts](https://github.com/fusionchartsexpress/JavascriptBitcoinCharts) - Steps For Creating Historical Bitcoin Charts Using FusionCharts.
