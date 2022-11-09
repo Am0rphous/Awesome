@@ -146,6 +146,7 @@
 - [Audio Reactive LED Strip](https://github.com/scottlawsonbc/audio-reactive-led-strip) - 🎵 🌈 Real-time LED strip music visualization using Python and the ESP8266 or Raspberry Pi.
 - [Balena-rpiplay](https://github.com/rahul-thakoor/balena-rpiplay) - Turn a Raspberry Pi into an Airplay server using RPiPlay to enable screen mirroring on tvs, monitors and projectors.
 - [Eclipse Mosquitto](https://mosquitto.org/) - Eclipse Mosquitto is an open source (EPL/EDL licensed) message broker that implements the MQTT protocol versions 5.0, 3.1.1 and 3.1. Mosquitto is lightweight and is suitable for use on all devices from low power single board computers to full servers.
+- [Juice4halt](https://github.com/skhg/juice4halt) - 📝 systemd scripts for the juice4halt Raspberry Pi UPS HAT
 - [Mjpg-streamer](https://github.com/jacksonliam/mjpg-streamer) - Fork of http://sourceforge.net/projects/mjpg-streamer. Mjpg-streamer is a command line application that copies JPEG frames from one or more input plugins to multiple output plugins. It can be used to stream JPEG files over an IP-based network from a webcam to various types of viewers such as Chrome, Firefox, Cambozola, VLC, mplayer, and other software capable of receiving MJPG streams.
 - [OMX image viewer](https://github.com/HaarigerHarald/omxiv) - OpenMax image viewer for the Raspberry Pi.
 - [Raspberry Telegram Status](https://github.com/Datalux/raspberry-telegram-status) - A simple RaspberryPi monitor for temperature and disk usage using Telegram bot.
