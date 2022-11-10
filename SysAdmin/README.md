@@ -1305,6 +1305,7 @@ upstream_recursive_servers:
   - [Jetpack](https://github.com/Automattic/jetpack) - Security, performance, marketing, and design tools — Jetpack is made by WordPress experts to make WP sites safer and faster, and help you grow your traffic.
   - [Migrate WordPress multisite to new server](https://linuxconfig.org/migrate-wordpress-multisite-to-new-server)
   - [Wordpress Comment Blacklist](https://github.com/splorp/wordpress-comment-blacklist) - A simple solution for WordPress comment spam.
+  - [Woocommerce](https://github.com/woocommerce/woocommerce) - A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.
   - [WP-Desktop](https://github.com/Automattic/wp-desktop) - WordPress.com for Desktop.
   - [WPScan](https://github.com/wpscanteam/wpscan) - WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites.
     Wordpress Plugins
