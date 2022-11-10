@@ -583,6 +583,7 @@ lsscsi                          #Print SCSI Devices Info
   ## Attack Surface Monitoring
 - [Attack Surface Analyzer](https://github.com/microsoft/AttackSurfaceAnalyzer) -  Attack Surface Analyzer can help you analyze your operating system's security configuration for changes during software installation.
 - [Awesome Attack Surface Monitoring](https://github.com/0xtavian/awesome-attack-surface-monitoring) - Curated list of open-source & paid Attack Surface Monitoring (ASM) tools.
+
   ### Logs
   - [AwStats](https://www.awstats.org/) - Powerful and featureful web server log analyzer.
   - [Chainsaw](https://github.com/countercept/chainsaw) - Rapidly Search and Hunt through Windows Event Logs.
@@ -945,8 +946,10 @@ upstream_recursive_servers:
   - [HolyTips](https://github.com/HolyBugx/HolyTips) - Tips and Tutorials on Bug Bounty Hunting and Web App Security.
 
   ### Windows Security
+  - [EnableWindowsLogSettings](https://github.com/Yamato-Security/EnableWindowsLogSettings) - Documentation and scripts to properly enable Windows event logs.
   - [Seatbelt](https://github.com/GhostPack/Seatbelt) - Seatbelt is a C# project that performs a number of security oriented host-survey "safety checks" relevant from both offensive and defensive security perspectives. 
   - [WELA](https://github.com/Yamato-Security/WELA) - WELA (Windows Event Log Analyzer): The Swiss Army knife for Windows Event Logs! ゑ羅（ウェラ）.
+  
   #### Windows Hardening
   - [binsnitch.py](https://github.com/NVISOsecurity/binsnitch) - Detect silent (unwanted) changes to files on your system.
   - [Hardentools](https://github.com/securitywithoutborders/hardentools) - Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features.
