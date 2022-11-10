@@ -121,6 +121,7 @@
 
 ## Java
 - [GDS-PMD-Security-Rules](https://github.com/GDSSecurity/GDS-PMD-Security-Rules) - Custom security ruleset for the popular Java static analysis tool PMD.
+- [SootTutorial](https://github.com/noidsirius/SootTutorial) - A step-by-step tutorial for Soot (a Java static analysis framework)
 
 ## Memory Forensics
 - [atomicity_tops](https://github.com/pagabuc/atomicity_tops) - Introducing the Temporal Dimension to Memory Forensics - ACM Transactions on Privacy and Security 2019.
