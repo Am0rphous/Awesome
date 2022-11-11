@@ -19,6 +19,7 @@
 - [Privacy](#Privacy)
 - [Random](#random)
 - [Social Media](Social-Media)
+- [War](#war)
 
 <br>
 <br>
@@ -192,3 +193,7 @@
 
 ## Social Media
 - [Mastodon](https://joinmastodon.org/) - the alternative, privacy respecting, front page of internet
+
+## War
+- [wartranslated.com](https://wartranslated.com)
+- [teddit.net/r/UkraineWarVideoReport](https://teddit.net/r/UkraineWarVideoReport)
