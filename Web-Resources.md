@@ -188,6 +188,7 @@
 - [elephind.com](https://elephind.com) - Search the world's historic newspaper archives.
 - [Nickfinder.com ](https://nickfinder.com) - Nicknames and names
 - [Old Time Radio](https://oldtime.radio)
+- [teddit.net](https://teddit.net/)
 
 ## Social Media
-- [Mastodon](https://joinmastodon.org/)
+- [Mastodon](https://joinmastodon.org/) - the alternative, privacy respecting, front page of internet
