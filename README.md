@@ -291,6 +291,7 @@ Communicate clearly <br>
     - [Gitleaks](https://github.com/zricethezav/gitleaks) - Protect and discover secrets using Gitleaks 🔑
     - [Giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions.
     - [GitNoter](https://github.com/git-noter/gitnoter) - An open source, markdown-based, self-hosted note taking webapp.
+    - [Harden-runner](https://github.com/step-security/harden-runner) - 🛡️Security agent for the GitHub-hosted runner to monitor the build process
     - [Mermaid](https://github.com/JakeSteam/Mermaid) - A collection of cheatsheets for using Mermaid diagrams on GitHub and elsewhere
     - [metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
   - [GitLab](https://about.gitlab.com/install/) - web-based DevOps lifecycle tool that provides a Git-repository manager providing wiki, issue-tracking and continuous integration and deployment pipeline features, using an open-source license, developed by GitLab Inc.
