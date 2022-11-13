@@ -92,12 +92,14 @@ ps axu | grep "/bin/tor"
   sudo dd if=/path/to/image.iso of=/dev/rdisknumber bs=1m>
   sudo dd if=/Users/user_name/Downloads/CentOS-8-x86_64-boot.iso of=/dev/rdisk2
   ````
+  
   ### Development
   - [Create-DMG](https://github.com/create-dmg/create-dmg) - A shell script to build fancy DMGs.
   - [LaunchAtLogin](https://github.com/sindresorhus/LaunchAtLogin) - Add “Launch at Login” functionality to your macOS app in seconds.
   - [Node-appDMG](https://github.com/LinusU/node-appdmg) - 💾 Generate your app dmgs.
   - [Rumps](https://github.com/jaredks/rumps) - Ridiculously Uncomplicated macOS Python Statusbar apps.
   - [Tray Example](https://github.com/kevinsawicki/tray-example) - Electron Tray Mac OS X Example App.
+  
   ### Package Managers
   - [Brew / HomeBrew](https://brew.sh/) - Package Manager for Linux and MacOS.
   - [Brew Documentation](https://docs.brew.sh)
