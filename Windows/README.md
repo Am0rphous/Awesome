@@ -28,10 +28,12 @@
 ## Productivity
 - [GreenShot](https://github.com/greenshot/greenshot) - Greenshot is a light-weight screenshot software tool for Windows.
 - [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity.
+- [WinDirStat](https://windirstat.net/) - Visualize big files on any harddisk. Very helpful when the disk is running low on space.
 
-## Security and Protection
+## Security
 - [EmoCheck](https://github.com/JPCERTCC/EmoCheck) - Emotet detection tool for Windows OS.
 - [HardeningKitty](https://github.com/scipag/HardeningKitty) - Invoke-HardeningKitty - Checks and hardens your Windows configuration.
+- [HashTab](https://hashtab.en.softonic.com/)
 - [SDelete](https://docs.microsoft.com/en-us/sysinternals/downloads/sdelete)
 - [Secunia Personal Software Inspector](https://secunia-personal-software-inspector.en.softonic.com/#older-versions) - Discover security vulnerabilities.
 - [Screwed-Drivers](https://github.com/eclypsium/Screwed-Drivers) - "Screwed Drivers" centralized information source for code references, links, etc.
@@ -43,8 +45,7 @@
 3. Type: "setx /M MP_FORCE_USE_SANDBOX 1" and then press ENTER
 4. Then restart your computer, that’s it
 ````
-### Cheksum
-- [HashTab](https://hashtab.en.softonic.com/)
+
 
 ### Privacy
 - [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script/Utility/Application to debloat Windows 10, to remove Windows pre-installed unnecessary applications, stop some telemetry functions, stop Cortana from being used as your Search Index, disable unnecessary scheduled tasks, and more.
