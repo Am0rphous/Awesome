@@ -1030,6 +1030,7 @@ Based on that data, you can find the most popular ones and their alternatives.
   - [Friendica](https://github.com/friendica/friendica) - Friendica Communications Platform.
   - [GNU social](https://gnusocial.network/)
   - [Mastodon](https://github.com/tootsuite/mastodon) - Mastodon is a free, open-source social network server based on ActivityPub where users can follow friends and discover new ones. On Mastodon, users can publish anything they want: links, pictures, text, video. All Mastodon servers are interoperable as a federated network (users on one server can seamlessly communicate with users from another one, including non-Mastodon software that implements ActivityPub)!
+    - [Awesome mastodon](https://github.com/tleb/awesome-mastodon) - Curated list of awesome Mastodon-related stuff!
     - [Mastodon-install-script](https://github.com/nesosuke/mastodon-install-script) - 誰でもMastodonサーバーを立てられるようになるやつ(主語デカ) .
   - [Plume](https://github.com/Plume-org/Plume) - Plume is a federated blogging engine, based on ActivityPub. It is written in Rust, with the Rocket framework, and Diesel to interact with the database. The front-end uses Ructe templates, WASM and SCSS.
   - Twitter (microblogging)
