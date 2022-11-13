@@ -1041,6 +1041,7 @@ Based on that data, you can find the most popular ones and their alternatives.
   - [Funkwhale](https://funkwhale.audio/) - Funkwhale is a community-driven project that lets you listen and share music and audio within a decentralized, open network.
     - [Funkwhale Docker Container](https://github.com/michaelmob/docker-funkwhale) - All-in-one funkwhale docker image.
   ### Video Hosting
+  - [joinpeertube.org](https://joinpeertube.org)
   - [PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser.
 
 ## Resources
