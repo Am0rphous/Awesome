@@ -143,6 +143,7 @@ Communicate clearly <br>
 
 - [StarGazed](https://github.com/abhijithvijayan/stargazed) - Creating your own Awesome List of GitHub stars!
 
+
 ## Communication and Collaboration Tools
 - [Apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
   - [Apprise API](https://github.com/caronc/apprise-api) - A lightweight REST framework that wraps the Apprise Notification Library.
@@ -150,8 +151,9 @@ Communicate clearly <br>
   - [Bluebubbels-server](https://github.com/BlueBubblesApp/bluebubbles-server) - Server for forwarding iMessages to clients within the BlueBubbles App ecosystem.
   - [BlueBubbles Clients](https://github.com/BlueBubblesApp/bluebubbles-app) - A cross-platform app ecosystem, bringing iMessage to Android, PC (Windows, Linux, & even macOS), and Web! [bluebubbles.app](https://bluebubbles.app/)
 - [Convos](https://convos.chat)
-
-
+- [Coturn](https://github.com/coturn/coturn) - coturn TURN server project
+  - Tip to run as container: `sudo docker run -d --network=host coturn/coturn && sudo docker update --restart unless-stopped $(docker ps -q)`
+  - [Open Relay: Free WebRTC TURN Server](https://www.metered.ca/tools/openrelay/)
 - [Discord](https://discord.com/) - Discord is a VoIP, instant messaging and digital distribution platform. Users communicate with voice calls, video calls, text messaging, media and files in private chats or as part of communities called "servers". Servers are a collection of persistent chat rooms and voice chat channels. [wikipedia](https://en.wikipedia.org/wiki/Discord_(software))
   - [Eth-Price-Bot](https://github.com/hjoelh/Eth-Price-Bot) - Simple discord bot to display the current ethereum price.
 - [Discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
@@ -177,7 +179,6 @@ Communicate clearly <br>
 - [Microsoft Temas](https://www.microsoft.com/nb-no/microsoft-teams/download-app) - Linux, Mac, Windows, ios, android
   - [clear_cache_MS_Teams.sh](https://gist.github.com/mrcomoraes/c83a2745ef8b73f9530f2ec0433772b7)
 - [Openfire](https://igniterealtime.org/projects/openfire/) - Openfire is a real time collaboration (RTC) server licensed under the Open Source Apache License. It uses the only widely adopted open protocol for instant messaging, XMPP Openfire is incredibly easy to setup and administer, but offers rock-solid security and performance. [Github](https://github.com/igniterealtime/Openfire)
-- [Open Relay: Free WebRTC TURN Server](https://www.metered.ca/tools/openrelay/)
 - [p2p.chat](https://github.com/tom-james-watson/p2p.chat) - p2p video conferencing powered by WebRTC.
 - [Rambox](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
 - [Ricochet Refresh](https://github.com/blueprint-freespeech/ricochet-refresh) - Anonymous peer-to-peer instant messaging 
