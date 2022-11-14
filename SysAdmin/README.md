@@ -976,7 +976,8 @@ upstream_recursive_servers:
 - [Fish Shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell. [fishshell.com](https://fishshell.com)
 - [Gnome-Terminal](https://gitlab.gnome.org/GNOME/gnome-terminal) - Default in all major Linux distributions.
 - [GoTTY](https://github.com/yudai/gotty) - Share your terminal as a web application.
-- [Hyper](https://github.com/vercel/hyper) - A terminal built on web technologies. [www.hyper.is](https://hyper.is/)
+- [Hyper Terminal](https://github.com/vercel/hyper) - A terminal built on web technologies. [www.hyper.is](https://hyper.is/)
+  - [Terminal-icons](https://github.com/dhanishgajjar/terminal-icons) - Beautiful icons for your favourite terminal apps like Hyper and iTerm2
 - [kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal.
 - [Modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [NuShell](https://github.com/nushell/nushell) - A new type of shell.
