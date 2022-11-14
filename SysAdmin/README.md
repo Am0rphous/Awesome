@@ -1165,6 +1165,7 @@ upstream_recursive_servers:
   - [MiniKube](https://github.com/kubernetes/minikube) - Minikube implements a local Kubernetes cluster on macOS, Linux, and Windows. [minikube.sigs.k8s.io](https://minikube.sigs.k8s.io/docs/)
   - [MiniShift](https://github.com/minishift/minishift) - Open source tool that helps you run a single-node OpenShift cluster locally inside a VM. [okd.io](https://www.okd.io)
   - [Panamax-ui](https://github.com/CenturyLinkLabs/panamax-ui) - The Web GUI for Panamax.
+  - [Rootlesskit](https://github.com/rootless-containers/rootlesskit) - Linux-native "fake root" for implementing rootless containers
   - [Sysbox](https://github.com/nestybox/sysbox) - An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
   - [Tini - A tiny but valid init for containers](https://github.com/krallin/tini) - A tiny but valid `init` for containers 
   - [The Moby Project](https://github.com/moby/moby) - A collaborative project for the container ecosystem to assemble container-based systems.
