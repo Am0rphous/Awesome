@@ -464,6 +464,7 @@ lsscsi                          #Print SCSI Devices Info
 - [Splunk Home](https://ethicalhackingguru.com/splunk-free-home) - Restricted to 500 megabyte / day.
 - [SSHGuard](https://bitbucket.org/sshguard/sshguard/src/master) - "_Protects hosts from brute-force attacks against SSH and other services. It aggregates system logs and blocks repeat offenders using one of several firewall backends._" [sshguard.net](https://www.sshguard.net).
 - [Suricata](https://github.com/OISF/suricata) - Suricata is a network IDS, IPS and NSM engine. [suricata-ids.org](https://suricata-ids.org)
+  - [Awesome-suricata](https://github.com/satta/awesome-suricata) - A curated list of awesome things related to Suricata
   - [ET OPEN Ruleset Download Instructions](https://rules.emergingthreats.net/OPEN_download_instructions.html) - Emergingthreats.
   - [SEPTun](https://github.com/pevma/SEPTun) - Suricata Extreme Performance Tuning guide.
   - [Suricata PT Open Ruleset](https://github.com/ptresearch/AttackDetection) - Attack Detection.
