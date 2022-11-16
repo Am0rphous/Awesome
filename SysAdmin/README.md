@@ -131,6 +131,7 @@ bro / zeek
 - [FreeIPA](https://github.com/freeipa/freeipa) -  Mirror of FreeIPA, an integrated security information management solution. [freeipa.org](https://www.freeipa.org)
 - [JXplorer](https://github.com/pegacat/jxplorer) - A free java ldap client with LDIF support, security (inc SSL, SASL & GSSAPI), translated into many languages (inc. Chinese), online help, user forms and many other features. 
 - [LDAP Browser (MacOS)](https://ldapbrowsermac.com) - LDAP Admin Tool, a ldap and active directory browser and editior is a graphical tool designed to provide a user friendly environment in which to connect to any ldap aware directory server, modify data , run queries, export and print data. 
+- [NetTools](https://nettools.net/) - NetTools is a free Active Directory troubleshooting tool, which provides the ability to troubleshoot, query, report and update Active Directory and other LDAP based directories.  It includes over 90 different features to help with AD troubleshooting, including a powerful and feature rich LDAP client with over 280 predefined LDAP queries.
 - [Openldap](https://github.com/openldap/openldap) - free, open-source implementation of the Lightweight Directory Access Protocol (LDAP) developed by the OpenLDAP Project.
 
   ### Security
