@@ -795,7 +795,7 @@ Based on that data, you can find the most popular ones and their alternatives.
    - [Pitivi](https://www.pitivi.org/) - Free video editor with a beautiful and intuitive user interface, a clean codebase and a fantastic community.
    - [Screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥.
    - [SSR (SimpleScreenRecorder)](https://github.com/MaartenBaert/ssr) - SimpleScreenRecorder, a screen recorder for Linux
-   - 
+   - [Vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
    - [Xtreme Download Manager](https://github.com/subhra74/xdm) -  Powerfull download accelerator and video downloader.
 
   ### Media Servers
