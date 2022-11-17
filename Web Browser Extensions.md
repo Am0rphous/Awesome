@@ -23,6 +23,7 @@ Table of content
 - [Adblock Plus](https://gitlab.com/eyeo/adblockplus/adblockpluschrome) - open-source browser extension for content-filtering and ad blocking.
 - [AdBlocker Ultimate (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/adblocker-ultimate/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) - Completely remove ALL ads. No “acceptable” ads or whitelisted advertisers allowed. This free extensions also helps block trackers and malware.
 - [AdNauseam](https://addons.mozilla.org/en-US/firefox/addon/adnauseam/) - Blocking ads and fighting back against advertising surveillance.
+- [Firefox Relay](https://addons.mozilla.org/en-US/firefox/addon/private-relay/) - _"Firefox Relay lets you generate email aliases that forward to your real inbox. Use it to hide your real email address and protect yourself from hackers and unwanted mail."_
 - [Nuke Private Data (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/nukeprivatedata/) - One-click toolbar button optionally deletes: cookies, browser cache, browsing history, download history, website file systems, form autocomplete data, indexedDB data, local storage, plugin data, data cached by service workers, saved passwords.
 - [TrackMeNot](http://trackmenot.io/) - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/trackmenot/)
 - [uBlock Origin](https://github.com/gorhill/uBlock) - An efficient blocker for Chromium and Firefox. Fast and lean. [ublockorigin.com](https://ublockorigin.com/)
