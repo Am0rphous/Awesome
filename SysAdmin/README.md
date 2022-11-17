@@ -1153,7 +1153,8 @@ upstream_recursive_servers:
     - [Watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
       - [Docker Compose File For Watchtower](https://www.jamescoyle.net/how-to/docker-compose-files/3323-docker-compose-file-for-watchtower)
       - [How to Automate Docker Container Updates With Watchtower](https://www.howtogeek.com/devops/how-to-automate-docker-container-updates-with-watchtower)
-````
+
+````bash
   watchtower:
     container_name: watchtower
     image: containrrr/watchtower
