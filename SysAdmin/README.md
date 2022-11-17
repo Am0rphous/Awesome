@@ -1169,6 +1169,7 @@ upstream_recursive_servers:
     labels:
       - "com.centurylinklabs.watchtower.enable=true"
 ````
+
     - [Weave](https://github.com/weaveworks/weave) -  Simple, resilient multi-host containers networking and more. Weaveworks is the company that delivers the most productive way for developers to connect, observe and control Docker containers.
       - [Weave Scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes.
   - [dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers
