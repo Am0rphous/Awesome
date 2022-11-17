@@ -1311,6 +1311,7 @@ upstream_recursive_servers:
   - [Automattic's Free Themes](https://github.com/Automattic/themes) - WordPress.com themes.
   - [Calypso](https://github.com/Automattic/wp-calypso) - The JavaScript and API powered WordPress.com. [developer.wordpress.com/calypso/](https://developer.wordpress.com/calypso/)
   - [Elementor](https://elementor.com) - The World's Leading WordPress Website Builder.
+  - [Free GeneratePress theme](https://generatepress.com/) - "focuses on speed, usability, & accessibility above all else. It prioritizes the essentials your website needs in order to achieve optimal performance for your visitors and search engines."
   - [GamiPress](https://gamipress.com) - GamiPress lets you award your users with digital rewards for interacting with your WordPress website.
   - [Jetpack](https://github.com/Automattic/jetpack) - Security, performance, marketing, and design tools — Jetpack is made by WordPress experts to make WP sites safer and faster, and help you grow your traffic.
   - [Migrate WordPress multisite to new server](https://linuxconfig.org/migrate-wordpress-multisite-to-new-server)
