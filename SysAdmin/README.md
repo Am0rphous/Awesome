@@ -1151,6 +1151,8 @@ upstream_recursive_servers:
     - [runlike](https://github.com/lavie/runlike) - Given an existing docker container, prints the command line necessary to run a copy of it.
     - [Running the GUI Application inside Docker Container](https://kallakruparaju.medium.com/running-the-gui-application-inside-docker-container-bdfbeb889147)
     - [Watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
+      - [Docker Compose File For Watchtower](https://www.jamescoyle.net/how-to/docker-compose-files/3323-docker-compose-file-for-watchtower)
+      - [How to Automate Docker Container Updates With Watchtower](https://www.howtogeek.com/devops/how-to-automate-docker-container-updates-with-watchtower/)
     - [Weave](https://github.com/weaveworks/weave) -  Simple, resilient multi-host containers networking and more. Weaveworks is the company that delivers the most productive way for developers to connect, observe and control Docker containers.
       - [Weave Scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes.
   - [dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers
