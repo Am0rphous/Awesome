@@ -16,6 +16,7 @@
   - [GnuPG Github](https://github.com/gpg/gnupg)
 - [Hotp-js - A JavaScript HOTP implementation](https://github.com/adulau/hotp-js) - A simple Javascript HOTP implementation (HMAC-Based One-Time Password Algorithm) as described in RFC 4226. The library relies on crypto-js (http://code.google.com/p/crypto-js/) for the javascript HMAC-SHA1 implementation.
 - [LibreCrypt](https://github.com/t-d-k/LibreCrypt) - LibreCrypt: Transparent on-the-fly disk encryption for Windows. LUKS compatible.
+- [openpgp.org](https://www.openpgp.org)
 - [OpenSSL](https://github.com/openssl/openssl) - TLS/SSL and crypto library.
 - [Paranoid_crypto](https://github.com/google/paranoid_crypto) - Paranoid's library contains implementations of checks for well known weaknesses on cryptographic artifacts.- [RC4](https://github.com/0xsirus/RC4) - RC4 C implementation 
 - [RSACrack](https://github.com/b4den/rsacrack) - A toolbox for extracting RSA private keys from public keys.
