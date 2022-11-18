@@ -123,8 +123,8 @@
 - [GDS-PMD-Security-Rules](https://github.com/GDSSecurity/GDS-PMD-Security-Rules) - Custom security ruleset for the popular Java static analysis tool PMD.
 - [SootTutorial](https://github.com/noidsirius/SootTutorial) - A step-by-step tutorial for Soot (a Java static analysis framework)
 
-## Memory Forensics
-- [atomicity_tops](https://github.com/pagabuc/atomicity_tops) - Introducing the Temporal Dimension to Memory Forensics - ACM Transactions on Privacy and Security 2019.
+## Memory Forensics (RAM)
+- [Atomicity_tops](https://github.com/pagabuc/atomicity_tops) - Introducing the Temporal Dimension to Memory Forensics - ACM Transactions on Privacy and Security 2019.
 - [Dismember](https://github.com/liamg/dismember) - 🔪 Scan memory for secrets and more. Maybe eventually a full /proc toolkit. 
 - [FireEye Redline](https://www.fireeye.com/services/freeware/redline.html) -  free endpoint security tool, provides host investigative capabilities to users to find signs of malicious activity through memory and file analysis and the development of a threat assessment profile.
 - [Fmem](https://github.com/NateBrune/fmem) - Linux Kernel Module designed to help analyze volatile memory in the linux kernel.
@@ -135,6 +135,7 @@ cd fmem && make
 ./run.sh
 dd if=/dev/fmem of=memory.raw bs=1MB count=2048
 ````
+- [FTK Imager](https://www.exterro.com/ftk-imager)
 - [kallsyms-extractor](https://github.com/pagabuc/kallsyms-extractor) - Tool to extract the kallsyms (System.map) from a memory dump.
 - [kernographer](https://github.com/pagabuc/kernographer) - Back to the Whiteboard: a Principled Approach for the Assessment and Design of Memory Forensic Techniques (Usenix '19)
   - [Back to the Whiteboard: a Principled Approach for the Assessment and Design of Memory Forensic Techniques](https://www.usenix.org/system/files/sec19fall_pagani_prepub.pdf)
