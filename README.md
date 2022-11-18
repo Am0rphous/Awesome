@@ -779,6 +779,7 @@ Based on that data, you can find the most popular ones and their alternatives.
    - [yEd Graph Editor](https://www.yworks.com/products/yed) - Powerful desktop application that can be used to quickly and effectively generate high-quality diagrams.
    
   ### Video
+   - [Asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
    - [Awesome Broadcasting](https://github.com/ebu/awesome-broadcasting) - A curated list of amazingly awesome open source resources related to broadcast technologies
    - [Awesome Video](https://github.com/krzemienski/awesome-video) - A curated list of awesome streaming video tools, frameworks, libraries, and learning resources. 
    - [ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly.
