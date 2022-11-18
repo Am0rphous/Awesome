@@ -182,6 +182,7 @@
 
 ## Privacy
 - [DarkSearch](https://darksearch.io)
+- [Metager.org](https://metager.org)
 - [privacytools.io](https://www.privacytools.io)
 - [Qwant.com](https://www.qwant.com) - Qwant is a French[1] search engine, launched in July 2013 and operated from Paris. It is one of the few EU-based search engines and one that has its own indexing engine.[2] It claims that it does not employ user tracking or personalize search results in order to avoid trapping users in a filter bubble.[3] The search engine is available in 26 languages.
 
