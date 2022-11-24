@@ -168,6 +168,9 @@
   - [Comptia+](https://www.comptia.org/) - _"Get the skills you want and employers need."_
   - [Free Linux course](https://geek-university.com/course/free-linux-course/)
 
+  ### Podcasts
+  - [Lex Fridman Podcast](https://lexfridman.com/podcast)
+  
   ### Podcasts for Cybersecurity
   - [5h3llcast](https://podcast.5h3ll.sh/) - 5h3llcast er en uformell sikkerhetspodcast på norsk. Vi drikker øl og snakker om hva enn vi er interessert i innen datasikkerhet. Følg oss på Twitter @5h3llcast 
   - [Digital Forensic Survival Podcast](https://digitalforensicsurvivalpodcast.com/)
