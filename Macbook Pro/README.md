@@ -3,14 +3,14 @@
 Table of content
 1. [Collection of various resources](#collection-of-various-resources)
 3. [Music](#music)
-4. [Network](#Network)
-5. [Tools](#tools)
-6. [Macbook with Linux resources](#Macbook-with-Linux-resources)
-7. [Productivity](#Productivity)
+  - [Sound](#sound) 
+5. [Network](#Network)
+6. [Tools](#tools)
+7. [Macbook with Linux resources](#Macbook-with-Linux-resources)
+8. [Productivity](#Productivity)
 
 <br>
 
-- [Softwareupdate-full-installer](https://github.com/chris1111/Softwareupdate-full-installer) - Command Line script to download Install macOS 
 
 ## Collection of various resources
 - [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
@@ -22,6 +22,7 @@ Table of content
 - [Mac Apps](https://github.com/jeffreyjackson/mac-apps)
 - [MacOS-Security-and-Privacy-Guide ](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS.
 - [Macos_virtualization](https://github.com/AriESQ/macos_virtualization) - Notes on macos virtualization with a focus on running guest OS on Apple M1 Silicon
+- [Softwareupdate-full-installer](https://github.com/chris1111/Softwareupdate-full-installer) - Command Line script to download Install macOS 
 
 
 ## Music
