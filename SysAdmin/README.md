@@ -244,6 +244,7 @@ bro / zeek
   - [rkhunter - salsa.debian.org](https://salsa.debian.org/pkg-security-team/rkhunter) - rkhunter packaging
 - [Shell-Detector](https://github.com/emposha/Shell-Detector) - Helps you find and identify php/cgi(perl)/asp/aspx shells.
 - [Sophos Antivirus For Linux](https://www.sophos.com/en-us/products/free-tools/sophos-antivirus-for-linux.aspx/RK=2/RS=caAEioDVltcMG4sRYQ.wlS_THec-)
+- [Strelka](https://github.com/target/strelka) - Real-time, container-based file scanning at enterprise scale
 - [StringSifter](https://github.com/fireeye/stringsifter) - A machine learning tool that ranks strings based on their relevance for malware analysis.
 - [vt-cli](https://github.com/VirusTotal/vt-cli) -  VirusTotal Command Line Interface. [virustotal.github.io/vt-cli/](https://virustotal.github.io/vt-cli/)
 - [Web Shell Detector](https://github.com/emposha/PHP-Shell-Detector) - PHP script that helps you find and identify php/cgi(perl)/asp/aspx shells. Web Shell Detector has a “web shells” signature database that helps to identify “web shell” up to 99%. [shelldetector.com](https://shelldetector.com/)
