@@ -1,14 +1,14 @@
 # Macbook Pro Resources
 
 Table of content
-1. [Collection](#collection)
-2. [Communication](#Communication)
-3. [Monitoring](#Monitoring)
-4. [Music](#music)
-5. [Network](#Network)
-6. [Tools](#tools)
-7. [Macbook with Linux resources](#Macbook-with-Linux-resources)
-8. [Productivity](#Productivity)
+1. [Collection of various resources](#collection-of-various-resources)
+3. [Music](#music)
+4. [Network](#Network)
+5. [Tools](#tools)
+6. [Macbook with Linux resources](#Macbook-with-Linux-resources)
+7. [Productivity](#Productivity)
+
+<br>
 
 - [Softwareupdate-full-installer](https://github.com/chris1111/Softwareupdate-full-installer) - Command Line script to download Install macOS 
 
@@ -23,13 +23,6 @@ Table of content
 - [MacOS-Security-and-Privacy-Guide ](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS.
 - [Macos_virtualization](https://github.com/AriESQ/macos_virtualization) - Notes on macos virtualization with a focus on running guest OS on Apple M1 Silicon
 
-## Communication
-- [ThunderBird](https://www.thunderbird.net)
-  #### IRC
-  - [LimeChat](http://github.com/psychs/limechat) - IRC Client for Mac. [limechat.net/mac](http://limechat.net/mac)
-
-## Monitoring
-- [ProcessMonitor](https://github.com/objective-see/ProcessMonitor) - Process Monitor Library (based on Apple's new Endpoint Security Framework.
 
 ## Music
 - [Beardedspice](https://github.com/beardedspice/beardedspice) - Mac Media Keys for the Masses.
@@ -38,9 +31,9 @@ Table of content
 - [SoundCleod](https://github.com/salomvary/soundcleod) - SoundCloud for macOS and Windows.
 - [Soundnode](https://www.soundnodeapp.com) - An opensource SoundCloud app for Desktop.
 - [Vox](https://vox.rocks/) - Premium Mac Music Player for Hi-Res music through the popular sources.
-### Sound
-- [Ballast](https://github.com/jamsinclair/ballast) - Keep your audio balance from drifting! OSX Status Bar App
-  - [Bug: MacBook Pro Bluetooth Audio balance keeps changing by itself](https://apple.stackexchange.com/questions/280145/macbook-pro-bluetooth-audio-balance-keeps-changing-by-itself)
+  ### Sound
+  - [Ballast](https://github.com/jamsinclair/ballast) - Keep your audio balance from drifting! OSX Status Bar App
+    - [Bug: MacBook Pro Bluetooth Audio balance keeps changing by itself](https://apple.stackexchange.com/questions/280145/macbook-pro-bluetooth-audio-balance-keeps-changing-by-itself)
 
 
 ## Network
@@ -57,9 +50,11 @@ brew services start tor
 brew info tor
 ps axu | grep "/bin/tor"
 ````
+
   ### Proxy
   - [clashX](https://github.com/yichengchen/clashX) - A rule based proxy For Mac base on Clash.
   - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX.
+  
   ### Security
   - [DoNotDisturb](https://github.com/objective-see/DoNotDisturb) - Detect Evil Maid Attacks. 'Do Not Disturb' (DnD) is a free open-source security tool for macOS that aims to detect unauthorized physical access to your laptop!
   - [Dylib Hijack Scanner](https://objective-see.com/products/dhs.html)
@@ -84,8 +79,10 @@ ps axu | grep "/bin/tor"
 - [MacForge](https://github.com/MacEnhance/MacForge) - Plugin, App, and Theme store which includes plugin injection for macOS.
 - [MacHack](https://github.com/kendfinger/MacHack) - Hidden Tools in macOS.
 - [MacOS Fortress](https://github.com/essandess/macOS-Fortress) - Firewall and Privatizing Proxy for Trackers, Attackers, Malware, Adware, and Spammers with Anti-Virus On-Demand and On-Access Scanning (PF, squid, privoxy, hphosts, dshield, emergingthreats, hostsfile, PAC file, clamav).
+- [ProcessMonitor](https://github.com/objective-see/ProcessMonitor) - Process Monitor Library (based on Apple's new Endpoint Security Framework.
 - [The Unarchiver](https://apps.apple.com/us/app/the-unarchiver/id425424353?mt=12) - Open any archive in seconds.
 - [RadeonSensor](https://github.com/aluveitie/RadeonSensor) - Kext and Gadget to show Radeon GPU temperature on macOS.
+- [Remote Desktop Manager Free](https://remotedesktopmanager.com/home/downloadfree) - Windows, Mac, Linux, Android & iOS.
 - [Shield](https://github.com/theevilbit/Shield) - An app to protect against process injection on macOS.
 - [SMCKit](https://github.com/beltex/SMCKit) - Apple SMC library & tool.
 - [TB3 enabler](https://github.com/KhaosT/tb3-enabler) - Enable Thunderbolt 3 for unsupported peripherals on macOS.
@@ -105,7 +102,7 @@ ps axu | grep "/bin/tor"
   sudo dd if=/Users/user_name/Downloads/CentOS-8-x86_64-boot.iso of=/dev/rdisk2
   ````
   
-  ### Development
+  ### App Development
   - [Create-DMG](https://github.com/create-dmg/create-dmg) - A shell script to build fancy DMGs.
   - [LaunchAtLogin](https://github.com/sindresorhus/LaunchAtLogin) - Add “Launch at Login” functionality to your macOS app in seconds.
   - [Node-appDMG](https://github.com/LinusU/node-appdmg) - 💾 Generate your app dmgs.
@@ -125,8 +122,7 @@ ps axu | grep "/bin/tor"
    export HOMEBREW_NO_ANALYTICS=1
    brew analytics off
    ````
-### Remote Desktop Applications
-- [Remote Desktop Manager Free](https://remotedesktopmanager.com/home/downloadfree) - Windows, Mac, Linux, Android & iOS.
+
 ### Virtualization
 - [Getutm](https://mac.getutm.app/)
 - [QEMU](https://www.qemu.org/download/#macos) - May be installed with `brew install qemu`.
@@ -142,12 +138,10 @@ ps axu | grep "/bin/tor"
 - [Linux ARM M1](https://github.com/corellium/linux-m1)
 - [Linuxbrew Core](https://github.com/Homebrew/linuxbrew-core) - [Linuxbrew documentation](https://docs.brew.sh/Homebrew-on-Linux)
 - [mbp-2016-linux](https://github.com/Dunedan/mbp-2016-linux) - State of Linux on the MacBook Pro 2016 & 2017.
+- [mbpfan](https://github.com/linux-on-mac/mbpfan) - A simple daemon to control fan speed on all MacBook/MacBook Pros (probably all Apple computers) for Linux Kernel 3 and newer
 - [mbp-ubuntu-kernel](https://github.com/marcosfad/mbp-ubuntu-kernel) - Ubuntu Kernel for MacBook Pro (incl. T2 patches).
 - [Roadrunner2's macbook12-spi-driver](https://github.com/roadrunner2/macbook12-spi-driver) - Input driver for the SPI keyboard / trackpad found on 12" MacBooks (2015 and later) and newer MacBook Pros (late 2016 through mid 2018), as well a simple touchbar and ambient-light-sensor driver for late 2016 MacBook Pro's and later.
 - [State of Linux on the MacBook Pro 2016 & 2017](https://github.com/Dunedan/mbp-2016-linux) - Provides an overview about Linux support for Apple's MacBook Pro 2016 and MacBook Pro 2017 models.
-
-  ### Linux tools specificly for Macbook
-  - [mbpfan](https://github.com/linux-on-mac/mbpfan) - A simple daemon to control fan speed on all MacBook/MacBook Pros (probably all Apple computers) for Linux Kernel 3 and newer
   
   ### Macbook Pro 14.3 (late 2017)
   - [BCM43602_macbookpro](https://github.com/andyholst/BCM43602_macbookpro) - Bruteforce test the boardflags 3 for 2.4 Ghz and 5 Ghz band
@@ -166,14 +160,16 @@ ps axu | grep "/bin/tor"
 - [PodcastMenu](https://github.com/insidegui/PodcastMenu) - Put Overcast on your Mac's menu bar.
 - [Spectacle app](https://www.spectacleapp.com/) - Move and resize windows with ease. (Important note: Spectacle is no longer being actively maintained)
   - [Spectacle Github](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse.
+  
   ### Automation
   - [Hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua.
   - [Mjolnir](https://github.com/mjolnirapp/mjolnir) - Lightweight automation and productivity app for OS X.
+  
   ### Office Tools
   - [Craft](https://www.craft.do/) - A fresh take on documents.
   - [TmpNote](https://github.com/buddax2/tmpNote) - Yet another simple notes app. [AppStore](https://apps.apple.com/us/app/tmpnote/id1293664761?l=ru&ls=1&mt=12)
   - [Tyke.app](https://tyke.app/) - A little bit of scratch paper 📝 that lives on your Mac menu bar.
   
-  ### Time
+  ### Time Management
   - [Countdown](https://github.com/funway/Countdown) - A countdown task App on macOS.
   - [MenubarCountdown](https://github.com/kristopherjohnson/MenubarCountdown) - Menubar countdown timer for macOS.
