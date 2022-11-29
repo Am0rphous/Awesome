@@ -162,6 +162,7 @@ bro / zeek
   - [PADD](https://github.com/pi-hole/PADD) - PADD (formerly Chronometer2) is a more expansive version of the original chronometer.sh that is included with Pi-Hole. PADD provides in-depth information about your Pi-hole.
 - [SpamCop](https://www.spamcop.net) - SpamCop is the premier service for reporting spam. SpamCop determines the origin of unwanted email and reports it to the relevant Internet service providers.
 
+
   ### Blocklists
   - [AdGuard](https://github.com/AdguardTeam/AdguardHome) - Network-wide ads & trackers blocking DNS server.
     - [AdGuard CNAME Tracker List](https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt)
@@ -190,6 +191,8 @@ bro / zeek
 ## Anti-Malware Tools
 - [AlphaSeclab's anti-av](https://github.com/alphaSeclab/anti-av) - Resources About Anti-Virus and Anti-Anti-Virus, including 200+ tools and 1300+ posts.
 - [Al-khaser](https://github.com/LordNoteworthy/al-khaser) - PoC "malware" application with good intentions that aims to stress your anti-malware system.
+- [antiscan.me](https://antiscan.me)
+  - [Antiscan](https://github.com/Raffy27/Antiscan) - Antiscan.me automatization script
 - [BinAbsInspector](https://github.com/KeenSecurityLab/BinAbsInspector) - BinAbsInspector (Binary Abstract Inspector) is a static analyzer for automated reverse engineering and scanning vulnerabilities in binaries, which is a long-term research project incubated at Keenlab. It is based on abstract interpretation with the support from Ghidra. It works on Ghidra's Pcode instead of assembly. Currently it supports binaries on x86,x64, armv7 and aarch64.
 - [BinLex](https://github.com/c3rb3ru5d3d53c/binlex) - A Binary Genetic Traits Lexer.
 - [Chkrootkit](http://www.chkrootkit.org) - locally checks for signs of a rootkits.
