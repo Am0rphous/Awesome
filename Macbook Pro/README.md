@@ -3,6 +3,12 @@
 Table of content
 1. [Collection](#collection)
 2. [Communication](#Communication)
+3. [Monitoring](#Monitoring)
+4. [Music](#music)
+5. [Network](#Network)
+6. [Tools](#tools)
+7. [Macbook with Linux resources](#Macbook-with-Linux-resources)
+8. [Productivity](#Productivity)
 
 - [Softwareupdate-full-installer](https://github.com/chris1111/Softwareupdate-full-installer) - Command Line script to download Install macOS 
 
@@ -32,6 +38,10 @@ Table of content
 - [SoundCleod](https://github.com/salomvary/soundcleod) - SoundCloud for macOS and Windows.
 - [Soundnode](https://www.soundnodeapp.com) - An opensource SoundCloud app for Desktop.
 - [Vox](https://vox.rocks/) - Premium Mac Music Player for Hi-Res music through the popular sources.
+### Sound
+- [Ballast](https://github.com/jamsinclair/ballast) - Keep your audio balance from drifting! OSX Status Bar App
+  - [Bug: MacBook Pro Bluetooth Audio balance keeps changing by itself](https://apple.stackexchange.com/questions/280145/macbook-pro-bluetooth-audio-balance-keeps-changing-by-itself)
+
 
 ## Network
 - [iOS/macOS Research Swiss Army Knife ](https://github.com/blacktop/ipsw)
@@ -55,9 +65,7 @@ ps axu | grep "/bin/tor"
   - [Dylib Hijack Scanner](https://objective-see.com/products/dhs.html)
   - [ReiKey](https://github.com/objective-see/ReiKey) - Malware and other applications may install persistent keyboard "event taps" to intercept your keystrokes. ReiKey can scan, detect, and monitor for such taps!
 
-## Sound
-- [Ballast](https://github.com/jamsinclair/ballast) - Keep your audio balance from drifting! OSX Status Bar App
-  - [Bug: MacBook Pro Bluetooth Audio balance keeps changing by itself](https://apple.stackexchange.com/questions/280145/macbook-pro-bluetooth-audio-balance-keeps-changing-by-itself)
+
 
 ## Tools
 - [AlDente](https://github.com/davidwernhart/AlDente) - macOS tool to limit maximum charging percentage.
@@ -127,7 +135,7 @@ ps axu | grep "/bin/tor"
 - [VMWare Fusion](https://www.vmware.com/products/fusion/fusion-evaluation.html)
   - [Open Virtualization Format Tool (ovftool)](https://code.vmware.com/web/tool/4.4.0/ovf) - VMware OVF Tool is a command-line utility that allows you to import and export OVF packages to and from many VMware products.
 
-## Macbook with Linux
+## Macbook with Linux resources
 - [Asahi Linux ](https://asahilinux.org/) <-- NICE: "Asahi Linux aims to bring you a polished Linux® experience on Apple Silicon Macs."
 - [bcwc_pcie](https://github.com/patjak/bcwc_pcie) - Reverse engineered Linux driver for the FacetimeHD (Broadcom 1570) PCIe webcam.
 - [Hw-probe](https://github.com/linuxhw/hw-probe) - Probe for hardware, check operability and find drivers.
