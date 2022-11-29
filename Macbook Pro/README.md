@@ -146,6 +146,7 @@ ps axu | grep "/bin/tor"
     - [Solution which makes the wifi work](https://bugzilla.kernel.org/show_bug.cgi?id=193121#c52) - [Original thread](https://github.com/Dunedan/mbp-2016-linux/issues/47)
     - [Maybe this works brcmfmac43602-pcie.txt](https://github.com/Dunedan/mbp-2016-linux/files/4977482/brcmfmac43602-pcie.txt)
   - [Sonal's macbookpro14-3 repo](https://github.com/sonals/macbookpro14-3)
+  - [ubuntu-22.04-mbp-a1707.md](https://gist.github.com/rob-hills/9134b7352ee7471c4d4f4fbd6454c4b9)
 
 ## Productivity
 - [Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts 
