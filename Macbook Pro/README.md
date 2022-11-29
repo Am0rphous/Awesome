@@ -5,9 +5,19 @@ Table of content
 3. [Music](#music)
     - [Sound](#sound) 
 5. [Network](#Network)
-6. [Tools](#tools)
-7. [Macbook with Linux resources](#Macbook-with-Linux-resources)
-8. [Productivity](#Productivity)
+    - [Proxy](#proxy)
+    - [Security](#security)
+7. [Tools](#tools)
+    - [Creating Bootable USB](#Creating-Bootable-USB)
+    - [App Development](#App-Development)
+    - [Package Managers](#Package-Managers)
+    - [Virtualization](#Virtualization)
+9. [Macbook with Linux resources](#Macbook-with-Linux-resources)
+    - [Macbook Pro 14.3 (late 2017)](#macbook-pro-143-late-2017)
+11. [Productivity](#Productivity)
+    - [Automation](#Automation)
+    - [Office Tools](#Office-Tools)
+    - [Time Management](#Time-Management)
 
 <br>
 
@@ -124,13 +134,13 @@ ps axu | grep "/bin/tor"
    brew analytics off
    ````
 
-### Virtualization
-- [Getutm](https://mac.getutm.app/)
-- [QEMU](https://www.qemu.org/download/#macos) - May be installed with `brew install qemu`.
-- [Parallels Desktop ($)](https://www.parallels.com/eu/) - The fastest, easiest and most powerful application for running Windows on Mac—without rebooting. Includes 30+ utilities to simplify everyday tasks on Mac and Windows.
-- [VirtualBox](https://www.virtualbox.org)
-- [VMWare Fusion](https://www.vmware.com/products/fusion/fusion-evaluation.html)
-  - [Open Virtualization Format Tool (ovftool)](https://code.vmware.com/web/tool/4.4.0/ovf) - VMware OVF Tool is a command-line utility that allows you to import and export OVF packages to and from many VMware products.
+    ### Virtualization
+    - [Getutm](https://mac.getutm.app/)
+    - [QEMU](https://www.qemu.org/download/#macos) - May be installed with `brew install qemu`.
+    - [Parallels Desktop ($)](https://www.parallels.com/eu/) - The fastest, easiest and most powerful application for running Windows on Mac—without rebooting. Includes 30+ utilities to simplify everyday tasks on Mac and Windows.
+    - [VirtualBox](https://www.virtualbox.org)
+    - [VMWare Fusion](https://www.vmware.com/products/fusion/fusion-evaluation.html)
+      - [Open Virtualization Format Tool (ovftool)](https://code.vmware.com/web/tool/4.4.0/ovf) - VMware OVF Tool is a command-line utility that allows you to import and export OVF packages to and from many VMware products.
 
 ## Macbook with Linux resources
 - [Asahi Linux ](https://asahilinux.org/) <-- NICE: "Asahi Linux aims to bring you a polished Linux® experience on Apple Silicon Macs."
