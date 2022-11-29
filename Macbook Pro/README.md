@@ -3,7 +3,7 @@
 Table of content
 1. [Collection of various resources](#collection-of-various-resources)
 3. [Music](#music)
-  - [Sound](#sound) 
+    - [Sound](#sound) 
 5. [Network](#Network)
 6. [Tools](#tools)
 7. [Macbook with Linux resources](#Macbook-with-Linux-resources)
