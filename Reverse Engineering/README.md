@@ -221,6 +221,7 @@ getcap            #examine file capabilities
 - [Grace](https://github.com/liamg/grace) - It's strace, with colours.
 - [KsDumper](https://github.com/EquiFox/KsDumper) - Dumping processes using the power of kernel space.
 - [Magic-trace ](https://github.com/janestreet/magic-trace) - magic-trace collects and displays high-resolution traces of what a process is doing.
+- [Tenet](https://github.com/EtchProject/tenet) - A Trace Explorer for Reverse Engineers
 
 ## Shellcode
 - [BlobRunner](https://github.com/OALabs/BlobRunner) - Quickly debug shellcode extracted during malware analysis.
