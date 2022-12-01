@@ -24,6 +24,7 @@
 - [VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt.
 
 ## Digital Signatures
+- [Signatures](https://github.com/RustCrypto/signatures) - Cryptographic signature algorithms: DSA, ECDSA, Ed25519
 - [SignTool](https://www.linux.org/docs/man1/signtool.html) - Digitally sign objects and files.
 
 ## Hashes
