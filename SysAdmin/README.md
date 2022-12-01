@@ -545,7 +545,8 @@ lsscsi                          #Print SCSI Devices Info
   - [ELK with Bro-based Application Layer Packet Classifier](https://github.com/hardenedlinux/Debian-GNU-Linux-Profiles/blob/master/NSM/docs/ELK_with_bro_ID_doc.mkd)
 - [Espionage](https://github.com/josh0xA/Espionage) - A Network Packet and Traffic Interceptor For Linux. Spoof ARP & Wiretap A Network. 
 - [Grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More.
-  - [Grafana dashboards for MySQL and MongoDB](https://github.com/percona/grafana-dashboards) - Grafana dashboards for MySQL and MongoDB monitoring using Prometheus.
+  - [Grafana Dashboards for MySQL and MongoDB](https://github.com/percona/grafana-dashboards) - Grafana dashboards for MySQL and MongoDB monitoring using Prometheus.
+  - [Grafana Faro](https://grafana.com/oss/faro/) - "A project for frontend application observability, Grafana Faro includes a highly configurable web SDK for real user monitoring (RUM) that instruments browser frontend applications to capture observability signals. The frontend telemetry can then be correlated with backend and infrastructure data for seamless, full-stack observability."
   - [Hastic Graph Panel](https://github.com/hastic/hastic-grafana-app) - Hastic data management server for labeling patterns and anomalies in Grafana.
 - [Graylog](https://github.com/Graylog2/graylog2-server) - Free and open source log management.
   - [Graylog Content Pack for Watchguard](https://github.com/ThoZed/graylog-cp-watchguard) - Graylog Content Pack for Watchguard Fireware Logging.
