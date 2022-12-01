@@ -9,6 +9,7 @@
   - [How to Run Android Apps on Ubuntu Linux with Anbox](https://www.maketecheasier.com/run-android-apps-on-ubuntu/)
 - [AVD (Android Virtual Device)](https://developer.android.com/studio/run/managing-avds)
 - [IPV Spyware Discovery (ISDi) Tool](https://github.com/stopipv/isdi) - ISDi (IPV Spyware Discovery) tool for Android and iOS.
+- [Linuxdeploy](https://github.com/meefik/linuxdeploy) - Install and run GNU/Linux on Android
 - [NoxPlayer](https://www.bignox.com/) - Free Android emulator for Windows and MacOS.
 - [OsmAnd - Offline mobile maps & navigation](https://osmand.net/) - OsmAnd - OpenStreetMap Automated Navigation Directions is a map and navigation app for Android and iOS.
 - [SCRCpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device.
