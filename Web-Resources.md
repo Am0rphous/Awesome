@@ -65,6 +65,7 @@
   - [Blog.qsecure.com.cy/posts](https://blog.qsecure.com.cy/posts)
   - [Businessforum.zyxel.com](https://businessforum.zyxel.com)
   - [Cracked.to](https://cracked.to)
+  - [DarkNet.org.uk](https://www.darknet.org.uk)
   - [Darkwebmafias.net](https://darkwebmafias.net)
   - [Githacktools.blogspot.com](https://githacktools.blogspot.com)
   - [Hackforums.net](https://hackforums.net)
