@@ -2,6 +2,7 @@
 
 - [artifactcollector](https://github.com/forensicanalysis/artifactcollector) - 🚨 The artifactcollector is a customizable agent to collect forensic artifacts on any Windows, macOS or Linux system.
 - [Artifacts](https://github.com/forensicanalysis/artifacts) - 📇 Digital Forensics Artifact Repository (forensicanalysis edition)
+- [Varc](https://github.com/cado-security/varc) - Volatile Artifact Collector
 
 
 ## Chat logs
