@@ -809,6 +809,7 @@ Based on that data, you can find the most popular ones and their alternatives.
   - [Kodi](https://github.com/xbmc/xbmc) - award-winning free and open source home theater/media center software and entertainment hub for digital media. [kodi.tv](https://kodi.tv)
   - [Lidarr](https://github.com/lidarr/Lidarr) - Lidarr is a music collection manager for Usenet and BitTorrent users. [lidarr.audio](https://lidarr.audio/)
   - [Mopidy](https://github.com/mopidy/mopidy) - plays music from local disk, Spotify, SoundCloud, Google Play Music, and more. [Mopidy.com](https://mopidy.com/)
+  - [OpenPLi-PC](https://github.com/ag1455/OpenPLi-PC) - Watch TV from satellites on PC
   - [Plex](https://www.plex.tv/) -  closed source media server + desktop application. [plex.tv](https://www.plex.tv/)
     - [Install and Configure Plex on Ubuntu](https://itsfoss.com/install-plex-ubuntu/)
     - [Omni](https://github.com/tidusjar/Ombi) - Want a Movie or TV Show on Plex or Emby? Use Ombi. [omni.io](https://ombi.io/)
