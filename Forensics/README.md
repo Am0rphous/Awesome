@@ -189,7 +189,9 @@ sudo strings -w /dev/mem | less                   #-w = includes whitespace
 - [NetworkMiner](https://www.netresec.com/?page=Networkminer) - open source Network Forensic Analysis Tool (NFAT) for Windows (but also works in Linux / Mac OS X / FreeBSD). 
 - [Packet Strider](https://github.com/benjeems/packetStrider) - A network packet forensics tool for SSH.
 - [unfurl](https://github.com/obsidianforensics/unfurl) - Extract and Visualize Data from URLs using Unfurl.
+
   ### Containers
+  - [Dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
   - [SecretScanner](https://github.com/deepfence/SecretScanner) - Find secrets and passwords in container images and file systems.
 
 ## Operating Systems specialized for forensics
