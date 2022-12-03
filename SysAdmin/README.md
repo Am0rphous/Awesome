@@ -776,7 +776,8 @@ upstream_recursive_servers:
   - [LinShare](https://www.linshare.org/) - Open-Source Google Drive Alternative.
   - [Lustre](https://www.lustre.org) - Open-source, parallel file system that supports many requirements of leadership class HPC simulation environments.
   - [Nextcloud Server](https://github.com/nextcloud/server) - Selfhosting storage server.
-    - [docker-nextcloud](https://github.com/linuxserver/docker-nextcloud)
+    - [Docker by Linuxserver](https://github.com/linuxserver/docker-nextcloud)
+    - [Docker by nextcloud](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
     - [Nextcloud Documentation](https://github.com/nextcloud/documentation) - 📘 Nextcloud documentation.
     - [NextBackup](https://github.com/pbek/nextbackup) - NextBackup is the simple database backup solutions for your Nextcloud / ownCloud installation.
   - [OpenDedupe](https://opendedup.org/odd) - OpenDedup provides an open source filesystem, SDFS, that includes inline deduplication to local or cloud storage targets.
