@@ -24,9 +24,11 @@ Table of content
 - [AdBlocker Ultimate (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/adblocker-ultimate/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) - Completely remove ALL ads. No “acceptable” ads or whitelisted advertisers allowed. This free extensions also helps block trackers and malware.
 - [AdNauseam](https://addons.mozilla.org/en-US/firefox/addon/adnauseam/) - Blocking ads and fighting back against advertising surveillance.
 - [Firefox Relay](https://addons.mozilla.org/en-US/firefox/addon/private-relay/) - _"Firefox Relay lets you generate email aliases that forward to your real inbox. Use it to hide your real email address and protect yourself from hackers and unwanted mail."_
+- [I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
 - [Nuke Private Data (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/nukeprivatedata/) - One-click toolbar button optionally deletes: cookies, browser cache, browsing history, download history, website file systems, form autocomplete data, indexedDB data, local storage, plugin data, data cached by service workers, saved passwords.
 - [TrackMeNot](http://trackmenot.io/) - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/trackmenot/)
 - [uBlock Origin](https://github.com/gorhill/uBlock) - An efficient blocker for Chromium and Firefox. Fast and lean. [ublockorigin.com](https://ublockorigin.com/)
+
 ### Censorship
 - [Snowflake by The Tor Project](https://snowflake.torproject.org) - Snowflake is a WebRTC pluggable transport for Tor.
 
