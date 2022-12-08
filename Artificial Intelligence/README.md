@@ -96,6 +96,9 @@ Description: _Sentiment analysis (also known as opinion mining or emotion AI) is
 - [Twitter Sentiment Visualisations](https://github.com/Lissy93/twitter-sentiment-visualisation) - The R&D of a sentiment analysis module, and the implementation of it on real-time social media data, to generate a series of live visual representations of sentiment towards a specific topic or by location in order to find trends.
 
 ## Speech
+- [ChatGPT](https://openai.com/blog/chatgpt/)
+  - [Awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - null
+  - [chat.openai.com)](https://chat.openai.com)
 - [Project DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers. 
 - [TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [Whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
