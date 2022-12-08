@@ -46,11 +46,11 @@ _Considering key questions:_
 - [Coreboot](https://github.com/coreboot/coreboot) - [coreboot.org](https://coreboot.org) - Coreboot is a Free Software project aimed at replacing the proprietary BIOS (firmware) found in most computers. coreboot performs a little bit of hardware initialization and then executes additional boot logic, called a payload.
   - [Documentation Coreboot](https://doc.coreboot.org/#)
 - [Coreboot by system76](https://github.com/system76/coreboot) - _Coreboot is a Free Software project aimed at replacing the proprietary BIOS (firmware) found in most computers. coreboot performs a little bit of hardware initialization and then executes additional boot logic, called a payload._
-- [OpenCore]()
+- [OpenCore](https://github.com/acidanthera/OpenCorePkg) - OpenCore bootloader.
   - [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
   - [Dortania's OpenCore Install Guide Github](https://github.com/dortania/OpenCore-Install-Guide)
   - [Lenovo-T530-Hackinosh-OpenCore](https://github.com/5T33Z0/Lenovo-T530-Hackinosh-OpenCore) - EFI Folder with configs for running macOS High Sierra, Catalina and Big Sur with either a patched DSDT or DSDT-less.
-- [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg) - OpenCore bootloader.
+  - [Site-My-Simple-OC-Themes](https://github.com/chris1111/Site-My-Simple-OC-Themes) - Site Themes OpenCore
 - [rEFInd Boot Manager](https://www.rodsbooks.com/refind/)
   - [Theming rEFInd](https://www.rodsbooks.com/refind/themes.html)
 
