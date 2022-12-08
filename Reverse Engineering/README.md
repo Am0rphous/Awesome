@@ -13,6 +13,7 @@
 - [Reverse Engineering Playground ](https://github.com/yellowbyte/reverse-engineering-playground) - Scripts I made to aid me in everyday reversing or just for fun.
 - [Reverse Engineer's Toolkit](https://github.com/mentebinaria/retoolkit) - Collection of tools you may like if you are interested on reverse engineering and/or malware analysis on x86 and x64 Windows systems.
 - [Toolkit](https://github.com/indetectables-net/toolkit) - The essential toolkit for reversing, malware analysis, and cracking
+- [Reverse-engineering-workshop](https://github.com/romainthomas/reverse-engineering-workshop) - Slides & Hands-on for the reverse engineering workshop
 
 
 ## [Binary Analysis](https://www.gnu.org/software/binutils/)
