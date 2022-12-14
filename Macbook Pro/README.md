@@ -138,6 +138,7 @@ ps axu | grep "/bin/tor"
     - [Getutm](https://mac.getutm.app/)
     - [QEMU](https://www.qemu.org/download/#macos) - May be installed with `brew install qemu`.
     - [Parallels Desktop ($)](https://www.parallels.com/eu/) - The fastest, easiest and most powerful application for running Windows on Mac—without rebooting. Includes 30+ utilities to simplify everyday tasks on Mac and Windows.
+      - [PD-Runner](https://github.com/utsanjan/PD-Runner) - PD Runner is an unlimited trial launcher to run Parallels Desktop on your macOS
     - [VirtualBox](https://www.virtualbox.org)
     - [VMWare Fusion](https://www.vmware.com/products/fusion/fusion-evaluation.html)
       - [Open Virtualization Format Tool (ovftool)](https://code.vmware.com/web/tool/4.4.0/ovf) - VMware OVF Tool is a command-line utility that allows you to import and export OVF packages to and from many VMware products.
