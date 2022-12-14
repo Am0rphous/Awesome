@@ -5,6 +5,7 @@
 - [AlphaSeclab's android-security collection](https://github.com/alphaSeclab/android-security) -  Android Security Resources.
 - [Android Studio](https://developer.android.com/studio) - Provides the fastest tools for building apps on every type of Android device.
   - [IntelliJ Detekt Plugin](https://github.com/detekt/detekt-intellij-plugin) - Integrates detekt, a static code analysis tool for the Kotlin programming language, into IntelliJ.
+- [Apk.sh](https://github.com/ax/apk.sh) - apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.
 - [ApkAnalyser](https://github.com/TheKingOfDuck/ApkAnalyser) - 一键提取安卓应用中可能存在的敏感信息。.
 - [APKLab](https://github.com/Surendrajat/APKLab) - _Android Reverse Engineering WorkBench for VS Code._
 - [APKLeaks](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets. 
