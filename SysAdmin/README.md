@@ -1248,10 +1248,12 @@ upstream_recursive_servers:
  - [KVM](https://www.linux-kvm.org/page/Main_Page)
   - [Kimchi](https://github.com/kimchi-project/kimchi) - HTML5 based management tool for KVM.
   - [KVM Management Tools list](https://www.linux-kvm.org/page/Management_Tools) - Options available to manage kvm virtual machines.
+  - [Kvmtool](https://github.com/kvmtool/kvmtool) - Stand-alone Native Linux KVM Tool repo
   - [libosinfo: The Operating System information database](https://libosinfo.org/)
   - [Virt-manager](https://virt-manager.org/) - The virt-manager application is a desktop user interface for managing virtual machines through libvirt. It primarily targets KVM VMs, but also manages Xen and LXC (linux containers).
   - [Vmmaestro](https://github.com/mzch/vmmaestro) - Tiny control wrapper for KVM.
 - [MacVM](https://github.com/KhaosT/MacVM) - macOS VM for Apple Silicon using Virtualization API 
+- [Microvm.nix](https://github.com/astro/microvm.nix) - NixOS MicroVMs
 - [Multipass](https://ubuntu.com/server/docs/virtualization-multipass) - Instant Ubuntu VMs (Windows, macOS and Linux)
 - [Nanos VMs](https://github.com/nanovms/nanos) - A kernel designed to run one and only one application in a virtualized environment. [nanos.org](https://nanos.org)
 - [oVirt](https://www.ovirt.org) - Free open-source virtualization solution for your entire enterprise.
