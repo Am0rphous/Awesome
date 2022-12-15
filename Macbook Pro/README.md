@@ -2,19 +2,20 @@
 
 Table of content
 1. [Collection of various resources](#collection-of-various-resources)
+2. [Jailbreaking](#jailbreaking)
 3. [Music](#music)
     - [Sound](#sound) 
-5. [Network](#Network)
+4. [Network](#Network)
     - [Proxy](#proxy)
     - [Security](#security)
-7. [Tools](#tools)
+5. [Tools](#tools)
     - [Creating Bootable USB](#Creating-Bootable-USB)
     - [App Development](#App-Development)
     - [Package Managers](#Package-Managers)
     - [Virtualization](#Virtualization)
-9. [Macbook with Linux resources](#Macbook-with-Linux-resources)
+6. [Macbook with Linux resources](#Macbook-with-Linux-resources)
     - [Macbook Pro 14.3 (late 2017)](#macbook-pro-143-late-2017)
-11. [Productivity](#Productivity)
+7. [Productivity](#Productivity)
     - [Automation](#Automation)
     - [Office Tools](#Office-Tools)
     - [Time Management](#Time-Management)
@@ -33,6 +34,9 @@ Table of content
 - [MacOS-Security-and-Privacy-Guide ](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS.
 - [Macos_virtualization](https://github.com/AriESQ/macos_virtualization) - Notes on macos virtualization with a focus on running guest OS on Apple M1 Silicon
 - [Softwareupdate-full-installer](https://github.com/chris1111/Softwareupdate-full-installer) - Command Line script to download Install macOS 
+
+## Jailbreaking
+- [Palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-16.2 (semi-)tethered checkm8 jailbreak
 
 
 ## Music
