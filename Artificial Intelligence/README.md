@@ -99,7 +99,9 @@ Description: _Sentiment analysis (also known as opinion mining or emotion AI) is
 - [ChatGPT](https://openai.com/blog/chatgpt/)
   - [Awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - null
   - [chat.openai.com)](https://chat.openai.com)
+  - [Chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the unofficial ChatGPT API. 🔥
   - [Chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Run your own GPTChat Telegram bot, with a single command!
+  - [Chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT
 - [Project DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers. 
 - [TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [Whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
