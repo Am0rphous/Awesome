@@ -76,6 +76,7 @@ Check this link later: https://arstechnica.com/information-technology/2016/08/bu
   - [Article: Geneva tool lets you bypass censorship by merely doing nothing](https://www.hackread.com/geneva-tool-bypass-censorship-by-doing-nothing/)
 - [Global Socket](https://github.com/hackerschoice/gsocket) - Connect like there is no firewall. Securely.
   - [Binary](https://github.com/hackerschoice/binary) - Binary and Static Releases.
+- [Hysteria](https://github.com/apernet/hysteria) - Hysteria is a feature-packed proxy & relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)
 - [ICMPTunnel](https://github.com/DhavalKapil/icmptunnel) - Transparently tunnel your IP traffic through ICMP echo and reply packets. [dhavalkapil.com/icmptunnel/](https://dhavalkapil.com/icmptunnel/)
 - [Portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance.
 - [trojan](https://github.com/trojan-gfw/trojan) - An unidentifiable mechanism that helps you bypass GFW.
