@@ -671,6 +671,7 @@ upstream_recursive_servers:
   - [Extract TLS Secrets](https://github.com/neykov/extract-tls-secrets) - Decrypt HTTPS/TLS connections on the fly with Wireshark.
   - [WireCAP](https://wirecap.fnal.gov/) - a Novel Packet Capture Engine for Commodity NICs in High-speed Networks
   - [Wireshark](https://github.com/wireshark/wireshark) - wireshark.org
+    - [PCAP Anonymizer](https://www.voipanalyzertool.com/anonymize) - "GDPR / LGPD : Obfuscate your Wireshark PCAP captures"
 
   ### Remoting
   - [Cakeway](https://github.com/containrrr/cakeway) - Simple TCP tunneling using SSH.
