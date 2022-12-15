@@ -914,8 +914,9 @@ Based on that data, you can find the most popular ones and their alternatives.
 
 ## Productivity Tools
 - [Albert Launcher](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher. [Homepage](https://albertlauncher.github.io/)
-- [coggle.it](https://coggle.it/)
+- [coggle.it](https://coggle.it)
 - [CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features.
+- [curiosity.ai](https://curiosity.ai/) - "Tired of searching in folders, emails and apps? Get Curiosity and find everything in one place. All safe on your computer."
 - [DopplerTask](https://github.com/dopplertask/dopplertask) - A revolutionary open-source automation tool 
 - [GoAlert](https://github.com/target/goalert) - Open source on-call scheduling, automated escalations, and notifications so you never miss a critical alert.
 - [KOrganizer](https://github.com/KDE/korganizer) - Organizational assistant, providing calendars and other similar functionality.
