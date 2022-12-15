@@ -1247,12 +1247,13 @@ upstream_recursive_servers:
  - [GraalVM](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere 🚀.
  - [HAXM](https://github.com/intel/haxm) - HAXM is a cross-platform hardware-assisted virtualization engine (hypervisor), widely used as an accelerator for Android Emulator and QEMU. It has always supported running on Windows and macOS, and has been ported to other host operating systems as well, such as Linux and NetBSD.
  - [KVM](https://www.linux-kvm.org/page/Main_Page)
-  - [Kimchi](https://github.com/kimchi-project/kimchi) - HTML5 based management tool for KVM.
-  - [KVM Management Tools list](https://www.linux-kvm.org/page/Management_Tools) - Options available to manage kvm virtual machines.
-  - [Kvmtool](https://github.com/kvmtool/kvmtool) - Stand-alone Native Linux KVM Tool repo
-  - [libosinfo: The Operating System information database](https://libosinfo.org/)
-  - [Virt-manager](https://virt-manager.org/) - The virt-manager application is a desktop user interface for managing virtual machines through libvirt. It primarily targets KVM VMs, but also manages Xen and LXC (linux containers).
-  - [Vmmaestro](https://github.com/mzch/vmmaestro) - Tiny control wrapper for KVM.
+   - [Learn-kvm](https://github.com/yifengyou/learn-kvm) - Qemu KVM(Kernel Virtual Machine)学习笔记
+   - [Kimchi](https://github.com/kimchi-project/kimchi) - HTML5 based management tool for KVM.
+   - [KVM Management Tools list](https://www.linux-kvm.org/page/Management_Tools) - Options available to manage kvm virtual machines.
+   - [Kvmtool](https://github.com/kvmtool/kvmtool) - Stand-alone Native Linux KVM Tool repo
+   - [libosinfo: The Operating System information database](https://libosinfo.org/)
+   - [Virt-manager](https://virt-manager.org/) - The virt-manager application is a desktop user interface for managing virtual machines through libvirt. It primarily targets KVM VMs, but also manages Xen and LXC (linux containers).
+   - [Vmmaestro](https://github.com/mzch/vmmaestro) - Tiny control wrapper for KVM.
 - [MacVM](https://github.com/KhaosT/MacVM) - macOS VM for Apple Silicon using Virtualization API 
 - [Microvm.nix](https://github.com/astro/microvm.nix) - NixOS MicroVMs
 - [Multipass](https://ubuntu.com/server/docs/virtualization-multipass) - Instant Ubuntu VMs (Windows, macOS and Linux)
