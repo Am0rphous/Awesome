@@ -275,6 +275,7 @@ Communicate clearly <br>
   - [Jami](https://git.jami.net/savoirfairelinux/ring-project) - Jami is a serverless peer-to-peer communication platform that delivers maximum privacy via end-to-end encryption. Installation e.g. `sudo snap install jami-gnome` [snapcraft.io/jami-gnome](https://snapcraft.io/jami-gnome)
   - [Jitsi Meet](https://github.com/jitsi/jitsi-meet) - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
     - [Jibri](https://github.com/jitsi/jibri) - Jitsi BRoadcasting Infrastructure. Jibri provides services for recording or streaming a Jitsi Meet conference.
+    - [Jitsi-meet-electron](https://github.com/jitsi/jitsi-meet-electron) - Jitsi Meet desktop application powered by :electron:
     - [Set Up Jibri for Jitsi Recording/Streaming](https://nerdonthestreet.com/s/15) - This tutorial will demonstrate how to install Jibri to add recording and streaming functionality to a Jitsi Meet server.
   - [Session](https://getsession.org/) - Session is an end-to-end encrypted messenger that minimises sensitive metadata, designed and built for people who want absolute privacy and freedom from any form of surveillance. [Session Desktop](https://github.com/oxen-io/session-desktop) - Session Desktop - Onion routing based messenge.
   - [Signal](https://www.signal.org) - Supports any platform (Linux, MacOS, Windows, Android and iOS)
