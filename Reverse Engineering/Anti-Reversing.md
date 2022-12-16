@@ -9,6 +9,7 @@
 
 ## Low Level Virtual Machine (LLVM)
 - [llvm.org](https://llvm.org/)
+- [Retdec](https://github.com/avast/retdec) - RetDec is a retargetable machine-code decompiler based on LLVM.
 - [YANSOllvm](https://github.com/emc2314/YANSOllvm) - Yet Another Not So Obfuscated LLVM 
 
 ## Memory
