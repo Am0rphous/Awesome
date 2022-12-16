@@ -179,6 +179,9 @@ sudo strings /dev/mem | less
 sudo strings -w /dev/mem | less                   #-w = includes whitespace
 ````
 
+- [VolWeb](https://github.com/k1nd0ne/VolWeb) - A centralized and enhanced memory analysis platform
+
+
 ## Network forensic tools
 - [A Docker forensics toolkit](https://github.com/docker-forensics-toolkit/toolkit) - A toolkit for the post-mortem examination of Docker containers from forensic HDD copies.
 - [CyberChef](https://github.com/gchq/cyberchef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis.
