@@ -967,6 +967,7 @@ upstream_recursive_servers:
 
   ### Windows Security
   - [EnableWindowsLogSettings](https://github.com/Yamato-Security/EnableWindowsLogSettings) - Documentation and scripts to properly enable Windows event logs.
+  - [Microsoft-Sentinel-SecOps](https://github.com/eshlomo1/Microsoft-Sentinel-SecOps) - Microsoft Sentinel SOC Operations
   - [Seatbelt](https://github.com/GhostPack/Seatbelt) - Seatbelt is a C# project that performs a number of security oriented host-survey "safety checks" relevant from both offensive and defensive security perspectives. 
   - [WELA](https://github.com/Yamato-Security/WELA) - WELA (Windows Event Log Analyzer): The Swiss Army knife for Windows Event Logs! ゑ羅（ウェラ）.
   
