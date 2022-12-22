@@ -1329,6 +1329,7 @@ upstream_recursive_servers:
 - [Tinyproxy](https://github.com/tinyproxy/tinyproxy) - Tinyproxy is a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems.
 - [tun2socks](https://github.com/xjasonlyu/tun2socks) - tun2socks - powered by gVisor TCP/IP stack 
 - [Venom](https://github.com/Dliv3/Venom) - _A Multi-hop Proxy for Penetration Testers._
+- [Wiresocks](https://github.com/sensepost/wiresocks) - A sock, with a wire, so you can tunnel all you desire.
 - [Wordpress](https://wordpress.com/)
   - [Automattic's Free Themes](https://github.com/Automattic/themes) - WordPress.com themes.
   - [Calypso](https://github.com/Automattic/wp-calypso) - The JavaScript and API powered WordPress.com. [developer.wordpress.com/calypso/](https://developer.wordpress.com/calypso/)
