@@ -981,8 +981,10 @@ that works on top of your local folder of plain text files. [github](https://git
   - [pdftotext](https://www.xpdfreader.com/pdftotext-man.html) - Portable Document Format (PDF) to text converter
   - [SoftMaker Office](https://www.softmaker.com/en/softmaker-office-download) - Free for 30 days.
   - [TagSpaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support.
+  
   ### Fonts
   - [85+ Best Free and Premium Hack Fonts](https://hyperpix.net/fonts/hack-fonts/)
+  - [Nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
   
   ### Project Management
   - [Plan](https://calligra.org/plan/index.html) - Plan is a project management application. It is intended for managing moderately large projects with multiple resources.To enable you to model your project adequately, Plan offers different types of task dependencies and timing constraints. The usual use case is to define your tasks, estimate the effort needed to perform each task, allocate resources and then let Plan schedule the tasks according to network and resource availability. 
