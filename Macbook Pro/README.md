@@ -46,9 +46,11 @@ Table of content
 - [SoundCleod](https://github.com/salomvary/soundcleod) - SoundCloud for macOS and Windows.
 - [Soundnode](https://www.soundnodeapp.com) - An opensource SoundCloud app for Desktop.
 - [Vox](https://vox.rocks/) - Premium Mac Music Player for Hi-Res music through the popular sources.
+
   ### Sound
   - [Ballast](https://github.com/jamsinclair/ballast) - Keep your audio balance from drifting! OSX Status Bar App
     - [Bug: MacBook Pro Bluetooth Audio balance keeps changing by itself](https://apple.stackexchange.com/questions/280145/macbook-pro-bluetooth-audio-balance-keeps-changing-by-itself)
+  - [BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency.
 
 
 ## Network
