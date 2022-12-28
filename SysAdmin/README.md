@@ -1249,6 +1249,7 @@ upstream_recursive_servers:
  - [Ganeti](https://github.com/ganeti/ganeti) - Ganeti is a virtual machine cluster management tool built on top of existing virtualization technologies such as Xen or KVM and other open source software.
  - [GraalVM](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere 🚀.
  - [HAXM](https://github.com/intel/haxm) - HAXM is a cross-platform hardware-assisted virtualization engine (hypervisor), widely used as an accelerator for Android Emulator and QEMU. It has always supported running on Windows and macOS, and has been ported to other host operating systems as well, such as Linux and NetBSD.
+ - [Hyperbox](https://github.com/hyperbox/hyperbox) - Virtual Infrastructure Manager for VirtualBox
  - [KVM](https://www.linux-kvm.org/page/Main_Page)
    - [Learn-kvm](https://github.com/yifengyou/learn-kvm) - Qemu KVM(Kernel Virtual Machine)学习笔记
    - [Kimchi](https://github.com/kimchi-project/kimchi) - HTML5 based management tool for KVM.
