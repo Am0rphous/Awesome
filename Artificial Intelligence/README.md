@@ -97,7 +97,7 @@ Description: _Sentiment analysis (also known as opinion mining or emotion AI) is
 
 ## Speech
 - [ChatGPT](https://openai.com/blog/chatgpt/)
-  - [Awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - null
+  - [Awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT promt curation to use ChatGPT better.
   - [chat.openai.com)](https://chat.openai.com)
   - [ChatGPT](https://github.com/lencx/ChatGPT) - 🤖 ChatGPT Desktop Application (Mac, Windows and Linux)
   - [Chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the unofficial ChatGPT API. 🔥
