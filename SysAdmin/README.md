@@ -1353,6 +1353,7 @@ upstream_recursive_servers:
   ### Certificates
   - [Acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol.
   - [Acme-tiny](https://github.com/diafygi/acme-tiny) - A tiny script to issue and renew TLS certs from Let's Encrypt.
+  - [Certificate-ripper](https://github.com/Hakky54/certificate-ripper) - 🔐 A CLI tool to extract server certificates
   - [Certificate-transparency-go](https://github.com/google/certificate-transparency-go) - Auditing for TLS certificates (Go code).
   - [Certify The Web - Certificate Manager UI for Windows](https://github.com/webprofusion/certify) - Professional TLS/SSL Certificate Manager UI for Windows, powered by Let's Encrypt and compatible with all ACME v2 CAs. Download from certifytheweb.com.
   - [crt](https://github.com/cemulus/crt) - A CLI tool to get Certificate Transparency logs of a domain name.
