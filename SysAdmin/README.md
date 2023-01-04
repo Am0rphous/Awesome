@@ -513,6 +513,11 @@ lsscsi                          #Print SCSI Devices Info
 - [Lima Charlie](https://github.com/nextgens/limacharlie) - Endpoint monitoring stack.
 - [Netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud 
 - [Prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. 
+- psacct / acct
+````
+sudo apt install psacct
+sudo service psacct restartchkconfig --level 13 psacct on
+````
 - [S1EM](https://github.com/V1D1AN/S1EM) - This project is a SIEM with SIRP and Threat Intel, all in one.
 - [SkyWalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System 
 - [SMS-Alerts](https://github.com/AshleyNikr/SMS-Alerts) - 🌺 Adding SMS alerts to shell scripts 🌺 
