@@ -42,6 +42,7 @@ Check this link later: https://arstechnica.com/information-technology/2016/08/bu
 
 ## Anonymity
 - [4nonimizer](https://github.com/Hackplayers/4nonimizer) - A bash script for anonymizing the public IP used to browsing Internet, managing the connection to TOR network and to different VPNs providers (OpenVPN)
+- [Anonsurf](https://github.com/ParrotSec/anonsurf) - parrot anonymous mode
 - [Kloak - A keystroke anonymization Tool](https://github.com/vmonaco/kloak) - Keystroke-level online anonymization kernel: obfuscates typing behavior at the device level. 
 - [I2P](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet 
 - [Lokinet](https://github.com/oxen-io/lokinet) - Lokinet is an anonymous, decentralized and IP based overlay network for the internet. [lokinet.org](https://lokinet.org/)
