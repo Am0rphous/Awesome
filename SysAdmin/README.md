@@ -882,6 +882,8 @@ upstream_recursive_servers:
   - [Hasura Auth](https://github.com/nhost/hasura-auth) - The open source authentication service for Hasura. 
   - [OTP Auth](https://apps.apple.com/us/app/otp-auth/id659877384) - https://cooperrs.de/otpauth.html - `ios`
   - [Otplib](https://github.com/yeojz/otplib) - 🔑 One Time Password (OTP) / 2FA for Node.js and Browser - Supports HOTP, TOTP and Google Authenticator.
+  - [Raivo OTP](https://apps.apple.com/us/app/raivo-otp/id1459042137) - [Github](https://github.com/raivo-otp/ios-application)
+    - [Macos-receiver](https://github.com/raivo-otp/macos-receiver) - A MacOS TabBar (StatusBar) application that securely receives one-time passwords (OTPs) that you tapped in Raivo for iOS.
   - [SoloKeys](https://solokeys.com/) - hardware tokens
   - YubiKey
     - [Installing Yubico Software on Linux](https://support.yubico.com/hc/en-us/articles/360016649039-Enabling-the-Yubico-PPA-on-Ubuntu)
