@@ -157,6 +157,7 @@ Description: Transforms a binary's machine code into assembly language/code.
   - [HexRaysPyTools](https://github.com/igogo-x86/HexRaysPyTools) - IDA Pro plugin which improves work with HexRays decompiler and helps in process of reconstruction structures and classes.
   - [Ida Plugins List](https://github.com/onethawt/idaplugins-list) - A list of IDA Plugins.
   - [IdaRef](https://github.com/nologic/idaref) - IDA Pro Instruction Reference Plugin.
+  - [LazyIDA](https://github.com/L4ys/LazyIDA) - Make your IDA Lazy!
   - [Obfuscation Detection](https://github.com/mcdulltii/obfDetect) - IDA plugin to pinpoint obfuscated code.
   - [Wilhelm](https://github.com/zerotypic/wilhelm) - Alternative API for IDA / Hex-Rays.
   - [x64dbgida](https://github.com/x64dbg/x64dbgida) - Official x64dbg plugin for IDA Pro. 
