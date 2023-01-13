@@ -153,6 +153,7 @@ Description: Transforms a binary's machine code into assembly language/code.
 - [IDA - The Interactive Disassembler](https://www.hex-rays.com) - Pro, Home, Free and Demo version. [github source code](https://github.com/idapython/src)
   - [EfiXplorer](https://github.com/binarly-io/efiXplorer) - IDA plugin for UEFI firmware analysis and reverse engineering automation.
   - [FLARE Team Reversing Repository](https://github.com/mandiant/flare-ida) - This repository contains a collection of IDA Pro scripts and plugins used by the FireEye Labs Advanced Reverse Engineering (FLARE) team.
+  - [Gepetto-ChatGPT](https://github.com/burpheart/Gepetto-ChatGPT) - IDA plugin which queries OpenAI's ChatGPT model to speed up reverse-engineering
   - [HashDB IDA Plugin](https://github.com/OALabs/hashdb-ida) - HashDB API hash lookup plugin for IDA Pro.
   - [HexRaysPyTools](https://github.com/igogo-x86/HexRaysPyTools) - IDA Pro plugin which improves work with HexRays decompiler and helps in process of reconstruction structures and classes.
   - [Ida Plugins List](https://github.com/onethawt/idaplugins-list) - A list of IDA Plugins.
