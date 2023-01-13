@@ -59,6 +59,7 @@
     - [iOS Specific](#ios-specific)
     - [MacOS Specific](#macos-specific)
   - [Linux Security](#linux-security)
+    - [Biometric](#biometric)
     - [Linux Hardening Guides](#linux-hardening-guides)
   - [Password Managers](#password-managers)
   - [Sandboxing tools](#sandboxing-tools)
@@ -930,6 +931,11 @@ upstream_recursive_servers:
   - [LKRG - Linux Kernel Runtime Guard](https://www.openwall.com/lkrg) -  LKRG performs runtime integrity checking of the Linux kernel and detection of security vulnerability exploits against the kernel. [Github](https://github.com/lkrg-org/lkrg)
     - [Linux Kernel Runtime Guard (LKRG) for Debian, Whonix, Qubes, Kicksecure](https://www.whonix.org/wiki/Linux_Kernel_Runtime_Guard_LKRG)
   - [VED (Vault Exploit Defense) - Linux kernel threat detection and prevention system](https://github.com/hardenedvault/ved)
+
+  #### Biometric
+  - [Biometric-authentication](https://github.com/ukui/biometric-authentication) - A biometric identification framework.
+  - [fprint.freedesktop.org](https://fprint.freedesktop.org/) - The fprint project aims to add support for consumer fingerprint reader devices, in Linux, as well as other free Unices.
+
 
   #### Linux Hardening Guides
   - [40 Linux Server Hardening Security Tips (2019 edition)](https://www.cyberciti.biz/tips/linux-security.html)
