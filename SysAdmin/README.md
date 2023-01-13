@@ -935,6 +935,7 @@ upstream_recursive_servers:
   #### Biometric
   - [Biometric-authentication](https://github.com/ukui/biometric-authentication) - A biometric identification framework.
   - [fprint.freedesktop.org](https://fprint.freedesktop.org/) - The fprint project aims to add support for consumer fingerprint reader devices, in Linux, as well as other free Unices.
+  - [Libfprint](https://github.com/freedesktop/libfprint) - Library for fingerprint readers
 
 
   #### Linux Hardening Guides
