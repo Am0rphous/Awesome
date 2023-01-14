@@ -489,6 +489,8 @@ sudo apt-get install redshift-gtk
   - [bauh](https://github.com/vinifmor/bauh) - Graphical user interface for managing your Linux applications. Supports AppImage, Arch packages (including AUR), Debian packages, Flatpak, Snap and native Web applications 
   - [Inspirational designs for Linux apps](https://dribbble.com/tags/linux_app)
   - [Make Apps for Linux](https://makealinux.app/#/)
+  - [Sommelier-core](https://github.com/snapcrafters/sommelier-core) - Package a Windows application for Linux using a Snap with Wine.
+
   
   ### Programming
   - [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
