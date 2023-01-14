@@ -24,8 +24,8 @@ Table of content
 
 
 ## Collection of various resources
-- [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
-- [Awesome macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
+- [Awesome Mac - jaywcjlove](https://github.com/jaywcjlove/awesome-mac)
+- [Awesome macOS - iCHAIT](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
 - [Awesome macOS open source applications by  serhii-londar](https://github.com/serhii-londar/open-source-mac-os-apps)
 - [Cmatrix](https://github.com/levithomason/cmatrix) - The original Matrix effect for your Mac terminal.
 - [Does it ARM](https://github.com/ThatGuySam/doesitarm) - 🦾 A list of reported app support for Apple Silicon and the new Apple M1 Macs.
