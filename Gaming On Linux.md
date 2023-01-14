@@ -10,11 +10,11 @@ Useful links generally
 <br>
 
 ### Table of content
-- [1. OS dedicated for gaming](#1.-os-dedicated-for-gaming)
-- [2. Gaming on Linux](#gaming-on-linux)
+- [1. OS dedicated for gaming]([#1-os-dedicated-for-gaming))
+- [2. Gaming on Linux](#2-gaming-on-linux)
   - [Games](#games)
-- [Other](#other)
-- [Peripherals](#Peripherals)
+- [3. Nice to know](#3-nice-to-know)
+- [4. Peripherals](#4-peripherals)
 
 <br>
 
@@ -54,12 +54,13 @@ Useful links generally
    - [S.T.A.L.K.E.R.]()
      - [S.T.A.L.K.E.R. Anomaly ](https://drakelings.bluedrake42.com/index.php?/blogs/entry/11-i-cant-believe-this-full-game-is-free/)
    - [Splitgate](https://store.steampowered.com/app/677620/Splitgate/) - Free and works on Steamos/linux
-   - [SuperTuxKart](https://snapcraft.io/supertuxkart) - SuperTuxKart is a 3D open-source arcade racer with a variety of characters, tracks, and modes to play. 
+   - [SuperTuxKart](https://snapcraft.io/supertuxkart) - SuperTuxKart is a 3D open-source arcade racer with a variety of characters, tracks, and modes to play.
+   - [Track Mania Nations Forever](https://github.com/snapcrafters/tmnationsforever) - A community-maintained package to easily install TrackMania Nations Forever on Linux.
    - [Unreal Tournament](https://www.epicgames.com/unrealtournament/en-US/) - first-person shooter, with head-to-head multiplayer deathmatches being the primary focus of the game [Wikipedia](https://en.wikipedia.org./wiki/Unreal_tournament).
    - [Urban Terror](https://www.urbanterror.info/home/)
    - [Warsow - Warsow is Art of Respect and Sportsmanship Over the Web](https://warsow.net/) - Since 2005, Warsow is considered as one of the most skill-demanding games in the fast-paced arena shooter scene.[Discord](https://discord.com/invite/Z9UgZZM)
 
-## Other
+## Nice to know
 - [GameMode](https://github.com/FeralInteractive/gamemode) - Optimise Linux system performance on demand
 - [ScummVM](https://github.com/scummvm/scummvm) - program which allows you to run certain classic graphical point-and-click adventure games and role-playing games, provided you already have their data files. [www.scummvm.org](https://www.scummvm.org/) & [supported Games](https://wiki.scummvm.org/index.php?title=Category:Supported_Games)
 - [DOSBox-X](https://github.com/joncampbell123/dosbox-x) - open-source DOS emulator for running DOS games and applications. [dosbox-x.com](https://dosbox-x.com/).
