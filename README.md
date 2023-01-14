@@ -188,7 +188,7 @@ Communicate clearly <br>
   - [Rocket.Chat.RaspberryPi](https://github.com/RocketChat/Rocket.Chat.RaspberryPi)
   - [Rocket.Chat-Cryptoconvert](https://github.com/nicholasfoden/rocketchat-cryptoconvert) - rocket.chat app to convert between cryptocurrencies using the cryptocompare API.
   - [rocket-chat-denied-mask.sh](https://gist.github.com/Majunko/81e8b45f2a7588975d48be156fd38173#file-rocket-chat-denied-mask-sh) - issue [link](https://github.com/RocketChat/Rocket.Chat/issues/14562)
-
+- [Slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal
 - [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app.
   - [Telegram-CLI](https://github.com/vysheng/tg) - Command-line interface for Telegram.
   - [File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot) - Telegram Bot to store Posts and Documents and it can Access by Special Links.
@@ -805,6 +805,7 @@ Based on that data, you can find the most popular ones and their alternatives.
    - [Pensela](https://github.com/weiameili/Pensela) - The Swiss Army Knife of Screen Annotation Tools
    - [Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
    - [Pitivi](https://www.pitivi.org/) - Free video editor with a beautiful and intuitive user interface, a clean codebase and a fantastic community.
+   - [Poketube](https://github.com/ashley0143/poketube) - offical github mirror of poketube (https://codeberg.org/Ashley/poketube/) - [poketube.fun](https://poketube.fun)
    - [Screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥.
    - [SSR (SimpleScreenRecorder)](https://github.com/MaartenBaert/ssr) - SimpleScreenRecorder, a screen recorder for Linux
    - [Vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
@@ -1036,6 +1037,7 @@ that works on top of your local folder of plain text files. [github](https://git
   - [PixelFed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
     #### Instagram
     - [IGdm Messenger](https://github.com/igdmapps/igdm) - Desktop application for Instagram DMs.
+    - [Instagraph](https://github.com/turanmahmudov/Instagraph) - Unofficial Instagram Client
     - [InstagramMacOS](https://github.com/LukaMarr/InstagramMacOS) - Poster — Instagram upload & view client for MacOS. 📷 [lukamarr.github.io/InstagramMacOS](https://lukamarr.github.io/InstagramMacOS)
     - [Instagram-web-api](https://github.com/jlobos/instagram-web-api#instagramcredentials-opts) - 🤳 Instagram Private Web API client for Node.
     - [Instapy Quickstar](https://github.com/InstaPy/instapy-quickstart) - 💨 Simply get InstaPy up and running in minutes.
