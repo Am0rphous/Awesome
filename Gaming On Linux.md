@@ -7,16 +7,18 @@ Useful links generally
   - [Github repo - Trends in Hardware](https://github.com/linuxhw/Trends)
   - [PCI passthrough via OVMF](https://wiki.archlinux.org/title/PCI_passthrough_via_OVMF) - Arch wiki
 
+<br>
 
 ### Table of content
-- [Gaming on Linux](#gaming-on-linux)
+- [1. OS dedicated for gaming](#1.-os-dedicated-for-gaming)
+- [2. Gaming on Linux](#gaming-on-linux)
   - [Games](#games)
-- [OS dedicated for gaming](#os-dedicated-for-gaming)
+- [Other](#other)
 - [Peripherals](#Peripherals)
 
 <br>
 
-## OS dedicated for gaming
+## 1. OS dedicated for gaming
 - [Drauger OS](https://draugeros.org/)
 - [Lakka](http://www.lakka.tv/) - Lakka is a lightweight RetroArch distribution designed for small, less powerful machines. Single-board computers like the Raspberry Pi are perfect for Lakka. 
 - [SteamOS](https://store.steampowered.com/steamos) - SteamOS is the primary operating system for the Steam Machine gaming platform by Valve. It is based on the Debian distribution of Linux.
