@@ -188,6 +188,8 @@ distribution into a Live Kit (formely known as Live CD).
 - [Kali](https://www.kali.org) - Advanced Penetration Testing Distribution.
   - [How to Route all traffic on Kali through Tor using Whonix](https://www.1337pwn.com/route-traffic-kali-linux-tor-using-whonix/)
 - [Parrot](https://www.parrotsec.org) - designed for penetration testing, vulnerability assessment and mitigation, computer forensics and anonymous web browsing. 
+- [Trace Labs OSINT Linux Distribution based on Kali](https://github.com/tracelabs/tlosint-live) 
+
 
 ## Router and Firewall OSes
 - [Alpine Linux](https://www.alpinelinux.org) - [Alpine Gitlab](https://gitlab.alpinelinux.org)
