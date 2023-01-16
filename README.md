@@ -979,7 +979,7 @@ that works on top of your local folder of plain text files. [github](https://git
     - [Dictionaries](https://www.freeoffice.com/en/download/dictionaries)
     - [Installing FreeOffice for Linux](https://www.freeoffice.com/en/service/tips-and-tricks/linux)
   - [Libre Cloud Services](https://www.opendesktop.org/)
-  - [Libre Office](https://www.libreoffice.org/)
+  - [LibreOffice](https://www.libreoffice.org) - [Extensions](https://extensions.libreoffice.org)
   - [OnlyOffice](https://www.onlyoffice.com) - Office productivity suite. [Flatpak](https://flathub.org/apps/details/org.onlyoffice.desktopeditors)
   - [pdftotext](https://www.xpdfreader.com/pdftotext-man.html) - Portable Document Format (PDF) to text converter
   - [SoftMaker Office](https://www.softmaker.com/en/softmaker-office-download) - Free for 30 days.
