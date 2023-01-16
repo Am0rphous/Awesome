@@ -642,11 +642,12 @@ sudo apt-get install redshift-gtk
 
 ## Finding Software
 - [All AWESOME Linux Applications and Tools](https://www.fossmint.com/awesome-linux-software/)
+- [apps.kde.org](https://apps.kde.org)
 - [Awesome Open Source](https://awesomeopensource.com)| Find Open Source By Searching, Browsing and Combining 7,000 Topics Across 59 Categories And 337,263 Projects
 - [Flathub](https://flathub.org/home) - Apps for Linux
 - [FossHub](https://www.fosshub.com/) - Free Open-Source Software
 - [Gnome Apps](https://wiki.gnome.org/Apps)
-- [LibHUnt](https://www.libhunt.com/)
+- [LibHunt](https://www.libhunt.com/)
 - [Linux.softpedia.com](https://linux.softpedia.com)
 - [Linux App Finder](https://linuxappfinder.com)
 - [LinuxLinks.com](https://www.linuxlinks.com/best-free-open-source-software/) -  Best Free and Open Source Software 
