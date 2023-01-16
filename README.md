@@ -1033,8 +1033,10 @@ that works on top of your local folder of plain text files. [github](https://git
 
 ## Social Media
 - [Caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app.
+  - [Facebook-Messenger-Statistics](https://github.com/simonwongwong/Facebook-Messenger-Statistics) - Discover fun stats about your Facebook Messenger usage such as: most used words, most active year, most active hours, etc. using this Jupyter Notebook
 - [Diaspora](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network.
 - [Profile Pic Maker](https://pfpmaker.com/) - Make an awesome profile picture from any photo 
+
   ### Images
   - [PixelFed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
     #### Instagram
