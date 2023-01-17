@@ -1130,6 +1130,7 @@ upstream_recursive_servers:
   - for later [link](https://itsfoss.com/best-indicator-applets-ubuntu/)
   - [Cpupower](https://github.com/deinstapel/cpupower) - Manage the frequency scaling driver of your CPU (Intel Core and AMD Ryzen processors supported)
   - [Cpupower-gui](https://github.com/vagnum08/cpupower-gui) - cpupower-gui is a graphical program that is used to change the scaling frequency limits of the cpu, similar to cpupower.
+  - [indicator-cpufreq](https://launchpad.net/indicator-cpufreq) - Indicator applet for displaying and changing CPU frequency on-the-fly. It provides the same functionality as the Gnome CPU frequency applet, but doesn't require Gnome panel and works under Unity.
   - [PowerAPI](https://github.com/powerapi-ng/powerapi) - PowerAPI is a Python framework for building software-defined power meters.
   - [PowerStat](https://launchpad.net/~colin-king/+archive/ubuntu/powermanagement) - Various tools and utilities to help measure power consumption and monitor system activity.
   - [PowerTop](https://github.com/fenrus75/powertop) - Tool used to diagnose issues with power consumption and power management.
