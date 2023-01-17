@@ -1149,6 +1149,7 @@ upstream_recursive_servers:
      sudo add-apt-repository ppa:slimbook/slimbook
      sudo apt-get install slimbookbattery
      ````
+   - [Thinkfan](https://github.com/vmatare/thinkfan) - The minimalist fan control program
    - [TuneD](https://github.com/redhat-performance/tuned) - Tuning Profile Delivery Mechanism for Linux
    
    ### QR Codes
