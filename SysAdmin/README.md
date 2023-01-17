@@ -1132,6 +1132,7 @@ upstream_recursive_servers:
   - [Cpupower-gui](https://github.com/vagnum08/cpupower-gui) - cpupower-gui is a graphical program that is used to change the scaling frequency limits of the cpu, similar to cpupower.
   - [indicator-cpufreq](https://launchpad.net/indicator-cpufreq) - Indicator applet for displaying and changing CPU frequency on-the-fly. It provides the same functionality as the Gnome CPU frequency applet, but doesn't require Gnome panel and works under Unity.
   - [PowerAPI](https://github.com/powerapi-ng/powerapi) - PowerAPI is a Python framework for building software-defined power meters.
+  - [power-profiles-daemon](https://gitlab.freedesktop.org/hadess/power-profiles-daemon) - Makes power profiles handling available over D-Bus.
   - [PowerStat](https://launchpad.net/~colin-king/+archive/ubuntu/powermanagement) - Various tools and utilities to help measure power consumption and monitor system activity.
   - [PowerTop](https://github.com/fenrus75/powertop) - Tool used to diagnose issues with power consumption and power management.
   - [TLP](https://github.com/linrunner/TLP) - Optimize Linux Laptop Battery Life.
