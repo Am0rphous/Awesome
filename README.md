@@ -155,6 +155,7 @@ Communicate clearly <br>
   - Tip to run as container: `sudo docker run -d --network=host coturn/coturn && sudo docker update --restart unless-stopped $(docker ps -q)`
   - [Open Relay: Free WebRTC TURN Server](https://www.metered.ca/tools/openrelay/)
 - [Discord](https://discord.com/) - Discord is a VoIP, instant messaging and digital distribution platform. Users communicate with voice calls, video calls, text messaging, media and files in private chats or as part of communities called "servers". Servers are a collection of persistent chat rooms and voice chat channels. [wikipedia](https://en.wikipedia.org/wiki/Discord_(software))
+  - [Discord-e2e-encryption](https://github.com/mpgn/discord-e2e-encryption) - Tampermonkey script that encrypt and decrypt your messages on Discord
   - [Eth-Price-Bot](https://github.com/hjoelh/Eth-Price-Bot) - Simple discord bot to display the current ethereum price.
 - [Discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 
