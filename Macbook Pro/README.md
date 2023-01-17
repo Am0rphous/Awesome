@@ -32,6 +32,8 @@ Table of content
 - [Download-BigSur](https://github.com/chris1111/Download-BigSur) - Simple macOS Appplication for downloading macOS Big Sur 11.
 - [Mac Apps](https://github.com/jeffreyjackson/mac-apps)
 - [MacOS-Security-and-Privacy-Guide ](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS.
+- [MacOS-Security-Research](https://github.com/0xmachos/macOS-Security-Research) - macOS Security Research
+
 - [Macos_virtualization](https://github.com/AriESQ/macos_virtualization) - Notes on macos virtualization with a focus on running guest OS on Apple M1 Silicon
 - [Softwareupdate-full-installer](https://github.com/chris1111/Softwareupdate-full-installer) - Command Line script to download Install macOS 
 
