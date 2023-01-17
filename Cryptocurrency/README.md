@@ -93,6 +93,7 @@
 - [Guarda Desktop Crypto Wallet](https://guarda.com/desktop/)
 - [jubiterwallet.com](https://www.jubiterwallet.com)
 - [Sinovate Wallet](https://sinovate.io/sin-wallets/) - [Another link](https://service.sinovate.io/1click/latest/)
+  - [service.sinovate.io/1click/](https://service.sinovate.io/1click/)
 
 ## Widgets
 - [Coin Tick - Menu Bar Crypto](https://apps.apple.com/ru/app/coin-tick-menu-bar-crypto/id1141688067?mt=12) - macos
