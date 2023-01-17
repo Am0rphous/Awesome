@@ -35,6 +35,8 @@ Table of content
 - [MacOS-Security-Research](https://github.com/0xmachos/macOS-Security-Research) - macOS Security Research
 
 - [Macos_virtualization](https://github.com/AriESQ/macos_virtualization) - Notes on macos virtualization with a focus on running guest OS on Apple M1 Silicon
+- [MOSL](https://github.com/0xmachos/mOSL) - Bash script to audit and fix macOS Catalina (10.15.x) security settings
+
 - [Softwareupdate-full-installer](https://github.com/chris1111/Softwareupdate-full-installer) - Command Line script to download Install macOS 
 
 ## Jailbreaking
