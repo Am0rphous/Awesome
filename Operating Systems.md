@@ -40,6 +40,7 @@ _Considering key questions:_
 - [Archiveos.org](https://archiveos.org) - Arhive of Operating Systems with Linux, BSD, DOS, Solaris and others.
 - [DistroWatch.com](https://distrowatch.com)
 - [Don't use Windows 10 - It's a privacy nightmare](https://www.privacytools.io/operating-systems/#win10)
+- If you need Windows then check out [Atlas](https://github.com/Atlas-OS/Atlas) - _An open source modification of the Windows 10 operating system, designed to optimize performance, and latency._
 - [Hardware for Linux Trends](https://linux-hardware.org/?view=trends)
 
 ## Boot / BIOS
@@ -87,7 +88,6 @@ distribution into a Live Kit (formely known as Live CD).
 
 ## Desktop OSes
 - [Asahi](https://asahilinux.org) - Asahi Linux aims to bring you a polished Linux experience on Apple Silicon Macs.
-- [Atlas](https://github.com/Atlas-OS/Atlas) - An open source modification of the Windows 10 operating system, designed to optimize performance, and latency.
 - [Bliss OS - Android for your PC](https://blissos.org) - An Open Source OS, based on Android, that incorporates many optimizations, features, and expanded device support. And it is available for just about any Chromebook, Windows/Linux PC or tablet released in the last 4 years.
 - [Debian](https://www.debian.org)
 - [Deepin](https://www.deepin.org/en/) - based on Debian, features DDE, the Deepin Desktop Environment, built on Qt.
