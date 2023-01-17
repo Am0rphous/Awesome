@@ -857,6 +857,7 @@ Based on that data, you can find the most popular ones and their alternatives.
     - [Lofi Radio](https://github.com/Maanex/lofi-radio/)
     - [Lofi Radio Desktop](https://github.com/hjoelh/Lofi-Radio-Desktop) - Site & App for Lofi Radio Desktop / 2000+ downloads.
     - [Pithos](https://github.com/pithos/pithos) - Pithos is a native Pandora Radio client for Linux. It's much more lightweight than the Pandora.com web client, and integrates with desktop features such as media keys, notifications, and the sound menu.
+    - [RadioDroid](https://github.com/segler-alex/RadioDroid) - radio browser app that uses www.radio-browser.info on android
     - [Radio Tray](http://radiotray.sourceforge.net) - online radio streaming player that runs on a Linux system tray.
     - [Radiotray-NG](https://github.com/ebruck/radiotray-ng) - An Internet radio player for Linux.
     - [Shortwave](https://gitlab.gnome.org/World/Shortwave) - Find and listen to internet radio stations.
@@ -866,12 +867,15 @@ Based on that data, you can find the most popular ones and their alternatives.
     - [Ardour](https://ardour.org/) - Record, Edit, and Mix on Linux, macOS and Windows
     - [Audacity](https://sourceforge.net/projects/audacity)
     - [Bitwig Studio](https://www.bitwig.com/)
+    - [Cadmus](https://github.com/josh-richardson/cadmus) - A GUI frontend for @werman's Pulse Audio real-time noise suppression plugin
     - [Cecilia](http://ajaxsoundstudio.com/software/cecilia/) - Cecilia is an audio signal processing environment aimed at sound designers. Cecilia mangles sound in ways unheard of. Cecilia lets you create your own GUI using a simple syntax. Cecilia comes with many original built-in modules and presets for sound effects and synthesis.
     - [CubicSDR](https://github.com/cjcliffe/CubicSDR) - Cross-Platform Software-Defined Radio Application. [www.cubicsdr.com](http://www.cubicsdr.com/)
     - [LMMS](https://lmms.io/) - LMMS is a free and open source (cross-platform) digital audio workstation. It includes all the basic audio editing functionalities along with a lot of advanced features.
     - [Matching](https://github.com/sergree/matchering) - Open Source Audio Matching and Mastering 
     - [Mixxx](https://mixxx.org/) - Mixxx is free open-source software and entirely community-driven. There is no company behind Mixxx — the development is shouldered by passionate DJs and programmers that dedicate their free time to working on their favorite DJ software. Mixxx is and always will be free!
     - [MusE](https://github.com/muse-sequencer/muse) - MusE is a digital audio workstation with support for both Audio and MIDI.
+    - [Noise-suppression-for-voice](https://github.com/werman/noise-suppression-for-voice) - Noise suppression plugin based on Xiph's RNNoise
+    - [NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression on Linux.
     - [Ossia](https://ossia.io/)
     - [Python Voice Recorder](https://github.com/iamsrujith/python-voice-recorder)
     - [Qtractor](https://www.qtractor.org/)
@@ -880,8 +884,10 @@ Based on that data, you can find the most popular ones and their alternatives.
     - [SoX - Sound eXchange](http://sox.sourceforge.net/Main/HomePage) - Swiss Army knife of sound processing programs.
     - [Waveform](https://www.tracktion.com/products/waveform-free)
     - [ZRYTHM](https://www.zrythm.org/en/index.html)
+    
       ###### Equalizers
       - [EasyEffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications.
+      
       ###### Music Apps
       - [Blanket](https://github.com/rafaelmardojai/blanket) - Listen to different sounds 
       - [Guayadeque](https://github.com/anonbeat/Guayadeque) - Music management program designed for all music enthusiasts. [guayadeque.org](http://www.guayadeque.org)
