@@ -1127,6 +1127,7 @@ upstream_recursive_servers:
   - [Self-Installing Windows OVA & ISO](https://github.com/brimstone/windows-ova) - Self-Installing Windows OVA. Automate and distribute Windows as an OVA.
   
   ### Power, Battery and Performance
+  - for later [link](https://itsfoss.com/best-indicator-applets-ubuntu/)
   - [PowerAPI](https://github.com/powerapi-ng/powerapi) - PowerAPI is a Python framework for building software-defined power meters.
   - [PowerStat](https://launchpad.net/~colin-king/+archive/ubuntu/powermanagement) - Various tools and utilities to help measure power consumption and monitor system activity.
   - [PowerTop](https://github.com/fenrus75/powertop) - Tool used to diagnose issues with power consumption and power management.
