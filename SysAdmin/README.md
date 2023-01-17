@@ -1327,12 +1327,13 @@ upstream_recursive_servers:
 - [Lwan Web Server](https://github.com/lpereira/lwan) - Experimental, scalable, high performance HTTP server.
 - [MkChain](https://github.com/trimstray/mkchain) -  Open source tool to help you build a valid SSL certificate chain.
 - [NginX](https://nginx.org/en/) - an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server.
+  - [Ngx_security_headers](https://github.com/GetPageSpeed/ngx_security_headers) - NGINX Module for sending security headers
 - [docker-swag](https://github.com/linuxserver/docker-swag) - Nginx webserver and reverse proxy with php support and a built-in Certbot (Let's Encrypt) client. It also contains fail2ban for intrusion prevention. 
   - [Luzifer / nginx-sso](https://github.com/Luzifer/nginx-sso) - SSO authentication provider for the auth_request nginx module.
   - [Nginx-location-match-visible](https://github.com/detailyang/nginx-location-match-visible) - 🍻 help you understand how does nginx location match works.
   - [Nginx Admin's Handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
   - [NginxExecute](https://github.com/limithit/NginxExecute) - The NginxExecute module executes the shell command through GET POST and HEAD to display the result.
-- [Pomerium]()
+- [Pomerium](https://github.com/pomerium/pomerium) - Pomerium is an identity and context-aware access proxy.
 - [Privoxy](https://www.privoxy.org/) - Privoxy is a non-caching web proxy with advanced filtering capabilities for enhancing privacy, modifying web page data and HTTP headers, controlling access, and removing ads and other obnoxious Internet junk.
 - [Project V](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions. [Official website](https://www.v2fly.org)
 - [Proxify](https://github.com/projectdiscovery/proxify) - Swiss Army knife Proxy tool for HTTP/HTTPS traffic capture, manipulation, and replay on the go.
