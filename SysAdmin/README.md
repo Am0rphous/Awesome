@@ -1032,6 +1032,7 @@ upstream_recursive_servers:
 - [Table](https://github.com/aquasecurity/table) - 🧮 Tables for terminals, in Go.
 - [Terminal](https://github.com/elementary/terminal) - Terminal emulator designed for elementary OS.
 - [Terminals Are Sexy ](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
+- [The-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [Tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix.
 - [Tml](https://github.com/liamg/tml) - :rainbow::computer::art: A tiny markup language for terminal output. Makes formatting output in CLI apps easier!
 - [Transfer.sh](https://github.c) - Easy and fast file sharing from the command-line. 
