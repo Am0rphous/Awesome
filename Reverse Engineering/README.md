@@ -142,6 +142,7 @@ Description: Transforms a binary's machine code into assembly language/code.
 - [Capstone](https://github.com/aquynh/capstone) - Capstone disassembly/disassembler framework: Core (Arm, Arm64, BPF, EVM, M68K, M680X, MOS65xx, Mips, PPC, RISCV, Sparc, SystemZ, TMS320C64x, Web Assembly, X86, X86_64, XCore) + bindings.
 - [Cutter](https://github.com/radareorg/cutter) - Free and open-source reverse engineering framework powered by radare2.
   - [Cutter Plugins](https://github.com/rizinorg/cutter-plugins) - A curated list of Community Plugins and Scripts written for Cutter.
+    - [Cutterref](https://github.com/yossizap/cutterref) - Cutter Instruction Reference Plugin
     - [Radare2-deep-graphs](https://github.com/JavierYuste/radare2-deep-graph) - A Cutter plugin to generate radare2 graphs.
 - [Frida](https://www.frida.xyz/)
 - [Ghidra](https://github.com/NationalSecurityAgency/ghidra) - reverse engineering (SRE) framework created and maintained by the National Security Agency. [ghidra-sre.org](https://ghidra-sre.org/)
