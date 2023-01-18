@@ -937,7 +937,11 @@ upstream_recursive_servers:
   - [Biometric-authentication](https://github.com/ukui/biometric-authentication) - A biometric identification framework.
   - [fprint.freedesktop.org](https://fprint.freedesktop.org/) - The fprint project aims to add support for consumer fingerprint reader devices, in Linux, as well as other free Unices.
   - [Libfprint](https://github.com/freedesktop/libfprint) - Library for fingerprint readers
+    - [Dell's libfprint-2-tod1-goodix deb files](http://dell.archive.canonical.com/updates/pool/public/libf/libfprint-2-tod1-goodix/)
+  - Shenzhen Goodix Fingerprint Reader - Not working on linux at the moment
+    - [Goodix-fp-dump](https://github.com/goodix-fp-linux-dev/goodix-fp-dump) - All our work to make Goodix fingerprint sensors work on Linux. Thanks to @markusressel and @PJungkamp for sponsoring.
 
+  
 
   #### Linux Hardening Guides
   - [40 Linux Server Hardening Security Tips (2019 edition)](https://www.cyberciti.biz/tips/linux-security.html)
