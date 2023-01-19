@@ -30,8 +30,7 @@
 
 ## AI Assistant
 - [Mycroft](https://github.com/mycroftai/mycroft-core) - Mycroft is a hackable open source voice assistant.
-
-Note: https://favouriteblog.com/50-best-github-artificial-intelligence/
+- [The AI Research Assistant](https://elicit.org/) - Elicit uses language models to help you automate research workflows, like parts of literature review. Elicit can find relevant papers without perfect keyword match, summarize takeaways from the paper specific to your question, and extract key information from the papers. While answering questions with research is the main focus of Elicit, there are also other research tasks that help with brainstorming, summarization, and text classification. Note: https://favouriteblog.com/50-best-github-artificial-intelligence/
 
 
 ## Detection / Recognition / Vision / Object Tracking
