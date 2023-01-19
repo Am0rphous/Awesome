@@ -11,6 +11,7 @@
 - [AIMA3e-Java (JDK 8+)](https://github.com/aimacode/aima-java) - Java implementation of algorithms from Russell And Norvig's "Artificial Intelligence - A Modern Approach" 
 - [AIMA-Python](https://github.com/aimacode/aima-python) - Python implementation of algorithms from Russell And Norvig's "Artificial Intelligence - A Modern Approach".
 - [AirSim](https://github.com/microsoft/airsim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft.
+- [Awesome-AI](https://github.com/t3l3machus/Awesome-AI) - null
 - [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [Bilibilili](https://github.com/Bingzi-Li/bilibilili) - A face-recognition-based attendance taking system.
 - [DeepPavlov](https://github.com/deepmipt/DeepPavlov) - An open source library for deep learning end-to-end dialog systems and chatbots.
@@ -30,6 +31,7 @@
 
 ## AI Assistant
 - [Mycroft](https://github.com/mycroftai/mycroft-core) - Mycroft is a hackable open source voice assistant.
+- [Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [The AI Research Assistant](https://elicit.org/) - Elicit uses language models to help you automate research workflows, like parts of literature review. Elicit can find relevant papers without perfect keyword match, summarize takeaways from the paper specific to your question, and extract key information from the papers. While answering questions with research is the main focus of Elicit, there are also other research tasks that help with brainstorming, summarization, and text classification. Note: https://favouriteblog.com/50-best-github-artificial-intelligence/
 
 
