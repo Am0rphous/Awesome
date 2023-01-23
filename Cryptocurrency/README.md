@@ -7,11 +7,16 @@
 
 ## Analysis
 - [Bitcoin sentiment – Bull & Bear Index](https://www.augmento.ai/bitcoin-sentiment/) - The graphs show how bullish/bearish conversations about Bitcoin (BTC) are on social media.
+- [BISON's Sentiment](https://bisonapp.com/en/features/sentiment/) - "BISON’s Sentiment analyses real-time data and provides a market sentiment of the most discussed cryptocurrencies."
 0 is extreme bearish, 1 extreme bullish. The underlying data is collected from Twitter, Reddit and Bitcointalk and updates every hour.
 - [Cryptocurrency Analysis](https://github.com/prouast/cryptocurrency-analysis) - Analysis and visualisation of the cryptocurrency market.
+- [Crypto Fear & Greed Index](https://alternative.me/crypto/fear-and-greed-index/) - "Each day, we analyze emotions and sentiments from different sources and crunch them into one simple number: The Fear & Greed Index for Bitcoin and other large cryptocurrencies."
 - [CryptoWall Analysis](https://github.com/ryancor/CryptoWall_Analysis) -  CryptoWall 3.0 Ransomware Reversing Documentation & Scripts.
+- [ Fear & Greed Index (Stock market but it might be important)](https://edition.cnn.com/markets/fear-and-greed)
+- [lunarcrush.com](https://lunarcrush.com/coins?rpp=50)
 - [Mythril](https://github.com/ConsenSys/mythril) - Security analysis tool for EVM bytecode. Supports smart contracts built for Ethereum, Hedera, Quorum, Vechain, Roostock, Tron and other EVM-compatible blockchains. 
-- [predicting-future-bitcoin-prices](https://github.com/derkzomer/predicting-future-bitcoin-prices) - This code is part of an article exploring the use of the LSTM model to predict future Bitcoin prices- [blog article](https://towardsdatascience.com/using-machine-learning-to-predict-future-bitcoin-prices-6637e7bfa58f) 
+- [predicting-future-bitcoin-prices](https://github.com/derkzomer/predicting-future-bitcoin-prices) - This code is part of an article exploring the use of the LSTM model to predict future Bitcoin prices- [blog article](https://towardsdatascience.com/using-machine-learning-to-predict-future-bitcoin-prices-6637e7bfa58f)
+- [santiment.net](https://santiment.net/) - "Santiment makes powerful OnChain, Social & Financial analysis accessible to anyone. Interactive reports let you query crypto market data with only a few clicks, then see visualisations in seconds."
   ### Heatmaps
   - [Crypto Heatmap from TradingView.com](https://www.tradingview.com/heatmap/crypto/?color=change&dataset=Crypto&group=no_group&size=market_cap_calc)
   - [Cryptocurrency Performance Heat Map from marketbeat.com](https://www.marketbeat.com/market-data/sector-performance/cryptocurrencies/)
@@ -83,6 +88,9 @@
 ## Programming
 - Solidity - "_Solidity is an object-oriented programming language for writing smart contracts. It is used for implementing smart contracts on various blockchain platforms, most notably, Ethereum. - [Wikipedia](https://en.wikipedia.org/wiki/Solidity)"
   - [Solidity Content & Resources]() - 📚 Content & Resources to get started on 🛠 Solidity.
+
+## Research
+- [Sentiment-Based Prediction of Alternative Cryptocurrency Price Fluctuations Using Gradient Boosting Tree Model](https://www.frontiersin.org/articles/10.3389/fphy.2019.00098/full)
 
 ## Trading
 - [Binance-News-Sentiment-Bot](https://github.com/CyberPunkMetalHead/Binance-News-Sentiment-Bot) - This is a fully functioning Binance trading bot that takes into account the news sentiment for the top 100 crypto feeds. If you like this project consider donating though the Brave browser to allow me to continuously improve the script.
