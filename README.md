@@ -427,6 +427,7 @@ sudo apt-get install redshift-gtk
 
   ### API
   - [Awesome Security APIs](https://github.com/jaegeral/security-apis) | A collective list of public APIs for use in security. Contributions welcome.
+  - [Jq](https://github.com/stedolan/jq) - Command-line JSON processor
   - [Kong](https://github.com/Kong/kong) - The Cloud-Native API Gateway.
   - [httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 
