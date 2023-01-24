@@ -36,7 +36,6 @@
   - [Cloud Monitoring](#cloud-monitoring)
   - [CPU](#cpu)
   - [ELK-stack](#elk-stack)
-  - [Good resources](#good-resources)
   - [Logs](#logs)
   - [Push services](#push-services)
 - [Network Tools](#network-tools)
@@ -543,15 +542,15 @@ sudo service psacct restartchkconfig --level 13 psacct on
   
   #### ELK-stack
   - [CVElk](https://github.com/jgamblin/CVElk) - Autoconfigured ELK Stack That Contains All EPSS and NVD CVE Data
+  - [Dsiem](https://github.com/defenxor/dsiem) - Security event correlation engine for ELK stack
   - [Elasticsearch](https://github.com/elastic/elasticsearch) - Open Source, Distributed, RESTful Search Engine.
     - [detection-rules](https://github.com/elastic/detection-rules) -  Rules for Elastic Security's detection engine.
       - [Protections Artifacts](https://github.com/elastic/protections-artifacts) - Elastic Security detection content for Endpoint 
     - [ee-outliers](https://github.com/NVISOsecurity/ee-outliers) - Open-source framework to detect outliers in Elasticsearch events.
+  - [ELK with Bro-based Application Layer Packet Classifier](https://github.com/hardenedlinux/Debian-GNU-Linux-Profiles/blob/master/NSM/docs/ELK_with_bro_ID_doc.mkd)
   - [HELK](https://github.com/Cyb3rWard0g/HELK) - The Hunting ELK.
   - [LogStash](https://github.com/elastic/logstash) -  Logstash - transport and process your logs, events, or other data.
   - [Kibana](https://github.com/elastic/kibana) -  browser-based analytics and search dashboard for Elasticsearch.
-   #### Good resources regarding ELK-stack
-  - [ELK with Bro-based Application Layer Packet Classifier](https://github.com/hardenedlinux/Debian-GNU-Linux-Profiles/blob/master/NSM/docs/ELK_with_bro_ID_doc.mkd)
 - [Espionage](https://github.com/josh0xA/Espionage) - A Network Packet and Traffic Interceptor For Linux. Spoof ARP & Wiretap A Network. 
 - [Grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More.
   - [Grafana Dashboards for MySQL and MongoDB](https://github.com/percona/grafana-dashboards) - Grafana dashboards for MySQL and MongoDB monitoring using Prometheus.
@@ -593,11 +592,14 @@ sudo service psacct restartchkconfig --level 13 psacct on
 - [Webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel [www.webmin.com](http://www.webmin.com).
 - [Zeek (Bro)](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know. [zeek.org](https://www.zeek.org)
   - [Brim](https://github.com/brimdata/brim) - Brim is an open source desktop application for security and network specialists. Brim makes it easy to search and analyze data from: packet captures, like those created by Wireshark, and structured logs, especially from the Zeek network analysis framework.
+  
   ## Energy
   - [IoTaWatt](https://github.com/boblemaire/IoTaWatt) - IoTaWatt Open WiFi Electric Energy Monitor.
+  
   ## Process monitoring
   - [ProcDump (Windows)](https://docs.microsoft.com/en-us/sysinternals/downloads/procdump) - ProcDump is a command-line utility whose primary purpose is monitoring an application for CPU spikes and generating crash dumps during a spike that an administrator or developer can use to determine the cause of the spike. 
   - [Process Hacker](https://github.com/processhacker/processhacker) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
+  
   ## Attack Surface Monitoring
 - [Attack Surface Analyzer](https://github.com/microsoft/AttackSurfaceAnalyzer) -  Attack Surface Analyzer can help you analyze your operating system's security configuration for changes during software installation.
 - [Awesome Attack Surface Monitoring](https://github.com/0xtavian/awesome-attack-surface-monitoring) - Curated list of open-source & paid Attack Surface Monitoring (ASM) tools.
