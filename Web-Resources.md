@@ -28,6 +28,8 @@
 ## Buying Linux Computers
 - [Framework Laptop](https://frame.work/)
 - [Purism](https://puri.sm)
+- [Tuxedo](https://www.tuxedocomputers.com)
+  - [Check out TUXEDO InfinityBook Pro 14 - Gen7](https://www.tuxedocomputers.com/en/TUXEDO-InfinityBook-Pro-14-Gen7.tuxedo)
 - [System76](https://system76.com/)
 
 
