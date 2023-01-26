@@ -33,8 +33,6 @@ Table of content
 - [Mac Apps](https://github.com/jeffreyjackson/mac-apps)
 - [MacOS-Security-and-Privacy-Guide ](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS.
 - [MacOS-Security-Research](https://github.com/0xmachos/macOS-Security-Research) - macOS Security Research
-
-- [Macos_virtualization](https://github.com/AriESQ/macos_virtualization) - Notes on macos virtualization with a focus on running guest OS on Apple M1 Silicon
 - [MOSL](https://github.com/0xmachos/mOSL) - Bash script to audit and fix macOS Catalina (10.15.x) security settings
 
 - [Softwareupdate-full-installer](https://github.com/chris1111/Softwareupdate-full-installer) - Command Line script to download Install macOS 
@@ -147,9 +145,11 @@ ps axu | grep "/bin/tor"
 
     ### Virtualization
     - [Getutm](https://mac.getutm.app/)
+    - [Macos_virtualization](https://github.com/AriESQ/macos_virtualization) - Notes on macos virtualization with a focus on running guest OS on Apple M1 Silicon
     - [QEMU](https://www.qemu.org/download/#macos) - May be installed with `brew install qemu`.
     - [Parallels Desktop ($)](https://www.parallels.com/eu/) - The fastest, easiest and most powerful application for running Windows on Mac—without rebooting. Includes 30+ utilities to simplify everyday tasks on Mac and Windows.
       - [PD-Runner](https://github.com/utsanjan/PD-Runner) - PD Runner is an unlimited trial launcher to run Parallels Desktop on your macOS
+    - [VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon
     - [VirtualBox](https://www.virtualbox.org)
     - [VMWare Fusion](https://www.vmware.com/products/fusion/fusion-evaluation.html)
       - [Open Virtualization Format Tool (ovftool)](https://code.vmware.com/web/tool/4.4.0/ovf) - VMware OVF Tool is a command-line utility that allows you to import and export OVF packages to and from many VMware products.
