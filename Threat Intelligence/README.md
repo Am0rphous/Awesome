@@ -31,6 +31,7 @@
 ## MISP - Malware Information Sharing Platform
 - [MISP - Threat Intelligence Sharing Platform](https://github.com/MISP/MISP) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform (formely known as Malware Information Sharing Platform).
   - [circl.lu - MIST Training Materials](https://www.circl.lu/services/misp-training-materials/) - [github](https://github.com/MISP/misp-training)
+  - [FireArms_Intelligence](https://github.com/W4zT3r/FireArms_Intelligence) - Gather information through MISP definition of firearms taxonomy
   - [misp-grafana](https://github.com/MISP/misp-grafana) - A real-time Grafana dashboard using MISP ZeroMQ message queue and InfluxDB.
   - [misp-modules](https://github.com/MISP/misp-modules) - Modules for expansion services, import and export in MISP.
   - [misp-training-lea](https://github.com/MISP/misp-training-lea) - Practical Information Sharing between Law Enforcement and CSIRT communities using MISP.
