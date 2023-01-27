@@ -16,6 +16,7 @@
 - [Mapping MITRE ATT&CK® to CVEs for Impact](https://github.com/center-for-threat-informed-defense/attack_to_cve) - A methodology for mapping MITRE ATT&CK techniques to vulnerability records to describe the impact of a vulnerability.
 - [Penetrum LLC Opensource Threat Intelligence](https://github.com/Penetrum-Security/Threat-Intelligence) - Penetrum LLC opensource Threat Intel. All information is also available at https://penetrum.com.
 - [PyOTI - Python Open Threat Intelligence](https://github.com/RH-ISAC/PyOTI) - Python library for threat intelligence.
+- [RansomLook](https://github.com/RansomLook/RansomLook) - Yet another Ransomware gang tracker
 - [Raven](https://github.com/qeeqbox/raven) - Advanced Cyber Threat Map (Simplified, customizable, responsive).
   - [Worldmap](https://github.com/qeeqbox/worldmap) - An interactive world-map that has been used in live Cyber Threat interfaces.
 - [Research Threats: Legal Threats Against Security Researchers](https://threats.disclose.io/) - [github](https://github.com/disclose/research-threats)
