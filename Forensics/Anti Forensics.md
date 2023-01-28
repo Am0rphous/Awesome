@@ -11,3 +11,4 @@
   - [Metadata Cleaner](https://metadatacleaner.romainvigier.fr/) - [gitlab](https://gitlab.com/rmnvgr/metadata-cleaner/)
   - 
 
+- [Anit-Forensics](https://github.com/ashemery/Anit-Forensics) - A Repository to Track Anti-Forensic Techniques
