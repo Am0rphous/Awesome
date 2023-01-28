@@ -491,8 +491,10 @@ lsscsi                          #Print SCSI Devices Info
 - [OpenSnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
 - [UFW - Uncomplicated Firewall]()
   - [Block Visitors by Country with ‘ufw’](https://minnmyatsoe.com/2019/02/21/ubuntu-how-to-block-visitors-by-country-with-ufw/)
+
 ### Port Knocking
 - [knockknock](https://github.com/moxie0/knockknock) - A simple, secure, and stealthy port knocking implementation that does not use libpcap or bind to a socket interface. 
+- [Tariq](https://github.com/ashemery/tariq) - Hybrid Port Knocking System
 
 
 ## Monitoring
