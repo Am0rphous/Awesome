@@ -1186,6 +1186,7 @@ upstream_recursive_servers:
 -  [Container and Kernel-Based Virtual Machine (KVM) Virtualization for Network Function Virtualization (NFV)](https://builders.intel.com/docs/container-and-kvm-virtualization-for-nfv.PDF)
 - [Foreman](https://www.theforeman.org/)
 - [IsardVDI](https://github.com/isard-vdi/isard) - Isard VDI. Open Source KVM Virtual Desktops based on KVM Linux and dockers [isardvdi.com](https://isardvdi.com).
+- [Nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
 - [Unicorn Engine](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86) 
 - [WebVirtCloud](https://github.com/retspen/webvirtcloud) - WebVirtCloud is virtualization web interface for admins and users.
 - [VMware](https://vmware.com)
