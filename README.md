@@ -734,7 +734,9 @@ Based on that data, you can find the most popular ones and their alternatives.
 - [Linux_command_line](https://github.com/learnbyexample/Linux_command_line) - Introduction to Linux commands and Shell scripting.
 - [Scripting_course](https://github.com/learnbyexample/scripting_course) - A reference guide to Linux command line, Vim and Scripting.
 
-## Media
+## Multimedia
+
+- [Cobalt](https://github.com/wukko/cobalt) - save what you love
 - [Multimedia and Television Support on Linux](https://www.linuxtv.org)
 - [System Color Picker](https://github.com/sindresorhus/System-Color-Picker) - The macOS color picker as an app with more features 
 - [Wwmark](https://github.com/mylamour/Wwmark) - Watermark Swiss Army Knife.
