@@ -85,6 +85,7 @@ Portable Executables binaries
 - [difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [Graudit](https://github.com/wireghoul/graudit) - grep rough audit - source code auditing tool.
 - [SonarJS](https://github.com/SonarSource/SonarJS) - SonarSource Static Analyzer for JavaScript and TypeScript
+- [Static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 - [Tabby](https://github.com/wh1t3p1g/tabby) - A CAT called tabby ( Code Analysis Tool ) 
 
 
