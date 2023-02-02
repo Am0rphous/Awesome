@@ -3,7 +3,28 @@
 Reverse engineering is the process of analyzing a product or system in order to understand how it works, in order to replicate or improve upon it. This can involve taking apart and examining the product, creating a diagram or model of its components and their interactions, and studying the design and function of each component. Reverse engineering is often used to reverse-engineer software, in order to understand how it works, identify vulnerabilities, or create compatible products. It can also be used to reverse-engineer physical products, in order to understand their design and create replicas or knockoffs.
 
 Table of content
+- [Binary Analysis](#Binary-Analysis)
+  - [Elf](#elf)
+  - [PE Viewers](#pe-viewers)
+- [Code Analysis](#code-analysis)
+- [Containers](#containers)
+- [Debugging](#debugging)
+- [Decompilers](#decompilers)
+- [Disassemblers](#Disassemblers)
+- [File Analysis](#file-analysis)
+  - [File Conversion](#File-Conversion)
+- [Firmware](#firmware)
+- [Frameworks](#Frameworks)
+- [Learning Resources](#Learning-Resources)
+- [Memory](#memory)
+- [Mobile Forensics](#Mobile-Forensics)
+- [OSes](#oses)
+- [Packers & Unpackers](#packers--unpackers)
+- [Processes](#Processes)
+- [Shellcode](#Shellcode)
+- [WebAssembly](#WebAssembly)
 
+<br>
 
 - [Awesome-Malware-Analysis-Reverse-Engineering](https://github.com/CyberSecurityUP/Awesome-Malware-Analysis-Reverse-Engineering)
 - [Awesome Reverse Engineering](https://github.com/alphaSeclab/awesome-reverse-engineering) - Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT) And Every Aspect! (More than 3500 open source tools and 2300 posts&videos).
@@ -63,7 +84,7 @@ windres       # A compiler for Windows resource files.
 - [The Life of Binaries](https://opensecuritytraining.info/LifeOfBinaries.html)
 - [Viper](https://github.com/viper-framework/viper) -Viper is a binary analysis and management framework.
 
-  ### ELF (Executable and Linkable Format)
+  ### ELF
   - [Awesome ELF Resources](https://github.com/tmpout/awesome-elf)
   - [E9patch](https://github.com/GJDuck/e9patch) - A powerful static binary rewriting tool
   - [elfcat](https://github.com/ruslashev/elfcat) - An in-development ELF visualizer. Generates HTML files from ELF binaries. 
