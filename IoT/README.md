@@ -2,6 +2,7 @@
 
 - [4 key areas where AI and IoT are being combined ](https://www.weforum.org/agenda/2021/03/ai-is-fusing-with-the-internet-of-things-to-create-new-technology-innovations/)
 - [Awesome Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security#awesome-embedded-and-iot-security) - A curated list of awesome embedded and IoT security resources.
+- [Icestudio](https://github.com/FPGAwars/icestudio) - :snowflake: Visual editor for open FPGA boards
 - [m5stack.com](https://m5stack.com)
   - [Crypto_Coin_Ticker](https://github.com/frittna/Crypto_Coin_Ticker) - Bitcoin and Multi Crypto Coin Price Ticker with candlestick chart (Binance API Websocket) - SD-Config File Version
 
