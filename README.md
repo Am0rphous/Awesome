@@ -415,6 +415,8 @@ sudo apt-get install redshift-gtk
 - [Jupyter Notebook](https://github.com/jupyter/notebook) - Web-based notebook environment for interactive computing.
 - [Ly](https://github.com/nullgemm/ly) - Ly is a lightweight TUI (ncurses-like) display manager for Linux and BSD.
 - [Markdoc](https://github.com/markdoc/markdoc) - A Markdown-based authoring system 
+  - [Csvtomd](https://github.com/mplewis/csvtomd) - 📝📊 Convert your CSV files into Markdown tables.
+
 - [Memphis-broker](https://github.com/memphisdev/memphis-broker) - Memphis is an Open-Source, Real-Time Data Processing Platform
 - [Mimo](https://getmimo.com/) - "Learning to code can be easy and fun!"
 - [Nacos](https://github.com/alibaba/nacos) - An easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
