@@ -328,7 +328,8 @@ Communicate clearly <br>
 
 ## Desktop Customization
 - [Barrier](https://github.com/debauchee/barrier) - Share your mouse and keyboard between computers. _Barrier is software that mimics the functionality of a KVM switch, which historically would allow you to use a single keyboard and mouse to control multiple computers by physically turning a dial on the box to switch the machine you're controlling at any given moment._
-  - [Barrier doc](https://github.com/debauchee/barrier/tree/master/doc) 
+  - [Barrier doc](https://github.com/debauchee/barrier/tree/master/doc)
+  - Tip for troubleshooting -> [Productivity -> barrier](https://github.com/Am0rphous/CheatSheets/blob/main/macOS/README.md#productivity)
 - [Conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X
 - [Conky-Colors](https://github.com/helmuthdu/conky_colors) - easier way to configure Conky.
 - [Docky](https://gitlab.com/docky-dock-app-linux/docky) - Docky is a full fledged dock application that makes opening common applications and managing windows easier and quicker. The official project is abandoned, so we forked it to keep the project alive.
