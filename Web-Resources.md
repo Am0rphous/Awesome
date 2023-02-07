@@ -213,6 +213,7 @@
 
 ## Social Media
 - [Mastodon](https://joinmastodon.org/) - the alternative, privacy respecting, front page of internet
+  - [infosec.exchange](https://infosec.exchange) - A Mastodon instance for info/cyber security-minded people. 
 
 ## Videos
 - [The Internet's Own Boy: The Story of Aaron Schwartz](https://vidcommons.org/w/9952af68-0b30-4ea0-81ac-a26444541331) - _"The Internet’s Own Boy follows the story of programming prodigy and information activist Aaron Swartz. From Swartz's help in the development of the basic internet protocol RSS to his co-founding of Reddit, his fingerprints are all over the internet. But it was Swartz's groundbreaking work in social justice and political organizing combined with his aggressive approach to information access that ensnared him in a two-year legal nightmare. It was a battle that ended with the taking of his own life at the age of 26. Aaron's story touched a nerve with people far beyond the online communities in which he was a celebrity. This film is a personal story about what we lose when we are tone deaf about technology and its relationship to our civil liberties."_
