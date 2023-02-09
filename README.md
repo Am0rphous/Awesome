@@ -805,6 +805,8 @@ Based on that data, you can find the most popular ones and their alternatives.
    - [Awesome Broadcasting](https://github.com/ebu/awesome-broadcasting) - A curated list of amazingly awesome open source resources related to broadcast technologies
    - [Awesome Video](https://github.com/krzemienski/awesome-video) - A curated list of awesome streaming video tools, frameworks, libraries, and learning resources. 
    - [ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly.
+     - [Gopro-dashboard-overlay](https://github.com/time4tea/gopro-dashboard-overlay) - Programs to process GoPro MP4 & Generic GPX/FIT files and create video dashboards & maps
+
    - [FFscreencast](https://github.com/cytopia/ffscreencast) - ffscreencast - ffmpeg screencast/desktop-recording with video overlay and multi monitor support.
    - [Free assets for your next video project](https://mixkit.co/)
    - [Free Stock Video Footage ](https://www.videvo.net/)
