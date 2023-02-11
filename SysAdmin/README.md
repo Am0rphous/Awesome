@@ -377,6 +377,7 @@ bro / zeek
 ## Databases
 - [CockroachDB](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database. 
 - [DBeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client.
+- [Db-playground](https://github.com/kamranahmedse/db-playground) - Easily create a sandbox environment for your database exploration.
 - [EdgeDB](https://github.com/edgedb/edgedb) - A next-generation graph-relational database.
 - [Heroku-free-alternatives](https://github.com/Engagespot/heroku-free-alternatives) - Free tier of Heroku Dynos, Postgres and Data for Redis will no longer be available after November 28, 2022. Let's find a list of services with a free plan that developers can use as an alternative to Heroku. Feel free to submit PRs and improve the list.
 - [InfluxDB](https://www.influxdata.com/) - open-source time series database developed by the company InfluxData. It is written in the Go programming language for storage and retrieval of time series data in fields such as operations monitoring, application metrics, Internet of Things sensor data, and real-time analytics. It also has support for processing data from Graphite.
