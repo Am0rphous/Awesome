@@ -97,6 +97,7 @@
 - [Binance-volatility-trading-bot](https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot) - This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though the Brave browser to allow me to continuously improve the script.
 - [Carnac The Magnificent](https://github.com/rvrsh3ll/Carnac) - Carnac The Magnificent: Pancakeswap Prediction Market Bot.
 - [Flumine](https://github.com/betcode-org/flumine) - flūmine - Betting trading framework
+- [Freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [GUI Pancakeswap and Uniswap trading client (and bot)](https://github.com/persianhydra/panUNIswap-bot) - GUI Pancakeswap V2 and Uniswap V3 trading client (and bot)MOST ADVANCE TRADING BOT SUPPORT WINDOWS LINUX MAC.
 
 ## Wallets
