@@ -1010,6 +1010,7 @@ upstream_recursive_servers:
 
 ## Terminal / Shell
 - [ASCII Banner](https://manytools.org/hacker-tools/ascii-banner)
+- [Atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [Autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal. [fig.io](https://fig.io/)
 - [Awesome CLI](https://github.com/umutphp/awesome-cli) - A simple command line tool to give you a fancy command line interface to dive into Awesome lists.
 - [Awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
