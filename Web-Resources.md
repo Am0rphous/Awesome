@@ -42,6 +42,7 @@
 
 
 ## Cyber Security News
+- [Allinfosecnews_sources github](https://github.com/foorilla/allinfosecnews_sources) - A list of online news & info sources in the InfoSec/Cybersecurity space
 - [Cyberiqs.com/latestnews](https://cyberiqs.com/latestnews)
 - [Cyware.com/hacker-news](https://cyware.com/hacker-news)
 - [Decipher](https://duo.com/decipher) - Security news that informs and inspires.
