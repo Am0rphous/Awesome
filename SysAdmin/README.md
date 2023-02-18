@@ -877,7 +877,6 @@ upstream_recursive_servers:
 - [PasswordPusher ](https://github.com/pglombardo/PasswordPusher) - 🔐 A dead-simple application to securely communicate passwords over the web. Passwords automatically expire after a certain number of views and/or time has passed.
 - [pwdsafety](https://github.com/edoardottt/pwdsafety) - 🔒command line tool checking password safety🔒
 - [py_webauthn](https://github.com/duo-labs/py_webauthn) - A Python3 implementation of the WebAuthn API focused on making it easy to leverage the power of WebAuthn. This library supports all FIDO2-compliant authenticators, including security keys, Touch ID, Face ID, Windows Hello, Android biometrics...and pretty much everything else.
-- [SELinux Userspace](https://github.com/SELinuxProject/selinux) - Security Enhanced Linux (SELinux).
 - [Snappass](https://github.com/pinterest/snappass) - Share passwords securely
 - [Usb.Events](https://github.com/Jinjinov/Usb.Events) - Subscribe to the Inserted and Removed events to be notified when a USB drive is plugged in or unplugged, or when a USB device is connected or disconnected. Usb.Events is a .NET Standard 2.0 library and uses WMI on Windows, libudev on Linux and IOKit on macOS.
   - [USB-checking / GNOME Shell USB Lock](https://github.com/gmuraru/USB-checking) - Check if a connected devices was already seen by the computer. If the device was not seen, it will ask for your permission to add it to a trusted file (known_host in our case) - for the command line interface or you could add them manually from the Gtk+ interface.
@@ -930,9 +929,10 @@ upstream_recursive_servers:
     - [MinaOTP-Shell](https://github.com/MinaOTP/MinaOTP-Shell) - TOTP authenticator implement as a terminal tool.
 
   ### Linux Security
-  - [AppArmor](https://gitlab.com/apparmor/apparmor) - AppArmor is an effective and easy-to-use Linux application security system. AppArmor proactively protects the operating system and applications from external or internal threats, even zero-day attacks, by enforcing good behavior and preventing both known and unknown application flaws from being exploited.
+  - [AppArmor](https://gitlab.com/apparmor/apparmor) - "AppArmor is an effective and easy-to-use Linux application security system. AppArmor proactively protects the operating system and applications from external or internal threats, even zero-day attacks, by enforcing good behavior and preventing both known and unknown application flaws from being exploited."
     - [Full system AppArmor policy](https://github.com/Kicksecure/apparmor-profile-everything) - AppArmor for everything. APT, systemd, init, all systemd units, all applications. Mandatory Access Control. Security Hardening. 
   - [Auditd](https://manpages.ubuntu.com/manpages/jammy/en/man8/auditd.8.html) - The Linux Audit daemon.
+  - [grsecurity](https://grsecurity.net/)
   - [Intel® SGX](https://www.intel.com/content/www/us/en/architecture-and-technology/software-guard-extensions.html) - _"There is tremendous opportunity for application and solution developers to take charge of their data security using new hardware-based controls for cloud and enterprise environments. Intel® Software Guard Extensions (Intel® SGX)1 2 offers hardware-based memory encryption that isolates specific application code and data in memory. Intel® SGX allows user-level code to allocate private regions of memory, called enclaves, which are designed to be protected from processes running at higher privilege levels. Only Intel® SGX offers such a granular level of control and protection."_
     - [ Intel SGX for Linux* ](https://github.com/intel/linux-sgx)
   - [Ksplice](https://ksplice.oracle.com/) - Oracle Ksplice updates select, critical components of your Oracle Linux installation with all of the important security patches without needing to reboot.
@@ -942,6 +942,8 @@ upstream_recursive_servers:
   - [LKRG - Linux Kernel Runtime Guard](https://www.openwall.com/lkrg) -  LKRG performs runtime integrity checking of the Linux kernel and detection of security vulnerability exploits against the kernel. [Github](https://github.com/lkrg-org/lkrg)
     - [Linux Kernel Runtime Guard (LKRG) for Debian, Whonix, Qubes, Kicksecure](https://www.whonix.org/wiki/Linux_Kernel_Runtime_Guard_LKRG)
   - [VED (Vault Exploit Defense) - Linux kernel threat detection and prevention system](https://github.com/hardenedvault/ved)
+  - [seccomp](https://man7.org/linux/man-pages/man2/seccomp.2.html) - "The secure computing (seccomp) mode is a popular Linux kernel security feature that restricts access to system calls (syscalls) by processes. This means that seccomp can filter syscalls and allow or limit which syscalls can be executed in the system."
+- [SELinux Userspace](https://github.com/SELinuxProject/selinux) - Security Enhanced Linux (SELinux).
 
   #### Biometric
   - [Biometric-authentication](https://github.com/ukui/biometric-authentication) - A biometric identification framework.
