@@ -14,6 +14,7 @@
 - [Awesome-AI](https://github.com/t3l3machus/Awesome-AI) - null
 - [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [Bilibilili](https://github.com/Bingzi-Li/bilibilili) - A face-recognition-based attendance taking system.
+- [ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making big AI models cheaper, easier, and more scalable
 - [DeepPavlov](https://github.com/deepmipt/DeepPavlov) - An open source library for deep learning end-to-end dialog systems and chatbots.
 - [DeepStack](https://github.com/johnolafenwa/DeepStack) - The World's Leading Cross Platform AI Engine for Edge Devices.
   - [DeepStack.cc](https://www.deepstack.cc/)
