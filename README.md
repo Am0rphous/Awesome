@@ -1076,6 +1076,7 @@ that works on top of your local folder of plain text files. [github](https://git
   
   ### Blogging
   - [Beam](https://github.com/planetscale/beam) - A simple message board for your organization or project.
+  - [copy.ai](https://www.copy.ai)
   - [Friendica](https://github.com/friendica/friendica) - Friendica Communications Platform.
   - [GNU social](https://gnusocial.network/)
   - [Mastodon](https://github.com/tootsuite/mastodon) - Mastodon is a free, open-source social network server based on ActivityPub where users can follow friends and discover new ones. On Mastodon, users can publish anything they want: links, pictures, text, video. All Mastodon servers are interoperable as a federated network (users on one server can seamlessly communicate with users from another one, including non-Mastodon software that implements ActivityPub)!
