@@ -985,11 +985,13 @@ that works on top of your local folder of plain text files. [github](https://git
   - [P3X OneNote Linux](https://github.com/patrikx3/onenote) - 📚 Linux Electron Onenote - A Linux compatible version of OneNote.
   - [oamresearch.com](https://roamresearch.com/) - A note-taking tool for networked thought. As easy to use as a document. As powerful as a graph database. Roam helps you organize your research for the long haul.
   - [rofi-todo.sh](https://github.com/claudiodangelis/rofi-todo) - 📓 Minimal todo client for the rofi launcher.
+  - [standardnotes.com](https://standardnotes.com/)
   - [Taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
     - [How to Manage Your Tasks in the Terminal with Taskbook](https://www.maketecheasier.com/manage-tasks-in-terminal-with-taskbook/)
   - [Taskwarrior](https://taskwarrior.org/)
   - [Ugly To-Do](https://github.com/Murzchnvok/ugly-todo) - Just an Ugly To-Do app that I wanted to develop. 
   - [QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.
+  
   ### Pastebins
   - [Framabin](https://framabin.org/) - Minimalist, open source online pastebin.
   - [PrivateBin](https://privatebin.info/) - PrivateBin ([github](https://github.com/PrivateBin/PrivateBin))is a minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted and decrypted in the browser using 256bit AES in Galois Counter mode.
