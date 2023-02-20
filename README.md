@@ -935,6 +935,7 @@ Based on that data, you can find the most popular ones and their alternatives.
 - [CyberSecurityRSS](https://github.com/zer0yu/CyberSecurityRSS) - CyberSecurityRSS: 优秀的网络安全知识来源 / A collection of cybersecurity rss to make you better!.
 - [detoxed.news](https://github.com/tom-james-watson/detoxed.news) - The important news, without the toxicity.
 - [FreshRSS](https://github.com/FreshRSS/FreshRSS) - FreshRSS is a self-hosted RSS feed aggregator like Leed or Kriss Feed. It is lightweight, easy to work with, powerful, and customizable.
+- [Hackertab.dev](https://github.com/medyo/hackertab.dev) - A Chrome 🌐 & Firefox 🦊 extension to discover the best developer news and tools in one tab!
 - [Homura](https://github.com/Saul-Mirone/homura) - Elegant RSS reader.
 - [Information and Cyber Security RSS/Atom Feeds](https://github.com/phretor/infosec-opml) - "My very personal and opinionatedly organized infosec/cybersec sources in one OPML file"
 - [Raven Reader](https://github.com/hello-efficiency-inc/raven-reader) - All your articles in one place. Beautiful. The most flexible news reader ever
