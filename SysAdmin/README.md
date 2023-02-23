@@ -261,6 +261,7 @@ bro / zeek
   - [sauron](https://github.com/evilsocket/sauron) - A minimalistic cross-platform malware scanner with non-blocking realtime filesystem monitoring using YARA rules.
   - [Signature-base](https://github.com/Neo23x0/signature-base) - YARA signature and IOC database for my scanners and tools
   - [Yara for Atom](https://atom.io/packages/language-yara)
+  - [Yara rules from Elastic Protection](https://github.com/elastic/protections-artifacts/tree/main/yara/rules)
   - [Yara Scanner](https://github.com/iomoath/yara-scanner) - YaraScanner is a threat hunting tool, based on Yara Rules.
   - [Yara for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=infosec-intern.yara)
 
