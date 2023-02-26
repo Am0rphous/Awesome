@@ -1034,6 +1034,8 @@ upstream_recursive_servers:
   - [Boxen-cli](https://github.com/sindresorhus/boxen-cli) - Create boxes in the terminal.
   - [ink-box](https://github.com/sindresorhus/ink-box) - Styled box component for Ink.
 - [CANalyse](https://github.com/KartheekLade/CANalyse) - A tool to analyze log files!
+- [Carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
+
 - [Plz-cli](https://github.com/m1guelpf/plz-cli#usage) - Copilot for your terminal
 - [Cross-platform-terminal-characters](https://github.com/ehmicky/cross-platform-terminal-characters) - All the characters that work on most terminals and most operating systems.
 - [Fish Shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell. [fishshell.com](https://fishshell.com)
