@@ -530,6 +530,7 @@ sudo service psacct restartchkconfig --level 13 psacct on
 - [S1EM](https://github.com/V1D1AN/S1EM) - This project is a SIEM with SIRP and Threat Intel, all in one.
 - [SkyWalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System 
 - [SMS-Alerts](https://github.com/AshleyNikr/SMS-Alerts) - 🌺 Adding SMS alerts to shell scripts 🌺 
+- [Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 - [Supervisor](https://github.com/Supervisor/supervisor) - Supervisor is a client/server system that allows its users to control a number of processes on UNIX-like operating systems.
 
   #### Anomay Detection
