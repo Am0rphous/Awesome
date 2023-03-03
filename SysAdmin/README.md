@@ -727,6 +727,7 @@ upstream_recursive_servers:
       - [Troubleshooting - xrdp immediately terminated session](https://superuser.com/questions/1262624/xrdp-immediately-terminated-session)
   - VNC (Virtual Network Computing)
     - [TigerVNC](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server.
+    - [TightVNC](https://www.tightvnc.com)
     - [xVNC](http://xvnc.sourceforge.net/)
 - [SSH](https://www.openssh.com)
   - [Aker SSH Gateway](https://github.com/aker-gateway/Aker) - SSH bastion/jump host/jumpserver.
