@@ -310,6 +310,7 @@ Communicate clearly <br>
   - [Gitolite](https://github.com/sitaramc/gitolite) - Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features.
   - [GitPrep](http://gitprep.yukikimoto.com/)
   - [GitUI](https://github.com/extrawurst/gitui) - GitUI provides you with the comfort of a git GUI but right in your terminal. Fast terminal-ui for git written in rust.
+  - [Jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira
   - [Logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap 
     - [Awesome-logseq](https://github.com/logseq/awesome-logseq)
   - [Gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service.
