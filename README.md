@@ -659,6 +659,7 @@ sudo apt-get install redshift-gtk
 
 ## Finance
 - [Firefly III:](https://github.com/firefly-iii/firefly-iii) - a personal finances manager 
+- [OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere.
 - [portfolio](https://github.com/buchen/portfolio) - A simple tool to calculate the overall performance of an investment portfolio. [portfolio-performance.info](https://www.portfolio-performance.info/en/)
 
 ## Finding Software
