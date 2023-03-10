@@ -12,6 +12,7 @@ Table of content
     - [Creating Bootable USB](#Creating-Bootable-USB)
     - [App Development](#App-Development)
     - [Package Managers](#Package-Managers)
+    - [Security](#security)
     - [Virtualization](#Virtualization)
 6. [Macbook with Linux resources](#Macbook-with-Linux-resources)
     - [Macbook Pro 14.3 (late 2017)](#macbook-pro-143-late-2017)
@@ -143,6 +144,10 @@ ps axu | grep "/bin/tor"
    export HOMEBREW_NO_ANALYTICS=1
    brew analytics off
    ````
+
+    ### Security
+    - [Secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
+
 
     ### Virtualization
     - [Getutm](https://mac.getutm.app/)
