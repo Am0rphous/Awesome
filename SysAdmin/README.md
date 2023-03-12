@@ -1089,6 +1089,8 @@ upstream_recursive_servers:
 
   ## For fun
   - [C++ Matrix in terminal](https://github.com/akinomyoga/cxxmatrix) - C++ Matrix: The Matrix Reloaded in Terminals (Number falls, Banners, Matrix rains, Conway's Game of Life and Mandelbrot set).
+  - [Zpwr](https://github.com/MenkeTechnologies/zpwr) - ZPWR => World's Most Advanced UNIX Terminal Environment
+
 
   ### Emulators
   - [Cool Retro Term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display.
