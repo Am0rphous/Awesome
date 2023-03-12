@@ -14,6 +14,7 @@ Check this link later: https://arstechnica.com/information-technology/2016/08/bu
 - [AirGuard](https://github.com/seemoo-lab/AirGuard) - Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍
 - [anonaddy.com](https://anonaddy.com) - Anonymous Email Forwarding
 - [Anti-censorship](https://gitlab.torproject.org/tpo/anti-censorship) - Censorship circumvention and analysis.
+- [Awesome-iran-freedom](https://github.com/hiddify/awesome-iran-freedom) - In this repository we have collected all awesome tools for iranian people
 - [Bbs](https://github.com/net4people/bbs) - Forum for discussing Internet censorship circumvention
 - [Checkip](https://github.com/jreisinger/checkip) -  Get (security) info about IP addresses.
 - [Cidranger](https://github.com/yl2chen/cidranger) - Fast IP to CIDR lookup in Golang.
