@@ -328,15 +328,7 @@ Communicate clearly <br>
 
 
 ## Desktop Customization
-- [Barrier](https://github.com/debauchee/barrier) - Share your mouse and keyboard between computers. _Barrier is software that mimics the functionality of a KVM switch, which historically would allow you to use a single keyboard and mouse to control multiple computers by physically turning a dial on the box to switch the machine you're controlling at any given moment._
-  - [Barrier doc](https://github.com/debauchee/barrier/tree/master/doc)
-  - Tip for troubleshooting on Linux. You might need to create a selfsignet certificate
-  ````
-  openssl req -x509 -nodes -days 365 -subj /CN=Barrier -newkey rsa:4096 \
-   -keyout ~/.local/share/barrier/SSL/Barrier.pem \
-   -out    ~/.local/share/barrier/SSL/Barrier.pem
-  ````
-  - Tip for troubleshooting on macOS-> [Productivity -> barrier](https://github.com/Am0rphous/CheatSheets/blob/main/macOS/README.md#productivity)
+
 - [Conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X
 - [Conky-Colors](https://github.com/helmuthdu/conky_colors) - easier way to configure Conky.
 - [Docky](https://gitlab.com/docky-dock-app-linux/docky) - Docky is a full fledged dock application that makes opening common applications and managing windows easier and quicker. The official project is abandoned, so we forked it to keep the project alive.
@@ -344,6 +336,16 @@ Communicate clearly <br>
 - [Hardcode-Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - Fixes Hardcoded tray icons in Linux.
 - [Hypr](https://github.com/hyprwm/Hypr) - Hypr is a tiling window manager written in modern C++. 
 - [Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks. 
+- [Input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
+  - [Barrier [NOT maintained anymore]](https://github.com/debauchee/barrier) - Share your mouse and keyboard between computers. _Barrier is software that mimics the functionality of a KVM switch, which historically would allow you to use a single keyboard and mouse to control multiple computers by physically turning a dial on the box to switch the machine you're controlling at any given moment._
+    - [Barrier doc](https://github.com/debauchee/barrier/tree/master/doc)
+    - Tip for troubleshooting on Linux. You might need to create a selfsignet certificate
+    ````
+    openssl req -x509 -nodes -days 365 -subj /CN=Barrier -newkey rsa:4096 \
+     -keyout ~/.local/share/barrier/SSL/Barrier.pem \
+     -out    ~/.local/share/barrier/SSL/Barrier.pem
+    ````
+    - Tip for troubleshooting on macOS-> [Productivity -> barrier](https://github.com/Am0rphous/CheatSheets/blob/main/macOS/README.md#productivity)
 - [latte-dock](https://github.com/KDE/latte-dock) - Replacement dock for Plasma desktops, providing an elegant and intuitive experience for your tasks and plasmoids
 - [linux-desktop-environment-tool-cli](https://github.com/LinuxEuphony/linux-desktop-environment-tool-cli) - This script helps Debian and Ubuntu users install the below desktop environments from a list of options on a terminal menu. It also has an uninstall option for the installed desktop environments. The script will update system packages and upgrade software packages before installing or uninstalling any desktop environment. 
 - [Plank](https://github.com/ricotz/plank) - Simple dock. Configure `plank   --preferences`
