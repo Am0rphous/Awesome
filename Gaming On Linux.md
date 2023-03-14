@@ -67,6 +67,8 @@ Useful links generally
 - [Dosbox-staging](https://github.com/dosbox-staging/dosbox-staging) - Modernized DOSBox soft-fork.
 - [Itch.io](https://itch.io/) - Collection of some of the most unique, interesting, and independent creations you'll find on the web.
 - [gamejolt.com](https://gamejolt.com) - Hosting free and commercial indie games.
+- [moonlight-stream.org ](https://moonlight-stream.org/) - " Moonlight allows you to play your PC games on almost any device, whether you're in another room or miles away from your gaming rig."
+  - [Moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
 
 
 ## Peripherals
