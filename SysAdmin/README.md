@@ -726,6 +726,7 @@ upstream_recursive_servers:
       - [xfce4.sh](https://gitlab.com/kalilinux/recipes/kali-scripts/-/blob/main/xfce4.sh)
       - [Troubleshooting - xrdp immediately terminated session](https://superuser.com/questions/1262624/xrdp-immediately-terminated-session)
   - VNC (Virtual Network Computing)
+    - [Remote Ripple VNC Viewer](https://remoteripple.com/download/)
     - [TigerVNC](https://github.com/TigerVNC/tigervnc) - High performance, multi-platform VNC client and server.
     - [TightVNC](https://www.tightvnc.com)
     - [xVNC](http://xvnc.sourceforge.net/)
