@@ -25,6 +25,8 @@
 - [LibreCrypt](https://github.com/t-d-k/LibreCrypt) - LibreCrypt: Transparent on-the-fly disk encryption for Windows. LUKS compatible.
 - [openpgp.org](https://www.openpgp.org)
 - [OpenSSL](https://github.com/openssl/openssl) - TLS/SSL and crypto library.
+- [Opmsg](https://github.com/stealth/opmsg) - opmsg message encryption
+
 - [Paranoid_crypto](https://github.com/google/paranoid_crypto) - Paranoid's library contains implementations of checks for well known weaknesses on cryptographic artifacts.- [RC4](https://github.com/0xsirus/RC4) - RC4 C implementation 
 - [RSACrack](https://github.com/b4den/rsacrack) - A toolbox for extracting RSA private keys from public keys.
 - [Sirikali](https://github.com/mhogomchungu/sirikali) - A Qt/C++ GUI front end to sshfs, ecryptfs-simple, cryfs, gocryptfs, securefs, fscrypt and encfs
