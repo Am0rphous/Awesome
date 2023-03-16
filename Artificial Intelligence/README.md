@@ -114,6 +114,7 @@ Description: _Sentiment analysis (also known as opinion mining or emotion AI) is
   - [Whatsapp-chatgpt](https://github.com/askrella/whatsapp-chatgpt) - ChatGPT + DALL-E + WhatsApp = AI Assistant :rocket:
 
 - [ChatRWVK](https://github.com/BlinkDL/ChatRWVK)
+- [MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [Openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [OpenChatKit](https://github.com/togethercomputer/OpenChatKit)
 - [Project DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers. 
