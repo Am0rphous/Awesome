@@ -547,6 +547,7 @@ sudo apt-get install redshift-gtk
     - [Goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible.
     - [Hacking-With-Golang](https://github.com/AV1080p/Hacking-With-Golang) - Golang安全资源合集.
     - [LearnGo](https://github.com/inancgumus/learngo) - 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes.
+    - [Progressbar](https://github.com/schollz/progressbar) - A really basic thread-safe progress bar for Golang applications
     - [Wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 
     #### HTML
