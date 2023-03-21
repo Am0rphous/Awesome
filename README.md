@@ -207,6 +207,7 @@ Communicate clearly <br>
   ### E-mail
   - [Davmail](https://github.com/mguessan/davmail) - DavMail POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange and Office 365 Gateway - Synced with main subversion repository at
   - [ElectronMail](https://github.com/vladimiry/ElectronMail) - Unofficial ProtonMail Desktop App.
+  - [Evolution](https://wiki.gnome.org/Apps/Evolution/) - [Using iCloud calendars on Evolution and Gnome](https://ar.al/2018/08/05/using-icloud-calendars-on-gnu-linux/)
   - [Gmail Desktop](https://github.com/timche/gmail-desktop) - 📮 Nifty Gmail desktop app for macOS, Linux & Windows.
   - [Post Quantum Mail](https://github.com/swapravo/pqm-client) - Quantum-safe anonymous encrypted emails. [postquantummail.com](https://postquantummail.com)
   - [ProtonMail](https://protonmail.com/) - ProtonMail is an end-to-end encrypted email service founded in 2013 in Geneva, Switzerland by scientists who spent time at the CERN research facility. ProtonMail uses client-side encryption to protect email content and user data before they are sent to ProtonMail servers, unlike other common email providers such as Gmail and Outlook.com. [Wikipedia](https://en.wikipedia.org/wiki/ProtonMail)
