@@ -107,6 +107,7 @@ ps axu | grep "/bin/tor"
 - [Remote Desktop Manager Free](https://remotedesktopmanager.com/home/downloadfree) - Windows, Mac, Linux, Android & iOS.
 - [Shield](https://github.com/theevilbit/Shield) - An app to protect against process injection on macOS.
 - [SMCKit](https://github.com/beltex/SMCKit) - Apple SMC library & tool.
+- [Sudo-touchid](https://github.com/artginzburg/sudo-touchid) -  Permanent TouchID support 👆 for `sudo`.
 - [TB3 enabler](https://github.com/KhaosT/tb3-enabler) - Enable Thunderbolt 3 for unsupported peripherals on macOS.
 - [WhateverGreen](https://github.com/acidanthera/WhateverGreen) - Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs.
 - [WineBottler](https://winebottler.kronenberg.org) - Run .exe files on Macbook using Wine. Logfile: `~/Library/Logs/Wine.log`
