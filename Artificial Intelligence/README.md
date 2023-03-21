@@ -84,6 +84,10 @@ _Convolutional neural networks power image recognition and computer vision tasks
 - [Stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
   - [Stable-diffusion-docker](https://github.com/fboulnois/stable-diffusion-docker) - Runs the official Stable Diffusion release in a Docker container.
 
+## LLMs - Large Language Models
+- [Llama_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.
+
+
 ## Neural Networks 
 - [CNNArchitectures](https://github.com/OlafenwaMoses/CNNArchitectures) - Code implementation of major Convolutional Neural Networks.
 
