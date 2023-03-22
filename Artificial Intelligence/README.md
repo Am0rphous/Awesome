@@ -106,6 +106,8 @@ Description: _Sentiment analysis (also known as opinion mining or emotion AI) is
 - [Twitter Sentiment Visualisations](https://github.com/Lissy93/twitter-sentiment-visualisation) - The R&D of a sentiment analysis module, and the implementation of it on real-time social media data, to generate a series of live visual representations of sentiment towards a specific topic or by location in order to find trends.
 
 ## Speech
+- [Awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
+
 - [ChatGPT](https://openai.com/blog/chatgpt/)
   - [Awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT promt curation to use ChatGPT better.
   - [chat.openai.com)](https://chat.openai.com)
