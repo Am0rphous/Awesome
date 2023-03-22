@@ -1135,6 +1135,7 @@ upstream_recursive_servers:
 - [Git](https://github.com/git/git) - fast, scalable, distributed revision control system.
  - [Git For Windows](https://github.com/git-for-windows/git) - [https://gitforwindows.org](https://gitforwindows.org)
   - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) - Dynamically generated stats for your github readmes.
+- [Gdown](https://github.com/wkentaro/gdown) - Download a large file from Google Drive (curl/wget fails because of the security notice).
 - [KDU (Windows)](https://github.com/hfiref0x/KDU) - Kernel Driver Utility.
 - [RHash](https://github.com/rhash/RHash) - Great utility for computing hash sums.
 - [RipGrep-All](https://github.com/phiresky/ripgrep-all) - search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
