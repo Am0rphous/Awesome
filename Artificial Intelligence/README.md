@@ -61,6 +61,8 @@
 
 ## Design
 - [DALL·E 2](https://openai.com/dall-e-2/) - DALL·E 2 is a new AI system that can create realistic images and art from a description in natural language.
+- [Dalle-flow](https://github.com/jina-ai/dalle-flow) - 🌊 A Human-in-the-Loop workflow for creating HD images from text
+- [Dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 - [vizcom.ai](https://vizcom.ai/) - AI creative tools for artists and designers
 
  ### Face / Emotions
