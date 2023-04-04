@@ -844,6 +844,7 @@ Based on that data, you can find the most popular ones and their alternatives.
    - [Xtreme Download Manager](https://github.com/subhra74/xdm) -  Powerfull download accelerator and video downloader.
 
   ### Media Servers
+  - [AirUx](https://github.com/init1lham/AirUx/) - AirPlay For Linux
   - [Forked-daapd](https://github.com/ejurgensen/forked-daapd) - Linux/FreeBSD DAAP (iTunes) and MPD media server with support for AirPlay devices (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio. 
   - [Jellyfin](https://github.com/jellyfin/jellyfin) - Free Software Media System that puts you in control of managing and streaming your media. [jellyfin.org](https://jellyfin.org)
   - [Kodi](https://github.com/xbmc/xbmc) - award-winning free and open source home theater/media center software and entertainment hub for digital media. [kodi.tv](https://kodi.tv)
