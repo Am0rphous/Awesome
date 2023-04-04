@@ -121,6 +121,8 @@ Description: _Sentiment analysis (also known as opinion mining or emotion AI) is
   - [Chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
   - [Chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Run your own GPTChat Telegram bot, with a single command!
   - [Chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT
+  - [ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API
+
   - [Some-mitm-proxy](https://github.com/zu1k/some-mitm-proxy) - 今天的帐号额度已用完，等待重置中，欢迎 Follow 和 Star
   - [Whatsapp-chatgpt](https://github.com/askrella/whatsapp-chatgpt) - ChatGPT + DALL-E + WhatsApp = AI Assistant :rocket:
 
