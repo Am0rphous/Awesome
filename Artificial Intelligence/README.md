@@ -89,6 +89,7 @@ _Convolutional neural networks power image recognition and computer vision tasks
 ## LLMs - Large Language Models
 - [Llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [Llama_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.
+- [Open_flamingo](https://github.com/mlfoundations/open_flamingo) - An open-source framework for training large multimodal models
 - [Pytorch-check](https://github.com/clevcode/pytorch-check) - Check PyTorch models for unsafe code
 
 
