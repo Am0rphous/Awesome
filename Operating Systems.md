@@ -195,9 +195,14 @@ distribution into a Live Kit (formely known as Live CD).
 - [Parrot](https://www.parrotsec.org) - designed for penetration testing, vulnerability assessment and mitigation, computer forensics and anonymous web browsing. 
 - [Trace Labs OSINT Linux Distribution based on Kali](https://github.com/tracelabs/tlosint-live) 
 
-### Old Releases
-- [Old Ubuntu Releases](https://old-releases.ubuntu.com/releases/)
-- [kraxel.org/repos/images/](https://www.kraxel.org/repos/images/) - Qemu images from 2019, for centos 7, 8 and fedora 30, 31 and 33.
+  ### Old Releases
+  - [Old Ubuntu Releases](https://old-releases.ubuntu.com/releases/)
+  - [kraxel.org/repos/images/](https://www.kraxel.org/repos/images/) - Qemu images from 2019, for centos 7, 8 and fedora 30, 31 and 33.
+
+  ### Vulnerable VMs and OSes
+  - later; https://andreafortuna.org/2020/07/22/vulnerable-webapps-and-vms-for-penetration-testing-practice-my-own-list/
+  - https://www.rapid7.com/blog/post/2011/12/23/where-can-i-find-vulnerable-machines-for-my-penetration-testing-lab/
+
 
 ## Router and Firewall OSes
 - [Alpine Linux](https://www.alpinelinux.org) - [Alpine Gitlab](https://gitlab.alpinelinux.org)
