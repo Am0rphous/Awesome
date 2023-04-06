@@ -27,6 +27,7 @@ _Considering key questions:_
     - [Android-based Operating Systems](#android-based-operating-systems)
 - [Minimal and Lightweight](#minimal-and-lightweight)
 - [Pen-testing and security auditing](#pen-testing-and-security-auditing)
+  - [Old Releases](#old-releases)
 - [Router and Firewall OSes](#router-and-firewall-oses)
 - [Server OSes](#server-oses)
   - [NAS](#nas)
@@ -180,6 +181,8 @@ distribution into a Live Kit (formely known as Live CD).
 - [Puppy Linux](https://puppylinux.com/)
 - [SliTaz](https://www.slitaz.org/en/) - SliTaz is a secure and high performance operating system using the Linux Kernel and GNU software.
 - [Tiny Core Linux](http://tinycorelinux.net/welcome.html) - full Linux desktop in 22 MB. Unlike most operating systems, the Tiny Core can run completely from RAM. 
+- Ubuntu Minimal
+  - [Focal](https://cloud-images.ubuntu.com/minimal/releases/focal/release/)
 
 ## Pen-testing and security auditing
 - [Athena OS](https://github.com/Athena-OS/athena-iso) - Athena is a Arch Linux-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
@@ -191,6 +194,9 @@ distribution into a Live Kit (formely known as Live CD).
 - [Parrot](https://www.parrotsec.org) - designed for penetration testing, vulnerability assessment and mitigation, computer forensics and anonymous web browsing. 
 - [Trace Labs OSINT Linux Distribution based on Kali](https://github.com/tracelabs/tlosint-live) 
 
+### Old Releases
+- [Old Ubuntu Releases](https://old-releases.ubuntu.com/releases/)
+- [kraxel.org/repos/images/](https://www.kraxel.org/repos/images/) - Qemu images from 2019, for centos 7, 8 and fedora 30, 31 and 33.
 
 ## Router and Firewall OSes
 - [Alpine Linux](https://www.alpinelinux.org) - [Alpine Gitlab](https://gitlab.alpinelinux.org)
