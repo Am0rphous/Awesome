@@ -87,6 +87,7 @@
 
 ## File Analysis
 - [Debsums](https://manpages.ubuntu.com/manpages/trusty/man1/debsums.1.html) - check the MD5 sums of installed Debian packages.
+- [inotifywait](https://linux.die.net/man/1/inotifywait) - inotify-tools is a C library and a set of command-line tools providing an interface to the Linux inotify file notification system. [source](https://sourceforge.net/projects/inotify-tools/)
 - [tree](https://github.com/kddnewton/tree) - Implementations of the unix tree command 
 - [TrID](https://mark0.net/soft-trid-e.html) -  Identify file types from their binary signatures. Win32, Linux 32/64-bit
   - [Online TrID File Identifier](https://mark0.net/onlinetrid.html) - Size <= 10 MB.
@@ -96,14 +97,18 @@
   ````powershell
   xxd file.txt
   ````
-  
   ### Commands (Usually default)
-  ````
-  file            # determine file type. E.g. "file word.doc"
-  hexdump         # ascii, decimal, hexadecimal, octal dump
-  stat            # display file or file system status.
-  strings         # print the sequences of printable characters in files
-  ````
+````
+auditd
+file            # determine file type. E.g. "file word.doc"
+filemon
+hexdump         # ascii, decimal, hexadecimal, octal dump
+lsof
+stat            # display file or file system status.
+strace
+strings         # print the sequences of printable characters in files
+sysdig
+````
 
 ## Firmware
 - [Binwalk](https://github.com/ReFirmLabs/binwalk) - Binwalk is a fast, easy to use tool for analyzing, reverse engineering, and extracting firmware images.
