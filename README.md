@@ -1064,6 +1064,7 @@ that works on top of your local folder of plain text files. [github](https://git
     - [Pomodoro Logger](https://github.com/zxch3n/PomodoroLogger) - Pomodoro Logger 🕤 -- When a time tracker meets Pomodoro and Kanban board.
   - [Safe Eyes](https://github.com/slgobinath/SafeEyes) - Protect your eyes from eye strain using this simple and beautiful, yet extensible break reminder.
   - [Stretchly](https://github.com/hovancik/stretchly) - The break time reminder app 
+  - [Termdown](https://github.com/trehn/termdown) - Countdown timer and stopwatch in your terminal
   - [Tockler](https://github.com/MayGo/tockler) - Application that tracks your time by monitoring your active windows (only titles) and idle time. 
   - [Tui.calendar](https://github.com/nhn/tui.calendar) - JavaScript calendar that has everything you need.
   - [WNR](https://github.com/RoderickQiu/wnr) - It's a time-management tool for computers. Work and rest, with wnr now. (P.S.: being fed up of my heavy study work and an private Android project, I might not be able to response quickly).
