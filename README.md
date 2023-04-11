@@ -510,6 +510,7 @@ sudo apt-get install redshift-gtk
   ### Linux
   - [Akira](https://github.com/akiraux/Akira) - Native Linux App for UI and UX Design built in Vala and GTK.
   - [bauh](https://github.com/vinifmor/bauh) - Graphical user interface for managing your Linux applications. Supports AppImage, Arch packages (including AUR), Debian packages, Flatpak, Snap and native Web applications 
+  - [Gnome-shell-extension-appindicator](https://github.com/ubuntu/gnome-shell-extension-appindicator) - Adds KStatusNotifierItem support to the Shell
   - [Inspirational designs for Linux apps](https://dribbble.com/tags/linux_app)
   - [Make Apps for Linux](https://makealinux.app/#/)
   - [Sommelier-core](https://github.com/snapcrafters/sommelier-core) - Package a Windows application for Linux using a Snap with Wine.
