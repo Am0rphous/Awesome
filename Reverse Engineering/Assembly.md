@@ -64,16 +64,6 @@ add eax,[esp+4]                 "adds the value on the stack 4 bytes above the s
 xor eax, eax      #Clears the EAX register. Faster and more efficient way of setting eax to zero. 
 ````
 
-## Registers
-- EAX
-- EBX
-- ECX
-- EDX
-- ESI
-- EDI
-- EBP
-- ESP
-- EIP   Execution Pointer. Only register that cant be used as an operand.
 
 ## Assemblers
 - [NASM, the Netwide Assembler](https://github.com/netwide-assembler/nasm) - A cross-platform x86 assembler with an Intel-like syntax.
