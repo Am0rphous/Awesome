@@ -60,6 +60,9 @@ Useful links generally
    - [Urban Terror](https://www.urbanterror.info/home/)
    - [Warsow - Warsow is Art of Respect and Sportsmanship Over the Web](https://warsow.net/) - Since 2005, Warsow is considered as one of the most skill-demanding games in the fast-paced arena shooter scene.[Discord](https://discord.com/invite/Z9UgZZM)
 
+  ### Servers
+  - [Linux Game Server Managers](https://linuxgsm.com/) - The command-line tool for quick, simple deployment and management of Linux dedicated game servers.
+
 ## Nice to know
 - [GameMode](https://github.com/FeralInteractive/gamemode) - Optimise Linux system performance on demand
 - [ScummVM](https://github.com/scummvm/scummvm) - program which allows you to run certain classic graphical point-and-click adventure games and role-playing games, provided you already have their data files. [www.scummvm.org](https://www.scummvm.org/) & [supported Games](https://wiki.scummvm.org/index.php?title=Category:Supported_Games)
