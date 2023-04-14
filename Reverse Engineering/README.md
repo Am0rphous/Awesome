@@ -131,9 +131,11 @@ Description: Used to manipulate the execution of a program to get intel on what 
   - [VMAttack](https://github.com/anatolikalysch/VMAttack) - VMAttack PlugIn for IDA Pro
 - [HyperDbg](https://github.com/HyperDbg/HyperDbg) - State-of-the-art native debugging tool
 - [ttddbg - Time Travel Debugging IDA plugin](https://github.com/airbus-cert/ttddbg) - Time Travel Debugging IDA plugin 
-- GDB
+- GDB - Linux: `sudo apt install gdb` and on macOS `brew install gdb`
+- [OnlineGDB.com](https://www.onlinegdb.com/)
   - [GDB dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python.
-  - Syntax
+  - [Gdb GUI](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
+  - Basic syntax
 ````
 gdb
 gdb remmina
@@ -143,6 +145,7 @@ q
 ````
 - [GEF](https://github.com/hugsy/gef) - GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers.
   - [GEF by bata24](https://github.com/bata24/gef) - GDB Enhanced Features for exploit devs & reversers.
+- [Kdbg](https://github.com/j6t/kdbg) - A Graphical Debugger Interface around GDB
 - [OllyDbg](http://www.ollydbg.de/)
 - [OpenOCD](http://openocd.org/) - open-source tool that allows debugging various ARM devices with GDB using a wide variety of JTAG programmers.
   - [JTAG Explained tutorial](https://blog.senr.io/blog/jtag-explained)
