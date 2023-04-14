@@ -145,7 +145,7 @@ q
 ````
 - [GEF](https://github.com/hugsy/gef) - GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers.
   - [GEF by bata24](https://github.com/bata24/gef) - GDB Enhanced Features for exploit devs & reversers.
-- [Kdbg](https://github.com/j6t/kdbg) - A Graphical Debugger Interface around GDB
+- [Kdbg](https://github.com/j6t/kdbg) - A Graphical Debugger Interface around GDB - [kdbg.org](https://www.kdbg.org)
 - [OllyDbg](http://www.ollydbg.de/)
 - [OpenOCD](http://openocd.org/) - open-source tool that allows debugging various ARM devices with GDB using a wide variety of JTAG programmers.
   - [JTAG Explained tutorial](https://blog.senr.io/blog/jtag-explained)
