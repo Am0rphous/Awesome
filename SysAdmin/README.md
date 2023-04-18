@@ -278,6 +278,7 @@ bro / zeek
   - [Fortiguard onlinescanner](https://www.fortiguard.com/faq/onlinescanner)
   - [Hybrid-Analysis](https://www.hybrid-analysis.com/) - free malware analysis service.
   - [Intezer Analyze](https://analyze.intezer.com/sign-in)
+  - [joesandbox]([joesandbox](https://www.joesandbox.com))
   - [Jotti's malware scan](https://virusscan.jotti.org/)
   - [Kyspersky Viruscheck](https://opentip.kaspersky.com/)
   - [MetaDefender](https://metadefender.opswat.com/?lang=en)
