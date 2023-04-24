@@ -27,6 +27,7 @@
 
 ## Buying Linux Computers
 - [Framework Laptop](https://frame.work/)
+- [malibal.com](https://www.malibal.com/)
 - [Purism](https://puri.sm)
 - [Tuxedo](https://www.tuxedocomputers.com)
   - [Check out TUXEDO InfinityBook Pro 14 - Gen7](https://www.tuxedocomputers.com/en/TUXEDO-InfinityBook-Pro-14-Gen7.tuxedo)
