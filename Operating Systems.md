@@ -27,7 +27,7 @@ _Considering key questions:_
     - [Android-based Operating Systems](#android-based-operating-systems)
 - [Minimal and Lightweight](#minimal-and-lightweight)
 - [Pen-testing and security auditing](#pen-testing-and-security-auditing)
-  - [Old Releases](#old-releases)
+  - [Old OS Releases](#old-os-releases)
   - [Vulnerable VMs and OSes](#vulnerable-vms-and-oses)
 - [Router and Firewall OSes](#router-and-firewall-oses)
 - [Server OSes](#server-oses)
@@ -195,10 +195,11 @@ distribution into a Live Kit (formely known as Live CD).
 - [Parrot](https://www.parrotsec.org) - designed for penetration testing, vulnerability assessment and mitigation, computer forensics and anonymous web browsing. 
 - [Trace Labs OSINT Linux Distribution based on Kali](https://github.com/tracelabs/tlosint-live) 
 
-  ### Old Releases
+  ### Old OS Releases
   - [virtualboxes.org/images](https://virtualboxes.org/images/) - Arch, Centos, DSL, loooots of old OSes.
   - [Old Ubuntu Releases](https://old-releases.ubuntu.com/releases/)
   - [kraxel.org/repos/images/](https://www.kraxel.org/repos/images/) - Qemu images from 2019, for centos 7, 8 and fedora 30, 31 and 33.
+  - [Windows XP 64-bit](https://archive.org/details/windowsxpprox64english) - Serial `B2RBK-7KPT9-4JP6X-QQFWM-PJD6G `
 
   ### Vulnerable VMs and OSes
   - [raspwn.org](http://raspwn.org) - Welcome to RasPwn OS, The intentionally vulnerable image for the Raspberry Pi.
