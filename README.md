@@ -485,6 +485,8 @@ sudo apt-get install redshift-gtk
   - [100+ Awesome Free Icons Sets by designwall.com](https://www.designwall.com/blog/100-awesome-free-icons-sets/)
   - [ Apple Color Emoji for Linux ](https://github.com/samuelngs/apple-emoji-linux)
   - [Cloud Security Icons](https://github.com/aquasecurity/cloudsec-icons) - A collection of cloud security icons ☁️🔒
+  - [Dashboard-icons](https://github.com/walkxcode/dashboard-icons) - 🚀 The best place to find icons for your dashboards.
+
   - [EmojiPedia.org](https://emojipedia.org/)
   - [Emote](https://github.com/tom-james-watson/Emote) - Emoji Picker for Linux written in GTK3.
   - [Fontawesome.com's icons](https://fontawesome.com/v4.7/icons/)
