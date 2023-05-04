@@ -89,6 +89,7 @@
 - [Web and Proxy Tools](#web-and-proxy-tools)
   - [Certificates](#certificates)
   - [Security](#security)
+  - [WAF](#waf)
   - [Web Hosting Services worth checking out](#web-hosting-services-worth-checking-out)
   - [Web Analytics](#web-analytics)
   - [Web Development Tools](#web-development-tools)
@@ -493,7 +494,6 @@ lsscsi                          #Print SCSI Devices Info
 
 
 ### Firewall
-- [GoTestWAF](https://github.com/wallarm/gotestwaf) - An open-source project in Golang to test different web application firewalls (WAF) for detection logic and bypasses.
 - [HiddenWall](https://github.com/CoolerVoid/HiddenWall) - Tool to generate a Linux kernel module for custom rules with Netfilter hooking. (block ports, Hidden mode, firewall functionst).
 - iptables
   - [iptables-essentials](https://github.com/trimstray/iptables-essentials) -  Iptables Essentials: Common Firewall Rules and Commands.
@@ -1385,7 +1385,6 @@ upstream_recursive_servers:
 - [Lwan Web Server](https://github.com/lpereira/lwan) - Experimental, scalable, high performance HTTP server.
 - [MkChain](https://github.com/trimstray/mkchain) -  Open source tool to help you build a valid SSL certificate chain.
 - [NginX](https://nginx.org/en/) - an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server.
-  - [Naxsi](https://github.com/nbs-system/naxsi) - NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX
   - [Ngx_security_headers](https://github.com/GetPageSpeed/ngx_security_headers) - NGINX Module for sending security headers
 - [docker-swag](https://github.com/linuxserver/docker-swag) - Nginx webserver and reverse proxy with php support and a built-in Certbot (Let's Encrypt) client. It also contains fail2ban for intrusion prevention. 
   - [Luzifer / nginx-sso](https://github.com/Luzifer/nginx-sso) - SSO authentication provider for the auth_request nginx module.
@@ -1448,7 +1447,12 @@ upstream_recursive_servers:
     - [OWASP ModSecurity Core Rule Set (CRS)](https://github.com/coreruleset/coreruleset) - OWASP ModSecurity Core Rule Set (Official Repository) - [Installation](https://coreruleset.org/installation/)
 
   ### WAF
+  - [GoTestWAF](https://github.com/wallarm/gotestwaf) - An open-source project in Golang to test different web application firewalls (WAF) for detection logic and bypasses.
   - [ML-based-WAF](https://github.com/vladan-stojnic/ML-based-WAF) - Simple machine learning based web application firewall (WAF) created in python
+   - [Naxsi](https://github.com/nbs-system/naxsi) - NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX
+   - [Shadowd](https://github.com/zecure/shadowd) - The Shadow Daemon web application firewall server
+     - [Shadowdctl](https://github.com/zecure/shadowdctl) - A simple docker-compose wrapper to manage Shadow Daemon installations
+
 
 
   ### Web Hosting Services worth checking out
