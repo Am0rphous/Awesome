@@ -118,6 +118,7 @@ Description: _Sentiment analysis (also known as opinion mining or emotion AI) is
 - [Awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
 
 - [ChatGPT](https://openai.com/blog/chatgpt/)
+  - [Awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
   - [Awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT promt curation to use ChatGPT better.
   - [chat.openai.com)](https://chat.openai.com)
   - [ChatGPT](https://github.com/lencx/ChatGPT) - 🤖 ChatGPT Desktop Application (Mac, Windows and Linux)
