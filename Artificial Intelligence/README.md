@@ -121,6 +121,8 @@ Description: _Sentiment analysis (also known as opinion mining or emotion AI) is
   - [Chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the unofficial ChatGPT API. 🔥
     - [ChatGPT - api reversing](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
    - [Chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI
+   - [Plugins-quickstart](https://github.com/openai/plugins-quickstart) - Get a ChatGPT plugin up and running in under 5 minutes!
+
   - [ChatGPT-Gnome-Desktop-Extension](https://github.com/HorrorPills/ChatGPT-Gnome-Desktop-Extension) - ChatGPT Gnome Desktop Extension | Talk with ChatGPT from your menubar!
   - [Chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
   - [Chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Run your own GPTChat Telegram bot, with a single command!
