@@ -1447,6 +1447,10 @@ upstream_recursive_servers:
   - ModSecurity
     - [OWASP ModSecurity Core Rule Set (CRS)](https://github.com/coreruleset/coreruleset) - OWASP ModSecurity Core Rule Set (Official Repository) - [Installation](https://coreruleset.org/installation/)
 
+  ### WAF
+  - [ML-based-WAF](https://github.com/vladan-stojnic/ML-based-WAF) - Simple machine learning based web application firewall (WAF) created in python
+
+
   ### Web Hosting Services worth checking out
   - [000webhost.com](https://www.000webhost.com)
   - [Hetzner Cloud](https://www.hetzner.com/cloud)
