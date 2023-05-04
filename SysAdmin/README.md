@@ -1385,6 +1385,7 @@ upstream_recursive_servers:
 - [Lwan Web Server](https://github.com/lpereira/lwan) - Experimental, scalable, high performance HTTP server.
 - [MkChain](https://github.com/trimstray/mkchain) -  Open source tool to help you build a valid SSL certificate chain.
 - [NginX](https://nginx.org/en/) - an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server.
+  - [Naxsi](https://github.com/nbs-system/naxsi) - NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX
   - [Ngx_security_headers](https://github.com/GetPageSpeed/ngx_security_headers) - NGINX Module for sending security headers
 - [docker-swag](https://github.com/linuxserver/docker-swag) - Nginx webserver and reverse proxy with php support and a built-in Certbot (Let's Encrypt) client. It also contains fail2ban for intrusion prevention. 
   - [Luzifer / nginx-sso](https://github.com/Luzifer/nginx-sso) - SSO authentication provider for the auth_request nginx module.
