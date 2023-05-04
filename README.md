@@ -179,6 +179,8 @@ Communicate clearly <br>
     ````
 - [Microsoft Temas](https://www.microsoft.com/nb-no/microsoft-teams/download-app) - Linux, Mac, Windows, ios, android
   - [clear_cache_MS_Teams.sh](https://gist.github.com/mrcomoraes/c83a2745ef8b73f9530f2ec0433772b7)
+  - [Teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux) - Unofficial Microsoft Teams for Linux client
+
 - [Openfire](https://igniterealtime.org/projects/openfire/) - Openfire is a real time collaboration (RTC) server licensed under the Open Source Apache License. It uses the only widely adopted open protocol for instant messaging, XMPP Openfire is incredibly easy to setup and administer, but offers rock-solid security and performance. [Github](https://github.com/igniterealtime/Openfire)
 - [p2p.chat](https://github.com/tom-james-watson/p2p.chat) - p2p video conferencing powered by WebRTC.
 - [Rambox](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
