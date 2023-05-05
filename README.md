@@ -535,7 +535,8 @@ sudo apt-get install redshift-gtk
   - [Nest](https://github.com/MLX15/nestjs) - A progressive Node.js framework for building efficient and scalable server-side applications.
   - [Sonarqube](https://github.com/SonarSource/sonarqube) - Continuous Inspection
   - [Tokei](https://github.com/XAMPPRocky/tokei) - Tokei is a program that displays statistics about your code. Tokei will show the number of files, total lines within those files and code, comments, and blanks grouped by language.
-  
+  - [Yaklang](https://github.com/yaklang/yaklang) - A programming language exclusively designed for cybersecurity
+
     #### C++
     - [Awesome C++](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. 
     - [Imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
