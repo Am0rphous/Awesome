@@ -51,6 +51,8 @@
 - [Pyodi](https://github.com/Gradiant/pyodi) - Python Object Detection Insights.
 - [Strawberries](https://github.com/alexlouden/strawberries) - Computer vision on 🍓.
 - [Taming Transformers for High-Resolution Image Synthesis](https://github.com/CompVis/taming-transformers) - Taming Transformers for High-Resolution Image Synthesis.
+- [Track-Anything](https://github.com/gaomingqi/Track-Anything) - Track-Anything is a flexible and interactive tool for video object tracking and segmentation, based on Segment Anything, XMem, and E2FGVI.
+
 - [Traffic-Net](https://github.com/OlafenwaMoses/Traffic-Net) - A dataset of traffic, fire and accident images for training deep learning models.
 - [Yolov4-deepsort by theAIGuysCode ](https://github.com/theAIGuysCode/yolov4-deepsort) - Object tracking implemented with YOLOv4, DeepSort, and TensorFlow.
   - [Roboflow Object Tracking Example](https://github.com/roboflow-ai/zero-shot-object-tracking) - Object tracking implemented with the Roboflow Inference API, DeepSort, and OpenAI CLIP.
