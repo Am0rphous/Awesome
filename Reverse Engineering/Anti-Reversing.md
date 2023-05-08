@@ -4,8 +4,10 @@
 - [Artfuscator](https://github.com/JuliaPoo/Artfuscator) - A C compiler targeting an artistically pleasing nightmare for reverse engineers
 - [BeatRev](https://github.com/Octoberfest7/BeatRev) - POC for frustrating/defeating Malware Analysts 
 - [Ekko](https://github.com/Cracked5pider/Ekko) - Sleep Obfuscation 
+- GetTickCount - [msdn GetTickCount function (sysinfoapi.h)](https://learn.microsoft.com/nb-no/windows/win32/api/sysinfoapi/nf-sysinfoapi-gettickcount?redirectedfrom=MSDN) - [Ticked Off: Upatre Malware’s Simple Anti-analysis Trick to Defeat Sandboxes](https://unit42.paloaltonetworks.com/ticked-off-upatre-malwares-simple-anti-analysis-trick-to-defeat-sandboxes/)
 - [REpsych](https://github.com/Battelle/REpsych) - Psychological warfare in reverse engineering
 - [The Anti-Analysis Menagerie](https://github.com/ex0dus-0x/menagerie) - Cross-platform malware development library for anti-analysis techniques 
+- [Virtualization/Sandbox Evasion ](https://attack.mitre.org/techniques/T1497/) - System- user activity and time based checks.
 
 ## Low Level Virtual Machine (LLVM)
 - [llvm.org](https://llvm.org/)
