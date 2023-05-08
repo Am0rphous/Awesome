@@ -418,6 +418,8 @@ bro / zeek
 - [Flying Carpet](https://github.com/spieglt/FlyingCarpet) - Encrypted file transfer over ad hoc WiFi. No network infrastructure required, just two laptops in close range. Linux, Mac, and Windows.
 - [Forban](https://github.com/adulau/Forban) - Forban is a p2p application for link-local and local area networks. Forban works independently from the Internet and uses only the local area capabilities to announce, discover, search or share files. Forban relies on HTTP and it is "opportunistic". http://www.foo.be/forban
 - [Ksmbd](https://github.com/namjaejeon/ksmbd) - ksmbd kernel server(SMB/CIFS server)
+- [Magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
+
 - [Muon SSH Terminal/SFTP client (Formerly Snowflake)](https://github.com/subhra74/snowflake) -  Graphical SFTP client and terminal emulator with helpful utilities.
 - [OpenDrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python.
 - [OnionShare](https://github.com/micahflee/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network [onionshare.org](https://onionshare.org).
