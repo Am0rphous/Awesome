@@ -206,6 +206,7 @@ Communicate clearly <br>
 - [YakYak](https://github.com/yakyak/yakyak) - Desktop chat client for Google Hangouts.
 - [Zulip](https://zulip.com/) - Chat for distributed teams. Slack alternative. [Github](https://github.com/zulip)
 
+
   ### E-mail
   - [Davmail](https://github.com/mguessan/davmail) - DavMail POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange and Office 365 Gateway - Synced with main subversion repository at
   - [ElectronMail](https://github.com/vladimiry/ElectronMail) - Unofficial ProtonMail Desktop App.
@@ -215,6 +216,7 @@ Communicate clearly <br>
   - [ProtonMail](https://protonmail.com/) - ProtonMail is an end-to-end encrypted email service founded in 2013 in Geneva, Switzerland by scientists who spent time at the CERN research facility. ProtonMail uses client-side encryption to protect email content and user data before they are sent to ProtonMail servers, unlike other common email providers such as Gmail and Outlook.com. [Wikipedia](https://en.wikipedia.org/wiki/ProtonMail)
   - [Prospect Mail client](https://github.com/julian-alarcon/prospect-mail) - Prospect is an Outlook mail desktop client powered by Electron.
   - [Roundcube Webmail](https://github.com/roundcube/roundcubemail) - [roundcube.net](https://roundcube.net)
+  - [simplelogin.io](https://simplelogin.io/) - Receive and send emails anonymously. With email aliases, you can be anonymous online and protect your inbox against spams and phishing. Open source. Made and hosted in Europe.
   - [Thunderbird](https://www.thunderbird.net)
     - [Thunderbird Extensions](ps://addons.thunderbird.net)
       - [DeepDark for Thunderbird](https://addons.thunderbird.net/thunderbird/addon/deepdark-for-thunderbird/?src=cb-dl-rating) - Dark mode for Thunderbird UI.
