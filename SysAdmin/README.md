@@ -1181,6 +1181,7 @@ upstream_recursive_servers:
   - [power-profiles-daemon](https://gitlab.freedesktop.org/hadess/power-profiles-daemon) - Makes power profiles handling available over D-Bus.
   - [PowerStat](https://launchpad.net/~colin-king/+archive/ubuntu/powermanagement) - Various tools and utilities to help measure power consumption and monitor system activity.
   - [PowerTop](https://github.com/fenrus75/powertop) - Tool used to diagnose issues with power consumption and power management.
+  - [PreLoad](https://sourceforge.net/projects/preload/) - `sudo apt install preload && sudo systemctl enable preload` preload is an adaptive readahead daemon. It monitors applications that users run, and by analyzing this data, predicts what applications users might run, and fetches those binaries and their dependencies into memory for faster startup times.
   - [TLP](https://github.com/linrunner/TLP) - Optimize Linux Laptop Battery Life.
     Usefull commands
     ````powershell
