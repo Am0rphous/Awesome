@@ -7,7 +7,7 @@
 - [2. Gaming on Linux](#2-gaming-on-linux)
   - [Games](#games)
   - [Serving](#serving)
-- [3. Peripherals & Hardware](#4-peripherals-&-hardware)
+- [3. Peripherals & Hardware](#3-peripherals--hardware)
 
 <br>
 
