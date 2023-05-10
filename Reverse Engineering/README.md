@@ -135,7 +135,8 @@ Description: Used to manipulate the execution of a program to get intel on what 
   - [OnlineGDB.com](https://www.onlinegdb.com/)
   - [GDB dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python.
   - [Gdb GUI](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
-  - Basic syntax
+  - [Gdb-peda-pwndbg-gef](https://github.com/apogiatzis/gdb-peda-pwndbg-gef) - A script to automatically install Peda+pwndbg+GEF plugins for gdb
+  - Basic syntax for gdb when using the program "remmina"
 ````
 gdb
 gdb remmina
