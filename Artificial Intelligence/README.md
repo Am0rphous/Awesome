@@ -13,7 +13,7 @@
 - [AirSim](https://github.com/microsoft/airsim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft.
 - [Awesome-AI](https://github.com/t3l3machus/Awesome-AI) - null
 - [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
-
+- [CNNArchitectures](https://github.com/OlafenwaMoses/CNNArchitectures) - Code implementation of major Convolutional Neural Networks.
 - [ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making big AI models cheaper, easier, and more scalable
 - [DeepPavlov](https://github.com/deepmipt/DeepPavlov) - An open source library for deep learning end-to-end dialog systems and chatbots.
 - [DeepStack](https://github.com/johnolafenwa/DeepStack) - The World's Leading Cross Platform AI Engine for Edge Devices.
@@ -22,6 +22,7 @@
 - [Fairseq](https://github.com/pytorch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [Malmo](https://github.com/microsoft/malmo) - Project Malmo is a platform for Artificial Intelligence experimentation and research built on top of Minecraft. 
 - [OpenCog](https://github.com/opencog/opencog) - A framework for integrated Artificial Intelligence & Artificial General Intelligence (AGI) 
+- [Pytorch-check](https://github.com/clevcode/pytorch-check) - Check PyTorch models for unsafe code
 - [Ruby Warrior](https://github.com/ryanb/ruby-warrior) - Game written in Ruby for learning Ruby and artificial intelligence. 
 - [Serenata De Amor](https://github.com/okfn-brasil/serenata-de-amor) - Artificial Intelligence for social control of public administration
 - [Serpent.AI ](https://github.com/serpentai/serpentai) -  Game Agent Framework. Helping you create AIs / Bots that learn to play any game you own! 
@@ -95,32 +96,7 @@ _Convolutional neural networks power image recognition and computer vision tasks
 - [Stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
   - [Stable-diffusion-docker](https://github.com/fboulnois/stable-diffusion-docker) - Runs the official Stable Diffusion release in a Docker container.
 
-## LLMs - Large Language Models
-- [Llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
-- [Llama_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.
-- [Open_flamingo](https://github.com/mlfoundations/open_flamingo) - An open-source framework for training large multimodal models
-- [Open_llama](https://github.com/openlm-research/open_llama)
-
-- [Pytorch-check](https://github.com/clevcode/pytorch-check) - Check PyTorch models for unsafe code
-
-
-## Neural Networks 
-- [CNNArchitectures](https://github.com/OlafenwaMoses/CNNArchitectures) - Code implementation of major Convolutional Neural Networks.
-
-### Tensorflow
-- [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) - TensorFlow - A curated list of dedicated resources [tensorflow.org](http://tensorflow.org).
-- [Tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone.
-- [FaceRank](https://github.com/fendouai/FaceRank) - FaceRank - Rank Face by CNN Model based on TensorFlow (add keras version). FaceRank-人脸打分基于 TensorFlow (新增 Keras 版本) 的 CNN 模型（QQ群：167122861）。技术支持：[http://tensorflow123.com](http://tensorflow123.com).
-- [PerceptiLabs](https://github.com/PerceptiLabs/PerceptiLabs) - As a visual API, PerceptiLabs sits on top of TensorFlow and other APIs.
-
-## Sentiment Analysis
-Description: _Sentiment analysis (also known as opinion mining or emotion AI) is the use of natural language processing, text analysis, computational linguistics, and biometrics to systematically identify, extract, quantify, and study affective states and subjective information_ [Wikipedia](https://en.wikipedia.org/wiki/Sentiment_analysis)
-- [Docker Container wallstreetbets-sentiment-analysis](https://github.com/asad70/wallstreetbets-sentiment-analysis)
-- [FastText](https://github.com/facebookresearch/fastText) -  Library for fast text representation and classification.
-- [Napkin-text-analysis](https://github.com/adulau/napkin-text-analysis) - Napkin is a simple tool to produce statistical analysis of a text.
-- [Twitter Sentiment Visualisations](https://github.com/Lissy93/twitter-sentiment-visualisation) - The R&D of a sentiment analysis module, and the implementation of it on real-time social media data, to generate a series of live visual representations of sentiment towards a specific topic or by location in order to find trends.
-
-## Speech
+## LLMs - Large Language Models / Speech
 - [Awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
 
 - [ChatGPT](https://openai.com/blog/chatgpt/)
@@ -146,12 +122,15 @@ Description: _Sentiment analysis (also known as opinion mining or emotion AI) is
   - [Whatsapp-chatgpt](https://github.com/askrella/whatsapp-chatgpt) - ChatGPT + DALL-E + WhatsApp = AI Assistant :rocket:
 
 - [ChatRWVK](https://github.com/BlinkDL/ChatRWVK)
+- [EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft's Bing Chat AI
+
 - [FastChat](https://github.com/lm-sys/FastChat) - The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
 - [Gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue.
   - [Gpt4all.cpp](https://github.com/zanussbaum/gpt4all.cpp) - Locally run an Assistant-Tuned Chat-Style LLM
 - [Gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
 - [Gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - This is a replication project for the typescript version of xtekky/gpt4free
-
+- [Llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
+- [Llama_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.
 - [Micro-gpt](https://github.com/muellerberndt/micro-gpt) - A minimal generic autonomous agent based on GPT3.5/4. Can analyze stock prices, perform network security tests, create art, and order pizza.
 - [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models
 
@@ -160,10 +139,28 @@ Description: _Sentiment analysis (also known as opinion mining or emotion AI) is
 
 - [Openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [OpenChatKit](https://github.com/togethercomputer/OpenChatKit)
+- [Open_flamingo](https://github.com/mlfoundations/open_flamingo) - An open-source framework for training large multimodal models
+- [Open_llama](https://github.com/openlm-research/open_llama)
 - [Project DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers. 
 - [TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [Whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
   - [Whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
+
+
+### Tensorflow
+- [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) - TensorFlow - A curated list of dedicated resources [tensorflow.org](http://tensorflow.org).
+- [Tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone.
+- [FaceRank](https://github.com/fendouai/FaceRank) - FaceRank - Rank Face by CNN Model based on TensorFlow (add keras version). FaceRank-人脸打分基于 TensorFlow (新增 Keras 版本) 的 CNN 模型（QQ群：167122861）。技术支持：[http://tensorflow123.com](http://tensorflow123.com).
+- [PerceptiLabs](https://github.com/PerceptiLabs/PerceptiLabs) - As a visual API, PerceptiLabs sits on top of TensorFlow and other APIs.
+
+## Sentiment Analysis
+Description: _Sentiment analysis (also known as opinion mining or emotion AI) is the use of natural language processing, text analysis, computational linguistics, and biometrics to systematically identify, extract, quantify, and study affective states and subjective information_ [Wikipedia](https://en.wikipedia.org/wiki/Sentiment_analysis)
+- [Docker Container wallstreetbets-sentiment-analysis](https://github.com/asad70/wallstreetbets-sentiment-analysis)
+- [FastText](https://github.com/facebookresearch/fastText) -  Library for fast text representation and classification.
+- [Napkin-text-analysis](https://github.com/adulau/napkin-text-analysis) - Napkin is a simple tool to produce statistical analysis of a text.
+- [Twitter Sentiment Visualisations](https://github.com/Lissy93/twitter-sentiment-visualisation) - The R&D of a sentiment analysis module, and the implementation of it on real-time social media data, to generate a series of live visual representations of sentiment towards a specific topic or by location in order to find trends.
+
+
 
 ## Web
 - [Cogito-ntnu.no](https://cogito-ntnu.no)
