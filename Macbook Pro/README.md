@@ -136,6 +136,8 @@ ps axu | grep "/bin/tor"
   
   ### Package Managers
   - [Brew / HomeBrew](https://brew.sh/) - Package Manager for Linux and MacOS.
+    - [Homebrew-autoupdate](https://github.com/Homebrew/homebrew-autoupdate) - :tropical_drink: An easy, convenient way to automatically update Homebrew.
+
   - [Brew Documentation](https://docs.brew.sh)
   - Quick install:
    ````
