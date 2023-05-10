@@ -67,7 +67,7 @@
   - [Linux Game Server Managers](https://linuxgsm.com/) - The command-line tool for quick, simple deployment and management of Linux dedicated game servers.
 
 
-## Peripherals & Hardware
+## 3. Peripherals & Hardware
 - [AntiMicro](https://github.com/AntiMicro/antimicro) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
 - [AntiMicroX](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
 - [CKB](https://github.com/ccMSC/ckb) - RGB Driver for Linux and OS X.
