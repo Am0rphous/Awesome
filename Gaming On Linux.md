@@ -3,7 +3,7 @@
 <br>
 
 ### Table of content
-- [1. OS dedicated for gaming]([#1-os-dedicated-for-gaming))
+- [1. OS dedicated for gaming](#1-os-dedicated-for-gaming)
 - [2. Gaming on Linux](#2-gaming-on-linux)
   - [Games](#games)
   - [Serving](#serving)
