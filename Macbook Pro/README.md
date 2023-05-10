@@ -9,6 +9,7 @@ Table of content
     - [Proxy](#proxy)
     - [Security](#security)
 5. [Tools](#tools)
+    - [Creating a startup script](#creating-a-startup-script)
     - [Creating Bootable USB](#Creating-Bootable-USB)
     - [App Development](#App-Development)
     - [Package Managers](#Package-Managers)
@@ -115,6 +116,29 @@ ps axu | grep "/bin/tor"
 - [WineBottler](https://winebottler.kronenberg.org) - Run .exe files on Macbook using Wine. Logfile: `~/Library/Logs/Wine.log`
 - [WineHQ for MacOS](https://wiki.winehq.org/MacOS) - Requires `brew install xquartz` >= 2.7.7. [xquartz.org](https://www.xquartz.org) `brew cask install wine-stable`
 
+  ### Creating a startup script
+  ````
+  touch ~/Library/Scripts/script.sh && chmod +x ~/Library/Scripts/script.sh
+  touch startup.plist ~/Library/LaunchAgents
+  ````
+  - Add this:
+````
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string> My script </string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/MYNAME/Library/Scripts/script.sh</string>
+    </array>
+    <key>RunAtLoad</key>
+    <true/>
+</dict>
+</plist>
+````
+  
 
   ### Creating Bootable USB
   - [Apple-Create-Install-Media](https://github.com/chris1111/Apple-Create-Install-Media) - macOS Applications for creating a bootable volume of macOS.
