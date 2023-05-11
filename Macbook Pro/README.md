@@ -144,12 +144,12 @@ ps axu | grep "/bin/tor"
   - [Apple-Create-Install-Media](https://github.com/chris1111/Apple-Create-Install-Media) - macOS Applications for creating a bootable volume of macOS.
   - dd - check my [Disk CheatSheet notes](https://github.com/Am0rphous/CheatSheets/blob/main/Linux/Disk.md)
   - diskutil command. Procedure is as follows
-  ````
-  diskutil list
-  diskutil unmountDisk /dev/disknumber
-  sudo dd if=/path/to/image.iso of=/dev/rdisknumber bs=1m>
-  sudo dd if=/Users/user_name/Downloads/CentOS-8-x86_64-boot.iso of=/dev/rdisk2
-  ````
+````
+diskutil list
+diskutil unmountDisk /dev/disknumber
+sudo dd if=/path/to/image.iso of=/dev/rdisknumber bs=1m>
+sudo dd if=/Users/user_name/Downloads/CentOS-8-x86_64-boot.iso of=/dev/rdisk2
+````
   
   ### App Development
   - [Create-DMG](https://github.com/create-dmg/create-dmg) - A shell script to build fancy DMGs.
@@ -159,20 +159,21 @@ ps axu | grep "/bin/tor"
   - [Tray Example](https://github.com/kevinsawicki/tray-example) - Electron Tray Mac OS X Example App.
   
   ### Package Managers
-  - [Brew / HomeBrew](https://brew.sh/) - Package Manager for Linux and MacOS.
+  - [Brew / HomeBrew](https://brew.sh/) - Package Manager for Linux and MacOS. 
+    - [Documentation](https://docs.brew.sh)
     - [Homebrew-autoupdate](https://github.com/Homebrew/homebrew-autoupdate) - :tropical_drink: An easy, convenient way to automatically update Homebrew.
-
-  - [Brew Documentation](https://docs.brew.sh)
-  - Quick install:
-   ````
-   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-   ````
+   - Quick install:
+````
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+````
   - [Homebrew gathers anonymous aggregate user behaviour analytics using Google Analytics. ](https://docs.brew.sh/Analytics#opting-out)
   - To opt out of analytics, run
-   ````
-   export HOMEBREW_NO_ANALYTICS=1
-   brew analytics off
-   ````
+````
+export HOMEBREW_NO_ANALYTICS=1
+brew analytics off
+````
+  - [Macports-ports](https://github.com/macports/macports-ports) - The MacPorts ports tree - [Available software](https://ports.macports.org/)
+
 
     ### Security
     - [Secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
