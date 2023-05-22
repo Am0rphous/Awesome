@@ -45,6 +45,7 @@
 - [ByteTrack](https://github.com/ifzhang/ByteTrack) - ByteTrack: Multi-Object Tracking by Associating Every Detection Box 
 - [deep-intake-detection: Automatic detection of intake gestures from video](https://github.com/prouast/deep-intake-detection) - A deep neural network implementation for detection of food and drink intake gestures from video.
 - [Detectron2](https://github.com/facebookresearch/detectron2) - Detectron2 is FAIR's next-generation platform for object detection, segmentation and other visual recognition tasks.
+- [Facenet-pytorch](https://github.com/timesler/facenet-pytorch) - Pretrained Pytorch face detection (MTCNN) and facial recognition (InceptionResnet) models
 
 - [FireNET](https://github.com/OlafenwaMoses/FireNET) - A deep learning model for detecting fire in video and camera streams.
 - [On-Guard](https://github.com/Ken98045/On-Guard) - Adds Artificial Intelligence to almost any security camera that supports HTTP, ONVIF or FTP. It uses DeepStack as the AI engine. It allows the user to easily create areas in a photo that should trigger an action (HTTP/email/MQTT) or ignore activity in that area. It can dramatically reduce the incidents of picture false alarms. It can optionally …
