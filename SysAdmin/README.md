@@ -884,6 +884,9 @@ upstream_recursive_servers:
 - [Awesome Security](https://github.com/sbilly/awesome-security) | A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 - [Awesome Security Hardening](https://github.com/decalage2/awesome-security-hardening) | A collection of awesome security hardening guides, tools and other resources.
 - [Awesome Security Talks](https://github.com/PaulSec/awesome-sec-talks)| A collected list of awesome security talks.
+- [Common Criteria Protection Profiles](https://commoncriteria.github.io) - Common Criteria Protection Profiles (CCPP) are a standardized method for evaluating and certifying the security of information technology products. Common Criteria (CC) is an international framework for evaluating the security properties of IT systems and is recognized and accepted in many countries.
+
+
 - [Etcdmanager](https://github.com/gtamas/etcdmanager) - A cross-platform GUI and ETCD client.
 - [Horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode.
 - [Loki](https://github.com/Neo23x0/Loki) - Loki - Simple IOC and Incident Response Scanner.
