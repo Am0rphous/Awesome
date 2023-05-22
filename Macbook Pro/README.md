@@ -80,6 +80,8 @@ ps axu | grep "/bin/tor"
   ### Security
   - [DoNotDisturb](https://github.com/objective-see/DoNotDisturb) - Detect Evil Maid Attacks. 'Do Not Disturb' (DnD) is a free open-source security tool for macOS that aims to detect unauthorized physical access to your laptop!
   - [Dylib Hijack Scanner](https://objective-see.com/products/dhs.html)
+  - [Mac-monitor](https://github.com/redcanaryco/mac-monitor) - Red Canary Mac Monitor is an advanced, stand-alone system monitoring tool tailor-made for macOS security research. Beginning with Endpoint Security (ES), it collects and enriches system events, displaying them graphically, with an expansive feature set designed to reduce noise.
+
   - [ReiKey](https://github.com/objective-see/ReiKey) - Malware and other applications may install persistent keyboard "event taps" to intercept your keystrokes. ReiKey can scan, detect, and monitor for such taps!
 
 
