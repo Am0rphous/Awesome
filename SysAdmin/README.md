@@ -299,6 +299,7 @@ bro / zeek
 - [backintime](https://github.com/bit-team/backintime) - Back In Time - A simple backup tool for Linux
 - [Baqpaq](https://teejeetech.com/product/baqpaq/) - Payment 19$.
 - [Clonezilla](https://clonezilla.org/)
+- [GoodSync](https://www.goodsync.com/)
 - [Gossin-backup](https://github.com/githubgossin/gossin-backup) - Simple backup script written in Bash.
 - [Linux Time Machine](https://github.com/cytopia/linux-timemachine) - Rsync-based OSX-like time machine for Linux, MacOS and BSD for atomic and resumable local and remote backups.
 - [Veeam Backup & Replication Community Editio](https://www.veeam.com/virtual-machine-backup-solution-free.html) - FREE backup software for VMware and Hyper-V, as well as physical servers, workstations, laptops and cloud instances.
