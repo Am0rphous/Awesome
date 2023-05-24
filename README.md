@@ -1061,6 +1061,7 @@ that works on top of your local folder of plain text files. [github](https://git
 
   
   ### Time Management
+  - [Alarm-clock](https://github.com/alarm-clock-applet/alarm-clock) - Alarm Clock is a fully-featured alarm clock for use with an AppIndicator implementation.
   - [BreakTimer App](https://github.com/tom-james-watson/breaktimer-app) - Manage periodic breaks. Avoid eye-strain and RSI.
   - [Deepin Calender](https://github.com/linuxdeepin/dde-calendar) - Calendar application for DDE.
   - [GNOME Calendar](https://gitlab.gnome.org/GNOME/gnome-calendar) [github](https://github.com/GNOME/gnome-calendar)
