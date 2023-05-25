@@ -189,6 +189,7 @@ Description: Transforms a binary's machine code into assembly language/code.
   - [Ghidrathon](https://github.com/mandiant/Ghidrathon) - The FLARE team's open-source extension to add Python 3 scripting to Ghidra.
   - [LazyGhidra](https://github.com/AllsafeCyberSecurity/LazyGhidra) - Make your Ghidra Lazy!
   - [Patching Binaries With Ghidra](https://materials.rangeforce.com/tutorial/2020/04/12/Patching-Binaries/)
+  - [Processor Manual download script](https://gist.github.com/ckuethe/afdc091635b32ba1077d8470776942b8)
 - [Hobbits](https://github.com/Mahlet-Inc/hobbits) - A multi-platform GUI for bit-based analysis, processing, and visualization.
 - [IDA - The Interactive Disassembler](https://www.hex-rays.com) - Pro, Home, Free and Demo version. [github source code](https://github.com/idapython/src)
   - [EfiXplorer](https://github.com/binarly-io/efiXplorer) - IDA plugin for UEFI firmware analysis and reverse engineering automation.
