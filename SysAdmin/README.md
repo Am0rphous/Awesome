@@ -597,7 +597,7 @@ sudo service psacct restartchkconfig --level 13 psacct on
 - [RansomWatch](https://github.com/captainGeech42/ransomwatch) - RansomWatch is a ransomware leak site monitoring tool. It will scrape all of the entries on various ransomware leak sites, store the data in a SQLite database, and send notifications via Slack or Discord when a new victim shows up, or when a victim is removed.
 - [Security Onion OS](https://securityonionsolutions.com)
   - [Github: Security Onion 2.3.10](https://github.com/Security-Onion-Solutions/securityonion)
-  - [Security Onion Documentation](https://docs.securityonion.net/en/2.3/index.html)
+  - [Security Onion Documentation](https://docs.securityonion.net/en/2.3/index.html) - [pdf](https://buildmedia.readthedocs.org/media/pdf/securityonion/latest/securityonion.pdf)
 - [Sysmon](https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon) - provides detailed information about process creations, network connections, and changes to file creation time.
   - [Ossec Sysmon](https://github.com/Hestat/ossec-sysmon) - A Ruleset to enhance detection capabilities of Ossec using Sysmon.
   - [Sysmon Community Guide by TrustedSec](https://github.com/trustedsec/SysmonCommunityGuide) - TrustedSec Sysinternals Sysmon Community Guide.
