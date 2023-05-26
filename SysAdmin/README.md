@@ -356,6 +356,7 @@ bro / zeek
   - [Ansible-template-ui](https://github.com/sivel/ansible-template-ui) - Web UI for testing ansible templates.
   - [Ansible-VMware-Workstation-Fusion-Pro-Modules](https://github.com/qsypoq/Ansible-VMware-Workstation-Fusion-Pro-Modules) - Ansible meet VMware Workstation/Fusion Pro.
 - [Auto_pxe](https://github.com/ShogoXY/auto_pxe) - Automatic server PXE for Debian
+- [Foreman](https://github.com/theforeman/foreman) - an application that automates the lifecycle of servers
 - [Guide To Install Missing Firmware in Debian](https://www.techbrackets.com/install-missing-firmware-debian/) - Looking to install missing firmware in Debian or Ubuntu, then use this step by step guide.
 - [Linuxdeploy-cli](https://github.com/meefik/linuxdeploy-cli) - Linux Deploy CLI
 - [Puppet](https://github.com/puppetlabs/puppet/) - Server automation framework and application. [Puppet.com](https://puppet.com/)
