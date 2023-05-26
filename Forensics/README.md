@@ -88,6 +88,15 @@
 ## File Analysis
 - [Debsums](https://manpages.ubuntu.com/manpages/trusty/man1/debsums.1.html) - check the MD5 sums of installed Debian packages.
 - [inotifywait](https://linux.die.net/man/1/inotifywait) - inotify-tools is a C library and a set of command-line tools providing an interface to the Linux inotify file notification system. [source](https://sourceforge.net/projects/inotify-tools/)
+- [Scalpel](https://www.kali.org/tools/scalpel/)
+  - To recover [KeePass](https://keepass.info/help/base/repair.html) KDBX-database files, add following settings in `/etc/scalpel/scalpel.conf`
+````
+#               case    size                     header
+#extension   sensitive
+kdbx1            y       5000       \x03\xD9\xA2\x9A\x65\xFB\x4B\xB5
+kdbx2            y       5000       \x03\xD9\xA2\x9A\x67\xFB\x4B\xB5
+
+````
 - [tree](https://github.com/kddnewton/tree) - Implementations of the unix tree command 
 - [TrID](https://mark0.net/soft-trid-e.html) -  Identify file types from their binary signatures. Win32, Linux 32/64-bit
   - [Online TrID File Identifier](https://mark0.net/onlinetrid.html) - Size <= 10 MB.
@@ -97,7 +106,7 @@
   ````powershell
   xxd file.txt
   ````
-  ### Commands (Usually default)
+  - Commands (Usually default)
 ````
 auditd
 file            # determine file type. E.g. "file word.doc"
