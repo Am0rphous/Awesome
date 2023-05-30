@@ -539,6 +539,9 @@ sudo apt-get install redshift-gtk
   - [Tokei](https://github.com/XAMPPRocky/tokei) - Tokei is a program that displays statistics about your code. Tokei will show the number of files, total lines within those files and code, comments, and blanks grouped by language.
   - [Yaklang](https://github.com/yaklang/yaklang) - A programming language exclusively designed for cybersecurity
 
+    #### C
+    - [Learning-C](https://github.com/h0mbre/Learning-C) - A series of mini-projects used to learn C for beginners
+
     #### C++
     - [Awesome C++](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. 
     - [Imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
