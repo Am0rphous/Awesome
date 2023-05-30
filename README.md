@@ -402,7 +402,6 @@ sudo apt-get install fluxgui
 sudo apt-get install redshift-gtk
 ````
   #### Screensavers
-  - [flameshot](https://flameshot.org)
   - [XScreenSaver](https://www.jwz.org/xscreensaver/)
   
   #### Themes
@@ -977,6 +976,7 @@ Based on that data, you can find the most popular ones and their alternatives.
 - [curiosity.ai](https://curiosity.ai/) - "Tired of searching in folders, emails and apps? Get Curiosity and find everything in one place. All safe on your computer."
 - [DopplerTask](https://github.com/dopplertask/dopplertask) - A revolutionary open-source automation tool 
 - [Find-you](https://github.com/positive-security/find-you) - A stealth AirTag clone that bypasses all of Apple's tracking protection features
+- [flameshot](https://flameshot.org)
 - [GoAlert](https://github.com/target/goalert) - Open source on-call scheduling, automated escalations, and notifications so you never miss a critical alert.
 - [KOrganizer](https://github.com/KDE/korganizer) - Organizational assistant, providing calendars and other similar functionality.
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
