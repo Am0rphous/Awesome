@@ -402,6 +402,7 @@ sudo apt-get install fluxgui
 sudo apt-get install redshift-gtk
 ````
   #### Screensavers
+  - [flameshot](https://flameshot.org)
   - [XScreenSaver](https://www.jwz.org/xscreensaver/)
   
   #### Themes
