@@ -106,6 +106,8 @@ Portable Executables binaries
 - [Diaphora](https://github.com/joxeankoret/diaphora) - Diaphora, the most advanced Free and Open Source program diffing tool.
 - [difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [Graudit](https://github.com/wireghoul/graudit) - grep rough audit - source code auditing tool.
+- [Route-sixty-sink](https://github.com/mandiant/route-sixty-sink) - Link sources to sinks in C# applications.
+
 - [SonarJS](https://github.com/SonarSource/SonarJS) - SonarSource Static Analyzer for JavaScript and TypeScript
 - [Static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 - [SVF](https://github.com/SVF-tools/SVF) - Static Value-Flow Analysis Framework for Source Code
