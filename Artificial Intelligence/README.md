@@ -123,6 +123,7 @@ _Convolutional neural networks power image recognition and computer vision tasks
 
   - [Some-mitm-proxy](https://github.com/zu1k/some-mitm-proxy) - 今天的帐号额度已用完，等待重置中，欢迎 Follow 和 Star
   - [Whatsapp-chatgpt](https://github.com/askrella/whatsapp-chatgpt) - ChatGPT + DALL-E + WhatsApp = AI Assistant :rocket:
+  - [UnlimitedGPT](https://github.com/Sxvxgee/UnlimitedGPT) - An unofficial Python wrapper for OpenAI's ChatGPT API
 
 - [ChatRWVK](https://github.com/BlinkDL/ChatRWVK)
 - [EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft's Bing Chat AI
