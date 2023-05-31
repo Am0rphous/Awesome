@@ -77,6 +77,8 @@
  - [FacEmoji](https://github.com/PiotrDabrowskey/facemoji) - Detects face and its emotion, draws according emoji over face.
  - [FACE MASK DETECTION SYSTEM ](https://github.com/memudualimatou/FACE-MASK-DETECTION-WEB-APP-FLASK-PYTHON)
  - [Insightface](https://github.com/deepinsight/insightface) - State-of-the-art 2D and 3D Face Analysis Project
+ - [Roop](https://github.com/s0md3v/roop) - one-click deepfake (face swap)
+
 
 
 ## Convolutional neural network
