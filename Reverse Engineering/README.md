@@ -33,6 +33,7 @@ Table of content
   - [gchq.github.io/CyberChef](https://gchq.github.io/CyberChef)
 - [Cybertechniques site pages](https://github.com/cybertechniques/site)- [Malware-gems](https://github.com/0x4143/malware-gems) - A not so awesome list of malware gems for aspiring malware analysts.
 - [Reverse Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
+- [Reverse-engineering by xiosec](https://github.com/xiosec/Reverse-engineering) - Reverse Engineering tools
 - [Reverse Engineering Playground ](https://github.com/yellowbyte/reverse-engineering-playground) - Scripts I made to aid me in everyday reversing or just for fun.
 - [Reverse Engineer's Toolkit](https://github.com/mentebinaria/retoolkit) - Collection of tools you may like if you are interested on reverse engineering and/or malware analysis on x86 and x64 Windows systems.
 - [Toolkit](https://github.com/indetectables-net/toolkit) - The essential toolkit for reversing, malware analysis, and cracking
