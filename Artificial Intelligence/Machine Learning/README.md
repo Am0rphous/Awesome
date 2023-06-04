@@ -43,6 +43,7 @@ Description: _Reinforcement learning is an area of machine learning concerned wi
 - [envd](https://github.com/tensorchord/envd) - 🏕️ Development environment for machine learning
 - [GoLearn](https://github.com/sjwhitworth/golearn) - Machine Learning for Go.
 - [Machine Learning and Security](https://github.com/13o-bbr-bbq/machine_learning_security) - Source code about machine learning and security.
+- [ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week) - 🔥Highlighting the top ML papers every week.
 - [ML Visuals](https://github.com/dair-ai/ml-visuals) - ML Visuals contains figures and templates which you can reuse and customize to improve your scientific writing.
 - [MLSpace](https://github.com/abhishekkrthakur/mlspace) - MLSpace: Hassle-free machine learning & deep learning development.
 - [OAP-MLlib](https://github.com/oap-project/oap-mllib) - Optimized Spark package to accelerate machine learning algorithms in Apache Spark MLlib.
