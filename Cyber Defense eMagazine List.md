@@ -2,6 +2,9 @@
 
 The most recent emagazines at the top.
 
+## 2023
+- May - https://www.cyberdefensemagazine.com/newsletters/may-2023/files/downloads/CDM-CYBER-DEFENSE-eMAGAZINE-May-2023.pdf
+
 ## 2022
 - December [~~Cyber Defense eMagazine~~](https://www.cyberdefensemagazine.com/newsletters/december-2022/CDM-CYBER-DEFENSE-eMAGAZINE-December-2022.pdf)
 - November [~~Cyber Defense eMagazine~~](https://www.cyberdefensemagazine.com/newsletters/november-2022/CDM-CYBER-DEFENSE-eMAGAZINE-November-2022.pdf)
