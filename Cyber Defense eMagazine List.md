@@ -1,6 +1,6 @@
 # Cyber Defense eMagazine List
 
-- Script that checks if emagazine from year 2010 til 2023 exists:
+## Script that checks if emagazine from year 2010 til 2023 exists:
 ````
 #!/bin/bash
 
