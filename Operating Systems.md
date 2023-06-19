@@ -259,6 +259,7 @@ distribution into a Live Kit (formely known as Live CD).
 - [Free BSD](https://www.freebsd.org)
 - [Ghost BSD](https://www.ghostbsd.org) - A simple, elegant desktop BSD Operating System.
 - [Hardened BSD](https://www.hardenedbsd.org)
+- [illumos](https://illumos.org/) - illumos is a Unix operating system which provides next-generation features for downstream distributions, including advanced system debugging, next generation filesystem, networking, and virtualization options. 
 - [Midnight BSD](https://www.midnightbsd.org)
 - [Open BSD](https://www.openbsd.org)
 
