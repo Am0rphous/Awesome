@@ -1,5 +1,48 @@
 # Cyber Defense eMagazine List
 
+- Script that checks if emagazine from year 2010 til 2023 exists:
+````
+#!/bin/bash
+
+#just some coloring output later on
+RED='\033[0;31m'
+GREEN='\033[0;32m'
+NORMAL='\033[0m'
+
+
+END=2023
+for ((year=2010;year<=END;year++)); do
+  echo ""; echo $year
+
+  list='january february march april may june july august september october november december'
+  for element in $list;do
+  
+    #we need a month with big capital
+    capitalMonth="${element^}"
+    
+    #prepares the link with different variables
+    link=https://www.cyberdefensemagazine.com/newsletters/$element-$year/CDM-CYBER-DEFENSE-eMAGAZINE-$capitalMonth-$year.pdf
+
+    #saves the status code to determine if it's reachable (http/2 200)
+    httpStatusCode=$(curl -is $link|head -n 1)
+
+    #checks if the status contains the code 200 which means it is reachable
+    if [[ $httpStatusCode == *"HTTP/2 200"* ]]; then
+      echo -e "${GREEN}- [$capitalMonth]($link)${NORMAL}"
+      #if you want to download the pdfs, uncomment the line below
+      #wget $link
+      
+    else
+      #I like to display the links that doesn't work, but you might just comment this out to make output 'clean'
+      echo -e "${RED}$link ${NORMAL}"
+    fi
+
+  done #end of 'element in list loop'
+
+echo Year $year done... Going to next year!
+done
+````
+
 ## 2023
 - [May](https://www.cyberdefensemagazine.com/newsletters/may-2023/files/downloads/CDM-CYBER-DEFENSE-eMAGAZINE-May-2023.pdf)
 - 
