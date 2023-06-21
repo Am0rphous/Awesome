@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# CRMPi Tor Services - Create Multiple Raspberry Pi Tor Services
+# CRM-Pi Tor Services - Create Multiple Raspberry Pi Tor Services
 
 sudo apt install tor -y
 
@@ -84,6 +84,9 @@ EOF
 chown -R debian-tor /var/lib/tor1/*
 chown -R debian-tor /var/lib/tor2/*
 chown -R debian-tor /var/lib/tor3/*
+
+#reloads filesystem config and regenerates dependency trees
+systemctl daemon-reload
 
 systemctl enable tor1.service
 systemctl enable tor2.service
