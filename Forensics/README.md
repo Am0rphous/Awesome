@@ -87,6 +87,12 @@
 
 ## File Analysis
 - [Debsums](https://manpages.ubuntu.com/manpages/trusty/man1/debsums.1.html) - check the MD5 sums of installed Debian packages.
+- [foremost](https://www.kali.org/tools/foremost/)
+- To recover files
+````
+ddrescue  -D -f -n -v /dev/sda disk.img disk.log             # creates a copy we can work on
+foremost -v -t jpg,mp4,png -q -i disk.img -o files-found/    # carves jpg, mp4, png from the disk.img file and puts them in the folder 'files-found'
+````
 - [inotifywait](https://linux.die.net/man/1/inotifywait) - inotify-tools is a C library and a set of command-line tools providing an interface to the Linux inotify file notification system. [source](https://sourceforge.net/projects/inotify-tools/)
 - [Scalpel](https://www.kali.org/tools/scalpel/)
   - To recover [KeePass](https://keepass.info/help/base/repair.html) KDBX-database files, add following settings in `/etc/scalpel/scalpel.conf`
