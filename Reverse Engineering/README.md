@@ -114,6 +114,8 @@ Portable Executables binaries
 - [Static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 - [SVF](https://github.com/SVF-tools/SVF) - Static Value-Flow Analysis Framework for Source Code
 - [Tabby](https://github.com/wh1t3p1g/tabby) - A CAT called tabby ( Code Analysis Tool ) 
+### Identifying functions in code
+- [Function-identification](https://github.com/alonstern/function-identification) - This project demonstrates how a convolutional neural network can be used to detect the boundaries of a function in compiled code
 
 
 ## Containers
