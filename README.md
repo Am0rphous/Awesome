@@ -374,7 +374,9 @@ Communicate clearly <br>
   #### Extensions
   - [compiz-alike-magic-lamp-effect](https://github.com/hermes83/compiz-alike-magic-lamp-effect) - Compiz alike magic lamp effect for GNOME Shell.
   - [compiz-alike-windows-effect](https://github.com/hermes83/compiz-alike-windows-effect) - Compiz alike windows effect for GNOME Shell.
-  
+  - [GNOME Shell Extensions](https://gitlab.gnome.org/GNOME/gnome-shell-extensions) - [wiki](https://wiki.gnome.org/Projects/GnomeShell/Extensions)
+  - [Tray-Icons-Reloaded](https://github.com/MartinPL/Tray-Icons-Reloaded) - GNOME Shell extension which bring back Tray Icons to top panel, with additional features.
+
   #### Inspiration
   - [b00merang.weebly.com](https://b00merang.weebly.com/)
     - [MacOS 11 'Big Sur'](https://github.com/B00merang-Project/macOS) - macOS theme for Gnome and GTK-based desktops.
