@@ -364,6 +364,7 @@ bro / zeek
   - [Puppet Consul](https://github.com/solarkennedy/puppet-consul) - A Puppet Module to Manage Consul.
   - [Puppet CookBook](https://www.puppetcookbook.com/)
   - [Puppet explorer](https://github.com/dalen/puppetexplorer) - Puppet web interface written in CoffeeScript using AngularJS
+  - [Puppet-Professional-Certification-Study-Guide](https://github.com/rilindo/Puppet-Professional-Certification-Study-Guide) - Online resources for Puppet Professional Certification
 - [Reload.sh](https://github.com/trimstray/reload.sh) - Wipe, reinstall or restore your system from running GNU/Linux distribution. Via SSH, without rebooting.
 - [Talosplus](https://github.com/tarunKoyalwar/talosplus) - Create and Run Intelligent Automation Scripts Without learning bash scripting 
 - [wAuto](https://github.com/khchen/wAuto) - Windows automation module.
