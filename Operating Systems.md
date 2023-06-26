@@ -24,7 +24,7 @@ _Considering key questions:_
 - [Educational OS'es](#educational-oses)
 - [IoT, embedded devices, tablets](#iot-embedded-devices-tablets)
   - [Mobile Operating Systems](#mobile-operating-systems)
-    - [Android-based Operating Systems](#android-based-operating-systems)
+    - [Android-based](#android-based)
 - [Minimal and Lightweight](#minimal-and-lightweight)
 - [Pen-testing and security auditing](#pen-testing-and-security-auditing)
   - [Old OS Releases](#old-os-releases)
@@ -164,7 +164,7 @@ distribution into a Live Kit (formely known as Live CD).
   - [Sailfish OS](https://sailfishos.org/) - Sailfish OS is a secure mobile operating system optimized to run on smartphones and tablets, and also easily adaptable to all kinds of embedded devices and use cases. The fourth generation, Sailfish 4, boasts a multitude of new enablers to support different ecosystem projects, be it private corporate solutions or public sector governmental deployments.
   - [Ubports](https://ubports.com/) - _" We are building a secure & private operating system for your smartphone"_
   
-  #### Android-based Operating Systems
+  #### Android-based
   - [CalyxOS](https://calyxos.org) - CalyxOS is a custom ROM based on the Android Open Source Project with Pixel phones. It aims to be secure and private by default including a number of good choices for default applications. It also supports verified boot.
   - [CopperheadOS](https://copperhead.co/android/) - Secure Android built for encrypted and secure phones by a privacy focused company. Available as security-centric and privacy focused Google-free Android for the latest Pixel devices.
   - [GrapheneOS](https://grapheneos.org) - GrapheneOS (formerly known as CopperheadOS) is a free and open-source security- and privacy-focused mobile operating system built on top of the Android Open Source Project. It currently specifically targets devices offering strong hardware security.
