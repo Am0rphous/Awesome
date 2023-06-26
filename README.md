@@ -847,8 +847,7 @@ Based on that data, you can find the most popular ones and their alternatives.
    - [Kdenlive](https://invent.kde.org/multimedia/kdenlive) - Free and open source video editor, based on MLT Framework and KDE Frameworks 5. [Github](https://github.com/KDE/kdenlive)
    - [OBS Studio](https://github.com/obsproject/obs-studio) - Free and open source software for live streaming and screen recording.
      - [Screen Recording in Linux With OBS and Wayland](https://itsfoss.com/screen-record-obs-wayland/)
-   - [Pensela](https://github.com/weiameili/Pensela) - The Swiss Army Knife of Screen Annotation Tools
-   - [Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
+   - [Pensela](https://github.com/weiameili/Pensela) - The Swiss Army Knife of Screen Annotation Tool
    - [Pitivi](https://www.pitivi.org/) - Free video editor with a beautiful and intuitive user interface, a clean codebase and a fantastic community.
    - [Poketube](https://github.com/ashley0143/poketube) - offical github mirror of poketube (https://codeberg.org/Ashley/poketube/) - [poketube.fun](https://poketube.fun)
    - [Screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥.
@@ -1134,6 +1133,7 @@ that works on top of your local folder of plain text files. [github](https://git
   ### Video Hosting
   - [joinpeertube.org](https://joinpeertube.org)
   - [PeerTube](https://github.com/Chocobozzz/PeerTube) - ActivityPub-federated video streaming platform using P2P directly in your web browser.
+  - [Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 
 ## Resources
 - [Effective Resourses ](https://github.com/wususu/effective-resourses) - book学习资源整合 .
