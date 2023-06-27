@@ -1,10 +1,14 @@
 # NSA
 
+- [Kaspersky - EquationAPT pdf](https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/08064459/Equation_group_questions_and_answers.pdf)
+- [Shadow Brokers Leaks Dilemma – History of Events Explained](https://www.tripwire.com/state-of-security/shadow-brokers-leaks-dilemma-history-events-explained)
+
 <details>
    
 <summary>NSA Infrastructure IP List per 2016</summary>
    
 Source - https://pastebin.com/raw/qwv60MCf
+Source - https://www.theregister.com/2016/10/31/shadow_brokers_dump/
 
 ```
    10.30.1.130
