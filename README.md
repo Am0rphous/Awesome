@@ -651,6 +651,7 @@ sudo apt-get install redshift-gtk
 - [Linux Books](https://github.com/manjunath5496/Linux-Books) - "We all love Linux, but it's also a fact that some people might not be able to migrate." - Miguel de Icaza.
 - [Linux Insides book](https://0xax.gitbooks.io/linux-insides/content/index.html) - [Source code](https://github.com/0xAX/linux-insides)
 - [NasjonalBiblioteket](https://www.nb.no/) - Norwegian library
+- [oceanofpdf.com](https://oceanofpdf.com)
 - [PdfDrive.com](https://www.pdfdrive.com) - search engine for PDF files.
 - [sci-hub.st](https://www.sci-hub.st/)
 - [Secure Coding Handbook](https://github.com/joswha/Secure-Coding-Handbook) - Web Application Secure Coding Handbook resource.
