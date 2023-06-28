@@ -48,6 +48,7 @@
 - [Facenet-pytorch](https://github.com/timesler/facenet-pytorch) - Pretrained Pytorch face detection (MTCNN) and facial recognition (InceptionResnet) models
 
 - [FireNET](https://github.com/OlafenwaMoses/FireNET) - A deep learning model for detecting fire in video and camera streams.
+- [Multi-Camera-Live-Object-Tracking](https://github.com/LeonLok/Multi-Camera-Live-Object-Tracking) - Multi-camera live traffic and object counting with YOLO v4, Deep SORT, and Flask.
 - [On-Guard](https://github.com/Ken98045/On-Guard) - Adds Artificial Intelligence to almost any security camera that supports HTTP, ONVIF or FTP. It uses DeepStack as the AI engine. It allows the user to easily create areas in a photo that should trigger an action (HTTP/email/MQTT) or ignore activity in that area. It can dramatically reduce the incidents of picture false alarms. It can optionally …
 - [Openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.
 - [Pyodi](https://github.com/Gradiant/pyodi) - Python Object Detection Insights.
