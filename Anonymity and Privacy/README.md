@@ -2,6 +2,7 @@
 
 - [Anonymity and Privacy for Advanced Linux Users](https://we.riseup.net/opsec/anonymity-and-privacy-for-advanced-linux-users#secure-data-wiping-linux)
 - [Digital Privacy](https://github.com/ffffffff0x/Digital-Privacy) - 一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗.
+- [GlobaLeaks](https://github.com/globaleaks/GlobaLeaks) - GlobaLeaks is free, open source software enabling anyone to easily set up and maintain a secure whistleblowing platform.
 - [Privacy Guide: Fight Surveillance with Encryption and Privacy Tools](https://www.privacytools.io/)
 - [Surveillance Self-Defense](https://ssd.eff.org/)
 
