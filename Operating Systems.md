@@ -43,6 +43,7 @@ _Considering key questions:_
 - [DistroWatch.com](https://distrowatch.com)
 - [Don't use Windows 10 - It's a privacy nightmare](https://www.privacytools.io/operating-systems/#win10)
   - If you need Windows then check out [Atlas](https://github.com/Atlas-OS/Atlas) - _An open source modification of the Windows 10 operating system, designed to optimize performance, and latency._
+  - [Article in Medium: How Bullshit Has Dominated The Tech Industry](https://medium.com/@fulalas/how-bullshit-has-dominated-the-tech-industry-bc63257f2a91) - Go down to _"Microsoft is perhaps unbeatable in this regard"_
 - [Hardware for Linux Trends](https://linux-hardware.org/?view=trends)
 
 ## Boot / BIOS
