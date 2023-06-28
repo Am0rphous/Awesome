@@ -809,6 +809,7 @@ upstream_recursive_servers:
     - [FreeVPN.me](https://freevpn.me/)
     - [JonDoNym - anonymous-proxy-servers.net](https://anonymous-proxy-servers.net/)
       - [Combining Whonix ™ with JonDonym](https://www.whonix.org/wiki/JonDonym)
+    - [vpnbook.com](https://www.vpnbook.com/)
     
   ### Storage
   - [Libvirt Storage Management](https://libvirt.org/index.html)
