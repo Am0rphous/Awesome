@@ -45,6 +45,7 @@ Table of content
   - [Angr Documentation](https://github.com/angr/angr-doc)
   - [Angr Gui](https://github.com/angr/angr-management) - A GUI for angr.
 - [BinAbsInspector](https://github.com/KeenSecurityLab/BinAbsInspector) - BinAbsInspector (Binary Abstract Inspector) is a static analyzer for automated reverse engineering and scanning vulnerabilities in binaries, which is a long-term research project incubated at Keenlab. It is based on abstract interpretation with the support from Ghidra. It works on Ghidra's Pcode instead of assembly. Currently it supports binaries on x86,x64, armv7 and aarch64.
+- [Binaryanalysis-ng](https://github.com/armijnhemel/binaryanalysis-ng) - Binary Analysis Next Generation (BANG)
 - [Bincat](https://github.com/airbus-seclab/bincat) - Binary code static analyser, with IDA integration. Performs value and taint analysis, type reconstruction, use-after-free and double-free detection
 - [Bingrep](https://github.com/m4b/bingrep) - like ~~grep~~ UBER, but for binaries
 - [Callisto](https://github.com/JetP1ane/Callisto) - Callisto - An Intelligent Binary Vulnerability Analysis Tool
