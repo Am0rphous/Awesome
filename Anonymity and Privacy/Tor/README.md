@@ -1,6 +1,7 @@
 ## The Onion Router
 
 - [How to route all the machine Traffic Through TOR in Kali Linux ](https://ourcodeworld.com/articles/read/953/how-to-route-all-the-machine-traffic-through-tor-in-kali-linux)
+- [ExoneraTor - Check if a given IP has been a Tor relay](https://metrics.torproject.org/exonerator.html)
 - [Expose server behind NAT with Tor](https://golb.hplar.ch/2019/01/expose-server-tor.html)
 - [Multitor](https://github.com/trimstray/multitor) - Create multiple TOR instances with a load-balancing.
 - [Onioff](https://github.com/k4m4/onioff) - 🌰 An onion url inspector for inspecting deep web links.
