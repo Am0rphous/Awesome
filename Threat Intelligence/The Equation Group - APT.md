@@ -11,7 +11,7 @@ Source - https://pastebin.com/raw/qwv60MCf
 Source - https://www.theregister.com/2016/10/31/shadow_brokers_dump/
 
 ```
-   10.30.1.130
+10.30.1.130
 10.30.10.2
 10.30.10.32
 10.34.100.2
