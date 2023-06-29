@@ -615,12 +615,14 @@ zanburu.grupocorreo.es
 <summary>Compare your own list of IP/domains against the NSA list</summary>
 
 ```
+
 #!/bin/bash
 while IFS= read -r line; do
     if grep -Fq "$line" IPlist.txt; then
         echo "Match! The line '$line' in IPlist.txt matches the IP/domain found in NSA.txt"
     fi
 done < NSA.txt
+
 ```
 
 </details>
