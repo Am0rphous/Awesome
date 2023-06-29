@@ -2,6 +2,7 @@
 
 - [Kaspersky - EquationAPT pdf](https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/08064459/Equation_group_questions_and_answers.pdf)
 - [Shadow Brokers Leaks Dilemma – History of Events Explained](https://www.tripwire.com/state-of-security/shadow-brokers-leaks-dilemma-history-events-explained)
+- [Bvp47 Top-tier Backdoor of US NSA Equation Group](https://www.pangulab.cn/files/The_Bvp47_a_top-tier_backdoor_of_us_nsa_equation_group.en.pdf)
 
 <details>
    
