@@ -613,6 +613,7 @@ zanburu.grupocorreo.es
 <details>
    
 <summary>Compare your own list of IP/domains against the NSA list</summary>
+
 ```
 #!/bin/bash
 while IFS= read -r line; do
