@@ -890,6 +890,7 @@ Based on that data, you can find the most popular ones and their alternatives.
     - [navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
     - [Subsonic](http://www.subsonic.org/pages/index.jsp) - Music streaming server.
       - [Subsonic App List](http://www.subsonic.org/pages/apps.jsp)
+    - [SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
     - [Ultrasonic](https://github.com/ultrasonic/ultrasonic) - Free and open-source music streaming Android client for Subsonic API compatible servers.
     - [YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 
