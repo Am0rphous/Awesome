@@ -213,9 +213,8 @@ bro / zeek
   ./chkrootkit -x | egrep '^/'                  # pathnames inside system commands
   ````
 - [ClamAV](https://www.clamav.net) - ClamAV® is an open source antivirus engine for detecting trojans, viruses, malware & other malicious threats.
-  - [ClamAV Documentation](https://github.com/Cisco-Talos/clamav-faq)
+  - [ClamAV Documentation from Cisco-Talos](https://github.com/Cisco-Talos/clamav-faq)
   - [ClamAVscan](https://github.com/crash0ver1d3/ClamAVscan/blob/master/USB_01_autoscan) - Utilizing ClamAV, automatically scan USB drive for virus or malware, once mounted to a Raspberry Pi, or Linux device.
-  - [Clamav-unofficial-sigs](https://github.com/extremeshok/clamav-unofficial-sigs) - ClamAV Unofficial Signatures Updater maintained by eXtremeSHOK.com
   - [ClamTk](https://github.com/dave-theunsub/clamtk) - An easy to use, light-weight, on-demand virus scanner for Linux systems.
   ````
   sudo apt install clamav clamav-daemon mailutils -y
@@ -231,8 +230,12 @@ bro / zeek
   clamscan -r --bell -i /                             # display infected files and ring a bell when found
   clamscan -r -i / &                                  #run it as background. Run `jobs` to list it
   ````
+  - Signatures
+    - [Clamav-unofficial-sigs](https://github.com/extremeshok/clamav-unofficial-sigs) - ClamAV Unofficial Signatures Updater maintained by eXtremeSHOK.com
+    - [Microsoft](https://packages.microsoft.com/clamav/)
   - [SquidClamav](https://github.com/darold/squidclamav) - SquidClamAv is a dedicated ClamAV antivirus redirector for Squid. It can run antivirus checks based on filename regex, content-type regex, and more. It is easy to install and works even with heavy Squid access.
   - [Tip](https://www.techrepublic.com/article/how-to-install-and-use-clamav-on-ubuntu-server-20-04)
+
 - [HashDB](https://github.com/OALabs/hashdb) - Assortment of hashing algorithms used in malware.
 - [HerdProtect](https://www.herdprotect.com/index.aspx) - Second line of defense malware scanning platform powered by 68 anti-malware engines in the cloud.
 - [Intezer Labs](https://github.com/intezer)
