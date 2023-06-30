@@ -104,6 +104,7 @@ ps axu | grep "/bin/tor"
 - [MacHack](https://github.com/kendfinger/MacHack) - Hidden Tools in macOS.
 - [MacOS Fortress](https://github.com/essandess/macOS-Fortress) - Firewall and Privatizing Proxy for Trackers, Attackers, Malware, Adware, and Spammers with Anti-Virus On-Demand and On-Access Scanning (PF, squid, privoxy, hphosts, dshield, emergingthreats, hostsfile, PAC file, clamav).
 - [Macos-scripts](https://github.com/0xmachos/macos-scripts) - Various scripts for macOS tasks
+- [OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher/) - Experience macOS just like before
 - [ProcessMonitor](https://github.com/objective-see/ProcessMonitor) - Process Monitor Library (based on Apple's new Endpoint Security Framework.
 - [The Unarchiver](https://apps.apple.com/us/app/the-unarchiver/id425424353?mt=12) - Open any archive in seconds.
 - [RadeonSensor](https://github.com/aluveitie/RadeonSensor) - Kext and Gadget to show Radeon GPU temperature on macOS.
