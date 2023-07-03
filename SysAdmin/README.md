@@ -973,6 +973,7 @@ upstream_recursive_servers:
   - [VED (Vault Exploit Defense) - Linux kernel threat detection and prevention system](https://github.com/hardenedvault/ved)
   - [seccomp](https://man7.org/linux/man-pages/man2/seccomp.2.html) - "The secure computing (seccomp) mode is a popular Linux kernel security feature that restricts access to system calls (syscalls) by processes. This means that seccomp can filter syscalls and allow or limit which syscalls can be executed in the system."
 - [SELinux Userspace](https://github.com/SELinuxProject/selinux) - Security Enhanced Linux (SELinux).
+  - [selinux-notebook ](https://github.com/SELinuxProject/selinux-notebook/releases)
 
   #### Biometric
   - [Biometric-authentication](https://github.com/ukui/biometric-authentication) - A biometric identification framework.
