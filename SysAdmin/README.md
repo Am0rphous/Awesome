@@ -1,4 +1,4 @@
-<h1 align="center">SysAdmin Tools </h1>
+ <h1 align="center">SysAdmin Tools </h1>
 
 <br>
 
@@ -1023,6 +1023,8 @@ upstream_recursive_servers:
   - [Firejail – Excellent Security Sandboxing](https://www.linuxlinks.com/essential-system-tools-firejail-security-sandboxing/)
   - [Windows_Sandbox_Editor](https://github.com/damienvanrobaeys/Windows_Sandbox_Editor) - Generate and manage your windows sandbox.
   - [Run-in-Sandbox](https://github.com/damienvanrobaeys/Run-in-Sandbox) - Run PS1, VBS, EXE, MSI in Windows Sandbox very quickly just from a right-click.
+  - [Try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
+
 
   ### Security Tutorials
   - [Awesome Serverless Security](https://github.com/puresec/awesome-serverless-security) - A curated list of awesome serverless security resources such as (e)books, articles, whitepapers, blogs and research papers.
