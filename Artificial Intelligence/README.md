@@ -30,6 +30,7 @@
 - [StringSifter](https://github.com/fireeye/stringsifter) - A machine learning tool that ranks strings based on their relevance for malware analysis.
 - [SUSI.AI server backend](https://github.com/fossasia/susi_server) - the Artificial Intelligence server for personal assistants.
 - [Transformers](https://github.com/huggingface/transformers) - Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
+- [Voice-changer](https://github.com/w-okada/voice-changer) - リアルタイムボイスチェンジャー Realtime Voice Changer
 
 ## AI Assistant
 - [Mycroft](https://github.com/mycroftai/mycroft-core) - Mycroft is a hackable open source voice assistant.
