@@ -163,6 +163,8 @@ bro / zeek
   - [AdminLTE](https://github.com/pi-hole/AdminLTE) - Pi-hole Dashboard for stats and more 
   - [Docker Pi-hole](https://github.com/pi-hole/docker-pi-hole) -  Pi-hole in a docker container.
   - [PADD](https://github.com/pi-hole/PADD) - PADD (formerly Chronometer2) is a more expansive version of the original chronometer.sh that is included with Pi-Hole. PADD provides in-depth information about your Pi-hole.
+  - [Pihole-influxdb-monitor](https://github.com/avojak/pihole-influxdb-monitor) - Export Pi-hole statistics to InfluxDB 2.x
+
 - [SpamCop](https://www.spamcop.net) - SpamCop is the premier service for reporting spam. SpamCop determines the origin of unwanted email and reports it to the relevant Internet service providers.
 
 
