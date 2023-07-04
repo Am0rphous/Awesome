@@ -12,6 +12,7 @@
 <br>
 
 ## 1. OS dedicated for gaming
+- [ChimeraOS](https://chimeraos.org) - ChimeraOS is an operating system that provides an out of the box couch gaming experience. After installation, boot directly into Steam Big Picture and start playing your favorite games. If you want Steam in your living room, you want ChimeraOS.
 - [Drauger OS](https://draugeros.org/)
 - [Lakka](http://www.lakka.tv/) - Lakka is a lightweight RetroArch distribution designed for small, less powerful machines. Single-board computers like the Raspberry Pi are perfect for Lakka. 
 - [SteamOS](https://store.steampowered.com/steamos) - SteamOS is the primary operating system for the Steam Machine gaming platform by Valve. It is based on the Debian distribution of Linux.
