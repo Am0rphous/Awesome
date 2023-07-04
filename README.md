@@ -35,7 +35,7 @@ Communicate clearly <br>
     - [CI/CD](#cicd)
   - [VoIP](#voip)
 - [Desktop Customization](#desktop-customization)
-  - [Background and Wallapers](#background-and-wallpapers)
+  - [Background and Wallapers](https://github.com/Am0rphous/Awesome#background-and-wallapers)
   - [Extensions](#extensions)
   - [Inspiration](#inspiration)
   - [Prevent Eyestrain](#prevent-eyestrain)
