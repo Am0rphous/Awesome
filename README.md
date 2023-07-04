@@ -367,6 +367,7 @@ Communicate clearly <br>
 - [hidamari](https://github.com/jeffshee/hidamari) - Video wallpaper for Linux. Written in Python. 🐍
 - [Linux OS specific wallpapers](https://www.pling.com/browse?cat=261&ord=latest)
 - [komorebi](https://github.com/cheesecakeufo/komorebi) - A beautiful and customizable wallpapers manager for Linux
+- [RandomWallpaperGnome3](https://github.com/ifl0w/RandomWallpaperGnome3) - Random Wallpapers for Gnome 3
 - [Wallhaven.cc](https://wallhaven.cc/)
 - [Wallpapers Gnome](https://www.pling.com/s/Gnome/browse?cat=300&ord=latest)
 - [xlivebg](https://github.com/jtsiomb/xlivebg) - Live wallpapers for the X window system.
