@@ -6,6 +6,7 @@
 - [Crypto](https://developer.mozilla.org/en-US/docs/Web/API/Crypto) - The Crypto interface represents basic cryptography features available in the current context. It allows access to a cryptographically strong random number generator and to cryptographic primitives.
 - [Cryptofuzz](https://github.com/guidovranken/cryptofuzz) - Fuzzing cryptographic libraries. Magic bug printer go brrrr. 
 - [CryptoHack.org](https://cryptohack.org/) - A fun free platform for learning modern cryptography.
+- [CryptoTester](https://github.com/Demonslay335/CryptoTester) - A utility for playing with cryptography, geared towards ransomware analysis.
 - [Dcipher](https://github.com/k4m4/dcipher) - Decipher hashes using online rainbow & lookup table attack services.
 - [DEScrypto](https://github.com/DedSecInside/DEScrypto) - DES Encrypter/Decrypter.
 - [Eme](https://github.com/rfjakob/eme) - EME (Encrypt-Mix-Encrypt) wide-block encryption for Go.
