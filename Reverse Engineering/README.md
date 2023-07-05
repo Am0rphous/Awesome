@@ -83,6 +83,7 @@ windres       # A compiler for Windows resource files.
 - nm - usage: `nm -D file.so | grep T`
 - [Package Analysis](https://github.com/ossf/package-analysis) - Open Source Package Analysis.
 - [Pharos ](https://github.com/cmu-sei/pharos) - Automated static analysis tools for binary programs.
+- [Pyrrha](https://github.com/quarkslab/pyrrha) - A tool for firmware cartography
 - [Qiling](https://github.com/qilingframework/qiling) - Qiling Advanced Binary Emulation Framework.
 - [ROPgadget Tool](https://github.com/JonathanSalwan/ROPgadget) - This tool lets you search your gadgets on your binaries to facilitate your ROP exploitation. ROPgadget supports ELF, PE and Mach-O format on x86, x64, ARM, ARM64, PowerPC, SPARC and MIPS architectures.
 - [The Life of Binaries](https://opensecuritytraining.info/LifeOfBinaries.html)
