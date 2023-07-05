@@ -86,7 +86,9 @@ windres       # A compiler for Windows resource files.
 - [Qiling](https://github.com/qilingframework/qiling) - Qiling Advanced Binary Emulation Framework.
 - [ROPgadget Tool](https://github.com/JonathanSalwan/ROPgadget) - This tool lets you search your gadgets on your binaries to facilitate your ROP exploitation. ROPgadget supports ELF, PE and Mach-O format on x86, x64, ARM, ARM64, PowerPC, SPARC and MIPS architectures.
 - [The Life of Binaries](https://opensecuritytraining.info/LifeOfBinaries.html)
-- [Viper](https://github.com/viper-framework/viper) -Viper is a binary analysis and management framework.
+- [Viper (archived)](https://github.com/viper-framework/viper) -Viper is a binary analysis and management framework.
+- [Viper2](https://github.com/viper-framework/viper2) - File analysis and management framework.
+
 
   ### ELF
   - [Awesome ELF Resources](https://github.com/tmpout/awesome-elf)
