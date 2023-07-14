@@ -236,6 +236,7 @@ Communicate clearly <br>
   - [E-Mail Header Analyzer (MHA)](https://github.com/cyberdefenders/email-header-analyzer) - E-Mail header analyzer is a tool written in flask for parsing email headers and converting them to a human readable format and it also can: Identify hop delays, Identify the source of the email, Identify hop country.
   - [Email Self-Defense](https://emailselfdefense.fsf.org/en/)
   - [GPG Suite](https://gpgtools.org/)
+  - [Malcore-Office-Shield](https://github.com/Internet-2-0/Malcore-Office-Shield-Releases) - Releases for the Malcore Office Shield
   - [OpenPGP ](https://www.openpgp.org/)
     - [keys.openpgp.org](https://keys.openpgp.org/)
   - [The GNU Privacy Guard](https://gnupg.org/)
