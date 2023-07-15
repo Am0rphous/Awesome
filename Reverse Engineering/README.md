@@ -189,6 +189,8 @@ Description: Transforms a binary's machine code into assembly language/code.
     - [Assembly-refrence](https://github.com/daringjoker/Assembly-refrence) - A plugin for Cutter that show the information about the assembly instruction currently selected .. only for x86 and x64
     - [Cutterref](https://github.com/yossizap/cutterref) - Cutter Instruction Reference Plugin
     - [Radare2-deep-graphs](https://github.com/JavierYuste/radare2-deep-graph) - A Cutter plugin to generate radare2 graphs.
+    - Tutorials
+      - [Introduction to Reverse Engineering with radare2 Cutter (part 1)](https://www.jamieweb.net/blog/radare2-cutter-part-1-key-terminology-and-overview/) - [part 2](https://www.jamieweb.net/blog/radare2-cutter-part-2-analysing-a-basic-program/) and [part 3](https://www.jamieweb.net/blog/radare2-cutter-part-3-solving-a-crackme-challenge/)
 - [Frida](https://www.frida.xyz/)
 - [Ghidra](https://github.com/NationalSecurityAgency/ghidra) - reverse engineering (SRE) framework created and maintained by the National Security Agency. [ghidra-sre.org](https://ghidra-sre.org/)
   - [AngryGhidra](https://github.com/Nalen98/AngryGhidra) - Use angr in Ghidra.
