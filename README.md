@@ -304,6 +304,7 @@ Communicate clearly <br>
     - [Git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
     - [GitNoter](https://github.com/git-noter/gitnoter) - An open source, markdown-based, self-hosted note taking webapp.
     - [Harden-runner](https://github.com/step-security/harden-runner) - 🛡️Security agent for the GitHub-hosted runner to monitor the build process
+    - [Hawkeye](https://github.com/0xbug/Hawkeye) - GitHub 泄露监控系统(GitHub Sensitive Information Leakage Monitor Spider)
     - [Mermaid](https://github.com/JakeSteam/Mermaid) - A collection of cheatsheets for using Mermaid diagrams on GitHub and elsewhere
     - [metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
     
