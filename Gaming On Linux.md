@@ -27,6 +27,7 @@
 - [GameHub](https://github.com/tkashkin/GameHub) - All your games in one place
 - [GameMode](https://github.com/FeralInteractive/gamemode) - Optimise Linux system performance on demand
 - [gamingonlinux.com](https://www.gamingonlinux.com/)
+  - [Statistics](https://www.gamingonlinux.com/users/statistics/)
 - [Lutris](https://github.com/lutris/lutris) - Open Source gaming platform for GNU/Linux. [lutris.net](https://lutris.net/)
 - [moonlight-stream.org ](https://moonlight-stream.org/) - " Moonlight allows you to play your PC games on almost any device, whether you're in another room or miles away from your gaming rig."
   - [Moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
