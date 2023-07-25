@@ -24,6 +24,7 @@
 - [Nipe](https://github.com/htrgouvea/nipe) - An engine to make Tor network your default gateway 
 - [Nyx](https://nyx.torproject.org/) - Nyx is a command-line monitor for Tor. With this you can get detailed real-time information about your relay such as bandwidth usage, connections, logs, and much more.
   - [Nyx github](https://github.com/torproject/nyx)
+- [Onionbalance](https://gitlab.torproject.org/tpo/onion-services/onionbalance) - It allows Tor onion service requests to be distributed across multiple backend Tor instances - Onion site: http://eweiibe6tdjsdprb4px6rqrzzcsi22m4koia44kc5pcjr7nec2rlxyad.onion/tpo/onion-services/onionbalance
 - [stealth-tor-docker](https://github.com/jamesacampbell/stealth-tor-docker) - spin up a new ubuntu based tor-enabled hidden ssh server quickly and easily 
 - [Tor-alpine](https://github.com/klemmchr/tor-alpine) - Simple, minimal and self updating docker image for Tor based on Alpine Linux.
 - [Tor Browser Launcher](https://github.com/micahflee/torbrowser-launcher) - Securely and easily download, verify, install, and launch Tor Browser in Linux.
