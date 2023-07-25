@@ -22,6 +22,7 @@ Check this link later: https://arstechnica.com/information-technology/2016/08/bu
 - [Darknet-tools](https://cybercoplabs.net/article/darknet-tools)
 - [Firehol's blocklist-ipsets](https://github.com/firehol/blocklist-ipsets) - ipsets dynamically updated with firehol's update-ipsets.sh script.
 - [Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) - 我终于能用谷歌搜中文了…… 
+- [Hushline](https://github.com/scidsg/hushline) - A lightweight, secure, and anonymous tip line for organizations and individuals.
 - [Invisible Internet Project (I2P)](https://geti2p.net/en/) - fully encrypted private network layer. It protects your activity and location. Every day people use the network to connect with people without worry of being tracked or their data being collected. In some cases people rely on the network when they need to be discrete or are doing sensitive work.
 - [Mmdb-server](https://github.com/adulau/mmdb-server) - mmdb-server is an open source fast API server to lookup IP addresses for their geographic location.
 - [Nothing-private](https://github.com/gautamkrishnar/nothing-private) - Do you think you are safe using private browsing or incognito mode?. :smile: :imp: This will prove that you're wrong.
