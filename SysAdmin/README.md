@@ -1217,6 +1217,7 @@ upstream_recursive_servers:
      sudo apt-get install slimbookbattery
      ````
    - [Thinkfan](https://github.com/vmatare/thinkfan) - The minimalist fan control program
+   - [Thinkfan-ui](https://github.com/zocker-160/thinkfan-ui) - A small gui app for Linux to control the fan speed and monitor temps on a ThinkPad
    - [TuneD](https://github.com/redhat-performance/tuned) - Tuning Profile Delivery Mechanism for Linux
    
    ### QR Codes
