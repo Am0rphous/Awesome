@@ -903,6 +903,7 @@ Based on that data, you can find the most popular ones and their alternatives.
       - [chriszabriskie.com/cylinders](https://www.chriszabriskie.com/cylinders/)
     
     ##### Radio
+    - [frekvenser.no](https://frekvenser.no) - norwegian list of frequencies: military, police, taxi, telenor, satelistes and lots of stuff. nice.
     - [Gradio](https://github.com/haecker-felix/gradio) - The successor of Gradio is Shortwave.
     - [Great Little Radio Player](https://sites.google.com/site/glrpgreatlittleradioplayer/home)
     - [lofi cli](https://github.com/zackradisic/lofi-cli) - Listen to ChilledCow's lofi hip-hop stream from the command line.
