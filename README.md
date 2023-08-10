@@ -845,6 +845,7 @@ Based on that data, you can find the most popular ones and their alternatives.
    - [FFscreencast](https://github.com/cytopia/ffscreencast) - ffscreencast - ffmpeg screencast/desktop-recording with video overlay and multi monitor support.
    - [Free assets for your next video project](https://mixkit.co/)
    - [Free Stock Video Footage ](https://www.videvo.net/)
+   - [FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
    - [Invidious](https://invidious.io/) - Invidious is an open source alternative front-end to YouTube. [Github](https://github.com/iv-org/invidious)
      - [Invidious Instances](https://docs.invidious.io/instances/)
      - [Tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
