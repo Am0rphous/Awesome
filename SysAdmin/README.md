@@ -1344,6 +1344,7 @@ upstream_recursive_servers:
    
 
 ### Virtual Machines
+- [Arm_now](https://github.com/nongiach/arm_now) - arm_now is a qemu powered tool that allows instant setup of virtual machines on arm cpu, mips, powerpc, nios2, x86 and more, for reverse, exploit, fuzzing and programming purpose.
  - [Boxes](https://wiki.gnome.org/Apps/Boxes) - Select an operating system and let Boxes download and install it for you in a virtual machine. [flatpak](https://flathub.org/apps/details/org.gnome.Boxes)
  - [Ganeti](https://github.com/ganeti/ganeti) - Ganeti is a virtual machine cluster management tool built on top of existing virtualization technologies such as Xen or KVM and other open source software.
  - [GraalVM](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere 🚀.
