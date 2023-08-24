@@ -224,6 +224,7 @@ Communicate clearly <br>
       - [Expression-search-NG](https://github.com/opto/expression-search-NG) - update of Thunderbird addon ExpressionSearch/Gmail UI for TB 78 and later
       - [Message Filters](http://kb.mozillazine.org/Filters_(Thunderbird)#Creating_and_editing_filters)
       - [How can I get Thunderbird to read msgFilterRules.dat?](https://support.mozilla.org/en-US/questions/1269514)
+      - [Import-export-tools-ng](https://github.com/thundernest/import-export-tools-ng) - Import Export Tools that supports Thunderbird 68/78/91/102
       - [Owl for Exchange](https://addons.thunderbird.net/thunderbird/addon/owl-for-exchange/?src=search) - Allows you to use your Exchange email accounts that use Outlook Web Access (OWA) with Thunderbird [beonex.com/owl](https://www.beonex.com/owl).
       - [Profiles - Where Thunderbird stores your messages and other user data](https://support.mozilla.org/en-US/kb/profiles-where-thunderbird-stores-user-data?redirectslug=profiles-tb&redirectlocale=en-US)
         - [Using Multiple Profiles](https://support.mozilla.org/en-US/kb/using-multiple-profiles) - As described in the Profiles article, Thunderbird saves personal information such as messages, passwords and user preferences in a set of files called a "profile", which is stored in a separate location from the Thunderbird program files. 
