@@ -792,6 +792,7 @@ upstream_recursive_servers:
   - [Proton VPN](https://protonvpn.com/secure-vpn/) - highly recommended - for every platform. [github](https://github.com/ProtonVPN)
     - [VPN Threat Model](https://protonvpn.com/blog/threat-model/)
     - [Linux app github](https://github.com/ProtonVPN/linux-app) - [Linux app github CLI](https://github.com/ProtonVPN/linux-cli)
+  - [Vtun](https://github.com/net-byte/vtun) - A simple VPN written in Go.
   - [WireGuard](https://github.com/WireGuard) - WireGuard® is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. [Wireguard.com](https://www.wireguard.com)
     - [docker-wireguard](https://github.com/linuxserver/docker-wireguard)
     - [docker-wireguard-socks-proxy](https://github.com/kizzx2/docker-wireguard-socks-proxy) - Expose a WireGuard tunnel as a SOCKS5 proxy 
