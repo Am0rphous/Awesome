@@ -35,6 +35,7 @@
 - [VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt.
 
 ## Attacks
+- [Bitlocker-attacks](https://github.com/Wack0/bitlocker-attacks) - A list of public attacks on BitLocker
 - [Crypton](https://github.com/ashutosh1206/Crypton) - Library consisting of explanation and implementation of all the existing attacks on various Encryption Systems, Digital Signatures, Key Exchange, Authentication methods along with example challenges from CTFs
 
 
