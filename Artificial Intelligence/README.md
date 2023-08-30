@@ -128,6 +128,7 @@ _Convolutional neural networks power image recognition and computer vision tasks
   - [ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API
 
   - [Some-mitm-proxy](https://github.com/zu1k/some-mitm-proxy) - 今天的帐号额度已用完，等待重置中，欢迎 Follow 和 Star
+  - [tgpt](https://github.com/aandrew-me/tgpt) - ChatGPT in terminal without needing API keys 
   - [Whatsapp-chatgpt](https://github.com/askrella/whatsapp-chatgpt) - ChatGPT + DALL-E + WhatsApp = AI Assistant :rocket:
   - [UnlimitedGPT](https://github.com/Sxvxgee/UnlimitedGPT) - An unofficial Python wrapper for OpenAI's ChatGPT API
 
