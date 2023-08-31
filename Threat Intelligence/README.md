@@ -1,5 +1,7 @@
 # Threat Intelligence
 
+- _Intelligence consisists of systematic gather, analyze and asess information to provide decision support._
+
 - [abuse.ch](https://abuse.ch/) - FIGHTING MALWARE AND BOTNETS
 - [Adversary Emulation Plan Library](https://github.com/scythe-io/community-threats) - The largest, public library of adversary emulation plans in JSON. A place to share custom SCYTHE threats with the community. #ThreatThursday.
 - [AlienVault](https://otx.alienvault.com/)
