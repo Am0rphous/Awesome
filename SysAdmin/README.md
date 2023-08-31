@@ -274,6 +274,7 @@ bro / zeek
 
   ### Analysis Tools Selfhosted
   - [Cuckoo Sandbox](https://cuckoosandbox.org) - Advanced, extremely modular, and 100% open source automated malware analysis system.
+    - [Platform-for-malware-analysis](https://github.com/NTNUSecurity/2019-Platform-for-malware-analysis) - This was a bachelor thesis project provided by NTNU SOC in spring 2019 to build and deploy a malware analysis environment based on cuckoo sandbox and VMware vSphere as underlying infrastructure installed and configured with Ansible 
   - [Project Freki](https://github.com/crhenr/freki) - Free and open-source malware analysis platform.
   - [Malice](https://github.com/maliceio/malice) -  Open source version of VirusTotal that anyone can use at any scale from an independent researcher to a fortune 500 company.
   - [Noriben](https://github.com/Rurik/Noriben) - Noriben - Portable, Simple, Malware Analysis Sandbox
