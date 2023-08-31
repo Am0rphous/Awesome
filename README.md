@@ -500,6 +500,7 @@ sudo apt-get install redshift-gtk
   - [EmojiPedia.org](https://emojipedia.org/)
   - [Emote](https://github.com/tom-james-watson/Emote) - Emoji Picker for Linux written in GTK3.
   - [Fontawesome.com's icons](https://fontawesome.com/v4.7/icons/)
+  - [Feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons - [feathericons.com](https://feathericons.com)
   - [Free Gophers Pack](https://github.com/MariaLetta/free-gophers-pack) - ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more. 
   - [gopher icons](https://github.com/JasonkayZK/gopher-icons) - A repo to collect gopher icons. 
     - [Gophers by ashleymcnamara](https://github.com/ashleymcnamara/gophers) - Gopher Artwork by Ashley McNamara
