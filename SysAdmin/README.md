@@ -378,6 +378,7 @@ bro / zeek
 - [AaPanel](https://www.aapanel.com/index.html)
 - [Ajenti GUI](https://ajenti.org/)
 - [Cockpit Web GUI Management](https://cockpit-project.org/) - Cockpit is a web-based graphical interface for servers.
+  - [cockpit-suricata](https://github.com/NTNUSecurity/2021-cockpit-suricata) - The module enables Suricata administrators to easily start, stop and restart the Suricata service without having to use text-based commands. In addition, our module supports a user-friendly graphical interface for administrating IDS-signatures. 
   - [Applications](https://cockpit-project.org/applications.html) - The Cockpit Web Console is extendable. The Cockpit team and others have built applications that are easy to install.
   - [Manage KVM Virtual Machines Using Cockpit Web Console](https://ostechnix.com/manage-kvm-virtual-machines-using-cockpit-web-console/)
   - [Reconfiguring virtual machines with Cockpit](https://fedoramagazine.org/reconfiguring-virtual-machines-with-cockpit/)
