@@ -107,7 +107,6 @@ _Convolutional neural networks power image recognition and computer vision tasks
 - [Awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
 - [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
   - [ChatGLM-Efficient-Tuning](https://github.com/hiyouga/ChatGLM-Efficient-Tuning) - Fine-tuning ChatGLM-6B with PEFT | 基于 PEFT 的高效 ChatGLM 微调
-
 - [ChatGPT](https://openai.com/blog/chatgpt/)
   - [Awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
   - [Awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT promt curation to use ChatGPT better.
@@ -118,15 +117,12 @@ _Convolutional neural networks power image recognition and computer vision tasks
    - [Chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI
    - [Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
    - [Plugins-quickstart](https://github.com/openai/plugins-quickstart) - Get a ChatGPT plugin up and running in under 5 minutes!
-
   - [ChatGPT-Gnome-Desktop-Extension](https://github.com/HorrorPills/ChatGPT-Gnome-Desktop-Extension) - ChatGPT Gnome Desktop Extension | Talk with ChatGPT from your menubar!
   - [Chatgpt-mac](https://github.com/vincelwt/chatgpt-mac) - ChatGPT for Mac, living in your menubar.
   - [ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。
-
   - [Chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) - Run your own GPTChat Telegram bot, with a single command!
   - [Chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT
   - [ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API
-
   - [Some-mitm-proxy](https://github.com/zu1k/some-mitm-proxy) - 今天的帐号额度已用完，等待重置中，欢迎 Follow 和 Star
   - [tgpt](https://github.com/aandrew-me/tgpt) - ChatGPT in terminal without needing API keys 
   - [Whatsapp-chatgpt](https://github.com/askrella/whatsapp-chatgpt) - ChatGPT + DALL-E + WhatsApp = AI Assistant :rocket:
@@ -134,7 +130,6 @@ _Convolutional neural networks power image recognition and computer vision tasks
 
 - [ChatRWVK](https://github.com/BlinkDL/ChatRWVK)
 - [EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft's Bing Chat AI
-
 - [FastChat](https://github.com/lm-sys/FastChat) - The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
 - [Gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue.
   - [Gpt4all.cpp](https://github.com/zanussbaum/gpt4all.cpp) - Locally run an Assistant-Tuned Chat-Style LLM
@@ -146,14 +141,13 @@ _Convolutional neural networks power image recognition and computer vision tasks
 - [Llama_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.
 - [Micro-gpt](https://github.com/muellerberndt/micro-gpt) - A minimal generic autonomous agent based on GPT3.5/4. Can analyze stock prices, perform network security tests, create art, and order pizza.
 - [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models
-
 - [MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [NanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
-
 - [Openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [OpenChatKit](https://github.com/togethercomputer/OpenChatKit)
 - [Open_flamingo](https://github.com/mlfoundations/open_flamingo) - An open-source framework for training large multimodal models
 - [Open_llama](https://github.com/openlm-research/open_llama)
+- [Petals](https://github.com/bigscience-workshop/petals) -  🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading 
 - [PrivateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [Project DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers. 
 - [Seamless_communication](https://github.com/facebookresearch/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
