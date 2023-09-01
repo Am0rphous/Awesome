@@ -78,7 +78,7 @@ ps axu | grep "/bin/tor"
   - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX.
   
   ### Security
-  - Enable touchID in Terminal. 1: Add `auth sufficient pam_tid.so` to the top of the list in this file `/etc/pam.d/sudo`. 2. Save and open a new terminal, ta-da.
+  - Enable touchID in terminal. Add `auth sufficient pam_tid.so` to the top of the list in the file `/etc/pam.d/sudo`. Save and open new terminal.
   - [DoNotDisturb](https://github.com/objective-see/DoNotDisturb) - Detect Evil Maid Attacks. 'Do Not Disturb' (DnD) is a free open-source security tool for macOS that aims to detect unauthorized physical access to your laptop!
   - [Dylib Hijack Scanner](https://objective-see.com/products/dhs.html)
   - [Mac-monitor](https://github.com/redcanaryco/mac-monitor) - Red Canary Mac Monitor is an advanced, stand-alone system monitoring tool tailor-made for macOS security research. Beginning with Endpoint Security (ES), it collects and enriches system events, displaying them graphically, with an expansive feature set designed to reduce noise.
