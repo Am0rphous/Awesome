@@ -33,11 +33,12 @@ Description: _Reinforcement learning is an area of machine learning concerned wi
 - [ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses) - A place to discover the latest machine learning courses on YouTube.
 - [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
 
-## Resources
+## List of resources
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) | Machine Learning for Cyber Security.
 - [Awesome Machine Learning Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)| A curated list of awesome machine learning interpretability resources. 
 - [Camera Classifier](https://github.com/NeuralNine/camera-classifier) - A Python application that uses camera input to train a SVM to respond to specific actions.
+- [Candle](https://github.com/huggingface/candle) -  Minimalist ML framework for Rust.
 - [CrypTen](https://github.com/facebookresearch/CrypTen) - A framework for Privacy Preserving Machine Learning.
 - [Emojifier](https://github.com/Anandesh-Sharma/Emojifier) - Recognizes faces in real time and predict emoji according to the emotion.
 - [envd](https://github.com/tensorchord/envd) - 🏕️ Development environment for machine learning
