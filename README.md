@@ -833,6 +833,7 @@ Based on that data, you can find the most popular ones and their alternatives.
    - [Qt Visual Graph Editor](https://github.com/ArsMasiuk/qvge) - QVGE is a multiplatform graph editor written in C++/Qt. Its main goal is to make possible visually edit two-dimensional graphs in a simple and intuitive way.
    - [RAWGraphs](https://github.com/rawgraphs/rawgraphs-app) - A web interface to create custom vector-based visualizations on top of RAWGraphs core.
    - [SciChart.js ](https://github.com/ABTSoftware/SciChart.JS.Examples) - JavaScript Chart Examples Suite.
+   - [tldraw.com](https://www.tldraw.com) - a very good whiteboard. [source](https://github.com/tldraw/tldraw)
    - [Vega](https://github.com/vega/vega) - A visualization grammar.
    - [www.jqplot.com](http://www.jqplot.com) - jqPlot is a plotting and charting plugin for the jQuery Javascript framework. jqPlot produces beautiful line, bar and pie charts with many features.
    - [yEd Graph Editor](https://www.yworks.com/products/yed) - Powerful desktop application that can be used to quickly and effectively generate high-quality diagrams.
