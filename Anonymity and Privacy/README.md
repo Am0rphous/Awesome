@@ -41,7 +41,8 @@ Check this link later: https://arstechnica.com/information-technology/2016/08/bu
 
 ## Awesome
 - [Awesome-network-stuff](https://github.com/alphaSeclab/awesome-network-stuff) - Resources about network security, including: Proxy/GFW/ReverseProxy/Tunnel/VPN/Tor/I2P, and MiTM/PortKnocking/NetworkSniff/NetworkAnalysis/etc。More than 1700 open source tools for now. Post incoming.
-- [Awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
+- [Awesome-privacy - Lissy93](https://github.com/Lissy93/awesome-privacy) - 🦄 A curated list of privacy & security-focused software and services 
+- [Awesome-privacy - pluja](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [FreeNet Project](https://freenetproject.org)
 - [HiddenVM](https://github.com/aforensics/HiddenVM) - HiddenVM — Use any desktop OS without leaving a trace. 
 - [ZeroNet](https://github.com/HelloZeroNet/ZeroNet#how-to-join) - Decentralized websites using Bitcoin crypto and BitTorrent network.
