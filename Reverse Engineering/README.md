@@ -114,7 +114,7 @@ Portable Executables binaries
 - [Diaphora](https://github.com/joxeankoret/diaphora) - Diaphora, the most advanced Free and Open Source program diffing tool.
 - [difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [Graudit](https://github.com/wireghoul/graudit) - grep rough audit - source code auditing tool.
-- [OWASP Dependency-Check](https://owasp.org/www-project-dependency-check/) - Dependency-Check is a Software Composition Analysis (SCA) tool that attempts to detect publicly disclosed vulnerabilities contained within a project’s dependencies. It does this by determining if there is a Common Platform Enumeration (CPE) identifier for a given dependency. If found, it will generate a report linking to the associated CVE entries.
+- [dependency-check](https://github.com/jeremylong/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies. 
 - [Route-sixty-sink](https://github.com/mandiant/route-sixty-sink) - Link sources to sinks in C# applications.
 
 - [SonarJS](https://github.com/SonarSource/SonarJS) - SonarSource Static Analyzer for JavaScript and TypeScript
