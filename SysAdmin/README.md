@@ -1279,6 +1279,7 @@ upstream_recursive_servers:
   - [K3S](https://k3s.io/) - The certified Kubernetes distribution built for IoT & Edge computing
     - [kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes.
   - [LXC](https://linuxcontainers.org/lxc/)
+    - [lxd-webgui](https://github.com/dobin/lxd-webgui) - A lightweight web frontend for LXD 
   - [jenkins.linuxcontainers.org](https://jenkins.linuxcontainers.org/)
     - [LXC Web Panel's dashboard (old)](https://github.com/lxc-webpanel/dashboard) - Might need flask `pip3 install flask`
   - [LXD](https://linuxcontainers.org/lxd/)
