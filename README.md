@@ -924,6 +924,7 @@ Based on that data, you can find the most popular ones and their alternatives.
     ##### Sound Production
     - [Ardour](https://ardour.org/) - Record, Edit, and Mix on Linux, macOS and Windows
     - [Audacity](https://sourceforge.net/projects/audacity)
+    - [ awesome-linuxaudio ](https://salsa.debian.org/nodiscc/awesome-linuxaudio) - A list of software and resources for professional audio/video/live events production on Linux.
     - [Bitwig Studio](https://www.bitwig.com/)
     - [Cadmus](https://github.com/josh-richardson/cadmus) - A GUI frontend for @werman's Pulse Audio real-time noise suppression plugin
     - [Cecilia](http://ajaxsoundstudio.com/software/cecilia/) - Cecilia is an audio signal processing environment aimed at sound designers. Cecilia mangles sound in ways unheard of. Cecilia lets you create your own GUI using a simple syntax. Cecilia comes with many original built-in modules and presets for sound effects and synthesis.
