@@ -45,6 +45,7 @@
   - [Network Visualization](#network-visualization)
   - [Packet Capture](#packet-capture)
   - [Remoting](#remoting)
+    - [RDP Applications](#RDP-Applications)
     - [VPN - Virtual Private Network](#vpn---virtual-private-network)
       - [Services](#services)
   - [Storage](#storage)
@@ -737,7 +738,7 @@ upstream_recursive_servers:
   ````
 - [ElecTerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp client(linux, mac, win).
 - [Eternal Terminal](https://github.com/MisterTea/EternalTerminal) - Re-Connectable secure remote shell.
-- RDP Applications
+#### RDP Applications
   - [mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
   - [RDesktop](https://www.rdesktop.org/) - rdesktop is an open source client for Microsoft's RDP protocol. It is known to work with Windows versions ranging from NT 4 Terminal Server to Windows 2012 R2 RDS. rdesktop currently has implemented the RDP version 4 and 5 protocols. Install with: `sudo apt install rdesktop`
   - [Remmina](https://github.com/FreeRDP/Remmina) - Mirror of [https://gitlab.com/Remmina/Remmina](https://gitlab.com/Remmina/Remmina) The GTK+ Remmina Remote Desktop Client.
