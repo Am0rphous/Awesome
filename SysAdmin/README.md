@@ -690,6 +690,7 @@ implementation of the Domain Name System (DNS) protocol.
   - [Unbound DNS](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver. [Homepage](https://nlnetlabs.nl/projects/unbound/about/)
   - [Stubby](https://github.com/getdnsapi/stubby) - Stubby is the name given to a mode of using getdns which enables it to act as a local DNS Privacy stub resolver (using DNS-over-TLS). 
 Make sure the file `/etc/stubby/stubby.yml` contains these upstreams settings
+
 ````
 upstream_recursive_servers:
   - address_data: 1.1.1.1
@@ -701,6 +702,7 @@ upstream_recursive_servers:
 ````
 
   ### Homelab
+  - [FreedomBox](https://salsa.debian.org/freedombox-team/freedombox) - Easy to manage, privacy oriented home server - see https://www.freedombox.org
   - [Homelab](https://github.com/khuedoan/homelab) - Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
 
   ### Network Diagrams and Visualization 
