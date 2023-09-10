@@ -339,6 +339,7 @@ Communicate clearly <br>
 
 - [Conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X
 - [Conky-Colors](https://github.com/helmuthdu/conky_colors) - easier way to configure Conky.
+- [Dash to Dock](https://github.com/micheleg/dash-to-dock) - A dock for the Gnome Shell. This extension moves the dash out of the overview transforming it in a dock for an easier launching of applications and a faster switching between windows and desktops. 
 - [Docky](https://gitlab.com/docky-dock-app-linux/docky) - Docky is a full fledged dock application that makes opening common applications and managing windows easier and quicker. The official project is abandoned, so we forked it to keep the project alive.
 - [GKrellM](http://gkrellm.srcbox.net/) - single process stack of system monitors.
 - [Hardcode-Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - Fixes Hardcoded tray icons in Linux.
