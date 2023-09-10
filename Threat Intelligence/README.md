@@ -33,7 +33,9 @@
 - [TypeDB Data - CTI](https://github.com/typedb-osi/typedb-data-cti) - Knowledge Graph for Cyber Threat Intelligence with TypeDB.
 - [VTI-Cosplay](https://github.com/r00tten/VTI-Cosplay) - vti-cosplay is a solution to the problem due to the lack of a Virustotal Enterprise license. First, it parses the YARA rule, maps each atomic entry to Virustotal API endpoints, and merges individual results. Subsequently, it mimics the YARA scan on the Virustotal platform.
 
-## MISP - Malware Information Sharing Platform
+## Threat Intel Platforms
+- [Best Open Source Threat Intelligence Platforms and Feeds](https://www.zenarmor.com/docs/network-security-tutorials/best-open-source-threat-intelligence-platforms-and-feeds)
+- [Intel Owl](https://github.com/intelowlproject/IntelOwl) - Intel Owl: analyze files, domains, IPs in multiple ways from a single API at scale 
 - [MISP - Threat Intelligence Sharing Platform](https://github.com/MISP/MISP) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform (formely known as Malware Information Sharing Platform).
   - [circl.lu - MIST Training Materials](https://www.circl.lu/services/misp-training-materials/) - [github](https://github.com/MISP/misp-training)
   - [FireArms_Intelligence](https://github.com/W4zT3r/FireArms_Intelligence) - Gather information through MISP definition of firearms taxonomy
@@ -43,7 +45,8 @@
   - [MISP Virtual Machine](https://vm.misp-project.org/)
   - [puppet-misp](https://github.com/voxpupuli/puppet-misp) - This module installs and configures MISP (Malware Information Sharing Platform).
   - [PyMISP](https://github.com/MISP/PyMISP) - Python library using the MISP Rest API 
-  
+- [OpenCTI](https://filigran.io/solutions/products/opencti-threat-intelligence/) - Open Threat Intelligence Platform. Store, organize, visualize and share knowledge about cyber threats. Handle incident response cases and collaborative work.
+
 ### Feed
 - [Botvrij.eu OSINT feed](https://www.botvrij.eu/data/feed-osint/)
 - [CIRCL OSINT Feed](https://www.circl.lu/doc/misp/feed-osint/)
