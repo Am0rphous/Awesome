@@ -17,6 +17,7 @@
 - [Karakurt Hacking Team Indicators of Compromise (IOC)](https://github.com/infinitumitlabs/Karakurt-Hacking-Team-CTI) - IOC Data Obtained From Karakurt Hacking Team's Internal Infrastructure.
 - [Mapping MITRE ATT&CK® to CVEs for Impact](https://github.com/center-for-threat-informed-defense/attack_to_cve) - A methodology for mapping MITRE ATT&CK techniques to vulnerability records to describe the impact of a vulnerability.
 - [Msticpy](https://github.com/microsoft/msticpy) - Microsoft Threat Intelligence Security Tools
+- [OpenCTI ](https://github.com/OpenCTI-Platform/opencti) - Open Cyber Threat Intelligence Platform 
 - [Penetrum LLC Opensource Threat Intelligence](https://github.com/Penetrum-Security/Threat-Intelligence) - Penetrum LLC opensource Threat Intel. All information is also available at https://penetrum.com.
 - [PyOTI - Python Open Threat Intelligence](https://github.com/RH-ISAC/PyOTI) - Python library for threat intelligence.
 - [RansomLook](https://github.com/RansomLook/RansomLook) - Yet another Ransomware gang tracker
