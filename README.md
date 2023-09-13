@@ -236,11 +236,14 @@ Communicate clearly <br>
   #### Security Tools
   - [E-Mail Header Analyzer (MHA)](https://github.com/cyberdefenders/email-header-analyzer) - E-Mail header analyzer is a tool written in flask for parsing email headers and converting them to a human readable format and it also can: Identify hop delays, Identify the source of the email, Identify hop country.
   - [Email Self-Defense](https://emailselfdefense.fsf.org/en/)
-  - [GPG Suite](https://gpgtools.org/)
   - [Malcore-Office-Shield](https://github.com/Internet-2-0/Malcore-Office-Shield-Releases) - Releases for the Malcore Office Shield
-  - [OpenPGP ](https://www.openpgp.org/)
-    - [keys.openpgp.org](https://keys.openpgp.org/)
-  - [The GNU Privacy Guard](https://gnupg.org/)
+  - [GPG - GNU Privacy Guard](https://gnupg.org)
+    - [Gpg4win](https://www.gpg4win.org) - A secure solution for file and email encryption. Gpg4win (GNU Privacy Guard for Windows) is Free Software and can be installed with just a few mouse clicks. 
+    - [GPG Suite](https://gpgtools.org/)
+  - [OpenPGP](https://www.openpgp.org/)
+    - [Kleopatra](https://apps.kde.org/kleopatra/) - A certificate manager for OpenPGP and X.509 (S/MIME) and common crypto dialogs.
+    - [keys.openpgp.org](https://keys.openpgp.org)
+    - [http://pgp.mit.edu/](http://pgp.mit.edu)
 
   ### IRC
   - [awesome-irc](https://github.com/davisonio/awesome-irc) - A curated list of awesome IRC resources.
