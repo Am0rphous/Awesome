@@ -34,6 +34,11 @@
 - [Sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets 
 - [VeraCrypt](https://github.com/veracrypt/VeraCrypt) - Disk encryption with strong security based on TrueCrypt.
 
+## Algorithms
+- Ed25519 - uses 256 bits key length
+  - cv25519 - uses 128 bits key length
+  - Combined are they 384 bits. An ed25519 key with a key length of 256 bits is considered just as strong as an RSA 3072 bits key.
+
 ## Attacks
 - [Bitlocker-attacks](https://github.com/Wack0/bitlocker-attacks) - A list of public attacks on BitLocker
 - [Crypton](https://github.com/ashutosh1206/Crypton) - Library consisting of explanation and implementation of all the existing attacks on various Encryption Systems, Digital Signatures, Key Exchange, Authentication methods along with example challenges from CTFs
