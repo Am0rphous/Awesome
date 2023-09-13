@@ -241,7 +241,7 @@ Communicate clearly <br>
     - [Gpg4win](https://www.gpg4win.org) - A secure solution for file and email encryption. Gpg4win (GNU Privacy Guard for Windows) is Free Software and can be installed with just a few mouse clicks. 
     - [GPG Suite](https://gpgtools.org/)
   - [OpenPGP](https://www.openpgp.org/)
-    - [Kleopatra](https://apps.kde.org/kleopatra/) - A certificate manager for OpenPGP and X.509 (S/MIME) and common crypto dialogs.
+    - [Kleopatra](https://apps.kde.org/kleopatra/) - A certificate manager for OpenPGP and X.509 (S/MIME) and common crypto dialogs. On Windows, Kleopatra chooses **ed25519** and **cv25519** as cryptographic algorithms. Azure AI: Ed25519 uses 256 bits key length, while cv25519 uses 128 bits. Combined are they 384 bits. An ed25519 key with a key length of 256 bits is considered just as strong as an RSA 3072 bits key.
     - [keys.openpgp.org](https://keys.openpgp.org)
     - [http://pgp.mit.edu/](http://pgp.mit.edu)
 
