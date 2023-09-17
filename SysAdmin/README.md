@@ -1337,6 +1337,7 @@ upstream_recursive_servers:
  - [Oracle VM Server for x86](https://www.oracle.com/in/a/ocom/docs/ovm-server-for-x86-459312.pdf)
  - [oVirt](https://www.ovirt.org/download/) - oVirt is an open-source distributed virtualization solution developed for Linux operating systems such as RedHat Enterprise, CentOS, Scientific Linux, Fedora 28, and also available as oVirt Node which is CentOS based. It is a Linux KVM hypervisor designed for enterprise infrastructure.
  - [Proxmox](https://www.proxmox.com/en/downloads) - Proxmox VE is a complete open-source virtualization management platform that closely integrates two virtualization technologies: KVM (Kernel-based Virtual Machine) hypervisor and Linux container (LXC) to provide enterprise-class virtualization.
+   - [Awesome-proxmox-ve](https://github.com/Corsinvest/awesome-proxmox-ve) - A collection of awesome Proxmox VE documentation, tools, api, blogs, site
    - [High Availability](https://pve.proxmox.com/wiki/High_Availability)
    - [Proxmoxer wrapper for proxmox api v2](https://github.com/proxmoxer/proxmoxer) - python wrapper for Proxmox API v2 (https://pve.proxmox.com/pve-docs/api-viewer/index.html)
    - [PVEDiscordDark](https://github.com/Weilbyte/PVEDiscordDark) - A Discord-like dark theme for the Proxmox Web UI.
