@@ -709,7 +709,7 @@ upstream_recursive_servers:
   ### Network Diagrams and Visualization
     - [Fantastic Full Source Code](https://github.com/besimorhino/project-fantastic) - visualizing tool made by InfoSec Innovations for exploring computer networks.
     - [NAV by Uninet](https://github.com/Uninett/nav) - Network Administration Visualized 
-    - [Visua Paradigm Online](https://online.visual-paradigm.com/)
+    - [Visua Paradigm Online](https://online.visual-paradigm.com)
     - [Quark](https://github.com/s0md3v/Quark) - Quark is a data visualization framework.
 
   ### Packet Capture
@@ -717,7 +717,6 @@ upstream_recursive_servers:
   - [DPI Using GPUs pdf](https://on-demand.gputechconf.com/gtc/2017/presentation/s7468-wenji-wu-network-traffic-analysis-using-gpus.pdf) - Deep Packet Inspection Using GPUs
   - [Extract TLS Secrets](https://github.com/neykov/extract-tls-secrets) - Decrypt HTTPS/TLS connections on the fly with Wireshark.
   - [Fatt](https://github.com/0x4D31/fatt) - FATT /fingerprintAllTheThings - a pyshark based script for extracting network metadata and fingerprints from pcap files and live network traffic
-
   - [WireCAP](https://wirecap.fnal.gov/) - a Novel Packet Capture Engine for Commodity NICs in High-speed Networks
   - [Wireshark](https://github.com/wireshark/wireshark) - wireshark.org
     - [PCAP Anonymizer](https://www.voipanalyzertool.com/anonymize) - "GDPR / LGPD : Obfuscate your Wireshark PCAP captures"
