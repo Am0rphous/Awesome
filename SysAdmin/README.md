@@ -706,13 +706,13 @@ upstream_recursive_servers:
   - [FreedomBox](https://salsa.debian.org/freedombox-team/freedombox) - Easy to manage, privacy oriented home server - see https://www.freedombox.org
   - [Homelab](https://github.com/khuedoan/homelab) - Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
 
-  ### Network Diagrams and Visualization 
+  ### Network Diagrams and Visualization
     - [Fantastic Full Source Code](https://github.com/besimorhino/project-fantastic) - visualizing tool made by InfoSec Innovations for exploring computer networks.
     - [NAV by Uninet](https://github.com/Uninett/nav) - Network Administration Visualized 
-    - [Visua Paradigm Online](https://online.visual-paradigm.com/drive/#diagramlist:proj=0&dashboard)
+    - [Visua Paradigm Online](https://online.visual-paradigm.com/)
     - [Quark](https://github.com/s0md3v/Quark) - Quark is a data visualization framework.
 
-  ## Packet Capture
+  ### Packet Capture
   - [deep-packet-inspection](https://devopedia.org/deep-packet-inspection)
   - [DPI Using GPUs pdf](https://on-demand.gputechconf.com/gtc/2017/presentation/s7468-wenji-wu-network-traffic-analysis-using-gpus.pdf) - Deep Packet Inspection Using GPUs
   - [Extract TLS Secrets](https://github.com/neykov/extract-tls-secrets) - Decrypt HTTPS/TLS connections on the fly with Wireshark.
