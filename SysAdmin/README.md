@@ -706,6 +706,11 @@ upstream_recursive_servers:
   - [FreedomBox](https://salsa.debian.org/freedombox-team/freedombox) - Easy to manage, privacy oriented home server - see https://www.freedombox.org
   - [Homelab](https://github.com/khuedoan/homelab) - Small and energy efficient self-hosting infrastructure, fully automated from empty disk to operating services.
 
+### IPAM (IP Address Management)
+- [Netbox](https://github.com/netbox-community/netbox) - [https://netbox.dev](https://netbox.dev/) The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev 
+- [phpIPAM](https://phpipam.net/) - [docker](https://github.com/pierrecdn/phpipam) - phpipam is an open-source web IP address management application (IPAM). Its goal is to provide light, modern and useful IP address management. It is php-based application with MySQL database backend, using jQuery libraries, ajax and HTML5/CSS3 features.
+  - [phpipam-subnet-visual](https://github.com/LedoB/phpipam-subnet-visual) - Enhanced PHPIPAM Subnet Visualization 
+
   ### Network Diagrams and Visualization
     - [Fantastic Full Source Code](https://github.com/besimorhino/project-fantastic) - visualizing tool made by InfoSec Innovations for exploring computer networks.
     - [NAV by Uninet](https://github.com/Uninett/nav) - Network Administration Visualized 
