@@ -99,6 +99,7 @@
 - [Flumine](https://github.com/betcode-org/flumine) - flūmine - Betting trading framework
 - [Freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [GUI Pancakeswap and Uniswap trading client (and bot)](https://github.com/persianhydra/panUNIswap-bot) - GUI Pancakeswap V2 and Uniswap V3 trading client (and bot)MOST ADVANCE TRADING BOT SUPPORT WINDOWS LINUX MAC.
+- [Hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots 
 
 ## Wallets
 - [Guarda Desktop Crypto Wallet](https://guarda.com/desktop/)
