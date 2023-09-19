@@ -42,7 +42,7 @@
   - [DHCP](#dhcp)
   - [DNS](#dns)
   - [Homelab](#homelab)
-  - [Network Visualization](#network-visualization)
+  - [Network Diagrams and Visualization](#Network-Diagrams-and-Visualization)
   - [Packet Capture](#packet-capture)
   - [Remoting](#remoting)
     - [RDP Applications](#RDP-Applications)
