@@ -1370,6 +1370,7 @@ upstream_recursive_servers:
    - [KVM Management Tools list](https://www.linux-kvm.org/page/Management_Tools) - Options available to manage kvm virtual machines.
    - [Kvmtool](https://github.com/kvmtool/kvmtool) - Stand-alone Native Linux KVM Tool repo
    - [libosinfo: The Operating System information database](https://libosinfo.org/)
+   - [Looking Glass](https://looking-glass.io/) - Looking Glass is an open source application that allows the use of a KVM (Kernel-based Virtual Machine) configured for VGA PCI Pass-through without an attached physical monitor, keyboard or mouse. This is the final step required to move away from dual booting with other operating systems for legacy programs that require high performance graphics.
    - [Virt-manager](https://virt-manager.org/) - The virt-manager application is a desktop user interface for managing virtual machines through libvirt. It primarily targets KVM VMs, but also manages Xen and LXC (linux containers).
    - [Vmmaestro](https://github.com/mzch/vmmaestro) - Tiny control wrapper for KVM.
 - [MacVM](https://github.com/KhaosT/MacVM) - macOS VM for Apple Silicon using Virtualization API 
