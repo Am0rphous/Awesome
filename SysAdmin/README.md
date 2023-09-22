@@ -347,7 +347,7 @@ bro / zeek
 - [Localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline! 
 - [Mist.io](https://mist.io) - Mist is an open source multicloud management platform.
 - [OpenShift](https://www.openshift.com) - [github.com/openshift](https://github.com/openshift) Red Hat OpenShift is the hybrid cloud platform of open possibility: powerful, so you can build anything and flexible, so it works anywhere.
-- OpenStack - The Most Widely Deployed Open Source Cloud Software in the World
+- [OpenTofu](https://opentofu.org/) - Open-Source Alternative to Terraform - The open source infrastructure as code tool. Previously named OpenTF, OpenTofu is a fork of Terraform that is open-source, community-driven, and managed by the Linux Foundation
   - [defsec](https://github.com/aquasecurity/defsec) - DefSec is a set of tools for scanning IaC and configuration files. 
   - [OpenStack.org](https://www.openstack.org/)
   - [Octavia](https://wiki.openstack.org/wiki/Octavia ) - Octavia is an operator-grade open source scalable load balancer. 
