@@ -236,3 +236,4 @@ brew analytics off
   ### Time Management
   - [Countdown](https://github.com/funway/Countdown) - A countdown task App on macOS.
   - [MenubarCountdown](https://github.com/kristopherjohnson/MenubarCountdown) - Menubar countdown timer for macOS.
+  - [MeetingBar ](https://github.com/leits/MeetingBar) - 🇺🇦 Your meetings at your fingertips in the macOS menu bar 
