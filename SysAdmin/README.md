@@ -1030,6 +1030,7 @@ upstream_recursive_servers:
     - [KeePassXC Browser Extension](https://github.com/keepassxreboot/keepassxc-browser)
   - [OTP Auth(iOS)](https://cooperrs.de/otpauth.html) - [A Better iOS Authenticator: OTP Auth](https://greycoder.com/a-better-ios-authenticator-otp-auth/)
   - [padloc](https://github.com/padloc/padloc) - A modern, open source password manager for individuals and teams.
+  - [psono.com](https://psono.com/) - Psono is an open source and self hosted password manager to help keep your data safe. It stores your credentials encrypted and only you can access your data. Access can be shared encrypted with your team. As an open source password manager, Psono comes with a variety of features to manage your data and access your passwords more easily than ever before. Community = free and open source with unlimited users.
   - [Swifty](https://github.com/swiftyapp/swifty) - Free Offline Password Manager.
 
   ### Sandboxing tools
