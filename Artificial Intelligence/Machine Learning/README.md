@@ -30,6 +30,8 @@ Description: _Reinforcement learning is an area of machine learning concerned wi
 - [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 25 lessons, 50 quizzes, classic Machine Learning for all.
 - [Machine Learning for Cyber Security](https://github.com/wtsxDev/Machine-Learning-for-Cyber-Security) - Curated list of tools and resources related to the use of machine learning for cyber security.
 - [ML Course Notes](https://github.com/dair-ai/ML-Course-Notes) - Sharing course notes on all topics related to machine learning, NLP, and AI.
+- [Ml-engineering](https://github.com/stas00/ml-engineering) - Machine Learning Engineering Guides and Tools
+
 - [ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses) - A place to discover the latest machine learning courses on YouTube.
 - [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
 
