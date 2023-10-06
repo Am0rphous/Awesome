@@ -426,6 +426,9 @@ sudo apt-get install redshift-gtk
 
 
 ## Development
+- [Pkgx](https://github.com/pkgxdev/pkgx) - “run anything” from the creator of `brew`
+<br>
+
 - [30secondsofcode.org](https://www.30secondsofcode.org)
 - [appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [Awesome Community](https://github.com/phpearth/awesome-community) - A curated list of awesome programming, development, technical support and discussion channels, groups, communities, resources and other shiny things.
