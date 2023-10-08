@@ -1166,6 +1166,7 @@ that works on top of your local folder of plain text files. [github](https://git
 
 ## Tools
 - [lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm.
+- [https://linuxsecurity.expert/security-tools/](https://linuxsecurity.expert/security-tools/)
 - [QR Code Generator](https://www.qr-code-generator.com/)
 
   ### DVD-ripping
