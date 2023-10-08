@@ -837,6 +837,7 @@ Based on that data, you can find the most popular ones and their alternatives.
    - [jChaart](https://github.com/oazabir/jChaart) - Javascript and HTML based Web Dashboard framework.
    - [Karbon](https://calligra.org/karbon/index.html) - Karbon is a vector drawing application with an user interface that is easy to use, highly customizable and extensible. That makes Karbon a great application for users starting to explore the world of vector graphics as well as for artists wanting to create breathtaking vector art. 
    - [LynxKite](https://github.com/lynxkite/lynxkite) - LynxKite is a complete graph data science platform for very large graphs and other datasets. It seamlessly combines the benefits of a friendly graphical interface and a powerful Python API.
+   - [nomnoml.com](https://www.nomnoml.com/) - The sassy UML diagram renderer 
    - [Plotly](https://pypi.org/project/plotly/) - An open-source, interactive data visualization library for Python.
      - [Plotly Dash](https://dash.plotly.com/layout)
    - [Protovis](https://mbostock.github.io/protovis/)
