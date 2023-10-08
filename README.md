@@ -304,6 +304,7 @@ Communicate clearly <br>
     - [Giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions.
     - [Github Cloner](https://github.com/mazen160/GithubCloner) - A script that clones Github repositories of users and organizations. 
     - [Github Desktop](https://github.com/desktop/desktop) - open source Electron-based GitHub app. It is written in TypeScript and uses React [desktop.github.com/](https://desktop.github.com).
+    - [Github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
     - [Gitify](https://github.com/manosim/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
     - [Gitleaks](https://github.com/zricethezav/gitleaks) - Protect and discover secrets using Gitleaks 🔑
     - [Git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
