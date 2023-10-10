@@ -1029,11 +1029,10 @@ Based on that data, you can find the most popular ones and their alternatives.
     - [NixNote2](https://github.com/baumgarr/Nixnote2) - A clone of Evernote for Linux.
     - [Tusk](https://github.com/klaussinani/tusk) - Refined Evernote desktop app.
   - [Joplin](https://github.com/laurent22/joplin) - An open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: [discourse.joplinapp.org](https://discourse.joplinapp.org)
+  - [Memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
   - [MindNode](https://mindnode.com/download) - Brainstorm and mind mapping.
     - [Dracula for MindNode](https://github.com/dracula/mindnode) - Dark theme for MindNode.
-  - [Notejot](https://github.com/lainsce/notejot) - Stupidly-simple notes app. 
-  - [Simplenote for Electron](https://github.com/Automattic/simplenote-electron) - Simplenote for Web, Windows, and Linux.
-  - [Standard Notes](https://github.com/standardnotes/desktop) - A free, open-source, and completely encrypted notes app. Mac, PC, & Linux app repository. [standardnotes.com](https://standardnotes.com)
+  - [Notejot](https://github.com/lainsce/notejot) - Stupidly-simple notes app.
   - [Notes](https://github.com/nuttyartist/notes) - Note-taking application, write down your thoughts.
   - [Notion](https://www.notion.so) - All-in-one workspace.
   - [obsidian.md](https://obsidian.md) - Obsidian is a powerful and extensible knowledge base
@@ -1041,6 +1040,8 @@ that works on top of your local folder of plain text files. [github](https://git
   - [P3X OneNote Linux](https://github.com/patrikx3/onenote) - 📚 Linux Electron Onenote - A Linux compatible version of OneNote.
   - [oamresearch.com](https://roamresearch.com/) - A note-taking tool for networked thought. As easy to use as a document. As powerful as a graph database. Roam helps you organize your research for the long haul.
   - [rofi-todo.sh](https://github.com/claudiodangelis/rofi-todo) - 📓 Minimal todo client for the rofi launcher.
+  - [Simplenote for Electron](https://github.com/Automattic/simplenote-electron) - Simplenote for Web, Windows, and Linux.
+  - [Standard Notes](https://github.com/standardnotes/desktop) - A free, open-source, and completely encrypted notes app. Mac, PC, & Linux app repository. [standardnotes.com](https://standardnotes.com)
   - [standardnotes.com](https://standardnotes.com/)
   - [Taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
     - [How to Manage Your Tasks in the Terminal with Taskbook](https://www.maketecheasier.com/manage-tasks-in-terminal-with-taskbook/)
