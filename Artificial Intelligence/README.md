@@ -64,6 +64,7 @@
 
 ## Coding
 - [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
+- [Octogen](https://github.com/dbpunk-labs/octogen) - Octogen is an Open-Source Code Interpreter Powered by GPT3.5/4 and Codellama 
 
 ## Design
 - [DALL·E 2](https://openai.com/dall-e-2/) - DALL·E 2 is a new AI system that can create realistic images and art from a description in natural language.
