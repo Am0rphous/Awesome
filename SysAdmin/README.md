@@ -1399,6 +1399,7 @@ upstream_recursive_servers:
   - [Qemu Docs](https://www.qemu.org/docs/master)
   - [Qira](https://github.com/geohot/qira) - QEMU Interactive Runtime Analyser.
 - [Quickemu](https://github.com/wimpysworld/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
+  - [Quickgui](https://github.com/quickemu-project/quickgui) - A Flutter frontend for quickget and quickemu.
 - [XCP-ng](https://xcp-ng.org) - Virtualization platform based on Xen Source and Citrix® Hypervisor (formerly XenServer). XCP-ng stands for Xen Cloud Platform - New Generation.
   - [XCP-ng documentation](https://xcp-ng.org/docs)
   #### VM prep
