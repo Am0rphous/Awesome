@@ -128,6 +128,7 @@ Communicate clearly <br>
 
 | Name | Description |
 | - | - |
+| [Awesome Cyber Security University](https://github.com/brootware/awesome-cyber-security-university) | 🎓 Because Education should be free. Contributions welcome! 🕵️ |
 |[Awesome DevSecOps](https://github.com/devsecops/awesome-devsecops) | An authoritative list of awesome devsecops tools with the help from community experiments and contributions.|
 | [Awesome Humane Tech](https://github.com/humanetech-community/awesome-humane-tech)| Promoting Solutions that Improve Wellbeing, Freedom and Society |
 | [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk)|Awesome Indexed|
