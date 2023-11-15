@@ -75,6 +75,7 @@
 
  ### Face / Emotions
  - [Bilibilili](https://github.com/Bingzi-Li/bilibilili) - A face-recognition-based attendance taking system.
+ - [ David Attenborough narrates your life ](https://github.com/cbh123/narrator)
  - [DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls 
  - [Deep-PoC](https://github.com/PoCInnovation/Deep-PoC) - Deep-PoC is a deepFake detection tool designed to detect deepfakes from videos or images using artificial intelligence. 
  - [Detect Eyes and Detect Faces in Python](https://copyassignment.com/detect-eyes-and-detect-faces-in-python-and-opencv/)
