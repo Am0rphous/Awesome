@@ -15,7 +15,7 @@ ORPort 443 IPv4Only                                   #only ipv4
 ServerTransportPlugin obfs4 exec /usr/bin/obfs4proxy
 ServerTransportListenAddr obfs4 YOURIPADDRESSHERE:80
 ExtORPort auto
-Nickname Valsec
+Nickname Anonymous
 ContactInfo Anonymous
 DataDirectory /var/lib/tor
 //MaxMemInQueues 4096 MB                            ##Limit RAM usage
