@@ -18,11 +18,11 @@ ExtORPort auto
 Nickname Valsec
 ContactInfo Anonymous
 DataDirectory /var/lib/tor
-//MaxMemInQueues 1024 MB                              ##Limit RAM usage
-RelayBandwidthRate 1024 KB                            ##1 Mbit
-MaxAdvertisedBandwidth 1024 KB                        ##1 Mbit
+//MaxMemInQueues 4096 MB                            ##Limit RAM usage
+RelayBandwidthRate 10 MB                            ##10 Mbit
+MaxAdvertisedBandwidth 10 MB                        ##10 Mbit
 
-// ORPort 443 IPv4Only                                ##Need to check syntax here
+// ORPort 443 IPv4Only                              ##Need to check syntax here
 //done
 EOF
 
