@@ -140,6 +140,7 @@ Communicate clearly <br>
 | [Awesome list of secrets in environment variables](https://github.com/Puliczek/awesome-list-of-secrets-in-environment-variables)| 🦄🔒 Awesome list of secrets in environment variables 🖥️.|
 | [Awesome Linux](https://github.com/inputsh/awesome-linux) | 🐧 A list of awesome projects and resources that make Linux even more awesome. 🐧|
 | [Awesome Loginless](https://github.com/fiatjaf/awesome-loginless) | an awesome list of internet services that don't require logins or registrations.|
+| [Awesome-smart-tv](https://github.com/vitalets/awesome-smart-tv) |  ⚡A curated list of awesome resources for building Smart TV apps |
 <br>
 
 - [StarGazed](https://github.com/abhijithvijayan/stargazed) - Creating your own Awesome List of GitHub stars!
