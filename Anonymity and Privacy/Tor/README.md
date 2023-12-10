@@ -15,6 +15,17 @@
   - [Snowflake](https://snowflake.torproject.org/)
     - [A Temporary Tor Snowflake Proxy - https://relay.love](https://relay.love/)
 
+## Performance
+- Ensure enough RAM and multiple cores on the system with high clock speed (Giga Hertz).
+- Ensure that CPU supports AES. Check with `cat /proc/cpuinfo |grep aes`
+- Disable `BandwidthRate` in config?
+- Increase system limits like `ulimit -n`
+- Tor config
+````
+MaxMemInQueues 10 GB #Limit to 45% av physical RAM
+NumCPUs 8            #Adjust tor to use more cores. Might be a limit on 2 cores(?)
+````
+
 ## Setup stuff
 - [Docker: tor obfs4 bridge](https://github.com/fphammerle/docker-tor-obfs4-bridge) - Tor bridge running obfs4 obfuscation protocol in Alpine 🐳.
 - [Bridge Docker (Tor Doc)](https://community.torproject.org/relay/setup/bridge/docker/)
