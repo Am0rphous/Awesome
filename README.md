@@ -1151,6 +1151,7 @@ that works on top of your local folder of plain text files. [github](https://git
     - [IceCubesApp](https://github.com/Dimillian/IceCubesApp) - A SwiftUI Mastodon client
     - [instances.social](https://instances.social)
     - [Mastodon-install-script](https://github.com/nesosuke/mastodon-install-script) - 誰でもMastodonサーバーを立てられるようになるやつ(主語デカ) .
+  - [https://www.minds.com](https://www.minds.com) - Minds is a free & open source social network dedicated to privacy and freedom. [https://gitlab.com/minds](https://gitlab.com/minds)
   - [Plume](https://github.com/Plume-org/Plume) - Plume is a federated blogging engine, based on ActivityPub. It is written in Rust, with the Rocket framework, and Diesel to interact with the database. The front-end uses Ructe templates, WASM and SCSS.
   - Twitter (microblogging)
     - [Awesome Twitter Bots](https://github.com/amandeepmittal/awesome-twitter-bots) - Resource repo for Twitter Bots.
