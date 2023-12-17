@@ -679,6 +679,7 @@ sudo service psacct restartchkconfig --level 13 psacct on
 - [sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port) 
 - [Stenographer](https://github.com/google/stenographer) - packet capture solution which aims to quickly spool all packets to disk, then provide simple, fast access to subsets of those packets.
 - [The Shadow Simulator](https://github.com/shadow/shadow) - Shadow is a unique discrete-event network simulator that runs real applications like Tor, and distributed systems of thousands of nodes on a single machine.
+- [Trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 
   ### DHCP
   - [DhTest](https://github.com/saravana815/dhtest) - A DHCP client simulation on linux. It can simulates multiple DHCP clients behind a network device. It can help in testing the DHCP servers or in testing switch/router by loading the device with multiple DHCP clients. 
