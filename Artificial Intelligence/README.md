@@ -24,6 +24,7 @@
 - [OpenCog](https://github.com/opencog/opencog) - A framework for integrated Artificial Intelligence & Artificial General Intelligence (AGI) 
 - [Pytorch-check](https://github.com/clevcode/pytorch-check) - Check PyTorch models for unsafe code
 - [Ruby Warrior](https://github.com/ryanb/ruby-warrior) - Game written in Ruby for learning Ruby and artificial intelligence. 
+- [SecureAI-Tools](https://github.com/SecureAI-Tools/SecureAI-Tools) - Private and secure AI tools for everyone's productivity.
 - [Serenata De Amor](https://github.com/okfn-brasil/serenata-de-amor) - Artificial Intelligence for social control of public administration
 - [Serpent.AI ](https://github.com/serpentai/serpentai) -  Game Agent Framework. Helping you create AIs / Bots that learn to play any game you own! 
 - [Snake](https://github.com/chuyangliu/snake) - Artificial intelligence for the Snake game. 
