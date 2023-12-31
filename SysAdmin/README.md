@@ -313,6 +313,7 @@ bro / zeek
 - [Veeam Backup & Replication Community Editio](https://www.veeam.com/virtual-machine-backup-solution-free.html) - FREE backup software for VMware and Hyper-V, as well as physical servers, workstations, laptops and cloud instances.
 - [rbackup.sh](https://github.com/brainfucksec/rbackup) - Shell script for encrypted backups with rsync and gpg 
 - [Rclone](https://rclone.org/)
+- [Restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [Rsync time backup](https://github.com/laurent22/rsync-time-backup) - Time Machine style backup with rsync.
 - [Timeshift (New) ](https://github.com/linuxmint/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.
   - [TimeShift (archived)](https://github.com/teejee2008/timeshift) - Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB. 
