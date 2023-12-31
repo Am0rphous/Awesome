@@ -977,6 +977,7 @@ Based on that data, you can find the most popular ones and their alternatives.
         - [Gemini](https://github.com/Gabe-H/Gemini) - A dope, easy-on-the-eyes, currently-playing viewer for Spotify. [snapcraft.io/gemini](https://snapcraft.io/gemini)
         - [Psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI.
         - [Spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
+        - [Spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
         - [Tmux-spotify](https://github.com/xamut/tmux-spotify) - Spotify plugin for tmux.
         
        ###### Podcast
