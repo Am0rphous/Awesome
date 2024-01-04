@@ -912,6 +912,7 @@ Based on that data, you can find the most popular ones and their alternatives.
     - [Gonic](https://github.com/sentriz/gonic) - Music streaming server / subsonic server API implementation.
     - [Icecast-Server](https://gitlab.xiph.org/xiph/icecast-server) - Icecast streaming media server.
     - [Museeks](https://github.com/martpie/museeks) - 🎵 A simple, clean and cross-platform music player
+    - [Musicpod](https://github.com/ubuntu-flutter-community/musicpod) - Music, radio, television and podcast player for the Ubuntu Desktop 
     - [navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
     - [Subsonic](http://www.subsonic.org/pages/index.jsp) - Music streaming server.
       - [Subsonic App List](http://www.subsonic.org/pages/apps.jsp)
