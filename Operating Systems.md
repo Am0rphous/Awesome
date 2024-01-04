@@ -89,7 +89,9 @@ _Considering key questions:_
 distribution into a Live Kit (formely known as Live CD).
 - [Live Magic](https://chris-lamb.co.uk/projects/live-magic)
 - [Linux Respin](http://www.linuxrespin.org)
+- [OpenEmbedded](http://www.openembedded.org/wiki/Main_Page) - It allows developers to create a complete Linux Distribution for embedded systems.
 - [Ubuntu Imager](https://github.com/Distroshare/distroshare-ubuntu-imager) - Creates an installable live CD from an installed Ubuntu or derivative distribution.
+- [Yocto Project ](https://wiki.yoctoproject.org/wiki/Main_Page) - The Yocto Project is an open-source project that delivers a set of tools that create operating system images for embedded Linux systems. The Yocto Project tools are based on the OpenEmbedded (OE) project, which uses the BitBake build tool, to construct complete Linux images
 
 ## Desktop OSes
 - [Asahi](https://asahilinux.org) - Asahi Linux aims to bring you a polished Linux experience on Apple Silicon Macs.
