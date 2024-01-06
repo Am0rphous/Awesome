@@ -141,7 +141,7 @@ distribution into a Live Kit (formely known as Live CD).
 | ------------------------- | -------------------------|-------------------------------- |
 | 1. Antigua and Barbuda | 1. Belgium | 1. Czech Republic |
 | 2. Australia | 2. Finland | 2. Poland |
-| 3. Canada | 3. New Zealand (unclear) | 3.Germany |
+| 3. Canada | 3. New Zealand (unclear) | 3. Germany |
 | 4. France | 4. Sweden (proposed) | |
 | 5. India | 5. The Netherlands | |
 | 6. Norway | 6. United States | |
