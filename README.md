@@ -869,6 +869,7 @@ Based on that data, you can find the most popular ones and their alternatives.
    - [Kap](https://github.com/wulkano/Kap) -  An open-source screen recorder built with web technology.
    - [Kazam](https://github.com/hzbd/kazam) - Kazam is a simple screen recording program that will capture the content of your screen.
    - [Kdenlive](https://invent.kde.org/multimedia/kdenlive) - Free and open source video editor, based on MLT Framework and KDE Frameworks 5. [Github](https://github.com/KDE/kdenlive)
+  - [Lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
    - [OBS Studio](https://github.com/obsproject/obs-studio) - Free and open source software for live streaming and screen recording.
      - [Screen Recording in Linux With OBS and Wayland](https://itsfoss.com/screen-record-obs-wayland/)
    - [Pensela](https://github.com/weiameili/Pensela) - The Swiss Army Knife of Screen Annotation Tool
