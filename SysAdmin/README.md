@@ -480,6 +480,7 @@ lsscsi                          #Print SCSI Devices Info
 - [DenyHosts](https://github.com/denyhosts/denyhosts) - Automated host blocking from SSH brute force attacks.
 - [Detection](https://github.com/ditekshen/detection) - Detection in the form of Yara, Snort and ClamAV signatures.
 - [DetectionLabUbuntuAddon](https://github.com/hackertarget/DetectionLabUbuntuAddon) - Add Ubuntu Server to DetectionLab Network with Vagrant
+- [Dshield](https://github.com/DShield-ISC/dshield) - DShield Raspberry Pi Sensor
 - [Ebpf-edr](https://github.com/bm9w/ebpf-edr) - eBPF-based EDR for Linux.
 - [Ehids-agent](https://github.com/ehids/ehids-agent) - A Linux Host-based Intrusion Detection System based on eBPF. 
   - [Ecapture](https://github.com/ehids/ecapture) - capture SSL/TLS text content without CA cert by eBPF.
