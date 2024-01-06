@@ -23,7 +23,7 @@ _Considering key questions:_
   - [Privacy and security focused Desktops](#privacy-and-security-focused-desktops)
 - [Educational OS'es](#educational-oses)
 - [IoT, embedded devices, tablets](#iot-embedded-devices-tablets)
-  - [Mobile Operating Systems](#mobile-operating-systems)
+  - [Phone OSes](#phone-oses)
     - [Android-based](#android-based)
 - [Minimal and Lightweight](#minimal-and-lightweight)
 - [Pen-testing and security auditing](#pen-testing-and-security-auditing)
@@ -163,8 +163,9 @@ distribution into a Live Kit (formely known as Live CD).
 - [Ubunt Server](https://ubuntu.com)
 - [Ubuntu Touch](https://ubuntu-touch.io/get-ubuntu-touch) - terminated
 
-  ### Mobile Operating Systems
-  - [Lomiri](https://lomiri.com/)
+  ### Phone OSes
+  - [Lomiri](https://lomiri.com)
+  - [postmarketOS](https://postmarketos.org) - A real Linux distribution for phones and other mobile devices.
   - [Phosh](https://github.com/agx/phosh) - A pure Wayland shell for GNOME on mobile devices. Mirror of https://gitlab.gnome.org/World/Phosh/phosh
   - [Sailfish OS](https://sailfishos.org/) - Sailfish OS is a secure mobile operating system optimized to run on smartphones and tablets, and also easily adaptable to all kinds of embedded devices and use cases. The fourth generation, Sailfish 4, boasts a multitude of new enablers to support different ecosystem projects, be it private corporate solutions or public sector governmental deployments.
   - [Ubports](https://ubports.com/) - _" We are building a secure & private operating system for your smartphone"_
