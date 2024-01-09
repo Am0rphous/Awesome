@@ -147,7 +147,7 @@ _Convolutional neural networks power image recognition and computer vision tasks
 - [Llama_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.
 - [Micro-gpt](https://github.com/muellerberndt/micro-gpt) - A minimal generic autonomous agent based on GPT3.5/4. Can analyze stock prices, perform network security tests, create art, and order pizza.
 - [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models
-- [MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
+
 - [NanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [Openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [OpenChatKit](https://github.com/togethercomputer/OpenChatKit)
@@ -156,8 +156,6 @@ _Convolutional neural networks power image recognition and computer vision tasks
 - [Open_llama](https://github.com/openlm-research/open_llama)
 - [Petals](https://github.com/bigscience-workshop/petals) -  🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading 
 - [PrivateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
-- [Project DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers. 
-- [Seamless_communication](https://github.com/facebookresearch/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
 - [TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - [Whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
   - [Whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
@@ -177,8 +175,11 @@ Description: _Sentiment analysis (also known as opinion mining or emotion AI) is
 - [Twitter Sentiment Visualisations](https://github.com/Lissy93/twitter-sentiment-visualisation) - The R&D of a sentiment analysis module, and the implementation of it on real-time social media data, to generate a series of live visual representations of sentiment towards a specific topic or by location in order to find trends.
 
 ## Speech
-- [OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
 
+- [MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
+- [OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
+- [Project DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers. 
+- [Seamless_communication](https://github.com/facebookresearch/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
 
 ## Video
 - [Rerender A Video](https://github.com/williamyang1991/Rerender_A_Video) - Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation 
