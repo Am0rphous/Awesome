@@ -228,7 +228,7 @@ distribution into a Live Kit (formely known as Live CD).
   - [DD-WRT Github](https://github.com/mirror/dd-wrt) - DD-WRT Subversion mirror.
   - [DD-WRT - Log](https://svn.dd-wrt.com/log/)
   - [DD-WRT - Timeline with changes](https://svn.dd-wrt.com/timeline)
-  - Download DD-WRT - ftp://ftp.dd-wrt.com/betas/
+  - Download DD-WRT - [https://ftp.dd-wrt.com/dd-wrtv2/downloads/betas/](https://ftp.dd-wrt.com/dd-wrtv2/downloads/betas/)
 - [FreshTomato](https://freshtomato.org/)
 - [IPFire](https://www.ipfire.org) - IPFire is a hardened, versatile, state-of-the-art Open Source firewall based on Linux.
 - [LibreCMC](LibreCMC) - LibreCMC is a set of fully free embedded Operating Systems for general purpose computers. The Project aims to give its users freedom and control over the software that runs on their hardware. Most of the hardware that libreCMC supports includes a wide range of routers and some small single board computers.
