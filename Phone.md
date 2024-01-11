@@ -3,6 +3,7 @@
 - [Appium](https://github.com/appium/appium-desktop) - Appium is an open source test automation framework for use with native, hybrid and mobile web apps. [appium.io](https://appium.io)
 
 ## Android
+- Adjust LTE/CDMA/EvDo/GSM/WCDMA? then dial this number: `*#*#4636#*#*`
 - [Anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system.
   - [Anbox docs](https://github.com/anbox/docs)
   - [Anbox kernel modules](https://github.com/anbox/anbox-modules)
@@ -16,7 +17,7 @@
 
 ### Phone apps
 - App store
-  - [Aurora Store](https://aurorastore.org)
+  - [Aurora Store](https://aurorastore.org) - Aurora Store is a free and fantastic Google Play Store alternative where you can download apps, update the apps you already have, receive details about in-app trackers, hide your location, search for apps and do so much more.
 - [NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android. 
 
 ## iOS
