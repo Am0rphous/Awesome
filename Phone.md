@@ -4,6 +4,7 @@
 
 ## Android
 - Adjust LTE/CDMA/EvDo/GSM/WCDMA? then dial this number: `*#*#4636#*#*`
+- [privacyguides.org/en/android/](https://www.privacyguides.org/en/android/)
 - [Anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system.
   - [Anbox docs](https://github.com/anbox/docs)
   - [Anbox kernel modules](https://github.com/anbox/anbox-modules)
@@ -17,6 +18,7 @@
 
 ### Phone apps
 - App store
+  - [Accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability 
   - [Aurora Store](https://aurorastore.org) - [https://gitlab.com/AuroraOSS/AuroraStore](https://gitlab.com/AuroraOSS/AuroraStore) -Aurora Store is a free and fantastic Google Play Store alternative where you can download apps, update the apps you already have, receive details about in-app trackers, hide your location, search for apps and do so much more.
 - [NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android. 
 
