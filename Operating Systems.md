@@ -179,6 +179,7 @@ distribution into a Live Kit (formely known as Live CD).
   - [CalyxOS](https://calyxos.org) - CalyxOS is a custom ROM based on the Android Open Source Project with Pixel phones. It aims to be secure and private by default including a number of good choices for default applications. It also supports verified boot.
   - [CopperheadOS](https://copperhead.co/android/) - Secure Android built for encrypted and secure phones by a privacy focused company. Available as security-centric and privacy focused Google-free Android for the latest Pixel devices.
   - [GrapheneOS](https://grapheneos.org) - GrapheneOS (formerly known as CopperheadOS) is a free and open-source security- and privacy-focused mobile operating system built on top of the Android Open Source Project. It currently specifically targets devices offering strong hardware security.
+    - [GrapheneOS Setup Guide](https://digitalprivacy.shop/blog/grapheneos-setup-guide)
   - [LineageOS](https://www.lineageos.org) - LineageOS is a custom ROM based on the Android Open Source Project with official support for a wide variety of devices. The project is the successor to the popular CyanogenMod project, focusing on system control and customization, device longevity, and privacy. For security reasons, we do not recommend third-party builds of LineageOS for unsupported devices.
 
 ## Minimal and Lightweight
