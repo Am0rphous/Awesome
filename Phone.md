@@ -14,6 +14,11 @@
 - [OsmAnd - Offline mobile maps & navigation](https://osmand.net/) - OsmAnd - OpenStreetMap Automated Navigation Directions is a map and navigation app for Android and iOS.
 - [SCRCpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device.
 
+### Phone apps
+- App store
+  - [Aurora Store](https://aurorastore.org)
+- [NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android. 
+
 ## iOS
 - [Cydia Impactor](https://cydiaimpactor.biz/download/) https://cydiaimpactor.online/cydia-impactor-alternative/ - application that can sideload any IPA file through a Windows, Mac or Linux PC to any kind of iDevice. 
 - [HorizonCalendar](https://github.com/airbnb/HorizonCalendar) - A declarative, performant, iOS calendar UI component that supports use cases ranging from simple date pickers all the way up to fully-featured calendar apps.
