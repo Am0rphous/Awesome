@@ -160,7 +160,7 @@ Communicate clearly <br>
   - [Discord-e2e-encryption](https://github.com/mpgn/discord-e2e-encryption) - Tampermonkey script that encrypt and decrypt your messages on Discord
   - [Eth-Price-Bot](https://github.com/hjoelh/Eth-Price-Bot) - Simple discord bot to display the current ethereum price.
 - [Discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
-
+- [Flarum](https://flarum.org/) - Forums made simple. Modern, fast and simple! [https://github.com/flarum/flarum](https://github.com/flarum/flarum)
 - [Lets Chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams.
 - [Mattermost](https://mattermost.com)
   - [Mattermost Antivirus Plugin](https://github.com/mattermost/mattermost-plugin-antivirus) - Antivirus plugin for scanning files uploaded to Mattermost.
