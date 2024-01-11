@@ -17,7 +17,7 @@
 
 ### Phone apps
 - App store
-  - [Aurora Store](https://aurorastore.org) - Aurora Store is a free and fantastic Google Play Store alternative where you can download apps, update the apps you already have, receive details about in-app trackers, hide your location, search for apps and do so much more.
+  - [Aurora Store](https://aurorastore.org) - [https://gitlab.com/AuroraOSS/AuroraStore](https://gitlab.com/AuroraOSS/AuroraStore) -Aurora Store is a free and fantastic Google Play Store alternative where you can download apps, update the apps you already have, receive details about in-app trackers, hide your location, search for apps and do so much more.
 - [NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android. 
 
 ## iOS
