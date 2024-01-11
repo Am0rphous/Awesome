@@ -20,6 +20,7 @@
 - App store
   - [Accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability 
   - [Aurora Store](https://aurorastore.org) - [https://gitlab.com/AuroraOSS/AuroraStore](https://gitlab.com/AuroraOSS/AuroraStore) -Aurora Store is a free and fantastic Google Play Store alternative where you can download apps, update the apps you already have, receive details about in-app trackers, hide your location, search for apps and do so much more.
+  - [https://f-droid.org](https://f-droid.org/) - F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.
 - [NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android. 
 
 ## iOS
