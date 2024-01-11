@@ -16,6 +16,8 @@
 - [OsmAnd - Offline mobile maps & navigation](https://osmand.net/) - OsmAnd - OpenStreetMap Automated Navigation Directions is a map and navigation app for Android and iOS.
 - [SCRCpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device.
 
+### [Android OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#android-based)
+
 ### Phone apps
 - App store
   - [Accrescent](https://github.com/accrescent/accrescent) - A novel Android app store focused on security, privacy, and usability 
