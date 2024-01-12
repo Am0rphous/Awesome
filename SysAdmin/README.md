@@ -265,6 +265,7 @@ bro / zeek
 - [Yara](https://github.com/virustotal/yara) - The pattern matching swiss knife. [virustotal.github.io/yara](https://virustotal.github.io/yara)
   - [Awesome YARA](https://github.com/InQuest/awesome-yara) - A curated list of awesome YARA rules, tools, and people.
   - [Fireeye Red-Team's Yara rules](https://github.com/fireeye/red_team_tool_countermeasures/blob/master/all-yara.yar)
+  - [Ludvig security scanner](https://github.com/FrodeHus/ludvig) - Security scanner using YARA 
   - [MQuery](https://github.com/CERT-Polska/mquery) - YARA malware query accelerator (web frontend). Blazingly fast Yara queries for malware analysts
   - [Public Yara-Rules repo](https://github.com/Yara-Rules/rules) -  Repository of yara rules.
   - [sauron](https://github.com/evilsocket/sauron) - A minimalistic cross-platform malware scanner with non-blocking realtime filesystem monitoring using YARA rules.
