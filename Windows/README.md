@@ -26,7 +26,7 @@
 - [TraceWrangler - Packet Capture Toolkit](https://www.tracewrangler.com)
 
 ## Productivity
-- [GreenShot](https://github.com/greenshot/greenshot) - Greenshot is a light-weight screenshot software tool for Windows.
+- [GreenShot](https://github.com/greenshot/greenshot) - Greenshot is a light-weight screenshot software tool for Windows. [https://getgreenshot.org/](https://getgreenshot.org/)
 - [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity. PowerShell/CMD `winget install Microsoft.PowerToys --source winget`
 - [WinDirStat](https://windirstat.net/) - Visualize big files on any harddisk. Very helpful when the disk is running low on space.
 - [QuickLook](https://github.com/QL-Win/QuickLook) - QuickLook enables a very quick preview of file contents by pressing the Spacebar. [Windows Store](https://apps.microsoft.com/store/detail/quicklook/9NV4BS3L1H4S?hl=en-us&gl=us) 
