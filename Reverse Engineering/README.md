@@ -177,7 +177,7 @@ Description: Uses a binary file to revert the compilation process and express th
 - [Decompiler Explorer](https://github.com/decompiler-explorer/decompiler-explorer) - Decompiler Explorer! Compare tools on the forefront of static analysis, now in your web browser! 
 - [JustDecompile Engine](https://github.com/telerik/JustDecompileEngine) - .NET decompiler.
 - [Reopt](https://github.com/GaloisInc/reopt) - A tool for analyzing x86-64 binaries. 
-
+- [Reko](https://github.com/uxmal/reko) - Reko is a binary decompiler. 
 
 
 ## Disassemblers
