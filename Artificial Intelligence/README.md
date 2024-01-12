@@ -1,7 +1,7 @@
 # Artificial Intelligence Resources
 
-- [correlation](https://github.com/easystats/correlation) - Methods for Correlation Analysis.
-
+- [**correlation**](https://github.com/easystats/correlation) - Methods for Correlation Analysis.
+- [**Chatbot UI**](https://github.com/mckaywrigley/chatbot-ui) - The open-source AI chat app for everyone. 
 <br>
 
 - [AI Cheatsheets](https://github.com/kailashahirwar/cheatsheets-ai) - Essential Cheat Sheets for deep learning and machine learning researchers.
