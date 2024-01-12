@@ -1006,7 +1006,9 @@ Based on that data, you can find the most popular ones and their alternatives.
 - [yarr](https://github.com/nkanaev/yarr) - yet another rss reader
 
 ## Productivity Tools
-- [Albert Launcher](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher. [Homepage](https://albertlauncher.github.io/)
+- Application Launchers
+  - [Albert Launcher](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher. [Homepage](https://albertlauncher.github.io/)
+  - [Ulauncher](https://github.com/Ulauncher/Ulauncher) - Feature rich application Launcher for Linux 
 - [coggle.it](https://coggle.it)
 - [CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features.
 - [curiosity.ai](https://curiosity.ai/) - "Tired of searching in folders, emails and apps? Get Curiosity and find everything in one place. All safe on your computer."
