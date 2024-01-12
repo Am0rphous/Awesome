@@ -35,7 +35,9 @@
 - [EmoCheck](https://github.com/JPCERTCC/EmoCheck) - Emotet detection tool for Windows OS.
 - [HardeningKitty](https://github.com/scipag/HardeningKitty) - Invoke-HardeningKitty - Checks and hardens your Windows configuration.
 - [HashTab](https://hashtab.en.softonic.com/)
-- [SDelete](https://docs.microsoft.com/en-us/sysinternals/downloads/sdelete)
+- Secure deletion
+  - [Eraser](https://eraser.heidi.ie/) - Free. Eraser is an advanced security tool for Windows which allows you to completely remove sensitive data from your hard drive by overwriting it several times with carefully selected patterns. 
+  - [SDelete](https://docs.microsoft.com/en-us/sysinternals/downloads/sdelete)
 - [Secunia Personal Software Inspector](https://secunia-personal-software-inspector.en.softonic.com/#older-versions) - Discover security vulnerabilities.
 - [Screwed-Drivers](https://github.com/eclypsium/Screwed-Drivers) - "Screwed Drivers" centralized information source for code references, links, etc.
 - [Windows_hardening](https://github.com/0x6d69636b/windows_hardening) - Windows Hardening settings and configurations.
