@@ -224,7 +224,8 @@ brew analytics off
 - [PodcastMenu](https://github.com/insidegui/PodcastMenu) - Put Overcast on your Mac's menu bar.
 - [Spectacle app](https://www.spectacleapp.com/) - Move and resize windows with ease. (Important note: Spectacle is no longer being actively maintained)
   - [Spectacle Github](https://github.com/eczarny/spectacle) - Spectacle allows you to organize your windows without using a mouse.
-  
+- [Yabai](https://github.com/koekeishiya/yabai) - yabai is a window management utility that is designed to work as an extension to the built-in window manager of macOS. yabai allows you to control your windows, spaces and displays freely using an intuitive command line interface and optionally set user-defined keyboard shortcuts using [skhd](https://github.com/koekeishiya/skhd) and other third-party software.
+
   ### Automation
   - [Hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua.
   - [Mjolnir](https://github.com/mjolnirapp/mjolnir) - Lightweight automation and productivity app for OS X.
