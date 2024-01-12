@@ -39,14 +39,20 @@
 - [Secunia Personal Software Inspector](https://secunia-personal-software-inspector.en.softonic.com/#older-versions) - Discover security vulnerabilities.
 - [Screwed-Drivers](https://github.com/eclypsium/Screwed-Drivers) - "Screwed Drivers" centralized information source for code references, links, etc.
 - [Windows_hardening](https://github.com/0x6d69636b/windows_hardening) - Windows Hardening settings and configurations.
-### Activate sandboxing in Windows Defender
-````
+
+<details><summary> How to Activate sandboxing in Windows Defender (Expand/toggle) </summary>
+
+  ````
 1. Open Start and Search for "CMD" or "Command Prompt”
 2. Right Click on it and select "Run as administrator."
 3. Type: "setx /M MP_FORCE_USE_SANDBOX 1" and then press ENTER
 4. Then restart your computer, that’s it
 ````
+</details>
 
+## Setup stuff
+#### BIOS / UEFI / Bootloaders
+- [Quibble](https://github.com/maharmstone/quibble) - the custom Windows bootloader 
 
 ### Privacy
 - [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script/Utility/Application to debloat Windows 10, to remove Windows pre-installed unnecessary applications, stop some telemetry functions, stop Cortana from being used as your Search Index, disable unnecessary scheduled tasks, and more.
