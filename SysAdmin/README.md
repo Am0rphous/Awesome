@@ -410,6 +410,7 @@ bro / zeek
   - [CredCheck](https://github.com/MigOpsRepos/credcheck) - PostgreSQL plain credential checker.
 - [Redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps [redis.io](http://redis.io).
   - [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager) - A faster, better and more stable redis desktop manager [GUI client], compatible with Linux, Windows, Mac. What's more, it won't crash when loading a large number of keys.
+- [Supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase is an open source Firebase alternative. Start your project with a Postgres database, Authentication, instant APIs, Edge Functions, Realtime subscriptions, Storage, and Vector embeddings.
 - [TiDB](https://github.com/pingcap/tidb) - TiDB is an open source distributed HTAP database compatible with the MySQL protocol.
 
 ## Dell Spesific Tools
