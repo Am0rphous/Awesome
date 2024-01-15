@@ -70,7 +70,7 @@ Communicate clearly <br>
 - [E-books](#e-books)
   - [E-books Readers](#e-books-readers)
 - [Finance](#finance)
-  - [Cryptocurrency](#cryptocurrency)
+  - [Cryptocurrency](https://github.com/Am0rphous/Awesome/tree/master/Cryptocurrency)
 - [Finding Software](#finding-software)
   - [Looking for software, projects, courses or inspiration?](#looking-for-software-projects-courses-or-inspiration)
 - [Food and Drinks](#food-and-drinks)
@@ -696,9 +696,10 @@ sudo apt-get install redshift-gtk
   - [Sumatra PDF](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF is a multi-format (PDF, EPUB, MOBI, FB2, CHM, XPS, DjVu) reader for Windows under (A)GPLv3 license, with some code under BSD license (see AUTHORS).
 
 ## Finance
-- [Firefly III:](https://github.com/firefly-iii/firefly-iii) - a personal finances manager 
+- [Firefly III:](https://github.com/firefly-iii/firefly-iii) - a personal finances manager
+- [Maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app 
 - [OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere.
-- [portfolio](https://github.com/buchen/portfolio) - A simple tool to calculate the overall performance of an investment portfolio. [portfolio-performance.info](https://www.portfolio-performance.info/en/)
+- [Portfolio](https://github.com/buchen/portfolio) - A simple tool to calculate the overall performance of an investment portfolio. [portfolio-performance.info](https://www.portfolio-performance.info/en/)
 
 ## Finding Software
 - [All AWESOME Linux Applications and Tools](https://www.fossmint.com/awesome-linux-software/)
