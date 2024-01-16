@@ -114,6 +114,7 @@ distribution into a Live Kit (formely known as Live CD).
 - [MX Linux](https://mxlinux.org) - Midweight Simple Stable Desktop OS.
 - [Nitrux OS](https://nxos.org)
 - [Pop!_OS](https://pop.system76.com)
+  - [Pop!_OS Guide ](https://github.com/mikeroyal/Pop_OS-Guide) - Pop!_OS Guide. Pop!_OS is an Operating System developed by System76. 
 - [ReactOS](https://github.com/reactos/reactos) - A free Windows-compatible Operating System 
 - [Rocky Linux](https://rockylinux.org) - An open enterprise operating system.
 - [Serenity](https://github.com/SerenityOS/serenity) - _Graphical Unix-like operating system for x86 computers._
