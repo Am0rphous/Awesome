@@ -990,19 +990,21 @@ upstream_recursive_servers:
   - [Auditd](https://manpages.ubuntu.com/manpages/jammy/en/man8/auditd.8.html) - The Linux Audit daemon.
   - [grsecurity](https://grsecurity.net/)
   - [Intel® SGX](https://www.intel.com/content/www/us/en/architecture-and-technology/software-guard-extensions.html) - _"There is tremendous opportunity for application and solution developers to take charge of their data security using new hardware-based controls for cloud and enterprise environments. Intel® Software Guard Extensions (Intel® SGX)1 2 offers hardware-based memory encryption that isolates specific application code and data in memory. Intel® SGX allows user-level code to allocate private regions of memory, called enclaves, which are designed to be protected from processes running at higher privilege levels. Only Intel® SGX offers such a granular level of control and protection."_
-    - [ Intel SGX for Linux* ](https://github.com/intel/linux-sgx)
+    - [Intel SGX for Linux* ](https://github.com/intel/linux-sgx)
   - [Ksplice](https://ksplice.oracle.com/) - Oracle Ksplice updates select, critical components of your Oracle Linux installation with all of the important security patches without needing to reboot.
   - [linux-hardened](https://github.com/anthraxx/linux-hardened) - Minimal supplement to upstream Kernel Self Protection Project changes. Features already provided by SELinux + Yama and archs other than multiarch arm64 / x86_64 aren't in scope. Only tags have stable history. Shared IRC channel with KSPP: irc.libera.chat
- - [Kunai](https://github.com/0xrawsec/kunai) - The goal behind this project is to bring relevant events to achieve various monitoring tasks ranging from security monitoring to Threat Hunting on Linux based systems. If you are familiar with Sysmon on Windows, you can think of Kunai as being a Sysmon equivalent for Linux.
+  - [Kunai](https://github.com/0xrawsec/kunai) - The goal behind this project is to bring relevant events to achieve various monitoring tasks ranging from security monitoring to Threat Hunting on Linux based systems. If you are familiar with Sysmon on Windows, you can think of Kunai as being a Sysmon equivalent for Linux.
   - [Linux Vendor Firmware Service (fwupd)](https://fwupd.org) - "The Linux Vendor Firmware Service is a secure portal which allows hardware vendors to upload firmware updates. This site is used by all major Linux distributions to provide metadata for clients such as fwupdmgr and GNOME Software."
     - [github.com/fwupd](https://github.com/fwupd/fwupd) - A system daemon to allow session software to update firmware.
   - [LKRG - Linux Kernel Runtime Guard](https://www.openwall.com/lkrg) -  LKRG performs runtime integrity checking of the Linux kernel and detection of security vulnerability exploits against the kernel. [Github](https://github.com/lkrg-org/lkrg)
     - [Linux Kernel Runtime Guard (LKRG) for Debian, Whonix, Qubes, Kicksecure](https://www.whonix.org/wiki/Linux_Kernel_Runtime_Guard_LKRG)
   - [VED (Vault Exploit Defense) - Linux kernel threat detection and prevention system](https://github.com/hardenedvault/ved)
   - [seccomp](https://man7.org/linux/man-pages/man2/seccomp.2.html) - "The secure computing (seccomp) mode is a popular Linux kernel security feature that restricts access to system calls (syscalls) by processes. This means that seccomp can filter syscalls and allow or limit which syscalls can be executed in the system."
-- [SELinux Userspace](https://github.com/SELinuxProject/selinux) - Security Enhanced Linux (SELinux).
-  - [selinux-notebook ](https://github.com/SELinuxProject/selinux-notebook/releases)
-
+  - SELinux
+    - [SELinux Userspace](https://github.com/SELinuxProject/selinux) - Security Enhanced Linux (SELinux).
+    - [SELinux Coloring Book](https://people.redhat.com/duffy/selinux/selinux-coloring-book_A4-Stapled.pdf)
+    - [selinux-notebook ](https://github.com/SELinuxProject/selinux-notebook/releases)
+    
   #### Biometric
   - [Biometric-authentication](https://github.com/ukui/biometric-authentication) - A biometric identification framework.
   - [fprint.freedesktop.org](https://fprint.freedesktop.org/) - The fprint project aims to add support for consumer fingerprint reader devices, in Linux, as well as other free Unices.
