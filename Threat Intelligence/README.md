@@ -46,6 +46,8 @@
   - [puppet-misp](https://github.com/voxpupuli/puppet-misp) - This module installs and configures MISP (Malware Information Sharing Platform).
   - [PyMISP](https://github.com/MISP/PyMISP) - Python library using the MISP Rest API 
 - [OpenCTI](https://filigran.io/solutions/products/opencti-threat-intelligence/) - Open Threat Intelligence Platform. Store, organize, visualize and share knowledge about cyber threats. Handle incident response cases and collaborative work.
+- [Yeti](https://github.com/yeti-platform/yeti) - Your Everyday Threat Intelligence - [https://yeti-platform.io/](https://yeti-platform.io/)
+
 
 ### Feed
 - [Botvrij.eu OSINT feed](https://www.botvrij.eu/data/feed-osint/)
