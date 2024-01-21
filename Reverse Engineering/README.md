@@ -22,6 +22,7 @@ Table of content
 - [Packers & Unpackers](#packers--unpackers)
 - [Processes](#Processes)
 - [Shellcode](#Shellcode)
+- [System Calls](#system-calls)
 - [WebAssembly](#WebAssembly)
 
 <br>
@@ -298,6 +299,9 @@ getcap            #examine file capabilities
 ## Shellcode
 - [BlobRunner](https://github.com/OALabs/BlobRunner) - Quickly debug shellcode extracted during malware analysis.
 - [Cmulator](https://github.com/Coldzer0/Cmulator) - Cmulator is ( x86 - x64 ) Scriptable Reverse Engineering Sandbox Emulator for shellcode and PE binaries . Based on Unicorn & Zydis Engine & javascript
+
+## System Calls
+- [https://lttng.org](https://lttng.org) - LTTng is an open source tracing framework for Linux. [https://github.com/lttng]()
 
 ## WebAssembly
 - [Binaryen](https://github.com/WebAssembly/binaryen) - Compiler infrastructure and toolchain library for WebAssembly.
