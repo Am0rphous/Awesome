@@ -145,10 +145,11 @@ Description: Used to manipulate the execution of a program to get intel on what 
   - [VMAttack](https://github.com/anatolikalysch/VMAttack) - VMAttack PlugIn for IDA Pro
 - [HyperDbg](https://github.com/HyperDbg/HyperDbg) - State-of-the-art native debugging tool
 - [ttddbg - Time Travel Debugging IDA plugin](https://github.com/airbus-cert/ttddbg) - Time Travel Debugging IDA plugin 
-- GDB - Linux: `sudo apt install gdb` and on macOS `brew install gdb`
-  - [OnlineGDB.com](https://www.onlinegdb.com/)
+- GDB - [Linux GDB: The GNU Project Debugger](https://www.sourceware.org/gdb/): `sudo apt install gdb` and on macOS `brew install gdb`
+  - [https://www.onlinegdb.com](https://www.onlinegdb.com)
+  - [Cgdb - cgdb](https://github.com/cgdb/cgdb) - Console front-end to the GNU debugger.
   - [GDB dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python.
-  - [Gdb GUI](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
+  - [Gdbgui - cs01](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
   - [Gdb-peda-pwndbg-gef](https://github.com/apogiatzis/gdb-peda-pwndbg-gef) - A script to automatically install Peda+pwndbg+GEF plugins for gdb
   - Basic syntax for gdb when using the program "remmina"
 ````
