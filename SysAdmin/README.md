@@ -1028,6 +1028,7 @@ upstream_recursive_servers:
   - [Set Up Automatic Security Update on Ubuntu](https://www.linuxbabe.com/ubuntu/automatic-security-update-unattended-upgrades-ubuntu)
   - [The Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide) - This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).
   - [Test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
+  - [Ubuntu Hardening - SystemD Edition](https://github.com/konstruktoid/hardening) - "Hardening Ubuntu. Systemd edition."
   - [Unattended-upgrades](https://github.com/mvo5/unattended-upgrades) - Automatic installation of security upgrades on apt based systems.
 
   ### Password Managers
