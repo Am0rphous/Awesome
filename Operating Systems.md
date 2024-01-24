@@ -251,7 +251,8 @@ distribution into a Live Kit (formely known as Live CD).
 - [Arch Linux](https://www.archlinux.org)
   - [alis - Arch Linux Install Script](https://github.com/picodotdev/alis/) - Arch Linux Install Script (or alis, also known as the Arch Linux executable installation guide and wiki) installs unattended, automated and customized Arch Linux system. 
   - [Virtual Arch-Machines](https://gitlab.archlinux.org/archlinux/arch-boxes/-/jobs/47782/artifacts/browse/output)
-- [CentOS](https://www.centos.org/) - Community Enterprise Operating System for servers, workstations and desktop. Based on Red Hat Enterprise Linux.
+- [CentOS](https://www.centos.org/) - [End of life: Jun 30th, 2024] Community Enterprise Operating System for servers, workstations and desktop. Based on Red Hat Enterprise Linux.
+  - [Alma Linux](https://almalinux.org/) - (use this instead of CentOS) - _"An Open Source, community owned and governed, forever-free enterprise Linux distribution, focused on long-term stability, providing a robust production-grade platform. AlmaLinux OS is binary compatible with RHEL®."_
 - [ClearOS Community Edition](https://www.clearos.com/clearfoundation/software/clearos-downloads) - OS for your Server, Network, and Gateway. Systems based on CentOS and Red Hat Enterprise Linux. [www.clearos.com](https://www.clearos.com)
   - [Clear OS Knowledge Base](https://documentation.clearos.com/index:kb)
 - [Debian](https://www.debian.org)
