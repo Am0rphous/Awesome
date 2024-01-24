@@ -25,7 +25,7 @@
 - [Configuration management](#configuration-management)
   - [Admin panels](#admin-panels)
 - [Cybersecurity compliance (frameworks)](#cybersecurity-compliance)
-  - [Compliance / Evaluation tools]()
+  - [Compliance / evaluation tools](#compliance)
 - [Databases](#databases)
 - [Dell spesific tools](#dell-spesific-tools)
 - [File sharing](#file-sharing)
@@ -396,6 +396,14 @@ bro / zeek
 - [Sentroa Hosting Web GUI](http://www.sentora.org/)
 - [VestaCP](https://ajenti.org/)
 - [Webmin](https://webmin.com/)
+
+## Cybersecurity compliance (frameworks)
+- [Microsoft compliance list](https://learn.microsoft.com/en-us/compliance/regulatory/offering-home)
+- [CIS Controls](https://www.cisecurity.org/controls) - (Center for Internet Security)
+
+
+### Compliance / evaluation tools
+- [CIS' - Cybersecurity Tools and Resources](https://www.cisecurity.org/cybersecurity-tools)
 
 ## Databases
 - [CockroachDB](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database. 
