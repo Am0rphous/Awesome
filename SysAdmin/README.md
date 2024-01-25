@@ -644,6 +644,10 @@ sudo service psacct restartchkconfig --level 13 psacct on
 - [Webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel [www.webmin.com](http://www.webmin.com).
 - [Zeek (Bro)](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know. [zeek.org](https://www.zeek.org)
   - [Brim](https://github.com/brimdata/brim) - Brim is an open source desktop application for security and network specialists. Brim makes it easy to search and analyze data from: packet captures, like those created by Wireshark, and structured logs, especially from the Zeek network analysis framework.
+
+#### GPU
+- [GreenWithEnvy](https://gitlab.com/leinardi/gwe) - GWE is a GTK system utility designed to provide information, control the fans and overclock your NVIDIA video card and graphics processor. [GreenWithEnvy as flatpak](https://flathub.org/apps/com.leinardi.gwe)
+
   
   ## Energy
   - [IoTaWatt](https://github.com/boblemaire/IoTaWatt) - IoTaWatt Open WiFi Electric Energy Monitor.
