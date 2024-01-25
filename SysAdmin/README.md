@@ -38,6 +38,7 @@
   - [Cloud monitoring](#cloud-monitoring)
   - [CPU](#cpu)
   - [ELK-stack](#elk-stack)
+  - [GPU](#gpu]
   - [Logs](#logs)
   - [Push services](#push-services)
 - [Network tools](#network-tools)
