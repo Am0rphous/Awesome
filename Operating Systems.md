@@ -20,6 +20,7 @@ _Considering key questions:_
 - [Country Specific](#country-specific)
 - [Create Your Own Custom Linux OS](#create-your-own-custom-linux-os)
 - [Desktop OSes](#desktop-oses)
+  - [Desktops for ARM architecture](#Desktops-for-ARM-architecture)
   - [Privacy and security focused Desktops](#privacy-and-security-focused-desktops)
 - [Educational OS'es](#educational-oses)
 - [IoT, embedded devices, tablets](#iot-embedded-devices-tablets)
@@ -94,7 +95,6 @@ distribution into a Live Kit (formely known as Live CD).
 - [Yocto Project ](https://wiki.yoctoproject.org/wiki/Main_Page) - The Yocto Project is an open-source project that delivers a set of tools that create operating system images for embedded Linux systems. The Yocto Project tools are based on the OpenEmbedded (OE) project, which uses the BitBake build tool, to construct complete Linux images
 
 ## Desktop OSes
-- [Asahi](https://asahilinux.org) - Asahi Linux aims to bring you a polished Linux experience on Apple Silicon Macs.
 - [Bliss OS - Android for your PC](https://blissos.org) - An Open Source OS, based on Android, that incorporates many optimizations, features, and expanded device support. And it is available for just about any Chromebook, Windows/Linux PC or tablet released in the last 4 years.
 - [Debian](https://www.debian.org)
 - [Deepin](https://www.deepin.org/en/) - based on Debian, features DDE, the Deepin Desktop Environment, built on Qt.
@@ -126,7 +126,11 @@ distribution into a Live Kit (formely known as Live CD).
   - [Fido: A PowerShell download script for Windows ISOs and UEFI Shell](https://github.com/pbatard/Fido) - A PowerShell script to download Windows ISOs or the UEFI Shell 
 - [Qubes OS](https://www.qubes-os.org/downloads) - OS designed for privacy and security.
 - [Zorin OS](https://zorinos.com) 
- 
+
+### Desktops for ARM architecture
+- [Asahi](https://asahilinux.org) - Asahi Linux aims to bring you a polished Linux experience on Apple Silicon Macs.
+- [Fedora Asahi Remix](https://fedora-asahi-remix.org/) - "Fedora Linux 39 + Apple Silicon = Fedora Asahi Remix"
+
  ### Privacy and security focused Desktops
  - [PureOS](https://pureos.net/) - Privacy and security focused Debian-based dstribution.
  - [PwOSS Mobile/Desktop/Server](https://pwoss.org/)
