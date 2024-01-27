@@ -1,14 +1,14 @@
  # Anonymity and Privacy
 
-[Awesome](#awesome)
-[Anonymity](#Anonymity)
+- [Awesome](#awesome)
+- [Anonymity](#Anonymity)
   - [TOR - The Onion Router](#TOR---The-Onion-Router)
   - [Relays, statistics, operators](#relays-statistics-operators)
-[Bypass Firewalls / Encapsulation traffic](#bypass-firewalls--encapsulation-traffic)
-[Disk Cleanup](#Disk-Cleanup)
-[Interesting news articles](#Interesting-news-articles)
-[Network Simulation](#Network-Simulation)
-[Secure WebBrowsers](#Secure-WebBrowsers)
+- [Bypass Firewalls / Encapsulation traffic](#bypass-firewalls--encapsulation-traffic)
+- [Disk Cleanup](#Disk-Cleanup)
+- [Interesting news articles](#Interesting-news-articles)
+- [Network Simulation](#Network-Simulation)
+- [Secure WebBrowsers](#Secure-WebBrowsers)
 <br>
 
 - [AirGuard](https://github.com/seemoo-lab/AirGuard) - Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍
