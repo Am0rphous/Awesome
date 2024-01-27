@@ -1,26 +1,28 @@
  # Anonymity and Privacy
 
-- [Anonymity and Privacy for Advanced Linux Users](https://we.riseup.net/opsec/anonymity-and-privacy-for-advanced-linux-users#secure-data-wiping-linux)
-- [Digital Privacy](https://github.com/ffffffff0x/Digital-Privacy) - 一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗.
-- [GlobaLeaks](https://github.com/globaleaks/GlobaLeaks) - GlobaLeaks is free, open source software enabling anyone to easily set up and maintain a secure whistleblowing platform.
-- [Privacy Guide: Fight Surveillance with Encryption and Privacy Tools](https://www.privacytools.io/)
-- [Surveillance Self-Defense](https://ssd.eff.org/)
-
-<br>
-
-Check this link later: https://arstechnica.com/information-technology/2016/08/building-a-new-tor-that-withstands-next-generation-state-surveillance/
-
+[Awesome](#awesome)
+[Anonymity](#Anonymity)
+  - [TOR - The Onion Router](#TOR---The-Onion-Router)
+  - [Relays, statistics, operators](#relays-statistics-operators)
+[Bypass Firewalls / Encapsulation traffic](#bypass-firewalls--encapsulation-traffic)
+[Disk Cleanup](#Disk-Cleanup)
+[Interesting news articles](#Interesting-news-articles)
+[Network Simulation](#Network-Simulation)
+[Secure WebBrowsers](#Secure-WebBrowsers)
 <br>
 
 - [AirGuard](https://github.com/seemoo-lab/AirGuard) - Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍
-- [anonaddy.com](https://anonaddy.com) - Anonymous Email Forwarding
+- [https://anonaddy.com](https://anonaddy.com) - Anonymous Email Forwarding
+- - [Anonymity and Privacy for Advanced Linux Users](https://we.riseup.net/opsec/anonymity-and-privacy-for-advanced-linux-users#secure-data-wiping-linux)
 - [Anti-censorship](https://gitlab.torproject.org/tpo/anti-censorship) - Censorship circumvention and analysis.
 - [Awesome-iran-freedom](https://github.com/hiddify/awesome-iran-freedom) - In this repository we have collected all awesome tools for iranian people
 - [Bbs](https://github.com/net4people/bbs) - Forum for discussing Internet censorship circumvention
 - [Checkip](https://github.com/jreisinger/checkip) -  Get (security) info about IP addresses.
 - [Cidranger](https://github.com/yl2chen/cidranger) - Fast IP to CIDR lookup in Golang.
 - [Darknet-tools](https://cybercoplabs.net/article/darknet-tools)
+- [Digital Privacy](https://github.com/ffffffff0x/Digital-Privacy) - 一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗.
 - [Firehol's blocklist-ipsets](https://github.com/firehol/blocklist-ipsets) - ipsets dynamically updated with firehol's update-ipsets.sh script.
+- [GlobaLeaks](https://github.com/globaleaks/GlobaLeaks) - GlobaLeaks is free, open source software enabling anyone to easily set up and maintain a secure whistleblowing platform.
 - [Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) - 我终于能用谷歌搜中文了…… 
 - [Hushline](https://github.com/scidsg/hushline) - A lightweight, secure, and anonymous tip line for organizations and individuals.
 - [Invisible Internet Project (I2P)](https://geti2p.net/en/) - fully encrypted private network layer. It protects your activity and location. Every day people use the network to connect with people without worry of being tracked or their data being collected. In some cases people rely on the network when they need to be discrete or are doing sensitive work.
@@ -29,6 +31,8 @@ Check this link later: https://arstechnica.com/information-technology/2016/08/bu
 
 - [OSI-Model](https://osi-model.com/) - The OSI Model was designed in 1977 and is part of the ISO specifications since 1984. Each OSI layer serves a unique task for network communication.
 - [privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆
+- [Privacy Guide: Fight Surveillance with Encryption and Privacy Tools](https://www.privacytools.io/)
+- [Surveillance Self-Defense](https://ssd.eff.org/)
 - [Project V ](https://www.v2ray.com/en/) - Project V is a set of tools to help you build your own privacy network over internet. 
 - [qPeer](https://github.com/Quimzy/qPeer) - A peer-to-peer routing protocol to run your decentralized network.
 - [Secure Distributed Network Time Synchronization](https://github.com/Kicksecure/sdwdate) - Secure Distributed Web Date; privacy, anonymity and Tor friendly; console time fetcher and daemon; optional graphical user interface etc. Website: https://www.kicksecure.com/wiki/sdwdate 
@@ -110,6 +114,10 @@ shred -vfz /dev/sdb       #f=forces write permissions if missing
 ````
 - [shred-go](https://github.com/lu4p/shred) - This is a libary to mimic the functionallity of the linux shred command. 
 - [wiper](https://github.com/r3nt0n/wiper) - Toolkit to perform secure destruction of sensitive virtual data, temporary files and swap memories. 
+
+## Interesting news articles
+[Building a new Tor that can resist next-generation state surveillance](https://arstechnica.com/information-technology/2016/08/building-a-new-tor-that-withstands-next-generation-state-surveillance/)
+[Embracing Change: My Journey from iPhone to Graphene OS (Part 1)](https://medium.com/@jonezy7173_88832/embracing-change-my-journey-from-iphone-to-graphene-os-part-1-d8faab5d4f1a)
 
 ## Network Simulation
 - [flare-fakenet-ng](https://github.com/fireeye/flare-fakenet-ng) - Next Generation Dynamic Network Analysis Tool.
