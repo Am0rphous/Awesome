@@ -1,5 +1,8 @@
 ## The Onion Router
 
+- [How your university can support freedom of expression for people around the world](https://toruniversity.eff.org/)
+<br>
+
 - [How to route all the machine Traffic Through TOR in Kali Linux ](https://ourcodeworld.com/articles/read/953/how-to-route-all-the-machine-traffic-through-tor-in-kali-linux)
 - [ExoneraTor - Check if a given IP has been a Tor relay](https://metrics.torproject.org/exonerator.html)
 - [Expose server behind NAT with Tor](https://golb.hplar.ch/2019/01/expose-server-tor.html)
@@ -63,6 +66,8 @@ sudo usermod -aG $USER debian-tor             #or sudo adduser $USER debian-tor
 ````
 
 ### Relay Operator Tip
+- [Exit Relay Setup (outdated)](https://torservers.net/exit-relay-setup/#some-useful-defaults)
+
 - [Expectations for relay operators](https://community.torproject.org/policies/relays/expectations-for-relay-operators/)
 - [Official relay operator documentation](https://community.torproject.org/relay/)
 - [Tor Relay Guide - Security](https://gitlab.torproject.org/legacy/trac/-/wikis/TorRelayGuide/Security)
