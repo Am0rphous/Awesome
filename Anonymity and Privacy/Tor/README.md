@@ -28,6 +28,7 @@ NumCPUs 8            #Adjust tor to use more cores. Might be a limit on 2 cores(
 ````
 
 ## Various setup resources
+- [Multitor](https://github.com/trimstray/multitor) -  Create multiple TOR instances with a load-balancing.
 - [Nipe](https://github.com/htrgouvea/nipe) - An engine to make Tor network your default gateway 
 - [Run hidden SSH through tor](https://github.com/jamesacampbell/stealth-tor-docker) - spin up a new ubuntu based tor-enabled hidden ssh server quickly and easily 
 - [Tor in alpineOS](https://github.com/klemmchr/tor-alpine) - Simple, minimal and self updating docker image for Tor based on Alpine Linux.
@@ -40,7 +41,13 @@ NumCPUs 8            #Adjust tor to use more cores. Might be a limit on 2 cores(
   - [obfs4-spec.txt](https://github.com/Yawning/obfs4/blob/master/doc/obfs4-spec.txt)
 - [Official bridge-in-docker documentation)](https://community.torproject.org/relay/setup/bridge/docker/)
 
+#### Snowflake bridges (proxies)
+- Linux setup the [easy way](https://unredacted.org/guides/infrastructure/tor/how-to-run-your-own-tor-snowflake-proxy/#run-a-snowflake-proxy-on-a-linux-server): `sudo snap install tor-snowflake`
+- [Official Snowflake doc](https://community.torproject.org/relay/setup/snowflake/standalone/) - Snowflake is a new circumvention tool which provides access to the free and open internet.
+- [Technical Overview](https://gitlab.torproject.org/tpo/anti-censorship/pluggable-transports/snowflake/-/wikis/Technical%20Overview)
+
 ### Hidden Services
+- [Create a hidden service in a container](https://github.com/3xploitGuy/torwebsite) - A container to host website on Tor hidden service with .onion address.
 - [Onionbalance](https://gitlab.torproject.org/tpo/onion-services/onionbalance) - It allows Tor onion service requests to be distributed across multiple backend Tor instances - Onion site: http://eweiibe6tdjsdprb4px6rqrzzcsi22m4koia44kc5pcjr7nec2rlxyad.onion/tpo/onion-services/onionbalance
 
 ### Kali 
@@ -57,17 +64,16 @@ sudo usermod -aG $USER debian-tor             #or sudo adduser $USER debian-tor
 
 ### Relay Operator Tip
 - [Expectations for relay operators](https://community.torproject.org/policies/relays/expectations-for-relay-operators/)
+- [Official relay operator documentation](https://community.torproject.org/relay/)
 - [Tor Relay Guide - Security](https://gitlab.torproject.org/legacy/trac/-/wikis/TorRelayGuide/Security)
 
-- [torsocks](https://gitweb.torproject.org/torsocks.git/)
+
+- [torsocks](https://gitweb.torproject.org/torsocks.git/) - Linx `sudo apt install torsocks` and on macOS run `brew install torsocks`
 ````powershell
-sudo apt install torsocks             #Linux
-brew install torsocks                 #macOS
- . torsocks on                        #Set your current shell in Tor mode
- . torsocks off
+torsocks on                           #Set your current shell in Tor mode
+torsocks off
 torsocks curl ifconfig.me             #shows your Tor IP
 torsocks ssh user@host.com -p 1234    #SSH over Tor
-
 ````
 - [www.torproject.org/download/](https://www.torproject.org/download/)
 <br>Linux
@@ -76,15 +82,14 @@ sudo apt install tor torbrowser-launcher nyx
 sudo service tor restart && sudo service tor status
 netstat -tulpn | grep tor
 ````
- Install proxychains-ng to be able to run programs over Tor
+
+ - Install proxychains-ng to be able to run programs over Tor
 ````powershell
 sudo apt install proxychains-ng -y
 proxychains4 curl ifconfig.me                 # should list tor IP
 proxychains4 program-name program-parameters
 proxychains4 nmap -v 1.1.1.1 -p 80
 ````
-- [Torwebsite](https://github.com/3xploitGuy/torwebsite) - A container to host website on Tor hidden service with .onion address.
-
 
 ## Log Files
 ````
@@ -142,9 +147,7 @@ iface eth0 inet static
 ## Useful Resources
 - [Active Onions](https://github.com/k4m4/active-onions) - Filter out inactive onions from an array of onion URLs.
 - [Eschalot](https://github.com/ReclaimYourPrivacy/eschalot) - It is important to stress that we have not written this piece of software (see LICENSE).
-- [Fresh Onions TOR Hidden Service Crawler](https://github.com/dirtyfilthy/freshonions-torscraper) - Fresh Onions is an open source TOR spider / hidden service onion crawler hosted at zlal32teyptf4tvi.onion.
 - [Get Tor Exit nodes](https://github.com/TravisFSmith/MyBroElk/blob/master/torIP.py)
-- [Multitor](https://github.com/trimstray/multitor) -  Create multiple TOR instances with a load-balancing.
 - [oniongrok](https://github.com/cmars/oniongrok) - oniongrok forwards ports on the local host to remote Onion addresses as Tor hidden services and vice-versa.
 - [Onion-Hunter](https://github.com/cribdragg3r/Onion-Hunter) - _Hunt and Analyze Tor Onion Sites._
 - [OnionJuggler](https://github.com/nyxnor/onionjuggler) - Manage your Onion Services via CLI or TUI on Unix-like operating system with a POSIX compliant shell.
@@ -171,6 +174,7 @@ iface eth0 inet static
 ### Crawlers
 - [ahmia-crawler](https://github.com/ahmia/ahmia-crawler) - Collection of crawlers used by the ahmia search engine 
   - [onionElasticBot](https://github.com/ahmia/ahmia-crawler/tree/master/ahmia) - Crawl .onion and .i2p websites from the Tor network
+- [Fresh Onions TOR Hidden Service Crawler](https://github.com/dirtyfilthy/freshonions-torscraper) - Fresh Onions is an open source TOR spider / hidden service onion crawler hosted at zlal32teyptf4tvi.onion.
 
 ### Helpful Web sites
 - [Censorship](https://support.torproject.org/censorship/)
@@ -178,6 +182,7 @@ iface eth0 inet static
 - [Help Censored Users, Run a Tor Bridge ](https://blog.torproject.org/run-a-bridge-campaign/)
 - [Response template for Tor relay operator to ISP](https://community.torproject.org/relay/community-resources/eff-tor-legal-faq/tor-dmca-response/)
 - [The Tor Network Runs Out Of Bridges, And The Project Is Asking For Help](https://www.eyerys.com/articles/news/tor-runs-out-of-bridges-ask-for-help)
+- [Tor Specifications](https://spec.torproject.org/intro/index.html)
 
 ### Nodes
 - [Check.torproject.org](https://check.torproject.org/cgi-bin/TorBulkExitList.py?ip=1.1.1.1) - A list of all Tor exit nodes from the past 16 hours that can contact 1.1.1.1 on port 80
