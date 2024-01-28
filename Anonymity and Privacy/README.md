@@ -7,6 +7,7 @@
 - [Bypass Firewalls / Encapsulation traffic](#bypass-firewalls--encapsulation-traffic)
 - [Disk Cleanup](#Disk-Cleanup)
 - [Interesting news articles](#Interesting-news-articles)
+- [Like-minded people](#like---minded-poeple)
 - [Network Simulation](#Network-Simulation)
 - [Secure WebBrowsers](#Secure-WebBrowsers)
 <br>
@@ -119,6 +120,10 @@ shred -vfz /dev/sdb       #f=forces write permissions if missing
 ## Interesting news articles
 [Building a new Tor that can resist next-generation state surveillance](https://arstechnica.com/information-technology/2016/08/building-a-new-tor-that-withstands-next-generation-state-surveillance/)
 [Embracing Change: My Journey from iPhone to Graphene OS (Part 1)](https://medium.com/@jonezy7173_88832/embracing-change-my-journey-from-iphone-to-graphene-os-part-1-d8faab5d4f1a)
+
+## Like-minded people
+- [dfri.se/projekt/](https://www.dfri.se/projekt/)
+- [opentech.fund](https://www.opentech.fund/) - Our Funds and Fellowships provide support to researchers, technologists, and digital security experts developing solutions to empower and protect users from repressive government censorship and surveillance globally.
 
 ## Network Simulation
 - [flare-fakenet-ng](https://github.com/fireeye/flare-fakenet-ng) - Next Generation Dynamic Network Analysis Tool.
