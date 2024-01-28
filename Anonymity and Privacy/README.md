@@ -88,6 +88,7 @@
 - [CensoredPlanet.org](https://censoredplanet.org/)
 - [Cloak](https://github.com/cbeuw/Cloak) - A censorship circumvention tool to evade detection by authoritarian state adversaries.
 - [FindFrontableDomains](https://github.com/rvrsh3ll/FindFrontableDomains) - Search for potential frontable domains.
+- [https://freesocks.org/](https://freesocks.org/) - FreeSocks is a service that provides free, open & uncensored Outline (Shadowsocks) proxies to individuals in countries experiencing a high level of Internet censorship.
 - [Geneva](https://github.com/Kkevsterrr/geneva) - automated censorship evasion for the client-side and server-side 
   - [Article: Geneva tool lets you bypass censorship by merely doing nothing](https://www.hackread.com/geneva-tool-bypass-censorship-by-doing-nothing/)
 - [Global Socket](https://github.com/hackerschoice/gsocket) - Connect like there is no firewall. Securely.
