@@ -16,7 +16,7 @@
   - [Snowflake](https://snowflake.torproject.org/)
     - [A Temporary Tor Snowflake Proxy - https://relay.love](https://relay.love/)
 
-## Performance
+## Performance tip
 - Ensure enough RAM and multiple cores on the system with high clock speed (Giga Hertz).
 - Ensure that CPU supports AES. Check with `cat /proc/cpuinfo |grep aes`
 - Disable `BandwidthRate` in config?
@@ -27,21 +27,38 @@ MaxMemInQueues 10 GB #Limit to 45% av physical RAM
 NumCPUs 8            #Adjust tor to use more cores. Might be a limit on 2 cores(?)
 ````
 
-## Setup stuff
-- [Docker: tor obfs4 bridge](https://github.com/fphammerle/docker-tor-obfs4-bridge) - Tor bridge running obfs4 obfuscation protocol in Alpine 🐳.
-- [Bridge Docker (Tor Doc)](https://community.torproject.org/relay/setup/bridge/docker/)
-  - [obfs4-spec.txt](https://github.com/Yawning/obfs4/blob/master/doc/obfs4-spec.txt)
-- [kali anonstealth](https://github.com/Und3rf10w/kali-anonsurf) - A port of ParrotSec's stealth and anonsurf modules to Kali Linux 
-- [kali torify](https://github.com/BrainfuckSec/kalitorify) - Transparent proxy through Tor for Kali Linux OS 
+## Various setup resources
 - [Nipe](https://github.com/htrgouvea/nipe) - An engine to make Tor network your default gateway 
-- [Nyx](https://nyx.torproject.org/) - Nyx is a command-line monitor for Tor. With this you can get detailed real-time information about your relay such as bandwidth usage, connections, logs, and much more.
-  - [Nyx github](https://github.com/torproject/nyx)
-- [Onionbalance](https://gitlab.torproject.org/tpo/onion-services/onionbalance) - It allows Tor onion service requests to be distributed across multiple backend Tor instances - Onion site: http://eweiibe6tdjsdprb4px6rqrzzcsi22m4koia44kc5pcjr7nec2rlxyad.onion/tpo/onion-services/onionbalance
-- [stealth-tor-docker](https://github.com/jamesacampbell/stealth-tor-docker) - spin up a new ubuntu based tor-enabled hidden ssh server quickly and easily 
-- [Tor-alpine](https://github.com/klemmchr/tor-alpine) - Simple, minimal and self updating docker image for Tor based on Alpine Linux.
+- [Run hidden SSH through tor](https://github.com/jamesacampbell/stealth-tor-docker) - spin up a new ubuntu based tor-enabled hidden ssh server quickly and easily 
+- [Tor in alpineOS](https://github.com/klemmchr/tor-alpine) - Simple, minimal and self updating docker image for Tor based on Alpine Linux.
 - [Tor Browser Launcher](https://github.com/micahflee/torbrowser-launcher) - Securely and easily download, verify, install, and launch Tor Browser in Linux.
+
+### Bridges
+- [Official repo for The obfourscator (obfs4proxy)](https://gitlab.com/yawning/obfs4) - [mirror](https://github.com/Yawning/obfs4) - The obfourscator (Courtesy mirror)
+- [Relay (Obfs4 bridge) in Docker using AlpineOS](https://github.com/fphammerle/docker-tor-obfs4-bridge) - Tor bridge running obfs4 obfuscation protocol in Alpine 🐳.
+- [Relay setup in Docker using Alpine](https://github.com/chriswayg/tor-alpine) - 🐳 A Small Tor Relay Server with obfs4proxy on Alpine Linux on Docker.
+  - [obfs4-spec.txt](https://github.com/Yawning/obfs4/blob/master/doc/obfs4-spec.txt)
+- [Official bridge-in-docker documentation)](https://community.torproject.org/relay/setup/bridge/docker/)
+
+### Hidden Services
+- [Onionbalance](https://gitlab.torproject.org/tpo/onion-services/onionbalance) - It allows Tor onion service requests to be distributed across multiple backend Tor instances - Onion site: http://eweiibe6tdjsdprb4px6rqrzzcsi22m4koia44kc5pcjr7nec2rlxyad.onion/tpo/onion-services/onionbalance
+
+### Kali 
+- [kali Anonsurf](https://github.com/Und3rf10w/kali-anonsurf) - A port of ParrotSec's stealth and anonsurf modules to Kali Linux 
+- [kali Torify](https://github.com/BrainfuckSec/kalitorify) - Transparent proxy through Tor for Kali Linux OS
+
+### Monitoring
+- [Nyx](https://nyx.torproject.org/) - Nyx is a command-line monitor for Tor. With this you can get detailed real-time information about your relay such as bandwidth usage, connections, logs, and much more. [Nyx' github](https://github.com/torproject/nyx)
+  - If you get error "Cannot read TOR's control_auth_cookie" then try:
+````powershell
+sudo usermod -aG $USER debian-tor             #or sudo adduser $USER debian-tor
+#sudo chmod 644 /run/tor/control.authcookie   #careful with this one
+````
+
+### Relay Operator Tip
+- [Expectations for relay operators](https://community.torproject.org/policies/relays/expectations-for-relay-operators/)
 - [Tor Relay Guide - Security](https://gitlab.torproject.org/legacy/trac/-/wikis/TorRelayGuide/Security)
-- [Tor Relay Server on Docker (Alpine)](https://github.com/chriswayg/tor-alpine) - 🐳 A Small Tor Relay Server with obfs4proxy on Alpine Linux on Docker.
+
 - [torsocks](https://gitweb.torproject.org/torsocks.git/)
 ````powershell
 sudo apt install torsocks             #Linux
@@ -56,7 +73,7 @@ torsocks ssh user@host.com -p 1234    #SSH over Tor
 <br>Linux
 ````powershell
 sudo apt install tor torbrowser-launcher nyx
-sudo service tor status
+sudo service tor restart && sudo service tor status
 netstat -tulpn | grep tor
 ````
  Install proxychains-ng to be able to run programs over Tor
@@ -69,20 +86,12 @@ proxychains4 nmap -v 1.1.1.1 -p 80
 - [Torwebsite](https://github.com/3xploitGuy/torwebsite) - A container to host website on Tor hidden service with .onion address.
 
 
-### Nyx - problem
-- "Cannot read TOR's control_auth_cookie"
-- Run:
-````powershell
-sudo usermod -aG $USER debian-tor             #or sudo adduser $USER debian-tor
-#sudo chmod 644 /run/tor/control.authcookie   #careful with this one
-````
-
-## Log Files and practical commands
+## Log Files
 ````
 sudo cat /var/log/syslog | grep tor -i
 sudo journalctl -f -u tor@default | grep bootstrapped -i
 sudo journalctl -u tor@default
-sudo updatedb && locate tor.log
+sudo updatedb && locate tor.log        #locate the log file
 ````
 Paths used for logs:
 ````
@@ -91,23 +100,17 @@ Paths used for logs:
 ````
 
 ## OnionShare
-- [onionshare.org](https://onionshare.org)
-- [OnionShare's github](https://github.com/micahflee/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network.
-- [OnionShare's Documentation](https://docs.onionshare.org)
-  - [Command-line Interface Documentation](https://docs.onionshare.org/2.3.1/en/advanced.html#command-line-interface)
-
-Mac Setup
-````powershell
-brew install --cask onionshare
-````
-Linux setup
+- [onionshare.org](https://onionshare.org) - Securely and anonymously share files, host websites, and chat with friends using the Tor network. [github](https://github.com/micahflee/onionshare)
+  - [https://docs.onionshare.org](https://docs.onionshare.org) - CLI](https://docs.onionshare.org/2.3.1/en/advanced.html#command-line-interface)
+- For macOS just run `brew install --cask onionshare`
+- For Linux: 
 ````powershell
 sudo apt install onionshare
 onionshare-cli --chat                                                        # start a chat server
 onionshare-cli --receive --persistent ~/anon-dropbox.session --public        # start a persistent anonymous dropbox
 ````
 
-## Whonix
+## Whonix - A secure OS routing traffic through Tor
 - [Whonix ™ for KVM](https://www.whonix.org/wiki/KVM)
 Commands
 ````
@@ -138,7 +141,6 @@ iface eth0 inet static
 
 ## Useful Resources
 - [Active Onions](https://github.com/k4m4/active-onions) - Filter out inactive onions from an array of onion URLs.
-- [DEEP_WEB_LINKS_COLLECTION.md](https://gist.github.com/vyach-vasiliev/045af4c70cf2ed35c6091b4705093017)
 - [Eschalot](https://github.com/ReclaimYourPrivacy/eschalot) - It is important to stress that we have not written this piece of software (see LICENSE).
 - [Fresh Onions TOR Hidden Service Crawler](https://github.com/dirtyfilthy/freshonions-torscraper) - Fresh Onions is an open source TOR spider / hidden service onion crawler hosted at zlal32teyptf4tvi.onion.
 - [Get Tor Exit nodes](https://github.com/TravisFSmith/MyBroElk/blob/master/torIP.py)
@@ -160,7 +162,7 @@ iface eth0 inet static
   - Tor Status - https://jlve2y45zacpbz6s.tor2web.io
   - [Tor Status Github](https://github.com/paulchen/torstatus)
 - [Torutils](https://github.com/toralf/torutils) - Few tools for a Tor relay.
-### Attacks
+### Attacks on Tor
 - [Quantuminsert](https://github.com/fox-it/quantuminsert) - Quantum Insert
 
 ### Collections
@@ -173,7 +175,7 @@ iface eth0 inet static
 ### Helpful Web sites
 - [Censorship](https://support.torproject.org/censorship/)
 - [Community and legal resources](https://community.torproject.org/relay/community-resources/)
-- [ Help Censored Users, Run a Tor Bridge ](https://blog.torproject.org/run-a-bridge-campaign/)
+- [Help Censored Users, Run a Tor Bridge ](https://blog.torproject.org/run-a-bridge-campaign/)
 - [Response template for Tor relay operator to ISP](https://community.torproject.org/relay/community-resources/eff-tor-legal-faq/tor-dmca-response/)
 - [The Tor Network Runs Out Of Bridges, And The Project Is Asking For Help](https://www.eyerys.com/articles/news/tor-runs-out-of-bridges-ask-for-help)
 
