@@ -10,7 +10,8 @@ GREEN='\033[0;32m'
 NORMAL='\033[0m'
 
 
-END=2023
+END=2024
+
 for ((year=2010;year<=END;year++)); do
   echo ""; echo $year
 
