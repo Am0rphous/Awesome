@@ -1197,6 +1197,7 @@ that works on top of your local folder of plain text files. [github](https://git
   - HexEdit - `sudo apt intall hexedit`. Usage: `hexedit /dev/sdb`
   - [Hex Editor Neo](https://www.hhdsoftware.com/hex-editor)
   - [ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
+  - [Hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer 
   - [SuperHexEditor](https://github.com/philipxyc/SuperHexEditor) - A powerful and open source Hex Editor for Windows10.
   - [wxHexEditor](https://github.com/EUA/wxHexEditor) - [www.wxhexeditor.org](http://www.wxhexeditor.org/) - `sudo apt install wxhexeditor` (can look at disks!)
   ### Linux Tools
