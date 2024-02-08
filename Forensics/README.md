@@ -149,7 +149,8 @@ sysdig
 ## Memory Forensics (RAM)
 - [Atomicity_tops](https://github.com/pagabuc/atomicity_tops) - Introducing the Temporal Dimension to Memory Forensics - ACM Transactions on Privacy and Security 2019.
 - [Avml](https://github.com/microsoft/avml) - AVML - Acquire Volatile Memory for Linux
-- [Dismember](https://github.com/liamg/dismember) - 🔪 Scan memory for secrets and more. Maybe eventually a full /proc toolkit. 
+- [Dismember](https://github.com/liamg/dismember) - 🔪 Scan memory for secrets and more. Maybe eventually a full /proc toolkit.
+- [DumpIT for Linux](https://github.com/MagnetForensics/dumpit-linux) - Memory acquisition for Linux that makes sense.
 - [FireEye Redline](https://www.fireeye.com/services/freeware/redline.html) -  free endpoint security tool, provides host investigative capabilities to users to find signs of malicious activity through memory and file analysis and the development of a threat assessment profile.
 - [Fmem](https://github.com/NateBrune/fmem) - Linux Kernel Module designed to help analyze volatile memory in the linux kernel.
 - How to
