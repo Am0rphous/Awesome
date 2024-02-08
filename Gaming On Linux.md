@@ -8,6 +8,7 @@
   - [Games](#games)
   - [Serving](#serving)
 - [3. Peripherals & Hardware](#3-peripherals--hardware)
+- [4. Various links](#4-various-links)
 
 <br>
 
@@ -87,3 +88,7 @@
   - [RazerCommander](https://github.com/GabMus/razerCommander) - Simple GUI written in Gtk3.
   - [Snake](http://bithatch.co.uk/snake.html) - a stylised tool and tray applet for configuring Razer devices on Linux, written in Java.
   - [Chroma Feedback](https://github.com/redaxmedia/chroma-feedback) - Turn your Razer keyboard, mouse or headphone into a extreme feedback device.
+
+## 4. Various links
+- [Motion blur test for your screen](https://www.testufo.com)
+- [In-depth product reviews](https://www.rtings.com/)
