@@ -24,6 +24,7 @@ Communicate clearly <br>
 
 - [Awesome entitled projects](#awesome-entitled-projects)
 - [Communication and Collaboration Tools](#communication-and-collaboration-tools)
+  - [Contacts](#contacts)
   - [E-mail](#e-mail)
     - [Security Tools](#security-tools)
   - [IRC](#irc)
@@ -210,6 +211,9 @@ Communicate clearly <br>
 - [YakYak](https://github.com/yakyak/yakyak) - Desktop chat client for Google Hangouts.
 - [Zulip](https://zulip.com/) - Chat for distributed teams. Slack alternative. [Github](https://github.com/zulip)
 
+### Contacts
+- [vCard Editor](https://github.com/abdelkader/vCardEditor) - Simple vCard (*.vcf) file Editor.
+- [vcard-studio](https://snapcraft.io/vcard-studio) - A snap package for editing vCard file format
 
   ### E-mail
   - [Davmail](https://github.com/mguessan/davmail) - DavMail POP/IMAP/SMTP/Caldav/Carddav/LDAP Exchange and Office 365 Gateway - Synced with main subversion repository at
@@ -1024,7 +1028,7 @@ Based on that data, you can find the most popular ones and their alternatives.
 - [Find-you](https://github.com/positive-security/find-you) - A stealth AirTag clone that bypasses all of Apple's tracking protection features
 - [flameshot](https://flameshot.org)
 - [GoAlert](https://github.com/target/goalert) - Open source on-call scheduling, automated escalations, and notifications so you never miss a critical alert.
-- [KOrganizer](https://github.com/KDE/korganizer) - Organizational assistant, providing calendars and other similar functionality.
+- [KOrganizer](https://github.com/KDE/korganizer) - Organizational assistant, providing s and other similar functionality.
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
 - [Ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [Open-event-frontend](https://github.com/fossasia/open-event-frontend) - The frontend for the Open Event API Server
@@ -1112,8 +1116,6 @@ that works on top of your local folder of plain text files. [github](https://git
   ### Time Management
   - [Alarm-clock](https://github.com/alarm-clock-applet/alarm-clock) - Alarm Clock is a fully-featured alarm clock for use with an AppIndicator implementation.
   - [BreakTimer App](https://github.com/tom-james-watson/breaktimer-app) - Manage periodic breaks. Avoid eye-strain and RSI.
-  - [Deepin Calender](https://github.com/linuxdeepin/dde-calendar) - Calendar application for DDE.
-  - [GNOME Calendar](https://gitlab.gnome.org/GNOME/gnome-calendar) [github](https://github.com/GNOME/gnome-calendar)
   - [HTML5 Binary Clock](https://github.com/AE0L/html5-binary-clock) - Binary Clock written in HTML5, CSS3, and Vanilla JS.
   - [Khronos](https://github.com/lainsce/khronos) - Log each task's time in a simple inobtrusive way 
   - Pomodoro
@@ -1125,9 +1127,14 @@ that works on top of your local folder of plain text files. [github](https://git
   - [Stretchly](https://github.com/hovancik/stretchly) - The break time reminder app 
   - [Termdown](https://github.com/trehn/termdown) - Countdown timer and stopwatch in your terminal
   - [Tockler](https://github.com/MayGo/tockler) - Application that tracks your time by monitoring your active windows (only titles) and idle time. 
-  - [Tui.calendar](https://github.com/nhn/tui.calendar) - JavaScript calendar that has everything you need.
   - [WNR](https://github.com/RoderickQiu/wnr) - It's a time-management tool for computers. Work and rest, with wnr now. (P.S.: being fed up of my heavy study work and an private Android project, I might not be able to response quickly).
   - [Workrave](https://github.com/rcaelers/workrave) - Workrave is a program that assists in the recovery and prevention of Repetitive Strain Injury (RSI). The program frequently alerts you to take micro-pauses, rest breaks and restricts you to your daily limit.
+    ### Calendars
+    - [Deepin Calendar](https://github.com/linuxdeepin/dde-calendar) - Calendar application for DDE.
+    - [EteSync ](https://www.etesync.com/get-apps/) - Sync your contacts, calendars and tasks
+    - [GNOME Calendar](https://gitlab.gnome.org/GNOME/gnome-calendar) [github](https://github.com/GNOME/gnome-calendar)
+    - [SOGo](https://www.sogo.nu/) - provides native Microsoft ActiveSync support. Mobile devices such as Apple iPhone, Android, and Windows Phone can fully synchronize emails, contacts, events and tasks with SOGo.
+    - [Tui.calendar](https://github.com/nhn/tui.calendar) - JavaScript calendar that has everything you need.
     ### Polls
     - [Framadate](https://framagit.org/framasoft/framadate/framadate) - [Framadate.org](https://framadate.org/) is an online service for planning an appointment or making a decision quickly and easily. It's a community free/libre software alternative to Doodle.
 
