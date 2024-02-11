@@ -2,7 +2,7 @@
 
 - [Awesome](#awesome)
 - [Anonymity](#Anonymity)
-  - [TOR - The Onion Router](#TOR---The-Onion-Router)
+  - [Tor - The Onion Router](#tor---The-Onion-Router)
   - [Relays, statistics, operators](#relays-statistics-operators)
 - [Bypass Firewalls / Encapsulation traffic](#bypass-firewalls--encapsulation-traffic)
 - [Disk Cleanup](#Disk-Cleanup)
@@ -62,7 +62,7 @@
 - [ProxyChains by haad](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy. Supported auth-types: "user/pass" for SOCKS4/5, "basic" for HTTP.
 - [ProxyChains-NG by rofl0r](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.
 
-  #### TOR - The Onion Router
+  #### Tor - The Onion Router
   - [Onionbalance v3](https://github.com/asn-d6/onionbalance/) - mirror of (https://gitlab.torproject.org/asn/onionbalance).
   - [Real-World Onion Sites](https://github.com/alecmuffett/real-world-onion-sites#tech-and-software) - list of substantial, commercial-or-social-good mainstream websites which provide onion services.
   - [The Hitchhiker's Guide to Online Anonymity ](https://github.com/NobodySpecial256/thgtoa)
