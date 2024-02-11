@@ -12,6 +12,8 @@
 
 <br>
 
+- [Does EAC work on your game? Check here](https://areweanticheatyet.com/) - A comprehensive and crowd-sourced list of games using anti-cheats and their compatibility with GNU/Linux or Wine/Proton.
+
 ## 1. OS dedicated for gaming
 - [ChimeraOS](https://chimeraos.org) - ChimeraOS is an operating system that provides an out of the box couch gaming experience. After installation, boot directly into Steam Big Picture and start playing your favorite games. If you want Steam in your living room, you want ChimeraOS.
 - [Drauger OS](https://draugeros.org/)
@@ -63,6 +65,9 @@
    - [S.T.A.L.K.E.R.]()
      - [S.T.A.L.K.E.R. Anomaly ](https://drakelings.bluedrake42.com/index.php?/blogs/entry/11-i-cant-believe-this-full-game-is-free/)
    - [Splitgate](https://store.steampowered.com/app/677620/Splitgate/) - Free and works on Steamos/linux
+   - [Squad44 / Post Scriptum](https://store.steampowered.com/app/736220/Squad_44/) - $
+     - [Guides - nice to read](https://squadfm.org/)
+     - [Make it work on Linux](https://www.youtube.com/watch?v=wz-7SbT1vEg) - !! I dont think this works anymore
    - [SuperTuxKart](https://snapcraft.io/supertuxkart) - SuperTuxKart is a 3D open-source arcade racer with a variety of characters, tracks, and modes to play.
    - [Track Mania Nations Forever](https://github.com/snapcrafters/tmnationsforever) - A community-maintained package to easily install TrackMania Nations Forever on Linux.
    - [Unreal Tournament](https://www.epicgames.com/unrealtournament/en-US/) - first-person shooter, with head-to-head multiplayer deathmatches being the primary focus of the game [Wikipedia](https://en.wikipedia.org./wiki/Unreal_tournament).
