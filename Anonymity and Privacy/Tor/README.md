@@ -186,6 +186,8 @@ iface eth0 inet static
 - [Community and legal resources](https://community.torproject.org/relay/community-resources/)
 - [Help Censored Users, Run a Tor Bridge ](https://blog.torproject.org/run-a-bridge-campaign/)
 - [Response template for Tor relay operator to ISP](https://community.torproject.org/relay/community-resources/eff-tor-legal-faq/tor-dmca-response/)
+- [Tor Browser User Manual](https://tb-manual.torproject.org/)
+- [Tor presentation](https://community.torproject.org/training/resources/tor-relay-workshop/)
 - [The Tor Network Runs Out Of Bridges, And The Project Is Asking For Help](https://www.eyerys.com/articles/news/tor-runs-out-of-bridges-ask-for-help)
 - [Tor Specifications](https://spec.torproject.org/intro/index.html)
 
