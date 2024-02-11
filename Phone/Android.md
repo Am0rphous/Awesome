@@ -1,8 +1,9 @@
 # Android
 
 Where to get apps?
-- [Guardian Project](https://guardianproject.info/) - Guardian Project creates easy to use secure apps, open-source software libraries, and customized solutions that can be used around the world by any person looking to protect their communications and personal data from unjust intrusion, interception and monitoring.
 - [F-Droid](https://f-droid.org/en/) - F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.
+- [Guardian Project](https://guardianproject.info/) - Guardian Project creates easy to use secure apps, open-source software libraries, and customized solutions that can be used around the world by any person looking to protect their communications and personal data from unjust intrusion, interception and monitoring.
+- [IzzyOnDroid F-Droid Repository](https://apt.izzysoft.de/fdroid/)
 
 Update apps
 - F-Droid updates app automatically
