@@ -48,8 +48,7 @@ ControlPort 9052
 CookieAuthentication 1
 SocksPort 9049 #default is 9050, and might already be in use. I like to choose a lower port
 
-#add your other relays here:
-#MyFamily fingerprint1,fingerprint2,fingerprint3
+#MyFamily DO NOT ADD FAMILY FINGERPRINTS!
 EOF
 
 cat >> /etc/tor/torrc3<< EOF
@@ -64,8 +63,6 @@ Nickname Anonymous
 ControlPort 9053                                        #update this
 CookieAuthentication 1
 SocksPort 9048                                          #update this
-
-#MyFamily fingerprint1,fingerprint2,fingerprint3
 EOF
 
 cat >> /etc/tor/torrc4<< EOF
@@ -80,8 +77,6 @@ Nickname Anonymous
 ControlPort 9054                                        #update this
 CookieAuthentication 1
 SocksPort 9047                                          #update this
-
-#MyFamily fingerprint1,fingerprint2,fingerprint3
 EOF
 
 
