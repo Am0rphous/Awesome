@@ -33,6 +33,7 @@ NumCPUs 8            #Adjust tor to use more cores. Might be a limit on 2 cores(
 ## Various setup resources
 - [Multitor](https://github.com/trimstray/multitor) -  Create multiple TOR instances with a load-balancing.
 - [Nipe](https://github.com/htrgouvea/nipe) - An engine to make Tor network your default gateway 
+- [Relay Configurator](https://github.com/Wuemeli/tor-relay-configurator) - [https://tor-relay.dev/](https://tor-relay.dev/)
 - [Run hidden SSH through tor](https://github.com/jamesacampbell/stealth-tor-docker) - spin up a new ubuntu based tor-enabled hidden ssh server quickly and easily 
 - [Tor in alpineOS](https://github.com/klemmchr/tor-alpine) - Simple, minimal and self updating docker image for Tor based on Alpine Linux.
 - [Tor Browser Launcher](https://github.com/micahflee/torbrowser-launcher) - Securely and easily download, verify, install, and launch Tor Browser in Linux.
