@@ -316,6 +316,7 @@ Communicate clearly <br>
     - [Github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
     - [Gitify](https://github.com/manosim/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
     - [Gitleaks](https://github.com/zricethezav/gitleaks) - Protect and discover secrets using Gitleaks 🔑
+    - [Git-alerts](https://github.com/boringtools/git-alerts) - Tool to detect and monitor GitHub org users' public repositories for secrets and sensitive files
     - [Git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
     - [GitNoter](https://github.com/git-noter/gitnoter) - An open source, markdown-based, self-hosted note taking webapp.
     - [Harden-runner](https://github.com/step-security/harden-runner) - 🛡️Security agent for the GitHub-hosted runner to monitor the build process
