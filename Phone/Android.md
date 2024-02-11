@@ -20,9 +20,10 @@ Update apps
 - [OpenBoard](https://github.com/openboard-team/openboard) - 100% FOSS keyboard, based on AOSP.
 
 ### Productivity
-
-- [Etar-Calendar](https://github.com/Etar-Group/Etar-Calendar) - Android open source calendar
+- Calendars
+  - [Etar-Calendar](https://github.com/Etar-Group/Etar-Calendar) - Android open source calendar
+  - [Simple Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) - A simple calendar with events, tasks, customizable colors, widgets and no ads. 
 - [KDE Connect](https://kdeconnect.kde.org/) - Enabling communication between all your devices. 
-- [News-android](https://github.com/nextcloud/news-android) - 📱🗞️ Android client for the Nextcloud news/feed reader app
-- [RecordYou](https://github.com/you-apps/RecordYou) - Privacy focused recorder app built with MD3
-- [Tasks](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
+- [News feed](https://github.com/nextcloud/news-android) - 📱🗞️ Android client for the Nextcloud news/feed reader app
+- [Voice recording](https://github.com/you-apps/RecordYou) - Privacy focused recorder app built with MD3
+- [To-do-list](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
