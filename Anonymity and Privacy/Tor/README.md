@@ -60,10 +60,11 @@ NumCPUs 8            #Adjust tor to use more cores. Might be a limit on 2 cores(
 
 ### Monitoring
 - [Nyx](https://nyx.torproject.org/) - Nyx is a command-line monitor for Tor. With this you can get detailed real-time information about your relay such as bandwidth usage, connections, logs, and much more. [Nyx' github](https://github.com/torproject/nyx)
-  - If you get error "Cannot read TOR's control_auth_cookie" then try:
+  - If you get error `Cannot read TOR's control_auth_cookie` then try:
 ````powershell
-sudo usermod -aG $USER debian-tor             #or sudo adduser $USER debian-tor
-#sudo chmod 644 /run/tor/control.authcookie   #careful with this one
+sudo usermod -aG $USER debian-tor             #run this
+sudo adduser $USER debian-tor                 # or this one (ubuntu)
+#sudo chmod 644 /run/tor/control.authcookie   #be careful with this one
 ````
 
 ### Relay Operator Tip
