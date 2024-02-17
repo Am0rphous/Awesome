@@ -65,6 +65,9 @@ NumCPUs 8            #Adjust tor to use more cores. Might be a limit on 2 cores(
 sudo usermod -aG $USER debian-tor             #run this
 sudo adduser $USER debian-tor                 # or this one (ubuntu)
 #sudo chmod 644 /run/tor/control.authcookie   #be careful with this one
+nyx
+nyx -i 127.0.0.1:9051    #connect to localhost on the port 9051
+nyx -i 9052              #if you run more bridges on the server
 ````
 
 ### Relay Operator Tip
