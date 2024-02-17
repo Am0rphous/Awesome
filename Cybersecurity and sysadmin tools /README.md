@@ -188,6 +188,7 @@ bro / zeek
   - [iplists.firehol.org](https://iplists.firehol.org)
     - [firehol_level3](https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level3.netset)
   - [ipset-blacklist by Trick77](https://github.com/trick77/ipset-blacklist) - A bash script to ban large numbers of IP addresses published in blacklists.
+  - [Ipsum](https://github.com/stamparm/ipsum) - Daily feed of bad IPs (with blacklist hit scores)
   - [MalwareWorld](https://github.com/carlospolop/MalwareWorld) - System based on +500 blacklists and 5 external intelligences to detect internet potencially malicious hosts.
   - [Proofpoint Emerging Threats Rules](https://rules.emergingthreats.net/blockrules/)
     - [compromised-ips.txt by emergingthreats.net](https://rules.emergingthreats.net/blockrules/compromised-ips.txt)
