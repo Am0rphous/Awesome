@@ -400,6 +400,7 @@ Communicate clearly <br>
     - [compiz-alike-windows-effect](https://github.com/hermes83/compiz-alike-windows-effect) - Compiz alike windows effect for GNOME Shell.
     - [Dash to Panel ](https://github.com/home-sweet-gnome/dash-to-panel) - An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found in KDE Plasma and Windows 7+. A separate dock is no longer needed for easy access to running and favorited applications. 
     - [GNOME Shell Extensions](https://gitlab.gnome.org/GNOME/gnome-shell-extensions) - [wiki](https://wiki.gnome.org/Projects/GnomeShell/Extensions)
+    - [GTile](https://github.com/gTile/gTile) - A window tiling extension for Gnome.
     - [Tray-Icons-Reloaded](https://github.com/MartinPL/Tray-Icons-Reloaded) - GNOME Shell extension which bring back Tray Icons to top panel, with additional features.
 
   #### Inspiration
