@@ -44,6 +44,7 @@
 - [Steam](https://store.steampowered.com/) - Install with `sudo apt install steam`
   - [Steamctl](https://github.com/ValvePython/steamctl) - 🤸 Take control of Steam from your terminal. Steamctl is an open-source CLI utility similar to steamcmd. It provides access to a number of Steam features and data from the command line. While it is possible to download apps and content from Steam, steamctl is not a game launcher.
   - [Steam's Debian Wiki](https://wiki.debian.org/Steam#Basic_installation)
+  - To debug games running in proton right click -> Properiets -> Launch Options and write `PROTON_LOG=1 %command%` and file is saved in `$HOME`
 - [Wine](https://github.com/wine-mirror/wine) - Program which allows running Microsoft Windows programs (including DOS, Windows 3.x, Win32, and Win64 executables) on Unix.
 - [Wine-launcher](https://github.com/hitman249/wine-launcher) - Wine Launcher - Running Windows games under Linux
 - [WineTricks](https://github.com/Winetricks/winetricks) - Winetricks is an easy way to work around problems in Wine. [winehq.org](https://wiki.winehq.org/Winetricks)
