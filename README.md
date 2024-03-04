@@ -297,6 +297,7 @@ Communicate clearly <br>
     - [Jitsi-meet-electron](https://github.com/jitsi/jitsi-meet-electron) - Jitsi Meet desktop application powered by :electron:
     - [Set Up Jibri for Jitsi Recording/Streaming](https://nerdonthestreet.com/s/15) - This tutorial will demonstrate how to install Jibri to add recording and streaming functionality to a Jitsi Meet server.
   - [Quiet](https://github.com/TryQuiet/quiet) - A private, p2p alternative to Slack and Discord built on Tor & IPFS [https://tryquiet.org/](https://tryquiet.org/)
+  - [https://simplex.chat/](https://simplex.chat/) - The first messenger without user IDs. Other apps have user IDs: Signal, Matrix, Session, Briar, Jami, Cwtch, etc. SimpleX does not, not even random numbers. This radically improves your privacy. 
   - [Session](https://getsession.org/) - Session is an end-to-end encrypted messenger that minimises sensitive metadata, designed and built for people who want absolute privacy and freedom from any form of surveillance. [Session Desktop](https://github.com/oxen-io/session-desktop) - Session Desktop - Onion routing based messenge.
   - [Signal](https://www.signal.org) - Supports any platform (Linux, MacOS, Windows, Android and iOS)
   - [Wire](https://github.com/wireapp/wire) - [app.wire.com](https://app.wire.com/auth/)
