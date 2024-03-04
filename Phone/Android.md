@@ -10,9 +10,14 @@ Update apps
 - Aurora does **not** update automatically :(
 - [Obtainium](https://github.com/ImranR98/Obtainium) - Gets Android app updates directly from the Source.
 
-### Entertainment
-- [AntennaPod](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android
+### Blogging
 - [Infinity-For-Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) - A Reddit client for Android
+
+### Media
+- [AntennaPod](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android
+- [NewPipe](https://f-droid.org/packages/org.schabi.newpipe/) - NewPipe does not use any Google framework libraries, or the YouTube API. It only parses the website in order to gain the information it needs. Therefore this app can be used on devices without Google Services installed. Also, you don't need a YouTube account to use NewPipe, and it's FLOSS.
+- [Spotube](https://f-droid.org/packages/oss.krtirtho.spotube/) -  Lightweight & resource friendly spotify client without requiring Spotify Premium 
+- [ViMusic](https://f-droid.org/en/packages/it.vfsfitvnm.vimusic/) - Seamlessly stream music from YouTube Music 
 
 ### Screen Keyboard
 - [AnySoftKeyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) - Android (f/w 2.1+) on screen keyboard for multiple languages (chat https://gitter.im/AnySoftKeyboard)
