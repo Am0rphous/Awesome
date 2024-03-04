@@ -384,6 +384,7 @@ Communicate clearly <br>
 - [Rofi](https://github.com/davatorium/rofi#screenshots) - Rofi: A window switcher, application launcher and dmenu replacement 
   - [Rofi Collection](https://github.com/Murzchnvok/rofi-collection) - Beautiful collection of Rofi themes 
 - [SpaceEye](https://github.com/KYDronePilot/SpaceEye) - Live satellite imagery for your desktop background.
+- [https://store.kde.org/browse/](https://store.kde.org/browse/)
 - [Variety](https://github.com/varietywalls/variety) - Wallpaper downloader and manager for Linux systems.
 
 #### Background and Wallapers
