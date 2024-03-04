@@ -8,7 +8,7 @@
 - [Disk Cleanup](#Disk-Cleanup)
 - [Interesting news articles](#Interesting-news-articles)
 - [Like-minded people](#like---minded-poeple)
-- [Mobile](#mobile]
+- [Mobile](#mobile)
 - [Network Simulation](#Network-Simulation)
 - [Secure WebBrowsers](#Secure-WebBrowsers)
 <br>
