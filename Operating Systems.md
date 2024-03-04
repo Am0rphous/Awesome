@@ -48,6 +48,7 @@ _Considering key questions:_
   - [Tiny10](https://archive.org/details/tiny-10_202301) - (Lightweight Windows 10)
   - [Article in Medium: How Bullshit Has Dominated The Tech Industry](https://medium.com/@fulalas/how-bullshit-has-dominated-the-tech-industry-bc63257f2a91) - Go down to _"Microsoft is perhaps unbeatable in this regard"_
   - [Windows in a Docker containe](https://github.com/dockur/windows) - Windows in a Docker container.
+  - [Wubuntu](https://www.wubuntu.org/) - Linux with Windows appearance, without any hardware restrictions.
 
 - [Hardware for Linux Trends](https://linux-hardware.org/?view=trends)
 
