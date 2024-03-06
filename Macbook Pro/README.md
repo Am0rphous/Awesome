@@ -17,6 +17,7 @@ Table of content
     - [Virtualization](#Virtualization)
 6. [Macbook with Linux resources](#Macbook-with-Linux-resources)
     - [Macbook Pro 14.3 (late 2017)](#macbook-pro-143-late-2017)
+    - [Status](#status)
 7. [Productivity](#Productivity)
     - [Automation](#Automation)
     - [Office Tools](#Office-Tools)
@@ -201,18 +202,21 @@ brew analytics off
 - [Hw-probe](https://github.com/linuxhw/hw-probe) - Probe for hardware, check operability and find drivers.
 - [Linux ARM M1](https://github.com/corellium/linux-m1)
 - [Linuxbrew Core](https://github.com/Homebrew/linuxbrew-core) - [Linuxbrew documentation](https://docs.brew.sh/Homebrew-on-Linux)
-- [mbp-2016-linux](https://github.com/Dunedan/mbp-2016-linux) - State of Linux on the MacBook Pro 2016 & 2017.
 - [mbpfan](https://github.com/linux-on-mac/mbpfan) - A simple daemon to control fan speed on all MacBook/MacBook Pros (probably all Apple computers) for Linux Kernel 3 and newer
 - [mbp-ubuntu-kernel](https://github.com/marcosfad/mbp-ubuntu-kernel) - Ubuntu Kernel for MacBook Pro (incl. T2 patches).
 - [Roadrunner2's macbook12-spi-driver](https://github.com/roadrunner2/macbook12-spi-driver) - Input driver for the SPI keyboard / trackpad found on 12" MacBooks (2015 and later) and newer MacBook Pros (late 2016 through mid 2018), as well a simple touchbar and ambient-light-sensor driver for late 2016 MacBook Pro's and later.
-- [State of Linux on the MacBook Pro 2016 & 2017](https://github.com/Dunedan/mbp-2016-linux) - Provides an overview about Linux support for Apple's MacBook Pro 2016 and MacBook Pro 2017 models.
-  
+
   ### Macbook Pro 14.3 (late 2017)
   - [BCM43602_macbookpro](https://github.com/andyholst/BCM43602_macbookpro) - Bruteforce test the boardflags 3 for 2.4 Ghz and 5 Ghz band
     - [Solution which makes the wifi work](https://bugzilla.kernel.org/show_bug.cgi?id=193121#c52) - [Original thread](https://github.com/Dunedan/mbp-2016-linux/issues/47)
     - [Maybe this works brcmfmac43602-pcie.txt](https://github.com/Dunedan/mbp-2016-linux/files/4977482/brcmfmac43602-pcie.txt)
   - [Sonal's macbookpro14-3 repo](https://github.com/sonals/macbookpro14-3)
   - [ubuntu-22.04-mbp-a1707.md](https://gist.github.com/rob-hills/9134b7352ee7471c4d4f4fbd6454c4b9)
+
+  ### Status
+- [Linux support for Apple devices with the T2 security chip](https://t2linux.org/) - [Wiki](https://github.com/t2linux/wiki)
+- [State of Linux on the MacBook Pro 2016 & 2017](https://github.com/Dunedan/mbp-2016-linux) - Provides an overview about Linux support for Apple's MacBook Pro 2016 and MacBook Pro 2017 models.
+
 
 ## Productivity
 - [Actions](https://github.com/sindresorhus/Actions) - ⚙️ Supercharge your shortcuts 
