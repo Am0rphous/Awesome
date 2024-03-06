@@ -750,6 +750,7 @@ upstream_recursive_servers:
   - [DPI Using GPUs pdf](https://on-demand.gputechconf.com/gtc/2017/presentation/s7468-wenji-wu-network-traffic-analysis-using-gpus.pdf) - Deep Packet Inspection Using GPUs
   - [Extract TLS Secrets](https://github.com/neykov/extract-tls-secrets) - Decrypt HTTPS/TLS connections on the fly with Wireshark.
   - [Fatt](https://github.com/0x4D31/fatt) - FATT /fingerprintAllTheThings - a pyshark based script for extracting network metadata and fingerprints from pcap files and live network traffic
+  - [Nfdump](https://github.com/phaag/nfdump) - Netflow processing tools
   - [WireCAP](https://wirecap.fnal.gov/) - a Novel Packet Capture Engine for Commodity NICs in High-speed Networks
   - [Wireshark](https://github.com/wireshark/wireshark) - wireshark.org
     - [PCAP Anonymizer](https://www.voipanalyzertool.com/anonymize) - "GDPR / LGPD : Obfuscate your Wireshark PCAP captures"
