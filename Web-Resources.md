@@ -73,6 +73,7 @@
     - [Digital Sikkerhet 2019 ](https://www.telenor.no/om/digital-sikkerhet/2019.html)
 
  ## Forums and blogs
+ - [AA - cyber-security-blogs.txt](https://gist.github.com/Neo23x0/3375536faf266794db5c0e90fd202f5a)
   - [0x00sec.org](https://0x00sec.org)
   - [Blog.syscall.party](https://blog.syscall.party)
   - [Blog.qsecure.com.cy/posts](https://blog.qsecure.com.cy/posts)
