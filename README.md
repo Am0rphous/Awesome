@@ -364,16 +364,6 @@ Communicate clearly <br>
 - [Hardcode-Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - Fixes Hardcoded tray icons in Linux.
 - [Hypr](https://github.com/hyprwm/Hypr) - Hypr is a tiling window manager written in modern C++. 
 - [Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks. 
-- [Input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
-  - [Barrier [NOT maintained anymore]](https://github.com/debauchee/barrier) - Share your mouse and keyboard between computers. _Barrier is software that mimics the functionality of a KVM switch, which historically would allow you to use a single keyboard and mouse to control multiple computers by physically turning a dial on the box to switch the machine you're controlling at any given moment._
-    - [Barrier doc](https://github.com/debauchee/barrier/tree/master/doc)
-    - Tip for troubleshooting on Linux. You might need to create a selfsignet certificate
-    ````
-    openssl req -x509 -nodes -days 365 -subj /CN=Barrier -newkey rsa:4096 \
-     -keyout ~/.local/share/barrier/SSL/Barrier.pem \
-     -out    ~/.local/share/barrier/SSL/Barrier.pem
-    ````
-    - Tip for troubleshooting on macOS-> [Productivity -> barrier](https://github.com/Am0rphous/CheatSheets/blob/main/macOS/README.md#productivity)
 - [latte-dock](https://github.com/KDE/latte-dock) - Replacement dock for Plasma desktops, providing an elegant and intuitive experience for your tasks and plasmoids
 - [linux-desktop-environment-tool-cli](https://github.com/LinuxEuphony/linux-desktop-environment-tool-cli) - This script helps Debian and Ubuntu users install the below desktop environments from a list of options on a terminal menu. It also has an uninstall option for the installed desktop environments. The script will update system packages and upgrade software packages before installing or uninstalling any desktop environment. 
 - [Plank](https://github.com/ricotz/plank) - Simple dock. Configure `plank   --preferences`
@@ -1034,6 +1024,18 @@ Based on that data, you can find the most popular ones and their alternatives.
 - [GoAlert](https://github.com/target/goalert) - Open source on-call scheduling, automated escalations, and notifications so you never miss a critical alert.
 - [KOrganizer](https://github.com/KDE/korganizer) - Organizational assistant, providing s and other similar functionality.
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
+-  Mouse & keyboard sharing via LAN
+  - [Lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
+  - [Input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
+    - [Barrier [NOT maintained anymore]](https://github.com/debauchee/barrier) - Share your mouse and keyboard between computers. _Barrier is software that mimics the functionality of a KVM switch, which historically would allow you to use a single keyboard and mouse to control multiple computers by physically turning a dial on the box to switch the machine you're controlling at any given moment._
+    - [Barrier doc](https://github.com/debauchee/barrier/tree/master/doc)
+    - Tip for troubleshooting on Linux. You might need to create a selfsignet certificate
+    ````
+    openssl req -x509 -nodes -days 365 -subj /CN=Barrier -newkey rsa:4096 \
+     -keyout ~/.local/share/barrier/SSL/Barrier.pem \
+     -out    ~/.local/share/barrier/SSL/Barrier.pem
+    ````
+    - Tip for troubleshooting on macOS-> [Productivity -> barrier](https://github.com/Am0rphous/CheatSheets/blob/main/macOS/README.md#productivity)
 - [Ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [Open-event-frontend](https://github.com/fossasia/open-event-frontend) - The frontend for the Open Event API Server
 - [Open-event-server](https://github.com/fossasia/open-event-server) - The Open Event Organizer Server to Manage Events http://open-event-api.herokuapp.com
