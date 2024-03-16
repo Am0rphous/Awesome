@@ -1542,6 +1542,12 @@ upstream_recursive_servers:
   - [Hetzner Cloud](https://www.hetzner.com/cloud)
     - [awesome-hcloud](https://github.com/hetznercloud/awesome-hcloud) - A curated list of awesome libraries, tools, and integrations for Hetzner Cloud.
   - [Osu Open Source Lab](https://osuosl.org)
+  #### Free tiers
+  - Oracle cloud (2 vms. 1 gm ram, 1 core, 20/40 gb disk)
+  - [https://www.thc.org/segfault](https://www.thc.org/segfault/)
+  ````
+  ssh root@segfault.net # The password is 'segfault'
+  ````
 
   ### Web Analytics
   - [AWStats - Advanced Web Statistics](https://github.com/eldy/awstats) -[www.awstats.org](https://www.awstats.org/) _AWStats (Advanced Web Statistics) is a powerful, full-featured web server logfile analyzer which shows you all your Web statistics including: visitors, pages, hits, hours, search engines, keywords used to find your site, broken links, robots and many more..._
