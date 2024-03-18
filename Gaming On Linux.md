@@ -52,6 +52,7 @@
 
   ### Games
    - [30 free and open source Linux games – part 2 ](https://github.blog/2021-08-26-30-free-and-open-source-linux-games-part-2/)
+   - [AssaultCube](https://assault.cubers.net/) - AssaultCube is a FREE, multiplayer, first-person shooter game, based on the CUBE engine. 
    - [BFHD PRO II - Patch G2 (Gold)](https://www.moddb.com/mods/battlefield-hd-remastered-3/downloads/bfhd-pro-ii-patch-g-gold) - (wine/winetriks) Battlefield Remastered 3.0 has finally has gone gold after a 2 years development.
    - [Endless Sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game. https://endless-sky.github.io/
    - [Free Games by The Drakelings Community](https://drakelings.bluedrake42.com/index.php?/category/1-free-games/)
