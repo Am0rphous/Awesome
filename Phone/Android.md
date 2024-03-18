@@ -32,3 +32,6 @@ Update apps
 - [News feed](https://github.com/nextcloud/news-android) - 📱🗞️ Android client for the Nextcloud news/feed reader app
 - [Voice recording](https://github.com/you-apps/RecordYou) - Privacy focused recorder app built with MD3
 - [To-do-list](https://github.com/tasks/tasks) - Bringing Astrid Tasks back from the dead
+
+### Run in your computer
+- [Waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
