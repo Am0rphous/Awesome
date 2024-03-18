@@ -191,6 +191,9 @@
   - [5h3llcast](https://podcast.5h3ll.sh/) - 5h3llcast er en uformell sikkerhetspodcast på norsk. Vi drikker øl og snakker om hva enn vi er interessert i innen datasikkerhet. Følg oss på Twitter @5h3llcast 
   - [Critical Thinking - Bug Bounty Podcast](https://rss.com/podcasts/ctbbpodcast/)
   - [Digital Forensic Survival Podcast](https://digitalforensicsurvivalpodcast.com/)
+  - Google Podcasts
+    - [Recorded Future News](https://podcasts.google.com/feed/aHR0cHM6Ly9yZWNvcmRlZGZ1dHVyZS5saWJzeW4uY29tL3Jzcw?sa=X&ved=0CAMQ4aUDahcKEwjQoKH6sP6EAxUAAAAAHQAAAAAQAg) - "The podcast that tells true stories about the people making and breaking our digital world. We take listeners into the world of cyber and intelligence without all the techie jargon. Every Tuesday and Friday, former NPR investigations correspondent Dina Temple-Raston and the team draw back the curtain on ransomware attacks, mysterious hackers, and the people who are trying to stop them."
+    - [30. The scariest piece of malware since Stuxnet](https://podcasts.google.com/feed/aHR0cHM6Ly9yZWNvcmRlZGZ1dHVyZS5saWJzeW4uY29tL3Jzcw/episode/MzhjY2EyZmEtMjdlYy0xMWVkLTgyZjktZWY3ZmRhMjExOGEw?sa=X&ved=0CAQQ8qgGahcKEwjgm57S3e_5AhUAAAAAHQAAAAAQAQ) - "Back in April, cybersecurity officials discovered the notorious “Industroyer” malware in the Ukrainian electrical grid. It might have been the scariest infrastructure hack since malware destroyed centrifuges at an Iranian uranium enrichment plant in 2010 – were it not for a TGIF miracle. Plus, a visit with the IT Army of Ukraine and a different kind of information operation."
   - [Information Systems DIGEST Podcast](https://isdigest.buzzsprout.com/)
   - [Beers with Talos](https://talosintelligence.com/podcasts/shows/beers_with_talos)
   - [Secure AF - Cybersecurity Podcast by AliasInfosec.com](https://aliasinfosec.com/resources/secure-af)
