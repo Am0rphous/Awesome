@@ -79,6 +79,7 @@
 ## News
 - [cryptocurrency-news-analysis](https://github.com/CyberPunkMetalHead/cryptocurrency-news-analysis) - This python module can analyse cryptocurrency news for any number of coins given and return a sentiment. Can be easily integrated with a Trading bot to keep an eye on the news.
 - [Cryptoslate.com](https://cryptoslate.com/)
+- [thecurrencyanalytics.com](https://thecurrencyanalytics.com/)
 - [Trustnodes.com](https://www.trustnodes.com)
 
 ## Privacy
