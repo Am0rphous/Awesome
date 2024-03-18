@@ -185,6 +185,7 @@
   - [Free Linux course](https://geek-university.com/course/free-linux-course/)
 
   ### Podcasts
+  - [De store spørsmålene ](https://shows.acast.com/de-store-sporsmalene)
   - [Lex Fridman Podcast](https://lexfridman.com/podcast)
   
   ### Podcasts for Cybersecurity
