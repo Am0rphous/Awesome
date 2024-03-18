@@ -868,10 +868,6 @@ Based on that data, you can find the most popular ones and their alternatives.
    - [FFscreencast](https://github.com/cytopia/ffscreencast) - ffscreencast - ffmpeg screencast/desktop-recording with video overlay and multi monitor support.
    - [Free assets for your next video project](https://mixkit.co/)
    - [Free Stock Video Footage ](https://www.videvo.net/)
-   - [FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
-   - [Invidious](https://invidious.io/) - Invidious is an open source alternative front-end to YouTube. [Github](https://github.com/iv-org/invidious)
-     - [Invidious Instances](https://docs.invidious.io/instances/)
-     - [Tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
    - [Kap](https://github.com/wulkano/Kap) -  An open-source screen recorder built with web technology.
    - [Kazam](https://github.com/hzbd/kazam) - Kazam is a simple screen recording program that will capture the content of your screen.
    - [Kdenlive](https://invent.kde.org/multimedia/kdenlive) - Free and open source video editor, based on MLT Framework and KDE Frameworks 5. [Github](https://github.com/KDE/kdenlive)
@@ -885,6 +881,13 @@ Based on that data, you can find the most popular ones and their alternatives.
    - [SSR (SimpleScreenRecorder)](https://github.com/MaartenBaert/ssr) - SimpleScreenRecorder, a screen recorder for Linux
    - [Vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
    - [Xtreme Download Manager](https://github.com/subhra74/xdm) -  Powerfull download accelerator and video downloader.
+   - Youtube
+     - [FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
+     - [Invidious](https://invidious.io/) - Invidious is an open source alternative front-end to YouTube. [Github](https://github.com/iv-org/invidious)
+       - [Invidious Instances](https://docs.invidious.io/instances/)
+       - [Tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
+     - [LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
+
 
   ### Media Servers
   - [AirUx](https://github.com/init1lham/AirUx/) - AirPlay For Linux
