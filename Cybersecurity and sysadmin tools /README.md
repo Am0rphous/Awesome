@@ -944,8 +944,6 @@ upstream_recursive_servers:
 - [Awesome Security Hardening](https://github.com/decalage2/awesome-security-hardening) | A collection of awesome security hardening guides, tools and other resources.
 - [Awesome Security Talks](https://github.com/PaulSec/awesome-sec-talks)| A collected list of awesome security talks.
 - [Common Criteria Protection Profiles](https://commoncriteria.github.io) - Common Criteria Protection Profiles (CCPP) are a standardized method for evaluating and certifying the security of information technology products. Common Criteria (CC) is an international framework for evaluating the security properties of IT systems and is recognized and accepted in many countries.
-
-
 - [Etcdmanager](https://github.com/gtamas/etcdmanager) - A cross-platform GUI and ETCD client.
 - [Horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode.
 - [Loki](https://github.com/Neo23x0/Loki) - Loki - Simple IOC and Incident Response Scanner.
@@ -956,10 +954,13 @@ upstream_recursive_servers:
 - [pwdsafety](https://github.com/edoardottt/pwdsafety) - 🔒command line tool checking password safety🔒
 - [py_webauthn](https://github.com/duo-labs/py_webauthn) - A Python3 implementation of the WebAuthn API focused on making it easy to leverage the power of WebAuthn. This library supports all FIDO2-compliant authenticators, including security keys, Touch ID, Face ID, Windows Hello, Android biometrics...and pretty much everything else.
 - [Snappass](https://github.com/pinterest/snappass) - Share passwords securely
+- SOAR
+  - [SOARCA](https://github.com/COSSAS/SOARCA) - "The Open Source CACAO-based Security Orchestrator! Organisations are increasingly automating threat and incident response through playbook driven security workflow orchestration. The essence of this concept is that specific security events trigger a predefined series of response actions that are executed with no or only limited human intervention. These automated workflows are captured in machine-readable security playbooks, which are typically executed by a so called Security Orchestration, Automation and Response (SOAR) tool."
+  - [W5](https://github.com/w5teams/w5) - Security Orchestration, Automation and Response (SOAR) Platform. 安全编排与自动化响应平台，无需编写代码的安全自动化，使用 SOAR 可以让团队工作更加高效
+
 - [Usb.Events](https://github.com/Jinjinov/Usb.Events) - Subscribe to the Inserted and Removed events to be notified when a USB drive is plugged in or unplugged, or when a USB device is connected or disconnected. Usb.Events is a .NET Standard 2.0 library and uses WMI on Windows, libudev on Linux and IOKit on macOS.
   - [USB-checking / GNOME Shell USB Lock](https://github.com/gmuraru/USB-checking) - Check if a connected devices was already seen by the computer. If the device was not seen, it will ask for your permission to add it to a trusted file (known_host in our case) - for the command line interface or you could add them manually from the Gtk+ interface.
 - [VeraCrypt](https://www.veracrypt.fr/en/Home.html) - VeraCrypt is a free and open-source utility for on-the-fly encryption. The software can create a virtual encrypted disk that works just like a regular disk but within a file. It can also encrypt a partition or the entire storage device with pre-boot authentication.
-- [W5](https://github.com/w5teams/w5) - Security Orchestration, Automation and Response (SOAR) Platform. 安全编排与自动化响应平台，无需编写代码的安全自动化，使用 SOAR 可以让团队工作更加高效
 - [Whonix security-misc](https://github.com/Whonix/security-misc) - Kernel Hardening; Protect Linux User Accounts against Brute Force Attacks; Improve Entropy Collection; Strong Linux User Account Separation; Enhances Misc Security Settings - https://www.whonix.org/wiki/Security-misc.
 - [Yopass - Share Secrets Securely](https://github.com/jhaals/yopass) - Secure sharing for secrets, passwords and files.
 
