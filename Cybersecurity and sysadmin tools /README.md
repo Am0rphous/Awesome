@@ -907,6 +907,7 @@ upstream_recursive_servers:
   - [Open vSwitch](https://www.openvswitch.org/) - Open vSwitch is a production quality, multilayer virtual switch licensed under the open source Apache 2.0 license.  It is designed to enable massive network automation through programmatic extension, while still supporting standard management interfaces and protocols (e.g. NetFlow, sFlow, IPFIX, RSPAN, CLI, LACP, 802.1ag).  In addition, it is designed to support distribution across multiple physical servers similar to VMware's vNetwork distributed vswitch or Cisco's Nexus 1000V. [Github](https://github.com/openvswitch/ovs)
 
 ## Overclocking Tools
+- [CoreCtrl](https://gitlab.com/corectrl/corectrl) - overclocking gpu and cpu on linu
 - [Tuxclocker](https://github.com/Lurkki14/tuxclocker) - Qt overclocking tool for GNU/Linux
 
 
