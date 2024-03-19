@@ -3,6 +3,7 @@
 Reverse engineering is the process of analyzing a product or system in order to understand how it works, in order to replicate or improve upon it. This can involve taking apart and examining the product, creating a diagram or model of its components and their interactions, and studying the design and function of each component. Reverse engineering is often used to reverse-engineer software, in order to understand how it works, identify vulnerabilities, or create compatible products. It can also be used to reverse-engineer physical products, in order to understand their design and create replicas or knockoffs.
 
 Table of content
+- [AI](#ai)
 - [Binary Analysis](#Binary-Analysis)
   - [Elf](#elf)
   - [PE Viewers](#pe-viewers)
@@ -41,6 +42,8 @@ Table of content
 - [Toolkit](https://github.com/indetectables-net/toolkit) - The essential toolkit for reversing, malware analysis, and cracking
 
 
+## [AI](#ai)
+- [LLM4Decompile](https://github.com/albertan017/LLM4Decompile) - Reverse Engineering: Decompiling Binary Code with Large Language Models
 
 ## [Binary Analysis](https://www.gnu.org/software/binutils/)
 - [Angr](https://github.com/angr/angr) - A powerful and user-friendly binary analysis platform.
