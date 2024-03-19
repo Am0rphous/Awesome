@@ -182,6 +182,7 @@ Description: _Sentiment analysis (also known as opinion mining or emotion AI) is
   - [Whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 
 ## Video
+- [Democratizing Efficient Video Production for All](https://github.com/hpcaitech/Open-Sora) - Open-Sora: Democratizing Efficient Video Production for All 
 - [Rerender A Video](https://github.com/williamyang1991/Rerender_A_Video) - Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation 
 
 ## Web
