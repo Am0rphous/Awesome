@@ -3,7 +3,7 @@
 - [Awesome](#awesome)
 - [Anonymity](#Anonymity)
   - [Tor - The Onion Router](#tor---The-Onion-Router)
-  - [Relays, statistics, operators](#relays-statistics-operators)
+    - [Relays, statistics, operators](#relays-statistics-operators)
 - [Bypass Firewalls / Encapsulation traffic](#bypass-firewalls--encapsulation-traffic)
 - [Disk Cleanup](#Disk-Cleanup)
 - [Interesting news articles](#Interesting-news-articles)
@@ -57,6 +57,8 @@
 ## Anonymity
 - [4nonimizer](https://github.com/Hackplayers/4nonimizer) - A bash script for anonymizing the public IP used to browsing Internet, managing the connection to TOR network and to different VPNs providers (OpenVPN)
 - [Anonsurf](https://github.com/ParrotSec/anonsurf) - parrot anonymous mode
+- Browse web anonymous through StartPage
+  - Go to [https://www.startpage.com](https://www.startpage.com) and search for e.g. `google.com` and click enter. Now click the Anonymous View mask next to the link in the result. A new web page will open which proxies your connection through StartPage's proxies. [ How does Anonymous View work? ](https://support.startpage.com/hc/en-us/articles/4455317663764-How-does-Anonymous-View-work)
 - [Kloak - A keystroke anonymization Tool](https://github.com/vmonaco/kloak) - Keystroke-level online anonymization kernel: obfuscates typing behavior at the device level. 
 - [I2P](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet 
 - [Lokinet](https://github.com/oxen-io/lokinet) - Lokinet is an anonymous, decentralized and IP based overlay network for the internet. [lokinet.org](https://lokinet.org/)
@@ -73,7 +75,7 @@
   - [tor-proxy by Narasimha1997](https://github.com/Narasimha1997/tor-proxy) - An experimental Tor-Proxy serivce written in Go using Go-proxy and Go-libtor.
   - [Tor2web](https://github.com/tor2web/Tor2web) - Tor2web is an HTTP proxy software that enables access to Tor Hidden Services by mean of common web browsers. [tor2web.org](https://www.tor2web.org/)
   - [Nyx](https://nyx.torproject.org) - Command-line monitor for Tor. With this you can get detailed real-time information about your relay such as bandwidth usage, connections, logs, and much more.
-- [Wiki - TorFAQ](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/TorFAQ#CanexitnodeseavesdroponcommunicationsIsntthatbad)
+  - [Wiki - TorFAQ](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/TorFAQ#CanexitnodeseavesdroponcommunicationsIsntthatbad)
     - [Wiki - TorPlusVPN](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/TorPlusVPN)
 
   ##### Relays, statistics, operators
