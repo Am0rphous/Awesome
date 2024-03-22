@@ -2,6 +2,7 @@
 
 - [Buying Linux Computers](#buying-linux-computers)
 - [Cyber Security News](#cyber-security-news)
+  - [Feeds](#feeds)
   - [Norwegian Sources](#Norwegian-Sources)
 - [Forums and blogs](#forums-and-blogs)
 - [Games](#games)
@@ -65,7 +66,9 @@
 - [SecurityWeek.com](https://www.securityweek.com)
 - [WeLiveSecurity.com](https://www.welivesecurity.com)
 - [Zdnet.com](https://www.zdnet.com)
-
+  ### Feeds
+  - [https://www.threatable.io/](https://www.threatable.io/)
+  
   ### Norwegian Sources
   - Telenor
     - [Digital Sikkerhet 2021](https://www.telenor.no/om/digital-sikkerhet/2021.jsp)
