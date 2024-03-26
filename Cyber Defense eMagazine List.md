@@ -105,8 +105,10 @@ done
 - [November (pdf)](https://www.cyberdefensemagazine.com/newsletters/november-2018/CDM-CYBER-DEFENSE-eMAGAZINE-November-2018.pdf) 
 - [December (pdf)](https://www.cyberdefensemagazine.com/newsletters/december-2018/CDM-CYBER-DEFENSE-eMAGAZINE-December-2018.pdf) 
 
-## 20217
+## 2017
 - [September (pdf)](https://www.cyberdefensemagazine.com/newsletters/september-2017/CDM-CYBER-DEFENSE-eMAGAZINE-September-2017.pdf) 
 - [October (pdf)](https://www.cyberdefensemagazine.com/newsletters/october-2017/CDM-CYBER-DEFENSE-eMAGAZINE-October-2017.pdf) 
 - [November (pdf)](https://www.cyberdefensemagazine.com/newsletters/november-2017/CDM-CYBER-DEFENSE-eMAGAZINE-November-2017.pdf) 
 
+## 2013
+- [April (pdf)](https://www.cyberdefensemagazine.com/newsletters/april-2013/CDM-Cyber-Warnings-April-2013.pdf)
