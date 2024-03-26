@@ -275,7 +275,8 @@ bro / zeek
   - [sauron](https://github.com/evilsocket/sauron) - A minimalistic cross-platform malware scanner with non-blocking realtime filesystem monitoring using YARA rules.
   - [Signature-base](https://github.com/Neo23x0/signature-base) - YARA signature and IOC database for my scanners and tools
   - [Yara for Atom](https://atom.io/packages/language-yara)
-  - [Yara rules from Elastic Protection](https://github.com/elastic/protections-artifacts/tree/main/yara/rules)
+  - [Yara rules - Elastic Protection](https://github.com/elastic/protections-artifacts/tree/main/yara/rules)
+  - [Yara Rules - The-DFIR-Report](https://github.com/The-DFIR-Report/Yara-Rules) - null
   - [Yara Scanner](https://github.com/iomoath/yara-scanner) - YaraScanner is a threat hunting tool, based on Yara Rules.
   - [Yara for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=infosec-intern.yara)
 
@@ -491,7 +492,6 @@ lsscsi                          #Print SCSI Devices Info
 
 ## EDR, IDS, HIDS and IPS
 - [AIDE - Advanced Intrusion Detection Environment](https://github.com/aide/aide) - AIDE is a tool for monitoring file system changes. It can be used to detect unauthorized monitored files and directories. AIDE was written to be a simple and free alternative to Tripwire.
-- [AURORA Agent (free agent)](https://www.nextron-systems.com/aurora/) -Your Custom Sigma-based EDR Agent
 - [Awesome Endpoint Detection and Response tools](https://github.com/remiflavien1/awesome-endpoint-detection-and-response) - Collection of tool you need to have in your Endpoint Detection and Response arsenal.
 - [CrowdSec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative IPS able to analyze visitor behavior & provide an adapted response to all kinds of attacks. It also leverages the crowd power to generate a global CTI database to protect the user network.
 - [DenyHosts](https://github.com/denyhosts/denyhosts) - Automated host blocking from SSH brute force attacks.
@@ -677,6 +677,8 @@ sudo service psacct restartchkconfig --level 13 psacct on
   - [Quickwit](https://github.com/quickwit-oss/quickwit) - Open-source & cloud-native log management & analytics.
   - [SendMailAnalyzer](https://github.com/darold/sendmailanalyzer) - Sendmail log Analyzer is a tool to monitor sendmail usage and generate HTML and graph reports. It reports all you ever wanted to know about email trafic on your network. You can also use it in ISP environment with per domain and per mailbox report.
   - [Sigma](https://github.com/SigmaHQ/sigma) - Generic Signature Format for SIEM Systems. [https://sigmahq.io/](https://sigmahq.io/)
+  - [AURORA Agent (free agent)](https://www.nextron-systems.com/aurora/) - Your Custom Sigma-based EDR Agent
+  - [Sigma-Rules - The-DFIR-Report](https://github.com/The-DFIR-Report/Sigma-Rules) - Rules generated from our investigations.
   - [SquidAnalyzer](https://github.com/darold/squidanalyzer) - Squid Analyzer parses Squid proxy access log and reports general statistics about hits, bytes, users, networks, top URLs, and top second level domains. Statistic reports are oriented toward user and bandwidth control.
   - [Zircolite](https://github.com/wagga40/Zircolite) - A standalone SIGMA-based detection tool for EVTX, Auditd and Sysmon for Linux logs 
   
