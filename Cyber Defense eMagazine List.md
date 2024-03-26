@@ -1,7 +1,7 @@
 # Cyber Defense eMagazine List
 
 <details>
-<summary> Script to checks which magazines from 2010-23 exists (click to expand)</summary>
+<summary> Script to check which magazines from 2010-23 exists (Click to expand)</summary><br>
   
   ````
 #!/bin/bash
