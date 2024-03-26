@@ -1,14 +1,15 @@
 # Cyber Defense eMagazine List
 
-## Script that checks if emagazine from year 2010 til 2023 exists:
-````
+<details>
+<summary> Script to checks which magazines from 2010-23 exists (click to expand)</summary>
+  
+  ````
 #!/bin/bash
 
 #just some coloring output later on
 RED='\033[0;31m'
 GREEN='\033[0;32m'
 NORMAL='\033[0m'
-
 
 END=2024
 
@@ -43,10 +44,12 @@ for ((year=2010;year<=END;year++)); do
 echo Year $year done... Going to next year!
 done
 ````
+ </details>
+
+
 
 ## 2023
 - [May](https://www.cyberdefensemagazine.com/newsletters/may-2023/files/downloads/CDM-CYBER-DEFENSE-eMAGAZINE-May-2023.pdf)
-- 
 
 ## 2022
 - [January (pdf)](https://www.cyberdefensemagazine.com/newsletters/january-2022/CDM-CYBER-DEFENSE-eMAGAZINE-January-2022.pdf) 
