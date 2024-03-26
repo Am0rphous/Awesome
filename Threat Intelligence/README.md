@@ -53,3 +53,4 @@
 - [Botvrij.eu OSINT feed](https://www.botvrij.eu/data/feed-osint/)
 - [CIRCL OSINT Feed](https://www.circl.lu/doc/misp/feed-osint/)
 - [CTI-Feeder](https://github.com/kdrypr/CTI-Feed-Collector) - Open Source Cyber Threat Intelligence Feed Collector 
+- [Zeek-Intelligence-Feeds](https://github.com/CriticalPathSecurity/Zeek-Intelligence-Feeds) - Zeek-Formatted Threat Intelligence Feeds
