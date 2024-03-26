@@ -378,9 +378,10 @@ Communicate clearly <br>
 - [Variety](https://github.com/varietywalls/variety) - Wallpaper downloader and manager for Linux systems.
 
 #### Background and Wallapers
-- [hidamari](https://github.com/jeffshee/hidamari) - Video wallpaper for Linux. Written in Python. 🐍
+- [GeekWall](https://github.com/SAJAD-net/GeekWall) - Wallpapers for geeks, programmers, hackers ....
+- [Hidamari](https://github.com/jeffshee/hidamari) - Video wallpaper for Linux. Written in Python. 🐍
 - [Linux OS specific wallpapers](https://www.pling.com/browse?cat=261&ord=latest)
-- [komorebi](https://github.com/cheesecakeufo/komorebi) - A beautiful and customizable wallpapers manager for Linux
+- [Komorebi](https://github.com/cheesecakeufo/komorebi) - A beautiful and customizable wallpapers manager for Linux
 - [RandomWallpaperGnome3](https://github.com/ifl0w/RandomWallpaperGnome3) - Random Wallpapers for Gnome 3
 - [Wallhaven.cc](https://wallhaven.cc/)
 - [Wallpapers Gnome](https://www.pling.com/s/Gnome/browse?cat=300&ord=latest)
