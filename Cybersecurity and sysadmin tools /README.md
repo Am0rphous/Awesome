@@ -676,9 +676,9 @@ sudo service psacct restartchkconfig --level 13 psacct on
   - [PgFormatter](https://github.com/darold/pgFormatter) - A PostgreSQL SQL syntax beautifier that can work as a console program or as a CGI. On-line demo site at [sqlformat.darold.net](http://sqlformat.darold.net).
   - [Quickwit](https://github.com/quickwit-oss/quickwit) - Open-source & cloud-native log management & analytics.
   - [SendMailAnalyzer](https://github.com/darold/sendmailanalyzer) - Sendmail log Analyzer is a tool to monitor sendmail usage and generate HTML and graph reports. It reports all you ever wanted to know about email trafic on your network. You can also use it in ISP environment with per domain and per mailbox report.
+  - [Sigma](https://github.com/SigmaHQ/sigma) - Generic Signature Format for SIEM Systems. [https://sigmahq.io/](https://sigmahq.io/)
   - [SquidAnalyzer](https://github.com/darold/squidanalyzer) - Squid Analyzer parses Squid proxy access log and reports general statistics about hits, bytes, users, networks, top URLs, and top second level domains. Statistic reports are oriented toward user and bandwidth control.
   - [Zircolite](https://github.com/wagga40/Zircolite) - A standalone SIGMA-based detection tool for EVTX, Auditd and Sysmon for Linux logs 
-    - [Sigma](https://github.com/SigmaHQ/sigma) - Generic Signature Format for SIEM Systems.
   
   ### Push Services
   - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui) 
