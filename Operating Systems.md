@@ -41,15 +41,14 @@ _Considering key questions:_
 
 ## A list of web resources
 - [Archiveos.org](https://archiveos.org) - Arhive of Operating Systems with Linux, BSD, DOS, Solaris and others.
-- [DistroWatch.com](https://distrowatch.com)
+- [DistroWatch.com](https://distrowatch.com) - Insane amount of various distros.
 - [Don't use Windows 10 - It's a privacy nightmare](https://www.privacytools.io/operating-systems/#win10)
-  - If you need Windows then check out [Atlas](https://github.com/Atlas-OS/Atlas) - _An open source modification of the Windows 10 operating system, designed to optimize performance, and latency._
-  - [Atlas OS](https://github.com/Atlas-OS/Atlas) - 🚀 An open and transparent modification to Windows, designed to optimize performance and latency.
+  - If you need Windows then check out [Atlas OS](https://github.com/Atlas-OS/Atlas) - _An open source modification of the Windows 10 operating system, designed to optimize performance, and latency._
   - [Tiny10](https://archive.org/details/tiny-10_202301) - (Lightweight Windows 10)
   - [Article in Medium: How Bullshit Has Dominated The Tech Industry](https://medium.com/@fulalas/how-bullshit-has-dominated-the-tech-industry-bc63257f2a91) - Go down to _"Microsoft is perhaps unbeatable in this regard"_
+  - [Windows 10 ISO](https://www.microsoft.com/en-us/software-download/windows10ISO) - Officially by Microsoft
   - [Windows in a Docker containe](https://github.com/dockur/windows) - Windows in a Docker container.
   - [Wubuntu](https://www.wubuntu.org/) - Linux with Windows appearance, without any hardware restrictions.
-
 - [Hardware for Linux Trends](https://linux-hardware.org/?view=trends)
 
 ## Boot / BIOS
