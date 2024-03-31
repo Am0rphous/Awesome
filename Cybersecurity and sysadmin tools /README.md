@@ -1409,6 +1409,7 @@ upstream_recursive_servers:
  - [Hyperbox](https://github.com/hyperbox/hyperbox) - Virtual Infrastructure Manager for VirtualBox
  - [KVM](https://www.linux-kvm.org/page/Main_Page)
    - [Learn-kvm](https://github.com/yifengyou/learn-kvm) - Qemu KVM(Kernel Virtual Machine)学习笔记
+   - [Everything about KVM-Virtualization with Rocky Linux](https://github.com/tomwechsler/KVM-Virtualization-with-Rocky-Linux)
    - [Kimchi](https://github.com/kimchi-project/kimchi) - HTML5 based management tool for KVM.
    - [KVM Management Tools list](https://www.linux-kvm.org/page/Management_Tools) - Options available to manage kvm virtual machines.
    - [Kvmtool](https://github.com/kvmtool/kvmtool) - Stand-alone Native Linux KVM Tool repo
