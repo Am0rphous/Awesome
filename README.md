@@ -724,6 +724,7 @@ sudo apt-get install redshift-gtk
   - [Ail-framework](https://github.com/ail-project/ail-framework) - Analysis Information Leak framework.
   - [AwesomeOpenSource](https://awesomeopensource.com/)
   - [FeatHub](https://feathub.com)
+  - [Free courses](https://www.edx.org)
   - [FindBestPpenSource.com/projects](https://www.findbestopensource.com/projects)
   - [Electronjs.org/apps](https://www.electronjs.org/apps)
   - [GitHunt](https://github.com/kamranahmedse/githunt) - Hunt the most starred projects on any date on GitHub. [Hunt Online](https://kamranahmed.info/githunt)
