@@ -55,10 +55,6 @@
 ## Cheat Sheets
 - [zeltser.com - Analyzing Malicious Documents Cheat Sheet](https://zeltser.com/analyzing-malicious-documents/)
 
-## Cloud
-- [Cloud Forensics Utils](https://github.com/google/cloud-forensics-utils) - Python library to carry out DFIR analysis on the Cloud.
-- [Sparrow](https://github.com/cisagov/Sparrow) - Sparrow.ps1 was created by CISA's Cloud Forensics team to help detect possible compromised accounts and applications in the Azure/m365 environment.
-
 ## Collaboration tools
 - [Timesketch](https://github.com/google/timesketch) - Collaborative forensic timeline analysis.
 
