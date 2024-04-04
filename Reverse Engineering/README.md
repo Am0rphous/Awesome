@@ -35,6 +35,7 @@ Table of content
   - [Cyberchef Recipes](https://github.com/mattnotmax/cyberchef-recipes) - A list of cyber-chef recipes and curated links.
   - [gchq.github.io/CyberChef](https://gchq.github.io/CyberChef)
 - [Cybertechniques site pages](https://github.com/cybertechniques/site)- [Malware-gems](https://github.com/0x4143/malware-gems) - A not so awesome list of malware gems for aspiring malware analysts.
+- [Nightmare](https://guyinatuxedo.github.io/index.html) - [source code](https://github.com/guyinatuxedo/nightmare) - Nightmare is an intro to binary exploitation / reverse engineering course based around ctf challenges. I call it that because it's a lot of people's nightmare to get hit by weaponized 0 days, which these skills directly translate into doing that type of work (plus it's a really cool song).
 - [Reverse Engineering](https://github.com/mytechnotalent/Reverse-Engineering) - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 - [Reverse-engineering by xiosec](https://github.com/xiosec/Reverse-engineering) - Reverse Engineering tools
 - [Reverse Engineering Playground ](https://github.com/yellowbyte/reverse-engineering-playground) - Scripts I made to aid me in everyday reversing or just for fun.
