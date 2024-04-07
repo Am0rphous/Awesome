@@ -478,7 +478,8 @@ sudo apt-get install redshift-gtk
   - [Jq](https://github.com/stedolan/jq) - Command-line JSON processor
   - [Kong](https://github.com/Kong/kong) - The Cloud-Native API Gateway.
   - [httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
-  - [Public APIs](https://github.com/public-apis/public-apis) - A collective list of free APIs 
+  - [Public APIs](https://github.com/public-apis/public-apis) - A collective list of free APIs
+  - [Tune Chat](https://chat.tune.app/) - AI chat app powered by open source models
 
 
   ### Backend
