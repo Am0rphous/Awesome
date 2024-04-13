@@ -108,6 +108,7 @@ _Convolutional neural networks power image recognition and computer vision tasks
   - [Stable-diffusion-docker](https://github.com/fboulnois/stable-diffusion-docker) - Runs the official Stable Diffusion release in a Docker container.
 
 ## LLMs - Large Language Models
+- [AiXcoder-7B](https://github.com/aixcoder-plugin/aiXcoder-7B) - official repository of aiXcoder-7B Code Large Language Model
 - [Awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt) - A list of totally open alternatives to ChatGPT
 - [Cpp-freegpt-webui](https://github.com/fantasy-peak/cpp-freegpt-webui) - GPT 3.5/4 with a Chat Web UI. No API key required. Web server developed with cpp
 
