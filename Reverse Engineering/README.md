@@ -140,7 +140,8 @@ Description: Used to manipulate the execution of a program to get intel on what 
 - [Bus Pirate](https://github.com/BusPirate/Bus_Pirate) - open source hacker multi-tool that talks to electronic stuff.
 - [DDD (Data Display Debugger)](https://www.gnu.org/software/ddd/) - DDD is a graphical front-end for GDB and other command-line debuggers. Macos: `sudo port install ddd`.
 - [Frida](https://frida.re/) - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers. [Github](https://github.com/frida/frida)
-  - [Fermion](https://github.com/FuzzySecurity/Fermion) - Fermion, an electron wrapper for Frida & Monaco. 
+  - [Fermion](https://github.com/FuzzySecurity/Fermion) - Fermion, an electron wrapper for Frida & Monaco.
+  - [Edb-debugger](https://github.com/eteran/edb-debugger) - [LINUX] edb is a cross-platform AArch32/x86/x86-64 debugger.
   - [FRIDA-DEXDump](https://github.com/hluwa/frida-dexdump) - A frida tool to dump dex in memory to support security engineers analyzing malware. 
   - [frida-node](https://github.com/frida/frida-node) - Frida Node.js bindings 
   - [frida-scripts](https://github.com/0xdea/frida-scripts) - A collection of my Frida.re instrumentation scripts to facilitate reverse engineering of mobile apps.
