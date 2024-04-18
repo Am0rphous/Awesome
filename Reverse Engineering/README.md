@@ -186,7 +186,7 @@ Description: Uses a binary file to revert the compilation process and express th
 - [JustDecompile Engine](https://github.com/telerik/JustDecompileEngine) - .NET decompiler.
 - [Reopt](https://github.com/GaloisInc/reopt) - A tool for analyzing x86-64 binaries. 
 - [Reko](https://github.com/uxmal/reko) - Reko is a binary decompiler. 
-
+- [Rev.ng](https://rev.ng/) - Next-gen (open source) decompiler
 
 ## Disassemblers
 Description: Transforms a binary's machine code into assembly language/code.
