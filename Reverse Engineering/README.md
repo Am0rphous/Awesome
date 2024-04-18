@@ -280,6 +280,7 @@ getcap            #examine file capabilities
 - [Cheat-engine](https://github.com/cheat-engine/cheat-engine) - A development environment focused on modding. [cheatengine.org](https://cheatengine.org/)
 - [CrySearch Memory Scanner](https://www.crysearch.nl/) -  analysis, debugging and memory modification.
 - [ReClassEx](https://github.com/ajkhoury/ReClassEx) - memory reverse engineering tool
+- [Valgrind](https://valgrind.org/) - Debug and profile Linux binaries. Detects memory management errors. Useful when bug hunting.
 
 ## Mobile Forensics
 - [AndroGuard](https://github.com/androguard/androguard) - Reverse engineering, Malware and goodware analysis of Android applications ... and more (ninja !)
