@@ -45,6 +45,7 @@ Table of content
 
 ## [AI](#ai)
 - [LLM4Decompile](https://github.com/albertan017/LLM4Decompile) - Reverse Engineering: Decompiling Binary Code with Large Language Models
+- [Monocle](https://github.com/user1342/Monocle) - Automated Reverse Engineering / Binary Analysis Search Tooling Using LLMs 
 
 ## [Binary Analysis](https://www.gnu.org/software/binutils/)
 - [Angr](https://github.com/angr/angr) - A powerful and user-friendly binary analysis platform.
