@@ -502,6 +502,7 @@ lsscsi                          #Print SCSI Devices Info
 - [Ebpf-edr](https://github.com/bm9w/ebpf-edr) - eBPF-based EDR for Linux.
 - [Ehids-agent](https://github.com/ehids/ehids-agent) - A Linux Host-based Intrusion Detection System based on eBPF. 
   - [Ecapture](https://github.com/ehids/ecapture) - capture SSL/TLS text content without CA cert by eBPF.
+- [EchoTrail ](https://www.echotrail.io/) - Enhance Your Security Operations
 - [EmoCheck](https://github.com/JPCERTCC/EmoCheck) -  Emotet detection tool for Windows OS.
 - [Fail2Ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors. [www.fail2ban.org](https://www.fail2ban.org)
 - [FwKnop (FireWall KNock OPerator)](https://github.com/mrash/fwknop) - Single Packet Authorization > Port Knocking.
