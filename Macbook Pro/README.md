@@ -65,6 +65,8 @@ Table of content
   - [iOS Location Tester](https://github.com/pjaton/LocationTester) - An iOS application to test the CLLocationManager location, significant change and region monitoring.
 - [LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall.
   - Install with `brew install lulu`
+- [Netiquette](https://github.com/objective-see/Netiquette) - Network Monitor (NICE)
+
 - Tor
   - The torrc file is located at `~/Library/Application Support/TorBrowser-Data/Tor`
 ````powershell
