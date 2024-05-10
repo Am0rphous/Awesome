@@ -143,6 +143,7 @@ bro / zeek
 - [Openldap](https://github.com/openldap/openldap) - free, open-source implementation of the Lightweight Directory Access Protocol (LDAP) developed by the OpenLDAP Project.
 
   ### Security
+  - [PingCastle](https://github.com/vletoux/pingcastle) - Ping Castle is a tool designed to assess quickly the Active Directory security level with a methodology based on risk assessment and a maturity framework. It does not aim at a perfect evaluation but rather as an efficiency compromise
   - [WatchAD](https://github.com/0Kee-Team/WatchAD) - AD Security Intrusion Detection System.
     - [WatchAD-Web](https://github.com/0Kee-Team/WatchAD-Web) - A simple web platform for WatchAD.
   - [WinPwn](https://github.com/S3cur3Th1sSh1t/WinPwn) - Automation for internal Windows Penetrationtest / AD-Security.
