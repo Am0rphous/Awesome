@@ -196,6 +196,7 @@ bro / zeek
     - [emerging-Block-IPs.txt by emergingthreats.net](https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt)
   - [PiHole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements.
     - [Docker Pi-hole](https://github.com/pi-hole/docker-pi-hole) -  Pi-hole in a docker container.
+  - [SSLBL (sslbl.abuse.ch/blacklist/) ](https://sslbl.abuse.ch/blacklist/)
   - [The Ultimate Hosts Blacklist](https://github.com/Ultimate-Hosts-Blacklist/Ultimate.Hosts.Blacklist) - The Ultimate Unified Hosts file for protecting your network, computer, smartphones and Wi-Fi devices against millions of bad web sites. Protect your children and family from gaining access to bad web sites and protect your devices and pc from being infected with Malware or Ransomware. 
     #### Finding Malicious Domains
     - [Exposure: Finding Malicious Domains Using Passive DNS Analysis](https://www.ndss-symposium.org/wp-content/uploads/2017/09/bilge2.pdf)
@@ -293,6 +294,7 @@ bro / zeek
   ### Analysis Tools Online
   - [Any Run](https://app.any.run/) - Cloud-based sandbox.
   - [Avira Analysis](https://www.avira.com/en/analysis/submit)
+  - [Filescan.io](https://www.filescan.io/scan) 
   - [Fortiguard onlinescanner](https://www.fortiguard.com/faq/onlinescanner)
   - [Hybrid-Analysis](https://www.hybrid-analysis.com/) - free malware analysis service.
   - [Intezer Analyze](https://analyze.intezer.com/sign-in)
