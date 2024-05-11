@@ -405,14 +405,16 @@ bro / zeek
 - [Webmin](https://webmin.com/)
 
 ## Cybersecurity compliance (frameworks)
-- [Microsoft compliance list](https://learn.microsoft.com/en-us/compliance/regulatory/offering-home)
+(Goverance, risk management, compliance, audits)
+- [Awesome Security (GRC - Goverance, Compliance, Risk Management)](https://github.com/Arudjreis/awesome-security-GRC)
+- [Microsoft compliance list](https://learn.microsoft.com/en-us/compliance/regulatory/offering-home) - Azure, Dynamics 365, and Microsoft 365 compliance offerings
 - [CIS Controls](https://www.cisecurity.org/controls) - (Center for Internet Security)
 - [NIST Cybersecurity Framework (CSF)](https://www.nist.gov/cyberframework)
 
-### Compliance / evaluation tools
-- [CIS' - Cybersecurity Tools and Resources](https://www.cisecurity.org/cybersecurity-tools)
-- [CPRT Catalog - Cybersecurity and Privacy Reference Tool ](https://csrc.nist.gov/projects/cprt/catalog#/cprt/home)
-- [OpenSCAP](https://www.open-scap.org) - Discover a wide array of tools for managing system security and standards compliance.
+  ### Compliance / evaluation tools
+  - [CIS' - Cybersecurity Tools and Resources](https://www.cisecurity.org/cybersecurity-tools)
+  - [CPRT Catalog - Cybersecurity and Privacy Reference Tool ](https://csrc.nist.gov/projects/cprt/catalog#/cprt/home)
+  - [OpenSCAP](https://www.open-scap.org) - Discover a wide array of tools for managing system security and standards compliance.
 
 ## Databases
 - [CockroachDB](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database. 
