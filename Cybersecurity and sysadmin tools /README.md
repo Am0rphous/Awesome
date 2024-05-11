@@ -453,11 +453,12 @@ bro / zeek
 - [Cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.  
 - [Flying Carpet](https://github.com/spieglt/FlyingCarpet) - Encrypted file transfer over ad hoc WiFi. No network infrastructure required, just two laptops in close range. Linux, Mac, and Windows.
 - [Forban](https://github.com/adulau/Forban) - Forban is a p2p application for link-local and local area networks. Forban works independently from the Internet and uses only the local area capabilities to announce, discover, search or share files. Forban relies on HTTP and it is "opportunistic". http://www.foo.be/forban
+- [Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported. 
 - [https://www.globaleaks.org](https://www.globaleaks.org/) - GlobaLeaks is free, open-source software. enabling anyone to easily set up and maintain a secure whistleblowing platform.
 - [Ksmbd](https://github.com/namjaejeon/ksmbd) - ksmbd kernel server(SMB/CIFS server)
 - [Magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
-
 - [Muon SSH Terminal/SFTP client (Formerly Snowflake)](https://github.com/subhra74/snowflake) -  Graphical SFTP client and terminal emulator with helpful utilities.
+- [Nitro Share](https://nitroshare.net/) - Any File. Any Device. Cross-platform Network File Transfer Application
 - [OpenDrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python.
 - [OnionShare](https://github.com/micahflee/onionshare) - Securely and anonymously share files, host websites, and chat with friends using the Tor network [onionshare.org](https://onionshare.org).
 - [Piping-server](https://github.com/nwtgck/piping-server) - Infinitely transfer between every device over pure HTTP: designed for everyone including people using Unix pipe and even for browser users.
