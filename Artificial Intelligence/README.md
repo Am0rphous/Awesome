@@ -34,6 +34,7 @@
 - [Voice-changer](https://github.com/w-okada/voice-changer) - リアルタイムボイスチェンジャー Realtime Voice Changer
 
 ## AI Assistant
+- [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 
 - [Mycroft](https://github.com/mycroftai/mycroft-core) - Mycroft is a hackable open source voice assistant.
 - [Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [The AI Research Assistant](https://elicit.org/) - Elicit uses language models to help you automate research workflows, like parts of literature review. Elicit can find relevant papers without perfect keyword match, summarize takeaways from the paper specific to your question, and extract key information from the papers. While answering questions with research is the main focus of Elicit, there are also other research tasks that help with brainstorming, summarization, and text classification. Note: https://favouriteblog.com/50-best-github-artificial-intelligence/
