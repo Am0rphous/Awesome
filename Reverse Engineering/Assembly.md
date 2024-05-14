@@ -2,6 +2,7 @@
 
 - [cheatography.com - x86 Assembly, C Linking, Loading etc](https://cheatography.com/rwwagner90/cheat-sheets/x86-assembly-c-linking-loading-etc/)
 - [Hex to Binary converter](https://www.rapidtables.com/convert/number/hex-to-binary.html)
+- [Offensive Development in Assembly and C: Understanding and Using Common Assembly Instructions](https://hackerman008.github.io/offensive/2024/05/14/Offensive_Development_Blog2.html)
 - [The_Holy_Book_of_X86](https://github.com/Captainarash/The_Holy_Book_of_X86) - A simple guide to x86 architecture, assembly, memory management, paging, segmentation, SMM, BIOS....
 - [x86-64 Assembly Language Summary](https://docs.google.com/document/d/1hwABu-SL6u2cdhVkjOCUU6T0UyALujep1NfwYfQzWSo/edit#)
 - [x86 Assembly Guide](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
