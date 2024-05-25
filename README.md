@@ -402,6 +402,8 @@ Communicate clearly <br>
     - [Unity 8](https://github.com/B00merang-Project/Unity-8) - Theme mimicking Unity 8's design.
     - [Windows 10 Theme for Linux](https://github.com/B00merang-Project/Windows-10) - Windows 10 Light theme for Linux (GTK).
   - [Gnome-look.org](https://www.gnome-look.org)
+  - Linux Porn
+    - [Conky OPSAT](https://www.reddit.com/r/unixporn/comments/4rgcdq/comment/d50vqeu/) - [pictures](https://imgur.com/a/conky-opsat-ahHL9) - [dotfiles](https://github.com/davidrlunu/dots-and-dashes?tab=readme-ov-file)
   - [NordTheme.com](https://www.nordtheme.com) - [Github](https://github.com/arcticicestudio/nord)
   - [Pling.com](https://www.pling.com)
   
