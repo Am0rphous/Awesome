@@ -54,3 +54,6 @@
 - [CIRCL OSINT Feed](https://www.circl.lu/doc/misp/feed-osint/)
 - [CTI-Feeder](https://github.com/kdrypr/CTI-Feed-Collector) - Open Source Cyber Threat Intelligence Feed Collector 
 - [Zeek-Intelligence-Feeds](https://github.com/CriticalPathSecurity/Zeek-Intelligence-Feeds) - Zeek-Formatted Threat Intelligence Feeds
+
+### Reports
+- [IBM X-Force Threat Intelligence Index 2024 ](https://www.ibm.com/reports/threat-intelligence)
