@@ -111,7 +111,10 @@ Portable Executables binaries
   - [PE Explorer](http://www.pe-explorer.com/)
   - [Pev](https://github.com/merces/pev) - The PE file analysis toolkit.
   - [XPEViewer](https://github.com/horsicq/XPEViewer) - PE file viewer/editor for Windows, Linux and MacOS.
-
+  - Compare  to elf files:
+````
+colordiff -y -W 200 <(objdump -d /usr/local/bin/xiccd) <(objdump -d /usr/bin/xiccd)
+````
 
 
 ## Code Analysis
