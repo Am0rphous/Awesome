@@ -165,6 +165,7 @@ distribution into a Live Kit (formely known as Live CD).
 ## IoT, embedded devices, tablets
 - [Alpine Linux](https://www.alpinelinux.org) - [Alpine Gitlab](https://gitlab.alpinelinux.org)
 - [Bliss OS - Android for your PC](https://blissos.org) - An Open Source OS, based on Android, that incorporates many optimizations, features, and expanded device support. And it is available for just about any Chromebook, Windows/Linux PC or tablet released in the last 4 years.
+- [Entware](https://github.com/Entware/Entware) - Ultimate repo for embedded devices. [Wiki](https://github.com/Entware/Entware/wiki)
 - [Fedora IoT](https://getfedora.org/en/iot/)
 - [LineageOS Android Distribution](https://lineageos.org) - A free and open-source operating system for various devices, based on the Android mobile platform.
 - [Ubunt Server](https://ubuntu.com)
