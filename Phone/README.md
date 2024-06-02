@@ -2,20 +2,6 @@
 
 - [Appium](https://github.com/appium/appium-desktop) - Appium is an open source test automation framework for use with native, hybrid and mobile web apps. [appium.io](https://appium.io)
 
-## Android
-- Adjust LTE/CDMA/EvDo/GSM/WCDMA? then dial this number: `*#*#4636#*#*`
-- [privacyguides.org/en/android/](https://www.privacyguides.org/en/android/)
-- [Anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system.
-  - [Anbox docs](https://github.com/anbox/docs)
-  - [Anbox kernel modules](https://github.com/anbox/anbox-modules)
-  - [How to Run Android Apps on Ubuntu Linux with Anbox](https://www.maketecheasier.com/run-android-apps-on-ubuntu/)
-- [AVD (Android Virtual Device)](https://developer.android.com/studio/run/managing-avds)
-- [IPV Spyware Discovery (ISDi) Tool](https://github.com/stopipv/isdi) - ISDi (IPV Spyware Discovery) tool for Android and iOS.
-- [Linuxdeploy](https://github.com/meefik/linuxdeploy) - Install and run GNU/Linux on Android
-- [NoxPlayer](https://www.bignox.com/) - Free Android emulator for Windows and MacOS.
-- [OsmAnd - Offline mobile maps & navigation](https://osmand.net/) - OsmAnd - OpenStreetMap Automated Navigation Directions is a map and navigation app for Android and iOS.
-- [SCRCpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device.
-
 ### [Android OSes](https://github.com/Am0rphous/Awesome/blob/master/Operating%20Systems.md#android-based)
 ### Phone apps
 - App store
