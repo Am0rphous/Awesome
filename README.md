@@ -879,6 +879,10 @@ Based on that data, you can find the most popular ones and their alternatives.
   - [Lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
    - [OBS Studio](https://github.com/obsproject/obs-studio) - Free and open source software for live streaming and screen recording.
      - [Screen Recording in Linux With OBS and Wayland](https://itsfoss.com/screen-record-obs-wayland/)
+     - Plugins
+       - [Awesome-OBS-Plugin-List](https://github.com/streamgeeks/Awesome-OBS-Plugin-List) - Awesome OBS Plugin List
+         - [Obs-backgroundremoval](https://github.com/occ-ai/obs-backgroundremoval) - An OBS plugin for removing background in portrait images (video), making it easy to replace the background when recording or streaming.
+
    - [Pensela](https://github.com/weiameili/Pensela) - The Swiss Army Knife of Screen Annotation Tool
    - [Pitivi](https://www.pitivi.org/) - Free video editor with a beautiful and intuitive user interface, a clean codebase and a fantastic community.
    - [Poketube](https://github.com/ashley0143/poketube) - offical github mirror of poketube (https://codeberg.org/Ashley/poketube/) - [poketube.fun](https://poketube.fun)
