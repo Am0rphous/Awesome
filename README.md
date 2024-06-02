@@ -882,6 +882,7 @@ Based on that data, you can find the most popular ones and their alternatives.
      - Plugins
        - [Awesome-OBS-Plugin-List](https://github.com/streamgeeks/Awesome-OBS-Plugin-List) - Awesome OBS Plugin List
          - [Obs-backgroundremoval](https://github.com/occ-ai/obs-backgroundremoval) - An OBS plugin for removing background in portrait images (video), making it easy to replace the background when recording or streaming.
+         - Enable Virtual camera on Linux: `sudo apt install -y v4l2loopback-dkms`
 
    - [Pensela](https://github.com/weiameili/Pensela) - The Swiss Army Knife of Screen Annotation Tool
    - [Pitivi](https://www.pitivi.org/) - Free video editor with a beautiful and intuitive user interface, a clean codebase and a fantastic community.
