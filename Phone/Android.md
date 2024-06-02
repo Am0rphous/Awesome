@@ -1,14 +1,25 @@
 # Android
 
-Where to get apps?
-- [F-Droid](https://f-droid.org/en/) - F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.
+- Adjust LTE/CDMA/EvDo/GSM/WCDMA? then dial this number: `*#*#4636#*#*`
+- [privacyguides.org/en/android/](https://www.privacyguides.org/en/android/)
+- [Anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system.
+  - [Anbox docs](https://github.com/anbox/docs)
+  - [Anbox kernel modules](https://github.com/anbox/anbox-modules)
+  - [How to Run Android Apps on Ubuntu Linux with Anbox](https://www.maketecheasier.com/run-android-apps-on-ubuntu/)
+- [AVD (Android Virtual Device)](https://developer.android.com/studio/run/managing-avds)
+- [IPV Spyware Discovery (ISDi) Tool](https://github.com/stopipv/isdi) - ISDi (IPV Spyware Discovery) tool for Android and iOS.
+- [Linuxdeploy](https://github.com/meefik/linuxdeploy) - Install and run GNU/Linux on Android
+- [NoxPlayer](https://www.bignox.com/) - Free Android emulator for Windows and MacOS.
+- [OsmAnd - Offline mobile maps & navigation](https://osmand.net/) - OsmAnd - OpenStreetMap Automated Navigation Directions is a map and navigation app for Android and iOS.
+- [SCRCpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device.
+
+### App Stores
+- [Aurora OSS](https://www.auroraoss.com/)
+- [F-Droid](https://f-droid.org/en/) - F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device. Updates apps automatically!
 - [Guardian Project](https://guardianproject.info/) - Guardian Project creates easy to use secure apps, open-source software libraries, and customized solutions that can be used around the world by any person looking to protect their communications and personal data from unjust intrusion, interception and monitoring.
 - [IzzyOnDroid F-Droid Repository](https://apt.izzysoft.de/fdroid/)
-
-Update apps
-- F-Droid updates app automatically
-- Aurora does **not** update automatically :(
 - [Obtainium](https://github.com/ImranR98/Obtainium) - Gets Android app updates directly from the Source.
+- [Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
 
 ### Blogging
 - [Infinity-For-Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) - A Reddit client for Android
