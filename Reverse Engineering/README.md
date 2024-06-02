@@ -176,6 +176,10 @@ help             #shows useful commands
 run               #runs 
 bt                #backtrace
 info registers    #gives info on cpu registers
+info threads
+info locals
+info args
+x/s $pc
 q                 #quits
 ````
 Running "help" in gdb shows the below. **Remember to write "help" before the class below!**
