@@ -161,7 +161,7 @@ Description: Used to manipulate the execution of a program to get intel on what 
   - [GDB dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python.
   - [Gdbgui - cs01](https://github.com/cs01/gdbgui) - Browser-based frontend to gdb (gnu debugger). Add breakpoints, view the stack, visualize data structures, and more in C, C++, Go, Rust, and Fortran. Run gdbgui from the terminal and a new tab will open in your browser.
   - [Gdb-peda-pwndbg-gef](https://github.com/apogiatzis/gdb-peda-pwndbg-gef) - A script to automatically install Peda+pwndbg+GEF plugins for gdb
-  - Basic syntax for gdb when using the program "remmina"
+  - Basic syntax for gdb when using the program `remmina`. Can also use `/usr/bin/remmina`
 ````
 gdb
 gdb remmina
@@ -169,6 +169,33 @@ run
 bt
 q
 ````
+Another example using OBS Sudio
+````
+gdb /usr/bin/obs
+help             #shows useful commands
+run               #runs 
+bt                #backtrace
+info registers    #gives info on cpu registers
+q                 #quits
+````
+Running "help" in gdb shows the below. **Remember to write "help" before the class below!**
+````
+aliases -- User-defined aliases of other commands.                                                                                          
+breakpoints -- Making program stop at certain points.                                                                                       
+data -- Examining data.                                                                                                                     
+files -- Specifying and examining files.                                                                                                    
+internals -- Maintenance commands.                                                                                                          
+obscure -- Obscure features.
+running -- Running the program.
+stack -- Examining the stack.
+status -- Status inquiries.
+support -- Support facilities.
+tracepoints -- Tracing of program execution without stopping the program.
+user-defined -- User-defined commands.
+
+````
+
+
   - [Peda](https://github.com/longld/peda) - PEDA - Python Exploit Development Assistance for GDB
 
 - [GEF](https://github.com/hugsy/gef) - GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging features for exploit developers & reverse engineers.
