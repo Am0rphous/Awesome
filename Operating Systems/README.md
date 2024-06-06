@@ -101,6 +101,8 @@ distribution into a Live Kit (formely known as Live CD).
 - [Debian](https://www.debian.org)
 - [Deepin](https://www.deepin.org/en/) - based on Debian, features DDE, the Deepin Desktop Environment, built on Qt.
   - Be aware - There is conserns about analytics collected by Deepin which are sent to the Chinese government [Deepin Linux: Security Threat or Safe to Use?](https://linuxinsider.com/story/deepin-linux-security-threat-or-safe-to-use-86044.html).
+  - Alternatives
+  - [Lingmo OS](https://news.itsfoss.com/lingmo-os/) - Beautiful! Reminds me of MacOS!!
 - [Elementary OS](https://elementary.io) - Good alternative for Windows and Mac.
 - [eXtern OS](https://externos.io)
 - [Fedora Workstation](https://getfedora.org/en/workstation)
