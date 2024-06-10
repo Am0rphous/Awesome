@@ -209,6 +209,7 @@ sudo strings -w /dev/mem | less                   #-w = includes whitespace
   - [gchq.github.io/CyberChef](https://gchq.github.io/CyberChef)
 - [Dshell](https://github.com/USArmyResearchLab/Dshell) - Dshell is a network forensic analysis framework.
 - [Flare-fakenet-ng](https://github.com/fireeye/flare-fakenet-ng) - Next Generation Dynamic Network Analysis Tool.
+- [NetForenScan](https://github.com/cyberfascinate/NetForenScan) - "NetForenScan" script analyzes network traffic, detects security threats and gathers information about network activity using various networking tools and techniques. 
 - [Netsniff-ng](https://github.com/netsniff-ng/netsniff-ng) - A Swiss army knife for your daily Linux network plumbing. [netsniff-ng.org](http://netsniff-ng.org/)
 - [NetworkMiner](https://www.netresec.com/?page=Networkminer) - open source Network Forensic Analysis Tool (NFAT) for Windows (but also works in Linux / Mac OS X / FreeBSD). 
 - [Packet Strider](https://github.com/benjeems/packetStrider) - A network packet forensics tool for SSH.
