@@ -525,6 +525,19 @@ lsscsi                          #Print SCSI Devices Info
   - [ET OPEN Ruleset Download Instructions](https://rules.emergingthreats.net/OPEN_download_instructions.html) - Emergingthreats.
   - [snort-rules (unofficial)](https://github.com/codecat007/snort-rules) - An UNOFFICIAL Git Repository of Snort Rules(IDS rules) Releases.
   - [Fireeye Red-Team's Snort rules](https://github.com/fireeye/red_team_tool_countermeasures/blob/master/all-snort.rules)
+  - Commands: [source 1](https://medium.com/@denizuysal/essential-snort-command-lines-for-ids-ips-mode-06d54b99b38d)
+````
+snort -c /etc/snort/snort.conf                         #use this config
+snort -c /etc/snort/snort.conf -T                      #Use this config but also test it
+snort -c /etc/snort/snort.conf -N                      #Use this config but NO logging
+snort -c /etc/snort/snort.conf -D                      #Run in the background
+snort -c /etc/snort/snort.conf -v -A console           #Alert mode with output to console
+snort -c /etc/snort/snort.conf -v -A none              #Alert mode with no output
+snort -c /etc/snort/snort.conf -v -A cmg               #Adjust console output with different formatting
+Snort -c /etc/snort/snort.conf -v -A fast              #Alert mode with fast file output
+Snort -c /etc/snort/snort.conf -v -A full              #Full alert file output
+Snort -c /etc/snort/rules/local.rules -v -A console    #Use Snort rules without spesific config file
+````
 - [Splunk Home](https://ethicalhackingguru.com/splunk-free-home) - Restricted to 500 megabyte / day.
   - [Top 100 Splunk Commands](https://github.com/Ahmed-AL-Maghraby/SIEM-Cheat-Sheet/tree/main/Splunk-Cheat-Sheet)
 - [SSHGuard](https://bitbucket.org/sshguard/sshguard/src/master) - "_Protects hosts from brute-force attacks against SSH and other services. It aggregates system logs and blocks repeat offenders using one of several firewall backends._" [sshguard.net](https://www.sshguard.net).
