@@ -574,6 +574,7 @@ sudo apt-get install redshift-gtk
     - [Learning-C](https://github.com/h0mbre/Learning-C) - A series of mini-projects used to learn C for beginners
 
     #### C++
+    - [academia.edu](https://www.academia.edu/search?nbs=view&q=c++%20programming&utf8=%E2%9C%93) - lots of papers
     - [Awesome C++](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. 
     - [Imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
     
