@@ -188,10 +188,11 @@ python vol.py -f image.raw –profile=Win7SPI1x64 pslist netscan
 python vol.py -f image.raw –profile=Win7SPI1x64 pslist netscan |grep -vi closed
 python vol.py -f image.raw –profile=Win7SPI1x64 psxview
 ````
-    - Convert the memory image to a dump ready for analysis:
-    ````powershell
-    volatility -f memory_image.vmem -O raw_image --profile=Win8SP0x86 raw2dmp
-    ````
+
+- Convert the memory image to a dump ready for analysis:
+````powershell
+volatility -f memory_image.vmem -O raw_image --profile=Win8SP0x86 raw2dmp
+````
 
 Linux Commands
 ````powershell
