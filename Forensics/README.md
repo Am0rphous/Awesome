@@ -182,10 +182,15 @@ dd if=/dev/fmem of=memory.raw bs=1MB count=2048
   - [plugins](https://github.com/volatilityfoundation/community) - Volatility plugins developed and maintained by the community.
 Vilatility commands
 ````powershell
-python vol.py -f image.raw imageinfo
-python vol.py -f image.raw –profile=Win7SPI1x64 pslist
-python vol.py -f image.raw –profile=Win7SPI1x64 pslist netscan
-python vol.py -f image.raw –profile=Win7SPI1x64 pslist netscan |grep -vi closed
+python vol.py -f image.raw imageinfo                                       #get OS of dump file
+python vol.py -f image.raw –profile=Win7SPI1x64 pslist                     #get PID of SearchIndexer. Look for "SearchIndexer" in the output
+python vol.py -f image.raw -profile=Win7SP1x64 shellbags                   #use plugin to find files, folders, installers, metadata (timestamps+paths) that have existed
+python vol.py -f image.raw –profile=Win7SPI1x64 netscan                    #identify network connections
+python vol.py -f image.raw –profile=Win7SPI1x64 netscan |grep -vi closed
+python vol.py -f image.raw –profile=Win7SPI1x64 malfind                    #detect code injections. Check if any PID was used in a network connection further up
+python vol.py -f image.raw –profile=Win7SPI1x64 memdump -p 2533 -D 2533    #extract everything about the process with PID=2533
+                                                                           #Based on the output from the command above. We can run strings+grep on the files in the folder "2533". Look for sus stuff
+python vol.py -f image.raw –profile=Win7SPI1x64 memdump envars -f 2533.dmp -p 2533      #get environment variables
 python vol.py -f image.raw –profile=Win7SPI1x64 psxview
 ````
 
