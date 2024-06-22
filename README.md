@@ -421,6 +421,7 @@ sudo apt-get update
 sudo apt-get install fluxgui
 ````
   - [RedShift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. [jonls.dk/redshift](http://jonls.dk/redshift/)
+  - [Config sample](https://github.com/jonls/redshift/blob/master/redshift.conf.sample) and config file path on Linux `~/.config/redshift/redshift.conf`. Use [https://latlong.info/](https://latlong.info/) to get latitude and longitute info.
 ````powershell
 sudo apt-get install redshift-gtk
 ````
