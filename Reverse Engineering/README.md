@@ -241,6 +241,7 @@ Description: Transforms a binary's machine code into assembly language/code.
   - [AngryGhidra](https://github.com/Nalen98/AngryGhidra) - Use angr in Ghidra.
   - [CERT Kaiju Binary Analysis Framework for GHIDRA](https://github.com/CERTCC/kaiju) - CERT Kaiju is a binary analysis framework extension for the Ghidra software reverse engineering suite. This repository is the primary, canonical repository for this project -- file bug reports and wishes here!
   - [Docker-ghidra](https://github.com/blacktop/docker-ghidra) - Ghidra Client/Server Docker Image
+  - [GhidraMacOS](https://github.com/ytisf/GhidraMacOS) - An installer and compiler for Ghidra for MacOS ARM64
   - [Ghidra-dark](https://github.com/zackelia/ghidra-dark) - Dark theme installer for Ghidra.
   - [Ghidra Data](https://github.com/NationalSecurityAgency/ghidra-data) - Supporting Data Archives for Ghidra.
   - [GhidraIDA](https://github.com/NyaMisty/GhidraIDA) - Ghidra's IDA like experience by @NyaMisty
