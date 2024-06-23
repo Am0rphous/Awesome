@@ -1,6 +1,7 @@
 # Teaching & Instructor Resources
 
 - [goodbooks.io](https://www.goodbooks.io/)
+- [Analyze LIX measure (readability)](https://lix.se/)
 - [Tools for better thinking](https://untools.co/)
 
 ### Drawing
