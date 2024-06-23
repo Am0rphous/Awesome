@@ -279,6 +279,7 @@ Linux commands
 file              #determine file type
 getcap            #examine file capabilities
 ````
+- [Magika](https://github.com/google/magika) - Detect file content types with deep learning
 - [Seer](https://github.com/krsh/seer) - Seer is a tool that recognizes the architecture of a binary file
 
 ### File Conversion
