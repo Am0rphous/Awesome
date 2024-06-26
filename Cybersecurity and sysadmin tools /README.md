@@ -956,6 +956,11 @@ upstream_recursive_servers:
 - [FlatPak](https://flatpak.org)
 - [Nimble](https://github.com/nim-lang/nimble#nimble-usage) - Package manager for the Nim programming language.
 - [Nixpkgs](https://github.com/NixOS/nixpkgs) - collection of over 60,000 software packages that can be installed with the Nix package manager [nixos.org](https://nixos.org).
+- [Pip (Python package manger)](https://pypi.org/project/pip/)
+  - Upgrade packages on Windows
+````
+pip freeze --local | Select-String -NotMatch '^-e' | ForEach-Object { $_.ToString().Split('=')[0] } | ForEach-Object { pip install --upgrade $_ }
+````
 - [Snapd](https://snapcraft.io) - [Github](https://github.com/snapcore/snapd)
 
 ### Finding Software
