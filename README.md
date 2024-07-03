@@ -493,6 +493,7 @@ sudo apt-get install redshift-gtk
   - [Atom](https://github.com/atom/atom) - Atom is a hackable text editor for the 21st century, built on Electron.
   - [Builder](https://flathub.org/apps/details/org.gnome.Builder) - An IDE for Gnome
   - [CodeEdit for macOS](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. 
+  - [Code Server](https://github.com/cdr/code-server) - VS Code in the browser.
   - [GhostText](https://github.com/GhostText/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
     - [GhostText-for-Atom](https://github.com/GhostText/GhostText-for-Atom) - Allows live editing of Chrome/Firefox text area or JS Code editor content with Atom using WebSockets.
   - [Graviton](https://github.com/Graviton-Code-Editor/Graviton-App) - A modern-looking Code Editor. [graviton.netlify.app](https://graviton.netlify.app/)
@@ -504,9 +505,10 @@ sudo apt-get install redshift-gtk
   - [Spyder](https://github.com/spyder-ide/spyder) - Official repository for Spyder - The Scientific Python Development Environment.
   - [Sublime](https://www.sublimetext.com) - A sophisticated text editor for code, markup and prose.
     - [Emmet Sublime](https://github.com/sergeche/emmet-sublime) - Emmet for Sublime Text.
+  - [Theia (NICE!!)](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript. [ theia-ide.org ](https://theia-ide.org/)
   - [Visual Studio Code](https://github.com/Microsoft/vscode) - [code.visualstudio.com](https://code.visualstudio.com)
   - [VSCodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing. [homepage](https://vscodium.com/)
-  - [Code Server](https://github.com/cdr/code-server) - VS Code in the browser.
+
 
   ### File Managers
   - [Spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. 
