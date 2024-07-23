@@ -5,7 +5,6 @@ Table of content
 - [AI Assistants](#ai-assistants)
 - [Detection / Recognition / Vision / Object Tracking](#detection--recognition--vision--object-tracking)
 - [Coding](#coding)
-- [Design](#design)
 - [Face / Emotions](#face--emotions)
 - [Convolutional neural network](#convolutional-neural-network)
 - [Image](#image)
@@ -90,12 +89,6 @@ Table of content
 - [Octogen](https://github.com/dbpunk-labs/octogen) - Octogen is an Open-Source Code Interpreter Powered by GPT3.5/4 and Codellama 
 - [Tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant 
 
-## Design
-- [DALL·E 2](https://openai.com/dall-e-2/) - DALL·E 2 is a new AI system that can create realistic images and art from a description in natural language.
-- [Dalle-flow](https://github.com/jina-ai/dalle-flow) - 🌊 A Human-in-the-Loop workflow for creating HD images from text
-- [Dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
-- [vizcom.ai](https://vizcom.ai/) - AI creative tools for artists and designers
-
 ## Face / Emotions
  - [Bilibilili](https://github.com/Bingzi-Li/bilibilili) - A face-recognition-based attendance taking system.
  - [ David Attenborough narrates your life ](https://github.com/cbh123/narrator)
@@ -119,6 +112,9 @@ _Convolutional neural networks power image recognition and computer vision tasks
 
 ## Image
 - [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - Bringing Old Photo Back to Life (CVPR 2020 oral)
+- [DALL·E 2](https://openai.com/dall-e-2/) - DALL·E 2 is a new AI system that can create realistic images and art from a description in natural language.
+- [Dalle-flow](https://github.com/jina-ai/dalle-flow) - 🌊 A Human-in-the-Loop workflow for creating HD images from text
+- [Dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 - [Deep_privacy2](https://github.com/hukkelas/deep_privacy2) - DeepPrivacy2 - A Toolbox for Realistic Image Anonymization
 
 - [ImageAI](https://github.com/OlafenwaMoses/ImageAI) - A python library built to empower developers to build applications and systems with self-contained Computer Vision capabilities.
@@ -128,6 +124,8 @@ _Convolutional neural networks power image recognition and computer vision tasks
 - [Omost](https://github.com/lllyasviel/Omost) - Your image is almost there!
 - [Stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
   - [Stable-diffusion-docker](https://github.com/fboulnois/stable-diffusion-docker) - Runs the official Stable Diffusion release in a Docker container.
+- [vizcom.ai](https://vizcom.ai/) - AI creative tools for artists and designers
+
 
 ## LLMs - Large Language Models
 - [AiXcoder-7B](https://github.com/aixcoder-plugin/aiXcoder-7B) - official repository of aiXcoder-7B Code Large Language Model
