@@ -1,5 +1,23 @@
 # Artificial Intelligence Resources
 
+
+[AI Assistants](#ai-assistants)
+[Detection / Recognition / Vision / Object Tracking](#detection--recognition--vision--object-tracking)
+[Coding](#coding)
+[Design](#design)
+[Face / Emotions](#face--emotions)
+[Convolutional neural network](#convolutional-neural-network)
+[Image](#image)
+[LLMs - Large Language Models](#llms---large-language-models)
+[Tensorflow](#Tensorflow)
+[Sentiment Analysis](#Sentiment-Analysis)
+[Speech](#Speech)
+[Video](Video)
+[Web](#web)
+
+
+
+
 - [bilibot](https://github.com/linyiLYi/bilibot) - A local chatbot fine-tuned by bilibili user comments. 
 - [**correlation**](https://github.com/easystats/correlation) - Methods for Correlation Analysis.
 - [**Chatbot UI**](https://github.com/mckaywrigley/chatbot-ui) - The open-source AI chat app for everyone. 
@@ -35,7 +53,7 @@
 - [Transformers](https://github.com/huggingface/transformers) - Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
 - [Voice-changer](https://github.com/w-okada/voice-changer) - リアルタイムボイスチェンジャー Realtime Voice Changer
 
-## AI Assistant
+## AI Assistants
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. 
 - [Mycroft](https://github.com/mycroftai/mycroft-core) - Mycroft is a hackable open source voice assistant.
 - [Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
@@ -77,7 +95,7 @@
 - [Dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 - [vizcom.ai](https://vizcom.ai/) - AI creative tools for artists and designers
 
- ### Face / Emotions
+## Face / Emotions
  - [Bilibilili](https://github.com/Bingzi-Li/bilibilili) - A face-recognition-based attendance taking system.
  - [ David Attenborough narrates your life ](https://github.com/cbh123/narrator)
  - [DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls 
@@ -146,6 +164,8 @@ _Convolutional neural networks power image recognition and computer vision tasks
 - [Gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
 - [Gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - This is a replication project for the typescript version of xtekky/gpt4free
 - [Gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
+- [LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development
+
 - [Llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [Llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device.
 - [Llama_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.
@@ -153,6 +173,7 @@ _Convolutional neural networks power image recognition and computer vision tasks
 - [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models
 
 - [NanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
+- [Ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
 - [Openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [OpenChatKit](https://github.com/togethercomputer/OpenChatKit)
 - [Open_flamingo](https://github.com/mlfoundations/open_flamingo) - An open-source framework for training large multimodal models
