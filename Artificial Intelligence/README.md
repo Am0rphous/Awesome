@@ -1,5 +1,6 @@
 # Artificial Intelligence Resources
 
+Table of content
 
 - [AI Assistants](#ai-assistants)
 - [Detection / Recognition / Vision / Object Tracking](#detection--recognition--vision--object-tracking)
@@ -16,7 +17,7 @@
 - [Web](#web)
 
 
-
+<br><br>
 
 - [bilibot](https://github.com/linyiLYi/bilibot) - A local chatbot fine-tuned by bilibili user comments. 
 - [**correlation**](https://github.com/easystats/correlation) - Methods for Correlation Analysis.
