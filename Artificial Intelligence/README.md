@@ -1,19 +1,19 @@
 # Artificial Intelligence Resources
 
 
-[AI Assistants](#ai-assistants)
-[Detection / Recognition / Vision / Object Tracking](#detection--recognition--vision--object-tracking)
-[Coding](#coding)
-[Design](#design)
-[Face / Emotions](#face--emotions)
-[Convolutional neural network](#convolutional-neural-network)
-[Image](#image)
-[LLMs - Large Language Models](#llms---large-language-models)
-[Tensorflow](#Tensorflow)
-[Sentiment Analysis](#Sentiment-Analysis)
-[Speech](#Speech)
-[Video](Video)
-[Web](#web)
+- [AI Assistants](#ai-assistants)
+- [Detection / Recognition / Vision / Object Tracking](#detection--recognition--vision--object-tracking)
+- [Coding](#coding)
+- [Design](#design)
+- [Face / Emotions](#face--emotions)
+- [Convolutional neural network](#convolutional-neural-network)
+- [Image](#image)
+- [LLMs - Large Language Models](#llms---large-language-models)
+- [Tensorflow](#Tensorflow)
+- [Sentiment Analysis](#Sentiment-Analysis)
+- [Speech](#Speech)
+- [Video](Video)
+- [Web](#web)
 
 
 
