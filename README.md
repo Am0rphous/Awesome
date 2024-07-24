@@ -1258,7 +1258,8 @@ that works on top of your local folder of plain text files. [github](https://git
   - [qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client [www.qbittorrent.org](https://www.qbittorrent.org).
   - [Trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
   - [Transmission](https://transmissionbt.com/download/)
-    ### Piracy
+    ### Piracy (educational purposes)
+    - [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy)
     - [megathread Reddit](https://www.reddit.com/r/Piracy/wiki/megathread/#wiki_.1F4DA_books)
     ### Streaming torrent
     - [https://torrent.express](https://torrent.express)
