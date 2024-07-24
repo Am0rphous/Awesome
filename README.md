@@ -388,13 +388,20 @@ Communicate clearly <br>
 - [xlivebg](https://github.com/jtsiomb/xlivebg) - Live wallpapers for the X window system.
 
   #### Extensions
-  - Gnome
+  - Gnome - [https://extensions.gnome.org/](https://extensions.gnome.org/)
+    - [Blur-my-shell](https://github.com/aunetx/blur-my-shell) - Extension that adds a blur look to different parts of the GNOME Shell, including the top panel, dash and overview
+    - [Caffeine](https://extensions.gnome.org/extension/517/caffeine/) - Disable the screensaver and auto suspend.
     - [compiz-alike-magic-lamp-effect](https://github.com/hermes83/compiz-alike-magic-lamp-effect) - Compiz alike magic lamp effect for GNOME Shell.
     - [compiz-alike-windows-effect](https://github.com/hermes83/compiz-alike-windows-effect) - Compiz alike windows effect for GNOME Shell.
-    - [Dash to Panel ](https://github.com/home-sweet-gnome/dash-to-panel) - An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found in KDE Plasma and Windows 7+. A separate dock is no longer needed for easy access to running and favorited applications. 
+    - [Dash to Panel ](https://github.com/home-sweet-gnome/dash-to-panel) - An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found in KDE Plasma and Windows 7+. A separate dock is no longer needed for easy access to running and favorited applications.
+    - [Emoji-selector-for-gnome](https://github.com/maoschanz/emoji-selector-for-gnome) - This extension provide a popup menu with some emojis ; clicking on an emoji copies it to the clipboard.
     - [GNOME Shell Extensions](https://gitlab.gnome.org/GNOME/gnome-shell-extensions) - [wiki](https://wiki.gnome.org/Projects/GnomeShell/Extensions)
     - [GTile](https://github.com/gTile/gTile) - A window tiling extension for Gnome.
+    - [Impatience](https://extensions.gnome.org/extension/277/impatience/) - Speed up the gnome-shell animation speed
+    - [Netspeedsimplified](https://github.com/prateekmedia/netspeedsimplified) - A Net Speed extension With Loads of Customization for GNOME shell.
     - [Tray-Icons-Reloaded](https://github.com/MartinPL/Tray-Icons-Reloaded) - GNOME Shell extension which bring back Tray Icons to top panel, with additional features.
+    - [Vitals](https://extensions.gnome.org/extension/1460/vitals/) - A glimpse into your computer's temperature, voltage, fan speed, memory usage, processor load, system resources, network speed and storage stats. 
+    - [Wintile](https://github.com/fmstrat/wintile) - Windows 10 window tiling for GNOME
 
   #### Inspiration
   - [b00merang.weebly.com](https://b00merang.weebly.com/)
