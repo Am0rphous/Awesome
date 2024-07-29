@@ -16,9 +16,10 @@ Table of content
     - [Security](#security)
     - [Virtualization](#Virtualization)
 6. [Macbook with Linux resources](#Macbook-with-Linux-resources)
+    - [Acces your iPhone on Linux](#Acces-your-iPhone-on-Linux)
     - [Macbook Pro 14.3 (late 2017)](#macbook-pro-143-late-2017)
     - [Status](#status)
-7. [Productivity](#Productivity)
+8. [Productivity](#Productivity)
     - [Automation](#Automation)
     - [Office Tools](#Office-Tools)
     - [Time Management](#Time-Management)
@@ -208,6 +209,12 @@ brew analytics off
 - [mbp-ubuntu-kernel](https://github.com/marcosfad/mbp-ubuntu-kernel) - Ubuntu Kernel for MacBook Pro (incl. T2 patches).
 - [Roadrunner2's macbook12-spi-driver](https://github.com/roadrunner2/macbook12-spi-driver) - Input driver for the SPI keyboard / trackpad found on 12" MacBooks (2015 and later) and newer MacBook Pros (late 2016 through mid 2018), as well a simple touchbar and ambient-light-sensor driver for late 2016 MacBook Pro's and later.
 
+  ### Acces your iPhone on Linux
+  - [Article: Access your iPhone on Linux with this open source tool](https://opensource.com/article/21/8/libimobiledevice-iphone-linux)
+  - [Idevicerestore](https://github.com/libimobiledevice/idevicerestore) - Restore/upgrade firmware of iOS devices
+  - [Ifuse](https://github.com/libimobiledevice/ifuse) - A fuse filesystem to access the contents of iOS devices
+
+  
   ### Macbook Pro 14.3 (late 2017)
   - [BCM43602_macbookpro](https://github.com/andyholst/BCM43602_macbookpro) - Bruteforce test the boardflags 3 for 2.4 Ghz and 5 Ghz band
     - [Solution which makes the wifi work](https://bugzilla.kernel.org/show_bug.cgi?id=193121#c52) - [Original thread](https://github.com/Dunedan/mbp-2016-linux/issues/47)
