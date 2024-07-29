@@ -885,6 +885,7 @@ Based on that data, you can find the most popular ones and their alternatives.
    - [Free assets for your next video project](https://mixkit.co/)
    - [Free Stock Video Footage ](https://www.videvo.net/)
    - [Kap](https://github.com/wulkano/Kap) -  An open-source screen recorder built with web technology.
+   - [Kasm Community Edition](https://www.kasmweb.com/community-edition) - Linux, Windows
    - [Kazam](https://github.com/hzbd/kazam) - Kazam is a simple screen recording program that will capture the content of your screen.
    - [Kdenlive](https://invent.kde.org/multimedia/kdenlive) - Free and open source video editor, based on MLT Framework and KDE Frameworks 5. [Github](https://github.com/KDE/kdenlive)
   - [Lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
