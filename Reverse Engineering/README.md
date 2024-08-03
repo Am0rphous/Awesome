@@ -109,6 +109,7 @@ Portable Executables binaries
   - [Capa](https://github.com/mandiant/capa) - The FLARE team's open-source tool to identify capabilities in executable files.
   - [CFF Explorer](https://ntcore.com/?page_id=388)
   - [PE Explorer](http://www.pe-explorer.com/)
+  - [Pe-bear](https://github.com/hasherezade/pe-bear) - Portable Executable reversing tool with a friendly GUI
   - [Pev](https://github.com/merces/pev) - The PE file analysis toolkit.
   - [XPEViewer](https://github.com/horsicq/XPEViewer) - PE file viewer/editor for Windows, Linux and MacOS.
   - Compare  to elf files:
