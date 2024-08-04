@@ -206,6 +206,7 @@ distribution into a Live Kit (formely known as Live CD).
 - [Tiny Core Linux](http://tinycorelinux.net/welcome.html) - full Linux desktop in 22 MB. Unlike most operating systems, the Tiny Core can run completely from RAM. 
 - Ubuntu Minimal
   - [Focal](https://cloud-images.ubuntu.com/minimal/releases/focal/release/)
+- [Void Linux](https://voidlinux.org/) - 3 gig disk usage when using graphical install. Good for old laptops. I used xfc4 as graphic. [Install guide](https://docs.voidlinux.org/installation/live-images/guide.html) and [Complete picture guide](https://linuxiac.com/void-linux-installation/#4-8-setting-up-the-user)
 
 ## Pen-testing and security auditing
 - [Athena OS](https://github.com/Athena-OS/athena-iso) - Athena is a Arch Linux-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
