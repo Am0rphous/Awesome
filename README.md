@@ -539,7 +539,8 @@ sudo apt-get install redshift-gtk
     - [Gophers by egonelbre](https://github.com/egonelbre/gophers) - Free gophers
     - [Gopher icons by shalakhin](https://github.com/shalakhin/gophericons) - 34 gopher images for Go developers community
   - [Icon](https://github.com/bung87/icon) - Icon file generator for Windows, macOS, Web.
-  - [Icônes](https://github.com/antfu/icones) - Icon Explorer with Instant searching, powered by Iconify 
+  - [icons-in-terminal](https://github.com/sebastiencs/icons-in-terminal) - Use any fonts in the terminal without replacing or patching 
+  - [Icones](https://github.com/antfu/icones) - Icon Explorer with Instant searching, powered by Iconify 
   - [Icons8.com](https://icons8.com/icons/)
   - [Material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google.
   - [Npm-icon-gen](https://github.com/akabekobeko/npm-icon-gen) - Icon file generator for Windows, macOS, Web.
