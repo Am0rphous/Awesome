@@ -1235,6 +1235,7 @@ pip freeze --local | Select-String -NotMatch '^-e' | ForEach-Object { $_.ToStrin
 
 
 ## URL Shorteners
+- [loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong ](https://github.com/ccbikai/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong) - Not exactly an url shorterner XD
 - [Polr](https://github.com/cydrobolt/polr) - 🚡 A modern, powerful, and robust URL shortener [polrproject.org](https://polrproject.org).
 - [SLink](https://shlink.io) - Keep control over all your shortened URLs, by serving them under your own domains, using this simple yet powerful tool.
 
