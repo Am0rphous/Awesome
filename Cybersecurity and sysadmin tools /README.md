@@ -570,6 +570,7 @@ Snort -c /etc/snort/rules/local.rules -v -A console    #Use Snort rules without 
 - [BashTop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor.
 - [BGP monitor](https://github.com/D4-project/bgp-monitor)
 - [Bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor.
+- [Cacti](https://www.cacti.net/) - provides a robust and extensible operational monitoring and fault management framework 
 - [DetectionLabELK](https://github.com/cyberdefenders/DetectionLabELK) - DetectionLabELK is a fork from DetectionLab with ELK stack instead of Splunk.
 - [Docker Swarm - Promitheus, Grafana, Node Exporter, Loki, Promtail, Caddy](https://github.com/zet694/promitheus_monitoring) - Docker Swarm - Promitheus, Grafana, Node Exporter, Loki, Promtail, Caddy.
 - [Elastic stack (ELK) on Docker](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
@@ -589,6 +590,7 @@ Snort -c /etc/snort/rules/local.rules -v -A console    #Use Snort rules without 
 sudo apt install psacct
 sudo service psacct restartchkconfig --level 13 psacct on
 ````
+- [RRDtool](https://oss.oetiker.ch/rrdtool/index.en.html) - RRDtool is the OpenSource industry standard, high performance data logging and graphing system for time series data. RRDtool can be easily integrated in shell scripts, perl, python, ruby, lua or tcl applications.
 - [S1EM](https://github.com/V1D1AN/S1EM) - This project is a SIEM with SIRP and Threat Intel, all in one.
 - [SkyWalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System 
 - [SMS-Alerts](https://github.com/AshleyNikr/SMS-Alerts) - 🌺 Adding SMS alerts to shell scripts 🌺 
