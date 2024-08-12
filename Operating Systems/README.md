@@ -237,8 +237,9 @@ distribution into a Live Kit (formely known as Live CD).
 - [Asuswrt-merlin.ng](https://github.com/RMerl/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase). [www.asuswrt-merlin.net](https://www.asuswrt-merlin.net)
 - [BSD Router](https://bsdrp.net) - Free open source software router distribution based on embedded FreeBSD.
 - [DD-WRT - https://dd-wrt.com)](https://dd-wrt.com) - DD-WRT is a Linux based alternative OpenSource firmware suitable for a great variety of WLAN routers and embedded systems. [Source code](https://github.com/mirror/dd-wrt), [logs](https://svn.dd-wrt.com/log/), [timeline](https://svn.dd-wrt.com/timeline)
-  - FTP Download- [https://ftp.dd-wrt.com/dd-wrtv2/downloads/betas/](https://ftp.dd-wrt.com/dd-wrtv2/downloads/betas/)
-  - [Wl command wiki](https://wiki.dd-wrt.com/wiki/index.php/Wl_command) - tool to tinker with the routers firmware and controll the wireless hardware. No setup is required as 'wl' comes with all Broadcom DD-WRT installations. 
+  - [dd-wrt demo](https://forum.dd-wrt.com/demo/)
+  - [dd-wrt download](https://ftp.dd-wrt.com/dd-wrtv2/downloads/betas)
+  - [`Wl` wiki](https://wiki.dd-wrt.com/wiki/index.php/Wl_command) - tool to tinker with the routers firmware and controll the wireless hardware. No setup is required as 'wl' comes with all Broadcom DD-WRT installations. 
 - [FreshTomato](https://freshtomato.org/) - [source code](https://github.com/pedro0311/freshtomato-arm)
 - [IPFire](https://www.ipfire.org) - IPFire is a hardened, versatile, state-of-the-art Open Source firewall based on Linux.
 - [LibreCMC](LibreCMC) - LibreCMC is a set of fully free embedded Operating Systems for general purpose computers. The Project aims to give its users freedom and control over the software that runs on their hardware. Most of the hardware that libreCMC supports includes a wide range of routers and some small single board computers.
