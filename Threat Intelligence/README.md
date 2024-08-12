@@ -57,3 +57,4 @@
 
 ### Reports
 - [IBM X-Force Threat Intelligence Index 2024 ](https://www.ibm.com/reports/threat-intelligence)
+- [Mnemonic Security Reports](https://www.mnemonic.io/resources/security-report/)
