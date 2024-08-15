@@ -56,6 +56,7 @@
 - [Zeek-Intelligence-Feeds](https://github.com/CriticalPathSecurity/Zeek-Intelligence-Feeds) - Zeek-Formatted Threat Intelligence Feeds
 
 ### Reports
+- [Awesome Annual Security Reports](https://github.com/jacobdjwilson/awesome-annual-security-reports) - A curated list of annual cyber security reports 
 - [FFI](https://www.ffi.no/publikasjoner/ffi-rapporter)
 - [IBM X-Force Threat Intelligence Index 2024 ](https://www.ibm.com/reports/threat-intelligence)
 - [Mnemonic Security Reports](https://www.mnemonic.io/resources/security-report/)
