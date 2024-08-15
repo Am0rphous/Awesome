@@ -239,6 +239,7 @@ distribution into a Live Kit (formely known as Live CD).
 - [DD-WRT - https://dd-wrt.com)](https://dd-wrt.com) - DD-WRT is a Linux based alternative OpenSource firmware suitable for a great variety of WLAN routers and embedded systems. [Source code](https://github.com/mirror/dd-wrt), [logs](https://svn.dd-wrt.com/log/), [timeline](https://svn.dd-wrt.com/timeline)
   - [dd-wrt demo](https://forum.dd-wrt.com/demo/)
   - [dd-wrt download](https://ftp.dd-wrt.com/dd-wrtv2/downloads/betas/)
+    - For x86 or x64 firmware, go all the way down. [x86 Wiki](https://wiki.dd-wrt.com/wiki/index.php/X86)
   - [`Wl` wiki](https://wiki.dd-wrt.com/wiki/index.php/Wl_command) - tool to tinker with the routers firmware and controll the wireless hardware. No setup is required as 'wl' comes with all Broadcom DD-WRT installations. 
 - [FreshTomato](https://freshtomato.org/) - [source code](https://github.com/pedro0311/freshtomato-arm)
 - [IPFire](https://www.ipfire.org) - IPFire is a hardened, versatile, state-of-the-art Open Source firewall based on Linux.
