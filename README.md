@@ -1260,11 +1260,14 @@ that works on top of your local folder of plain text files. [github](https://git
   - [qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client [www.qbittorrent.org](https://www.qbittorrent.org).
   - [Trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
   - [Transmission](https://transmissionbt.com/download/)
-    ### Piracy (educational purposes)
+    ### Piracy
+    - This is for educational purposes, and USE A VPN!
     - [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy)
     - [megathread Reddit](https://www.reddit.com/r/Piracy/wiki/megathread/#wiki_.1F4DA_books)
-    ### Streaming torrent
-    - [https://torrent.express](https://torrent.express)
+    - [Popcorn Time](https://github.com/popcorn-official/popcorn-desktop) - [https://popcorntimeonline.xyz/](https://popcorntimeonline.xyz/)
+    - [Streamio](https://www.stremio.com/) - Freedom to Stream
+      - 1. Install the [ThePirateBay](https://stremio-addons.netlify.app/thepiratebay.html) add-on
+      - 2. Install the [Torrentio](https://torrentio.strem.fun/configure) add-on
 
 ## Web Browsers
 - [Chromium](https://www.chromium.org/) - With Chromium, you get rid of all the tracking features that Google Chrome boasts.
