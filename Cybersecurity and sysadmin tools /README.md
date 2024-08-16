@@ -1353,6 +1353,7 @@ pip freeze --local | Select-String -NotMatch '^-e' | ForEach-Object { $_.ToStrin
       - [Weave Scope](https://github.com/weaveworks/scope) - Monitoring, visualisation & management for Docker & Kubernetes.
   - [dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers
   - [Images by linuxserver.io](https://fleet.linuxserver.io)
+  - [Jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications. Very secure. [Does not have bash](https://github.com/GoogleContainerTools/jib/blob/master/docs/faq.md#where-is-bash)
   - [Kata Containers](https://katacontainers.io/) - [Kata Containers snap package](https://github.com/kata-containers/kata-containers/blob/main/docs/install/snap-installation-guide.md)
   - [SecretScanner](https://github.com/deepfence/SecretScanner) - Find secrets and passwords in container images and file systems.
   - [Firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing [firecracker-microvm.github.io](https://firecracker-microvm.github.io).
@@ -1404,9 +1405,10 @@ pip freeze --local | Select-String -NotMatch '^-e' | ForEach-Object { $_.ToStrin
      - [ctop – Top-like Interface for Monitoring Docker Containers](https://www.tecmint.com/ctop-monitor-docker-containers/)
    - [Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 
-#### Security
-- [Falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
-- [ThreatMapper](https://github.com/deepfence/ThreatMapper) - Identify vulnerabilities in running containers, images, hosts and repositories.
+   #### Security
+   - [Falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
+   - [ThreatMapper](https://github.com/deepfence/ThreatMapper) - Identify vulnerabilities in running containers, images, hosts and repositories.
+   - [Trivy Operator](https://github.com/aquasecurity/trivy-operator) - Scanning running images, but Kubernetes specific.
 
 
  ### Hypervisors
