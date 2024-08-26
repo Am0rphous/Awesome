@@ -12,7 +12,8 @@ Table of content
 - [Tensorflow](#Tensorflow)
 - [Sentiment Analysis](#Sentiment-Analysis)
 - [Speech](#Speech)
-- [Video](Video)
+- [Video](#Video)
+  - [Documentaries](#documentaries)
 - [Web](#web)
 
 
@@ -208,6 +209,9 @@ Description: _Sentiment analysis (also known as opinion mining or emotion AI) is
 ## Video
 - [Democratizing Efficient Video Production for All](https://github.com/hpcaitech/Open-Sora) - Open-Sora: Democratizing Efficient Video Production for All 
 - [Rerender A Video](https://github.com/williamyang1991/Rerender_A_Video) - Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation 
+
+### Documentaries
+- [AI - Life and death](https://www.svtplay.se/video/KnDgPgm/ai-pa-liv-och-dod)
 
 ## Web
 - [Cogito-ntnu.no](https://cogito-ntnu.no)
