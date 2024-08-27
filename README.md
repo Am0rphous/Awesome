@@ -778,6 +778,7 @@ Based on that data, you can find the most popular ones and their alternatives.
 - [academy.picussecurity.com](https://academy.picussecurity.com) - Open access cybersecurity courses
 - [academy.attackiq.com](https://academy.attackiq.com)
 - [InfoSec-Black-Friday](https://github.com/0x90n/InfoSec-Black-Friday) - All the deals for InfoSec related software/tools this Black Friday
+- [Linux Guide](https://github.com/RENANZG/My-Debian-GNU-Linux)
 - MITRE ATT&CK - https://attack.mitre.org/
   - [MITRE ATT&CK® Navigator](https://mitre-attack.github.io/attack-navigator/enterprise/)
 - [TaskBook](https://github.com/klaussinani/taskbook/blob/master/.gitattributes) - Tasks, boards & notes for the command-line habitat.
