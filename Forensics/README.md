@@ -3,7 +3,8 @@
 - [Awesome Forensics by cugu](https://github.com/Cugu/awesome-forensics) - A curated list of awesome forensic analysis tools and resources.
 - [CppCheck](https://github.com/danmar/cppcheck) -  static analysis of C/C++ code [cppcheck.sourceforge.net](http://cppcheck.sourceforge.net/).
 - [cPTS](https://github.com/reviewscientific2020/cPTS) - Carve for potential timestamps.
-- [Digital Forensics Guide ](https://github.com/mikeroyal/Digital-Forensics-Guide) - Digital Forensics Guide 
+- [Digital Forensics Guide ](https://github.com/mikeroyal/Digital-Forensics-Guide) - Digital Forensics Guide
+- [Digital Forensics Guide - RENANZG](https://github.com/RENANZG/My-Forensics)
 - [Digital Forensics Lab & Shared Cyber Forensic Intelligence Repository](https://github.com/frankwxu/digital-forensics-lab) - Free hands-on digital forensics labs for students and faculty.
 - [ForensicsTools](https://github.com/mesquidar/ForensicsTools) - A list of free and open forensics analysis tools and other resources.
 - [Free tools from magnetforensics](https://www.magnetforensics.com/free-tools/)
