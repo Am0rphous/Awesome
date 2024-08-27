@@ -556,7 +556,8 @@ sudo apt-get install redshift-gtk
   ### Linux
   - [Akira](https://github.com/akiraux/Akira) - Native Linux App for UI and UX Design built in Vala and GTK.
   - [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
-  - [bauh](https://github.com/vinifmor/bauh) - Graphical user interface for managing your Linux applications. Supports AppImage, Arch packages (including AUR), Debian packages, Flatpak, Snap and native Web applications 
+  - [bauh](https://github.com/vinifmor/bauh) - Graphical user interface for managing your Linux applications. Supports AppImage, Arch packages (including AUR), Debian packages, Flatpak, Snap and native Web applications
+  - [Beautiful Ubuntu Setup ](https://github.com/basecamp/omakub) - Nice for devs
   - [Gnome-shell-extension-appindicator](https://github.com/ubuntu/gnome-shell-extension-appindicator) - Adds KStatusNotifierItem support to the Shell. [extensions.gnome.org/extension/615/appindicator-support](https://extensions.gnome.org/extension/615/appindicator-support/)
   - [Gtk-layer-shell](https://github.com/wmww/gtk-layer-shell) - A library to create panels and other desktop components for Wayland using the Layer Shell protocol
   - [Inspirational designs for Linux apps](https://dribbble.com/tags/linux_app)
