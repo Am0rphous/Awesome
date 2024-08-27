@@ -1128,6 +1128,7 @@ that works on top of your local folder of plain text files. [github](https://git
   
   ### Fonts
   - [85+ Best Free and Premium Hack Fonts](https://hyperpix.net/fonts/hack-fonts/)
+  - [Matrix fonts](https://github.com/trip5/Matrix-Fonts)
   - [Nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
   
   ### Project Management
