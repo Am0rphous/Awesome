@@ -47,6 +47,7 @@ _Considering key questions:_
   - [Tiny10](https://archive.org/details/tiny-10_202301) - (Lightweight Windows 10)
   - [Article in Medium: How Bullshit Has Dominated The Tech Industry](https://medium.com/@fulalas/how-bullshit-has-dominated-the-tech-industry-bc63257f2a91) - Go down to _"Microsoft is perhaps unbeatable in this regard"_
   - [Windows 10 ISO](https://www.microsoft.com/en-us/software-download/windows10ISO) - Officially by Microsoft
+  - [Windows vm notes](https://github.com/infokiller/win10-vm) - Windows 10/11 VM on Linux (QEMU/libvirt/KVM) with Secure Boot, BitLocker, and good performance
   - [Windows in a Docker containe](https://github.com/dockur/windows) - Windows in a Docker container.
   - [Wubuntu](https://www.wubuntu.org/) - Linux with Windows appearance, without any hardware restrictions.
 - [Hardware for Linux Trends](https://linux-hardware.org/?view=trends)
