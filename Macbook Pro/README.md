@@ -185,6 +185,7 @@ brew analytics off
 
 
     ### Security
+    - [Jamf](https://www.jamf.com/) - edr for macos
     - [Secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
 
 
