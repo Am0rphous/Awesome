@@ -55,6 +55,7 @@ Table of content
 - [Binaryanalysis-ng](https://github.com/armijnhemel/binaryanalysis-ng) - Binary Analysis Next Generation (BANG)
 - [Bincat](https://github.com/airbus-seclab/bincat) - Binary code static analyser, with IDA integration. Performs value and taint analysis, type reconstruction, use-after-free and double-free detection
 - [Bingrep](https://github.com/m4b/bingrep) - like ~~grep~~ UBER, but for binaries
+- [binsider](https://binsider.dev/) - Binsider offers powerful static and dynamic analysis tools, similar to readelf(1) and strace(1). It lets you inspect strings, examine linked libraries, and perform hexdumps, all within a user-friendly TUI.
 - [Callisto](https://github.com/JetP1ane/Callisto) - Callisto - An Intelligent Binary Vulnerability Analysis Tool
 - [Cwe_checker](https://github.com/fkie-cad/cwe_checker) - cwe_checker finds vulnerable patterns in binary executables.
 - [Fuzzable](https://github.com/ex0dus-0x/fuzzable) - Framework for Automating Fuzzable Target Discovery with Static Analysis. Featured at Black Hat Arsenal USA 2022. 
