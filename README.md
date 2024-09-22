@@ -120,7 +120,7 @@ Communicate clearly <br>
   - [Linux Tools](#linux-tools)
   - [Peripherals](#Peripherals)
   - [Torrent](#torrent)
-    - [Streaming torrent](#streaming-torrent)
+    - [Piracy](#piracy)
 - [Web Browsers](#web-browsers)
   - [Privacy Focused](#privacy-focused)
   - [Search Engines](#search-engines)
@@ -1254,20 +1254,21 @@ that works on top of your local folder of plain text files. [github](https://git
   - [piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices
   - [Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
 
-
-  
-
-  ### Torrent
+  ### Torrents
   - [Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers 
   - [Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
   - [qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client [www.qbittorrent.org](https://www.qbittorrent.org).
   - [Trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
   - [Transmission](https://transmissionbt.com/download/)
-    ### Piracy
+  
+    #### Piracy
     - This is for educational purposes, and USE A VPN!
     - [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy)
-    - [megathread Reddit](https://www.reddit.com/r/Piracy/wiki/megathread/#wiki_.1F4DA_books)
     - [Popcorn Time](https://github.com/popcorn-official/popcorn-desktop) - [https://popcorntimeonline.xyz/](https://popcorntimeonline.xyz/)
+    - Reddit
+      - [FREEMEDIAHECKYEAH/wiki/](https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)
+      - [megathread](https://www.reddit.com/r/Piracy/wiki/megathread] - [megathread (old reddit)](https://old.reddit.com/r/Piracy/wiki/megathread)
+
     - [Streamio](https://www.stremio.com/) - Freedom to Stream
       - 1. Install the [ThePirateBay](https://stremio-addons.netlify.app/thepiratebay.html) add-on
       - 2. Install the [Torrentio](https://torrentio.strem.fun/configure) add-on
