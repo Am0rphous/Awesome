@@ -28,6 +28,7 @@
   - [Compliance / evaluation tools](#compliance--evaluation-tools)
 - [Databases](#databases)
 - [Dell spesific tools](#dell-spesific-tools)
+- [E-books](#e---books)
 - [File sharing](#file-sharing)
 - [Hardware](#hardware)
 - [EDR, IDS, HIDS and IPS](#edr-ids-hids-and-ips)
@@ -448,6 +449,9 @@ bro / zeek
 - [Encrypted DNS servers and relays](https://www.reddit.com/r/dnscrypt/comments/hllymo/new_encrypted_dns_servers_and_relays/)
 - [Lists of public DNSCrypt and DoH servers](https://github.com/DNSCrypt/dnscrypt-resolvers) - Lists of public DNSCrypt / DoH DNS servers and DNS relays.
 
+## E-books
+- [Free-cybersecurity-ebooks](https://github.com/hackerwhale/free-cybersecurity-ebooks) - Freely available cyber security related books
+- [Hacking-books](https://github.com/imrk51/hacking-books) - Book collection
 
 
 ## File Sharing
