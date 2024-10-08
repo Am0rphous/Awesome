@@ -70,6 +70,7 @@ Communicate clearly <br>
     - [Web](#web)
 - [E-books](#e-books)
   - [E-books Readers](#e-books-readers)
+  - [Libraries](#Libraries)
 - [Finance](#finance)
   - [Cryptocurrency](https://github.com/Am0rphous/Awesome/tree/master/Cryptocurrency)
 - [Finding Software](#finding-software)
@@ -688,13 +689,9 @@ sudo apt-get install redshift-gtk
 - [GetBestBooks.com](https://getbestbooks.com) - Free ebooks.
 - [Hacking Books](https://github.com/tanc7/hacking-books)
 - [HonKit](https://github.com/honkit/honkit) - 📖 HonKit is building beautiful books using Markdown - Fork of GitBook.
-- [Library Genesis+](https://libgen.li/)
-  - [ibgen.is](https://libgen.is/)
 - [Linux Books](https://github.com/manjunath5496/Linux-Books) - "We all love Linux, but it's also a fact that some people might not be able to migrate." - Miguel de Icaza.
 - [Linux Insides book](https://0xax.gitbooks.io/linux-insides/content/index.html) - [Source code](https://github.com/0xAX/linux-insides)
 - [NasjonalBiblioteket](https://www.nb.no/) - Norwegian library
-- [oceanofpdf.com](https://oceanofpdf.com)
-- [PdfDrive.com](https://www.pdfdrive.com) - search engine for PDF files.
 - [sci-hub.st](https://www.sci-hub.st/)
 - [Secure Coding Handbook](https://github.com/joswha/Secure-Coding-Handbook) - Web Application Secure Coding Handbook resource.
 - [The Arcane Algorithm Archive](https://github.com/algorithm-archivists/algorithm-archive) - A collaborative book on algorithms 
@@ -702,7 +699,6 @@ sudo apt-get install redshift-gtk
 - [The Cyber Plumber's Handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook) - _"This repo contains the PDF book The Cyber Plumber's Handbook - The definitive guide to Secure Shell (SSH) tunneling, port redirection, and bending traffic like a boss. The book was first published in October 2018 for purchase, but now I'm providing it for FREE to anyone interested in learning more about the magic of SSH tunnels and port redirection."_
 - [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/) - [Github development](https://github.com/sysprog21/lkmpg) -  The Linux Kernel Module Programming Guide (updated for 5.x kernels).
 - [TradePub.com](https://sf.tradepub.com) - The top resource for free professional and technical research, white papers, case studies, magazines, and eBooks.
-- [Z-lib.org](https://z-lib.org) - the world’s largest e-book library
 
   ### E-books Readers
   - [Bookworm by blindpandas](https://getbookworm.com/) - The Universally Accessible document Reader. [Github](https://github.com/blindpandas/bookworm)
@@ -716,6 +712,17 @@ sudo apt-get install redshift-gtk
   - [Lucidor](https://www.lucidor.org/)
   - [Okular](https://github.com/KDE/okular) - KDE document viewer. Okular can view and annotate documents of various formats, including PDF, Postscript, Comic Book, and various image formats. It supports native PDF annotations.
   - [Sumatra PDF](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF is a multi-format (PDF, EPUB, MOBI, FB2, CHM, XPS, DjVu) reader for Windows under (A)GPLv3 license, with some code under BSD license (see AUTHORS).
+  
+  ### Libraries
+  - [Annas-archive.org](https://annas-archive.org/)
+  - [Gutenberg.org](https://gutenberg.org/)
+  - [Library Genesis+](https://libgen.li/)
+  - [Librovox.org](https://librivox.org/)
+  - [ibgen.is](https://libgen.is/)
+  - [Oceanofpdf.com](https://oceanofpdf.com)
+  - [OpenLibrary.org](https://openlibrary.org/)
+  - [PdfDrive.com](https://www.pdfdrive.com) - search engine for PDF files.
+  - [Z-lib.org](https://z-lib.org) - the world’s largest e-book library
 
 ## Finance
 - [Firefly III:](https://github.com/firefly-iii/firefly-iii) - a personal finances manager
