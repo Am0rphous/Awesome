@@ -556,6 +556,7 @@ sudo apt-get install redshift-gtk
   
   ### Linux
   - [Akira](https://github.com/akiraux/Akira) - Native Linux App for UI and UX Design built in Vala and GTK.
+  - [Appimagekit](https://github.com/AppImage/appimagekit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.chat [https://appimage.org/](https://appimage.org/)
   - [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
   - [bauh](https://github.com/vinifmor/bauh) - Graphical user interface for managing your Linux applications. Supports AppImage, Arch packages (including AUR), Debian packages, Flatpak, Snap and native Web applications
   - [Beautiful Ubuntu Setup ](https://github.com/basecamp/omakub) - Nice for devs
