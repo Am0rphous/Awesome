@@ -462,6 +462,7 @@ bro / zeek
 - [Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported. 
 - [https://www.globaleaks.org](https://www.globaleaks.org/) - GlobaLeaks is free, open-source software. enabling anyone to easily set up and maintain a secure whistleblowing platform.
 - [Ksmbd](https://github.com/namjaejeon/ksmbd) - ksmbd kernel server(SMB/CIFS server)
+ - [Localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [Magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [Muon SSH Terminal/SFTP client (Formerly Snowflake)](https://github.com/subhra74/snowflake) -  Graphical SFTP client and terminal emulator with helpful utilities.
 - [Nitro Share](https://nitroshare.net/) - Any File. Any Device. Cross-platform Network File Transfer Application
