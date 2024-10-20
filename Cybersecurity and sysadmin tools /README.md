@@ -707,6 +707,7 @@ sudo service psacct restartchkconfig --level 13 psacct on
   - [Sigma](https://github.com/SigmaHQ/sigma) - Generic Signature Format for SIEM Systems. [https://sigmahq.io/](https://sigmahq.io/)
   - [AURORA Agent (free agent)](https://www.nextron-systems.com/aurora/) - Your Custom Sigma-based EDR Agent
   - [Sigma-Rules - The-DFIR-Report](https://github.com/The-DFIR-Report/Sigma-Rules) - Rules generated from our investigations.
+  - [SSHLog](https://www.sshlog.com/) -  Monitor your Users' SSH Activity 
   - [SquidAnalyzer](https://github.com/darold/squidanalyzer) - Squid Analyzer parses Squid proxy access log and reports general statistics about hits, bytes, users, networks, top URLs, and top second level domains. Statistic reports are oriented toward user and bandwidth control.
   - [Zircolite](https://github.com/wagga40/Zircolite) - A standalone SIGMA-based detection tool for EVTX, Auditd and Sysmon for Linux logs 
   
