@@ -40,6 +40,8 @@
 - [playOnLinux.com](https://www.playonlinux.com/en/) - [Supported app list](https://www.playonlinux.com/en/supported_apps-1-0.html)
 - [PlayOnLinux4](https://github.com/PlayOnLinux/POL-POM-4) - PlayOnLinux 4 repository.
 - [Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components.
+- [Retrodeck](https://github.com/retrodeck/retrodeck) - RetroDECK brings you an all-in-one sandboxed application to play your retro games (and even not-so-retro games) on Linux/SteamOS.
+
 - [ScummVM](https://github.com/scummvm/scummvm) - program which allows you to run certain classic graphical point-and-click adventure games and role-playing games, provided you already have their data files. [www.scummvm.org](https://www.scummvm.org/) & [supported Games](https://wiki.scummvm.org/index.php?title=Category:Supported_Games)
 - [Steam](https://store.steampowered.com/) - Install with `sudo apt install steam`
   - [Steamctl](https://github.com/ValvePython/steamctl) - 🤸 Take control of Steam from your terminal. Steamctl is an open-source CLI utility similar to steamcmd. It provides access to a number of Steam features and data from the command line. While it is possible to download apps and content from Steam, steamctl is not a game launcher.
