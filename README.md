@@ -723,7 +723,7 @@ sudo apt-get install redshift-gtk
   - [Oceanofpdf.com](https://oceanofpdf.com)
   - [OpenLibrary.org](https://openlibrary.org/)
   - [PdfDrive.com](https://www.pdfdrive.com) - search engine for PDF files.
-  - [Z-lib.org](https://z-lib.org) - the world’s largest e-book library
+  - [Z-lib.org](https://z-lib.org) - Seized by FBI and DoJ. No longer works
 
 ## Finance
 - [Firefly III:](https://github.com/firefly-iii/firefly-iii) - a personal finances manager
