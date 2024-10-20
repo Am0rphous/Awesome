@@ -17,6 +17,7 @@ _Considering key questions:_
 
 - [A list of web resources](#a-list-of-web-resources)
 - [Boot / BIOS](#boot--bios)
+- [Cloud](#cloud)
 - [Country Specific](#country-specific)
 - [Create Your Own Custom Linux OS](#create-your-own-custom-linux-os)
 - [Desktop OSes](#desktop-oses)
@@ -64,6 +65,10 @@ _Considering key questions:_
 - [rEFInd Boot Manager](https://www.rodsbooks.com/refind/)
   - [Theming rEFInd](https://www.rodsbooks.com/refind/themes.html)
 
+## Cloud
+- [OSv](http://osv.io/) - OSv is the open-source versatile modular unikernel designed to run unmodified Linux applications securely on micro-VMs in the cloud.
+- [Project Photon OS](https://vmware.github.io/photon/) - Photon OS is a Linux based, open source, security-hardened, enterprise grade appliance operating system that is purpose built for Cloud and Edge applications.
+- [Ubuntu](https://ubuntu.com/cloud/public-cloud) - Ubuntu is the world’s most popular cloud operating system across public clouds. Thanks to its security, versatility and policy of regular updates, Ubuntu is the leading cloud guest OS and the only free cloud operating system with the option of enterprise-grade commercial support. 
 
 ## Country Specific 
 ### China
