@@ -20,6 +20,7 @@
   ### Heatmaps
   - [Crypto Heatmap from TradingView.com](https://www.tradingview.com/heatmap/crypto/?color=change&dataset=Crypto&group=no_group&size=market_cap_calc)
   - [Cryptocurrency Performance Heat Map from marketbeat.com](https://www.marketbeat.com/market-data/sector-performance/cryptocurrencies/)
+  - [Liquidation Heatmap](https://www.coinglass.com/pro/futures/LiquidationHeatMap)
 
 ## Bitcoin
 - [Bitcoin source code](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree.
