@@ -663,6 +663,7 @@ sudo service psacct restartchkconfig --level 13 psacct on
   - [Github: Security Onion 2.3.10](https://github.com/Security-Onion-Solutions/securityonion)
   - [Security Onion Documentation](https://docs.securityonion.net/en/2.3/index.html) - [pdf](https://buildmedia.readthedocs.org/media/pdf/securityonion/latest/securityonion.pdf)
 - [Sysmon](https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon) - provides detailed information about process creations, network connections, and changes to file creation time.
+  - [cheatsheet](https://github.com/olafhartong/sysmon-cheatsheet)
   - [Ossec Sysmon](https://github.com/Hestat/ossec-sysmon) - A Ruleset to enhance detection capabilities of Ossec using Sysmon.
   - [Sysmon Community Guide by TrustedSec](https://github.com/trustedsec/SysmonCommunityGuide) - TrustedSec Sysinternals Sysmon Community Guide.
   - [Sysmon Modular](https://github.com/olafhartong/sysmon-modular) - A repository of sysmon configuration modules.
