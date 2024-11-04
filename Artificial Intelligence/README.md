@@ -123,6 +123,7 @@ _Convolutional neural networks power image recognition and computer vision tasks
 - [Instruct-pix2pix](https://github.com/timothybrooks/instruct-pix2pix) - null
 - [Multimodal-GPT](https://github.com/open-mmlab/Multimodal-GPT) - Multimodal-GPT
 - [Omost](https://github.com/lllyasviel/Omost) - Your image is almost there!
+- [PromptFix](https://github.com/yeates/PromptFix) - You Prompt and We Fix the Photo 
 - [Stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
   - [Stable-diffusion-docker](https://github.com/fboulnois/stable-diffusion-docker) - Runs the official Stable Diffusion release in a Docker container.
 - [vizcom.ai](https://vizcom.ai/) - AI creative tools for artists and designers
