@@ -855,6 +855,7 @@ Based on that data, you can find the most popular ones and their alternatives.
       - [Live.amcharts.com](https://live.amcharts.com/)
    - [Bokeh](https://github.com/bokeh/bokeh) - Interactive Data Visualization in the browser, from Python.
    - [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the `<canvas>` tag.
+   - [ChartDB](https://github.com/chartdb/chartdb) - Free and open-source database diagrams editor, visualize and design your DB with a single query. 
    - [Chartify](https://github.com/spotify/chartify) - Python library that makes it easy for data scientists to create charts.
    - [Chartist.js](https://github.com/gionkunz/chartist-js) - Simple responsive charts.
    - [Cloud.smartdraw.com](https://cloud.smartdraw.com)
