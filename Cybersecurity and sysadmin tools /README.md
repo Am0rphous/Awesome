@@ -1085,6 +1085,7 @@ pip freeze --local | Select-String -NotMatch '^-e' | ForEach-Object { $_.ToStrin
   
 
   #### Linux Hardening Guides
+  - [26 Security Hardening Tips for Modern Linux Servers](https://www.tecmint.com/linux-server-hardening-security-tips/)
   - [40 Linux Server Hardening Security Tips (2019 edition)](https://www.cyberciti.biz/tips/linux-security.html)
   - [Debian-cis](https://github.com/ovh/debian-cis) - PCI-DSS compliant Debian 9/10 hardening.
   - [Guide to Deploying Diffie-Hellman for TLS](https://weakdh.org/sysadmin.html)
