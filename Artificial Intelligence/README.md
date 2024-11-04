@@ -122,6 +122,7 @@ _Convolutional neural networks power image recognition and computer vision tasks
 - [ImageAI](https://github.com/OlafenwaMoses/ImageAI) - A python library built to empower developers to build applications and systems with self-contained Computer Vision capabilities.
   - [ImageAIDocumentation](https://github.com/OlafenwaMoses/ImageAIDocumentation) - Official English Documentation of ImageAI.
 - [Instruct-pix2pix](https://github.com/timothybrooks/instruct-pix2pix) - null
+- [LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life! 
 - [Multimodal-GPT](https://github.com/open-mmlab/Multimodal-GPT) - Multimodal-GPT
 - [Omost](https://github.com/lllyasviel/Omost) - Your image is almost there!
 - [PromptFix](https://github.com/yeates/PromptFix) - You Prompt and We Fix the Photo 
