@@ -557,12 +557,15 @@ Snort -c /etc/snort/rules/local.rules -v -A console    #Use Snort rules without 
 
 
 ### Firewall
+- [Guarddog](https://www.linuxlinks.com/guarddog/) - firewall generation/management utility.
+- [fwbuilder](https://fwbuilder.sourceforge.net/)
 - [HiddenWall](https://github.com/CoolerVoid/HiddenWall) - Tool to generate a Linux kernel module for custom rules with Netfilter hooking. (block ports, Hidden mode, firewall functionst).
-- iptables
+- [iptables](https://www.netfilter.org/projects/iptables/index.html)
   - [iptables-essentials](https://github.com/trimstray/iptables-essentials) -  Iptables Essentials: Common Firewall Rules and Commands.
 - [OpenSnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
-- [UFW - Uncomplicated Firewall]()
+- [Ufw](https://code.launchpad.net/ufw) - Uncomplicated Firewall
   - [Block Visitors by Country with ‘ufw’](https://minnmyatsoe.com/2019/02/21/ubuntu-how-to-block-visitors-by-country-with-ufw/)
+  - [Gufw](https://github.com/costales/gufw) - Graphical ufw
 
 ### Port Knocking
 - [knockknock](https://github.com/moxie0/knockknock) - A simple, secure, and stealthy port knocking implementation that does not use libpcap or bind to a socket interface. 
