@@ -6,6 +6,7 @@
 - [The_Holy_Book_of_X86](https://github.com/Captainarash/The_Holy_Book_of_X86) - A simple guide to x86 architecture, assembly, memory management, paging, segmentation, SMM, BIOS....
 - [x86-64 Assembly Language Summary](https://docs.google.com/document/d/1hwABu-SL6u2cdhVkjOCUU6T0UyALujep1NfwYfQzWSo/edit#)
 - [x86 Assembly Guide](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
+- [X86-assembly-cheat](https://github.com/cirosantilli/x86-assembly-cheat)
 - [x86 Instructions](https://www.aldeid.com/wiki/X86-assembly/Instructions)
 - [x86 Reference](https://github.com/Barebit/x86reference) - X86 Opcode and Instruction Reference: [http://ref.x86asm.net](http://ref.x86asm.net)
 
