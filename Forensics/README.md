@@ -82,6 +82,8 @@
 
 ## Evidence collection 
 - [AutoLLR](https://github.com/Dead-Simple-Scripts/AutoLLR) - Script to automate Linux live evidence collection.
+- [CyberPipe](https://github.com/dwmetz/CyberPipe) - An easy to use PowerShell script to collect memory and disk forensics for DFIR investigations.
+
 
 ## File Analysis
 - [Debsums](https://manpages.ubuntu.com/manpages/trusty/man1/debsums.1.html) - check the MD5 sums of installed Debian packages.
