@@ -6,7 +6,6 @@
 - [1. OS dedicated for gaming](#1-os-dedicated-for-gaming)
 - [2. Gaming on Linux](#2-gaming-on-linux)
   - [Games](#games)
-  - [Serving](#serving)
 - [3. Peripherals & Hardware](#3-peripherals--hardware)
 - [4. Various links](#4-various-links)
 
@@ -31,9 +30,11 @@
 - [GameMode](https://github.com/FeralInteractive/gamemode) - Optimise Linux system performance on demand
 - [gamingonlinux.com](https://www.gamingonlinux.com/)
   - [Statistics](https://www.gamingonlinux.com/users/statistics/)
+- [Linux Game Server Managers](https://linuxgsm.com/) - The command-line tool for quick, simple deployment and management of Linux dedicated game servers.
 - [Lutris](https://github.com/lutris/lutris) - Open Source gaming platform for GNU/Linux. [lutris.net](https://lutris.net/)
-- [moonlight-stream.org ](https://moonlight-stream.org/) - " Moonlight allows you to play your PC games on almost any device, whether you're in another room or miles away from your gaming rig."
+- [Moonlight](https://moonlight-stream.org/) - " Moonlight allows you to play your PC games on almost any device, whether you're in another room or miles away from your gaming rig."
   - [Moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
+  - [Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
 - [Phoenicis PlayOnLinux](https://github.com/PhoenicisOrg/phoenicis) - Software which allows you to easily install and use numerous games and apps designed to run with Windows. [phoenicis.org](https://phoenicis.org/)
 - [Play.it](https://forge.dotslashplay.it/play.it) - an easy way to install commercial games on GNU/Linux - [Downloads](https://forge.dotslashplay.it/play.it/downloads)
   - [play.it library and wrapper](https://forge.dotslashplay.it/play.it/scripts) - This is the main repository, providing ./play.it library and the "play.it" command.
@@ -97,10 +98,6 @@
   ````
    - [Veloren](https://github.com/veloren/veloren) - An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.
    - [Warsow - Warsow is Art of Respect and Sportsmanship Over the Web](https://warsow.net/) - Since 2005, Warsow is considered as one of the most skill-demanding games in the fast-paced arena shooter scene.[Discord](https://discord.com/invite/Z9UgZZM)
-
-  ### Serving
-  - [Linux Game Server Managers](https://linuxgsm.com/) - The command-line tool for quick, simple deployment and management of Linux dedicated game servers.
-
 
 ## 3. Peripherals & Hardware
 - [AntiMicro](https://github.com/AntiMicro/antimicro) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
