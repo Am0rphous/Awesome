@@ -71,6 +71,7 @@
   ````
    - [BFHD PRO II - Patch G2 (Gold)](https://www.moddb.com/mods/battlefield-hd-remastered-3/downloads/bfhd-pro-ii-patch-g-gold) - (wine/winetriks) Battlefield Remastered 3.0 has finally has gone gold after a 2 years development.
    - [Endless Sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game. https://endless-sky.github.io/
+   - [Enlisted](https://store.steampowered.com/app/2051620/Enlisted/) - Free FPS - nice one 
    - [Free Games by The Drakelings Community](https://drakelings.bluedrake42.com/index.php?/category/1-free-games/)
    - [gamejolt.com](https://gamejolt.com) - Hosting free and commercial indie games.
    - [Itch.io](https://itch.io/) - Collection of some of the most unique, interesting, and independent creations you'll find on the web.
@@ -96,7 +97,8 @@
   cd UrbanTerror434_full
   ./Quake3-UrT.x86_64
   ````
-   - [Veloren](https://github.com/veloren/veloren) - An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page.
+   - [Veloren](https://github.com/veloren/veloren) - An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World.
+   - [WarkFork](https://store.steampowered.com/app/671610/Warfork/) - Free FPS
    - [Warsow - Warsow is Art of Respect and Sportsmanship Over the Web](https://warsow.net/) - Since 2005, Warsow is considered as one of the most skill-demanding games in the fast-paced arena shooter scene.[Discord](https://discord.com/invite/Z9UgZZM)
 
 ## 3. Peripherals & Hardware
