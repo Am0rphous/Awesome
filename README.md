@@ -355,12 +355,14 @@ Communicate clearly <br>
 ## Desktop Customization
 
 - [Conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X
-- [Conky-Colors](https://github.com/helmuthdu/conky_colors) - easier way to configure Conky.
+  - [Conky-Colors](https://github.com/helmuthdu/conky_colors) - easier way to configure Conky.
+  - [Config example](https://linuxconfig.org/system-monitoring-on-ubuntu-18-04-linux-with-conky)
 - [Dash to Dock](https://github.com/micheleg/dash-to-dock) - A dock for the Gnome Shell. This extension moves the dash out of the overview transforming it in a dock for an easier launching of applications and a faster switching between windows and desktops. 
 - [Docky](https://gitlab.com/docky-dock-app-linux/docky) - Docky is a full fledged dock application that makes opening common applications and managing windows easier and quicker. The official project is abandoned, so we forked it to keep the project alive.
 - [GKrellM](http://gkrellm.srcbox.net/) - single process stack of system monitors.
 - Gnome
-- [Extension Manager](https://github.com/mjakeman/extension-manager) - A utility for browsing and installing GNOME Shell Extensions. 
+  - [Change login background](https://iseelondoniseefrance.azurewebsites.net/2019/03/11/ubuntu-18-04-lts-changing-the-login-screen-background/)
+  - [Extension Manager](https://github.com/mjakeman/extension-manager) - A utility for browsing and installing GNOME Shell Extensions. 
   - [Gdm-settings](https://github.com/gdm-settings/gdm-settings) - A settings app for GNOME's Login Manager, GDM 
 - [Hardcode-Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - Fixes Hardcoded tray icons in Linux.
 - [Hypr](https://github.com/hyprwm/Hypr) - Hypr is a tiling window manager written in modern C++. 
