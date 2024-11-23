@@ -925,6 +925,7 @@ Based on that data, you can find the most popular ones and their alternatives.
        - [Invidious Instances](https://docs.invidious.io/instances/)
        - [Tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
      - [LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
+     - [PipePipe](https://github.com/InfinityLoop1308/PipePipe) - A FLOSS Android app to let you browse YouTube, NicoNico and BiliBili freely.
 
 
   ### Media Servers
