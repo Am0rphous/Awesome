@@ -1461,6 +1461,7 @@ pip freeze --local | Select-String -NotMatch '^-e' | ForEach-Object { $_.ToStrin
    - [Looking Glass](https://looking-glass.io/) - Looking Glass is an open source application that allows the use of a KVM (Kernel-based Virtual Machine) configured for VGA PCI Pass-through without an attached physical monitor, keyboard or mouse. This is the final step required to move away from dual booting with other operating systems for legacy programs that require high performance graphics.
    - [Virt-manager](https://virt-manager.org/) - The virt-manager application is a desktop user interface for managing virtual machines through libvirt. It primarily targets KVM VMs, but also manages Xen and LXC (linux containers).
    - [Vmmaestro](https://github.com/mzch/vmmaestro) - Tiny control wrapper for KVM.
+ - [Lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 - [MacVM](https://github.com/KhaosT/MacVM) - macOS VM for Apple Silicon using Virtualization API 
 - [Microvm.nix](https://github.com/astro/microvm.nix) - NixOS MicroVMs
 - [Multipass](https://ubuntu.com/server/docs/virtualization-multipass) - Instant Ubuntu VMs (Windows, macOS and Linux)
