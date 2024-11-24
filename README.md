@@ -1007,6 +1007,7 @@ Based on that data, you can find the most popular ones and their alternatives.
     - [Qtractor](https://www.qtractor.org/)
     - [REAPER](https://www.reaper.fm/)
     - [Rosegarden](https://www.rosegardenmusic.com/) - Rosegarden is a music composition and editing environment based around a MIDI sequencer that features a rich understanding of music notation and includes basic support for digital audio.
+    - [Sonobus](https://github.com/sonosaurus/sonobus) - Source code for SonoBus, a real-time network audio streaming collaboration tool.
     - [SoX - Sound eXchange](http://sox.sourceforge.net/Main/HomePage) - Swiss Army knife of sound processing programs.
     - [Waveform](https://www.tracktion.com/products/waveform-free)
     - [ZRYTHM](https://www.zrythm.org/en/index.html)
