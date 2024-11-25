@@ -1198,6 +1198,7 @@ that works on top of your local folder of plain text files. [github](https://git
 - [Caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app.
   - [Facebook-Messenger-Statistics](https://github.com/simonwongwong/Facebook-Messenger-Statistics) - Discover fun stats about your Facebook Messenger usage such as: most used words, most active year, most active hours, etc. using this Jupyter Notebook
 - [Diaspora](https://github.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network.
+- [postiz-app ](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI 🤖 
 - [Profile Pic Maker](https://pfpmaker.com/) - Make an awesome profile picture from any photo 
 
   ### Images
