@@ -173,7 +173,7 @@ bro / zeek
   - [Pihole-influxdb-monitor](https://github.com/avojak/pihole-influxdb-monitor) - Export Pi-hole statistics to InfluxDB 2.x
 
 - [SpamCop](https://www.spamcop.net) - SpamCop is the premier service for reporting spam. SpamCop determines the origin of unwanted email and reports it to the relevant Internet service providers.
-
+- [Zen](https://github.com/anfragment/zen) - Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux 
 
   ### Blocklists
   - [AdGuard](https://github.com/AdguardTeam/AdguardHome) - Network-wide ads & trackers blocking DNS server.
