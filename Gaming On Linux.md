@@ -108,6 +108,7 @@
 - [Hardware for Linux Trends](https://linux-hardware.org/?view=trends)
   - [Trends by linuxhw](https://github.com/linuxhw/Trends)
   - [PCI passthrough via OVMF](https://wiki.archlinux.org/title/PCI_passthrough_via_OVMF) - Arch wiki
+- [Liquidctl](https://github.com/liquidctl/liquidctl) - Cross-platform CLI and Python drivers for AIO liquid coolers and other devices
 - [Piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices.
 - Razer
   - [OpenRazer](https://openrazer.github.io/) - Open source driver and user-space daemon that allows you to manage your Razer peripherals on GNU/Linux. [openrazer.github.io/#ubuntu](https://openrazer.github.io/#ubuntu)
