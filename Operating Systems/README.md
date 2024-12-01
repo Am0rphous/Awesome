@@ -48,6 +48,7 @@ _Considering key questions:_
     - [ AtlasOS 20H2 v0.5.2 ](https://archive.org/details/atlasos-20h2)
   - [Tiny10](https://archive.org/details/tiny-10_202301) - (Lightweight Windows 10)
   - [Article in Medium: How Bullshit Has Dominated The Tech Industry](https://medium.com/@fulalas/how-bullshit-has-dominated-the-tech-industry-bc63257f2a91) - Go down to _"Microsoft is perhaps unbeatable in this regard"_
+  - [ReactOS](https://reactos.org/) - ReactOS is a free and open-source operating system that looks like Windows and is able to run both Windows software and drivers.
   - [Windows 10 ISO](https://www.microsoft.com/en-us/software-download/windows10ISO) - Officially by Microsoft
   - [Windows vm notes](https://github.com/infokiller/win10-vm) - Windows 10/11 VM on Linux (QEMU/libvirt/KVM) with Secure Boot, BitLocker, and good performance
   - [Windows in a Docker containe](https://github.com/dockur/windows) - Windows in a Docker container.
