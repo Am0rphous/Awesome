@@ -887,8 +887,9 @@ Based on that data, you can find the most popular ones and their alternatives.
    - [SciChart.js ](https://github.com/ABTSoftware/SciChart.JS.Examples) - JavaScript Chart Examples Suite.
    - [tldraw.com](https://www.tldraw.com) - a very good whiteboard. [source](https://github.com/tldraw/tldraw)
    - [Vega](https://github.com/vega/vega) - A visualization grammar.
+   - [VOSViewer](https://www.vosviewer.com/) - VOSviewer is a software tool for constructing and visualizing bibliometric networks.
    - [www.jqplot.com](http://www.jqplot.com) - jqPlot is a plotting and charting plugin for the jQuery Javascript framework. jqPlot produces beautiful line, bar and pie charts with many features.
-   - [yEd Graph Editor](https://www.yworks.com/products/yed) - Powerful desktop application that can be used to quickly and effectively generate high-quality diagrams.
+   - [YEd Graph Editor](https://www.yworks.com/products/yed) - Powerful desktop application that can be used to quickly and effectively generate high-quality diagrams.
    
   ### Video
    - [Asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
