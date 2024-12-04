@@ -7,6 +7,7 @@ Table of content
 - [Coding](#coding)
 - [Face / Emotions](#face--emotions)
 - [Convolutional neural network](#convolutional-neural-network)
+- [Games](#games)
 - [Image](#image)
 - [LLMs - Large Language Models](#llms---large-language-models)
 - [Tensorflow](#Tensorflow)
@@ -111,6 +112,8 @@ _Convolutional neural networks power image recognition and computer vision tasks
 - [Eyeballer](https://github.com/BishopFox/eyeballer) - Eyeballer is meant for large-scope network penetration tests where you need to find "interesting" targets from a huge set of web-based hosts. Go ahead and use your favorite screenshotting tool like normal (EyeWitness or GoWitness) and then run them through Eyeballer to tell you what's likely to contain vulnerabilities, and what isn't.
 - [instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives: lightning fast NeRF and more
 
+## Games
+- [The Story of Freysa](https://github.com/0xfreysa/agent) - A global challenge emerged: could human ingenuity find a way to convince an AGI to act against its core directives? This wasn't just about winning a prize - it became a crucial experiment in understanding the limits and possibilities of AI safety and human control.
 
 ## Image
 - [Bringing-Old-Photos-Back-to-Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life) - Bringing Old Photo Back to Life (CVPR 2020 oral)
