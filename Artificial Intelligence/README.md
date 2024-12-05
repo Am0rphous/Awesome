@@ -121,7 +121,7 @@ _Convolutional neural networks power image recognition and computer vision tasks
 - [Dalle-flow](https://github.com/jina-ai/dalle-flow) - 🌊 A Human-in-the-Loop workflow for creating HD images from text
 - [Dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 - [Deep_privacy2](https://github.com/hukkelas/deep_privacy2) - DeepPrivacy2 - A Toolbox for Realistic Image Anonymization
-
+- [Flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models 
 - [ImageAI](https://github.com/OlafenwaMoses/ImageAI) - A python library built to empower developers to build applications and systems with self-contained Computer Vision capabilities.
   - [ImageAIDocumentation](https://github.com/OlafenwaMoses/ImageAIDocumentation) - Official English Documentation of ImageAI.
 - [Instruct-pix2pix](https://github.com/timothybrooks/instruct-pix2pix) - null
@@ -130,8 +130,9 @@ _Convolutional neural networks power image recognition and computer vision tasks
 - [Omost](https://github.com/lllyasviel/Omost) - Your image is almost there!
 - [PromptFix](https://github.com/yeates/PromptFix) - You Prompt and We Fix the Photo 
 - [Rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background 
-- [Stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
+- [Stable-diffusion - CompVis](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
   - [Stable-diffusion-docker](https://github.com/fboulnois/stable-diffusion-docker) - Runs the official Stable Diffusion release in a Docker container.
+- [stablediffusion- Stability-AI](https://github.com/Stability-AI/stablediffusion) -Image 
 - [vizcom.ai](https://vizcom.ai/) - AI creative tools for artists and designers
 
 
