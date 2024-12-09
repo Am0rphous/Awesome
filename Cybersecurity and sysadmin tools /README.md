@@ -480,6 +480,7 @@ bro / zeek
 - [Surge - P2P on steroids ](https://github.com/rule110-io/surge) - Surge is a p2p filesharing app designed to utilize blockchain technologies to enable 100% anonymous file transfers. Surge is end-to-end encrypted, decentralized and open source.
 - [Updog](https://github.com/sc0tfree/updog) - Updog is a replacement for Python's SimpleHTTPServer. It allows uploading and downloading via HTTP/S, can set ad hoc SSL certificates and use http basic auth.
 - [Warpinator](https://github.com/linuxmint/warpinator) - Share files across the LAN.
+- [Wing FTP Server](https://www.wftpserver.com/) - Wing FTP Server is an easy-to-use, powerful, and free FTP server software for Windows, Linux, and Mac OS. It supports multiple file transfer protocols, including FTP, FTPS, HTTP, HTTPS, and SFTP, giving your clients flexibility in how they connect to the server. And it provides admins with a web-based interface to administrate the server from anywhere. You can also monitor server performance and online sessions and even receive email notifications about various events taking place on the server. 
 - [Yarsync](https://github.com/ynikitenko/yarsync) - Yet Another Rsync: synchronize files between Linux systems.
 
 
