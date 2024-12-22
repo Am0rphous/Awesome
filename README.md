@@ -1261,6 +1261,7 @@ that works on top of your local folder of plain text files. [github](https://git
   - [SuperHexEditor](https://github.com/philipxyc/SuperHexEditor) - A powerful and open source Hex Editor for Windows10.
   - [wxHexEditor](https://github.com/EUA/wxHexEditor) - [www.wxhexeditor.org](http://www.wxhexeditor.org/) - `sudo apt install wxhexeditor` (can look at disks!)
   ### Linux Tools
+  - [Gear Lever](https://github.com/mijorus/gearlever) - Manage AppImages with ease 📦 
   - [Light - A program to control backlights (and other hardware lights) in GNU/Linux](https://github.com/haikarainen/light) - GNU/Linux application to control backlights 
   - [Linux Surface](https://github.com/linux-surface/linux-surface) - Linux Kernel for Surface Devices.
   - [Lisa19 - Linux Terminal Tools](https://github.com/ketancmaheshwari/lisa19) - Linux Terminal Tools. PDF slides.
