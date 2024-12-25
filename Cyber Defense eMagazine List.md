@@ -22,14 +22,16 @@ for ((year=2010;year<=END;year++)); do
     #we need a month with big capital
     capitalMonth="${element^}"
     
-    #prepares the link with different variables
+    #prepares the link with different variables.
     link=https://www.cyberdefensemagazine.com/newsletters/$element-$year/CDM-CYBER-DEFENSE-eMAGAZINE-$capitalMonth-$year.pdf
+    #new modern link
+    #link=https://www.cyberdefensemagazine.com/newsletters/$element-$year/files/downloads/CDM-CYBER-DEFENSE-eMAGAZINE-$capitalMonth-$year.pdf
 
-    #saves the status code to determine if it's reachable (http/2 200)
-    httpStatusCode=$(curl -is $link|head -n 1)
+    #saves the status code
+    HTTPStatusCode=$(curl -is $link|head -n 1)
 
     #checks if the status contains the code 200 which means it is reachable
-    if [[ $httpStatusCode == *"HTTP/2 200"* ]]; then
+    if [[ $HTTPStatusCode == *"HTTP/2 200"* ]]; then
       echo -e "${GREEN}- [$capitalMonth]($link)${NORMAL}"
       #if you want to download the pdfs, uncomment the line below
       #wget $link
@@ -46,10 +48,12 @@ done
 ````
  </details>
 
-
+## 2024
+- [January](https://www.cyberdefensemagazine.com/newsletters/january-2024/CDM-CYBER-DEFENSE-eMAGAZINE-January-2024.pdf)
 
 ## 2023
 - [May](https://www.cyberdefensemagazine.com/newsletters/may-2023/files/downloads/CDM-CYBER-DEFENSE-eMAGAZINE-May-2023.pdf)
+- [October](https://www.cyberdefensemagazine.com/newsletters/october-2023/CDM-CYBER-DEFENSE-eMAGAZINE-October-2023.pdf)
 
 ## 2022
 - [January (pdf)](https://www.cyberdefensemagazine.com/newsletters/january-2022/CDM-CYBER-DEFENSE-eMAGAZINE-January-2022.pdf) 
