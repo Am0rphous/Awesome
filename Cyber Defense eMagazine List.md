@@ -1,7 +1,7 @@
 # Cyber Defense eMagazine List
 
 <details>
-<summary> Script to check which magazines from 2010-23 exists (Click to expand)</summary><br>
+<summary> Script to check which magazines from 2010-24 exists (Click to expand)</summary><br>
   
   ````
 #!/bin/bash
@@ -35,8 +35,8 @@ for ((year=2010;year<=END;year++)); do
       #wget $link
       
     else
-      #I like to display the links that doesn't work, but you might just comment this out to make output 'clean'
-      echo -e "${RED}$link ${NORMAL}"
+      #Show links that doesn't work
+      echo -e "[x] ${RED}$link ${NORMAL}"
     fi
 
   done #end of 'element in list loop'
