@@ -33,6 +33,9 @@
 - [TypeDB Data - CTI](https://github.com/typedb-osi/typedb-data-cti) - Knowledge Graph for Cyber Threat Intelligence with TypeDB.
 - [VTI-Cosplay](https://github.com/r00tten/VTI-Cosplay) - vti-cosplay is a solution to the problem due to the lack of a Virustotal Enterprise license. First, it parses the YARA rule, maps each atomic entry to Virustotal API endpoints, and merges individual results. Subsequently, it mimics the YARA scan on the Virustotal platform.
 
+## Attack dashboards
+- [Shadowserver Dashboard](https://dashboard.shadowserver.org/statistics/combined/map/?map_type=std&day=2024-10-12&source=http_vulnerable&source=http_vulnerable6&tag=cve-2024-23113%2B&geo=all&data_set=count&scale=log)
+
 ## Threat Intel Platforms
 - [Best Open Source Threat Intelligence Platforms and Feeds](https://www.zenarmor.com/docs/network-security-tutorials/best-open-source-threat-intelligence-platforms-and-feeds)
 - [Intel Owl](https://github.com/intelowlproject/IntelOwl) - Intel Owl: analyze files, domains, IPs in multiple ways from a single API at scale 
