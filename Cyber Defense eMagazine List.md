@@ -49,11 +49,30 @@ done
  </details>
 
 ## 2024
-- [January](https://www.cyberdefensemagazine.com/newsletters/january-2024/CDM-CYBER-DEFENSE-eMAGAZINE-January-2024.pdf)
+- [January](https://www.cyberdefensemagazine.com/newsletters/january-2024/files/downloads/CDM-CYBER-DEFENSE-eMAGAZINE-January-2024.pdf)
+- [February](https://www.cyberdefensemagazine.com/newsletters/february-2024/files/downloads/CDM-CYBER-DEFENSE-eMAGAZINE-February-2024.pdf)
+- [March](https://www.cyberdefensemagazine.com/newsletters/march-2024/files/downloads/CDM-CYBER-DEFENSE-eMAGAZINE-March-2024.pdf)
+- [April](https://www.cyberdefensemagazine.com/newsletters/april-2024/files/downloads/CDM-CYBER-DEFENSE-eMAGAZINE-April-2024.pdf)
+- [June](https://www.cyberdefensemagazine.com/newsletters/june-2024/files/downloads/CDM-CYBER-DEFENSE-eMAGAZINE-June-2024.pdf)
+- [July](https://www.cyberdefensemagazine.com/newsletters/july-2024/files/downloads/CDM-CYBER-DEFENSE-eMAGAZINE-July-2024.pdf)
+- [August](https://www.cyberdefensemagazine.com/newsletters/august-2024/files/downloads/CDM-CYBER-DEFENSE-eMAGAZINE-August-2024.pdf)
+- [September](https://www.cyberdefensemagazine.com/newsletters/september-2024/files/downloads/CDM-CYBER-DEFENSE-eMAGAZINE-September-2024.pdf)
+- [October](https://www.cyberdefensemagazine.com/newsletters/october-2024/files/downloads/CDM-CYBER-DEFENSE-eMAGAZINE-October-2024.pdf)
+- [November](https://www.cyberdefensemagazine.com/newsletters/november-2024/files/downloads/CDM-CYBER-DEFENSE-eMAGAZINE-November-2024.pdf)
+- [December](https://www.cyberdefensemagazine.com/newsletters/december-2024/files/downloads/CDM-CYBER-DEFENSE-eMAGAZINE-December-2024.pdf)
 
 ## 2023
+- [January](https://www.cyberdefensemagazine.com/newsletters/january-2023/files/downloads/CDM-CYBER-DEFENSE-eMAGAZINE-January-2023.pdf)
+- [February](https://www.cyberdefensemagazine.com/newsletters/february-2023/files/downloads/CDM-CYBER-DEFENSE-eMAGAZINE-February-2023.pdf)
+- [March](https://www.cyberdefensemagazine.com/newsletters/march-2023/files/downloads/CDM-CYBER-DEFENSE-eMAGAZINE-March-2023.pdf)
 - [May](https://www.cyberdefensemagazine.com/newsletters/may-2023/files/downloads/CDM-CYBER-DEFENSE-eMAGAZINE-May-2023.pdf)
-- [October](https://www.cyberdefensemagazine.com/newsletters/october-2023/CDM-CYBER-DEFENSE-eMAGAZINE-October-2023.pdf)
+- [June](https://www.cyberdefensemagazine.com/newsletters/june-2023/files/downloads/CDM-CYBER-DEFENSE-eMAGAZINE-June-2023.pdf)
+- [July](https://www.cyberdefensemagazine.com/newsletters/july-2023/files/downloads/CDM-CYBER-DEFENSE-eMAGAZINE-July-2023.pdf)
+- [August](https://www.cyberdefensemagazine.com/newsletters/august-2023/files/downloads/CDM-CYBER-DEFENSE-eMAGAZINE-August-2023.pdf)
+- [September](https://www.cyberdefensemagazine.com/newsletters/september-2023/files/downloads/CDM-CYBER-DEFENSE-eMAGAZINE-September-2023.pdf)
+- [October](https://www.cyberdefensemagazine.com/newsletters/october-2023/files/downloads/CDM-CYBER-DEFENSE-eMAGAZINE-October-2023.pdf)
+- [November](https://www.cyberdefensemagazine.com/newsletters/november-2023/files/downloads/CDM-CYBER-DEFENSE-eMAGAZINE-November-2023.pdf)
+- [December](https://www.cyberdefensemagazine.com/newsletters/december-2023/files/downloads/CDM-CYBER-DEFENSE-eMAGAZINE-December-2023.pdf)
 
 ## 2022
 - [January (pdf)](https://www.cyberdefensemagazine.com/newsletters/january-2022/CDM-CYBER-DEFENSE-eMAGAZINE-January-2022.pdf) 
@@ -64,7 +83,9 @@ done
 - [July (pdf)](https://www.cyberdefensemagazine.com/newsletters/july-2022/CDM-CYBER-DEFENSE-eMAGAZINE-July-2022.pdf) 
 - [August (pdf)](https://www.cyberdefensemagazine.com/newsletters/august-2022/CDM-CYBER-DEFENSE-eMAGAZINE-August-2022.pdf) 
 - [September (pdf)](https://www.cyberdefensemagazine.com/newsletters/september-2022/CDM-CYBER-DEFENSE-eMAGAZINE-September-2022.pdf) 
-- [October (pdf)](https://www.cyberdefensemagazine.com/newsletters/october-2022/CDM-CYBER-DEFENSE-eMAGAZINE-October-2022.pdf) 
+- [October (pdf)](https://www.cyberdefensemagazine.com/newsletters/october-2022/CDM-CYBER-DEFENSE-eMAGAZINE-October-2022.pdf)
+- [November](https://www.cyberdefensemagazine.com/newsletters/november-2022/files/downloads/CDM-CYBER-DEFENSE-eMAGAZINE-November-2022.pdf)
+- [December](https://www.cyberdefensemagazine.com/newsletters/december-2022/files/downloads/CDM-CYBER-DEFENSE-eMAGAZINE-December-2022.pdf)
 
 ## 2021
 - [January (pdf)](https://www.cyberdefensemagazine.com/newsletters/january-2021/CDM-CYBER-DEFENSE-eMAGAZINE-January-2021.pdf) 
