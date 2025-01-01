@@ -726,6 +726,8 @@ sudo service psacct restartchkconfig --level 13 psacct on
 - [DAWN](https://github.com/berlin-open-wireless-lab/DAWN) - Decentralized WiFi Controller
 - [Egress-Assess](https://github.com/FortyNorthSecurity/Egress-Assess) - Egress-Assess is a tool used to test egress data detection capabilities.
 - [Flare-fakenet-ng](https://github.com/fireeye/flare-fakenet-ng) - Next Generation Dynamic Network Analysis Tool.
+- RADIUS - "Remote Authentication Dial-In User Service is a networking protocol that provides centralized authentication, authorization, and accounting management for users who connect and use a network service."
+  - [Freeradius-server](https://github.com/FreeRADIUS/freeradius-server) - [FreeRADIUS](https://www.freeradius.org/) - A multi-protocol policy server.
 - [GNs3-server](https://github.com/GNS3/gns3-server) - The GNS3 server manages emulators such as Dynamips, VirtualBox or Qemu/KVM. [www.gns3.com](https://www.gns3.com)
   - [GNs3-gui](https://github.com/GNS3/gns3-gui) - GNS3 Graphical Network Simulator.
 - [Go-netstat](https://github.com/cakturk/go-netstat) - A netstat implementation written in Go.
