@@ -246,6 +246,7 @@ distribution into a Live Kit (formely known as Live CD).
 - [Asuswrt-merlin.ng](https://github.com/RMerl/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase). [www.asuswrt-merlin.net](https://www.asuswrt-merlin.net)
 - [BSD Router](https://bsdrp.net) - Free open source software router distribution based on embedded FreeBSD.
 - [DD-WRT - https://dd-wrt.com)](https://dd-wrt.com) - DD-WRT is a Linux based alternative OpenSource firmware suitable for a great variety of WLAN routers and embedded systems. [Source code](https://github.com/mirror/dd-wrt), [logs](https://svn.dd-wrt.com/log/), [timeline](https://svn.dd-wrt.com/timeline)
+  - [DD-WRT Companion Android app](https://github.com/lemra-org/router-companion-android) - DD-WRT Companion for mobile devices.
   - [dd-wrt demo](https://forum.dd-wrt.com/demo/)
   - [dd-wrt download](https://ftp.dd-wrt.com/dd-wrtv2/downloads/betas/)
     - For x86 or x64 firmware, go all the way down. [x86 Wiki](https://wiki.dd-wrt.com/wiki/index.php/X86)
@@ -263,7 +264,8 @@ distribution into a Live Kit (formely known as Live CD).
 - [OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux
 
 - [OpenWrt](https://openwrt.org) - OpenWrt is an open source project for embedded operating systems based on Linux, primarily used on embedded devices to route network traffic.
-  - [Table of Hardware: Firmware downloads](https://openwrt.org/toh/views/toh_fwdownload) - table shows firmware download urls for all devices listed in the Table of Hardware.
+  - [Firmware downloads](https://openwrt.org/toh/views/toh_fwdownload) - table shows firmware download urls for all devices listed in the Table of Hardware.
+  - [OpenWRT Manager](https://github.com/hagaygo/OpenWRTManager) - Mobile app for interacting with your OpenWrt device.
 - [OPNsense](https://opnsense.org) - Open source, easy-to-use and easy-to-build HardenedBSD based firewall and routing platform. 
   - [Plugins](https://github.com/opnsense/plugins) - OPNsense plugin collection.
 - [PFelk](https://github.com/pfelk/pfelk) - pfSense/OPNsense + Elastic Stack
