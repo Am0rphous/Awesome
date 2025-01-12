@@ -981,6 +981,7 @@ pip freeze --local | Select-String -NotMatch '^-e' | ForEach-Object { $_.ToStrin
 
 ### Finding Software
 - [Bitnami by VMware](https://bitnami.com/)
+- [repology.org](https://repology.org) - Repology monitors a huge number of package repositories and other sources comparing packages versions across them and gathering other information.
 
 ## Security Tools
 - [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) - Machine Learning for Cyber Security.
