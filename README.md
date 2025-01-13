@@ -336,8 +336,6 @@ Communicate clearly <br>
   - [GitPrep](http://gitprep.yukikimoto.com/)
   - [GitUI](https://github.com/extrawurst/gitui) - GitUI provides you with the comfort of a git GUI but right in your terminal. Fast terminal-ui for git written in rust.
   - [Jira](https://github.com/teamatldocker/jira) - Dockerized Atlassian Jira
-  - [Logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap 
-    - [Awesome-logseq](https://github.com/logseq/awesome-logseq)
   - [Gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service.
   - [Kallithea](https://kallithea-scm.org/)
   - [Most active GitHub users in Norway](https://commits.top/norway.html)
@@ -1094,13 +1092,17 @@ Based on that data, you can find the most popular ones and their alternatives.
 - [WebCatalog]() - Official WebCatalog app. [webcatalog.io/webcatalog](https://webcatalog.io/webcatalog)
 
   ### Note Taking Apps
+  - [Acreom](https://acreom.com/)
   - [Ao](https://github.com/klaussinani/ao) - Elegant Microsoft To-Do desktop app [klaussinani.github.io/ao](https://klaussinani.github.io/ao).
+  - [capacities](https://capacities.io/) - "Media uploads up to 5 GB total, 100 MB per month afterwards" 
   - [CherryTree](https://github.com/giuspen/cherrytree) - A hierarchical note taking application, featuring rich text and syntax highlighting, storing data in a single XML or SQLite file. The project home page is [giuspen.com/cherrytree](https://www.giuspen.com/cherrytree/)
   - [Etherpad](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
   - [Evernote](https://evernote.com)
     - [NixNote2](https://github.com/baumgarr/Nixnote2) - A clone of Evernote for Linux.
     - [Tusk](https://github.com/klaussinani/tusk) - Refined Evernote desktop app.
   - [Joplin](https://github.com/laurent22/joplin) - An open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: [discourse.joplinapp.org](https://discourse.joplinapp.org)
+  - [Logseq](https://logseq.com) - A privacy-first, [open-source](https://github.com/logseq/logseq platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap 
+     - [Awesome-logseq](https://github.com/logseq/awesome-logseq)
   - [Memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
   - [MindNode](https://mindnode.com/download) - Brainstorm and mind mapping.
     - [Dracula for MindNode](https://github.com/dracula/mindnode) - Dark theme for MindNode.
