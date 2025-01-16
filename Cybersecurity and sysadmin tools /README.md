@@ -608,6 +608,7 @@ sudo service psacct restartchkconfig --level 13 psacct on
 - [Supervisor](https://github.com/Supervisor/supervisor) - Supervisor is a client/server system that allows its users to control a number of processes on UNIX-like operating systems.
 - [Updo](https://github.com/Owloops/updo) - Uptime monitoring CLI tool with alerting and advanced settings
 - [Uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+- [Zabbix](https://www.zabbix.com/) - Free
 
   #### Anomay Detection
   - [Awesome Anomaly Detection by hoya012](https://github.com/hoya012/awesome-anomaly-detection) - A curated list of awesome anomaly detection resources 
