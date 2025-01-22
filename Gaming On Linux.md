@@ -11,7 +11,9 @@
 
 <br>
 
-- [Does anti cheat work for your game? Click here](https://areweanticheatyet.com/) - A comprehensive and crowd-sourced list of games using anti-cheats and their compatibility with GNU/Linux or Wine. 
+- [Does anti cheat work for your game? Click here](https://areweanticheatyet.com/) - A comprehensive and crowd-sourced list of games using anti-cheats and their compatibility with GNU/Linux or Wine.
+- [Pcsx2](https://github.com/PCSX2/pcsx2) - PCSX2 - The Playstation 2 Emulator
+
 
 ## 1. OS dedicated for gaming
 - [ChimeraOS](https://chimeraos.org) - ChimeraOS is an operating system that provides an out of the box couch gaming experience. After installation, boot directly into Steam Big Picture and start playing your favorite games. If you want Steam in your living room, you want ChimeraOS.
