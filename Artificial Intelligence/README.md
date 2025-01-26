@@ -182,6 +182,8 @@ _Convolutional neural networks power image recognition and computer vision tasks
 
 - [NanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [Ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
+  - [Chatbot-ollama](https://github.com/ivanfioravanti/chatbot-ollama) - Chatbot Ollama is an open source chat UI for Ollama.
+
 - [Openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [OpenChatKit](https://github.com/togethercomputer/OpenChatKit)
 - [Open_flamingo](https://github.com/mlfoundations/open_flamingo) - An open-source framework for training large multimodal models
