@@ -52,6 +52,15 @@
 ````
 </details>
 
+### Anti-malware
+- [YouTube video - Free Malware Removal Tools That Actually Work! ](https://www.youtube.com/watch?v=hmrSn9RNnPQ) - uses the ones below
+- [RKill](https://www.bleepingcomputer.com/download/rkill/)
+- [MalwareBytes](http://www.malwarebytes.org) 
+- [HitMan Pro](https://www.bleepingcomputer.com/download/hitmanpro/)
+- [Roguekiller](https://www.bleepingcomputer.com/download/roguekiller/)
+- [Tronscript](https://www.majorgeeks.com/files/details/tron.html)
+
+
 ## Setup stuff
 #### BIOS / UEFI / Bootloaders
 - [Quibble](https://github.com/maharmstone/quibble) - the custom Windows bootloader 
