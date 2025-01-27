@@ -5,6 +5,7 @@
 - [Fibratus](https://github.com/rabbitstack/fibratus) - A modern tool for the Windows kernel exploration and tracing.
 - [HyperPlatform](https://github.com/tandasat/HyperPlatform) - Intel VT-x based hypervisor aiming to provide a thin VM-exit filtering platform on Windows.
 - [MiniVisor](https://github.com/tandasat/MiniVisorPkg) - The research UEFI hypervisor that supports booting an operating system.
+- [Vergilius-project](https://github.com/VergiliusProject/vergilius-project) - This project provides a collection of Microsoft Windows kernel structures, unions and enumerations. Most of them are not officially documented and cannot be found in Windows Driver Kit (WDK) headers. The target audience of this site is driver developers and kernel researches.
 
 
 
