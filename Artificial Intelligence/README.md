@@ -34,6 +34,7 @@ Table of content
 - [AirSim](https://github.com/microsoft/airsim) - Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft.
 - [Awesome-AI](https://github.com/t3l3machus/Awesome-AI) - null
 - [Awesome Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
+- [Awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [CNNArchitectures](https://github.com/OlafenwaMoses/CNNArchitectures) - Code implementation of major Convolutional Neural Networks.
 - [ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making big AI models cheaper, easier, and more scalable
 - [DeepPavlov](https://github.com/deepmipt/DeepPavlov) - An open source library for deep learning end-to-end dialog systems and chatbots.
