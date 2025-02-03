@@ -1278,6 +1278,7 @@ that works on top of your local folder of plain text files. [github](https://git
   - [Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers 
   - [Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
   - [qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client [www.qbittorrent.org](https://www.qbittorrent.org).
+    - [Install search plugins](https://github.com/qbittorrent/search-plugins/wiki/Install-search-plugins)
   - [Trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
   - [Transmission](https://transmissionbt.com/download/)
   
