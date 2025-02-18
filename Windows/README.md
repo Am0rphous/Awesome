@@ -33,6 +33,7 @@
 
 ## Security
 - [EmoCheck](https://github.com/JPCERTCC/EmoCheck) - Emotet detection tool for Windows OS.
+- [ESET SysInspector](https://www.eset.com/us/download/tools-and-utilities/sysinspector/)
 - [HardeningKitty](https://github.com/scipag/HardeningKitty) - Invoke-HardeningKitty - Checks and hardens your Windows configuration.
 - [HashTab](https://hashtab.en.softonic.com/)
 - Secure deletion
