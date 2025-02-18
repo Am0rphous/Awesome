@@ -266,6 +266,8 @@ distribution into a Live Kit (formely known as Live CD).
 - [OpenWrt](https://openwrt.org) - OpenWrt is an open source project for embedded operating systems based on Linux, primarily used on embedded devices to route network traffic.
   - [Firmware downloads](https://openwrt.org/toh/views/toh_fwdownload) - table shows firmware download urls for all devices listed in the Table of Hardware.
   - [OpenWRT Manager](https://github.com/hagaygo/OpenWRTManager) - Mobile app for interacting with your OpenWrt device.
+  - [Netgear-R9000-Build](https://github.com/masmbit/Netgear-R9000-Build) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org
+
 - [OPNsense](https://opnsense.org) - Open source, easy-to-use and easy-to-build HardenedBSD based firewall and routing platform. 
   - [Plugins](https://github.com/opnsense/plugins) - OPNsense plugin collection.
 - [PFelk](https://github.com/pfelk/pfelk) - pfSense/OPNsense + Elastic Stack
