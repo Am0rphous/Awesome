@@ -925,6 +925,8 @@ Based on that data, you can find the most popular ones and their alternatives.
        - [Tubearchivist](https://github.com/tubearchivist/tubearchivist) - Your self hosted YouTube media server
      - [LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
      - [PipePipe](https://github.com/InfinityLoop1308/PipePipe) - A FLOSS Android app to let you browse YouTube, NicoNico and BiliBili freely.
+     - [Youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
+
 
 
   ### Media Servers
