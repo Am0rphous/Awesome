@@ -717,6 +717,7 @@ mv  ~/.config/redshift/redshift.conf ~/.config/redshift.conf   #nov 2024 solutio
   - [Sumatra PDF](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF is a multi-format (PDF, EPUB, MOBI, FB2, CHM, XPS, DjVu) reader for Windows under (A)GPLv3 license, with some code under BSD license (see AUTHORS).
   
   ### Libraries
+  - [open-slum.org](https://open-slum.org) - tracks the availability of popular shadow libraries in real time from a US-based server.
   - [Annas-archive.org](https://annas-archive.org/)
   - [Gutenberg.org](https://gutenberg.org/)
   - [Library Genesis+](https://libgen.li/)
