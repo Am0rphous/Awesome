@@ -6,3 +6,11 @@
  
 -  [To build a webOS OSE image](https://github.com/webosose/build-webos)
 -  [https://www.webosose.org/](https://www.webosose.org/)
+
+
+## IP-TV
+- [FreeTuxTV](https://github.com/freetuxtv/freetuxtv/) - FreetuxTV Internet television and radio player.
+- [IPTV - iptv-org](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world.
+- [IPTV - Free-TV](https://github.com/Free-TV/IPTV) - M3U Playlist for free TV channels
+
+- [IPTVx](https://github.com/jankammerath/iptvx) - IPTV player and streamer for Linux that allows to play any stream that LibVLC can play, offers an overlay based on WebKit using HTML5, JavaScript and CSS and uses XMLTV data for EPG information. It allows the playback of URLs, files and can grab URLs from shell scripts. XMLTV EPG data can be downloaded from URLs or grabbed from shell scripts.
