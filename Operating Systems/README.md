@@ -42,6 +42,7 @@ _Considering key questions:_
 
 ## A list of web resources
 - [Archiveos.org](https://archiveos.org) - Arhive of Operating Systems with Linux, BSD, DOS, Solaris and others.
+- [Distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox
 - [DistroWatch.com](https://distrowatch.com) - Insane amount of various distros.
 - [Don't use Windows 10 - It's a privacy nightmare](https://www.privacytools.io/operating-systems/#win10)
   - If you need Windows then check out [AtlasOS](https://github.com/Atlas-OS/Atlas) - _An open source modification of the Windows 10 operating system, designed to optimize performance, and latency._
