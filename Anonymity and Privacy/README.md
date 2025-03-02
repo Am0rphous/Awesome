@@ -52,6 +52,7 @@
 - [Awesome-privacy - pluja](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [FreeNet Project](https://freenetproject.org)
 - [HiddenVM](https://github.com/aforensics/HiddenVM) - HiddenVM — Use any desktop OS without leaving a trace. 
+- [www.securemessagingapps.com](https://www.securemessagingapps.com/)
 - [ZeroNet](https://github.com/HelloZeroNet/ZeroNet#how-to-join) - Decentralized websites using Bitcoin crypto and BitTorrent network.
 
 
