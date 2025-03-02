@@ -363,6 +363,7 @@ Communicate clearly <br>
   - [Extension Manager](https://github.com/mjakeman/extension-manager) - A utility for browsing and installing GNOME Shell Extensions. 
   - [Gdm-settings](https://github.com/gdm-settings/gdm-settings) - A settings app for GNOME's Login Manager, GDM 
 - [Hardcode-Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - Fixes Hardcoded tray icons in Linux.
+- [Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [Hypr](https://github.com/hyprwm/Hypr) - Hypr is a tiling window manager written in modern C++. 
 - [Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks. 
 - [latte-dock](https://github.com/KDE/latte-dock) - Replacement dock for Plasma desktops, providing an elegant and intuitive experience for your tasks and plasmoids
