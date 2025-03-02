@@ -950,12 +950,7 @@ Based on that data, you can find the most popular ones and their alternatives.
     #### Docker
     - [Couchpotato by Linuxserver](https://hub.docker.com/r/linuxserver/couchpotato/)
     - [Docker-bazarr](https://github.com/linuxserver/docker-bazarr) - Bazarr is a companion application to Sonarr and Radarr. It can manage and download subtitles based on your requirements.
-
-    #### IP-TV
-    - [FreeTuxTV](https://github.com/freetuxtv/freetuxtv/) - FreetuxTV Internet television and radio player.
-    - [IPTV by iptv-org](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world.
-    - [IPTVx](https://github.com/jankammerath/iptvx) - IPTV player and streamer for Linux that allows to play any stream that LibVLC can play, offers an overlay based on WebKit using HTML5, JavaScript and CSS and uses XMLTV data for EPG information. It allows the playback of URLs, files and can grab URLs from shell scripts. XMLTV EPG data can be downloaded from URLs or grabbed from shell scripts.
-
+      
     #### Music
     - [AirSonic](https://github.com/airsonic/airsonic) - 📡 ☁️ 🎶Airsonic, a Free and Open Source community driven media server (fork of Subsonic and Libresonic).
       - [Airsonic-Advanced](https://github.com/airsonic-advanced/airsonic-advanced) - modern implementation of the Airsonic fork with several key performance and feature enhancements.
