@@ -1067,6 +1067,7 @@ Based on that data, you can find the most popular ones and their alternatives.
 - [KOrganizer](https://github.com/KDE/korganizer) - Organizational assistant, providing s and other similar functionality.
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
 -  Mouse & keyboard sharing via LAN
+  - [Deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video). Sponsored by Synergy.
   - [Lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
   - [Input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
     - [Barrier [NOT maintained anymore]](https://github.com/debauchee/barrier) - Share your mouse and keyboard between computers. _Barrier is software that mimics the functionality of a KVM switch, which historically would allow you to use a single keyboard and mouse to control multiple computers by physically turning a dial on the box to switch the machine you're controlling at any given moment._
