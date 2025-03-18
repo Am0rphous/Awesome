@@ -588,6 +588,7 @@ mv  ~/.config/redshift/redshift.conf ~/.config/redshift.conf   #nov 2024 solutio
   - [Yaklang](https://github.com/yaklang/yaklang) - A programming language exclusively designed for cybersecurity
 
     #### C
+    - [Introduction to C (Malware Bible)](https://bible.malcore.io/readme/the-beginning/introduction-to-c)
     - [Learning-C](https://github.com/h0mbre/Learning-C) - A series of mini-projects used to learn C for beginners
 
     #### C++
