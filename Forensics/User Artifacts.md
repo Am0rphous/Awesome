@@ -13,5 +13,6 @@
 ## Web browsers
 - [Hindsight](https://github.com/obsidianforensics/hindsight) - Web browser forensics for Google Chrome/Chromium.
 ### FireFox
+- [Dumpzilla](https://gitlab.com/kalilinux/packages/dumpzilla) - [kali tools](https://www.kali.org/tools/dumpzilla/)
 - [DB Browser for SQLite](https://sqlitebrowser.org/dl/)
   - macOS: `brew install --cask db-browser-for-sqlite`
