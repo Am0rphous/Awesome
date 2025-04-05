@@ -1083,6 +1083,25 @@ pip freeze --local | Select-String -NotMatch '^-e' | ForEach-Object { $_.ToStrin
     - [github.com/fwupd](https://github.com/fwupd/fwupd) - A system daemon to allow session software to update firmware.
   - [LKRG - Linux Kernel Runtime Guard](https://www.openwall.com/lkrg) -  LKRG performs runtime integrity checking of the Linux kernel and detection of security vulnerability exploits against the kernel. [Github](https://github.com/lkrg-org/lkrg)
     - [Linux Kernel Runtime Guard (LKRG) for Debian, Whonix, Qubes, Kicksecure](https://www.whonix.org/wiki/Linux_Kernel_Runtime_Guard_LKRG)
+````
+wget https://www.openwall.com/signatures/openwall-offline-signatures.asc
+gpg --import openwall-offline-signatures.asc
+wget https://lkrg.org/download/lkrg-0.9.9.tar.gz.sign
+wget https://lkrg.org/download/lkrg-0.9.9.tar.gz
+gpg --verify lkrg-0.9.9.tar.gz.sign lkrg-0.9.9.tar.gz
+
+git clone https://github.com/lkrg-org/lkrg
+sudo tar -xzf lkrg-0.9.9.tar.gz -C /usr/src/
+sudo apt update -y
+sudo apt install dkms openssl make gcc libelf-dev linux-headers-$(uname -r)
+sudo dkms add -m lkrg -v 0.9.9
+sudo dkms build -m lkrg -v 0.9.9
+sudo dkms install -m lkrg -v 0.9.9
+
+sudo dkms status
+sudo systemctl start lkrg
+sudo systemctl enable lkrg
+````
   - [VED (Vault Exploit Defense) - Linux kernel threat detection and prevention system](https://github.com/hardenedvault/ved)
   - [seccomp](https://man7.org/linux/man-pages/man2/seccomp.2.html) - "The secure computing (seccomp) mode is a popular Linux kernel security feature that restricts access to system calls (syscalls) by processes. This means that seccomp can filter syscalls and allow or limit which syscalls can be executed in the system."
   - SELinux
