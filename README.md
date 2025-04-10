@@ -919,6 +919,7 @@ Based on that data, you can find the most popular ones and their alternatives.
    - [Poketube](https://github.com/ashley0143/poketube) - offical github mirror of poketube (https://codeberg.org/Ashley/poketube/) - [poketube.fun](https://poketube.fun)
    - [Screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥.
    - [SSR (SimpleScreenRecorder)](https://github.com/MaartenBaert/ssr) - SimpleScreenRecorder, a screen recorder for Linux
+   - [V4l2loopback](https://github.com/v4l2loopback/v4l2loopback) - v4l2-loopback device 
    - [Vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
    - [Xtreme Download Manager](https://github.com/subhra74/xdm) -  Powerfull download accelerator and video downloader.
    - Youtube
