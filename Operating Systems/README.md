@@ -45,7 +45,7 @@ Considering key questions:
 
 
 
-## *Desktop*
+## Desktop
 ### ARM
 ##Privacy & security](#privacy-and-security)
 ##Minimal & Lightweight](#minimal-and-lightweight)
