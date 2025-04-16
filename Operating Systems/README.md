@@ -46,102 +46,6 @@ Considering key questions:
 
 
 # Desktop
-## ARM
-## Privacy & security
-## Minimal & Lightweight
-## Education
-# Servers
-## NAS
-# IoT, embedded devices, tablets
-## Phone
-### Android
-# Router and Firewall
-# Virtualization
-# Unix
-# Hacking & Security
-## Vulnerable VMs
-# Other
-## Boot & BIOS
-## Cloud
-## Country Specific
-## Create Your Own Custom Linux OS
-## Old OS Releases
-## Utilities
-## Web resources
-
-
-
-
-
-
-
-
-## A list of web resources
-- [Archiveos.org](https://archiveos.org) - Arhive of Operating Systems with Linux, BSD, DOS, Solaris and others.
-- [Distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox
-- [DistroWatch.com](https://distrowatch.com) - Insane amount of various distros.
-- [Don't use Windows 10 - It's a privacy nightmare](https://www.privacytools.io/operating-systems/#win10)
-  - If you need Windows then check out [AtlasOS](https://github.com/Atlas-OS/Atlas) - _An open source modification of the Windows 10 operating system, designed to optimize performance, and latency._
-    - [ AtlasOS 20H2 v0.5.2 ](https://archive.org/details/atlasos-20h2)
-  - [Tiny10](https://archive.org/details/tiny-10_202301) - (Lightweight Windows 10)
-  - [Article in Medium: How Bullshit Has Dominated The Tech Industry](https://medium.com/@fulalas/how-bullshit-has-dominated-the-tech-industry-bc63257f2a91) - Go down to _"Microsoft is perhaps unbeatable in this regard"_
-  - [ReactOS](https://reactos.org/) - ReactOS is a free and open-source operating system that looks like Windows and is able to run both Windows software and drivers.
-  - [Windows 10 ISO](https://www.microsoft.com/en-us/software-download/windows10ISO) - Officially by Microsoft
-  - [Windows vm notes](https://github.com/infokiller/win10-vm) - Windows 10/11 VM on Linux (QEMU/libvirt/KVM) with Secure Boot, BitLocker, and good performance
-  - [Windows in a Docker containe](https://github.com/dockur/windows) - Windows in a Docker container.
-  - [Wubuntu](https://www.wubuntu.org/) - Linux with Windows appearance, without any hardware restrictions.
-- [Hardware for Linux Trends](https://linux-hardware.org/?view=trends)
-
-## Boot / BIOS
-- [Coreboot](https://github.com/coreboot/coreboot) - [coreboot.org](https://coreboot.org) - Coreboot is a Free Software project aimed at replacing the proprietary BIOS (firmware) found in most computers. coreboot performs a little bit of hardware initialization and then executes additional boot logic, called a payload.
-  - [Documentation Coreboot](https://doc.coreboot.org/#)
-- [Coreboot by system76](https://github.com/system76/coreboot) - _Coreboot is a Free Software project aimed at replacing the proprietary BIOS (firmware) found in most computers. coreboot performs a little bit of hardware initialization and then executes additional boot logic, called a payload._
-- [OpenCore](https://github.com/acidanthera/OpenCorePkg) - OpenCore bootloader.
-  - [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
-  - [Dortania's OpenCore Install Guide Github](https://github.com/dortania/OpenCore-Install-Guide)
-  - [Lenovo-T530-Hackinosh-OpenCore](https://github.com/5T33Z0/Lenovo-T530-Hackinosh-OpenCore) - EFI Folder with configs for running macOS High Sierra, Catalina and Big Sur with either a patched DSDT or DSDT-less.
-  - [Site-My-Simple-OC-Themes](https://github.com/chris1111/Site-My-Simple-OC-Themes) - Site Themes OpenCore
-- [rEFInd Boot Manager](https://www.rodsbooks.com/refind/)
-  - [Theming rEFInd](https://www.rodsbooks.com/refind/themes.html)
-
-## Cloud
-- [OSv](http://osv.io/) - OSv is the open-source versatile modular unikernel designed to run unmodified Linux applications securely on micro-VMs in the cloud.
-- [Project Photon OS](https://vmware.github.io/photon/) - Photon OS is a Linux based, open source, security-hardened, enterprise grade appliance operating system that is purpose built for Cloud and Edge applications.
-- [Ubuntu](https://ubuntu.com/cloud/public-cloud) - Ubuntu is the world’s most popular cloud operating system across public clouds. Thanks to its security, versatility and policy of regular updates, Ubuntu is the leading cloud guest OS and the only free cloud operating system with the option of enterprise-grade commercial support. 
-
-## Country Specific 
-### China
-- Ubuntu Kylin](https://www.ubuntukylin.com/index.php?lang=en)
-  - [China rallies support for Kylin Linux in war on Windows](https://www.theregister.com/2022/07/03/china_openkylin/)
-  - [Ubuntu Kylin: The Official Chinese Version of Ubuntu](https://itsfoss.com/ubuntu-kylin/)
-### India
-- [Bosss Linx](https://bosslinux.in/) - "BOSS is an Indian GNU/Linux distribution developed by CDAC and is customized to suit Indian's digital environment. It supports most of the Indian languages."
-### Indonesia
-- Nusantra
-### North Koera
-- [Red Star OS](https://archiveos.org/redstar/)
-### Russian Federation
-- Rosa Linux - Certified by FSTEC (Federal Service for Technical and Export Control of Russia)
- - [Rosa Fresh](http://rosalinux.com/rosa-fresh) - Free and free system for home use.
- - [Rosa Enterprise Linux Desktop](http://rosalinux.com/red)
- - [Rosa Enterprise Linux Server](http://rosalinux.com/rels)
-### Turkey
-- [Pardus Linux](https://www.pardusproject.org)
-
-## Create Your Own Custom Linux OS
-- [Cubic](https://launchpad.net/cubic)
-- [Debian Custom ISO Scripts and Tutorial](https://github.com/RackunSec/debian-custom-iso-scripts) - These are scripts I made to help with the design and customization of a Debian ISO (Primarily WeakerThan Linux).
-- [Linux From Scratch](http://www.linuxfromscratch.org)
-- [Linux Live Kit](https://www.linux-live.org)
-  - [Linux Live Kit Github](https://github.com/Tomas-M/linux-live) - Use this set of scripts to turn your existing preinstalled Linux
-distribution into a Live Kit (formely known as Live CD).
-- [Live Magic](https://chris-lamb.co.uk/projects/live-magic)
-- [Linux Respin](http://www.linuxrespin.org)
-- [OpenEmbedded](http://www.openembedded.org/wiki/Main_Page) - It allows developers to create a complete Linux Distribution for embedded systems.
-- [Ubuntu Imager](https://github.com/Distroshare/distroshare-ubuntu-imager) - Creates an installable live CD from an installed Ubuntu or derivative distribution.
-- [Yocto Project ](https://wiki.yoctoproject.org/wiki/Main_Page) - The Yocto Project is an open-source project that delivers a set of tools that create operating system images for embedded Linux systems. The Yocto Project tools are based on the OpenEmbedded (OE) project, which uses the BitBake build tool, to construct complete Linux images
-
-## Desktop OSes
 - [Bliss OS - Android for your PC](https://blissos.org) - An Open Source OS, based on Android, that incorporates many optimizations, features, and expanded device support. And it is available for just about any Chromebook, Windows/Linux PC or tablet released in the last 4 years.
 - [Debian](https://www.debian.org)
 - [Deepin](https://www.deepin.org/en/) - based on Debian, features DDE, the Deepin Desktop Environment, built on Qt.
@@ -176,11 +80,15 @@ distribution into a Live Kit (formely known as Live CD).
 - [Qubes OS](https://www.qubes-os.org/downloads) - OS designed for privacy and security.
 - [Zorin OS](https://zorinos.com) 
 
-### Desktops for ARM architecture
+## ARM
 - [Asahi](https://asahilinux.org) - Asahi Linux aims to bring you a polished Linux experience on Apple Silicon Macs.
-- [Fedora Asahi Remix](https://fedora-asahi-remix.org/) - "Fedora Linux 39 + Apple Silicon = Fedora Asahi Remix"
 
- ### Privacy and security focused Desktops
+
+- [Fedora Asahi Remix](https://fedora-asahi-remix.org/) - "Fedora Linux 39 + Apple Silicon = Fedora Asahi Remix"
+- [Ubuntu](https://cdimage.ubuntu.com/daily-live/current/)
+- [Windows 11](https://github.com/Botspot/bvm) - User friendly, high performance Windows 11 Virtual Machine on ARM Linux
+
+## Privacy & security
  - [PureOS](https://pureos.net/) - Privacy and security focused Debian-based dstribution.
  - [PwOSS Mobile/Desktop/Server](https://pwoss.org/)
  - [Tailes](https://tails.boum.org) - Portable operating system that protects against surveillance and censorship
@@ -203,41 +111,7 @@ distribution into a Live Kit (formely known as Live CD).
 | 8. South Africa | | |
 | 9. United Kingom | | |
 
-## Educational OS'es
-- [DebianEdu](https://wiki.debian.org/DebianEdu)
-- [Edubuntu](https://www.edubuntu.org) - "previously known as Ubuntu Education Edition, was an official derivative of the Ubuntu operating system designed for use in classrooms inside schools, homes and communities." [Wikipedia](https://en.wikipedia.org/wiki/Edubuntu)
-- [Qimo 4 Kids](http://www.qimo4kids.com) - "a Linux distribution designed for young users from 3 years old and above. Qimo is built on the top of Xubuntu and uses the Xfce desktop environment as default."
-- [Ubermix](http://www.ubermix.org) - "Built by educators with an eye towards student and teacher empowerment."
-
-## IoT, embedded devices, tablets
-- [Alpine Linux](https://www.alpinelinux.org) - [Alpine Gitlab](https://gitlab.alpinelinux.org)
-- [Bliss OS - Android for your PC](https://blissos.org) - An Open Source OS, based on Android, that incorporates many optimizations, features, and expanded device support. And it is available for just about any Chromebook, Windows/Linux PC or tablet released in the last 4 years.
-- [Entware](https://github.com/Entware/Entware) - Ultimate repo for embedded devices. [Wiki](https://github.com/Entware/Entware/wiki)
-- [Fedora IoT](https://getfedora.org/en/iot/)
-- [LineageOS Android Distribution](https://lineageos.org) - A free and open-source operating system for various devices, based on the Android mobile platform.
-- [Ubunt Server](https://ubuntu.com)
-- [Ubuntu Touch](https://ubuntu-touch.io/get-ubuntu-touch) - terminated
-
-  ### Phone OSes
-  - [Lomiri](https://lomiri.com)
-  - [postmarketOS](https://postmarketos.org) - A real Linux distribution for phones and other mobile devices.
-  - [Phosh](https://github.com/agx/phosh) - A pure Wayland shell for GNOME on mobile devices. Mirror of https://gitlab.gnome.org/World/Phosh/phosh
-  - [Sailfish OS](https://sailfishos.org/) - Sailfish OS is a secure mobile operating system optimized to run on smartphones and tablets, and also easily adaptable to all kinds of embedded devices and use cases. The fourth generation, Sailfish 4, boasts a multitude of new enablers to support different ecosystem projects, be it private corporate solutions or public sector governmental deployments.
-  - [Ubports](https://ubports.com/) - _" We are building a secure & private operating system for your smartphone"_
-  - [ubuntu-touch.io](https://ubuntu-touch.io) - _"Ubuntu Touch is designed primarily for mobile devices. However, imagine connecting your mobile device to a monitor, mouse and keyboard and having it instantly transformed into a desktop experience. This is the goal of Convergence, an experimental feature for a unified experience on all devices."_
-  - [devices.ubuntu-touch.io](https://devices.ubuntu-touch.io/) - Ubuntu Touch devices website
-    - [Ubuntu-touch github (archived 12th Dec. 23)](https://github.com/ubports/ubuntu-touch) - A simple and beautiful mobile OS for everyone! This repository is for Ubuntu Touch issue tracking. It does not contain any code used to create Ubuntu Touch.
-    - [Ubuntu Touch apps](https://open-store.io/)
-
-  
-  #### Android-based
-  - [CalyxOS](https://calyxos.org) - CalyxOS is a custom ROM based on the Android Open Source Project with Pixel phones. It aims to be secure and private by default including a number of good choices for default applications. It also supports verified boot.
-  - [CopperheadOS](https://copperhead.co/android/) - Secure Android built for encrypted and secure phones by a privacy focused company. Available as security-centric and privacy focused Google-free Android for the latest Pixel devices.
-  - [GrapheneOS](https://grapheneos.org) - GrapheneOS (formerly known as CopperheadOS) is a free and open-source security- and privacy-focused mobile operating system built on top of the Android Open Source Project. It currently specifically targets devices offering strong hardware security.
-    - [GrapheneOS Setup Guide](https://digitalprivacy.shop/blog/grapheneos-setup-guide)
-  - [LineageOS](https://www.lineageos.org) - LineageOS is a custom ROM based on the Android Open Source Project with official support for a wide variety of devices. The project is the successor to the popular CyanogenMod project, focusing on system control and customization, device longevity, and privacy. For security reasons, we do not recommend third-party builds of LineageOS for unsupported devices.
-
-## Minimal and Lightweight
+## Minimal & Lightweight
 - Also check this [list](Light-weight Linux distribution)
 - [antiX Linux](https://antixlinux.com/) - Proudly anti-fascist "antiX Magic" in an environment suitable for old and new computers.
 - [ArchBang](https://archbang.org/)
@@ -254,30 +128,67 @@ distribution into a Live Kit (formely known as Live CD).
   - [Focal](https://cloud-images.ubuntu.com/minimal/releases/focal/release/)
 - [Void Linux](https://voidlinux.org/) - 3 gig disk usage when using graphical install. Good for old laptops. I used xfc4 as graphic. [Install guide](https://docs.voidlinux.org/installation/live-images/guide.html), [Complete picture guide](https://linuxiac.com/void-linux-installation/#4-8-setting-up-the-user) and [Download ISO files](https://repo-default.voidlinux.org/live/current/)
 
-## Pen-testing and security auditing
-- [Athena OS](https://github.com/Athena-OS/athena-iso) - Athena is a Arch Linux-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
-- [BlackArch](https://www.blackarch.org) - BlackArch Linux is an Arch Linux-based penetration testing distribution for penetration testers and security researchers. Supports OVA which can be imported to Virtualbox, VMware and QEMU. [Download](https://www.blackarch.org/downloads.html)
-- [Demon Linux](https://demonlinux.com/) - Demon Linux is a penetration testing custom Debian distribution packaged as an ISO file.
-- [Garuda Linux](https://garudalinux.org)
-- [Kali](https://www.kali.org) - Advanced Penetration Testing Distribution.
-  - [How to Route all traffic on Kali through Tor using Whonix](https://www.1337pwn.com/route-traffic-kali-linux-tor-using-whonix/)
-- [Parrot](https://www.parrotsec.org) - designed for penetration testing, vulnerability assessment and mitigation, computer forensics and anonymous web browsing. 
-- [Trace Labs OSINT Linux Distribution based on Kali](https://github.com/tracelabs/tlosint-live) 
 
-  ### Old OS Releases
-  - [virtualboxes.org/images](https://virtualboxes.org/images/) - Arch, Centos, DSL, loooots of old OSes.
-  - [Old Ubuntu Releases](https://old-releases.ubuntu.com/releases/)
-  - [osboxes.org/virtualbox-images/](https://www.osboxes.org/virtualbox-images/) - Download VDI images for VirtualBox
-  - [kraxel.org/repos/images/](https://www.kraxel.org/repos/images/) - Qemu images from 2019, for centos 7, 8 and fedora 30, 31 and 33.
-  - [Windows XP 64-bit](https://archive.org/details/windowsxpprox64english) - Serial `B2RBK-7KPT9-4JP6X-QQFWM-PJD6G `
+## Education
+- [DebianEdu](https://wiki.debian.org/DebianEdu)
+- [Edubuntu](https://www.edubuntu.org) - "previously known as Ubuntu Education Edition, was an official derivative of the Ubuntu operating system designed for use in classrooms inside schools, homes and communities." [Wikipedia](https://en.wikipedia.org/wiki/Edubuntu)
+- [Qimo 4 Kids](http://www.qimo4kids.com) - "a Linux distribution designed for young users from 3 years old and above. Qimo is built on the top of Xubuntu and uses the Xfce desktop environment as default."
+- [Ubermix](http://www.ubermix.org) - "Built by educators with an eye towards student and teacher empowerment."
 
-  ### Vulnerable VMs and OSes
-  - [raspwn.org](http://raspwn.org) - Welcome to RasPwn OS, The intentionally vulnerable image for the Raspberry Pi.
-  - later; https://andreafortuna.org/2020/07/22/vulnerable-webapps-and-vms-for-penetration-testing-practice-my-own-list/
-  - https://www.rapid7.com/blog/post/2011/12/23/where-can-i-find-vulnerable-machines-for-my-penetration-testing-lab/
+# Servers
+- [Arch Linux](https://www.archlinux.org)
+  - [alis - Arch Linux Install Script](https://github.com/picodotdev/alis/) - Arch Linux Install Script (or alis, also known as the Arch Linux executable installation guide and wiki) installs unattended, automated and customized Arch Linux system. 
+  - [Virtual Arch-Machines](https://gitlab.archlinux.org/archlinux/arch-boxes/-/jobs/47782/artifacts/browse/output)
+- [CentOS](https://www.centos.org/) - [End of life: Jun 30th, 2024] Community Enterprise Operating System for servers, workstations and desktop. Based on Red Hat Enterprise Linux.
+  - [Alma Linux](https://almalinux.org/) - (use this instead of CentOS) - _"An Open Source, community owned and governed, forever-free enterprise Linux distribution, focused on long-term stability, providing a robust production-grade platform. AlmaLinux OS is binary compatible with RHEL®."_
+- [ClearOS Community Edition](https://www.clearos.com/clearfoundation/software/clearos-downloads) - OS for your Server, Network, and Gateway. Systems based on CentOS and Red Hat Enterprise Linux. [www.clearos.com](https://www.clearos.com)
+  - [Clear OS Knowledge Base](https://documentation.clearos.com/index:kb)
+- [Debian](https://www.debian.org)
+- [Fedora Server](https://getfedora.org/en/server)
+- [Oracle Linux](https://www.oracle.com/linux/) - "A highly performant and secure operating environment, Oracle Linux delivers virtualization, management, automation, and cloud native computing tools, along with the operating system, in a single, easy-to-manage support offering. Oracle Linux provides a 100% application binary compatible alternative to Red Hat Enterprise Linux and CentOS Linux and is supported across both hybrid and multicloud environments. "
+- [PwOSS Server](https://pwoss.org/)
+- [Rockstor](http://rockstor.com) - Personal Cloud Server, SMB Cloud Server, Traditional NAS server. [Download Rocktor](https://sourceforge.net/projects/rockstor/files/)
+- [Rocky Linux](https://rockylinux.org) - [github](https://github.com/rocky-linux/rocky) Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS [rockylinux.org](https://rockylinux.org).
+- [ScientificLinux](https://scientificlinux.org) - Enterprise Linux rebuild sponsored by Fermi National Accelerator Laboratory.
+- [Ubuntu Server](https://ubuntu.com) - Cloud, servers, IoT, desktop.
+  - [Desktopify](https://github.com/wimpysworld/desktopify) - Convert Ubuntu Server for Raspberry Pi into a Desktop.
+  - [Ubuntu 20.04 Installation Guide on amd64](https://help.ubuntu.com/20.04/installation-guide/amd64/index.html)
+
+## NAS
+  - [FreeNAS OS](https://www.freenas.org)
+  - [OpenMediaVault](https://github.com/openmediavault/openmediavault) - Based on Debian. Contains services like SSH, (S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and many more. [Doc](https://docs.openmediavault.org) [Forum](https://forum.openmediavault.org) [Blog](https://blog.openmediavault.org)
+  - [TrueNAS](https://www.truenas.com)
+  - [XigmaNAS](https://www.xigmanas.com/index.php?id=6)
+
+# IoT, embedded devices, tablets
+- [Alpine Linux](https://www.alpinelinux.org) - [Alpine Gitlab](https://gitlab.alpinelinux.org)
+- [Bliss OS - Android for your PC](https://blissos.org) - An Open Source OS, based on Android, that incorporates many optimizations, features, and expanded device support. And it is available for just about any Chromebook, Windows/Linux PC or tablet released in the last 4 years.
+- [Entware](https://github.com/Entware/Entware) - Ultimate repo for embedded devices. [Wiki](https://github.com/Entware/Entware/wiki)
+- [Fedora IoT](https://getfedora.org/en/iot/)
+- [LineageOS Android Distribution](https://lineageos.org) - A free and open-source operating system for various devices, based on the Android mobile platform.
+- [Ubunt Server](https://ubuntu.com)
+- [Ubuntu Touch](https://ubuntu-touch.io/get-ubuntu-touch) - terminated
+
+## Phone
+  - [Lomiri](https://lomiri.com)
+  - [postmarketOS](https://postmarketos.org) - A real Linux distribution for phones and other mobile devices.
+  - [Phosh](https://github.com/agx/phosh) - A pure Wayland shell for GNOME on mobile devices. Mirror of https://gitlab.gnome.org/World/Phosh/phosh
+  - [Sailfish OS](https://sailfishos.org/) - Sailfish OS is a secure mobile operating system optimized to run on smartphones and tablets, and also easily adaptable to all kinds of embedded devices and use cases. The fourth generation, Sailfish 4, boasts a multitude of new enablers to support different ecosystem projects, be it private corporate solutions or public sector governmental deployments.
+  - [Ubports](https://ubports.com/) - _" We are building a secure & private operating system for your smartphone"_
+  - [ubuntu-touch.io](https://ubuntu-touch.io) - _"Ubuntu Touch is designed primarily for mobile devices. However, imagine connecting your mobile device to a monitor, mouse and keyboard and having it instantly transformed into a desktop experience. This is the goal of Convergence, an experimental feature for a unified experience on all devices."_
+  - [devices.ubuntu-touch.io](https://devices.ubuntu-touch.io/) - Ubuntu Touch devices website
+    - [Ubuntu-touch github (archived 12th Dec. 23)](https://github.com/ubports/ubuntu-touch) - A simple and beautiful mobile OS for everyone! This repository is for Ubuntu Touch issue tracking. It does not contain any code used to create Ubuntu Touch.
+    - [Ubuntu Touch apps](https://open-store.io/)
+
+### Android
+  - [CalyxOS](https://calyxos.org) - CalyxOS is a custom ROM based on the Android Open Source Project with Pixel phones. It aims to be secure and private by default including a number of good choices for default applications. It also supports verified boot.
+  - [CopperheadOS](https://copperhead.co/android/) - Secure Android built for encrypted and secure phones by a privacy focused company. Available as security-centric and privacy focused Google-free Android for the latest Pixel devices.
+  - [GrapheneOS](https://grapheneos.org) - GrapheneOS (formerly known as CopperheadOS) is a free and open-source security- and privacy-focused mobile operating system built on top of the Android Open Source Project. It currently specifically targets devices offering strong hardware security.
+    - [GrapheneOS Setup Guide](https://digitalprivacy.shop/blog/grapheneos-setup-guide)
+  - [LineageOS](https://www.lineageos.org) - LineageOS is a custom ROM based on the Android Open Source Project with official support for a wide variety of devices. The project is the successor to the popular CyanogenMod project, focusing on system control and customization, device longevity, and privacy. For security reasons, we do not recommend third-party builds of LineageOS for unsupported devices.
 
 
-## Router and Firewall OSes
+# Router and Firewall
 - [Alpine Linux](https://www.alpinelinux.org) - [Alpine Gitlab](https://gitlab.alpinelinux.org)
 - [Asuswrt-Merlin - Xwrt-Vortex (archived)](https://www.xvtx.ru/xwrt/source.htm) - [github](https://github.com/RMerl/asuswrt-merlin)
 - [Asuswrt-merlin.ng](https://github.com/RMerl/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase). [www.asuswrt-merlin.net](https://www.asuswrt-merlin.net)
@@ -312,31 +223,11 @@ distribution into a Live Kit (formely known as Live CD).
 - [VyOS](https://vyos.io/) - VyOS is an open source network operating system based on Debian GNU/Linux. [Doc](https://docs.vyos.io/en/latest/contributing/build-vyos.html)
 - [Zeroshell Linux Router](https://zeroshell.org) - Routing and Bridging Firewall Solutions.
 
-## Server OSes
-- [Arch Linux](https://www.archlinux.org)
-  - [alis - Arch Linux Install Script](https://github.com/picodotdev/alis/) - Arch Linux Install Script (or alis, also known as the Arch Linux executable installation guide and wiki) installs unattended, automated and customized Arch Linux system. 
-  - [Virtual Arch-Machines](https://gitlab.archlinux.org/archlinux/arch-boxes/-/jobs/47782/artifacts/browse/output)
-- [CentOS](https://www.centos.org/) - [End of life: Jun 30th, 2024] Community Enterprise Operating System for servers, workstations and desktop. Based on Red Hat Enterprise Linux.
-  - [Alma Linux](https://almalinux.org/) - (use this instead of CentOS) - _"An Open Source, community owned and governed, forever-free enterprise Linux distribution, focused on long-term stability, providing a robust production-grade platform. AlmaLinux OS is binary compatible with RHEL®."_
-- [ClearOS Community Edition](https://www.clearos.com/clearfoundation/software/clearos-downloads) - OS for your Server, Network, and Gateway. Systems based on CentOS and Red Hat Enterprise Linux. [www.clearos.com](https://www.clearos.com)
-  - [Clear OS Knowledge Base](https://documentation.clearos.com/index:kb)
-- [Debian](https://www.debian.org)
-- [Fedora Server](https://getfedora.org/en/server)
-- [Oracle Linux](https://www.oracle.com/linux/) - "A highly performant and secure operating environment, Oracle Linux delivers virtualization, management, automation, and cloud native computing tools, along with the operating system, in a single, easy-to-manage support offering. Oracle Linux provides a 100% application binary compatible alternative to Red Hat Enterprise Linux and CentOS Linux and is supported across both hybrid and multicloud environments. "
-- [PwOSS Server](https://pwoss.org/)
-- [Rockstor](http://rockstor.com) - Personal Cloud Server, SMB Cloud Server, Traditional NAS server. [Download Rocktor](https://sourceforge.net/projects/rockstor/files/)
-- [Rocky Linux](https://rockylinux.org) - [github](https://github.com/rocky-linux/rocky) Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS [rockylinux.org](https://rockylinux.org).
-- [ScientificLinux](https://scientificlinux.org) - Enterprise Linux rebuild sponsored by Fermi National Accelerator Laboratory.
-- [Ubuntu Server](https://ubuntu.com) - Cloud, servers, IoT, desktop.
-  - [Desktopify](https://github.com/wimpysworld/desktopify) - Convert Ubuntu Server for Raspberry Pi into a Desktop.
-  - [Ubuntu 20.04 Installation Guide on amd64](https://help.ubuntu.com/20.04/installation-guide/amd64/index.html)
-  ### NAS
-  - [FreeNAS OS](https://www.freenas.org)
-  - [OpenMediaVault](https://github.com/openmediavault/openmediavault) - Based on Debian. Contains services like SSH, (S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and many more. [Doc](https://docs.openmediavault.org) [Forum](https://forum.openmediavault.org) [Blog](https://blog.openmediavault.org)
-  - [TrueNAS](https://www.truenas.com)
-  - [XigmaNAS](https://www.xigmanas.com/index.php?id=6)
+# Virtualization
+- [Citrix XenServer](https://docs.citrix.com/en-us/xenserver.html)
+- [Xen XCP-ng](https://xcp-ng.org/) - Open source virtualization solution with pro support options for the most demanding companies. 
 
-## Unix OSes
+# Unix
 - [DragonFly BSD](https://www.dragonflybsd.org)
 - [Free BSD](https://www.freebsd.org)
 - [Ghost BSD](https://www.ghostbsd.org) - A simple, elegant desktop BSD Operating System.
@@ -345,14 +236,98 @@ distribution into a Live Kit (formely known as Live CD).
 - [Midnight BSD](https://www.midnightbsd.org)
 - [Open BSD](https://www.openbsd.org)
 
+# Hacking & Security
+- [Athena OS](https://github.com/Athena-OS/athena-iso) - Athena is a Arch Linux-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
+- [BlackArch](https://www.blackarch.org) - BlackArch Linux is an Arch Linux-based penetration testing distribution for penetration testers and security researchers. Supports OVA which can be imported to Virtualbox, VMware and QEMU. [Download](https://www.blackarch.org/downloads.html)
+- [Demon Linux](https://demonlinux.com/) - Demon Linux is a penetration testing custom Debian distribution packaged as an ISO file.
+- [Garuda Linux](https://garudalinux.org)
+- [Kali](https://www.kali.org) - Advanced Penetration Testing Distribution.
+  - [How to Route all traffic on Kali through Tor using Whonix](https://www.1337pwn.com/route-traffic-kali-linux-tor-using-whonix/)
+- [Parrot](https://www.parrotsec.org) - designed for penetration testing, vulnerability assessment and mitigation, computer forensics and anonymous web browsing. 
+- [Trace Labs OSINT Linux Distribution based on Kali](https://github.com/tracelabs/tlosint-live) 
+
+## Vulnerable VMs
+  - [raspwn.org](http://raspwn.org) - Welcome to RasPwn OS, The intentionally vulnerable image for the Raspberry Pi.
+  - later; https://andreafortuna.org/2020/07/22/vulnerable-webapps-and-vms-for-penetration-testing-practice-my-own-list/
+  - https://www.rapid7.com/blog/post/2011/12/23/where-can-i-find-vulnerable-machines-for-my-penetration-testing-lab/
+
+# Other
+## Boot & BIOS
+- [Coreboot](https://github.com/coreboot/coreboot) - [coreboot.org](https://coreboot.org) - Coreboot is a Free Software project aimed at replacing the proprietary BIOS (firmware) found in most computers. coreboot performs a little bit of hardware initialization and then executes additional boot logic, called a payload.
+  - [Documentation Coreboot](https://doc.coreboot.org/#)
+- [Coreboot by system76](https://github.com/system76/coreboot) - _Coreboot is a Free Software project aimed at replacing the proprietary BIOS (firmware) found in most computers. coreboot performs a little bit of hardware initialization and then executes additional boot logic, called a payload._
+- [OpenCore](https://github.com/acidanthera/OpenCorePkg) - OpenCore bootloader.
+  - [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
+  - [Dortania's OpenCore Install Guide Github](https://github.com/dortania/OpenCore-Install-Guide)
+  - [Lenovo-T530-Hackinosh-OpenCore](https://github.com/5T33Z0/Lenovo-T530-Hackinosh-OpenCore) - EFI Folder with configs for running macOS High Sierra, Catalina and Big Sur with either a patched DSDT or DSDT-less.
+  - [Site-My-Simple-OC-Themes](https://github.com/chris1111/Site-My-Simple-OC-Themes) - Site Themes OpenCore
+- [rEFInd Boot Manager](https://www.rodsbooks.com/refind/)
+  - [Theming rEFInd](https://www.rodsbooks.com/refind/themes.html)
+
+## Cloud
+- [OSv](http://osv.io/) - OSv is the open-source versatile modular unikernel designed to run unmodified Linux applications securely on micro-VMs in the cloud.
+- [Project Photon OS](https://vmware.github.io/photon/) - Photon OS is a Linux based, open source, security-hardened, enterprise grade appliance operating system that is purpose built for Cloud and Edge applications.
+- [Ubuntu](https://ubuntu.com/cloud/public-cloud) - Ubuntu is the world’s most popular cloud operating system across public clouds. Thanks to its security, versatility and policy of regular updates, Ubuntu is the leading cloud guest OS and the only free cloud operating system with the option of enterprise-grade commercial support. 
+
+## Country Specific
+### China
+- Ubuntu Kylin](https://www.ubuntukylin.com/index.php?lang=en)
+  - [China rallies support for Kylin Linux in war on Windows](https://www.theregister.com/2022/07/03/china_openkylin/)
+  - [Ubuntu Kylin: The Official Chinese Version of Ubuntu](https://itsfoss.com/ubuntu-kylin/)
+### India
+- [Bosss Linx](https://bosslinux.in/) - "BOSS is an Indian GNU/Linux distribution developed by CDAC and is customized to suit Indian's digital environment. It supports most of the Indian languages."
+### Indonesia
+- Nusantra
+### North Koera
+- [Red Star OS](https://archiveos.org/redstar/)
+### Russian Federation
+- Rosa Linux - Certified by FSTEC (Federal Service for Technical and Export Control of Russia)
+ - [Rosa Fresh](http://rosalinux.com/rosa-fresh) - Free and free system for home use.
+ - [Rosa Enterprise Linux Desktop](http://rosalinux.com/red)
+ - [Rosa Enterprise Linux Server](http://rosalinux.com/rels)
+### Turkey
+- [Pardus Linux](https://www.pardusproject.org)
+
+## Create Your Own Custom Linux OS
+- [Cubic](https://launchpad.net/cubic)
+- [Debian Custom ISO Scripts and Tutorial](https://github.com/RackunSec/debian-custom-iso-scripts) - These are scripts I made to help with the design and customization of a Debian ISO (Primarily WeakerThan Linux).
+- [Linux From Scratch](http://www.linuxfromscratch.org)
+- [Linux Live Kit](https://www.linux-live.org)
+  - [Linux Live Kit Github](https://github.com/Tomas-M/linux-live) - Use this set of scripts to turn your existing preinstalled Linux
+distribution into a Live Kit (formely known as Live CD).
+- [Live Magic](https://chris-lamb.co.uk/projects/live-magic)
+- [Linux Respin](http://www.linuxrespin.org)
+- [OpenEmbedded](http://www.openembedded.org/wiki/Main_Page) - It allows developers to create a complete Linux Distribution for embedded systems.
+- [Ubuntu Imager](https://github.com/Distroshare/distroshare-ubuntu-imager) - Creates an installable live CD from an installed Ubuntu or derivative distribution.
+- [Yocto Project ](https://wiki.yoctoproject.org/wiki/Main_Page) - The Yocto Project is an open-source project that delivers a set of tools that create operating system images for embedded Linux systems. The Yocto Project tools are based on the OpenEmbedded (OE) project, which uses the BitBake build tool, to construct complete Linux images
+
+
+## Old OS Releases
+  - [virtualboxes.org/images](https://virtualboxes.org/images/) - Arch, Centos, DSL, loooots of old OSes.
+  - [Old Ubuntu Releases](https://old-releases.ubuntu.com/releases/)
+  - [osboxes.org/virtualbox-images/](https://www.osboxes.org/virtualbox-images/) - Download VDI images for VirtualBox
+  - [kraxel.org/repos/images/](https://www.kraxel.org/repos/images/) - Qemu images from 2019, for centos 7, 8 and fedora 30, 31 and 33.
+  - [Windows XP 64-bit](https://archive.org/details/windowsxpprox64english) - Serial `B2RBK-7KPT9-4JP6X-QQFWM-PJD6G `
+
 ## Utilities
 - [Netgear Unbrick Utility](https://github.com/jclehner/nmrpflash)
-## Virtualization OSes
-- [Citrix XenServer](https://docs.citrix.com/en-us/xenserver.html)
-- [Xen XCP-ng](https://xcp-ng.org/) - Open source virtualization solution with pro support options for the most demanding companies. 
+
+## Web resources
+- [Archiveos.org](https://archiveos.org) - Arhive of Operating Systems with Linux, BSD, DOS, Solaris and others.
+- [Distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox
+- [DistroWatch.com](https://distrowatch.com) - Insane amount of various distros.
+- [Don't use Windows 10 - It's a privacy nightmare](https://www.privacytools.io/operating-systems/#win10)
+  - If you need Windows then check out [AtlasOS](https://github.com/Atlas-OS/Atlas) - _An open source modification of the Windows 10 operating system, designed to optimize performance, and latency._
+    - [ AtlasOS 20H2 v0.5.2 ](https://archive.org/details/atlasos-20h2)
+  - [Tiny10](https://archive.org/details/tiny-10_202301) - (Lightweight Windows 10)
+  - [Article in Medium: How Bullshit Has Dominated The Tech Industry](https://medium.com/@fulalas/how-bullshit-has-dominated-the-tech-industry-bc63257f2a91) - Go down to _"Microsoft is perhaps unbeatable in this regard"_
+  - [ReactOS](https://reactos.org/) - ReactOS is a free and open-source operating system that looks like Windows and is able to run both Windows software and drivers.
+  - [Windows 10 ISO](https://www.microsoft.com/en-us/software-download/windows10ISO) - Officially by Microsoft
+  - [Windows vm notes](https://github.com/infokiller/win10-vm) - Windows 10/11 VM on Linux (QEMU/libvirt/KVM) with Secure Boot, BitLocker, and good performance
+  - [Windows in a Docker containe](https://github.com/dockur/windows) - Windows in a Docker container.
+  - [Wubuntu](https://www.wubuntu.org/) - Linux with Windows appearance, without any hardware restrictions.
+- [Hardware for Linux Trends](https://linux-hardware.org/?view=trends)
 
 
-Random list of OSes,  sort through it later
-````
-Debian, Ubuntu, CentOS, RHEL, Deepin, Fedora, SLES, openSUSE, MX Linux, Manjaro, Linux Mint, Endless OS, Elementary OS, Solus, Linx, Zorin, antiX, PClinuxOS, Arch, ArcoLinux, ArchLabs, BackArch, Obarun, Artix Linux, Puppy Linux, Tails, Slax, Kali, Mageia, Slackware, Q4OS, Archman, Gentoo, Pentoo, NixOS, Ubuntu Kylin, Lubuntu, Xubuntu, Kubuntu, Ubuntu MATE, Ubuntu Budgie, Ubuntu Studio, Bluestar, OpenMandriva, ExTiX, Netrunner, ALT Linux, Nitrux, Peppermint, KDE neon, Linux Lite, Parrot OS, Qubes, Pop OS, ROSA, Void Linux, Star Linux, EndeavourOS, MakuluLinux, Voyager, Feren, ArchBang, LXLE, Knoppix, Robolinux, Calculate Linux, Clear Linux, Pure OS, Oracle Linux, Trident, Septor, Porteus, Devuan, GoboLinux, 4MLinux, Simplicity Linux, Zeroshell, Android-x86, netboot.xyz, Slitaz, SuperGrub2Disk, Proxmox VE, Kaspersky Rescue, SystemRescueCD, MemTest86, MiniTool Partition Wizard, Parted Magic, veket, Sabayon, Scientific, alpine, ClearOS, CloneZilla, Berry Linux, Trisquel, Ataraxia Linux, Minimal Linux Live, BackBox Linux, Emmabuntüs, ESET SysRescue Live,Nova Linux, AV Linux, RoboLinux, NuTyX, IPFire, SELKS, ZStack, Enso Linux, Security Onion, Network Security Toolkit, Absolute Linux, TinyCore, Springdale Linux, Frost Linux, Shark Linux, LinuxFX, Snail Linux, Astra Linux, Namib Linux, Resilient Linux, Virage Linux, Blackweb Security OS, R-DriveImage, O-O.DiskImage, Macrium, ToOpPy LINUX, GNU Guix, YunoHost, foxclone, siduction, Adelie Linux, Elive, Pardus, CDlinux, AcademiX, Austrumi, Zenwalk, Anarchy, DuZeru, BigLinux, OpenMediaVault, Ubuntu DP, Exe GNU/Linux, 3CX Phone System, KANOTIX, Grml, Karoshi, PrimTux, ArchStrike, CAELinux, Refracta, Cucumber, Fatdog, ForLEx, Hanthana, Kwort, MiniNo, Redcore, Runtu, Asianux, Clu Linux Live, Uruk, OB2D, BlueOnyx, Finnix, HamoniKR, Parabola, LinHES, LinuxConsole, BEE free, Untangle, Pearl, Thinstation, TurnKey, tuxtrans, Neptune, HefftorLinux, GeckoLinux, Mabox Linux, Zentyal, Maui, Reborn OS, SereneLinux , SkyWave Linux, Kaisen Linux, Regata OS, TROM-Jaro, DRBL Linux, Chalet OS, Chapeau, Desa OS, BlankOn, OpenMamba, Frugalware, Kibojoe Linux, Revenge OS, Tsurugi Linux, Drauger OS, Hash Linux, gNewSense, Ikki Boot, SteamOS, Hyperbola, EasyNAS, SuperGamer, Live Raizo, Swift Linux, RebeccaBlackOS, Daphile, CRUX, Univention, Ufficio Zero, Rescuezilla, Phoenix OS, Garuda Linux, Mll, NethServer, OSGeoLive, Easy OS, Volumio, FreedomBox, paldo, UBOS, Recalbox, batocera, Lakka, LibreELEC, Pardus Topluluk, Pinguy, KolibriOS, Elastix, Arya, Omoikane, Omarine, Endian Firewall, Hamara, Rocks Cluster, MorpheusArch, Redo, Slackel, SME Server, APODIO, Smoothwall, Dragora, Linspire, Secure-K OS, Peach OSI, Photon, Plamo, SuperX, Bicom, Ploplinux, HP SPP, LliureX, Freespire, DietPi, BOSS, Webconverger, Lunar, TENS, Source Mage, RancherOS, T2, Vine, Pisi, blackPanther, mAid, Acronis, Active.Boot, AOMEI, Boot.Repair, CAINE, DaRT, EasyUEFI, R-Drive, PrimeOS, Avira Rescue System, bitdefender, Checkra1n Linux, Lenovo Diagnostics, Clover, Bliss-OS, Lenovo BIOS Update, Arcabit Rescue Disk,
+
 ````
