@@ -45,8 +45,8 @@ Considering key questions:
 
 
 
-# **Desktop**
-## ARM
+## *Desktop*
+### ARM
 ##Privacy & security](#privacy-and-security)
 ##Minimal & Lightweight](#minimal-and-lightweight)
 ##Education](#education)
