@@ -329,5 +329,4 @@ distribution into a Live Kit (formely known as Live CD).
 - [Hardware for Linux Trends](https://linux-hardware.org/?view=trends)
 
 
-
-````
+<br>
