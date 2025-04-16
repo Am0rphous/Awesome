@@ -22,7 +22,7 @@ _Considering key questions:_
   - [Education](#education)
 - [**Servers**](#servers)
   - [NAS](#nas)
-- [**IoT, embedded devices, tablets]**(#iot-embedded-devices-tablets)
+- [**IoT, embedded devices, tablets**](#iot-embedded-devices-tablets)
   - [Phone](#phone)
     - [Android](#android)
 - [**Router and Firewall**](#router-and-firewall)
