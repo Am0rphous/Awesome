@@ -45,29 +45,29 @@ Considering key questions:
 
 
 
-## Desktop
-### ARM
-##Privacy & security](#privacy-and-security)
-##Minimal & Lightweight](#minimal-and-lightweight)
-##Education](#education)
-- [**Servers**](#servers)
-  - [NAS](#nas)
-- [**IoT, embedded devices, tablets**](#iot-embedded-devices-tablets)
-  - [Phone](#phone)
-    - [Android](#android)
-- [**Router and Firewall**](#router-and-firewall)
-- [**Virtualization**](#virtualization)
-- [**Unix**](#unix)
-- [**Hacking & Security**](#hacking-&-security)
-  - [Vulnerable VMs](#vulnerable-vms)
-- [**Other**](#other)
-  - [Boot & BIOS](#boot-&-bios)
-  - [Cloud](#cloud)
-  - [Country Specific](#country-specific)
-  - [Create Your Own Custom Linux OS](#create-your-own-custom-linux-os)
-  - [Old OS Releases](#old-os-releases)
-  - [Utilities](#utilities)
-  - [Web resources](#web-resources)
+# Desktop
+## ARM
+## Privacy & security
+## Minimal & Lightweight
+## Education
+# Servers
+## NAS
+# IoT, embedded devices, tablets
+## Phone
+### Android
+# Router and Firewall
+# Virtualization
+# Unix
+# Hacking & Security
+## Vulnerable VMs
+# Other
+## Boot & BIOS
+## Cloud
+## Country Specific
+## Create Your Own Custom Linux OS
+## Old OS Releases
+## Utilities
+## Web resources
 
 
 
