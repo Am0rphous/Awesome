@@ -24,16 +24,16 @@ Considering key questions:
   - [Education](#education)
 - [**Servers**](#servers)
   - [NAS](#nas)
-- [**IoT, embedded devices, tablets**](#iot-embedded-devices-tablets)
+- [**IoT, embedded, tablets**](#iot-embedded-tablets)
   - [Phone](#phone)
     - [Android](#android)
 - [**Router and Firewall**](#router-and-firewall)
 - [**Virtualization**](#virtualization)
 - [**Unix**](#unix)
-- [**Hacking & Security**](#hacking-&-security)
+- [**Hacking & Security**](#hacking--security)
   - [Vulnerable VMs](#vulnerable-vms)
 - [**Other**](#other)
-  - [Boot & BIOS](#boot-&-bios)
+  - [Boot & BIOS](#boot--bios)
   - [Cloud](#cloud)
   - [Country Specific](#country-specific)
   - [Create Your Own Custom Linux OS](#create-your-own-custom-linux-os)
@@ -160,7 +160,7 @@ Considering key questions:
   - [TrueNAS](https://www.truenas.com)
   - [XigmaNAS](https://www.xigmanas.com/index.php?id=6)
 
-# IoT, embedded devices, tablets
+# IoT, embedded, tablets
 - [Alpine Linux](https://www.alpinelinux.org) - [Alpine Gitlab](https://gitlab.alpinelinux.org)
 - [Bliss OS - Android for your PC](https://blissos.org) - An Open Source OS, based on Android, that incorporates many optimizations, features, and expanded device support. And it is available for just about any Chromebook, Windows/Linux PC or tablet released in the last 4 years.
 - [Entware](https://github.com/Entware/Entware) - Ultimate repo for embedded devices. [Wiki](https://github.com/Entware/Entware/wiki)
