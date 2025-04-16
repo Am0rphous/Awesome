@@ -43,6 +43,39 @@ Considering key questions:
 
 <br> <br>
 
+
+
+# **Desktop**
+## ARM
+##Privacy & security](#privacy-and-security)
+##Minimal & Lightweight](#minimal-and-lightweight)
+##Education](#education)
+- [**Servers**](#servers)
+  - [NAS](#nas)
+- [**IoT, embedded devices, tablets**](#iot-embedded-devices-tablets)
+  - [Phone](#phone)
+    - [Android](#android)
+- [**Router and Firewall**](#router-and-firewall)
+- [**Virtualization**](#virtualization)
+- [**Unix**](#unix)
+- [**Hacking & Security**](#hacking-&-security)
+  - [Vulnerable VMs](#vulnerable-vms)
+- [**Other**](#other)
+  - [Boot & BIOS](#boot-&-bios)
+  - [Cloud](#cloud)
+  - [Country Specific](#country-specific)
+  - [Create Your Own Custom Linux OS](#create-your-own-custom-linux-os)
+  - [Old OS Releases](#old-os-releases)
+  - [Utilities](#utilities)
+  - [Web resources](#web-resources)
+
+
+
+
+
+
+
+
 ## A list of web resources
 - [Archiveos.org](https://archiveos.org) - Arhive of Operating Systems with Linux, BSD, DOS, Solaris and others.
 - [Distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox
