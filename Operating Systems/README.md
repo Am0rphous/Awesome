@@ -289,6 +289,7 @@ Considering key questions:
 - [Pardus Linux](https://www.pardusproject.org)
 
 ## Create Your Own Custom Linux OS
+- [buildroot](https://buildroot.org/) - [pdf](https://buildroot.org/downloads/manual/manual.pdf) "Buildroot is a tool that simplifies and automates the process of building a complete Linux system for an embedded system, using cross-compilation."
 - [Cubic](https://launchpad.net/cubic)
 - [Debian Custom ISO Scripts and Tutorial](https://github.com/RackunSec/debian-custom-iso-scripts) - These are scripts I made to help with the design and customization of a Debian ISO (Primarily WeakerThan Linux).
 - [Linux From Scratch](http://www.linuxfromscratch.org)
