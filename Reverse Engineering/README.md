@@ -128,7 +128,7 @@ colordiff -y -W 200 <(objdump -d /usr/local/bin/xiccd) <(objdump -d /usr/bin/xic
 - [Diaphora](https://github.com/joxeankoret/diaphora) - Diaphora, the most advanced Free and Open Source program diffing tool.
 - [Difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [Graudit](https://github.com/wireghoul/graudit) - grep rough audit - source code auditing tool.
-- [Grease](https://github.com/GaloisInc/grease) - CLI tool and Ghidra plug-in for analyzing binaries using under-constrained symbolic execution
+- [Grease](https://github.com/GaloisInc/grease) - CLI tool and Ghidra plug-in for analyzing binaries using under-constrained symbolic execution - [how to](https://www.galois.com/articles/introducing-grease)
 - [Route-sixty-sink](https://github.com/mandiant/route-sixty-sink) - Link sources to sinks in C# applications.
 
 - [SonarJS](https://github.com/SonarSource/SonarJS) - SonarSource Static Analyzer for JavaScript and TypeScript
