@@ -269,6 +269,7 @@ Description: The Portable Executable format is a file format for executables, ob
 
 ## Static Analysis
 - [CodeAnalysis](https://github.com/Tencent/CodeAnalysis) - Static Code Analysis.
+- [Mobsfscan](https://github.com/MobSF/mobsfscan) - mobsfscan is a static analysis tool that can find insecure code patterns in your Android and iOS source code. Supports Java, Kotlin, Swift, and Objective C Code. mobsfscan uses MobSF static analysis rules and is powered by semgrep and libsast pattern matcher.
 - [semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 
 ## Steganography
