@@ -130,6 +130,8 @@ sysdig
   ````powershell
   binwalk -e -M bzImage
   ````
+- [Firmwaretools](https://github.com/nmatt0/firmwaretools) - a set of scripts and tools for various firmware analysis tasks
+
 
 ## Hardware
 - [Board status](https://github.com/Ledger-Donjon/scaffold) - Donjon hardware tool for circuits security evaluation.
