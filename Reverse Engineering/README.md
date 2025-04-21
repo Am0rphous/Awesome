@@ -251,6 +251,7 @@ Description: Transforms a binary's machine code into assembly language/code.
   - [GhidraIDA](https://github.com/NyaMisty/GhidraIDA) - Ghidra's IDA like experience by @NyaMisty
   - [Ghidra_kernelcache](https://github.com/0x36/ghidra_kernelcache) - a Ghidra iOS kernelcache framework for reverse engineering.
   - [Ghidrathon](https://github.com/mandiant/Ghidrathon) - The FLARE team's open-source extension to add Python 3 scripting to Ghidra.
+  - [Grease](https://github.com/GaloisInc/grease) - CLI tool and Ghidra plug-in for analyzing binaries using under-constrained symbolic execution
   - [LazyGhidra](https://github.com/AllsafeCyberSecurity/LazyGhidra) - Make your Ghidra Lazy!
   - [Patching Binaries With Ghidra](https://materials.rangeforce.com/tutorial/2020/04/12/Patching-Binaries/)
   - [Processor Manual download script](https://gist.github.com/ckuethe/afdc091635b32ba1077d8470776942b8)
