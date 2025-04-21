@@ -124,10 +124,11 @@ colordiff -y -W 200 <(objdump -d /usr/local/bin/xiccd) <(objdump -d /usr/bin/xic
 ## Code Analysis
 - [CodeCat](https://github.com/CoolerVoid/codecat) - Tool to help in static analysis.
 - [CppCheck](https://github.com/danmar/cppcheck) -  Static analysis of C/C++ code.
+- [Dependency-check](https://github.com/jeremylong/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies. 
 - [Diaphora](https://github.com/joxeankoret/diaphora) - Diaphora, the most advanced Free and Open Source program diffing tool.
-- [difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
+- [Difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [Graudit](https://github.com/wireghoul/graudit) - grep rough audit - source code auditing tool.
-- [dependency-check](https://github.com/jeremylong/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies. 
+- [Grease](https://github.com/GaloisInc/grease) - CLI tool and Ghidra plug-in for analyzing binaries using under-constrained symbolic execution
 - [Route-sixty-sink](https://github.com/mandiant/route-sixty-sink) - Link sources to sinks in C# applications.
 
 - [SonarJS](https://github.com/SonarSource/SonarJS) - SonarSource Static Analyzer for JavaScript and TypeScript
