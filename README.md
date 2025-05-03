@@ -1111,8 +1111,10 @@ Based on that data, you can find the most popular ones and their alternatives.
   - [Notejot](https://github.com/lainsce/notejot) - Stupidly-simple notes app.
   - [Notes](https://github.com/nuttyartist/notes) - Note-taking application, write down your thoughts.
   - [Notion](https://www.notion.so) - All-in-one workspace.
-  - [obsidian.md](https://obsidian.md) - Obsidian is a powerful and extensible knowledge base
+  - [Obsidian](https://obsidian.md) - Obsidian is a powerful and extensible knowledge base
 that works on top of your local folder of plain text files. [github](https://github.com/obsidianmd/obsidian-releases)
+    - [Plugin - Charts ](https://charts.phib.ro/Meta/Charts/Charts+Documentation) - let's you create interactive Charts inside Obsidian - [source](https://github.com/phibr0/obsidian-charts)
+    - [plugin - Mind Map](https://github.com/lynchjames/obsidian-mind-map)
   - [P3X OneNote Linux](https://github.com/patrikx3/onenote) - 📚 Linux Electron Onenote - A Linux compatible version of OneNote.
   - [oamresearch.com](https://roamresearch.com/) - A note-taking tool for networked thought. As easy to use as a document. As powerful as a graph database. Roam helps you organize your research for the long haul.
   - [rofi-todo.sh](https://github.com/claudiodangelis/rofi-todo) - 📓 Minimal todo client for the rofi launcher.
