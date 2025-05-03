@@ -6,6 +6,7 @@
 - [1. OS dedicated for gaming](#1-os-dedicated-for-gaming)
 - [2. Gaming on Linux](#2-gaming-on-linux)
   - [Games](#games)
+  - [Performance Linux kernels](#performance-linux-kernels)
 - [3. Peripherals & Hardware](#3-peripherals--hardware)
 - [4. Various links](#4-various-links)
 
@@ -105,6 +106,11 @@
    - [Veloren](https://github.com/veloren/veloren) - An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World.
    - [WarkFork](https://store.steampowered.com/app/671610/Warfork/) - Free FPS
    - [Warsow - Warsow is Art of Respect and Sportsmanship Over the Web](https://warsow.net/) - Since 2005, Warsow is considered as one of the most skill-demanding games in the fast-paced arena shooter scene.[Discord](https://discord.com/invite/Z9UgZZM)
+
+## Performance Linux kernels
+- [linux-tkg](https://github.com/Frogging-Family/linux-tkg) - patches aiming for better desktop/gaming experience.
+- [liquorix](https://liquorix.net) - [source](https://github.com/zen-kernel/zen-kernel)
+- [XanMod ](https://xanmod.org/) - [source](https://gitlab.com/xanmod/linux)
 
 ## 3. Peripherals & Hardware
 - [AntiMicro](https://github.com/AntiMicro/antimicro) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
