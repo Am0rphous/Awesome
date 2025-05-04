@@ -87,6 +87,7 @@
      - https://www.opendesktop.org/p/1109280
    - [portablelinuxgames.org](https://portablelinuxgames.org/)
    - [Quake Wars: Enemy Territory](https://www.splashdamage.com/games/enemy-territory-quake-wars/)
+   - [Rally Championship Xtreme (Actualize, 2001)](https://archive.org/details/rally-championship-xtreme)
    - [S.T.A.L.K.E.R.]()
      - [S.T.A.L.K.E.R. Anomaly ](https://drakelings.bluedrake42.com/index.php?/blogs/entry/11-i-cant-believe-this-full-game-is-free/)
    - [Splitgate](https://store.steampowered.com/app/677620/Splitgate/) - Free and works on Steamos/linux
