@@ -786,7 +786,7 @@ Based on that data, you can find the most popular ones and their alternatives.
 
 ## Hardware
 - [Inventory Hunter](https://github.com/EricJMarti/inventory-hunter) - Get notified as soon as your next CPU, GPU, or game console is in stock.
-- MX Mouse 3S (silent): The left button might stop functioning. Change the switch to make it functioning. Buy **EVQ-P0E07K**. Fixing [1](https://www.ifixit.com/Answers/Device/Logitech_MX_Master_3S), [2](https://bnbhat.com/blog/mx-master-fix/), [technical details of switch](https://eu.mouser.com/ProductDetail/Panasonic/EVQ-P0E07K?qs=EER3j8OP4JjRBsW%252BCEIoOg%3D%3D)
+- MX Mouse 3S (silent): The left button might stop functioning. Change the switch to make it functioning. Buy **EVQ-P0E07K**. Fixing [1](https://www.ifixit.com/Answers/Device/Logitech_MX_Master_3S), [2](https://bnbhat.com/blog/mx-master-fix/), [technical details of switch](https://eu.mouser.com/ProductDetail/Panasonic/EVQ-P0E07K?qs=EER3j8OP4JjRBsW%252BCEIoOg%3D%3D), [technical image](https://cdn.shopify.com/s/files/1/0638/3599/6346/files/Sb0278a0312cb428db8ff5214d58718a8K.webp?v=1712278078)
 
 ## InfoSec
 - [academy.picussecurity.com](https://academy.picussecurity.com) - Open access cybersecurity courses
