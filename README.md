@@ -1097,6 +1097,7 @@ Based on that data, you can find the most popular ones and their alternatives.
 
   ### Note Taking Apps
   - [Acreom](https://acreom.com/)
+  - [Affine](https://affine.pro/) - [source](https://github.com/toeverything/AFFiNE)
   - [Ao](https://github.com/klaussinani/ao) - Elegant Microsoft To-Do desktop app [klaussinani.github.io/ao](https://klaussinani.github.io/ao).
   - [capacities](https://capacities.io/) - "Media uploads up to 5 GB total, 100 MB per month afterwards" 
   - [CherryTree](https://github.com/giuspen/cherrytree) - A hierarchical note taking application, featuring rich text and syntax highlighting, storing data in a single XML or SQLite file. The project home page is [giuspen.com/cherrytree](https://www.giuspen.com/cherrytree/)
