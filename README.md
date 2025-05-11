@@ -663,6 +663,7 @@ mv  ~/.config/redshift/redshift.conf ~/.config/redshift.conf   #nov 2024 solutio
     - [Laravel](https://github.com/laravel/laravel) - A PHP framework for web artisans.
       - [laravel.com](https://laravel.com)
       - [Laravel Passport](https://github.com/laravel/passport) - Laravel Passport provides OAuth2 server support to Laravel.
+    - [phpmanager](https://github.com/mlocati/powershell-phpmanager)
     #### Python
     - [Moved to -> Am0rphous/Python](https://github.com/Am0rphous/Python)
     #### Rust
