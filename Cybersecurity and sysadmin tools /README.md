@@ -1539,6 +1539,7 @@ sudo systemctl enable lkrg
 
 
 ## Vulnerabilities and risk management
+- [OpenCVE](https://www.opencve.io/) - Opensource Vulnerability Management Platform - [source](https://github.com/opencve/opencve)
 - [Vulcan.io](https://vulcan.io) - Correlate, prioritize, and manage vulnerabilities and risk across all attack surfaces in one place. 
 
 ## Web and Proxy Tools
