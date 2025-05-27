@@ -590,6 +590,8 @@ mv  ~/.config/redshift/redshift.conf ~/.config/redshift.conf   #nov 2024 solutio
     #### C
     - [Introduction to C (Malware Bible)](https://bible.malcore.io/readme/the-beginning/introduction-to-c)
     - [Learning-C](https://github.com/h0mbre/Learning-C) - A series of mini-projects used to learn C for beginners
+    #### C#
+    - get source code by loading it in [dnSpy](https://dnspy.org/)
 
     #### C++
     - [academia.edu](https://www.academia.edu/search?nbs=view&q=c++%20programming&utf8=%E2%9C%93) - lots of papers
