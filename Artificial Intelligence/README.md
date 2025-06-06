@@ -127,6 +127,7 @@ _Convolutional neural networks power image recognition and computer vision tasks
   - [ImageAIDocumentation](https://github.com/OlafenwaMoses/ImageAIDocumentation) - Official English Documentation of ImageAI.
 - [Instruct-pix2pix](https://github.com/timothybrooks/instruct-pix2pix) - null
 - [LivePortrait](https://github.com/KwaiVGI/LivePortrait) - Bring portraits to life! 
+- [LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference
 - [Multimodal-GPT](https://github.com/open-mmlab/Multimodal-GPT) - Multimodal-GPT
 - [Omost](https://github.com/lllyasviel/Omost) - Your image is almost there!
 - [PromptFix](https://github.com/yeates/PromptFix) - You Prompt and We Fix the Photo 
