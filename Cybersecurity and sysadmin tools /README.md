@@ -301,6 +301,7 @@ bro / zeek
   ### Analysis Tools Online
   - [Any Run](https://app.any.run/) - Cloud-based sandbox.
   - [Avira Analysis](https://www.avira.com/en/analysis/submit)
+  - [https://exalyze.io](https://exalyze.io/)
   - [Filescan.io](https://www.filescan.io/scan) 
   - [Fortiguard onlinescanner](https://www.fortiguard.com/faq/onlinescanner)
   - [Hybrid-Analysis](https://www.hybrid-analysis.com/) - free malware analysis service.
