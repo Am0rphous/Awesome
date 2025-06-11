@@ -265,9 +265,11 @@ bro / zeek
 - [PHP Malware Finder](https://github.com/jvoisin/php-malware-finder) - Does its very best to detect obfuscated/dodgy code as well as files using PHP functions often used in malwares/webshells.
 - [PhpMussel](https://github.com/phpMussel/phpMussel) - PHP-based anti-virus anti-trojan anti-malware solution.
   - [phpMussel Signatures](https://github.com/phpMussel/Signatures) - Contains signature updates for phpMussel.
-- [Raspirus](https://github.com/Raspirus/Raspirus) -  A lightweight and intuitive Virusscanner - Open Source! 
-- [Rootkit Hunter](http://rkhunter.sourceforge.net/) - Rootkit Hunter (commonly abbreviated as RKH) is a security monitoring and analyzing tool for POSIX compliant systems, to help you detect known rootkits, malware and signal general bad security practices.
-  - [rkhunter - salsa.debian.org](https://salsa.debian.org/pkg-security-team/rkhunter) - rkhunter packaging
+- [Raspirus](https://github.com/Raspirus/Raspirus) -  A lightweight and intuitive Virusscanner - Open Source!
+- Rootkits
+  - [Kdrill](https://github.com/ExaTrack/Kdrill) - Python tool to check rootkits in Windows kernel 
+  - [Rootkit Hunter](http://rkhunter.sourceforge.net/) - Rootkit Hunter (commonly abbreviated as RKH) is a security monitoring and analyzing tool for POSIX compliant systems, to help you detect known rootkits, malware and signal general bad security practices.
+    - [rkhunter - salsa.debian.org](https://salsa.debian.org/pkg-security-team/rkhunter) - rkhunter packaging
 - [Shell-Detector](https://github.com/emposha/Shell-Detector) - Helps you find and identify php/cgi(perl)/asp/aspx shells.
 - [Sophos Antivirus For Linux](https://www.sophos.com/en-us/products/free-tools/sophos-antivirus-for-linux.aspx/RK=2/RS=caAEioDVltcMG4sRYQ.wlS_THec-)
 - [Strelka](https://github.com/target/strelka) - Real-time, container-based file scanning at enterprise scale
