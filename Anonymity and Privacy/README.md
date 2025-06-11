@@ -68,6 +68,7 @@
 - [ProxyChains-NG by rofl0r](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.
 
   #### Tor - The Onion Router
+  - [Oniux: Tor Project Groundbreaking Tool for Secure Linux Application Communication](https://www.security.land/oniux-tor-project-groundbreaking-tool-for-secure-linux-application-communication/)
   - [Onionbalance v3](https://github.com/asn-d6/onionbalance/) - mirror of (https://gitlab.torproject.org/asn/onionbalance).
   - [Real-World Onion Sites](https://github.com/alecmuffett/real-world-onion-sites#tech-and-software) - list of substantial, commercial-or-social-good mainstream websites which provide onion services.
   - [The Hitchhiker's Guide to Online Anonymity ](https://github.com/NobodySpecial256/thgtoa)
