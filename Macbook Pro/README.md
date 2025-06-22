@@ -1,6 +1,8 @@
 # Macbook Pro Resources
 - [macOS 🍎 CheatSheets - Am0rphous](https://github.com/Am0rphous/CheatSheets/tree/main/macOS%20%F0%9F%8D%8E)
 
+<br>
+
 Table of content
 1. [Business](#business)
 2. [Collection of various resources](#collection-of-various-resources)
@@ -74,7 +76,7 @@ Table of content
 
 - Tor
   - The torrc file is located at `~/Library/Application Support/TorBrowser-Data/Tor`
-````powershell
+````shell
 brew install tor
 brew services start tor
 brew info tor
