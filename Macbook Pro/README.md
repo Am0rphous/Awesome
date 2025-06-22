@@ -1,5 +1,5 @@
 # Macbook Pro Resources
-- [macOS 🍎 CheatSheets](https://github.com/Am0rphous/CheatSheets/tree/main/macOS%20%F0%9F%8D%8E)
+- [macOS 🍎 CheatSheets - Am0rphous](https://github.com/Am0rphous/CheatSheets/tree/main/macOS%20%F0%9F%8D%8E)
 
 Table of content
 1. [Business](#business)
