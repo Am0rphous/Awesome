@@ -1,9 +1,11 @@
 # Web Resources
 
-- [Buying Linux Computers](#buying-linux-computers)
+- [Buying Linux Computers](#buying-linux-computers
+- [Businesss](#business)
 - [Cyber Security News](#cyber-security-news)
   - [Feeds](#feeds)
   - [Norwegian Sources](#Norwegian-Sources)
+- [Equipment](#equipment)
 - [Forums and blogs](#forums-and-blogs)
 - [Games](#games)
   - [Hacker Simulator](#hacker-simulator)
@@ -74,6 +76,19 @@
     - [Digital Sikkerhet 2021](https://www.telenor.no/om/digital-sikkerhet/2021.jsp)
     - [Digital Sikkerhet 2020](https://www.telenor.no/om/digital-sikkerhet/2021.jsp)
     - [Digital Sikkerhet 2019 ](https://www.telenor.no/om/digital-sikkerhet/2019.html)
+
+## Equipment
+- [https://www.survivalgeneral.com](https://www.survivalgeneral.com)
+- [https://www.norsegear.no](https://www.norsegear.no)
+- [https://www.equipnor.com/](https://www.equipnor.com/) 
+- [https://www.511tactical.com/](https://www.511tactical.com/)
+- [https://www.militarysurplus.eu](https://www.militarysurplus.eu)
+- [https://www.skarpekniver.com/](https://www.skarpekniver.com/)
+- [https://kniveksperten.no](https://kniveksperten.no)
+- [https://www.skittjakt.no](https://www.skittjakt.no)
+- [https://www.magasinet.no/](https://www.magasinet.no/)
+- 
+
 
  ## Forums and blogs
  - [AA - cyber-security-blogs.txt](https://gist.github.com/Neo23x0/3375536faf266794db5c0e90fd202f5a)
