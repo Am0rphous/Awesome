@@ -1,6 +1,6 @@
 # Web Resources
 
-- [Buying Linux Computers](#buying-linux-computers
+- [Buying Linux Computers](#buying-linux-computers)
 - [Businesss](#business)
 - [Cyber Security News](#cyber-security-news)
   - [Feeds](#feeds)
