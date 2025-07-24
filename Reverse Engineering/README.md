@@ -317,6 +317,7 @@ getcap            #examine file capabilities
 - [Rizin](https://github.com/rizinorg/rizin) - UNIX-like reverse engineering framework and command-line toolset.
 
 ## Learning Resources
+- ctf's, courses and so on..
 - [Learning Reverse Engineering](https://github.com/jstrosch/learning-reverse-engineering)
 - [Reverse-engineering - wtsxDev](https://github.com/wtsxDev/reverse-engineering) - List of awesome reverse engineering resources
 - [Reverse-engineering-workshop](https://github.com/romainthomas/reverse-engineering-workshop) - Slides & Hands-on for the reverse engineering workshop
