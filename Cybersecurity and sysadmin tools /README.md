@@ -1505,6 +1505,7 @@ sudo systemctl enable lkrg
  - [HAXM](https://github.com/intel/haxm) - HAXM is a cross-platform hardware-assisted virtualization engine (hypervisor), widely used as an accelerator for Android Emulator and QEMU. It has always supported running on Windows and macOS, and has been ported to other host operating systems as well, such as Linux and NetBSD.
  - [Hyperbox](https://github.com/hyperbox/hyperbox) - Virtual Infrastructure Manager for VirtualBox
  - [KVM](https://www.linux-kvm.org/page/Main_Page)
+   - Cheatsheets for [installing KVM on Linux](https://github.com/Am0rphous/CheatSheets/tree/main/Virtualization/KVM#setup)
    - [Learn-kvm](https://github.com/yifengyou/learn-kvm) - Qemu KVM(Kernel Virtual Machine)学习笔记
    - [Everything about KVM-Virtualization with Rocky Linux](https://github.com/tomwechsler/KVM-Virtualization-with-Rocky-Linux)
    - [Kimchi](https://github.com/kimchi-project/kimchi) - HTML5 based management tool for KVM.
