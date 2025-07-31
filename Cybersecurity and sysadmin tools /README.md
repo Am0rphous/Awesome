@@ -884,6 +884,8 @@ upstream_recursive_servers:
     - [Openvpn install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora.
     - [OpenVPN WebAdmin](https://github.com/Wutze/OpenVPN-WebAdmin) - Create and manage your virtual private network via web browser and OpenVPN with your private OpenVPN-WebAdmin.
     - [Ovpn-admin](https://github.com/flant/ovpn-admin) - Simple web UI to manage OpenVPN users.
+  - [OutLine](https://getoutline.org/) - [Install on Linux](https://kifarunix.com/how-to-install-outline-vpn-on-linux-systems/)
+    - [Outline-server](https://github.com/Jigsaw-Code/outline-server) - Outline Server, developed by Jigsaw. The Outline Server is a proxy server that runs a Shadowsocks instance and provides a REST API for access key management.
   - [Streisand](https://github.com/StreisandEffect/streisand) - Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.
   - [Proton VPN](https://protonvpn.com/secure-vpn/) - highly recommended - for every platform. [github](https://github.com/ProtonVPN)
     - [VPN Threat Model](https://protonvpn.com/blog/threat-model/)
