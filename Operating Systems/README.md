@@ -19,6 +19,7 @@ Considering key questions:
 
 - [**Desktop**](#desktop)
   - [ARM](#ARM)
+  - [Content Creation](#content-creation)
   - [Privacy & security](#privacy--security)
   - [Minimal & Lightweight](#minimal--lightweight)
   - [Education](#education)
@@ -74,6 +75,7 @@ Considering key questions:
 - [Solus](https://getsol.us/home)
 - [Ubuntu Desktop](https://ubuntu.com) - Cloud, servers, IoT, desktop.
   - [Ubuntu 20.04 Installation Guide on amd64](https://help.ubuntu.com/20.04/installation-guide/amd64/index.html)
+  - [Ubuntu Budgie](https://ubuntubudgie.org/) - beautiful
 - [Windows 7 - 32bit](https://archive.org/details/windows7homepremiumsp132bit) - Never use this as a desktop os, but more within malware analysis or pentesting.
 - [Windows 10 VMs](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
   - [Fido: A PowerShell download script for Windows ISOs and UEFI Shell](https://github.com/pbatard/Fido) - A PowerShell script to download Windows ISOs or the UEFI Shell 
@@ -82,11 +84,12 @@ Considering key questions:
 
 ## ARM
 - [Asahi](https://asahilinux.org) - Asahi Linux aims to bring you a polished Linux experience on Apple Silicon Macs.
-
-
 - [Fedora Asahi Remix](https://fedora-asahi-remix.org/) - "Fedora Linux 39 + Apple Silicon = Fedora Asahi Remix"
 - [Ubuntu](https://cdimage.ubuntu.com/daily-live/current/)
 - [Windows 11](https://github.com/Botspot/bvm) - User friendly, high performance Windows 11 Virtual Machine on ARM Linux
+
+## Content Creation
+- [Ubuntu Studio](https://ubuntustudio.org/) - Audio, graphics, video, photography
 
 ## Privacy & security
  - [PureOS](https://pureos.net/) - Privacy and security focused Debian-based dstribution.
@@ -113,14 +116,17 @@ Considering key questions:
 
 ## Minimal & Lightweight
 - Also check this [list](Light-weight Linux distribution)
-- [antiX Linux](https://antixlinux.com/) - Proudly anti-fascist "antiX Magic" in an environment suitable for old and new computers.
+- [antiX Linux](https://antixlinux.com/) - 512MB RAM is the recommended minimum for antiX. Installation to hard drive requires a minimum 7.0GB hard disk size.
 - [ArchBang](https://archbang.org/)
 - [Bodhi Linux](https://www.bodhilinux.com/) - Lightweight distribution featuring the fast & fully customizable Moksha Desktop.
 - [Linux Lite](https://www.linuxliteos.com/) - Linux Lite isn't the smallest Linux distro of all, but it does run well on sufficiently scaled-back hardware. Based upon Ubuntu, the minimum recommended specs are a 1GHz processor with 768MB RAM, along with 8GB storage, which most modern hardware vastly outstrips. So, you can imagine how well Linux Lite will run on an older machine.
+- [Linux Mint](https://www.linuxmint.com/) - 2 GB of RAM, 20 GB of hard drive space, 1024 x 768 resolution
+- [PepperMintOS](https://peppermintos.com/) - Minimum system requirements: 1 GB of RAM, Processor based on Intel x86 architecture, 10GB of available disk space. Recommended: 4 GB RAM, x84/amd64, 32 GB disk
 - [Porteus](http://www.porteus.org/) - Porteus is a complete linux operating system that is optimized to run from CD, USB flash drive, hard drive, or other bootable storage media. It's small (under 300Mb) and insanely fast which allows you to start up and get online while most other operating systems are left spitting dust. Porteus comes in both 32 & 64 bit and aims to keep on the bleeding edge.
 - [Photon OS -> Minimal ISO x86_64 (~600 MB)](https://github.com/vmware/photon) - Photon OS™ is an open source Linux container host optimized for cloud-native applications, cloud platforms, and VMware infrastructure. Photon OS provides a secure run-time environment for efficiently running containers.
 - [Proxmox's supported distro list](https://pve.proxmox.com/pve-docs/chapter-pct.html)
 - [Puppy Linux](https://puppylinux.com/)
+- [Q4OS](https://www.q4os.org/) - System requirements minimum Trinity: 300MHz CPU / 128MB RAM / 3GB disk. Plasma desktop - 1GHz CPU / 1GB RAM / 5GB disk
 - [SliTaz](https://www.slitaz.org/en/) - SliTaz is a secure and high performance operating system using the Linux Kernel and GNU software.
 - [Tiny Core Linux](http://tinycorelinux.net/welcome.html) - full Linux desktop in 22 MB. Unlike most operating systems, the Tiny Core can run completely from RAM. 
 - Ubuntu Minimal
