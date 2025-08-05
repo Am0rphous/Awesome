@@ -897,36 +897,23 @@ Based on that data, you can find the most popular ones and their alternatives.
    - [YEd Graph Editor](https://www.yworks.com/products/yed) - Powerful desktop application that can be used to quickly and effectively generate high-quality diagrams.
    
   ### Video
-   - [Asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
    - [Awesome Broadcasting](https://github.com/ebu/awesome-broadcasting) - A curated list of amazingly awesome open source resources related to broadcast technologies
    - [Awesome Video](https://github.com/krzemienski/awesome-video) - A curated list of awesome streaming video tools, frameworks, libraries, and learning resources. 
    - [ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly.
      - [Gopro-dashboard-overlay](https://github.com/time4tea/gopro-dashboard-overlay) - Programs to process GoPro MP4 & Generic GPX/FIT files and create video dashboards & maps
-
    - [FFscreencast](https://github.com/cytopia/ffscreencast) - ffscreencast - ffmpeg screencast/desktop-recording with video overlay and multi monitor support.
    - [Free assets for your next video project](https://mixkit.co/)
    - [Free Stock Video Footage ](https://www.videvo.net/)
-   - [Kap](https://github.com/wulkano/Kap) -  An open-source screen recorder built with web technology.
    - [Kasm Community Edition](https://www.kasmweb.com/community-edition) - Linux, Windows
-   - [Kazam](https://github.com/hzbd/kazam) - Kazam is a simple screen recording program that will capture the content of your screen.
-   - [Kdenlive](https://invent.kde.org/multimedia/kdenlive) - Free and open source video editor, based on MLT Framework and KDE Frameworks 5. [Github](https://github.com/KDE/kdenlive)
-  - [Lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
-   - [OBS Studio](https://github.com/obsproject/obs-studio) - Free and open source software for live streaming and screen recording.
-     - [Screen Recording in Linux With OBS and Wayland](https://itsfoss.com/screen-record-obs-wayland/)
-     - Plugins
-       - [Awesome-OBS-Plugin-List](https://github.com/streamgeeks/Awesome-OBS-Plugin-List) - Awesome OBS Plugin List
-         - [Obs-backgroundremoval](https://github.com/occ-ai/obs-backgroundremoval) - An OBS plugin for removing background in portrait images (video), making it easy to replace the background when recording or streaming.
-         - Enable Virtual camera on Linux: `sudo apt install -y v4l2loopback-dkms`
 
+  - [Lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
    - [Pensela](https://github.com/weiameili/Pensela) - The Swiss Army Knife of Screen Annotation Tool
    - [Pitivi](https://www.pitivi.org/) - Free video editor with a beautiful and intuitive user interface, a clean codebase and a fantastic community.
    - [Poketube](https://github.com/ashley0143/poketube) - offical github mirror of poketube (https://codeberg.org/Ashley/poketube/) - [poketube.fun](https://poketube.fun)
-   - [Screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥.
-   - [SSR (SimpleScreenRecorder)](https://github.com/MaartenBaert/ssr) - SimpleScreenRecorder, a screen recorder for Linux
    - [V4l2loopback](https://github.com/v4l2loopback/v4l2loopback) - v4l2-loopback device 
    - [Vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
    - [Xtreme Download Manager](https://github.com/subhra74/xdm) -  Powerfull download accelerator and video downloader.
-   - Youtube
+   - Youtube apps
      - [FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
      - [Invidious](https://invidious.io/) - Invidious is an open source alternative front-end to YouTube. [Github](https://github.com/iv-org/invidious)
        - [Invidious Instances](https://docs.invidious.io/instances/)
@@ -934,8 +921,22 @@ Based on that data, you can find the most popular ones and their alternatives.
      - [LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
      - [PipePipe](https://github.com/InfinityLoop1308/PipePipe) - A FLOSS Android app to let you browse YouTube, NicoNico and BiliBili freely.
      - [Youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
+  #### Video Editing
+  - [Kdenlive](https://invent.kde.org/multimedia/kdenlive) - Free and open source video editor, based on MLT Framework and KDE Frameworks 5. [Github](https://github.com/KDE/kdenlive)
+  - [OpenCut](https://github.com/OpenCut-app/OpenCut) -[Edit in browser](https://opencut.app/)
 
-
+  #### Video Recording
+   - [Asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
+   - [Kap](https://github.com/wulkano/Kap) -  An open-source screen recorder built with web technology.
+   - [Kazam](https://github.com/hzbd/kazam) - Kazam is a simple screen recording program that will capture the content of your screen.
+   - [OBS Studio](https://github.com/obsproject/obs-studio) - Free and open source software for live streaming and screen recording.
+     - [Screen Recording in Linux With OBS and Wayland](https://itsfoss.com/screen-record-obs-wayland/)
+     - Plugins
+       - [Awesome-OBS-Plugin-List](https://github.com/streamgeeks/Awesome-OBS-Plugin-List) - Awesome OBS Plugin List
+         - [Obs-backgroundremoval](https://github.com/occ-ai/obs-backgroundremoval) - An OBS plugin for removing background in portrait images (video), making it easy to replace the background when recording or streaming.
+         - Enable Virtual camera on Linux: `sudo apt install -y v4l2loopback-dkms`
+   - [Screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥.
+   - [SSR (SimpleScreenRecorder)](https://github.com/MaartenBaert/ssr) - SimpleScreenRecorder, a screen recorder for Linux
 
   ### Media Servers
   - [AirUx](https://github.com/init1lham/AirUx/) - AirPlay For Linux
