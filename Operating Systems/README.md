@@ -19,8 +19,8 @@ Considering key questions:
 
 - [**Desktop**](#desktop)
   - [ARM](#ARM)
-  - [Privacy & security](#privacy-and-security)
-  - [Minimal & Lightweight](#minimal-and-lightweight)
+  - [Privacy & security](#privacy--security)
+  - [Minimal & Lightweight](#minimal--lightweight)
   - [Education](#education)
 - [**Servers**](#servers)
   - [NAS](#nas)
@@ -224,8 +224,17 @@ Considering key questions:
 - [Zeroshell Linux Router](https://zeroshell.org) - Routing and Bridging Firewall Solutions.
 
 # Virtualization
-- [Citrix XenServer](https://docs.citrix.com/en-us/xenserver.html)
+- [GNOME Boxes](https://apps.gnome.org/Boxes/)
+- [KVM](https://linux-kvm.org/page/Main_Page)
+- [oVirt](https://www.ovirt.org/)
+- [Proxmox VE](https://www.proxmox.com/en/)
+- [QEMU](https://www.qemu.org/)
+- [SmartOS](https://www.tritondatacenter.com/smartos)
+- [VirtualBox](https://www.virtualbox.org/)
 - [Xen XCP-ng](https://xcp-ng.org/) - Open source virtualization solution with pro support options for the most demanding companies. 
+- [Xen Project](https://xenproject.org/)
+- [Xvisor](https://xhypervisor.org/)
+
 
 # Unix
 - [DragonFly BSD](https://www.dragonflybsd.org)
