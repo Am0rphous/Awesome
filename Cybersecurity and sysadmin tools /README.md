@@ -892,6 +892,9 @@ upstream_recursive_servers:
     - [Linux app github](https://github.com/ProtonVPN/linux-app) - [Linux app github CLI](https://github.com/ProtonVPN/linux-cli)
   - [Vtun](https://github.com/net-byte/vtun) - A simple VPN written in Go.
   - [WireGuard](https://github.com/WireGuard) - WireGuard® is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. [Wireguard.com](https://www.wireguard.com)
+  ````shell
+  sudo snap install wireguard-gui    #install gui package
+  ````
     - [docker-wireguard](https://github.com/linuxserver/docker-wireguard)
     - [docker-wireguard-socks-proxy](https://github.com/kizzx2/docker-wireguard-socks-proxy) - Expose a WireGuard tunnel as a SOCKS5 proxy 
     - [Firezone](https://github.com/firezone/firezone) - WireGuard®-based VPN server and firewall
@@ -1004,6 +1007,12 @@ upstream_recursive_servers:
 pip freeze --local | Select-String -NotMatch '^-e' | ForEach-Object { $_.ToString().Split('=')[0] } | ForEach-Object { pip install --upgrade $_ }
 ````
 - [Snapd](https://snapcraft.io) - [Github](https://github.com/snapcore/snapd)
+````shell
+sudo snapd install                 #install
+snap --help
+snap warnings                      #list warnings if any
+sudo snap install wireguard-gui    #install package
+````
 
 ### Finding Software
 - [Bitnami by VMware](https://bitnami.com/)
