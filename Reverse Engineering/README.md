@@ -339,6 +339,7 @@ getcap            #examine file capabilities
 - [ArmPIv3](https://github.com/waldo-irc/ArmPi) - Raspbian IMG for ARM Reverse Engineering for CTFs.
 
 ## Packers & Unpackers
+- [Nauz File Detector ](https://github.com/horsicq/Nauz-File-Detector) - Linker/Compiler/Tool detector for Windows, Linux and MacOS. 
 - [Python-exe-unpacker](https://github.com/countercept/python-exe-unpacker) - A helper script for unpacking and decompiling EXEs compiled from python code. 
 - [Unpacker Karton Service](https://github.com/c3rb3ru5d3d53c/karton-unpacker) - A modular Karton Framework service that unpacks common packers like UPX and others using the Qiling Framework. 
 - [UPX](https://github.com/upx/upx) - UPX - the Ultimate Packer for eXecutables.
