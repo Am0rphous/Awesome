@@ -953,6 +953,7 @@ Based on that data, you can find the most popular ones and their alternatives.
     - [Omni](https://github.com/tidusjar/Ombi) - Want a Movie or TV Show on Plex or Emby? Use Ombi. [omni.io](https://ombi.io/)
     - [Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server.
     - [Telly](https://github.com/tellytv/telly) - IPTV proxy for Plex Live written in Golang.
+    - [overseerr](https://overseerr.dev/)
   - [Snapcast](https://github.com/badaix/snapcast) - Snapcast is a multiroom client-server audio player, where all clients are time synchronized with the server to play perfectly synced audio. [Homepage Snapcast](https://mjaggard.github.io/snapcast/)
 
     #### Docker
