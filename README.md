@@ -942,7 +942,24 @@ Based on that data, you can find the most popular ones and their alternatives.
   - [AirUx](https://github.com/init1lham/AirUx/) - AirPlay For Linux
   - [Bazarr](https://github.com/morpheus65535/bazarr) - Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everything for you.
   - [Bitmagnet](https://github.com/bitmagnet-io/bitmagnet) - A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.
-  - [Forked-daapd](https://github.com/ejurgensen/forked-daapd) - Linux/FreeBSD DAAP (iTunes) and MPD media server with support for AirPlay devices (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio. 
+  - [Forked-daapd](https://github.com/ejurgensen/forked-daapd) - Linux/FreeBSD DAAP (iTunes) and MPD media server with support for AirPlay devices (multiroom), Apple Remote (and compatibles), Chromecast, Spotify and internet radio.
+  - [Immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. [backup faq](https://immich.app/docs/administration/backup-and-restore)
+    - Some notes when running immich with docker-compose. [https://frey.today/how-to-backup-immich/](https://frey.today/how-to-backup-immich/)
+      ````shell
+      #Do manual backup
+      sudo docker stop immich_server 
+      docker exec -t immich_postgres pg_dumpall -c -U postgres | gzip > "/home/user/manual_immich_dump.sql.gz"
+
+      #Connect external SSD
+      sudo mkdir /mnt/ssd
+      sudo mount /dev/sdb2 /mnt/ssd
+      sudo mkdir /mnt/ssd/immich-backuppp
+      sudo mv /home/user/manual_immich_dump.sql.gz /mnt/ssd/immich-backuppp
+
+      #Cd into Immmich upload library:
+      cd ~/myContainerz/immich/upload-library/
+      sudo rsync -avh ./* /mnt/ssd/immich-backuppp
+      ````
   - [Jellyfin](https://github.com/jellyfin/jellyfin) - Free Software Media System that puts you in control of managing and streaming your media. [jellyfin.org](https://jellyfin.org)
   - [Kodi](https://github.com/xbmc/xbmc) - award-winning free and open source home theater/media center software and entertainment hub for digital media. [kodi.tv](https://kodi.tv)
   - [Lidarr](https://github.com/lidarr/Lidarr) - Lidarr is a music collection manager for Usenet and BitTorrent users. [lidarr.audio](https://lidarr.audio/)
