@@ -72,34 +72,30 @@ NumCPUs 8            #Adjust tor to use more cores. Might be a limit on 2 cores(
 
 ### Relay Operator Tip
 - [Exit Relay Setup (outdated)](https://torservers.net/exit-relay-setup/#some-useful-defaults)
-
 - [Expectations for relay operators](https://community.torproject.org/policies/relays/expectations-for-relay-operators/)
 - [Official relay operator documentation](https://community.torproject.org/relay/)
 - [Tor Relay Guide - Security](https://gitlab.torproject.org/legacy/trac/-/wikis/TorRelayGuide/Security)
-
-
 - [torsocks](https://gitweb.torproject.org/torsocks.git/) - Linx `sudo apt install torsocks` and on macOS run `brew install torsocks`
-````shell
-torsocks on                           #Set your current shell in Tor mode
-torsocks off
-torsocks curl ifconfig.me             #shows your Tor IP
-torsocks ssh user@host.com -p 1234    #SSH over Tor
-````
+  ````shell
+  torsocks on                           #Set your current shell in Tor mode
+  torsocks off
+  torsocks curl ifconfig.me             #shows your Tor IP
+  torsocks ssh user@host.com -p 1234    #SSH over Tor
+  ````
 - [www.torproject.org/download/](https://www.torproject.org/download/)
-<br>Linux
-````shell
-sudo apt install tor torbrowser-launcher nyx
-sudo service tor restart && sudo service tor status
-netstat -tulpn | grep tor
-````
-
+- Linux
+  ````shell
+  sudo apt install tor torbrowser-launcher nyx
+  sudo service tor restart && sudo service tor status
+  netstat -tulpn | grep tor
+  ````
  - Install proxychains-ng to be able to run programs over Tor
-````shell
-sudo apt install proxychains-ng -y
-proxychains4 curl ifconfig.me                 # should list tor IP
-proxychains4 program-name program-parameters
-proxychains4 nmap -v 1.1.1.1 -p 80
-````
+  ````shell
+  sudo apt install proxychains-ng -y
+  proxychains4 curl ifconfig.me                 # should list tor IP
+  proxychains4 program-name program-parameters
+  proxychains4 nmap -v 1.1.1.1 -p 80
+  ````
 
 ## Log Files
 ````shell
@@ -117,11 +113,11 @@ sudo updatedb && locate tor.log        #locate the log file
   - [https://docs.onionshare.org](https://docs.onionshare.org) - CLI](https://docs.onionshare.org/2.3.1/en/advanced.html#command-line-interface)
 - For macOS just run `brew install --cask onionshare`
 - For Linux: 
-````shell
-sudo apt install onionshare
-onionshare-cli --chat                                                        # start a chat server
-onionshare-cli --receive --persistent ~/anon-dropbox.session --public        # start a persistent anonymous dropbox
-````
+  ````shell
+  sudo apt install onionshare
+  onionshare-cli --chat                                                        # start a chat server
+  onionshare-cli --receive --persistent ~/anon-dropbox.session --public        # start a persistent anonymous dropbox
+  ````
 
 ## Whonix - A secure OS routing traffic through Tor
 - [Whonix ™ for KVM](https://www.whonix.org/wiki/KVM)
