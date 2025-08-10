@@ -45,10 +45,10 @@ NumCPUs 8            #Adjust tor to use more cores. Might be a limit on 2 cores(
   - [obfs4-spec.txt](https://github.com/Yawning/obfs4/blob/master/doc/obfs4-spec.txt)
 - [Official bridge-in-docker documentation)](https://community.torproject.org/relay/setup/bridge/docker/)
 
-#### Snowflake bridges (proxies)
-- Linux setup the [easy way](https://unredacted.org/guides/infrastructure/tor/how-to-run-your-own-tor-snowflake-proxy/#run-a-snowflake-proxy-on-a-linux-server): `sudo snap install tor-snowflake`
-- [Official Snowflake doc](https://community.torproject.org/relay/setup/snowflake/standalone/) - Snowflake is a new circumvention tool which provides access to the free and open internet.
-- [Technical Overview](https://gitlab.torproject.org/tpo/anti-censorship/pluggable-transports/snowflake/-/wikis/Technical%20Overview)
+  #### Snowflake bridges (proxies)
+  - Linux setup the [easy way](https://unredacted.org/guides/infrastructure/tor/how-to-run-your-own-tor-snowflake-proxy/#run-a-snowflake-proxy-on-a-linux-server): `sudo snap install tor-snowflake`
+  - [Official Snowflake doc](https://community.torproject.org/relay/setup/snowflake/standalone/) - Snowflake is a new circumvention tool which provides access to the free and open internet.
+  - [Technical Overview](https://gitlab.torproject.org/tpo/anti-censorship/pluggable-transports/snowflake/-/wikis/Technical%20Overview)
 
 ### Hidden Services
 - [Create a hidden service in a container](https://github.com/3xploitGuy/torwebsite) - A container to host website on Tor hidden service with .onion address.
