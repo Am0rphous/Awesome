@@ -97,6 +97,37 @@ NumCPUs 8            #Adjust tor to use more cores. Might be a limit on 2 cores(
   proxychains4 nmap -v 1.1.1.1 -p 80
   ````
 
+  ### Backup Tor Relay and move to new server
+  ````shell
+  sudo tar czvf tor-backup-$(date +%F).tar.gz /var/lib/tor/keys /etc/tor/torrc
+  scp tor-backup-10.08.25.tar.gz user@server.com:/home/user
+  scp -P 2222 tor-backup-10.08.25.tar.gz user@server.com:/tmp
+  
+  #On new server
+  tar xvf tor-backup-10.08.25.tar.gz        #Extract, verbose, this file
+
+  rm /etc/tor/torrc                         #remove default config file
+  rm /var/lib/tor/keys/*                    #remove keys
+
+  mv ./etc/tor/torrc /etc/tor/torrc         #import backup config
+  mv ./var/lib/tor/keys* /var/lib/tor/keys   #import backup keys
+
+  #Ensure correct permissions
+  sudo chown -R debian-tor:debian-tor /var/lib/tor/keys
+  sudo chmod 600 /var/lib/tor/keys/*
+
+  sudo service tor@default restart
+  sudo service tor@default status           #wait while bootstrapping and creating circuts
+  ````
+  - Default locations of the keys folder:
+  ````
+  Debian/Ubuntu: /var/lib/tor/keys
+  FreeBSD: /var/db/tor/keys
+  OpenBSD: /var/tor/keys
+  Fedora: /var/lib/tor/keys
+  ````   
+
+
 ## Log Files
 ````shell
 sudo cat /var/log/syslog | grep tor -i
