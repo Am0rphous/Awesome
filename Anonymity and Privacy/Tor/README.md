@@ -61,14 +61,14 @@ NumCPUs 8            #Adjust tor to use more cores. Might be a limit on 2 cores(
 ### Monitoring
 - [Nyx](https://nyx.torproject.org/) - Nyx is a command-line monitor for Tor. With this you can get detailed real-time information about your relay such as bandwidth usage, connections, logs, and much more. [Nyx' github](https://github.com/torproject/nyx)
   - If you get error `Cannot read TOR's control_auth_cookie` then try:
-````powershell
-sudo usermod -aG $USER debian-tor             #run this
-sudo adduser $USER debian-tor                 # or this one (ubuntu)
-#sudo chmod 644 /run/tor/control.authcookie   #be careful with this one
-nyx
-nyx -i 127.0.0.1:9051    #connect to localhost on the port 9051
-nyx -i 9052              #if you run more bridges on the server
-````
+  ````shell
+  sudo usermod -aG $USER debian-tor             #run this
+  sudo adduser $USER debian-tor                 # or this one (ubuntu)
+  #sudo chmod 644 /run/tor/control.authcookie   #be careful with this one
+  nyx
+  nyx -i 127.0.0.1:9051    #connect to localhost on the port 9051
+  nyx -i 9052              #if you run more bridges on the server
+  ````
 
 ### Relay Operator Tip
 - [Exit Relay Setup (outdated)](https://torservers.net/exit-relay-setup/#some-useful-defaults)
@@ -79,7 +79,7 @@ nyx -i 9052              #if you run more bridges on the server
 
 
 - [torsocks](https://gitweb.torproject.org/torsocks.git/) - Linx `sudo apt install torsocks` and on macOS run `brew install torsocks`
-````powershell
+````shell
 torsocks on                           #Set your current shell in Tor mode
 torsocks off
 torsocks curl ifconfig.me             #shows your Tor IP
@@ -87,14 +87,14 @@ torsocks ssh user@host.com -p 1234    #SSH over Tor
 ````
 - [www.torproject.org/download/](https://www.torproject.org/download/)
 <br>Linux
-````powershell
+````shell
 sudo apt install tor torbrowser-launcher nyx
 sudo service tor restart && sudo service tor status
 netstat -tulpn | grep tor
 ````
 
  - Install proxychains-ng to be able to run programs over Tor
-````powershell
+````shell
 sudo apt install proxychains-ng -y
 proxychains4 curl ifconfig.me                 # should list tor IP
 proxychains4 program-name program-parameters
@@ -102,14 +102,12 @@ proxychains4 nmap -v 1.1.1.1 -p 80
 ````
 
 ## Log Files
-````
+````shell
 sudo cat /var/log/syslog | grep tor -i
 sudo journalctl -f -u tor@default | grep bootstrapped -i
 sudo journalctl -u tor@default
 sudo updatedb && locate tor.log        #locate the log file
-````
-Paths used for logs:
-````
+
 /var/log/tor                  # Linux
 /usr/local/var/log/tor.log    # MacOS
 ````
@@ -119,7 +117,7 @@ Paths used for logs:
   - [https://docs.onionshare.org](https://docs.onionshare.org) - CLI](https://docs.onionshare.org/2.3.1/en/advanced.html#command-line-interface)
 - For macOS just run `brew install --cask onionshare`
 - For Linux: 
-````powershell
+````shell
 sudo apt install onionshare
 onionshare-cli --chat                                                        # start a chat server
 onionshare-cli --receive --persistent ~/anon-dropbox.session --public        # start a persistent anonymous dropbox
@@ -128,31 +126,31 @@ onionshare-cli --receive --persistent ~/anon-dropbox.session --public        # s
 ## Whonix - A secure OS routing traffic through Tor
 - [Whonix ™ for KVM](https://www.whonix.org/wiki/KVM)
 Commands
-````
-tar -xvf Whonix-*.xz
-sudo virsh -c qemu:///system net-define Whonix_external*.xml
-sudo virsh -c qemu:///system net-define Whonix_internal*.xml
-sudo virsh -c qemu:///system net-autostart Whonix-External
-sudo virsh -c qemu:///system net-start Whonix-External
-sudo virsh -c qemu:///system net-autostart Whonix-Internal
-sudo virsh -c qemu:///system net-start Whonix-Internal
-````
+  ````shell
+  tar -xvf Whonix-*.xz
+  sudo virsh -c qemu:///system net-define Whonix_external*.xml
+  sudo virsh -c qemu:///system net-define Whonix_internal*.xml
+  sudo virsh -c qemu:///system net-autostart Whonix-External
+  sudo virsh -c qemu:///system net-start Whonix-External
+  sudo virsh -c qemu:///system net-autostart Whonix-Internal
+  sudo virsh -c qemu:///system net-start Whonix-Internal
+  ````
 - Access over vnc: edit `/etc/libvirt/qemu.conf` and restart libvirtd
 - KVM image failed to start with virsh, permission denied
-````
-User = "root"
-group = "root"
-vnc_listen = "0.0.0.0"
-virt-viewer vnc://localhost:5901
-````
+  ````shell
+  User = "root"
+  group = "root"
+  vnc_listen = "0.0.0.0"
+  virt-viewer vnc://localhost:5901
+  ````
 - Routing another VM through Whonix on Virtualbox: First remove the default nic. Then add the internal whonix-nic to the VM. Then give the VM network settings which may look like:
-````
-iface eth0 inet static
-  address 10.152.152.11
-  netmask 255.255.192.0
-  gateway 10.152.152.10
-  dns-nameservers 10.152.152.10 #cant remember if this was correct syntax lol
-````
+  ````shell
+  iface eth0 inet static
+    address 10.152.152.11
+    netmask 255.255.192.0
+    gateway 10.152.152.10
+    dns-nameservers 10.152.152.10 #cant remember if this was correct syntax lol
+  ````
 
 ## Useful Resources
 - [Active Onions](https://github.com/k4m4/active-onions) - Filter out inactive onions from an array of onion URLs.
