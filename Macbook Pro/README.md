@@ -1,5 +1,6 @@
 # Macbook Pro Resources
 - [macOS 🍎 CheatSheets - Am0rphous](https://github.com/Am0rphous/CheatSheets/tree/main/macOS%20%F0%9F%8D%8E)
+- [Mac Keyboard shortcuts](https://support.apple.com/en-ca/102650)
 
 <br>
 
