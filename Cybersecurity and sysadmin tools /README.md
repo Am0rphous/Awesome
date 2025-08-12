@@ -466,6 +466,34 @@ bro / zeek
 ## File Sharing
 - [Croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [Cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.  
+- [Filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser - [https://filebrowser.org](https://filebrowser.org), [Tutorial with Caddy](https://selfhost.club/guides/fileserver/)
+````shell
+#Username "admin" and password is displayed in the docker logs
+sudo docker logs filebrowser
+
+#runs behind reverse proxy (nginx). Setting the Baseurl is therefore important
+docker run \
+    -d \
+    --name=filebrowser \
+    -v /mnt/mystorage/filebrowser/data:/srv \
+    -v /mnt/mystorage/filebrowser:/database \
+    -v /mnt/mystorage/filebrowser:/config \
+    -e PUID=$(id -u) \
+    -e PGID=$(id -g) \
+    -e FB_BASEURL=/filebrowser \
+    -p 8181:80 \
+    --restart unless-stopped \
+    filebrowser/filebrowser:s6
+
+#Snippet of nginx location config:
+    location /filebrowser/ {
+        proxy_pass http://127.0.0.1:8080/;   #Docker conteiner running Filebrowser
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+}
+````
 - [Flying Carpet](https://github.com/spieglt/FlyingCarpet) - Encrypted file transfer over ad hoc WiFi. No network infrastructure required, just two laptops in close range. Linux, Mac, and Windows.
 - [Forban](https://github.com/adulau/Forban) - Forban is a p2p application for link-local and local area networks. Forban works independently from the Internet and uses only the local area capabilities to announce, discover, search or share files. Forban relies on HTTP and it is "opportunistic". http://www.foo.be/forban
 - [Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported. 
