@@ -90,6 +90,7 @@ Table of content
 
 ## Coding
 - [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
+- [Open-lovable](https://github.com/mendableai/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
 - [Octogen](https://github.com/dbpunk-labs/octogen) - Octogen is an Open-Source Code Interpreter Powered by GPT3.5/4 and Codellama 
 - [Tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant 
 
