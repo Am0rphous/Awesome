@@ -630,7 +630,6 @@ Snort -c /etc/snort/rules/local.rules -v -A console    #Use Snort rules without 
 - [Lima Charlie](https://github.com/nextgens/limacharlie) - Endpoint monitoring stack.
 - [Mission Center](https://gitlab.com/mission-center-devs/mission-center) - On Linux, Monitor your CPU, Memory, Disk, Network and GPU usage with Mission Center
 - [Neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
-
 - [Netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [NetLock RMM Cloud](https://github.com/0x101-Cyber-Security/NetLock-RMM) - Remote Monitoring & Management (RMM) software built for Managed Service Providers, with a future focus on cybersecurit
 - [Prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. 
