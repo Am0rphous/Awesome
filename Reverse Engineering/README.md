@@ -88,6 +88,7 @@ windres       # A compiler for Windows resource files.
 - [DBA](https://github.com/s0i37/DBA) - Dynamic Binary Analysis scripts.
 - [DRAKVUF™](https://github.com/tklengyel/drakvuf) - DRAKVUF is a virtualization based agentless black-box binary analysis system. DRAKVUF allows for in-depth execution tracing of arbitrary binaries (including operating systems), all without having to install any special software within the virtual machine used for analysis. [drakvuf.com](https://drakvuf.com)
 - [Fq](https://github.com/wader/fq) - jq for binary formats.
+- [LIEF](https://github.com/lief-project/LIEF) - LIEF - Library to Instrument Executable Formats (C++, Python, Rust)
 - nm - usage: `nm -D file.so | grep T`
 - [Package Analysis](https://github.com/ossf/package-analysis) - Open Source Package Analysis.
 - [Pharos ](https://github.com/cmu-sei/pharos) - Automated static analysis tools for binary programs.
