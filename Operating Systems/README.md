@@ -61,7 +61,7 @@ Considering key questions:
 - [Garuda Linux](https://garudalinux.org)
 - [KDE Neon](https://neon.kde.org)
 - [KDE Plasma](https://kde.org)
-- [Linux Lite](https://www.linuxliteos.com/) - Based on Debian and Ubuntu. Lightweigth OS. Perfect OS if you want to go from Windows to a Windows-like OS but want it to be Linux.
+- [Linux Lite](https://www.linuxliteos.com/) - Based on Debian and Ubuntu. [Recommended](https://wiki.linuxliteos.com/en/home) speccs: 1,5ghz cpu, 4 gb ram, 40 gb disk
 - [Linux Mint](https://linuxmint.com/)
   - [Awesome Mint Setup](https://github.com/trinib/Awesome-Mint-Setup) - 😎 Awesome setup for Linux Mint Cinnamon 
 - [Manjaro](https://manjaro.org)
