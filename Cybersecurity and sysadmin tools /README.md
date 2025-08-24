@@ -947,6 +947,7 @@ upstream_recursive_servers:
     #### Services
     - [Cryptofree](https://cryptostorm.is/cryptofree)
     - [FreeVPN.me](https://freevpn.me/)
+      - not sure if affiliated but [Google Verified FreeVPN Caught Red-handed Spying on its Users](https://news.itsfoss.com/freevpn-fiasco/) - "If it is free, you are the product. Unless it is free and open source."
     - [JonDoNym - anonymous-proxy-servers.net](https://anonymous-proxy-servers.net/)
       - [Combining Whonix ™ with JonDonym](https://www.whonix.org/wiki/JonDonym)
     - [vpnbook.com](https://www.vpnbook.com/)
