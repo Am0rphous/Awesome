@@ -132,8 +132,9 @@ shred -vfz /dev/sdb       #f=forces write permissions if missing
 - [opentech.fund](https://www.opentech.fund/) - Our Funds and Fellowships provide support to researchers, technologists, and digital security experts developing solutions to empower and protect users from repressive government censorship and surveillance globally.
 
 ## Mobile
-- [GrapheneOS](https://grapheneos.org/) - The private and secure mobile operating system with Android app compatibility. Developed as a non-profit open source project.
-  - [GrapheneOS-Guide](https://github.com/Scrut1ny/GrapheneOS-Guide) - A resource for users intent on optimizing their usage of this highly secure and privacy focused mobile operating system. 
+- [**GrapheneOS**](https://grapheneos.org/) - Private and secure mobile OS with Android compatibility. Developed as a non-profit open source project.
+  - [Banking Applications compatibility with GrapheneOS](https://github.com/PrivSec-dev/privsec.dev/blob/main/content/posts/android/Banking%20Applications%20compatibility%20with%20GrapheneOS.md)
+  - [Guide (Scrut1ny)(https://github.com/Scrut1ny/GrapheneOS-Guide) - A resource for users intent on optimizing their usage of this highly secure and privacy focused mobile operating system. 
 
 ## Network Simulation
 - [flare-fakenet-ng](https://github.com/fireeye/flare-fakenet-ng) - Next Generation Dynamic Network Analysis Tool.
