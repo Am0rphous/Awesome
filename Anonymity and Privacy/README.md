@@ -116,10 +116,10 @@
 - [Secure-rm](https://github.com/secure-rm/core) - Completely erases files by making recovery impossible. (core library for secure-rm) 
 - [secure-rm-cli](https://github.com/oganexon/secure-rm-cli) - Completely erases files by making recovery impossible. (CLI for secure-rm) 
 - shred
-````
-shred -vzu -n5 pw.txt     #v=verbose z=zeros after hred u=remove file n=number of overwrites
-shred -vfz /dev/sdb       #f=forces write permissions if missing
-````
+ ````
+ shred -vzu -n5 pw.txt     #v=verbose z=zeros after hred u=remove file n=number of overwrites
+ shred -vfz /dev/sdb       #f=forces write permissions if missing
+ ````
 - [shred-go](https://github.com/lu4p/shred) - This is a libary to mimic the functionallity of the linux shred command. 
 - [wiper](https://github.com/r3nt0n/wiper) - Toolkit to perform secure destruction of sensitive virtual data, temporary files and swap memories. 
 
@@ -134,7 +134,8 @@ shred -vfz /dev/sdb       #f=forces write permissions if missing
 ## Mobile
 - [**GrapheneOS**](https://grapheneos.org/) - Private and secure mobile OS with Android compatibility. Developed as a non-profit open source project.
   - [Banking Applications compatibility with GrapheneOS](https://github.com/PrivSec-dev/privsec.dev/blob/main/content/posts/android/Banking%20Applications%20compatibility%20with%20GrapheneOS.md)
-  - [Guide (Scrut1ny)(https://github.com/Scrut1ny/GrapheneOS-Guide) - A resource for users intent on optimizing their usage of this highly secure and privacy focused mobile operating system. 
+  - [Guide (Scrut1ny)](https://github.com/Scrut1ny/GrapheneOS-Guide) - A resource for users intent on optimizing their usage of this highly secure and privacy focused mobile operating system.
+  - [Android Tips.md](https://github.com/PrivSec-dev/privsec.dev/blob/main/content/posts/android/Android%20Tips.md)
 
 ## Network Simulation
 - [flare-fakenet-ng](https://github.com/fireeye/flare-fakenet-ng) - Next Generation Dynamic Network Analysis Tool.
