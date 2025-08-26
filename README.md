@@ -301,6 +301,7 @@ Communicate clearly <br>
   - [https://simplex.chat/](https://simplex.chat/) - The first messenger without user IDs. Other apps have user IDs: Signal, Matrix, Session, Briar, Jami, Cwtch, etc. SimpleX does not, not even random numbers. This radically improves your privacy. 
   - [Session](https://getsession.org/) - Session is an end-to-end encrypted messenger that minimises sensitive metadata, designed and built for people who want absolute privacy and freedom from any form of surveillance. [Session Desktop](https://github.com/oxen-io/session-desktop) - Session Desktop - Onion routing based messenge. [Don’t Use Session (Signal Fork)](https://soatok.blog/2025/01/14/dont-use-session-signal-fork/)
   - [Signal](https://www.signal.org) - Supports any platform (Linux, MacOS, Windows, Android and iOS)
+    - Help people in regions blocked by Signal, to circumvent blocking by running [Signal TLS Proxy](https://github.com/signalapp/Signal-TLS-Proxy) - [https://signal.org/blog/proxy-please/](https://signal.org/blog/proxy-please/)
   - [Wire](https://github.com/wireapp/wire) - [app.wire.com](https://app.wire.com/auth/)
 
   ### Version Control, Wiki, Knowledge base
