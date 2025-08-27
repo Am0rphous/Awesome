@@ -334,7 +334,6 @@ getcap            #examine file capabilities
 - [AndroGuard](https://github.com/androguard/androguard) - Reverse engineering, Malware and goodware analysis of Android applications ... and more (ninja !)
  - [AndroGuard docs](https://androguard.readthedocs.io/en/latest/index.html) - Documentation.
  - [OWASP Mobile Security Testing Guide](https://github.com/OWASP/owasp-mstg) - The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security development, testing and reverse engineering.
-- [Santuko Linux](https://santoku-linux.com) - Mobile forensics, mobile malware and mobile security.
 
 ## OSes
 - [ArmPIv3](https://github.com/waldo-irc/ArmPi) - Raspbian IMG for ARM Reverse Engineering for CTFs.
