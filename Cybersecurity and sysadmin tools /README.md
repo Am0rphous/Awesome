@@ -1675,6 +1675,8 @@ sudo systemctl enable lkrg
 
   ### WAF
   - [GoTestWAF](https://github.com/wallarm/gotestwaf) - An open-source project in Golang to test different web application firewalls (WAF) for detection logic and bypasses.
+  - [Teler-proxy](https://github.com/teler-sh/teler-proxy) - 🔐 teler Proxy enabling seamless integration with teler WAF 🛡️ to protect locally running web service against a web-based attacks. 🥷
+
   - [ML-based-WAF](https://github.com/vladan-stojnic/ML-based-WAF) - Simple machine learning based web application firewall (WAF) created in python
    - [Naxsi](https://github.com/nbs-system/naxsi) - NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX
    - [Shadowd](https://github.com/zecure/shadowd) - The Shadow Daemon web application firewall server
