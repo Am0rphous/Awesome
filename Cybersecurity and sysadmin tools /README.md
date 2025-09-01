@@ -920,10 +920,10 @@ upstream_recursive_servers:
     - [VPN Threat Model](https://protonvpn.com/blog/threat-model/)
     - [Linux app github](https://github.com/ProtonVPN/linux-app) - [Linux app github CLI](https://github.com/ProtonVPN/linux-cli)
   - [Vtun](https://github.com/net-byte/vtun) - A simple VPN written in Go.
-  - [WireGuard](https://github.com/WireGuard) - WireGuard® is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. [Wireguard.com](https://www.wireguard.com)
-  ````shell
-  sudo snap install wireguard-gui    #install gui package
-  ````
+  - [**WireGuard**](https://github.com/WireGuard) - WireGuard® is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. [Wireguard.com](https://www.wireguard.com)
+    - [GUI client #1](https://snapcraft.io/wireguard-gui) `sudo snap install wireguard-gui`
+    - [GUI client #2](https://github.com/UnnoTed/wireguird) - wireguard gtk gui for linux
+    - [**Wg-easy**](https://github.com/WeeJeWel/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
     - [docker-wireguard](https://github.com/linuxserver/docker-wireguard)
     - [docker-wireguard-socks-proxy](https://github.com/kizzx2/docker-wireguard-socks-proxy) - Expose a WireGuard tunnel as a SOCKS5 proxy 
     - [Firezone](https://github.com/firezone/firezone) - WireGuard®-based VPN server and firewall
@@ -931,19 +931,18 @@ upstream_recursive_servers:
     - [Netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
     - [Subspace](https://github.com/subspacecloud/subspace) - A simple WireGuard VPN server GUI.
       - [Subspace fork](https://github.com/subspacecommunity/subspace) - A fork of the simple WireGuard VPN server GUI community maintained.
-    - [Tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. [Tailscale.com](https://www.tailscale.com)
-    - [Tinc VPN](https://tinc-vpn.org/) - Tinc is an open-source, self-routing, mesh networking protocol and software implementation used for compressed and encrypted virtual private networks. 
-      - [How to install tinc VPN on Ubuntu Linux 16.04 LTS](https://www.cyberciti.biz/faq/how-to-install-tinc-vpn-on-ubuntu-linux-16-04-to-secure-traffic/)
-    - [Ubuntu 20.04 set up WireGuard VPN server](https://www.cyberciti.biz/faq/ubuntu-20-04-set-up-wireguard-vpn-server/)
-    - [Wg-easy](https://github.com/WeeJeWel/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
     - [wg-install](https://github.com/its0x08/wg-install) - Wireguard road warrior installer for Ubuntu, Debian, CentOS and Fedora.
     - [Wg-meshconf](https://github.com/k4yt3x/wg-meshconf) - WireGuard full mesh configuration generator.
     - [Wireguard-go](https://github.com/WireGuard/wireguard-go) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
-    - [Wireguird](https://github.com/UnnoTed/wireguird) - wireguard gtk gui for linux
     - [wireguard install](https://github.com/Nyr/wireguard-install) - WireGuard road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora.
     - [WireGuard installer](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers 
     - [Wireguard-macOS-LinuxVM](https://github.com/mrash/Wireguard-macOS-LinuxVM) -  Send all traffic from macOS through Wireguard running on a Linux VM.
     - [Wireguard Whitepaper](https://www.wireguard.com/papers/wireguard.pdf) - WireGuard: Next Generation Kernel Network Tunnel.
+  - [Tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA. [Tailscale.com](https://www.tailscale.com)
+  - [Tinc VPN](https://tinc-vpn.org/) - Tinc is an open-source, self-routing, mesh networking protocol and software implementation used for compressed and encrypted virtual private networks. 
+    - [How to install tinc VPN on Ubuntu Linux 16.04 LTS](https://www.cyberciti.biz/faq/how-to-install-tinc-vpn-on-ubuntu-linux-16-04-to-secure-traffic/)
+  - [Ubuntu 20.04 set up WireGuard VPN server](https://www.cyberciti.biz/faq/ubuntu-20-04-set-up-wireguard-vpn-server/)
+
 
     #### Services
     - [Cryptofree](https://cryptostorm.is/cryptofree)
