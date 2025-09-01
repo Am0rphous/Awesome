@@ -670,6 +670,7 @@ sudo service psacct restartchkconfig --level 13 psacct on
   - [CVElk](https://github.com/jgamblin/CVElk) - Autoconfigured ELK Stack That Contains All EPSS and NVD CVE Data
   - [Dsiem](https://github.com/defenxor/dsiem) - Security event correlation engine for ELK stack
   - [Elasticsearch](https://github.com/elastic/elasticsearch) - Open Source, Distributed, RESTful Search Engine.
+    - [Elasticsearch GUI client](https://github.com/geek-fun/dockit) - [https://dockit.geekfun.club/](https://dockit.geekfun.club/)
     - [detection-rules](https://github.com/elastic/detection-rules) -  Rules for Elastic Security's detection engine.
       - [Protections Artifacts](https://github.com/elastic/protections-artifacts) - Elastic Security detection content for Endpoint 
     - [ee-outliers](https://github.com/NVISOsecurity/ee-outliers) - Open-source framework to detect outliers in Elasticsearch events.
