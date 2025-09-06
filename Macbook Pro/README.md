@@ -20,7 +20,7 @@ Table of content
     - [Package Managers](#Package-Managers)
     - [Security](#security)
     - [Virtualization](#Virtualization)
-7. [Macbook with Linux resources](#Macbook-with-Linux-resources)
+7. [Macbook with Linux](#Macbook-with-Linux)
     - [Acces your iPhone on Linux](#Acces-your-iPhone-on-Linux)
     - [Macbook Pro 14.3 (late 2017)](#macbook-pro-143-late-2017)
     - [Status](#status)
@@ -207,7 +207,7 @@ brew analytics off
     - [VMWare Fusion](https://www.vmware.com/products/fusion/fusion-evaluation.html)
       - [Open Virtualization Format Tool (ovftool)](https://code.vmware.com/web/tool/4.4.0/ovf) - VMware OVF Tool is a command-line utility that allows you to import and export OVF packages to and from many VMware products.
 
-## Macbook with Linux resources
+## Macbook with Linux
 - [Asahi Linux ](https://asahilinux.org/) <-- NICE: "Asahi Linux aims to bring you a polished Linux® experience on Apple Silicon Macs."
 - [bcwc_pcie](https://github.com/patjak/bcwc_pcie) - Reverse engineered Linux driver for the FacetimeHD (Broadcom 1570) PCIe webcam.
 - [Hw-probe](https://github.com/linuxhw/hw-probe) - Probe for hardware, check operability and find drivers.
@@ -229,6 +229,8 @@ brew analytics off
     - [Maybe this works brcmfmac43602-pcie.txt](https://github.com/Dunedan/mbp-2016-linux/files/4977482/brcmfmac43602-pcie.txt)
   - [Sonal's macbookpro14-3 repo](https://github.com/sonals/macbookpro14-3)
   - [ubuntu-22.04-mbp-a1707.md](https://gist.github.com/rob-hills/9134b7352ee7471c4d4f4fbd6454c4b9)
+  - [MacBookPro-14-3-Ubuntu - marvinrobot78](https://github.com/marvinrobot78/MacBookPro-14-3-Ubuntu) - Installing Ubuntu 24.04 on a MacBookPro14,3 (2017)
+
 
   ### Status
 - [Linux support for Apple devices with the T2 security chip](https://t2linux.org/) - [Wiki](https://github.com/t2linux/wiki)
