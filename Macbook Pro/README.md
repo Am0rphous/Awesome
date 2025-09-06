@@ -230,6 +230,7 @@ brew analytics off
   - [Sonal's macbookpro14-3 repo](https://github.com/sonals/macbookpro14-3)
   - [ubuntu-22.04-mbp-a1707.md](https://gist.github.com/rob-hills/9134b7352ee7471c4d4f4fbd6454c4b9)
   - [MacBookPro-14-3-Ubuntu - marvinrobot78](https://github.com/marvinrobot78/MacBookPro-14-3-Ubuntu) - Installing Ubuntu 24.04 on a MacBookPro14,3 (2017)
+  - [ubuntu-on-mbp-a1707.md](https://gist.github.com/almas/5f75adb61bccf604b6572f763ce63e3e)
 
 
   ### Status
