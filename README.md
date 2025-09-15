@@ -988,6 +988,7 @@ Based on that data, you can find the most popular ones and their alternatives.
     - [Museeks](https://github.com/martpie/museeks) - 🎵 A simple, clean and cross-platform music player
     - [Musicpod](https://github.com/ubuntu-flutter-community/musicpod) - Music, radio, television and podcast player for the Ubuntu Desktop 
     - [navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
+    - [Polaris](https://github.com/agersant/polaris) - Polaris is a music streaming application, designed to let you enjoy your music collection from any computer or mobile device.
     - [Subsonic](http://www.subsonic.org/pages/index.jsp) - Music streaming server.
       - [Subsonic App List](http://www.subsonic.org/pages/apps.jsp)
     - [SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
