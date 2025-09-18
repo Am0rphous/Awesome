@@ -1028,6 +1028,7 @@ upstream_recursive_servers:
 - [Chocolatey](https://github.com/chocolatey/choco) - Package manager for Windows.
 - [Gem (RubyGems)](https://rubygems.org) - package management framework for Ruby.
 - [FlatPak](https://flatpak.org)
+  - After install run `flatpak remote-add --user --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo` to be able to install packages.
 - [Nimble](https://github.com/nim-lang/nimble#nimble-usage) - Package manager for the Nim programming language.
 - [Nixpkgs](https://github.com/NixOS/nixpkgs) - collection of over 60,000 software packages that can be installed with the Nix package manager [nixos.org](https://nixos.org).
 - [Pip (Python package manger)](https://pypi.org/project/pip/)
