@@ -141,10 +141,8 @@ Considering key questions:
 
 ## Windows
 - Can i make Linux feel like Windows? Ofc try [Wubuntu](https://www.wubuntu.org/): _"Linux with Windows appearance, without any hardware restrictions."_ Or try [ReactOS](https://reactos.org/) which _"is a free and open-source operating system that looks like Windows and is able to run both Windows software and drivers."_
-
 - Windows 7 - **Never** use as a desktop.
   - [https://archive.org/details/windows7homepremiumsp132bit]((https://archive.org/details/windows7homepremiumsp132bit)) 32-bit
-
 - Windows 10
   - [Don't use Windows 10 - It's a privacy nightmare](https://www.privacytools.io/operating-systems/#win10)
   - Lightweight w10 resources
@@ -152,15 +150,12 @@ Considering key questions:
  - Official from microsoft
    - [https://www.microsoft.com/en-us/software-download/windows10ISO](https://www.microsoft.com/en-us/software-download/windows10ISO) - w10
    - [https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/) - w10 vms
-
 - **Gaming**: If you're not gonna download and daily drive the os, but only gonna game try [AtlasOS](https://github.com/Atlas-OS/Atlas) - _An open source modification of the Windows 10 operating system, designed to optimize performance, and latency._
     - [https://archive.org/details/atlasos-20h2](https://archive.org/details/atlasos-20h2)
-  
 - Tools
   - [Fido: PowerShell download script for Windows ISOs and UEFI Shell](https://github.com/pbatard/Fido)
   - [Windows 10/11 VM on Linux (QEMU/libvirt/KVM) with Secure Boot, BitLocker, and good performance ](https://github.com/infokiller/win10-vm)
   - [Windows inside a Docker container. ](https://github.com/dockur/windows)
-
 - Ranting
   - [Article in Medium: How Bullshit Has Dominated The Tech Industry](https://medium.com/@fulalas/how-bullshit-has-dominated-the-tech-industry-bc63257f2a91) - Go down to _"Microsoft is perhaps unbeatable in this regard"_
   - [https://www.reddit.com/r/microsoftsucks/](https://www.reddit.com/r/microsoftsucks/)
