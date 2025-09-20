@@ -23,6 +23,7 @@ Considering key questions:
   - [Privacy & security](#privacy--security)
   - [Minimal & Lightweight](#minimal--lightweight)
   - [Education](#education)
+  - [Windows](#Windows) - bloated privacy nightmare
 - [**Servers**](#servers)
   - [NAS](#nas)
 - [**IoT, embedded, tablets**](#iot-embedded-tablets)
@@ -76,9 +77,6 @@ Considering key questions:
 - [Ubuntu Desktop](https://ubuntu.com) - Cloud, servers, IoT, desktop.
   - [Ubuntu 20.04 Installation Guide on amd64](https://help.ubuntu.com/20.04/installation-guide/amd64/index.html)
   - [Ubuntu Budgie](https://ubuntubudgie.org/) - beautiful
-- [Windows 7 - 32bit](https://archive.org/details/windows7homepremiumsp132bit) - Never use this as a desktop os, but more within malware analysis or pentesting.
-- [Windows 10 VMs](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
-  - [Fido: A PowerShell download script for Windows ISOs and UEFI Shell](https://github.com/pbatard/Fido) - A PowerShell script to download Windows ISOs or the UEFI Shell 
 - [Qubes OS](https://www.qubes-os.org/downloads) - OS designed for privacy and security.
 - [Zorin OS](https://zorinos.com) 
 
@@ -140,6 +138,32 @@ Considering key questions:
 - [Edubuntu](https://www.edubuntu.org) - "previously known as Ubuntu Education Edition, was an official derivative of the Ubuntu operating system designed for use in classrooms inside schools, homes and communities." [Wikipedia](https://en.wikipedia.org/wiki/Edubuntu)
 - [Qimo 4 Kids](http://www.qimo4kids.com) - "a Linux distribution designed for young users from 3 years old and above. Qimo is built on the top of Xubuntu and uses the Xfce desktop environment as default."
 - [Ubermix](http://www.ubermix.org) - "Built by educators with an eye towards student and teacher empowerment."
+
+## Windows
+- Can i make Linux feel like Windows? Ofc try [Wubuntu](https://www.wubuntu.org/): _"Linux with Windows appearance, without any hardware restrictions."_ Or try [ReactOS](https://reactos.org/) which _"is a free and open-source operating system that looks like Windows and is able to run both Windows software and drivers."_
+
+- Windows 7 - **Never** use as a desktop.
+  - [https://archive.org/details/windows7homepremiumsp132bit]((https://archive.org/details/windows7homepremiumsp132bit)) 32-bit
+
+- Windows 10
+  - [Don't use Windows 10 - It's a privacy nightmare](https://www.privacytools.io/operating-systems/#win10)
+  - Lightweight w10 resources
+    - [Tiny10](https://archive.org/details/tiny-10_202301) - (Lightweight Windows 10)
+ - Official from microsoft
+   - [https://www.microsoft.com/en-us/software-download/windows10ISO](https://www.microsoft.com/en-us/software-download/windows10ISO) - w10
+   - [https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/) - w10 vms
+
+- **Gaming**: If you're not gonna download and daily drive the os, but only gonna game try [AtlasOS](https://github.com/Atlas-OS/Atlas) - _An open source modification of the Windows 10 operating system, designed to optimize performance, and latency._
+    - [https://archive.org/details/atlasos-20h2](https://archive.org/details/atlasos-20h2)
+  
+- Tools
+  - [Fido: PowerShell download script for Windows ISOs and UEFI Shell](https://github.com/pbatard/Fido)
+  - [Windows 10/11 VM on Linux (QEMU/libvirt/KVM) with Secure Boot, BitLocker, and good performance ](https://github.com/infokiller/win10-vm)
+  - [Windows inside a Docker container. ](https://github.com/dockur/windows)
+
+- Ranting
+  - [Article in Medium: How Bullshit Has Dominated The Tech Industry](https://medium.com/@fulalas/how-bullshit-has-dominated-the-tech-industry-bc63257f2a91) - Go down to _"Microsoft is perhaps unbeatable in this regard"_
+  - [https://www.reddit.com/r/microsoftsucks/](https://www.reddit.com/r/microsoftsucks/)
 
 # Servers
 - [Arch Linux](https://www.archlinux.org)
@@ -331,16 +355,6 @@ distribution into a Live Kit (formely known as Live CD).
 - [Archiveos.org](https://archiveos.org) - Arhive of Operating Systems with Linux, BSD, DOS, Solaris and others.
 - [Distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox
 - [DistroWatch.com](https://distrowatch.com) - Insane amount of various distros.
-- [Don't use Windows 10 - It's a privacy nightmare](https://www.privacytools.io/operating-systems/#win10)
-  - If you need Windows then check out [AtlasOS](https://github.com/Atlas-OS/Atlas) - _An open source modification of the Windows 10 operating system, designed to optimize performance, and latency._
-    - [ AtlasOS 20H2 v0.5.2 ](https://archive.org/details/atlasos-20h2)
-  - [Tiny10](https://archive.org/details/tiny-10_202301) - (Lightweight Windows 10)
-  - [Article in Medium: How Bullshit Has Dominated The Tech Industry](https://medium.com/@fulalas/how-bullshit-has-dominated-the-tech-industry-bc63257f2a91) - Go down to _"Microsoft is perhaps unbeatable in this regard"_
-  - [ReactOS](https://reactos.org/) - ReactOS is a free and open-source operating system that looks like Windows and is able to run both Windows software and drivers.
-  - [Windows 10 ISO](https://www.microsoft.com/en-us/software-download/windows10ISO) - Officially by Microsoft
-  - [Windows vm notes](https://github.com/infokiller/win10-vm) - Windows 10/11 VM on Linux (QEMU/libvirt/KVM) with Secure Boot, BitLocker, and good performance
-  - [Windows in a Docker containe](https://github.com/dockur/windows) - Windows in a Docker container.
-  - [Wubuntu](https://www.wubuntu.org/) - Linux with Windows appearance, without any hardware restrictions.
 - [Hardware for Linux Trends](https://linux-hardware.org/?view=trends)
 
 
