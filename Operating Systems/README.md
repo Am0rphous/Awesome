@@ -35,7 +35,7 @@ Considering key questions:
 - [**Hacking & Security**](#hacking--security)
   - [Vulnerable VMs](#vulnerable-vms)
 - [**Other**](#other)
-  - [Boot & BIOS](#boot--bios)
+  - [BIOS and Bootloaders](#bios-and-bootloaders)
   - [Cloud](#cloud)
   - [Country Specific](#country-specific)
   - [Create Your Own Custom Linux OS](#create-your-own-custom-linux-os)
@@ -191,7 +191,7 @@ Considering key questions:
   - [XigmaNAS](https://www.xigmanas.com/index.php?id=6)
 
 # IoT, embedded, tablets
-- [Alpine Linux](https://www.alpinelinux.org) - [Alpine Gitlab](https://gitlab.alpinelinux.org)
+- [Alpine](https://www.alpinelinux.org) - [https://gitlab.alpinelinux.org)](https://gitlab.alpinelinux.org)
 - [Bliss OS - Android for your PC](https://blissos.org) - An Open Source OS, based on Android, that incorporates many optimizations, features, and expanded device support. And it is available for just about any Chromebook, Windows/Linux PC or tablet released in the last 4 years.
 - [Entware](https://github.com/Entware/Entware) - Ultimate repo for embedded devices. [Wiki](https://github.com/Entware/Entware/wiki)
 - [Fedora IoT](https://getfedora.org/en/iot/)
@@ -218,7 +218,7 @@ Considering key questions:
 
 
 # Router and Firewall
-- [Alpine Linux](https://www.alpinelinux.org) - [Alpine Gitlab](https://gitlab.alpinelinux.org)
+- [Alpine](https://www.alpinelinux.org)
 - [Asuswrt-Merlin - Xwrt-Vortex (archived)](https://www.xvtx.ru/xwrt/source.htm) - [github](https://github.com/RMerl/asuswrt-merlin)
 - [Asuswrt-merlin.ng](https://github.com/RMerl/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase). [www.asuswrt-merlin.net](https://www.asuswrt-merlin.net)
 - [BSD Router](https://bsdrp.net) - Free open source software router distribution based on embedded FreeBSD.
