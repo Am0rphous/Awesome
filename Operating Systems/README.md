@@ -143,13 +143,18 @@ Considering key questions:
 - Can i make Linux feel like Windows? Ofc try [Wubuntu](https://www.wubuntu.org/): _"Linux with Windows appearance, without any hardware restrictions."_ Or try [ReactOS](https://reactos.org/) which _"is a free and open-source operating system that looks like Windows and is able to run both Windows software and drivers."_
 - Windows 7 - **Never** use as a desktop.
   - [https://archive.org/details/windows7homepremiumsp132bit]((https://archive.org/details/windows7homepremiumsp132bit)) 32-bit
-- Windows 10
+- Windows 10 - https://www.techworm.net/2023/08/download-tiny10-iso-pc-windows-10.html
   - [Don't use Windows 10 - It's a privacy nightmare](https://www.privacytools.io/operating-systems/#win10)
   - Lightweight w10 resources
     - [Tiny10](https://archive.org/details/tiny-10_202301) - (Lightweight Windows 10)
+    - [Windows-10-Super-Minimal](https://github.com/prclaunchky/Windows-10-Super-Minimal)
+
  - Official from microsoft
    - [https://www.microsoft.com/en-us/software-download/windows10ISO](https://www.microsoft.com/en-us/software-download/windows10ISO) - w10
    - [https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/) - w10 vms
+- Windows 11
+  - [Tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
+
 - **Gaming**: If you're not gonna download and daily drive the os, but only gonna game try [AtlasOS](https://github.com/Atlas-OS/Atlas) - _An open source modification of the Windows 10 operating system, designed to optimize performance, and latency._
     - [https://archive.org/details/atlasos-20h2](https://archive.org/details/atlasos-20h2)
 - Tools
