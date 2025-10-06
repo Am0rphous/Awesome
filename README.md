@@ -433,12 +433,15 @@ Communicate clearly <br>
   - [RedShift](https://github.com/jonls/redshift) - Aadjusts color temperature of your screen. [jonls.dk/redshift](http://jonls.dk/redshift/)
     - config file path on Linux `~/.config/redshift.conf`
     - Get latitude and longitute info at [https://latlong.info/](https://latlong.info/).
-    - Download [Configuration sample](https://github.com/jonls/redshift/blob/master/redshift.conf.sample). 
+    - Download [Configuration](https://github.com/jonls/redshift/blob/master/redshift.conf.sample) sample and add lat+long. 
    ````shell
+   #2025 Oct works:)
    sudo apt-get install redshift-gtk
    wget https://raw.githubusercontent.com/jonls/redshift/refs/heads/master/redshift.conf.sample
-   
-   mv  ~/.config/redshift/redshift.conf ~/.config/redshift.conf   #nov 2024 solution
+   mv redshift.conf.sample ~/.config/redshift.conf
+
+   #November 2024 solution: Redshift didn't "work" so moving the config file solved it 
+   mv  ~/.config/redshift/redshift.conf ~/.config/redshift.conf
    ````
   #### Screensavers
   - [XScreenSaver](https://www.jwz.org/xscreensaver/)
