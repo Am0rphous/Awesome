@@ -420,23 +420,26 @@ Communicate clearly <br>
   #### Prevent Eyestrain
   - [F.lux](https://justgetflux.com/) - it makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day. 
   - [fluxgui](https://github.com/xflux-gui/fluxgui) - Better lighting for Linux. Open source GUI for xflux.
-````powershell
-xflux -k 3400 -l 59.9 -g 10.7              #default color temperature
-xflux -k 2000 -l 59.9 -g 10.7 -nofork
-````
-This might be outdated. [source](https://itsfoss.com/night-shift-flux-ubuntu-linux/)
-````
-sudo add-apt-repository ppa:nathan-renniewaldock/flux
-sudo apt-get update
-sudo apt-get install fluxgui
-````
-  - [RedShift](https://github.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings. [jonls.dk/redshift](http://jonls.dk/redshift/)
-  - [Config sample](https://github.com/jonls/redshift/blob/master/redshift.conf.sample) and config file path on Linux `~/.config/redshift.conf`. Use [https://latlong.info/](https://latlong.info/) to get latitude and longitute info.
-````powershell
-sudo apt-get install redshift-gtk
-mv  ~/.config/redshift/redshift.conf ~/.config/redshift.conf   #nov 2024 solution
-
-````
+  ````shell
+  xflux -k 3400 -l 59.9 -g 10.7              #default color temperature
+  xflux -k 2000 -l 59.9 -g 10.7 -nofork
+  ````
+  These steps might be outdated. [source](https://itsfoss.com/night-shift-flux-ubuntu-linux/)
+  ````shell
+  sudo add-apt-repository ppa:nathan-renniewaldock/flux
+  sudo apt-get update
+  sudo apt-get install fluxgui
+  ````
+  - [RedShift](https://github.com/jonls/redshift) - Aadjusts color temperature of your screen. [jonls.dk/redshift](http://jonls.dk/redshift/)
+    - config file path on Linux `~/.config/redshift.conf`
+    - Get latitude and longitute info at [https://latlong.info/](https://latlong.info/).
+    - Download [Configuration sample](https://github.com/jonls/redshift/blob/master/redshift.conf.sample). 
+   ````shell
+   sudo apt-get install redshift-gtk
+   wget https://raw.githubusercontent.com/jonls/redshift/refs/heads/master/redshift.conf.sample
+   
+   mv  ~/.config/redshift/redshift.conf ~/.config/redshift.conf   #nov 2024 solution
+   ````
   #### Screensavers
   - [XScreenSaver](https://www.jwz.org/xscreensaver/)
   
