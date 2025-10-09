@@ -80,6 +80,8 @@
    - [Enlisted](https://store.steampowered.com/app/2051620/Enlisted/) - Free FPS - nice one 
    - [Free Games by The Drakelings Community](https://drakelings.bluedrake42.com/index.php?/category/1-free-games/)
    - [gamejolt.com](https://gamejolt.com) - Hosting free and commercial indie games.
+   - [HLL - Hell Let Loose](https://www.hellletloose.com/)
+     - steam launch options for reduzing screen size `+r_fullscreen 1 +r_width 2560 +r_height 1440` or `+r_fullscreen 1 +r_width 1920 +r_height 1080`
    - [Itch.io](https://itch.io/) - Collection of some of the most unique, interesting, and independent creations you'll find on the web.
    - [Minesweeper-Login](https://github.com/OGoodness/Minesweeper-Login) - Command Line version of MineSweeper for Unix-like systems (GNU/Linux, macOS, BSD).
    - [QMLSokoban](https://github.com/yzhs/qmlsokoban)
