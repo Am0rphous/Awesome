@@ -464,6 +464,15 @@ bro / zeek
 
 
 ## File Sharing
+- [**LocalSend**](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
+  ````shell
+  flatpak install localsend
+  sudo ufw allow 53317      #Open this port in firewall to allow receiving on computer
+  ````
+  
+<br>
+
+
 - [Croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [Cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.  
 - [Filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser - [https://filebrowser.org](https://filebrowser.org), [Tutorial with Caddy](https://selfhost.club/guides/fileserver/)
@@ -499,7 +508,6 @@ docker run \
 - [Gokapi](https://github.com/Forceu/Gokapi) - Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported. 
 - [https://www.globaleaks.org](https://www.globaleaks.org/) - GlobaLeaks is free, open-source software. enabling anyone to easily set up and maintain a secure whistleblowing platform.
 - [Ksmbd](https://github.com/namjaejeon/ksmbd) - ksmbd kernel server(SMB/CIFS server)
- - [Localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [Magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [Muon SSH Terminal/SFTP client (Formerly Snowflake)](https://github.com/subhra74/snowflake) -  Graphical SFTP client and terminal emulator with helpful utilities.
 - [Nitro Share](https://nitroshare.net/) - Any File. Any Device. Cross-platform Network File Transfer Application
