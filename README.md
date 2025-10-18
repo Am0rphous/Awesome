@@ -1095,18 +1095,18 @@ Based on that data, you can find the most popular ones and their alternatives.
 - [curiosity.ai](https://curiosity.ai/) - "Tired of searching in folders, emails and apps? Get Curiosity and find everything in one place. All safe on your computer."
 - [DopplerTask](https://github.com/dopplertask/dopplertask) - A revolutionary open-source automation tool 
 - [Find-you](https://github.com/positive-security/find-you) - A stealth AirTag clone that bypasses all of Apple's tracking protection features
-- [flameshot](https://flameshot.org)
+- [flameshot](https://flameshot.org) **nice**
 - [GoAlert](https://github.com/target/goalert) - Open source on-call scheduling, automated escalations, and notifications so you never miss a critical alert.
 - [KOrganizer](https://github.com/KDE/korganizer) - Organizational assistant, providing s and other similar functionality.
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
--  Mouse & keyboard sharing via LAN
-  - [Deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video). Sponsored by Synergy.
+- Mouse & keyboard sharing via LAN
+  - [Deskflow](https://github.com/deskflow/deskflow) - share mouse and keyboard between computers on Windows, macOS and Linux. `flatpak install deskflow` [flatpak](https://flathub.org/en/apps/org.deskflow.deskflow)
   - [Lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
-  - [Input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
+  - [Input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software - **not maintained anymore**
     - [Barrier [NOT maintained anymore]](https://github.com/debauchee/barrier) - Share your mouse and keyboard between computers. _Barrier is software that mimics the functionality of a KVM switch, which historically would allow you to use a single keyboard and mouse to control multiple computers by physically turning a dial on the box to switch the machine you're controlling at any given moment._
     - [Barrier doc](https://github.com/debauchee/barrier/tree/master/doc)
     - Tip for troubleshooting on Linux. You might need to create a selfsignet certificate
-    ````
+    ````shell
     openssl req -x509 -nodes -days 365 -subj /CN=Barrier -newkey rsa:4096 \
      -keyout ~/.local/share/barrier/SSL/Barrier.pem \
      -out    ~/.local/share/barrier/SSL/Barrier.pem
