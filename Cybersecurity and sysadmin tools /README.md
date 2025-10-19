@@ -1683,6 +1683,8 @@ sudo systemctl enable lkrg
     - [OWASP ModSecurity Core Rule Set (CRS)](https://github.com/coreruleset/coreruleset) - OWASP ModSecurity Core Rule Set (Official Repository) - [Installation](https://coreruleset.org/installation/)
 
   ### WAF
+  - [SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits. [install](https://docs.waf.chaitin.com/en/GetStarted/Deploy), 
+
   - [GoTestWAF](https://github.com/wallarm/gotestwaf) - An open-source project in Golang to test different web application firewalls (WAF) for detection logic and bypasses.
   - [Teler-proxy](https://github.com/teler-sh/teler-proxy) - 🔐 teler Proxy enabling seamless integration with teler WAF 🛡️ to protect locally running web service against a web-based attacks. 🥷
 
