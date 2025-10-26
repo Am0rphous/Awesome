@@ -1571,6 +1571,7 @@ sudo systemctl enable lkrg
 - [oVirt](https://www.ovirt.org) - Free open-source virtualization solution for your entire enterprise.
   - [oVirt documentation](https://www.ovirt.org/documentation)
 - [UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS.
+- [Tdx](https://github.com/canonical/tdx) - "Intel confidential computing. Intel® TDX is a Confidential Computing technology which deploys hardware-isolated, Virtual Machines (VMs) called Trust Domains (TDs). It protects TDs from a broad range of software attacks by isolating them from the Virtual-Machine Manager (VMM), hypervisor, and other non-TD software on the host platform."
 - [Vagrant](https://www.vagrantup.com) - Vagrant is a tool for building and distributing development environments. [Github](https://github.com/hashicorp/vagrant)
 - [Virtlyst](https://github.com/cutelyst/Virtlyst) - Web interface to manage virtual machines with libvirt.
 - [VirtualBox](https://www.virtualbox.org) - Hypervisor by Oracle (formerly by Sun) for Windows, Linux, macOS, and Solaris.
