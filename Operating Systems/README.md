@@ -153,6 +153,7 @@ Considering key questions:
    - [https://www.microsoft.com/en-us/software-download/windows10ISO](https://www.microsoft.com/en-us/software-download/windows10ISO) - w10
    - [https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/) - w10 vms
 - Windows 11
+  - [https://www.microsoft.com/en-us/software-download/windows11](https://www.microsoft.com/en-us/software-download/windows11) - "To create a local account in Windows 11, during the setup process, you can use the command prompt by pressing Shift + F10 and typing "oobe\bypassnro" to bypass the Microsoft account requirement. Alternatively, you can disconnect from the internet when prompted, which will allow you to select the option for a local account."
   - [Tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image.
 
 - **Gaming**: If you're not gonna download and daily drive the os, but only gonna game try [AtlasOS](https://github.com/Atlas-OS/Atlas) - _An open source modification of the Windows 10 operating system, designed to optimize performance, and latency._
