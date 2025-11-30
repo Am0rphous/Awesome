@@ -129,7 +129,8 @@ Considering key questions:
 - [Tiny Core Linux](http://tinycorelinux.net/welcome.html) - full Linux desktop in 22 MB. Unlike most operating systems, the Tiny Core can run completely from RAM. 
 - Ubuntu Minimal
   - [Minimal 18.04 (bionic)](http://archive.ubuntu.com/ubuntu/dists/bionic-updates/main/installer-amd64/current/images/netboot/)
-  - [Focal](https://cloud-images.ubuntu.com/minimal/releases/focal/release/)
+  - [Minimal 18.04 (bionic) cloud image](https://cloud-images.ubuntu.com/minimal/releases/bionic/)
+  - [Minimal 20.04 (Focal) cloud image](https://cloud-images.ubuntu.com/minimal/releases/focal/release/)
 - [Void Linux](https://voidlinux.org/) - 3 gig disk usage when using graphical install. Good for old laptops. I used xfc4 as graphic. [Install guide](https://docs.voidlinux.org/installation/live-images/guide.html), [Complete picture guide](https://linuxiac.com/void-linux-installation/#4-8-setting-up-the-user) and [Download ISO files](https://repo-default.voidlinux.org/live/current/)
 
 
