@@ -83,6 +83,7 @@
   - [QR codes](#qr-codes)
   - [USB](#usb)
 - [Virtualization](#virtualization)
+  - [Emulation](#emulation)
   - [Container technologies](#container-technologies)
     - [Container orchestration](#container-orchestration)
     - [Container registers](#container-registry)
@@ -1447,6 +1448,9 @@ sudo systemctl enable lkrg
 - [VMware](https://vmware.com)
   - [HCIBench](https://flings.vmware.com/hcibench) - open source benchmark tool. The tool fully automates the end-to-end process of deploying test VMs, coordinating workload runs, aggregating test results, performance analysis and collecting necessary data for troubleshooting purposes. HCIBench is not only a benchmark tool designed for vSAN, but also could be used to evaluate the performance of all kinds of Hyper-Converged Infrastructure Storage in vSphere environment. 
   - [vSAN Performance Monitor](https://flings.vmware.com/vsan-performance-monitor) - The vSAN performance monitor is a monitoring and visualization tool based on vSAN Performance metrics. It will collect vSAN Performance and other metrics periodically from the clusters configured. The data collected is visualized in a more efficient and user-friendly way. 
+
+  ### Emulation
+  - [FEX](https://github.com/FEX-Emu/FEX) - A fast usermode x86 and x86-64 emulator for Arm64 Linux
 
   ### Container Technologies
   - [Awesome Linux Containers](https://github.com/Friz-zy/awesome-linux-containers) - A curated list of awesome Linux Containers frameworks, libraries and software.
