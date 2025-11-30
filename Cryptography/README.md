@@ -43,6 +43,7 @@
 - [Bitlocker-attacks](https://github.com/Wack0/bitlocker-attacks) - A list of public attacks on BitLocker
 - [Crypton](https://github.com/ashutosh1206/Crypton) - Library consisting of explanation and implementation of all the existing attacks on various Encryption Systems, Digital Signatures, Key Exchange, Authentication methods along with example challenges from CTFs
 - [ECC_Attacks](https://github.com/elikaski/ECC_Attacks) - Known attacks on Elliptic Curve Cryptography
+- [RSA-Backdoor](https://github.com/monsieurPale/RSA-Backdoor)
 
 
 ## Digital Signatures
