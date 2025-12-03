@@ -113,7 +113,12 @@ Considering key questions:
 | 9. United Kingom | | |
 
 ## Minimal & Lightweight
-- Also check this [list](Light-weight Linux distribution)
+
+- [Alpine](https://alpinelinux.org/downloads/)
+- [Tiny Core Linux](http://tinycorelinux.net/welcome.html) - full Linux desktop in 22 MB. [downloads](https://distro.ibiblio.org/tinycorelinux/16.x/x86/release/)
+
+<br>
+
 - [antiX Linux](https://antixlinux.com/) - 512MB RAM is the recommended minimum for antiX. Installation to hard drive requires a minimum 7.0GB hard disk size.
 - [ArchBang](https://archbang.org/)
 - [Bodhi Linux](https://www.bodhilinux.com/) - Lightweight distribution featuring the fast & fully customizable Moksha Desktop.
@@ -126,7 +131,6 @@ Considering key questions:
 - [Puppy Linux](https://puppylinux.com/)
 - [Q4OS](https://www.q4os.org/) - System requirements minimum Trinity: 300MHz CPU / 128MB RAM / 3GB disk. Plasma desktop - 1GHz CPU / 1GB RAM / 5GB disk
 - [SliTaz](https://www.slitaz.org/en/) - SliTaz is a secure and high performance operating system using the Linux Kernel and GNU software.
-- [Tiny Core Linux](http://tinycorelinux.net/welcome.html) - full Linux desktop in 22 MB. Unlike most operating systems, the Tiny Core can run completely from RAM. 
 - Ubuntu Minimal
   - [Minimal 18.04 (bionic)](http://archive.ubuntu.com/ubuntu/dists/bionic-updates/main/installer-amd64/current/images/netboot/)
   - [Minimal 18.04 (bionic) cloud image](https://cloud-images.ubuntu.com/minimal/releases/bionic/)
