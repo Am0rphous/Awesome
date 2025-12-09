@@ -1176,9 +1176,15 @@ that works on top of your local folder of plain text files. [github](https://git
   - [Libre Cloud Services](https://www.opendesktop.org/)
   - [LibreOffice](https://www.libreoffice.org) - [Extensions](https://extensions.libreoffice.org)
   - [OnlyOffice](https://www.onlyoffice.com) - Office productivity suite. [Flatpak](https://flathub.org/apps/details/org.onlyoffice.desktopeditors)
-  - [PDFTKBuilder ](http://www.angusj.com/pdftkb/) - Windows
-  - [Pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
-  - [pdftotext](https://www.xpdfreader.com/pdftotext-man.html) - Portable Document Format (PDF) to text converter
+  - PDFs
+    - [pdftricks](https://flathub.org/en/apps/com.github.muriloventuroso.pdftricks) - [source](https://github.com/muriloventuroso/pdftricks)
+      ````shell
+      flatpak install pdftricks
+      #Menu -> search for PDF Tricks
+      ````
+    - [PDFTKBuilder ](http://www.angusj.com/pdftkb/) - Windows
+    - [Pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
+    - [pdftotext](https://www.xpdfreader.com/pdftotext-man.html) - Portable Document Format (PDF) to text converter
   - [SoftMaker Office](https://www.softmaker.com/en/softmaker-office-download) - Free for 30 days.
   - [TagSpaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support.
   
