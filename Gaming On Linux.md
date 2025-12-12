@@ -81,7 +81,18 @@
    - [Free Games by The Drakelings Community](https://drakelings.bluedrake42.com/index.php?/category/1-free-games/)
    - [gamejolt.com](https://gamejolt.com) - Hosting free and commercial indie games.
    - [HLL - Hell Let Loose](https://www.hellletloose.com/)
-     - steam launch options for reduzing screen size `+r_fullscreen 1 +r_width 2560 +r_height 1440` or `+r_fullscreen 1 +r_width 1920 +r_height 1080`
+     - steam launch options
+     ````shell
+     +r_fullscreen 1 +r_width 2560 +r_height 1440       # reduzing screen size
+     +r_fullscreen 1 +r_width 1920 +r_height 1080       # reduzing screen size
+
+     #dx12 might cause crash. Use dx11 if so.
+     -dx12 -USEALLAVAILABLECORES -screen-width 5120 -screen-height 2160 -windowed      # alt+enter to make full screen
+     -dx12 -USEALLAVAILABLECORES -malloc=system -refresh 180                           # need to try
+
+     -dx11 -USEALLAVAILABLECORES  -malloc=system -refresh 180 -screen-width 5120 -screen-height 2160 -windowed
+     ````
+     - for  ` or `
    - [Itch.io](https://itch.io/) - Collection of some of the most unique, interesting, and independent creations you'll find on the web.
    - [Minesweeper-Login](https://github.com/OGoodness/Minesweeper-Login) - Command Line version of MineSweeper for Unix-like systems (GNU/Linux, macOS, BSD).
    - [QMLSokoban](https://github.com/yzhs/qmlsokoban)
