@@ -1,6 +1,11 @@
 # Macbook Pro Resources
 - [macOS 🍎 CheatSheets - Am0rphous](https://github.com/Am0rphous/CheatSheets/tree/main/macOS%20%F0%9F%8D%8E)
 - [Mac Keyboard shortcuts](https://support.apple.com/en-ca/102650)
+  ````shell
+  fn+p = windows layouti
+  fn+i for ios layout      #Press fn+o i 3 sek for macOS layout
+  #https://defkey.com/logitech-pop-keys-shortcuts#105067
+  ````
 
 <br>
 
