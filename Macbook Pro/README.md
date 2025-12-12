@@ -69,6 +69,7 @@ Table of content
 
 ## Network
 - [iOS/macOS Research Swiss Army Knife ](https://github.com/blacktop/ipsw)
+- [iSCSI Initiator](https://www.kernsafe.com/download/macos-iscsi-initiator.aspx) - Mount NAS storage over network. Free.
 - [LocationSimulator](https://github.com/Schlaubischlump/LocationSimulator) - MacOS 10.15 / 11.0 application to spoof your iOS / iPadOS or iPhoneSimulator device location. WatchOS and TvOS are partially supported.
   - [iOS Location Tester](https://github.com/pjaton/LocationTester) - An iOS application to test the CLLocationManager location, significant change and region monitoring.
 - [LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall.
