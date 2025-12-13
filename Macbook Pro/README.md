@@ -200,6 +200,9 @@ brew analytics off
     ### Security
     - [Jamf](https://www.jamf.com/) - edr for macos
     - [Secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
+    - Antivirus - MacOS uses an integrated solution called [XProtect](https://support.apple.com/guide/security/protecting-against-malware-sec469d47bd8/web)
+      - https://www.avast.com/free-mac-security#mac
+      - https://www.totalav.com/mac-free-antivirus
 
 
     ### Virtualization
