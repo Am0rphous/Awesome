@@ -25,6 +25,7 @@
   - [APKTool](https://github.com/iBotPeaches/Apktool) - A tool for reverse engineering Android apk files.
   - [Apkx](https://github.com/b-mueller/apkx) - One-Step APK Decompilation With Multiple Backends.
   - [Bytecode Viewer](https://github.com/Konloch/bytecode-viewer) - A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More). [bytecodeviewer.com](https://bytecodeviewer.com/)
+  - [Droidlysis](https://github.com/cryptax/droidlysis) - Property extractor for Android apps
   - [Gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android.
   - [JadX](https://github.com/skylot/jadx) - Dex to Java decompiler. Command line and GUI tools for producing Java source code from Android Dex and Apk files
   - JD Project
