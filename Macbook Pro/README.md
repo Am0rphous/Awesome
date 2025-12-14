@@ -105,6 +105,8 @@ ps axu | grep "/bin/tor"
 
 
 ## Tools
+- [**IDescriptor**](https://github.com/iDescriptor/iDescriptor) - A free, open-source, and cross-platform iDevice management tool - **nice**
+
 - [AlDente](https://github.com/davidwernhart/AlDente) - macOS tool to limit maximum charging percentage.
 - [AppleALC](https://github.com/acidanthera/AppleALC) - Native macOS HD audio for not officially supported codecs.
 - [Blear](https://github.com/sindresorhus/blear) - iOS app that transforms your photos into stunning blurry wallpapers for your device.
