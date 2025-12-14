@@ -14,10 +14,7 @@
 - [Tor-ctrl](https://github.com/nyxnor/tor-ctrl) - Raw use of tor's controller.
 - [Tor-Proxy](https://github.com/Narasimha1997/tor-proxy) - An experimental Tor-Proxy serivce written in Go using Go-proxy and Go-libtor.
 - [Tor Flow Chart](https://torflow.uncharted.software)
-- [Tor Snowflake Proxy on DockerHub](https://hub.docker.com/r/thetorproject/snowflake-proxy) - command `docker pull thetorproject/snowflake-proxy`
-  - [Standalone Snowflake proxy](https://community.torproject.org/relay/setup/snowflake/standalone/)
-  - [Snowflake](https://snowflake.torproject.org/)
-    - [A Temporary Tor Snowflake Proxy - https://relay.love](https://relay.love/)
+
 
 ## Performance tip
 - Ensure enough RAM and multiple cores on the system with high clock speed (Giga Hertz).
@@ -47,8 +44,13 @@ NumCPUs 8            #Adjust tor to use more cores. Might be a limit on 2 cores(
 
   #### Snowflake bridges (proxies)
   - Linux setup the [easy way](https://unredacted.org/guides/infrastructure/tor/how-to-run-your-own-tor-snowflake-proxy/#run-a-snowflake-proxy-on-a-linux-server): `sudo snap install tor-snowflake`
+    - [Openweb](https://github.com/CordlessWool/openweb) - Scripts to install and manage tools like snowflake, tor or signal proxy to make it easier to setup the tools
   - [Official Snowflake doc](https://community.torproject.org/relay/setup/snowflake/standalone/) - Snowflake is a new circumvention tool which provides access to the free and open internet.
   - [Technical Overview](https://gitlab.torproject.org/tpo/anti-censorship/pluggable-transports/snowflake/-/wikis/Technical%20Overview)
+  - [Tor Snowflake Proxy on DockerHub](https://hub.docker.com/r/thetorproject/snowflake-proxy) - command `docker pull thetorproject/snowflake-proxy`
+    - [Standalone Snowflake proxy](https://community.torproject.org/relay/setup/snowflake/standalone/)
+    - [Snowflake](https://snowflake.torproject.org/)
+      - [A Temporary Tor Snowflake Proxy - https://relay.love](https://relay.love/)
 
 ### Hidden Services
 - [Create a hidden service in a container](https://github.com/3xploitGuy/torwebsite) - A container to host website on Tor hidden service with .onion address.
