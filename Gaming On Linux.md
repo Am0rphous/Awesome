@@ -18,6 +18,7 @@
 
 
 ## 1. OS dedicated for gaming
+- [**bazzite**](https://bazzite.gg/) - [github](https://github.com/ublue-os/bazzite)
 - [cachyos.org](https://cachyos.org/) - CachyOS is designed to deliver lightning-fast speeds and stability, ensuring a smooth and enjoyable computing experience every time you use it.
 - [ChimeraOS](https://chimeraos.org) - ChimeraOS is an operating system that provides an out of the box couch gaming experience. After installation, boot directly into Steam Big Picture and start playing your favorite games. If you want Steam in your living room, you want ChimeraOS.
 - [Drauger OS](https://draugeros.org/)
