@@ -83,6 +83,7 @@
    - [gamejolt.com](https://gamejolt.com) - Hosting free and commercial indie games.
    - [HLL - Hell Let Loose](https://www.hellletloose.com/)
      - steam launch options
+- https://www.hllrecords.com/
      ````shell
      +r_fullscreen 1 +r_width 2560 +r_height 1440       # reduzing screen size
      +r_fullscreen 1 +r_width 1920 +r_height 1080       # reduzing screen size
