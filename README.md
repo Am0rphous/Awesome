@@ -1094,6 +1094,7 @@ Based on that data, you can find the most popular ones and their alternatives.
 - [coggle.it](https://coggle.it)
 - [CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features.
 - [curiosity.ai](https://curiosity.ai/) - "Tired of searching in folders, emails and apps? Get Curiosity and find everything in one place. All safe on your computer."
+- [Dialect](https://github.com/dialect-app/dialect) - A translation app for GNOME.
 - [DopplerTask](https://github.com/dopplertask/dopplertask) - A revolutionary open-source automation tool 
 - [Find-you](https://github.com/positive-security/find-you) - A stealth AirTag clone that bypasses all of Apple's tracking protection features
 - [flameshot](https://flameshot.org) **nice**
