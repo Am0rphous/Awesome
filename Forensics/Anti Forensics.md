@@ -6,6 +6,7 @@
 - Physical destruction
 - Steganography / background noise
 - Wiping
+  - [ShredOS](https://github.com/PartialVolume/shredos.x86_64) - Shredos Disk Eraser 64 bit for all Intel 64 bit processors as well as processors from AMD and other vendors which make compatible 64 bit chips. ShredOS - Secure disk erasure/wipe
   - Files
     - [eraser](https://eraser.heidi.ie/) - Eraser is an advanced security tool for Windows which allows you to completely remove sensitive data from your hard drive by overwriting it several times with carefully selected patterns. 
   - Meta data
