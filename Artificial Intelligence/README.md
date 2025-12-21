@@ -20,6 +20,7 @@ Table of content
 
 <br><br>
 
+- https://github.com/AceDataCloud/Nexior
 - [bilibot](https://github.com/linyiLYi/bilibot) - A local chatbot fine-tuned by bilibili user comments. 
 - [**correlation**](https://github.com/easystats/correlation) - Methods for Correlation Analysis.
 - [**Chatbot UI**](https://github.com/mckaywrigley/chatbot-ui) - The open-source AI chat app for everyone. 
