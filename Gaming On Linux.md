@@ -52,6 +52,7 @@
 
 - [ScummVM](https://github.com/scummvm/scummvm) - program which allows you to run certain classic graphical point-and-click adventure games and role-playing games, provided you already have their data files. [www.scummvm.org](https://www.scummvm.org/) & [supported Games](https://wiki.scummvm.org/index.php?title=Category:Supported_Games)
 - [Steam](https://store.steampowered.com/) - Install with `sudo apt install steam`
+  - https://steamdb.info/
   - [Steamctl](https://github.com/ValvePython/steamctl) - 🤸 Take control of Steam from your terminal. Steamctl is an open-source CLI utility similar to steamcmd. It provides access to a number of Steam features and data from the command line. While it is possible to download apps and content from Steam, steamctl is not a game launcher.
   - [Steam's Debian Wiki](https://wiki.debian.org/Steam#Basic_installation)
   - To debug games running in proton right click -> Properiets -> Launch Options and write `PROTON_LOG=1 %command%` and file is saved in `$HOME`
