@@ -17,7 +17,7 @@ Considering key questions:
 
 <br>
 
-- [Make Bootable USB](https://github.com/Am0rphous/Awesome/tree/master/Cybersecurity%20and%20sysadmin%20tools%20#create-bootable-usb)
+- [**Make Bootable USB**](https://github.com/Am0rphous/Awesome/tree/master/Cybersecurity%20and%20sysadmin%20tools%20#create-bootable-usb)
 - [**Desktop**](#desktop)
   - [ARM](#ARM)
   - [Content Creation](#content-creation)
