@@ -147,6 +147,7 @@
   - [Chroma Feedback](https://github.com/redaxmedia/chroma-feedback) - Turn your Razer keyboard, mouse or headphone into a extreme feedback device.
 
 ## 4. Various links
+- https://areweanticheatyet.com/
 - [LizardByte](https://app.lizardbyte.dev/?lng=en)
 - [Motion blur test for your screen](https://www.testufo.com)
 - [In-depth product reviews](https://www.rtings.com/)
