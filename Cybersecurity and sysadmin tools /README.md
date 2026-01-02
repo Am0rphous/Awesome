@@ -988,23 +988,23 @@ upstream_recursive_servers:
   - [Google Drive](https://drive.google.com) - 15 GB free. [Google Drive Client](https://www.google.com/drive/download/)
   - [MEGASync](https://mega.io/sync) - 50 GB free, but after 6 months this will be reduced to 15 GB.
   - [OneDrive](https://www.microsoft.com/nb-no/microsoft-365/onedrive/online-cloud-storage) - By Microsoft with 5GB free online storage.
-    - Microsoft is known for their shitty software and onedrive is no exception. If on macOS onedrive is stuck in the loop with the text "Preparing to download" and no reboot and upgrade of the tool fixes it, try [this by 'innermotion7](https://www.reddit.com/r/onedrive/comments/h7fyt1/stuck_in_a_loop_onedrive_isnt_connected_signing_in/)':
-````
-1. Quit OneDrive. (Select the cloud icon in the top tray, then select Settings > Quit OneDrive.)
-2. Find OneDrive in your Applications folder.
-3. Right-click OneDrive and select Show Package Contents.
-4. Browse to the Contents -> Resources folder.
-5. Double-click ResetOneDriveApp.command (or ResetOneDriveAppStandalone.command, if you're using the standalone app). This will reset the app and you will need to log into the app again.
-````
+    - Microsoft is known for their sh*** software and onedrive is no exception. If on macOS onedrive is stuck in the loop with the text "Preparing to download" and no reboot and upgrade of the tool fixes it, try [this by 'innermotion7](https://www.reddit.com/r/onedrive/comments/h7fyt1/stuck_in_a_loop_onedrive_isnt_connected_signing_in/)':
+    ````
+    1. Quit OneDrive. (Select the cloud icon in the top tray, then select Settings > Quit OneDrive.)
+    2. Find OneDrive in your Applications folder.
+    3. Right-click OneDrive and select Show Package Contents.
+    4. Browse to the Contents -> Resources folder.
+    5. Double-click ResetOneDriveApp.command (or ResetOneDriveAppStandalone.command, if you're using the standalone app). This will reset the app and you will need to log into the app again.
+    ````
  
   ##### Clients
   - [ExpanDrive](https://www.expandrive.com/expandrive-for-linux/) - It supports Google Drive, OneDrive, Dropbox, Amazon S3, Box, SFTP, FTP, BackBlaze B2 and more.
   - [iSync](https://www.insynchq.com/downloads) - Insync extends Google Drive & OneDrive's web functionality to your desktop.
   - [OneDrive](https://packages.ubuntu.com/bionic/onedrive) - Ubuntu folder synchronization with OneDrive. Install `sudo apt install onedrive`
   - [OneDrive - Skilion](https://github.com/skilion/onedrive) - Free Client for OneDrive on Linux.
-  - [OneDrive Client for Linux - abraunegg](https://github.com/abraunegg/onedrive/) - [abraunegg.github.io](https://abraunegg.github.io)
-    - [Doc](https://github.com/abraunegg/onedrive/blob/master/docs/USAGE.md)
-    ````powershell
+  - [OneDrive Client for Linux - abraunegg](https://github.com/abraunegg/onedrive/) - [Doc](https://github.com/abraunegg/onedrive/blob/master/docs/USAGE.md)
+    - [GUI](https://github.com/bpozdena/OneDriveGUI)
+    ````shell
     enter 'onedrive' in terminal and press enter.
     copy and paste the url in your browser and continue with login.
     When login is complete a white blank page is presented. Copy and paste it in terminal
