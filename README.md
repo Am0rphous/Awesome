@@ -368,7 +368,8 @@ Communicate clearly <br>
 - [Hypr](https://github.com/hyprwm/Hypr) - Hypr is a tiling window manager written in modern C++. 
 - [Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks. 
 - [latte-dock](https://github.com/KDE/latte-dock) - Replacement dock for Plasma desktops, providing an elegant and intuitive experience for your tasks and plasmoids
-- [linux-desktop-environment-tool-cli](https://github.com/LinuxEuphony/linux-desktop-environment-tool-cli) - This script helps Debian and Ubuntu users install the below desktop environments from a list of options on a terminal menu. It also has an uninstall option for the installed desktop environments. The script will update system packages and upgrade software packages before installing or uninstalling any desktop environment. 
+- [linux-desktop-environment-tool-cli](https://github.com/LinuxEuphony/linux-desktop-environment-tool-cli) - This script helps Debian and Ubuntu users install the below desktop environments from a list of options on a terminal menu. It also has an uninstall option for the installed desktop environments. The script will update system packages and upgrade software packages before installing or uninstalling any desktop environment.
+ - [MouseTiler](https://github.com/rxappdev/MouseTiler) - The fastest, simplest tiler for KDE Plasma 6+ that gives you full freedom at your fingertip. No need to remember dozens of keyboard shortcuts or be limited by a fixed tile layout.
 - [Plank](https://github.com/ricotz/plank) - Simple dock. Configure `plank   --preferences`
 - [Polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar 
   - [Polybar Collection](https://github.com/Murzchnvok/polybar-collection) - Beautiful collection of Polybar themes 
@@ -402,6 +403,10 @@ Communicate clearly <br>
     - [GTile](https://github.com/gTile/gTile) - A window tiling extension for Gnome.
     - [Impatience](https://extensions.gnome.org/extension/277/impatience/) - Speed up the gnome-shell animation speed
     - [Netspeedsimplified](https://github.com/prateekmedia/netspeedsimplified) - A Net Speed extension With Loads of Customization for GNOME shell.
+    - Tiling windows
+      - https://extensions.gnome.org/extension/7065/tiling-shell/
+      - https://extensions.gnome.org/extension/3733/tiling-assistant/
+      - https://extensions.gnome.org/extension/6099/paperwm/
     - [Tray-Icons-Reloaded](https://github.com/MartinPL/Tray-Icons-Reloaded) - GNOME Shell extension which bring back Tray Icons to top panel, with additional features.
     - [Vitals](https://extensions.gnome.org/extension/1460/vitals/) - A glimpse into your computer's temperature, voltage, fan speed, memory usage, processor load, system resources, network speed and storage stats. 
     - [Wintile](https://github.com/fmstrat/wintile) - Windows 10 window tiling for GNOME
