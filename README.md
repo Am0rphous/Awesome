@@ -400,11 +400,12 @@ Communicate clearly <br>
     - [Dash to Panel ](https://github.com/home-sweet-gnome/dash-to-panel) - An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found in KDE Plasma and Windows 7+. A separate dock is no longer needed for easy access to running and favorited applications.
     - [Emoji-selector-for-gnome](https://github.com/maoschanz/emoji-selector-for-gnome) - This extension provide a popup menu with some emojis ; clicking on an emoji copies it to the clipboard.
     - [GNOME Shell Extensions](https://gitlab.gnome.org/GNOME/gnome-shell-extensions) - [wiki](https://wiki.gnome.org/Projects/GnomeShell/Extensions)
-    - [GTile](https://github.com/gTile/gTile) - A window tiling extension for Gnome.
+    
     - [Impatience](https://extensions.gnome.org/extension/277/impatience/) - Speed up the gnome-shell animation speed
     - [Netspeedsimplified](https://github.com/prateekmedia/netspeedsimplified) - A Net Speed extension With Loads of Customization for GNOME shell.
     - Tiling windows
-      - https://extensions.gnome.org/extension/7065/tiling-shell/
+      - [Tilingshell](https://github.com/domferr/tilingshell)
+      - [GTile](https://github.com/gTile/gTile)
       - https://extensions.gnome.org/extension/3733/tiling-assistant/
       - https://extensions.gnome.org/extension/6099/paperwm/
     - [Tray-Icons-Reloaded](https://github.com/MartinPL/Tray-Icons-Reloaded) - GNOME Shell extension which bring back Tray Icons to top panel, with additional features.
