@@ -1020,40 +1020,83 @@ upstream_recursive_servers:
 - [CoreCtrl](https://gitlab.com/corectrl/corectrl) - overclocking gpu and cpu on linu
 - [Tuxclocker](https://github.com/Lurkki14/tuxclocker) - Qt overclocking tool for GNU/Linux
 
-
 ## Package Managers
-- [Brew / HomeBrew](https://brew.sh/) - Package Manager for Linux and MacOS.
-  - [Brew Documentation](https://docs.brew.sh)
-  - [Homebrew-cask](https://github.com/Homebrew/homebrew-cask) - A CLI workflow for the administration of macOS applications distributed as binaries.
-  - [Homebrew Services](https://github.com/Homebrew/homebrew-services) - Manage background services with macOS' launchctl daemon manager.
-  - Quick install:
-   ````
-   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-   ````
-- [Homebrew gathers anonymous aggregate user behaviour analytics using Google Analytics. ](https://docs.brew.sh/Analytics#opting-out)
-   To opt out of analytics, run
-   ````
-   export HOMEBREW_NO_ANALYTICS=1
-   brew analytics off
-   ````
-- [Chocolatey](https://github.com/chocolatey/choco) - Package manager for Windows.
-- [Gem (RubyGems)](https://rubygems.org) - package management framework for Ruby.
-- [FlatPak](https://flatpak.org)
+- [Brew / HomeBrew](https://brew.sh/) - Linux and MacOS. [Documentation](https://docs.brew.sh)
+  - Quick install of brew/homebrew:
+    ````shell
+    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    
+    brew install <package>
+    brew install wget        # Installs wget package
+    ````
+  - [Homebrew-cask](https://github.com/Homebrew/homebrew-cask) - Extension to install GUI tools on macOS. List of [available tools](https://formulae.brew.sh/cask/)
+    ````shell
+    brew install bitwarden   # Installs a password manager
+    brwe install utm         # UTM / virtual machine tool
+    ````
+  - [Homebrew gathers some analytics using Google Analytics](https://docs.brew.sh/Analytics#opting-out). To opt out run
+    ````shell
+    export HOMEBREW_NO_ANALYTICS=1
+    brew analytics off
+    ````
+- [Chocolatey](https://github.com/chocolatey/choco) - Windows
+- [FlatPak](https://flatpak.org) - Linux
   - After install run `flatpak remote-add --user --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo` to be able to install packages.
+  ````shell
+  sudo add-apt-repository ppa:flatpak/stable -y    # Install PPA if you wish or use:
+  sudo apt install flatpak                         # Install on linux
+  
+  flatpak update            # Update apps
+  flatpak upgrade           # Upgrade Flatpak
+
+  #Add Flathub repository
+  sudo flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+  flatpak remote-list
+  flatpak install flathub com.spotify.Client
+  
+  flatpak list                           # List installed apps
+  flatpak install <app>                  # Install syntax
+  flatpak install bitwarden              # Install bitwarden
+  flatpak remove bitwarden               # Remove bitwarden
+  flatpak remove com.bitwarden.desktop   # Or use whole package name
+  ````
 - [Nimble](https://github.com/nim-lang/nimble#nimble-usage) - Package manager for the Nim programming language.
 - [Nixpkgs](https://github.com/NixOS/nixpkgs) - collection of over 60,000 software packages that can be installed with the Nix package manager [nixos.org](https://nixos.org).
-- [Pip (Python package manger)](https://pypi.org/project/pip/)
+- [Pip](https://pypi.org/project/pip/) - Python package manger
   - Upgrade packages on Windows
-````
-pip freeze --local | Select-String -NotMatch '^-e' | ForEach-Object { $_.ToString().Split('=')[0] } | ForEach-Object { pip install --upgrade $_ }
-````
-- [Snapd](https://snapcraft.io) - [Github](https://github.com/snapcore/snapd)
-````shell
-sudo snapd install                 #install
-snap --help
-snap warnings                      #list warnings if any
-sudo snap install wireguard-gui    #install package
-````
+  ````powershell
+  pip freeze --local | Select-String -NotMatch '^-e' | ForEach-Object { $_.ToString().Split('=')[0] } | ForEach-Object { pip install --upgrade $_ }
+
+  pip install <package>
+  pip uninstall <package>
+  pip install --user <package>   # Install package only to the current user
+  pip list
+  pip -r requirements.txt              # Example 1
+  pip --requirement requirements.txt   # Example 2
+  ````
+- [Snapd](https://snapcraft.io) - [source](https://github.com/snapcore/snapd)
+  ````shell
+  sudo apt install snapd       # Install snapd daemon on linux
+
+  snap find <app>              # Search for an app
+  snap list                    # List installed apps
+  
+  snap refresh                 # Refresh / update all apps
+  snap refresh <app>           # Refresh / update a specific app
+
+  snap install <app>           # Install an app syntax
+  snap install tradingview     # Exampel 1
+  snap install wireguard-gui   # Exampel 2
+  snap install tldr            # Exampel 3
+
+  snap remove <app>            # Remove / uninstall an app
+  snap --help
+  snap warnings                #list warnings if any
+  ````
+- [RubyGems](https://rubygems.org) -  RubyGems is a package management framework for Ruby.
+  ````shell
+   gem update --system      #Upgrade to the latest RubyGems 
+  ````
 
 ### Finding Software
 - [Bitnami by VMware](https://bitnami.com/)
