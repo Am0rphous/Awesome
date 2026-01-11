@@ -17,6 +17,9 @@
 <br>
 <br>
 
+## Notes for later
+- https://thelinuxcode.com/turn-raspberry-pi-5g-router-hat/
+- https://www.waveshare.com/rm500u-cn-5g-hat.htm
 
 ## Guides, Help and Setup
 - [Official Raspberry Pi Beginnger's Guide](https://www.raspberrypi.org/magpi-issues/Beginners_Guide_v1.pdf)
