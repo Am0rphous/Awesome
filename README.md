@@ -1340,9 +1340,10 @@ that works on top of your local folder of plain text files. [github](https://git
       - [FREEMEDIAHECKYEAH/wiki/](https://old.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index)
       - [megathread](https://www.reddit.com/r/Piracy/wiki/megathread] - [megathread (old reddit)](https://old.reddit.com/r/Piracy/wiki/megathread)
 
-    - [Streamio](https://www.stremio.com/) - Freedom to Stream
-      - 1. Install the [ThePirateBay](https://stremio-addons.netlify.app/thepiratebay.html) add-on
-      - 2. Install the [Torrentio](https://torrentio.strem.fun/configure) add-on
+    - [Streamio](https://www.stremio.com/) 
+      - 1. Install Torrent Catalogs
+      - 2. Install [Torrentio](https://torrentio.strem.fun/configure) add-on
+        3. SK/CZ Torrents
 
 ## Web Browsers
 - [Chromium](https://www.chromium.org/) - With Chromium, you get rid of all the tracking features that Google Chrome boasts.
