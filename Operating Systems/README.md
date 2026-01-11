@@ -273,14 +273,14 @@ Considering key questions:
 - [Xvisor](https://xhypervisor.org/)
 
 
-# Unix
+# Unix / BSD
 - [DragonFly BSD](https://www.dragonflybsd.org)
-- [Free BSD](https://www.freebsd.org)
-- [Ghost BSD](https://www.ghostbsd.org) - A simple, elegant desktop BSD Operating System.
-- [Hardened BSD](https://www.hardenedbsd.org)
+- [FreeBSD](https://www.freebsd.org)
+- [GhostBSD](https://www.ghostbsd.org) - A simple, elegant desktop BSD Operating System.
+- [HardenedBSD](https://www.hardenedbsd.org)
 - [illumos](https://illumos.org/) - illumos is a Unix operating system which provides next-generation features for downstream distributions, including advanced system debugging, next generation filesystem, networking, and virtualization options. 
-- [Midnight BSD](https://www.midnightbsd.org)
-- [Open BSD](https://www.openbsd.org)
+- [MidnightBSD](https://www.midnightbsd.org)
+- [OpenBSD](https://www.openbsd.org)
 
 # Hacking & Security
 - [Athena OS](https://github.com/Athena-OS/athena-iso) - Athena is a Arch Linux-based distro focused on Cybersecurity. Learn, practice and enjoy with any hacking tool!
