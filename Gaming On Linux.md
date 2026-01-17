@@ -155,6 +155,9 @@
 - [Liquidctl](https://github.com/liquidctl/liquidctl) - Cross-platform CLI and Python drivers for AIO liquid coolers and other devices
 - [Piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices.
 - [https://github.com/ckb-next/ckb-next](https://github.com/ckb-next/ckb-next) - open-source driver for Corsair keyboards and mice.
+  ````shell
+  apt install ckb-next
+  ````
 - Razer
   - [OpenRazer](https://openrazer.github.io/) - Open source driver and user-space daemon that allows you to manage your Razer peripherals on GNU/Linux. [openrazer.github.io/#ubuntu](https://openrazer.github.io/#ubuntu)
   - [Polychromatic](https://github.com/polychromatic/polychromatic) - RGB lighting management software for GNU/Linux. Powered by OpenRazer (soon to be vendor agnostic). [polychromatic.app](https://polychromatic.app)
