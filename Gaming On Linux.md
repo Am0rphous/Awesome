@@ -130,6 +130,9 @@
 - [XanMod ](https://xanmod.org/) - [source](https://gitlab.com/xanmod/linux)
 
 ## 3. Peripherals & Hardware
+- For competitive gaming ensure keyboard support
+  - Anti-Ghosting "unintended keystrokes are registered when multiple keys are pressed"
+  - "N-Key Rollover (NKRO) is a keyboard feature that determines how many keys can be pressed simultaneously while still being correctly registered by the keyboard. "N" stands for any given number, indicating that a keyboard with full NKRO can detect unlimited simultaneous key presses without making mistakes. This feature is particularly useful for gamers, programmers, and typists who rely on quick and precise inputs." [read more](https://redragonshop.com/blogs/community/understanding-anti-ghosting-and-n-key-rollover-the-key-differences-explained)
 - [AntiMicro](https://github.com/AntiMicro/antimicro) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
 - [AntiMicroX](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
 - [CKB](https://github.com/ccMSC/ckb) - RGB Driver for Linux and OS X.
