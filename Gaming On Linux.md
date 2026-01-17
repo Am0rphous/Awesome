@@ -3,6 +3,7 @@
 <br>
 
 ### Table of content
+- [0. Aim Training](#0-aim-training)
 - [1. OS dedicated for gaming](#1-os-dedicated-for-gaming)
 - [2. Gaming on Linux](#2-gaming-on-linux)
   - [Games](#games)
@@ -16,7 +17,9 @@
 - [Pcsx2](https://github.com/PCSX2/pcsx2) - PCSX2 - The Playstation 2 Emulator
 - [ShadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
 
-
+## 0. Aim Training
+- https://www.xbitlabs.com/aim-trainer/
+- https://www.sensgod.com/blog/finding-perfect-sensitivity/
 ## 1. OS dedicated for gaming
 - [**bazzite**](https://bazzite.gg/) - [github](https://github.com/ublue-os/bazzite)
 - [cachyos.org](https://cachyos.org/) - CachyOS is designed to deliver lightning-fast speeds and stability, ensuring a smooth and enjoyable computing experience every time you use it.
