@@ -3,24 +3,39 @@
 <br>
 
 ### Table of content
-- [0. Aim Training](#0-aim-training)
-- [1. OS dedicated for gaming](#1-os-dedicated-for-gaming)
-- [2. Gaming on Linux](#2-gaming-on-linux)
+- [1. Various links](#1-various-links)
+- [2. Aim Training](#2-aim-training)
+- [3. OS dedicated for gaming](#3-os-dedicated-for-gaming)
+- [4. Gaming on Linux](#4-gaming-on-linux)
   - [Games](#games)
   - [Performance Linux kernels](#performance-linux-kernels)
-- [3. Peripherals & Hardware](#3-peripherals--hardware)
-- [4. Various links](#4-various-links)
+- [5. Peripherals & Hardware](#5-peripherals--hardware)
+
 
 <br>
 
-- [Does anti cheat work for your game? Click here](https://areweanticheatyet.com/) - A comprehensive and crowd-sourced list of games using anti-cheats and their compatibility with GNU/Linux or Wine.
-- [Pcsx2](https://github.com/PCSX2/pcsx2) - PCSX2 - The Playstation 2 Emulator
-- [ShadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux and macOS written in C++
 
-## 0. Aim Training
+## 1. Various links
+- https://linuxgamebench.com
+- https://github.com/taaderbe/linuxgamebench
+- https://areweanticheatyet.com
+- [https://github.com/PCSX2/pcsx2](https://github.com/PCSX2/pcsx2) - Playstation 2 Emulator
+- [https://github.com/shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator
+- [https://app.lizardbyte.dev/?lng=en](https://app.lizardbyte.dev/?lng=en)
+- [https://www.testufo.com](https://www.testufo.com) - Motion blur test for your screen
+- [https://www.rtings.com/](https://www.rtings.com/) - In-depth product reviews
+- Kernels for Performance (not sure if its worth it though)
+  - [linux-tkg](https://github.com/Frogging-Family/linux-tkg) - patches aiming for better desktop/gaming experience.
+  - [liquorix](https://liquorix.net) - [source](https://github.com/zen-kernel/zen-kernel)
+  - [XanMod ](https://xanmod.org/) - [source](https://gitlab.com/xanmod/linux)
+
+
+## 2. Aim Training
 - https://www.xbitlabs.com/aim-trainer/
 - https://www.sensgod.com/blog/finding-perfect-sensitivity/
-## 1. OS dedicated for gaming
+
+
+## 3. OS dedicated for gaming
 - [**bazzite**](https://bazzite.gg/) - [github](https://github.com/ublue-os/bazzite)
 - [cachyos.org](https://cachyos.org/) - CachyOS is designed to deliver lightning-fast speeds and stability, ensuring a smooth and enjoyable computing experience every time you use it.
 - [ChimeraOS](https://chimeraos.org) - ChimeraOS is an operating system that provides an out of the box couch gaming experience. After installation, boot directly into Steam Big Picture and start playing your favorite games. If you want Steam in your living room, you want ChimeraOS.
@@ -30,7 +45,7 @@
 - [Ubuntu Gamepack](https://ualinux.com/en/ubuntu-gamepack) - It is an operating system that will guarantee the launch of more than 85,842 games developed both specifically for Linux and developed for Windows, DOS, various game consoles Sega, Nintendo, PSP, Sony PlayStation, ZX Spectrum and many others.
 - [winesapOS](https://github.com/LukeShortCloud/winesapOS) - winesapOS - Game with Linux anywhere, no installation required! 
 
-## 2. Gaming on Linux
+## 4. Gaming on Linux
 - [Bottles](https://flathub.org/apps/details/com.usebottles.bottles) - Run Windows software on Linux with Bottles!
   - [usebottles.com](https://usebottles.com/) - [AppStore](https://usebottles.com/appstore/) - Origin, Ubisoft Connect, Steam, EA Launcher ++.
 - [DOSBox-X](https://github.com/joncampbell123/dosbox-x) - open-source DOS emulator for running DOS games and applications. [dosbox-x.com](https://dosbox-x.com/).
@@ -127,12 +142,7 @@
    - [WarkFork](https://store.steampowered.com/app/671610/Warfork/) - Free FPS
    - [Warsow - Warsow is Art of Respect and Sportsmanship Over the Web](https://warsow.net/) - Since 2005, Warsow is considered as one of the most skill-demanding games in the fast-paced arena shooter scene.[Discord](https://discord.com/invite/Z9UgZZM)
 
-## Performance Linux kernels
-- [linux-tkg](https://github.com/Frogging-Family/linux-tkg) - patches aiming for better desktop/gaming experience.
-- [liquorix](https://liquorix.net) - [source](https://github.com/zen-kernel/zen-kernel)
-- [XanMod ](https://xanmod.org/) - [source](https://gitlab.com/xanmod/linux)
-
-## 3. Peripherals & Hardware
+## 5. Peripherals & Hardware
 - For competitive gaming ensure keyboard support
   - Anti-Ghosting "unintended keystrokes are registered when multiple keys are pressed"
   - "N-Key Rollover (NKRO) is a keyboard feature that determines how many keys can be pressed simultaneously while still being correctly registered by the keyboard. "N" stands for any given number, indicating that a keyboard with full NKRO can detect unlimited simultaneous key presses without making mistakes. This feature is particularly useful for gamers, programmers, and typists who rely on quick and precise inputs." [read more](https://redragonshop.com/blogs/community/understanding-anti-ghosting-and-n-key-rollover-the-key-differences-explained)
@@ -144,6 +154,7 @@
   - [PCI passthrough via OVMF](https://wiki.archlinux.org/title/PCI_passthrough_via_OVMF) - Arch wiki
 - [Liquidctl](https://github.com/liquidctl/liquidctl) - Cross-platform CLI and Python drivers for AIO liquid coolers and other devices
 - [Piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices.
+- [https://github.com/ckb-next/ckb-next](https://github.com/ckb-next/ckb-next) - open-source driver for Corsair keyboards and mice.
 - Razer
   - [OpenRazer](https://openrazer.github.io/) - Open source driver and user-space daemon that allows you to manage your Razer peripherals on GNU/Linux. [openrazer.github.io/#ubuntu](https://openrazer.github.io/#ubuntu)
   - [Polychromatic](https://github.com/polychromatic/polychromatic) - RGB lighting management software for GNU/Linux. Powered by OpenRazer (soon to be vendor agnostic). [polychromatic.app](https://polychromatic.app)
@@ -152,10 +163,4 @@
   - [Snake](http://bithatch.co.uk/snake.html) - a stylised tool and tray applet for configuring Razer devices on Linux, written in Java.
   - [Chroma Feedback](https://github.com/redaxmedia/chroma-feedback) - Turn your Razer keyboard, mouse or headphone into a extreme feedback device.
 
-## 4. Various links
-- https://linuxgamebench.com/
-- https://github.com/taaderbe/linuxgamebench
-- https://areweanticheatyet.com/
-- [LizardByte](https://app.lizardbyte.dev/?lng=en)
-- [Motion blur test for your screen](https://www.testufo.com)
-- [In-depth product reviews](https://www.rtings.com/)
+
