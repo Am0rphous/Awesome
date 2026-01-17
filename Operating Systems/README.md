@@ -230,14 +230,16 @@ Considering key questions:
 - [Asuswrt-Merlin - Xwrt-Vortex (archived)](https://www.xvtx.ru/xwrt/source.htm) - [github](https://github.com/RMerl/asuswrt-merlin)
 - [Asuswrt-merlin.ng](https://github.com/RMerl/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase). [www.asuswrt-merlin.net](https://www.asuswrt-merlin.net)
 - [BSD Router](https://bsdrp.net) - Free open source software router distribution based on embedded FreeBSD.
-- [DD-WRT - https://dd-wrt.com)](https://dd-wrt.com) - DD-WRT is a Linux based alternative OpenSource firmware suitable for a great variety of WLAN routers and embedded systems. [Source code](https://github.com/mirror/dd-wrt), [logs](https://svn.dd-wrt.com/log/), [timeline](https://svn.dd-wrt.com/timeline)
-  - [DD-WRT Companion Android app](https://github.com/lemra-org/router-companion-android) - DD-WRT Companion for mobile devices.
-  - [dd-wrt demo](https://forum.dd-wrt.com/demo/)
-  - [dd-wrt download](https://ftp.dd-wrt.com/dd-wrtv2/downloads/betas/)
-    - For x86 or x64 firmware, go all the way down. [x86 Wiki](https://wiki.dd-wrt.com/wiki/index.php/X86)
+- [DD-WRT - https://dd-wrt.com)](https://dd-wrt.com) - DD-WRT is a Linux based alternative OpenSource firmware suitable for a great variety of WLAN routers and embedded systems. [Source code](https://github.com/mirror/dd-wrt), [logs](https://svn.dd-wrt.com/log/), [https://svn.dd-wrt.com/timeline)](https://svn.dd-wrt.com/timeline)
+  - Hardening
+    - https://dfarq.homeip.net/recommended-dd-wrt-settings/
+  - [https://github.com/lemra-org/router-companion-android](https://github.com/lemra-org/router-companion-android) 
+  - [https://forum.dd-wrt.com/demo/](https://forum.dd-wrt.com/demo/)
+  - [https://ftp.dd-wrt.com/dd-wrtv2/downloads/betas/)](https://ftp.dd-wrt.com/dd-wrtv2/downloads/betas/)
+    - For x86 or x64 firmware, go all the way down. [https://wiki.dd-wrt.com/wiki/index.php/X86](https://wiki.dd-wrt.com/wiki/index.php/X86)
   - [`Wl` wiki](https://wiki.dd-wrt.com/wiki/index.php/Wl_command) - tool to tinker with the routers firmware and controll the wireless hardware. No setup is required as 'wl' comes with all Broadcom DD-WRT installations.
-  - [voxel-firmware.com](https://voxel-firmware.com)
-  - [R9000-Voxel-firmware](https://voxel-firmware.com/Downloads/Voxel/html/r9000.html) - [source code](https://github.com/SVoxel/R9000)
+  - [https://voxel-firmware.com](https://voxel-firmware.com)
+  - [https://voxel-firmware.com/Downloads/Voxel/html/r9000.html](https://voxel-firmware.com/Downloads/Voxel/html/r9000.html) - [https://github.com/SVoxel/R9000](https://github.com/SVoxel/R9000)
 - [FreshTomato](https://freshtomato.org/) - [source code](https://github.com/pedro0311/freshtomato-arm)
 - [IPFire](https://www.ipfire.org) - IPFire is a hardened, versatile, state-of-the-art Open Source firewall based on Linux.
 - [LibreCMC](LibreCMC) - LibreCMC is a set of fully free embedded Operating Systems for general purpose computers. The Project aims to give its users freedom and control over the software that runs on their hardware. Most of the hardware that libreCMC supports includes a wide range of routers and some small single board computers.
