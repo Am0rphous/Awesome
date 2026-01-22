@@ -983,6 +983,7 @@ Based on that data, you can find the most popular ones and their alternatives.
   - [OpenPLi-PC](https://github.com/ag1455/OpenPLi-PC) - Watch TV from satellites on PC
   - [Plex](https://www.plex.tv/) -  closed source media server + desktop application. [plex.tv](https://www.plex.tv/)
     - **ultimate plex stack** https://github.com/DonMcD/ultimate-plex-stack
+    - Transcode to `/dev/shm`
     - [Install and Configure Plex on Ubuntu](https://itsfoss.com/install-plex-ubuntu/)
     - [Omni](https://github.com/tidusjar/Ombi) - Want a Movie or TV Show on Plex or Emby? Use Ombi. [omni.io](https://ombi.io/)
     - [Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server.
