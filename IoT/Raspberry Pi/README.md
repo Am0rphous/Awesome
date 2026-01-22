@@ -29,7 +29,7 @@
 - [Ziadoz' raspberry-pi-3-setup](https://github.com/ziadoz/raspberry-pi-3-setup)
 
 - **Increase SD-card life**
-  - https://github.com/azlux/log2ram
+  - Install `log2ram` https://github.com/azlux/log2ram
   - Install `zram`. https://fosspost.org/enable-zram-on-linux-better-system-performance
 
 ## Home Automation Software
