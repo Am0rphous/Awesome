@@ -31,6 +31,8 @@ Table of content
 - [Awesome IDA, Ghidra, x64DBG, GDB & OllyDBG plugins Awesome](https://github.com/fr0gger/awesome-ida-x64-olly-plugin) - A curated list of IDA x64DBG, Ghidra and OllyDBG plugins. 
 - [Awesome-Malware-Analysis-Reverse-Engineering](https://github.com/CyberSecurityUP/Awesome-Malware-Analysis-Reverse-Engineering)
 - [Awesome Reverse Engineering](https://github.com/alphaSeclab/awesome-reverse-engineering) - Reverse Engineering Resources About All Platforms(Windows/Linux/macOS/Android/iOS/IoT) And Every Aspect! (More than 3500 open source tools and 2300 posts&videos).
+- Books
+  - [Practical Reverse Engineering - Alexandre Gazet, Elias Bachaalany, Bruce Dang.pdf](https://ftp.idu.ac.id/wp-content/uploads/ebook/tdg/MILITARY%20REFERENCE%20AND%20REVERSE%20ENGINEERING/Practical%20reverse%20engineering_%20x86,%20x64,%20ARM,%20Windows%20Kernel,%20reversing%20tools,%20and%20obfuscation%20(%20PDFDrive%20).pdf)
 - [CyberChef](https://github.com/gchq/cyberchef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis.
   - [Cyberchef Recipes](https://github.com/mattnotmax/cyberchef-recipes) - A list of cyber-chef recipes and curated links.
   - [gchq.github.io/CyberChef](https://gchq.github.io/CyberChef)
