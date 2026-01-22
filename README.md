@@ -987,6 +987,21 @@ Based on that data, you can find the most popular ones and their alternatives.
     - [Tautulli](https://github.com/Tautulli/Tautulli) - A Python based monitoring and tracking tool for Plex Media Server.
     - [Telly](https://github.com/tellytv/telly) - IPTV proxy for Plex Live written in Golang.
     - [overseerr](https://overseerr.dev/)
+    - [Radarr](https://github.com/Radarr/Radarr) - Movie organizer/manager
+      - behind reverse proxy https://wiki.servarr.com/radarr/installation/reverse-proxy
+      ````shell
+      docker run -d \
+        --name=radarr \
+        -e PUID=1000 \
+        -e PGID=1000 \
+        -e TZ="Europe/Oslo" \
+        -p 127.0.0.1:7878:7878 \
+        -v /mnt/lager/radarr/:/config \
+        -v /mnt/lager/plex/media/movies/:/movies \
+        -v /mnt/lager/radarr/downloads/:/downloads \
+        --restart unless-stopped \
+        lscr.io/linuxserver/radarr:latest
+      ```` 
   - [Snapcast](https://github.com/badaix/snapcast) - Snapcast is a multiroom client-server audio player, where all clients are time synchronized with the server to play perfectly synced audio. [Homepage Snapcast](https://mjaggard.github.io/snapcast/)
 
     #### Docker
