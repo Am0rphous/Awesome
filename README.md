@@ -598,6 +598,7 @@ Communicate clearly <br>
   - [Nest](https://github.com/MLX15/nestjs) - A progressive Node.js framework for building efficient and scalable server-side applications.
   - [Sonarqube](https://github.com/SonarSource/sonarqube) - Continuous Inspection
   - [Tokei](https://github.com/XAMPPRocky/tokei) - Tokei is a program that displays statistics about your code. Tokei will show the number of files, total lines within those files and code, comments, and blanks grouped by language.
+  - [aloc](https://github.com/rsnodgrass/aloc) - Fast semantic codebase analyzer with role classification, health ratios, and effort estimates for a modern AI-developed world.
   - [Yaklang](https://github.com/yaklang/yaklang) - A programming language exclusively designed for cybersecurity
 
     #### C
