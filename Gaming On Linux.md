@@ -16,6 +16,8 @@
 
 
 ## 1. Various links
+- https://github.com/ArmchairDevelopers/Maxima
+
 - https://linuxgamebench.com
 - https://github.com/taaderbe/linuxgamebench
 - https://areweanticheatyet.com
