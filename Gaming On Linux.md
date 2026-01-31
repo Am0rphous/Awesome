@@ -16,6 +16,7 @@
 
 
 ## 1. Various links
+- https://playit.gg/
 - https://github.com/ArmchairDevelopers/Maxima
 
 - https://linuxgamebench.com
