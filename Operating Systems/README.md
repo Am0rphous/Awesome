@@ -75,9 +75,14 @@ Considering key questions:
 - [Rocky Linux](https://rockylinux.org) - An open enterprise operating system.
 - [Serenity](https://github.com/SerenityOS/serenity) - _Graphical Unix-like operating system for x86 computers._
 - [Solus](https://getsol.us/home)
-- [Ubuntu Desktop](https://ubuntu.com) - Cloud, servers, IoT, desktop.
+- [Ubuntu Desktop](https://ubuntu.com) - Cloud, servers, IoT, desktop. **Ubuntu means "humanity" in some African languages, but is translated to "I am because we are".**
+  - [Ubuntu 25.04 (Plucky Puffin)](https://releases.ubuntu.com/plucky/)
+  - [Ubuntu 22.04.5 LTS (Jammy Jellyfish)](https://releases.ubuntu.com/jammy/)
   - [Ubuntu 20.04 Installation Guide on amd64](https://help.ubuntu.com/20.04/installation-guide/amd64/index.html)
-  - [Ubuntu Budgie](https://ubuntubudgie.org/) - beautiful
+  - [Ubuntu 18.04.6 LTS (Bionic Beaver)](https://releases.ubuntu.com/18.04/)
+  - [Ubuntu 16.04.7 LTS (Xenial Xerus)](https://releases.ubuntu.com/xenial/)
+  - [Ubuntu 14.04.6 LTS (Trusty Tahr)](https://releases.ubuntu.com/trusty/)
+  - [Ubuntu Budgie](https://ubuntubudgie.org/) - beautiful. Desktop in the Ubuntu family.
 - [Qubes OS](https://www.qubes-os.org/downloads) - OS designed for privacy and security.
 - [Zorin OS](https://zorinos.com) 
 
