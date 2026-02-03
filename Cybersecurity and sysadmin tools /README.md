@@ -935,9 +935,10 @@ upstream_recursive_servers:
     - [Linux app github](https://github.com/ProtonVPN/linux-app) - [Linux app github CLI](https://github.com/ProtonVPN/linux-cli)
   - [Vtun](https://github.com/net-byte/vtun) - A simple VPN written in Go.
   - [**WireGuard**](https://github.com/WireGuard) - WireGuard® is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. [Wireguard.com](https://www.wireguard.com)
+    - [Wg-easy **use this for setup**](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
     - [GUI client #1](https://snapcraft.io/wireguard-gui) `sudo snap install wireguard-gui`
     - [GUI client #2](https://github.com/UnnoTed/wireguird) - wireguard gtk gui for linux
-    - [**Wg-easy**](https://github.com/WeeJeWel/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
+    - [Wg-easy (**archived**))](https://github.com/WeeJeWel/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
     - [docker-wireguard](https://github.com/linuxserver/docker-wireguard)
     - [docker-wireguard-socks-proxy](https://github.com/kizzx2/docker-wireguard-socks-proxy) - Expose a WireGuard tunnel as a SOCKS5 proxy 
     - [Firezone](https://github.com/firezone/firezone) - WireGuard®-based VPN server and firewall
