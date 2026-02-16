@@ -19,6 +19,7 @@ Table of content
 
 
 <br><br>
+- https://github.com/TalEliyahu/Awesome-AI-Security
 
 - https://github.com/AceDataCloud/Nexior
 - [bilibot](https://github.com/linyiLYi/bilibot) - A local chatbot fine-tuned by bilibili user comments. 
