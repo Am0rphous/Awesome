@@ -154,6 +154,7 @@
 - [AntiMicro](https://github.com/AntiMicro/antimicro) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
 - [AntiMicroX](https://github.com/AntiMicroX/antimicrox) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
 - [CKB](https://github.com/ccMSC/ckb) - RGB Driver for Linux and OS X.
+- [(Arhived) GKraken](https://gitlab.com/leinardi/gkraken) - **Use [CoolerControl](https://gitlab.com/coolercontrol/coolercontrol) instead** 
 - [Hardware for Linux Trends](https://linux-hardware.org/?view=trends)
   - [Trends by linuxhw](https://github.com/linuxhw/Trends)
   - [PCI passthrough via OVMF](https://wiki.archlinux.org/title/PCI_passthrough_via_OVMF) - Arch wiki
@@ -168,9 +169,15 @@
     Done. You can access WebUI console via: http://127.0.0.1:27003/
 
     systemctl status OpenLinkHub
-
     ````
+- Kraken
+  - https://github.com/ProtozeFOSS/KrakenZPlayground
 - [Liquidctl](https://github.com/liquidctl/liquidctl) - Cross-platform CLI and Python drivers for AIO liquid coolers and other devices
+  ````shell
+  sudo apt install liquidctl
+  sudo liquidctl list
+  sudo liquidctl status
+  ````
 - [Piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices.
 - [https://github.com/ckb-next/ckb-next](https://github.com/ckb-next/ckb-next) - open-source driver for Corsair keyboards and mice.
   ````shell
