@@ -157,6 +157,19 @@
 - [Hardware for Linux Trends](https://linux-hardware.org/?view=trends)
   - [Trends by linuxhw](https://github.com/linuxhw/Trends)
   - [PCI passthrough via OVMF](https://wiki.archlinux.org/title/PCI_passthrough_via_OVMF) - Arch wiki
+- iCUE
+  - [OpenLinkHub](https://github.com/jurkovic-nikola/OpenLinkHub) - Open source interface for iCUE LINK Hub and other Corsair AIOs, Hubs for Linux. Manage RGB lighting, fan speeds, system metrics, as well as keyboards, mice, headsets via a web dashboard.
+    ````shell
+    sudo dpkg -i OpenLinkHub_0.7.7_amd64.deb
+    apt install libudev-dev
+    apt --fix-broken install
+    dpkg -i OpenLinkHub_0.7.7_amd64.deb
+    ....
+    Done. You can access WebUI console via: http://127.0.0.1:27003/
+
+    systemctl status OpenLinkHub
+
+    ````
 - [Liquidctl](https://github.com/liquidctl/liquidctl) - Cross-platform CLI and Python drivers for AIO liquid coolers and other devices
 - [Piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices.
 - [https://github.com/ckb-next/ckb-next](https://github.com/ckb-next/ckb-next) - open-source driver for Corsair keyboards and mice.
