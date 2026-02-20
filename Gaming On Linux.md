@@ -178,6 +178,14 @@
   sudo liquidctl list
   sudo liquidctl status
   ````
+- https://github.com/CalcProgrammer1/OpenRGB  https://openrgb.org/
+  - https://gitlab.com/CalcProgrammer1/OpenRGB
+  ````shell
+  flatpak install org.openrgb.OpenRGB
+
+  # Install script https://openrgb.org/udev
+  bash openrgb-udev-install.sh
+  ```` 
 - [Piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices.
 - [https://github.com/ckb-next/ckb-next](https://github.com/ckb-next/ckb-next) - open-source driver for Corsair keyboards and mice.
   ````shell
