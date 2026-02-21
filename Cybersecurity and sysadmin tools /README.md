@@ -58,6 +58,7 @@
 - [Overclocking tools](#overclocking-tools)
 - [Package managers](#package-managers)
   - [Finding software](#finding-software)
+- [Patch Management](#patch-management)
 - [Security tools](#security-tools)
   - [Authenticators](#Authenticators)
     - [Android](#android-specific)
@@ -1105,6 +1106,10 @@ upstream_recursive_servers:
 ### Finding Software
 - [Bitnami by VMware](https://bitnami.com/)
 - [repology.org](https://repology.org) - Repology monitors a huge number of package repositories and other sources comparing packages versions across them and gathering other information.
+
+## Patch Management
+- [SecObserve](https://github.com/SecObserve/SecObserve) - SecObserve is an open source vulnerability and license management system for software development teams and cloud environments. It supports a variety of open source vulnerability scanners and integrates easily into CI/CD pipelines.
+
 
 ## Security Tools
 - [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) - Machine Learning for Cyber Security.
