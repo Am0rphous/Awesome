@@ -1343,6 +1343,7 @@ that works on top of your local folder of plain text files. [github](https://git
   - [Linux Surface](https://github.com/linux-surface/linux-surface) - Linux Kernel for Surface Devices.
   - [Lisa19 - Linux Terminal Tools](https://github.com/ketancmaheshwari/lisa19) - Linux Terminal Tools. PDF slides.
   - [Static-binaries](https://github.com/andrew-d/static-binaries) - Various *nix tools built as statically-linked binaries.
+  - [https://tuxmate.com/](https://tuxmate.com/)
 
   ### Peripherals
   - [logiops](https://github.com/PixlOne/logiops) - An unofficial userspace driver for HID++ Logitech devices - [askubuntu: Logitech MX Master](https://askubuntu.com/questions/1149310/logitech-mx-master-2s-via-bluetooth-change-pointer-speed/1246278#1246278)
