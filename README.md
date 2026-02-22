@@ -36,7 +36,7 @@ Communicate clearly <br>
     - [CI/CD](#cicd)
   - [VoIP](#voip)
 - [Desktop Customization](#desktop-customization)
-  - [Background and Wallapers](https://github.com/Am0rphous/Awesome#background-and-wallapers)
+  - [Background and Wallpapers](https://github.com/Am0rphous/Awesome#background-and-wallapers)
   - [Extensions](#extensions)
   - [Inspiration](#inspiration)
   - [Prevent Eyestrain](#prevent-eyestrain)
@@ -146,7 +146,6 @@ Communicate clearly <br>
 <br>
 
 - [StarGazed](https://github.com/abhijithvijayan/stargazed) - Creating your own Awesome List of GitHub stars!
-
 
 ## Communication and Collaboration Tools
 - [Apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
@@ -350,7 +349,6 @@ Communicate clearly <br>
   - [Mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software.
   - [Rocket Streaming Audio Server](https://www.rocketbroadcaster.com/streaming-audio-server) - Rocket Streaming Audio Server broadcasts live audio over HTTP(S), and is a modern replacement for Icecast and SHOUTcast.
 
-
 ## Desktop Customization
 
 - [Conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X
@@ -381,7 +379,7 @@ Communicate clearly <br>
 - [https://store.kde.org/browse/](https://store.kde.org/browse/)
 - [Variety](https://github.com/varietywalls/variety) - Wallpaper downloader and manager for Linux systems.
 
-#### Background and Wallapers
+#### Background and Wallpapers
 - [GeekWall](https://github.com/SAJAD-net/GeekWall) - Wallpapers for geeks, programmers, hackers ....
 - [Hidamari](https://github.com/jeffshee/hidamari) - Video wallpaper for Linux. Written in Python. 🐍
 - [Linux OS specific wallpapers](https://www.pling.com/browse?cat=261&ord=latest)
@@ -463,7 +461,6 @@ Communicate clearly <br>
   - [Nordic GTK3/4 Theme](https://www.pling.com/s/Gnome/p/1267246)
   - [Top 35 Best Ubuntu Themes That Will Blow Your Mind](https://www.ubuntupit.com/best-ubuntu-themes-will-blow-mind/)
 
-
 ## Development
 - [Pkgx](https://github.com/pkgxdev/pkgx) - “run anything” from the creator of `brew`
 <br>
@@ -510,7 +507,6 @@ Communicate clearly <br>
   - [Public APIs](https://github.com/public-apis/public-apis) - A collective list of free APIs
   - [Tune Chat](https://chat.tune.app/) - AI chat app powered by open source models
 
-
   ### Backend
   - [Appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative. 
   - [SupaBase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
@@ -534,7 +530,6 @@ Communicate clearly <br>
   - [Theia (NICE!!)](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript. [ theia-ide.org ](https://theia-ide.org/)
   - [Visual Studio Code](https://github.com/Microsoft/vscode) - [code.visualstudio.com](https://code.visualstudio.com)
   - [VSCodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing. [homepage](https://vscodium.com/)
-
 
   ### File Managers
   - [Spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. 
@@ -780,7 +775,6 @@ Communicate clearly <br>
   - [LibHunt](https://www.libhunt.com/) -LibHunt tracks mentions of open-source projects and software libraries.
 Based on that data, you can find the most popular ones and their alternatives.
   - [Udemy Downloader GUI](https://github.com/FaisalUmair/udemy-downloader-gui) - A desktop application for downloading Udemy Courses.
-
 
 ## Food and Drinks
 - [Brewtarget](https://github.com/Brewtarget/brewtarget) - Brewtarget is free open-source brewing software, and a beer recipe creation tool available for Linux, Mac, and Windows. It automatically calculates color, bitterness, and other parameters for you while you drag and drop ingredients into the recipe.
