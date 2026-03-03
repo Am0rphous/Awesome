@@ -148,6 +148,7 @@
    - [Warsow - Warsow is Art of Respect and Sportsmanship Over the Web](https://warsow.net/) - Since 2005, Warsow is considered as one of the most skill-demanding games in the fast-paced arena shooter scene.[Discord](https://discord.com/invite/Z9UgZZM)
 
 ## 5. Peripherals & Hardware
+- Microphone. Make Elgato wave3 work: https://github.com/jmansar/wavexlr-on-linux-cfg
 - For competitive gaming ensure keyboard support
   - Anti-Ghosting "unintended keystrokes are registered when multiple keys are pressed"
   - "N-Key Rollover (NKRO) is a keyboard feature that determines how many keys can be pressed simultaneously while still being correctly registered by the keyboard. "N" stands for any given number, indicating that a keyboard with full NKRO can detect unlimited simultaneous key presses without making mistakes. This feature is particularly useful for gamers, programmers, and typists who rely on quick and precise inputs." [read more](https://redragonshop.com/blogs/community/understanding-anti-ghosting-and-n-key-rollover-the-key-differences-explained)
