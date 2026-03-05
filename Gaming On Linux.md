@@ -106,8 +106,8 @@
    - [Free Games by The Drakelings Community](https://drakelings.bluedrake42.com/index.php?/category/1-free-games/)
    - [gamejolt.com](https://gamejolt.com) - Hosting free and commercial indie games.
    - [HLL - Hell Let Loose](https://www.hellletloose.com/)
+     - https://www.hllrecords.com
      - steam launch options
-- https://www.hllrecords.com/
      ````shell
      +r_fullscreen 1 +r_width 2560 +r_height 1440       # reduzing screen size
      +r_fullscreen 1 +r_width 1920 +r_height 1080       # reduzing screen size
@@ -117,6 +117,9 @@
      -dx12 -USEALLAVAILABLECORES -malloc=system -refresh 180                           # need to try
 
      -dx11 -USEALLAVAILABLECORES  -malloc=system -refresh 180 -screen-width 5120 -screen-height 2160 -windowed
+
+     #this
+     -dx11 -USEALLAVAILABLECORES -malloc=system -refresh 180 -w 5120 -h 2160
      ````
      - for  ` or `
    - [Itch.io](https://itch.io/) - Collection of some of the most unique, interesting, and independent creations you'll find on the web.
@@ -127,7 +130,7 @@
    - [portablelinuxgames.org](https://portablelinuxgames.org/)
    - [Quake Wars: Enemy Territory](https://www.splashdamage.com/games/enemy-territory-quake-wars/)
    - [Rally Championship Xtreme (Actualize, 2001)](https://archive.org/details/rally-championship-xtreme)
-   - [S.T.A.L.K.E.R.]()
+   - S.T.A.L.K.E.R.
      - [S.T.A.L.K.E.R. Anomaly ](https://drakelings.bluedrake42.com/index.php?/blogs/entry/11-i-cant-believe-this-full-game-is-free/)
    - [Splitgate](https://store.steampowered.com/app/677620/Splitgate/) - Free and works on Steamos/linux
    - [Squad44 / Post Scriptum](https://store.steampowered.com/app/736220/Squad_44/) - $
