@@ -8,6 +8,8 @@
 - [Digital Forensics Lab & Shared Cyber Forensic Intelligence Repository](https://github.com/frankwxu/digital-forensics-lab) - Free hands-on digital forensics labs for students and faculty.
 - [ForensicsTools](https://github.com/mesquidar/ForensicsTools) - A list of free and open forensics analysis tools and other resources.
 - [Free tools from magnetforensics](https://www.magnetforensics.com/free-tools/)
+- [Hansken](https://www.hansken.nl/) - open digital forensic platform by Netherlands Forensic Institute. "designed to give access to and insight in digital data and traces originating from seized and demanded material."
+  
 - [Hashlookup-forensic-analyser](https://github.com/hashlookup/hashlookup-forensic-analyser) - Analyse a forensic target (such as a directory) to find and report files found and not found from CIRCL hashlookup public service - https://circl.lu/services/hashlookup/.
 - [IPED](https://github.com/sepinf-inc/IPED) - IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners.
 - [Kuiper](https://github.com/DFIRKuiper/Kuiper) - Digital Forensics Investigation Platform
