@@ -16,6 +16,7 @@
 
 
 ## 1. Various links
+- https://github.com/stenzek/duckstation
 - https://github.com/kaezrr/starpsx
 - https://playit.gg/
 - https://github.com/ilya-zlobintsev/LACT
