@@ -86,21 +86,27 @@
 - [gamejolt.com/games?os=linux](https://gamejolt.com/games?os=linux) - Find great games.
 
   ### Games
-   - [30 free and open source Linux games – part 2 ](https://github.blog/2021-08-26-30-free-and-open-source-linux-games-part-2/)
-   - [AssaultCube](https://assault.cubers.net/) - AssaultCube is a FREE, multiplayer, first-person shooter game. [Docs](https://assault.cubers.net/docs/getstarted.html)
-  ````
-  sudo apt install assaultcube assaultcube-data
-  
-  #might need these
-  sudo apt-get install libsdl1.2debian libsdl-image1.2 zlib1g libogg0 libvorbis0a libopenal1 libcurl4
-
-  #Manual install:
-  wget https://github.com/assaultcube/AC/releases/download/v1.3.0.2/AssaultCube_v1.3.0.2_LockdownEdition_RC1.tar.bz2
-  mkdir AssaultCube
-  tar xvf AssaultCube_v1.3.0.2_LockdownEdition_RC1.tar.bz2 -C AssaultCube
-  cd AssaultCube
-  ./assaultcube.sh
-  ````
+  - [0 A.D](https://play0ad.com) - free, open-source real-time strategy game of ancient warfare.
+    ````shell
+    #https://flathub.org/en/apps/com.play0ad.zeroad
+    flatpak install flathub com.play0ad.zeroad   # install
+    flatpak run com.play0ad.zeroad               # run
+    ````
+  - [30 free and open source Linux games – part 2 ](https://github.blog/2021-08-26-30-free-and-open-source-linux-games-part-2/)
+  - [AssaultCube](https://assault.cubers.net/) - AssaultCube is a FREE, multiplayer, first-person shooter game. [Docs](https://assault.cubers.net/docs/getstarted.html)
+    ````shell
+    sudo apt install assaultcube assaultcube-data
+    
+    #might need these
+    sudo apt-get install libsdl1.2debian libsdl-image1.2 zlib1g libogg0 libvorbis0a libopenal1 libcurl4
+    
+    #Manual install:
+    wget https://github.com/assaultcube/AC/releases/download/v1.3.0.2/AssaultCube_v1.3.0.2_LockdownEdition_RC1.tar.bz2
+    mkdir AssaultCube
+    tar xvf AssaultCube_v1.3.0.2_LockdownEdition_RC1.tar.bz2 -C AssaultCube
+    cd AssaultCube
+    ./assaultcube.sh
+    ````
    - [BFHD PRO II - Patch G2 (Gold)](https://www.moddb.com/mods/battlefield-hd-remastered-3/downloads/bfhd-pro-ii-patch-g-gold) - (wine/winetriks) Battlefield Remastered 3.0 has finally has gone gold after a 2 years development.
    - [Endless Sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game. https://endless-sky.github.io/
    - [Enlisted](https://store.steampowered.com/app/2051620/Enlisted/) - Free FPS - nice one 
