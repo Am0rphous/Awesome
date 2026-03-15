@@ -1042,8 +1042,7 @@ Based on that data, you can find the most popular ones and their alternatives.
     - [RadioDroid](https://github.com/segler-alex/RadioDroid) - radio browser app that uses www.radio-browser.info on android
     - [Radio Tray](http://radiotray.sourceforge.net) - online radio streaming player that runs on a Linux system tray.
     - [Radiotray-NG](https://github.com/ebruck/radiotray-ng) - An Internet radio player for Linux.
-    - [Shortwave](https://gitlab.gnome.org/World/Shortwave) - Find and listen to internet radio stations.
-    - [Strimio](https://www.strimio.com) - A Beautiful Modern Radio Streaming App. [snap package](https://snapcraft.io/strimio-desktop)
+    - [Shortwave](https://gitlab.gnome.org/World/Shortwave) - Find and listen to internet radio stations.      - 
 
     ##### Sound Production
     - [Ardour](https://ardour.org/) - Record, Edit, and Mix on Linux, macOS and Windows
@@ -1369,8 +1368,8 @@ that works on top of your local folder of plain text files. [github](https://git
 
     - [Streamio](https://www.stremio.com/) 
       - 1. Install Torrent Catalogs
-      - 2. Install [Torrentio](https://torrentio.strem.fun/configure) add-on
-        3. SK/CZ Torrents
+      - 2. Install [Torrentio](https://torrentio.strem.fun/configure) plugin
+        3. Install [Thepiratebay](https://thepiratebay-plus.strem.fun/) plugin
 
 ## Web Browsers
 - [Chromium](https://www.chromium.org/) - With Chromium, you get rid of all the tracking features that Google Chrome boasts.
