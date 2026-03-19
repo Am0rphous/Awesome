@@ -1333,12 +1333,22 @@ that works on top of your local folder of plain text files. [github](https://git
   ### Hex
   - [Bless](https://github.com/afrantzis/bless) - Hex Editor.
   - [GHex](https://github.com/GNOME/ghex) - GHex can load raw data from binary files and display them for editing in a traditional hex editor view. The display is split in two columns, with hexadecimal values in one column and the ASCII representation in the other. GHex is a useful tool for working with raw data. `sudo apt install ghex`
-  - HexEdit - `sudo apt intall hexedit`. Usage: `hexedit /dev/sdb`
+  - HexEdit
+    ```shell
+    sudo apt intall hexedit
+    hexedit /dev/sdb
+    ``` 
   - [Hex Editor Neo](https://www.hhdsoftware.com/hex-editor)
-  - [ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
   - [Hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer 
+  - [ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
+  - [Okteta](https://apps.kde.org/okteta/)
+    ```shell
+    sudo apt install okteta
+    flatpak install flathub org.kde.okteta      # https://flathub.org/en/apps/org.kde.okteta
+    ``` 
   - [SuperHexEditor](https://github.com/philipxyc/SuperHexEditor) - A powerful and open source Hex Editor for Windows10.
   - [wxHexEditor](https://github.com/EUA/wxHexEditor) - [www.wxhexeditor.org](http://www.wxhexeditor.org/) - `sudo apt install wxhexeditor` (can look at disks!)
+
   ### Linux Tools
   - [Gear Lever](https://github.com/mijorus/gearlever) - Manage AppImages with ease 📦 
   - [Light - A program to control backlights (and other hardware lights) in GNU/Linux](https://github.com/haikarainen/light) - GNU/Linux application to control backlights 
