@@ -1189,6 +1189,7 @@ upstream_recursive_servers:
     - [Full system AppArmor policy](https://github.com/Kicksecure/apparmor-profile-everything) - AppArmor for everything. APT, systemd, init, all systemd units, all applications. Mandatory Access Control. Security Hardening. 
   - [Auditd](https://manpages.ubuntu.com/manpages/jammy/en/man8/auditd.8.html) - The Linux Audit daemon.
   - [grsecurity](https://grsecurity.net/)
+    - OpenPaX - open-source alternative to grsecurity, providing kernel patches aimed at enhancing memory safety and system hardening for Linux. https://github.com/edera-dev/linux-openpax
   - [Intel® SGX](https://www.intel.com/content/www/us/en/architecture-and-technology/software-guard-extensions.html) - _"There is tremendous opportunity for application and solution developers to take charge of their data security using new hardware-based controls for cloud and enterprise environments. Intel® Software Guard Extensions (Intel® SGX)1 2 offers hardware-based memory encryption that isolates specific application code and data in memory. Intel® SGX allows user-level code to allocate private regions of memory, called enclaves, which are designed to be protected from processes running at higher privilege levels. Only Intel® SGX offers such a granular level of control and protection."_
     - [Intel SGX for Linux* ](https://github.com/intel/linux-sgx)
   - Live patching
