@@ -157,13 +157,12 @@ sysdig
 - [DumpIT for Linux](https://github.com/MagnetForensics/dumpit-linux) - Memory acquisition for Linux that makes sense.
 - [FireEye Redline](https://www.fireeye.com/services/freeware/redline.html) -  free endpoint security tool, provides host investigative capabilities to users to find signs of malicious activity through memory and file analysis and the development of a threat assessment profile.
 - [Fmem](https://github.com/NateBrune/fmem) - Linux Kernel Module designed to help analyze volatile memory in the linux kernel.
-- How to
-````bash
-git clone https://github.com/NateBrune/fmem
-cd fmem && make
-./run.sh
-dd if=/dev/fmem of=memory.raw bs=1MB count=2048
-````
+  ````bash
+  git clone https://github.com/NateBrune/fmem
+  cd fmem && make
+  ./run.sh
+  dd if=/dev/fmem of=memory.raw bs=1MB count=2048
+  ````
 - [FTK Imager](https://www.exterro.com/ftk-imager)
 - [kallsyms-extractor](https://github.com/pagabuc/kallsyms-extractor) - Tool to extract the kallsyms (System.map) from a memory dump.
 - [kernographer](https://github.com/pagabuc/kernographer) - Back to the Whiteboard: a Principled Approach for the Assessment and Design of Memory Forensic Techniques (Usenix '19)
