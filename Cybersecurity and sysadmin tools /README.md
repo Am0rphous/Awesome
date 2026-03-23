@@ -1446,15 +1446,16 @@ upstream_recursive_servers:
 - [PeaZip](https://github.com/peazip/PeaZip) - Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ2, CAB, CHM, CPIO, DEB, GZ, ISO, JAR, LHA/LZH, NSIS, OOo, PAQ/LPAQ, PEA, QUAD, RAR, RPM, split, TAR, Z, ZIP, ZIPX, Zstandard.
 
   ### Create Bootable USB
-  - [Balena Etcher](https://github.com/balena-io/etcher) -  Flash OS images to SD cards & USB drives, safely and easily.
+  - [Balena Etcher](https://github.com/balena-io/etcher) -  Linux/macOS/Windows
+    - Linux: Download deb or extract zip and run binary.
   - [Cubic](https://launchpad.net/cubic) - Custom Ubuntu ISO Creator) is a GUI wizard to create a customized Ubuntu Live ISO image.
   - [Diskutil (macOS, BSD systems)](https://ss64.com/osx/diskutil.html) - Modify, verify and repail local disks. Procedure is as follows:
-  ````
-  diskutil list
-  diskutil unmountDisk /dev/disknumber
-  sudo dd if=/path/to/image.iso of=/dev/rdisknumber bs=1m>
-  sudo dd if=/Users/user_name/Downloads/CentOS-8-x86_64-boot.iso of=/dev/rdisk2
-  ````
+   ```shell
+   diskutil list
+   diskutil unmountDisk /dev/disknumber
+   sudo dd if=/path/to/image.iso of=/dev/rdisknumber bs=1m>
+   sudo dd if=/Users/user_name/Downloads/CentOS-8-x86_64-boot.iso of=/dev/rdisk2
+   ```
   - [ISOWriter](https://github.com/KaOSx/isowriter) - Tool for creating bootable installation USB flash drives, forked from rosa-imagewriter.
   - [Rufus (Windows)](https://rufus.ie) - The Reliable USB Formatting Utility.
   - [UNetbootin](https://github.com/unetbootin/unetbootin) - UNetbootin installs Linux/BSD distributions to a partition or USB drive.
@@ -1477,19 +1478,19 @@ upstream_recursive_servers:
   - [PreLoad](https://sourceforge.net/projects/preload/) - `sudo apt install preload && sudo systemctl enable preload` preload is an adaptive readahead daemon. It monitors applications that users run, and by analyzing this data, predicts what applications users might run, and fetches those binaries and their dependencies into memory for faster startup times.
   - [TLP](https://github.com/linrunner/TLP) - Optimize Linux Laptop Battery Life. [TLP UI](https://github.com/d4nj1/TLPUI) - A GTK user interface for TLP written in Python 
     Usefull commands
-    ````powershell
+    ```shell
     sudo tlp start
     sudo tlp-stat
     sudo wifi [on/off]
     sudo bluetooth [on/off]
     sudo wwan [on/off]
-    ````
+    ```
    - [SlimbookBattery](https://slimbook.es/en/tutoriales/aplicaciones-slimbook/398-slimbook-battery-3-application-for-optimize-battery-of-your-laptop) - Optimize yout battery life. [Slimbook official PPA](https://launchpad.net/~slimbook/+archive/ubuntu/slimbook)
      Procedure:
-     ````
+     ```shell
      sudo add-apt-repository ppa:slimbook/slimbook
      sudo apt-get install slimbookbattery
-     ````
+     ```
    - [Thinkfan](https://github.com/vmatare/thinkfan) - The minimalist fan control program
    - [Thinkfan-ui](https://github.com/zocker-160/thinkfan-ui) - A small gui app for Linux to control the fan speed and monitor temps on a ThinkPad
    - [TuneD](https://github.com/redhat-performance/tuned) - Tuning Profile Delivery Mechanism for Linux
