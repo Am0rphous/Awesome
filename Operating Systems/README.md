@@ -243,6 +243,7 @@ Considering key questions:
   - [https://ftp.dd-wrt.com/dd-wrtv2/downloads/betas/)](https://ftp.dd-wrt.com/dd-wrtv2/downloads/betas/)
     - For x86 or x64 firmware, scroll all the way down, or click [latest/x86-64/raw](https://ftp.dd-wrt.com/dd-wrtv2/downloads/betas/latest/x86-64/raw/)
       - [https://wiki.dd-wrt.com/wiki/index.php/X86](https://wiki.dd-wrt.com/wiki/index.php/X86)
+      - Ensure disk is SCSI or IDE. 
   - [`Wl` wiki](https://wiki.dd-wrt.com/wiki/index.php/Wl_command) - tool to tinker with the routers firmware and controll the wireless hardware. No setup is required as 'wl' comes with all Broadcom DD-WRT installations.
   - [https://voxel-firmware.com](https://voxel-firmware.com)
   - [https://voxel-firmware.com/Downloads/Voxel/html/r9000.html](https://voxel-firmware.com/Downloads/Voxel/html/r9000.html) - [https://github.com/SVoxel/R9000](https://github.com/SVoxel/R9000)
