@@ -1212,6 +1212,15 @@ that works on top of your local folder of plain text files. [github](https://git
   - [LibreOffice](https://www.libreoffice.org) - [Extensions](https://extensions.libreoffice.org)
   - [OnlyOffice](https://www.onlyoffice.com) - Office productivity suite. [Flatpak](https://flathub.org/apps/details/org.onlyoffice.desktopeditors)
   - PDFs
+    - Merge pdf's on linux
+      ```shell
+      pdfunite *.pdf merged.pdf
+      pdfunite fil1.pdf fil2.pdf fil3.pdf ferdig.pdf
+      ```
+    - Re-arrange pdfs
+      ```shell
+      sudo apt install pdfarranger  # GUI
+      ```  
     - [pdftricks](https://flathub.org/en/apps/com.github.muriloventuroso.pdftricks) - [source](https://github.com/muriloventuroso/pdftricks)
       ````shell
       flatpak install pdftricks
