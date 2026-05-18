@@ -700,7 +700,6 @@ Communicate clearly <br>
 
 ## E-books
 - [Books](https://github.com/briskinfosec/Books) - Free Online Books for all infosec folks & students who want to stay shine in information security domain and for their research purpose.
-
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) - Freely available programming books.
 - [Free Security eBooks](https://github.com/Hack-with-Github/Free-Security-eBooks) - A curated list of free Security and Pentesting related E-Books available on the Internet.
 - [GeekGuide - Linux in the Time of Malware](https://www.linuxjournal.com/sites/default/files/2018-11/GeekGuide-Bit9-3.pdf)
@@ -708,6 +707,7 @@ Communicate clearly <br>
 - [GetBestBooks.com](https://getbestbooks.com) - Free ebooks.
 - [Hacking Books](https://github.com/tanc7/hacking-books)
 - [HonKit](https://github.com/honkit/honkit) - 📖 HonKit is building beautiful books using Markdown - Fork of GitBook.
+- [it-ebooks.dev](https://it-ebooks.dev) - Free & Open IT Books Library
 - [Linux Books](https://github.com/manjunath5496/Linux-Books) - "We all love Linux, but it's also a fact that some people might not be able to migrate." - Miguel de Icaza.
 - [Linux Insides book](https://0xax.gitbooks.io/linux-insides/content/index.html) - [Source code](https://github.com/0xAX/linux-insides)
 - [NasjonalBiblioteket](https://www.nb.no/) - Norwegian library
