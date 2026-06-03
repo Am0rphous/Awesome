@@ -112,6 +112,7 @@
    - [Enlisted](https://store.steampowered.com/app/2051620/Enlisted/) - Free FPS - nice one 
    - [Free Games by The Drakelings Community](https://drakelings.bluedrake42.com/index.php?/category/1-free-games/)
    - [gamejolt.com](https://gamejolt.com) - Hosting free and commercial indie games.
+   - [Hate](https://github.com/navid-m/hate) - Multiplayer FPS based off of the original Cube engine. Open Source FPS for Linux. [https://endseven.itch.io/hate](https://endseven.itch.io/hate) - [https://hate-arena.pages.dev/](https://hate-arena.pages.dev/)
    - [HLL - Hell Let Loose](https://www.hellletloose.com/)
      - https://www.hllrecords.com
      - steam launch options
