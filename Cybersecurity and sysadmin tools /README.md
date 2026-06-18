@@ -1109,6 +1109,7 @@ upstream_recursive_servers:
 - [repology.org](https://repology.org) - Repology monitors a huge number of package repositories and other sources comparing packages versions across them and gathering other information.
 
 ## Patch Management
+- [PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Management & Automation Platform
 - [SecObserve](https://github.com/SecObserve/SecObserve) - SecObserve is an open source vulnerability and license management system for software development teams and cloud environments. It supports a variety of open source vulnerability scanners and integrates easily into CI/CD pipelines.
 
 
