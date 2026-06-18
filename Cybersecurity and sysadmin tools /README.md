@@ -630,9 +630,11 @@ Snort -c /etc/snort/rules/local.rules -v -A console    #Use Snort rules without 
 - [BashTop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor.
 - [BGP monitor](https://github.com/D4-project/bgp-monitor)
 - [Bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor.
+- [Beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
 - [Cacti](https://www.cacti.net/) - provides a robust and extensible operational monitoring and fault management framework 
 - [DetectionLabELK](https://github.com/cyberdefenders/DetectionLabELK) - DetectionLabELK is a fork from DetectionLab with ELK stack instead of Splunk.
 - [Docker Swarm - Promitheus, Grafana, Node Exporter, Loki, Promtail, Caddy](https://github.com/zet694/promitheus_monitoring) - Docker Swarm - Promitheus, Grafana, Node Exporter, Loki, Promtail, Caddy.
+- [Dockhand](https://github.com/Finsys/dockhand) - Dockhand - Docker management you will like.
 - [Elastic stack (ELK) on Docker](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
 - [FileMonitor](https://github.com/TheKingOfDuck/FileMonitor) - 文件变化实时监控工具(代码审计/黑盒/白盒审计辅助工具).
 - [Glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
