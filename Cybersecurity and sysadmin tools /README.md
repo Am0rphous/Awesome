@@ -648,14 +648,16 @@ Snort -c /etc/snort/rules/local.rules -v -A console    #Use Snort rules without 
 - [NetLock RMM Cloud](https://github.com/0x101-Cyber-Security/NetLock-RMM) - Remote Monitoring & Management (RMM) software built for Managed Service Providers, with a future focus on cybersecurit
 - [Prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. 
 - psacct / acct
-````
-sudo apt install psacct
-sudo service psacct restartchkconfig --level 13 psacct on
-````
+ ```
+ sudo apt install psacct
+ sudo service psacct restartchkconfig --level 13 psacct on
+ ```
 - [RRDtool](https://oss.oetiker.ch/rrdtool/index.en.html) - RRDtool is the OpenSource industry standard, high performance data logging and graphing system for time series data. RRDtool can be easily integrated in shell scripts, perl, python, ruby, lua or tcl applications.
 - [S1EM](https://github.com/V1D1AN/S1EM) - This project is a SIEM with SIRP and Threat Intel, all in one.
 - [SkyWalking](https://github.com/apache/skywalking) - APM, Application Performance Monitoring System 
-- [SMS-Alerts](https://github.com/AshleyNikr/SMS-Alerts) - 🌺 Adding SMS alerts to shell scripts 🌺 
+- [SMS-Alerts](https://github.com/AshleyNikr/SMS-Alerts) - 🌺 Adding SMS alerts to shell scripts 🌺
+- [sms-gateway (android)](https://github.com/capcom6/android-sms-gateway) - The SMS Gateway for Android™ app enables sending and receiving SMS messages through an API that can be accessed directly on the device or via a cloud server when direct device access is not possible.
+
 - [Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 - [Supervisor](https://github.com/Supervisor/supervisor) - Supervisor is a client/server system that allows its users to control a number of processes on UNIX-like operating systems.
 - Uptime
