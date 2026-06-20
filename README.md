@@ -937,6 +937,8 @@ Based on that data, you can find the most popular ones and their alternatives.
   #### Video Editing
   - [Kdenlive](https://invent.kde.org/multimedia/kdenlive) - Free and open source video editor, based on MLT Framework and KDE Frameworks 5. [Github](https://github.com/KDE/kdenlive)
   - [OpenCut](https://github.com/OpenCut-app/OpenCut) -[Edit in browser](https://opencut.app/)
+  - [Palmier-pro](https://github.com/palmier-io/palmier-pro) - macOS video editor built for AI
+
 
   #### Video Recording
    - [Asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
