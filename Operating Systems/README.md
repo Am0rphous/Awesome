@@ -240,8 +240,14 @@ Considering key questions:
 - [Asuswrt-merlin.ng](https://github.com/RMerl/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase). [www.asuswrt-merlin.net](https://www.asuswrt-merlin.net)
 - [BSD Router](https://bsdrp.net) - Free open source software router distribution based on embedded FreeBSD.
 - [DD-WRT - https://dd-wrt.com)](https://dd-wrt.com) - DD-WRT is a Linux based alternative OpenSource firmware suitable for a great variety of WLAN routers and embedded systems. [Source code](https://github.com/mirror/dd-wrt), [logs](https://svn.dd-wrt.com/log/), [https://svn.dd-wrt.com/timeline)](https://svn.dd-wrt.com/timeline)
-  - Hardening
-    - https://dfarq.homeip.net/recommended-dd-wrt-settings/
+  ```shell
+  Vanilla             # original QCOM firmware from Kvalo. https://forum.dd-wrt.com/phpBB2/viewtopic.php?t=329363
+  DD-WRT firmware     # DD-WRT custom firmware, a modified firmware based on older code
+  ```
+  - Basic Wireless Settings - https://wiki.dd-wrt.com/wiki/index.php/Basic_Wireless_Settings
+  - dd wrt settings for wireless - https://wiki.dd-wrt.com/wiki/index.php/Atheros/ath_wireless_settings
+  - Hardening - https://dfarq.homeip.net/recommended-dd-wrt-settings/
+  - [DD-WRT Router Monitoring with Prometheus and Grafana](https://github.com/carlosedp/ddwrt-monitoring)
   - [https://github.com/lemra-org/router-companion-android](https://github.com/lemra-org/router-companion-android) 
   - [https://forum.dd-wrt.com/demo/](https://forum.dd-wrt.com/demo/)
   - [https://ftp.dd-wrt.com/dd-wrtv2/downloads/betas/)](https://ftp.dd-wrt.com/dd-wrtv2/downloads/betas/)
@@ -371,6 +377,16 @@ distribution into a Live Kit (formely known as Live CD).
 
 ## Utilities
 - [Netgear Unbrick Utility](https://github.com/jclehner/nmrpflash)
+  ```shell
+  wget https://github.com/jclehner/nmrpflash/releases/download/v0.9.27/nmrpflash-0.9.27-linux-x86_64.zip
+  unzip nmrpflash-0.9.27-linux-x86_64.zip
+  cd nmrpflash-0.9.27-linux-x86_64
+  # Download Netgear stock firmwar file (.img)
+
+  nmrpflash -L   # list interfaces
+  nmrpflash -i eth2 -f  <myfirmware.img>
+  # Wait 5 min. If blinking -> reboot router by pulling power.
+  ```
 
 ## Web resources
 - [Archiveos.org](https://archiveos.org) - Arhive of Operating Systems with Linux, BSD, DOS, Solaris and others.
