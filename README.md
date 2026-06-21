@@ -1214,6 +1214,9 @@ that works on top of your local folder of plain text files. [github](https://git
   - [LibreOffice](https://www.libreoffice.org) - [Extensions](https://extensions.libreoffice.org)
   - [OnlyOffice](https://www.onlyoffice.com) - Office productivity suite. [Flatpak](https://flathub.org/apps/details/org.onlyoffice.desktopeditors)
   - PDFs
+    - [Dangerzone](https://github.com/freedomofpress/dangerzone) - Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs
+    - [PDFCraft](https://github.com/PDFCraftTool/PDFCraft) - PDFCraft is a free, privacy-focused PDF toolkit that runs entirely in your browser. With 90+ professional tools, you can edit, convert, merge, split, and secure your PDF files without ever uploading them to a server.
+    - [Bentopdf](https://github.com/alam00000/bentopdf) - The Privacy First PDF Toolkit
     - Merge pdf's on linux
       ```shell
       pdfunite *.pdf merged.pdf
