@@ -581,6 +581,7 @@ Communicate clearly <br>
 
   
   ### Programming
+  - [**Professional-programming**](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
   - [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
   - [Awesome-livecoding](https://github.com/toplap/awesome-livecoding) - All things livecoding
   - [Awesome Software Architecture](https://github.com/mehdihadeli/awesome-software-architecture) | A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles.
