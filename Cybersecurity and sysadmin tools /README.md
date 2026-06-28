@@ -387,6 +387,7 @@ bro / zeek
 - [**Fleet**](https://github.com/fleetdm/fleet) - Open device management. https://fleetdm.com/docs/get-started/why-fleet
 
 - [Ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Ansible Tower offers free for handling up to 10 nodes.
+  - https://github.com/samonclique/Ansible
   - [Ansible-template-ui](https://github.com/sivel/ansible-template-ui) - Web UI for testing ansible templates.
   - [Ansible-VMware-Workstation-Fusion-Pro-Modules](https://github.com/qsypoq/Ansible-VMware-Workstation-Fusion-Pro-Modules) - Ansible meet VMware Workstation/Fusion Pro.
 - [Auto_pxe](https://github.com/ShogoXY/auto_pxe) - Automatic server PXE for Debian
