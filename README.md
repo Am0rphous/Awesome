@@ -637,6 +637,8 @@ Communicate clearly <br>
     - [30 seconds of code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs.
     - [Babel](https://babeljs.io/) - JavaScript compiler.
     - [Flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨.
+    - [JavaScript (samonclique)](https://github.com/samonclique/JavaScript) - A comprehensive guide to learning JavaScript
+    - [JavaScript_2 (samonclique)](https://github.com/samonclique/JavaScript_2) - A comprehensive guide to learning Javascript version2
     - [Polacode — Polaroid for your code 📸](https://github.com/octref/polacode) - Polaroid for your code 
     - [React](https://reactjs.org/) - A declarative, efficient, and flexible JavaScript library for building user interfaces. [Github](https://github.com/facebook/react)
     - [React Native Graph](https://github.com/margelo/react-native-graph) - 📈 Beautiful, high-performance Graphs and Charts for React Native.
