@@ -339,11 +339,14 @@ Communicate clearly <br>
   - [Gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service.
   - [Kallithea](https://kallithea-scm.org/)
   - [Most active GitHub users in Norway](https://commits.top/norway.html)
-  - [OutLine](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
   - [Rhodecode](https://rhodecode.com/)
   - [Savannah](https://savannah.gnu.org/)
     #### CI/CD
-    - [Earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere 
+    - [Earthly](https://github.com/earthly/earthly) - The effortless CI/CD framework that runs anywhere
+    #### Wiki
+    - [**Dokuwiki**](https://github.com/dokuwiki/dokuwiki) - The DokuWiki Open Source Wiki Engine
+    - [OutLine](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
+
   
   ### VoIP
   - [Mumble](https://github.com/mumble-voip/mumble) - Mumble is an open-source, low-latency, high quality voice chat software.
