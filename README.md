@@ -120,7 +120,7 @@ Communicate clearly <br>
   - [Hex](#hex)
   - [Linux Tools](#linux-tools)
   - [Peripherals](#Peripherals)
-  - [Torrent]s(#torrents)
+  - [Torrents](#torrents)
     - [Piracy](#piracy)
 - [Web Browsers](#web-browsers)
   - [Privacy Focused](#privacy-focused)
