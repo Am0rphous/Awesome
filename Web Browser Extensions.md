@@ -33,6 +33,8 @@ Table of content
 - [Snowflake by The Tor Project](https://snowflake.torproject.org) - Snowflake is a WebRTC pluggable transport for Tor.
 
 ## Productivity
+- [Dark Mode](https://mybrowseraddon.com/dark-mode.html)
+  - https://addons.mozilla.org/en-US/firefox/addon/dark-mode-webextension/
 - [Jiffy Reader](https://github.com/ansh/jiffyreader.com#FAQ) -  A Browser Extension for Bionic Reading on ANY website! [Jiffy Reader on FireFox](https://addons.mozilla.org/en-US/firefox/addon/jiffy-reader/), [JiffyReader.com](https://www.jiffyreader.com/)
 - [Tomato Clock](https://addons.mozilla.org/en-US/firefox/addon/tomato-clock/) - [Source code](https://github.com/samueljun/tomato-clock) - Tomato Clock is a simple browser extension for managing your productivity. 
 
@@ -51,3 +53,5 @@ Table of content
 - [NoScript Security Suite](https://github.com/hackademix/noscript) - Allow active content to run only from sites you trust, and protect yourself against XSS and Clickjacking attacks, "Spectre", "Meltdown" and other JavaScript exploits. [noscript.net](https://noscript.net/)
 - [PhishDetect Extension](https://github.com/phishdetect/phishdetect-extension) - Browser extension that complements the PhishDetect service.
 - [Privacy Badger by EFF Technologists](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
+- [Requestly proxy](https://requestly.com/) - [Linux](https://get.requestly.com/linux-api-client), [Firefox plugin](https://get.requestly.com/firefox) or [chrome plugin](https://get.requestly.com/chrome-store)
+- 
