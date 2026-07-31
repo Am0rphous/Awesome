@@ -2,6 +2,8 @@
 # Operating systems
 
 - https://github.com/devos50/qemu-ios/
+https://seabios.org/
+
 
 <br>
 
