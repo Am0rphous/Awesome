@@ -1,6 +1,14 @@
 # Windows
 
 - API
+  - Windows Architecture - https://web.archive.org/web/20110119043027/http://www.codeproject.com/KB/system/Win32.aspx
+  - data types - https://learn.microsoft.com/en-us/dotnet/standard/native-interop/marshalling-data-with-platform-invoke
+  - Monitor and inspect windows internals - [System Informer](https://github.com/winsiderss/systeminformer) aka Process Hacker.
+  - Undocumented APIs
+    - http://undocumented.ntinternals.net (NT/2000/XP/Win7)
+    - https://github.com/MiroKaku/Musa.Veil
+  - UserMode API
+    - https://github.com/Chuyu-Team/MINT
  - [Windows API Function Cheatsheets](https://github.com/7etsuo/windows-api-function-cheatsheets)
 - [Fibratus](https://github.com/rabbitstack/fibratus) - A modern tool for the Windows kernel exploration and tracing.
 - [HyperPlatform](https://github.com/tandasat/HyperPlatform) - Intel VT-x based hypervisor aiming to provide a thin VM-exit filtering platform on Windows.
