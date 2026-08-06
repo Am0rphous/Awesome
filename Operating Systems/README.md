@@ -148,7 +148,7 @@ Considering key questions:
   - [Minimal 18.04 (bionic)](http://archive.ubuntu.com/ubuntu/dists/bionic-updates/main/installer-amd64/current/images/netboot/)
   - [Minimal 18.04 (bionic) cloud image](https://cloud-images.ubuntu.com/minimal/releases/bionic/)
   - [Minimal 20.04 (Focal) cloud image](https://cloud-images.ubuntu.com/minimal/releases/focal/release/)
-- [Void Linux](https://voidlinux.org/) - 3 gig disk usage when using graphical install. Good for old laptops. I used xfc4 as graphic. [Install guide](https://docs.voidlinux.org/installation/live-images/guide.html), [Complete picture guide](https://linuxiac.com/void-linux-installation/#4-8-setting-up-the-user) and [Download ISO files](https://repo-default.voidlinux.org/live/current/)
+- [Void Linux](https://voidlinux.org/) - system requirements 512 MB RAM, 700 MB stirage. When GIU disk usage was ~3 GB. Good for old laptops. I used xfc4 as graphic. [Install guide](https://docs.voidlinux.org/installation/live-images/guide.html), [Complete picture guide](https://linuxiac.com/void-linux-installation/#4-8-setting-up-the-user) and [Download ISO files](https://repo-default.voidlinux.org/live/current/)
 
 
 ## Education
