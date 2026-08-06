@@ -135,6 +135,7 @@ Considering key questions:
 - [antiX Linux](https://antixlinux.com/) - 512MB RAM is the recommended minimum for antiX. Installation to hard drive requires a minimum 7.0GB hard disk size.
 - [ArchBang](https://archbang.org/)
 - [Bodhi Linux](https://www.bodhilinux.com/) - Lightweight distribution featuring the fast & fully customizable Moksha Desktop.
+- [DietPi](https://dietpi.com/) - Minimal image at its core. Highly optimised minimal Debian OS. x86/x64 qemu vm usage: 165 MB RAM, 734 MB disk, 7s booting, image size 242 M. Source: [x86_64 VM](https://dietpi.com/stats.html#distrostats)
 - [Linux Lite](https://www.linuxliteos.com/) - Linux Lite isn't the smallest Linux distro of all, but it does run well on sufficiently scaled-back hardware. Based upon Ubuntu, the minimum recommended specs are a 1GHz processor with 768MB RAM, along with 8GB storage, which most modern hardware vastly outstrips. So, you can imagine how well Linux Lite will run on an older machine.
 - [Linux Mint](https://www.linuxmint.com/) - 2 GB of RAM, 20 GB of hard drive space, 1024 x 768 resolution
 - [PepperMintOS](https://peppermintos.com/) - Minimum system requirements: 1 GB of RAM, Processor based on Intel x86 architecture, 10GB of available disk space. Recommended: 4 GB RAM, x84/amd64, 32 GB disk
@@ -148,7 +149,7 @@ Considering key questions:
   - [Minimal 18.04 (bionic)](http://archive.ubuntu.com/ubuntu/dists/bionic-updates/main/installer-amd64/current/images/netboot/)
   - [Minimal 18.04 (bionic) cloud image](https://cloud-images.ubuntu.com/minimal/releases/bionic/)
   - [Minimal 20.04 (Focal) cloud image](https://cloud-images.ubuntu.com/minimal/releases/focal/release/)
-- [Void Linux](https://voidlinux.org/) - system requirements 512 MB RAM, 700 MB stirage. When GIU disk usage was ~3 GB. Good for old laptops. I used xfc4 as graphic. [Install guide](https://docs.voidlinux.org/installation/live-images/guide.html), [Complete picture guide](https://linuxiac.com/void-linux-installation/#4-8-setting-up-the-user) and [Download ISO files](https://repo-default.voidlinux.org/live/current/)
+- [Void Linux](https://voidlinux.org/) - **nice** system requirements 512 MB RAM, 700 MB stirage. When GIU disk usage was ~3 GB. Good for old laptops. I used xfc4 as graphic. [Install guide](https://docs.voidlinux.org/installation/live-images/guide.html), [Complete picture guide](https://linuxiac.com/void-linux-installation/#4-8-setting-up-the-user) and [Download ISO files](https://repo-default.voidlinux.org/live/current/)
 
 
 ## Education
