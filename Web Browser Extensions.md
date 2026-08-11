@@ -19,6 +19,10 @@ Table of content
 - [Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) - Translate your page in real time using Google or Yandex.
   - [Add-On FireFox - Translate Web Pages by Filipe Ps](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 
+## a 'must'
+- uBlock Origin Lite by Raymond [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Chrome](https://chromewebstore.google.com/detail/uBlock%20Origin%20Lite/ddkjiahejlhfcafbddmgiahcphecmpfh), [Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak). Ublock Origin is [recommended](https://support.mozilla.org/en-US/kb/recommended-extensions-program) by Mozilla. Undergoes code review when new versions are published.
+- I still don't care about cookies [Firefox](https://addons.mozilla.org/en-US/firefox/addon/istilldontcareaboutcookies/), [Chrome], [Edge](https://microsoftedge.microsoft.com/addons/detail/i-still-dont-care-about-/kkacdgacpkediooahopgcbdahlpipheh)
+
 ## Privacy
 - [Adblock Plus](https://gitlab.com/eyeo/adblockplus/adblockpluschrome) - open-source browser extension for content-filtering and ad blocking.
 - [AdBlocker Ultimate (Firefox)](https://addons.mozilla.org/en-US/firefox/addon/adblocker-ultimate/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) - Completely remove ALL ads. No “acceptable” ads or whitelisted advertisers allowed. This free extensions also helps block trackers and malware.
