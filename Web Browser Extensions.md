@@ -21,7 +21,7 @@ Table of content
 
 ## a 'must'
 - uBlock Origin Lite by Raymond [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Chrome](https://chromewebstore.google.com/detail/uBlock%20Origin%20Lite/ddkjiahejlhfcafbddmgiahcphecmpfh), [Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak). Ublock Origin is [recommended](https://support.mozilla.org/en-US/kb/recommended-extensions-program) by Mozilla. Undergoes code review when new versions are published.
-- I still don't care about cookies [Firefox](https://addons.mozilla.org/en-US/firefox/addon/istilldontcareaboutcookies/), [Chrome], [Edge](https://microsoftedge.microsoft.com/addons/detail/i-still-dont-care-about-/kkacdgacpkediooahopgcbdahlpipheh)
+- I still don't care about cookies [Firefox](https://addons.mozilla.org/en-US/firefox/addon/istilldontcareaboutcookies/), [Chrome](https://chromewebstore.google.com/detail/i-still-dont-care-about-c/edibdbjcniadpccecjdfdjjppcpchdlm), [Edge](https://microsoftedge.microsoft.com/addons/detail/i-still-dont-care-about-/kkacdgacpkediooahopgcbdahlpipheh)
 
 ## Privacy
 - [Adblock Plus](https://gitlab.com/eyeo/adblockplus/adblockpluschrome) - open-source browser extension for content-filtering and ad blocking.
