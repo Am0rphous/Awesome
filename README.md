@@ -866,6 +866,7 @@ Based on that data, you can find the most popular ones and their alternatives.
   - [GeoPattern](https://github.com/jasonlong/geo_pattern) - Create beautiful generative geometric background images from a string.
   - [Globe](https://github.com/mmcloughlin/globe) - Globe wireframe visualizations in Golang 
   - [InkScape](https://inkscape.org) - A powerful, free design tool.
+  - [ItsPaint](https://github.com/joshlin2201/itspaint) - Free and open source native macOS paint app for quick image edits and screenshot markup [itspaintmac.com](https://itspaintmac.com)
   - [Krita](https://github.com/KDE/krita) - Krita is a professional free and open source painting program.
   - [LightZone](https://github.com/ktgw0316/LightZone) - LightZone is a photo editor for Mac, Windows, and Linux [lightzoneproject.org](http://lightzoneproject.org).
   - [Lychee](https://github.com/LycheeOrg/Lychee) - A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos. 
