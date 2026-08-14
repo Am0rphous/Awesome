@@ -96,3 +96,23 @@ slmgr /ato
 - [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10) - Windows Subsystem for Linux.
   - [Awesome WSL](https://github.com/sirredbeard/Awesome-WSL) | Awesome list dedicated to Windows Subsystem for Linux.
   - [WSL gui](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios.
+
+### Package managers
+- [https://scoop.sh/](https://scoop.sh/) - [git](https://github.com/ScoopInstaller/Scoop)
+  ```powershell
+  # Installation
+  Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+  Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
+  ```
+- Winget - https://learn.microsoft.com/en-us/windows/package-manager/winget/
+  ```powershell
+  # install on windows sanbox - https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/
+  $progressPreference = 'silentlyContinue'
+  Write-Host "Installing WinGet PowerShell module from PSGallery..."
+  Install-PackageProvider -Name NuGet -Force | Out-Null
+  Install-Module -Name Microsoft.WinGet.Client -Force -Repository PSGallery | Out-Null
+  Write-Host "Using Repair-WinGetPackageManager cmdlet to bootstrap WinGet..."
+  Repair-WinGetPackageManager -AllUsers
+  Write-Host "Done."
+  ```
+- chocolatey
