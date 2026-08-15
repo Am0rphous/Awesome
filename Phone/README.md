@@ -12,6 +12,7 @@
 - [Shelter](https://gitea.angry.im/PeterCxy/Shelter) - Shelter is a Free and Open-Source (FOSS) app that leverages the "Work Profile" feature of Android to provide an isolated space that you can install or clone apps into. [f-droid.org/packages/net.typeblog.shelter/](https://f-droid.org/packages/net.typeblog.shelter/)
 
 ## iOS
+- https://www.reddit.com/r/linux/s/ku8C3Nbh1O
 - [Cydia Impactor](https://cydiaimpactor.biz/download/) https://cydiaimpactor.online/cydia-impactor-alternative/ - application that can sideload any IPA file through a Windows, Mac or Linux PC to any kind of iDevice. 
 - [Dopamine](https://github.com/opa334/Dopamine) - Dopamine is a semi-untethered jailbreak for iOS 15 and 16
 - [HorizonCalendar](https://github.com/airbnb/HorizonCalendar) - A declarative, performant, iOS calendar UI component that supports use cases ranging from simple date pickers all the way up to fully-featured calendar apps.
