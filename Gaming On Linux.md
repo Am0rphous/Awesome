@@ -213,15 +213,14 @@
      - [https://github.com/openrazer/openrazer](https://github.com/openrazer/openrazer)
      - Blackshark Gaming headset
        - [Blackshark-linux](https://github.com/RiskRunner0/blackshark-linux)
-         ```shell
+        ```shell
         git clone https://github.com/RiskRunner0/blackshark-linux.git
         cd blackshark-linux
         ./install.sh
-       
-         systemctl --user status blacksharkd
-         blackshark-ctl status
-         blackshark-gui
-         ```
+        systemctl --user status blacksharkd
+        blackshark-ctl status
+        blackshark-gui
+        ```
   - [Polychromatic](https://github.com/polychromatic/polychromatic) - RGB lighting management software for GNU/Linux. Powered by OpenRazer (soon to be vendor agnostic). [polychromatic.app](https://polychromatic.app)
   - [RazerGenie ](https://github.com/z3ntu/RazerGenie) - Qt application for configuring your Razer devices under GNU/Linux.
   - [RazerCommander](https://github.com/GabMus/razerCommander) - Simple GUI written in Gtk3.
