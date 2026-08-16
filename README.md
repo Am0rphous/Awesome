@@ -982,6 +982,13 @@ Based on that data, you can find the most popular ones and their alternatives.
       #Cd into Immmich upload library:
       cd ~/myContainerz/immich/upload-library/
       sudo rsync -avh ./* /mnt/ssd/immich-backuppp
+
+      #Or over the network
+      # Test first with --dry-run
+      rsync -avh --progress --dry-run -e "ssh -p 2222" ./ ubuntu@10.0.0.3:/run/media/ubuntu/mydisk/backups/
+
+      # Then perform the actual sync
+      rsync -avh --progress -e "ssh -p 2222" ./ ubuntu@10.0.0.3:/run/media/ubuntu/mydisk/backups/
       ````
   - [Jellyfin](https://github.com/jellyfin/jellyfin) - Free Software Media System that puts you in control of managing and streaming your media. [jellyfin.org](https://jellyfin.org)
   - [Kodi](https://github.com/xbmc/xbmc) - award-winning free and open source home theater/media center software and entertainment hub for digital media. [kodi.tv](https://kodi.tv)
