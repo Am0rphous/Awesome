@@ -25,8 +25,6 @@
 - https://linuxgamebench.com
 - https://github.com/taaderbe/linuxgamebench
 - https://areweanticheatyet.com
-- [https://github.com/PCSX2/pcsx2](https://github.com/PCSX2/pcsx2) - Playstation 2 Emulator
-- [https://github.com/shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator
 - [https://app.lizardbyte.dev/?lng=en](https://app.lizardbyte.dev/?lng=en)
 - [https://www.testufo.com](https://www.testufo.com) - Motion blur test for your screen
 - [https://www.rtings.com/](https://www.rtings.com/) - In-depth product reviews
@@ -35,6 +33,19 @@
   - [liquorix](https://liquorix.net) - [source](https://github.com/zen-kernel/zen-kernel)
   - [XanMod ](https://xanmod.org/) - [source](https://gitlab.com/xanmod/linux)
 
+### Emulating Plystation on Linux
+- [https://github.com/PCSX2/pcsx2](https://github.com/PCSX2/pcsx2) - Playstation 2 Emulator
+  ```shell
+  # BIOS Directory
+  ~/.config/PCSX2/bios
+  
+  mkdir ~/software/ps2-games
+  ```
+- [https://github.com/shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator
+- Playstation BIOS
+  - BIOS files - https://archive.org/download/ps2-bios-megadump
+  -  https://psbios.com/download-ps2-bios/
+  -  
 
 ## 2. Aim Training
 - https://www.xbitlabs.com/aim-trainer/
