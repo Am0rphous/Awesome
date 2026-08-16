@@ -204,11 +204,24 @@
   ```` 
 - [Piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices.
 - [https://github.com/ckb-next/ckb-next](https://github.com/ckb-next/ckb-next) - open-source driver for Corsair keyboards and mice.
-  ````shell
+  ```shell
   apt install ckb-next
-  ````
+  ```
 - Razer
-  - [OpenRazer](https://openrazer.github.io/) - Open source driver and user-space daemon that allows you to manage your Razer peripherals on GNU/Linux. [openrazer.github.io/#ubuntu](https://openrazer.github.io/#ubuntu)
+  - [https://openrazer.github.io](https://openrazer.github.io/) - Open source driver and user-space daemon to manage Razer peripherals on GNU/Linux.
+     - [openrazer.github.io/#ubuntu](https://openrazer.github.io/#ubuntu)
+     - [https://github.com/openrazer/openrazer](https://github.com/openrazer/openrazer)
+     - Blackshark Gaming headset
+       - [Blackshark-linux](https://github.com/RiskRunner0/blackshark-linux)
+         ```shell
+        git clone https://github.com/RiskRunner0/blackshark-linux.git
+        cd blackshark-linux
+        ./install.sh
+       
+         systemctl --user status blacksharkd
+         blackshark-ctl status
+         blackshark-gui
+         ```
   - [Polychromatic](https://github.com/polychromatic/polychromatic) - RGB lighting management software for GNU/Linux. Powered by OpenRazer (soon to be vendor agnostic). [polychromatic.app](https://polychromatic.app)
   - [RazerGenie ](https://github.com/z3ntu/RazerGenie) - Qt application for configuring your Razer devices under GNU/Linux.
   - [RazerCommander](https://github.com/GabMus/razerCommander) - Simple GUI written in Gtk3.
