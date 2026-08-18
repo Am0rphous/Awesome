@@ -9,7 +9,6 @@
 - [4. Gaming on Linux](#4-gaming-on-linux)
   - [Games](#games)
   - [Platforms](#platforms)
-  - [Performance Linux kernels](#performance-linux-kernels)
 - [5. Peripherals & Hardware](#5-peripherals--hardware)
 
 
