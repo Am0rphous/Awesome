@@ -8,6 +8,7 @@
 - [3. OS dedicated for gaming](#3-os-dedicated-for-gaming)
 - [4. Gaming on Linux](#4-gaming-on-linux)
   - [Games](#games)
+  - [Platforms](#platforms)
   - [Performance Linux kernels](#performance-linux-kernels)
 - [5. Peripherals & Hardware](#5-peripherals--hardware)
 
@@ -72,10 +73,7 @@
 - [gamingonlinux.com](https://www.gamingonlinux.com/)
   - [Statistics](https://www.gamingonlinux.com/users/statistics/)
 - [Linux Game Server Managers](https://linuxgsm.com/) - The command-line tool for quick, simple deployment and management of Linux dedicated game servers.
-- [Lutris](https://github.com/lutris/lutris) - Open Source gaming platform for GNU/Linux. [lutris.net](https://lutris.net/)
 - [Maxima](https://lib.rs/crates/maxima) - A free and open-source replacement for the EA Desktop Launcher
-- [GOG](https://www.gog.com/galaxy)
-  - [Minigalaxy](https://github.com/sharkwouter/minigalaxy) - A simple GOG client for Linux. [Flathub](https://flathub.org/en/apps/io.github.sharkwouter.Minigalaxy)
 
 - [Moonlight](https://moonlight-stream.org/) - " Moonlight allows you to play your PC games on almost any device, whether you're in another room or miles away from your gaming rig."
   - [Moonlight-qt](https://github.com/moonlight-stream/moonlight-qt) - GameStream client for PCs (Windows, Mac, Linux, and Steam Link)
@@ -176,6 +174,13 @@
    - [WarkFork](https://store.steampowered.com/app/671610/Warfork/) - Free FPS
    - [Warsow - Warsow is Art of Respect and Sportsmanship Over the Web](https://warsow.net/) - Since 2005, Warsow is considered as one of the most skill-demanding games in the fast-paced arena shooter scene.[Discord](https://discord.com/invite/Z9UgZZM)
 
+  ### Platforms
+  - [GOG](https://www.gog.com/galaxy)
+    - [Minigalaxy](https://github.com/sharkwouter/minigalaxy) - A simple GOG client for Linux. [Flathub](https://flathub.org/en/apps/io.github.sharkwouter.Minigalaxy)
+  - [Heroic - https://heroicgameslauncher.com/](https://heroicgameslauncher.com/) - [source code](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
+  - [Lutris](https://github.com/lutris/lutris) - Open Source gaming platform for GNU/Linux. [lutris.net](https://lutris.net/)
+  
+  
 ## 5. Peripherals & Hardware
 - Microphone. Make Elgato wave3 work: https://github.com/jmansar/wavexlr-on-linux-cfg
 - For competitive gaming ensure keyboard support
