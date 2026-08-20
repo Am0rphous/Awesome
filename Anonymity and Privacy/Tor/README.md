@@ -25,10 +25,30 @@
 - Disable `BandwidthRate` in config?
 - Increase system limits like `ulimit -n`
 - Tor config
-````
-MaxMemInQueues 10 GB #Limit to 45% av physical RAM
-NumCPUs 8            #Adjust tor to use more cores. Might be a limit on 2 cores(?)
-````
+  ```shell
+  MaxMemInQueues 10 GB #Limit to 45% av physical RAM
+  NumCPUs 8            #Adjust tor to use more cores. Might be a limit on 2 cores(?)
+  ```
+- Consider `renice` the process:
+  ```shell
+  systemctl edit tor@default
+  
+  # add
+  [Service]
+  Nice=5
+
+  systemctl restart tor@default
+
+  Nice 0    normal prioritet
+  Nice -5   litt høyere prioritet
+  Nice -10  tydelig høyere prioritet
+  Nice -19  nesten høyest mulig vanlig prioritet
+  Nice -20  høyest mulig vanlig nice-prioritet
+
+  # manually
+  pid=$(ps aux | grep tor-service-defaults-torrc | grep -v grep | awk '{print $2}')
+  renice -n -19 -p $pid
+  ```
 
 ## Various setup resources
 - [Multitor](https://github.com/trimstray/multitor) -  Create multiple TOR instances with a load-balancing.
