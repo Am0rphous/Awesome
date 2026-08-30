@@ -96,6 +96,7 @@
   ````
 
 ### Relay Operator Tip
+- Loosing Guard flag? Check who voted what on [https://consensus-health.torproject.org/consensus-health.html](https://consensus-health.torproject.org/consensus-health.html)
 - [Exit Relay Setup (outdated)](https://torservers.net/exit-relay-setup/#some-useful-defaults)
 - [Expectations for relay operators](https://community.torproject.org/policies/relays/expectations-for-relay-operators/)
 - [Official relay operator documentation](https://community.torproject.org/relay/)
