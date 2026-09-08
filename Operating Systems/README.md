@@ -243,6 +243,9 @@ Considering key questions:
 - [Alpine](https://www.alpinelinux.org)
 - [Asuswrt-Merlin - Xwrt-Vortex (archived)](https://www.xvtx.ru/xwrt/source.htm) - [github](https://github.com/RMerl/asuswrt-merlin)
 - [Asuswrt-merlin.ng](https://github.com/RMerl/asuswrt-merlin.ng) - Third party firmware for Asus routers (newer codebase). [www.asuswrt-merlin.net](https://www.asuswrt-merlin.net)
+  ```shell
+  brctl showmacs br0
+  ```
 - [BSD Router](https://bsdrp.net) - Free open source software router distribution based on embedded FreeBSD.
 - [DD-WRT - https://dd-wrt.com)](https://dd-wrt.com) - DD-WRT is a Linux based alternative OpenSource firmware suitable for a great variety of WLAN routers and embedded systems. [Source code](https://github.com/mirror/dd-wrt), [logs](https://svn.dd-wrt.com/log/), [https://svn.dd-wrt.com/timeline)](https://svn.dd-wrt.com/timeline)
   ```shell
