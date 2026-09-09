@@ -55,7 +55,7 @@
   NumCPUs 8            #Adjust tor to use more cores. Might be a limit on 2 cores(?)
 
   # Test config with
-  sudo tor --verify-config -f /etc/tor/torrc
+  sudo -u debian-tor tor --verify-config -f /etc/tor/torrc
   ```
 - Consider `renice` the process:
   ```shell
