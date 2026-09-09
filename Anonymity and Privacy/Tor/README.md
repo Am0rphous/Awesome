@@ -104,6 +104,7 @@
       - [A Temporary Tor Snowflake Proxy - https://relay.love](https://relay.love/)
 
 ### Hidden Services
+- https://join-lemmy.org/docs/administration/tor_hidden_service.html
 - [Create a hidden service in a container](https://github.com/3xploitGuy/torwebsite) - A container to host website on Tor hidden service with .onion address.
 - [Onionbalance](https://gitlab.torproject.org/tpo/onion-services/onionbalance) - It allows Tor onion service requests to be distributed across multiple backend Tor instances - Onion site: http://eweiibe6tdjsdprb4px6rqrzzcsi22m4koia44kc5pcjr7nec2rlxyad.onion/tpo/onion-services/onionbalance
 
