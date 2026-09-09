@@ -18,6 +18,31 @@
 - [Tor-Proxy](https://github.com/Narasimha1997/tor-proxy) - An experimental Tor-Proxy serivce written in Go using Go-proxy and Go-libtor.
 - [Tor Flow Chart](https://torflow.uncharted.software)
 
+### Services
+- [Hosting](https://github.com/DanWin/hosting) - Setup for a Tor based shared web hosting server.
+- [mail-hosting](https://github.com/DanWin/mail-hosting) - This is a setup for a Tor based mail hosting server 
+- https://tor-relay.dev/
+- https://flokinet.is/
+  - Are TOR nodes / VPN allowed? https://billing.flokinet.is/index.php?rp=/knowledgebase/38/Are-TOR-nodes-or-VPN-allowed.html
+  - Tor Exit Policy https://billing.flokinet.is/index.php?rp=/knowledgebase/103/Tor-Exit-Policy.html
+  - Setup Tor hidden service https://billing.flokinet.is/index.php?rp=/knowledgebase/96/Setup-Tor-hidden-service.html
+
+### Helpful Web sites
+- [Censorship](https://support.torproject.org/censorship/)
+- [Community and legal resources](https://community.torproject.org/relay/community-resources/)
+- [Help Censored Users, Run a Tor Bridge ](https://blog.torproject.org/run-a-bridge-campaign/)
+- [Response template for Tor relay operator to ISP](https://community.torproject.org/relay/community-resources/eff-tor-legal-faq/tor-dmca-response/)
+- [Tor Browser User Manual](https://tb-manual.torproject.org/)
+- [Tor presentation](https://community.torproject.org/training/resources/tor-relay-workshop/)
+- [The Tor Network Runs Out Of Bridges, And The Project Is Asking For Help](https://www.eyerys.com/articles/news/tor-runs-out-of-bridges-ask-for-help)
+- [Tor Specifications](https://spec.torproject.org/intro/index.html)
+
+### Nodes
+- [Check.torproject.org](https://check.torproject.org/cgi-bin/TorBulkExitList.py?ip=1.1.1.1) - A list of all Tor exit nodes from the past 16 hours that can contact 1.1.1.1 on port 80
+- [Dan.me.uk](https://www.dan.me.uk/torlist/) - A page containing a full TOR nodelist.
+- [Exitgather](https://github.com/uforia/exitgather) - Tool for automatic list generation of known TOR and VPN exit nodes 
+- [tor_nodes_ipv4](https://unlockforus.com/pfblockerng/tor_nodes_ipv4.txt)
+
 
 ## Performance tip
 - Ensure enough RAM and multiple cores on the system with high clock speed (Giga Hertz).
@@ -238,22 +263,3 @@ Commands
   - [onionElasticBot](https://github.com/ahmia/ahmia-crawler/tree/master/ahmia) - Crawl .onion and .i2p websites from the Tor network
 - [Fresh Onions TOR Hidden Service Crawler](https://github.com/dirtyfilthy/freshonions-torscraper) - Fresh Onions is an open source TOR spider / hidden service onion crawler hosted at zlal32teyptf4tvi.onion.
 
-### Helpful Web sites
-- [Censorship](https://support.torproject.org/censorship/)
-- [Community and legal resources](https://community.torproject.org/relay/community-resources/)
-- [Help Censored Users, Run a Tor Bridge ](https://blog.torproject.org/run-a-bridge-campaign/)
-- [Response template for Tor relay operator to ISP](https://community.torproject.org/relay/community-resources/eff-tor-legal-faq/tor-dmca-response/)
-- [Tor Browser User Manual](https://tb-manual.torproject.org/)
-- [Tor presentation](https://community.torproject.org/training/resources/tor-relay-workshop/)
-- [The Tor Network Runs Out Of Bridges, And The Project Is Asking For Help](https://www.eyerys.com/articles/news/tor-runs-out-of-bridges-ask-for-help)
-- [Tor Specifications](https://spec.torproject.org/intro/index.html)
-
-### Nodes
-- [Check.torproject.org](https://check.torproject.org/cgi-bin/TorBulkExitList.py?ip=1.1.1.1) - A list of all Tor exit nodes from the past 16 hours that can contact 1.1.1.1 on port 80
-- [Dan.me.uk](https://www.dan.me.uk/torlist/) - A page containing a full TOR nodelist.
-- [Exitgather](https://github.com/uforia/exitgather) - Tool for automatic list generation of known TOR and VPN exit nodes 
-- [tor_nodes_ipv4](https://unlockforus.com/pfblockerng/tor_nodes_ipv4.txt)
-
-### Services
-- [Hosting](https://github.com/DanWin/hosting) - Setup for a Tor based shared web hosting server.
-- [mail-hosting](https://github.com/DanWin/mail-hosting) - This is a setup for a Tor based mail hosting server 
