@@ -864,7 +864,18 @@ Based on that data, you can find the most popular ones and their alternatives.
   - [GIMP](https://gitlab.gnome.org/GNOME/gimp) - GNU Image Manipulation Program [gimp.org](https://www.gimp.org)
   - [Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac.
   - [GeoPattern](https://github.com/jasonlong/geo_pattern) - Create beautiful generative geometric background images from a string.
-  - [Globe](https://github.com/mmcloughlin/globe) - Globe wireframe visualizations in Golang 
+  - [Globe](https://github.com/mmcloughlin/globe) - Globe wireframe visualizations in Golang
+  - [ImageMagick](https://github.com/ImageMagick/ImageMagick) - free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms.
+    ```shell
+    sudo apt install imagemagick
+    magick image.png newimage.jpg               # Convert from png to jpg
+    magick image.png -quality 90 newimage.jpg   # reduce quallity by 10%
+
+   for file in *.png; do
+       magick "$file" "${file%.png}.jpg"       # Auto convert every png file
+   done
+    ```
+
   - [InkScape](https://inkscape.org) - A powerful, free design tool.
   - [ItsPaint](https://github.com/joshlin2201/itspaint) - Free and open source native macOS paint app for quick image edits and screenshot markup [itspaintmac.com](https://itspaintmac.com)
   - [Krita](https://github.com/KDE/krita) - Krita is a professional free and open source painting program.
