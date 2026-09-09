@@ -121,6 +121,8 @@
   nyx
   nyx -i 127.0.0.1:9051    #connect to localhost on the port 9051
   nyx -i 9052              #if you run more bridges on the server
+
+  xxd /run/tor/control.authcookie  # returns binary data
   ````
 
 ### Relay Operator Tip
