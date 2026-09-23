@@ -833,6 +833,7 @@ Based on that data, you can find the most popular ones and their alternatives.
   sudo howdy disable 0            #enable it
   ````
   - [Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist) - A curated checklist of 300+ tips for protecting digital security and privacy in 2022.
+- [KeyDrift](https://keydrift.dev) - Scans deployed HTML and JavaScript for exposed secrets while recognizing public browser credentials that should not be treated as leaks.
 
 ## Learning resources
 - [ bioinformatics](https://github.com/ossu/bioinformatics) - 🔬 Path to a free self-taught education in Bioinformatics! 
