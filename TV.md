@@ -6,6 +6,7 @@
  
 -  [To build a webOS OSE image](https://github.com/webosose/build-webos)
 -  [https://www.webosose.org/](https://www.webosose.org/)
+- https://github.com/partridgeworks/webos-launcher
 
 ## Gaming
 - [Moonlight-tv](https://github.com/mariotaku/moonlight-tv) - Lightweight NVIDIA GameStream Client, for LG webOS TV and embedded devices like Raspberry Pi.
