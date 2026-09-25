@@ -903,6 +903,7 @@ Based on that data, you can find the most popular ones and their alternatives.
    - [D2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams. [Intro](https://d2lang.com/tour/intro/)
    - [D3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. 📊📈🎉 
    - [Diagrams](https://github.com/mingrammer/diagrams) - Diagram as Code for prototyping cloud system architectures 
+   - [Drawbly](https://drawbly.com/) - Browser canvas for rough technical diagrams with freehand arrows, editable text and credited PNG export; no signup.
    - [Drawio Desktop](https://github.com/jgraph/drawio-desktop) - drawio-desktop is a diagrams.net desktop app based on Electron.
      - [Drawio - app.diagrams.net](https://app.diagrams.net) - diagrams.net is open source, online, desktop and container deployable diagramming software.
    - [Dygraphs](https://dygraphs.com) - dygraphs is a fast, flexible open source JavaScript charting library.
