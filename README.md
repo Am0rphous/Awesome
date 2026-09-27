@@ -637,6 +637,7 @@ Communicate clearly <br>
     - [IntelliJ IDEA](https://www.jetbrains.com/idea/) - IntelliJ IDEA is an integrated development environment (IDE) for Java development. It’s developed by JetBrains. [Github](https://github.com/JetBrains/intellij-community)
     
     #### JavaScript
+    - https://javascriptweekly.com/
     - [30 Days Of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days. This challenge may take up to 100 days, please just follow your own pace.
     - [30 seconds of code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs.
     - [Babel](https://babeljs.io/) - JavaScript compiler.
