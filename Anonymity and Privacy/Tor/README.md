@@ -35,7 +35,7 @@
 - [Tor Browser User Manual](https://tb-manual.torproject.org/)
 - [Tor presentation](https://community.torproject.org/training/resources/tor-relay-workshop/)
 - [The Tor Network Runs Out Of Bridges, And The Project Is Asking For Help](https://www.eyerys.com/articles/news/tor-runs-out-of-bridges-ask-for-help)
-- [Tor Specifications](https://spec.torproject.org/intro/index.html)
+- [https://spec.torproject.org](https://spec.torproject.org/intro/index.html)
 
 ### Nodes
 - [Check.torproject.org](https://check.torproject.org/cgi-bin/TorBulkExitList.py?ip=1.1.1.1) - A list of all Tor exit nodes from the past 16 hours that can contact 1.1.1.1 on port 80
