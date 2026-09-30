@@ -816,6 +816,7 @@ Based on that data, you can find the most popular ones and their alternatives.
 - [Linux Guide](https://github.com/RENANZG/My-Debian-GNU-Linux)
 - MITRE ATT&CK - https://attack.mitre.org/
   - [MITRE ATT&CK® Navigator](https://mitre-attack.github.io/attack-navigator/enterprise/)
+- [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) - Open database of real-world AI agent security events (prompt injection, MCP, agent supply chain) from 2025 on, each record source-linked and labelled for confirmed harm.
 - [TaskBook](https://github.com/klaussinani/taskbook/blob/master/.gitattributes) - Tasks, boards & notes for the command-line habitat.
 
   ### Security
