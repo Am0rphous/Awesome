@@ -1289,6 +1289,7 @@ that works on top of your local folder of plain text files. [github](https://git
   
   ### Time Management
   - [Alarm-clock](https://github.com/alarm-clock-applet/alarm-clock) - Alarm Clock is a fully-featured alarm clock for use with an AppIndicator implementation.
+  - [Awayra](https://github.com/AWAYRA/AWAYRA-WPF) - Free, offline Windows break reminder with independent eye-rest and movement schedules and guided breaks.
   - [BreakTimer App](https://github.com/tom-james-watson/breaktimer-app) - Manage periodic breaks. Avoid eye-strain and RSI.
   - [HTML5 Binary Clock](https://github.com/AE0L/html5-binary-clock) - Binary Clock written in HTML5, CSS3, and Vanilla JS.
   - [Khronos](https://github.com/lainsce/khronos) - Log each task's time in a simple inobtrusive way 
