@@ -1276,6 +1276,7 @@ that works on top of your local folder of plain text files. [github](https://git
   - [Plane](https://github.com/makeplane/plane) -  🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. 
   - [Planner](https://github.com/alainm23/planner) - Task manager with Todoist support designed for GNU/Linux 🚀 
   - [Taiga](https://www.taiga.io/) - Taiga is the project management tool for multi-functional agile teams. It has a rich feature set and at the same time it is very simple to start with through its intuitive user interface. Free: up to 15 users, 5 private projects, unlimited public projects and 300 MB storage in private projects.
+  - [Tale](https://github.com/tale-project/tale) - Self-hosted project workspace that connects tasks and shared knowledge with coding agents such as Claude Code and Codex, with reports and deliverables for review.
 
   ### Reference Management
   - [Zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources.
