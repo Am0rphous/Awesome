@@ -491,6 +491,7 @@ Communicate clearly <br>
 - [Mimo](https://getmimo.com/) - "Learning to code can be easy and fun!"
 - [Nacos](https://github.com/alibaba/nacos) - An easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
 - [Nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
+- [Nutilz](https://nutilz.com) - 23 free browser-based developer utilities: regex tester, JSON formatter, calculators, and more. No sign-up required.
 - [Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
 - [Porting Windows Dynamic Link Libraries to Linux](https://github.com/taviso/loadlibrary) - Porting Windows Dynamic Link Libraries to Linux.
 - [Presentation Slides for Developers ](https://github.com/slidevjs/slidev)
