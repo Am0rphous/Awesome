@@ -492,6 +492,7 @@ Communicate clearly <br>
 - [Nacos](https://github.com/alibaba/nacos) - An easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
 - [Nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [Nutilz](https://nutilz.com) - 23 free browser-based developer utilities: regex tester, JSON formatter, calculators, and more. No sign-up required.
+- [Oh My Android](https://github.com/ateymoori/oh-my-android) - Native macOS control panel for the Android Emulator and phones over adb: one-click dark mode, font scale, RTL, TalkBack, network and GPS, a Layout Inspector in dp, and an MCP server.
 - [Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
 - [Porting Windows Dynamic Link Libraries to Linux](https://github.com/taviso/loadlibrary) - Porting Windows Dynamic Link Libraries to Linux.
 - [Presentation Slides for Developers ](https://github.com/slidevjs/slidev)
