@@ -536,6 +536,7 @@ Communicate clearly <br>
   - [VSCodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing. [homepage](https://vscodium.com/)
 
   ### File Managers
+  - [ElFinder](https://github.com/Studio-42/elFinder) - 📁 Open-source file manager for web, written in JavaScript using jQuery and jQuery UI
   - [Spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust. 
   
   ### Frontend
