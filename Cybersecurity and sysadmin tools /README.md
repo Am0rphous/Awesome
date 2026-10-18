@@ -675,6 +675,7 @@ lsscsi                          #Print SCSI Devices Info
 - [Supervisor](https://github.com/Supervisor/supervisor) - Supervisor is a client/server system that allows its users to control a number of processes on UNIX-like operating systems.
 - Uptime
   - [Kener](https://github.com/rajnandan1/kener)
+  - [SolidPing](https://github.com/fclairamb/solidping) - Open-source uptime and synthetic monitoring with status pages and alerting, self-hosted or hosted
   - [Updo](https://github.com/Owloops/updo) - Uptime monitoring CLI tool with alerting and advanced settings
   - [Uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [Zabbix](https://www.zabbix.com/) - Free
