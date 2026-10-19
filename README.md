@@ -523,6 +523,7 @@ Communicate clearly <br>
   - [Code Server](https://github.com/cdr/code-server) - VS Code in the browser.
   - [GhostText](https://github.com/GhostText/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
     - [GhostText-for-Atom](https://github.com/GhostText/GhostText-for-Atom) - Allows live editing of Chrome/Firefox text area or JS Code editor content with Atom using WebSockets.
+  - [Glim](https://github.com/NeoPanic/Glim) - Open-source macOS file viewer and basic UTF-8 text editor with Markdown, diagram and Git diff previews.
   - [Graviton](https://github.com/Graviton-Code-Editor/Graviton-App) - A modern-looking Code Editor. [graviton.netlify.app](https://graviton.netlify.app/)
   - [KDevelop](https://www.kdevelop.org/) - A cross-platform IDE for C, C++, Python, QML/JavaScript and PHP.
   - [Light Table](http://lighttable.com/) - The next generation code editor.
