@@ -258,7 +258,9 @@ Commands
   - Tor Status - https://jlve2y45zacpbz6s.tor2web.io
   - [Tor Status Github](https://github.com/paulchen/torstatus)
 - [Torutils](https://github.com/toralf/torutils) - Few tools for a Tor relay.
+
 ### Attacks on Tor
+- https://kaba.cx/posts/20261020_Tor/
 - [Quantuminsert](https://github.com/fox-it/quantuminsert) - Quantum Insert
 
 ### Collections
