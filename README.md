@@ -816,6 +816,7 @@ Based on that data, you can find the most popular ones and their alternatives.
 - [academy.picussecurity.com](https://academy.picussecurity.com) - Open access cybersecurity courses
 - [academy.attackiq.com](https://academy.attackiq.com)
 - [InfoSec-Black-Friday](https://github.com/0x90n/InfoSec-Black-Friday) - All the deals for InfoSec related software/tools this Black Friday
+- [Internet Cyber Health Index (ICHI)](https://ichi.global) - Free, source-transparent daily internet cyber-health barometer. Aggregates 20+ named public threat intel feeds (CISA KEV, Shodan, Censys, abuse.ch, CVE/NVD and more) into a composite daily index score and live dashboard. No account needed.
 - [Linux Guide](https://github.com/RENANZG/My-Debian-GNU-Linux)
 - MITRE ATT&CK - https://attack.mitre.org/
   - [MITRE ATT&CK® Navigator](https://mitre-attack.github.io/attack-navigator/enterprise/)
