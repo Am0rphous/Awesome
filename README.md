@@ -1205,6 +1205,7 @@ Based on that data, you can find the most popular ones and their alternatives.
     - [NixNote2](https://github.com/baumgarr/Nixnote2) - A clone of Evernote for Linux.
     - [Tusk](https://github.com/klaussinani/tusk) - Refined Evernote desktop app.
   - [Joplin](https://github.com/laurent22/joplin) - An open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: [discourse.joplinapp.org](https://discourse.joplinapp.org)
+  - [Koru](https://www.koru.do) - Local-first workspace for notes, documents and files on Windows and macOS. No account needed, notes stay in a local database on the device, with free peer-to-peer device sync. [source](https://github.com/koruworks/mono)
   - [Logseq](https://logseq.com) - A privacy-first, [open-source](https://github.com/logseq/logseq platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap 
      - [Awesome-logseq](https://github.com/logseq/awesome-logseq)
   - [Memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
