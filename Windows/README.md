@@ -105,6 +105,8 @@ slmgr /ato
   Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
   ```
 - Winget - https://learn.microsoft.com/en-us/windows/package-manager/winget/
+  - winget install Google.Chrome
+  - winget install Devolutions.UniGetUI 
   ```powershell
   # install on windows sanbox - https://learn.microsoft.com/en-us/windows/security/application-security/application-isolation/windows-sandbox/
   $progressPreference = 'silentlyContinue'
