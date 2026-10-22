@@ -1404,6 +1404,7 @@ that works on top of your local folder of plain text files. [github](https://git
   - [Linux Surface](https://github.com/linux-surface/linux-surface) - Linux Kernel for Surface Devices.
   - [Lisa19 - Linux Terminal Tools](https://github.com/ketancmaheshwari/lisa19) - Linux Terminal Tools. PDF slides.
   - [Static-binaries](https://github.com/andrew-d/static-binaries) - Various *nix tools built as statically-linked binaries.
+  - [vhr-bench](https://github.com/vpshostreview/vhr-vps-benchmark) - One-minute Linux server benchmark (sysbench CPU and memory, fio 4k random IOPS).
   - [https://tuxmate.com/](https://tuxmate.com/)
 
   ### Peripherals
