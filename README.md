@@ -790,6 +790,7 @@ Based on that data, you can find the most popular ones and their alternatives.
 - [Brewtarget](https://github.com/Brewtarget/brewtarget) - Brewtarget is free open-source brewing software, and a beer recipe creation tool available for Linux, Mac, and Windows. It automatically calculates color, bitterness, and other parameters for you while you drag and drop ingredients into the recipe.
 
 ## Games
+- [Color Genius](https://colorgenius.art/) - Free browser game that tests how well you perceive color: match RGB values across difficulty levels and compare on a leaderboard.
 - [Games on Github](https://github.com/leereilly/games) - A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine. 
 - [Tambola Tickets Generator](https://github.com/praveenpuglia/tambola-tickets) - The tambola ticket generator that does it the right way. 
 - [Wiki Trivia](https://github.com/tom-james-watson/wikitrivia) - Wikidata as a trivia card game.
