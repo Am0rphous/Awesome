@@ -14,6 +14,7 @@
 <br>
 
 - [AirGuard](https://github.com/seemoo-lab/AirGuard) - Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍
+- [anon.li](https://anon.li) - Open-source (AGPL-3.0) email aliases that forward to your inbox, end-to-end encrypted file sharing and end-to-end encrypted forms. Free plan available.
 - [https://anonaddy.com](https://anonaddy.com) - Anonymous Email Forwarding
 - - [Anonymity and Privacy for Advanced Linux Users](https://we.riseup.net/opsec/anonymity-and-privacy-for-advanced-linux-users#secure-data-wiping-linux)
 - [Anti-censorship](https://gitlab.torproject.org/tpo/anti-censorship) - Censorship circumvention and analysis.
