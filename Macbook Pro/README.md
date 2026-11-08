@@ -23,7 +23,7 @@ Table of content
     - [Creating a startup script](#creating-a-startup-script)
     - [Creating Bootable USB](#Creating-Bootable-USB)
     - [App Development](#App-Development)
-      - [Code Editors / IDE](Code-Editors---IDE)
+      - [Code Editors / IDE](#code-editors--ide)
     - [Package Managers](#Package-Managers)
     - [Security](#security)
     - [Virtualization](#Virtualization)
