@@ -58,4 +58,5 @@ Table of content
 - [PhishDetect Extension](https://github.com/phishdetect/phishdetect-extension) - Browser extension that complements the PhishDetect service.
 - [Privacy Badger by EFF Technologists](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
 - [Requestly proxy](https://requestly.com/) - [Linux](https://get.requestly.com/linux-api-client), [Firefox plugin](https://get.requestly.com/firefox) or [chrome plugin](https://get.requestly.com/chrome-store)
+- [Spoof Me](https://spoof-me.com/) - Switch browser identities (user-agent, language, timezone, screen, device signals) and get a warning when a page reads fingerprinting signals. [Chrome](https://chromewebstore.google.com/detail/spoof-me/onbjkmhileedchimkcmieeiomipdljki), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/spoof-me/)
 - 
