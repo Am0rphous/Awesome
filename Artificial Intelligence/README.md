@@ -91,6 +91,7 @@ Table of content
   - [Roboflow Object Tracking Example](https://github.com/roboflow-ai/zero-shot-object-tracking) - Object tracking implemented with the Roboflow Inference API, DeepSort, and OpenAI CLIP.
 
 ## Coding
+- [agent-qa](https://github.com/vostride/agent-qa) - Natural-language web and mobile testing by vostride, with advanced memidex memory and self-improvement.
 - [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
 - [Llamacoder](https://github.com/Nutlope/llamacoder) - Open source Claude Artifacts – built with Llama 3.1 405B
 - [Open-lovable](https://github.com/mendableai/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
