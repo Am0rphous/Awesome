@@ -23,6 +23,7 @@ Table of content
     - [Creating a startup script](#creating-a-startup-script)
     - [Creating Bootable USB](#Creating-Bootable-USB)
     - [App Development](#App-Development)
+      - [Code Editors / IDE](Code-Editors---IDE)
     - [Package Managers](#Package-Managers)
     - [Security](#security)
     - [Virtualization](#Virtualization)
@@ -182,6 +183,8 @@ sudo dd if=/Users/user_name/Downloads/CentOS-8-x86_64-boot.iso of=/dev/rdisk2
   - [Node-appDMG](https://github.com/LinusU/node-appdmg) - 💾 Generate your app dmgs.
   - [Rumps](https://github.com/jaredks/rumps) - Ridiculously Uncomplicated macOS Python Statusbar apps.
   - [Tray Example](https://github.com/kevinsawicki/tray-example) - Electron Tray Mac OS X Example App.
+
+  #### Code Editors / IDE
   
   ### Package Managers
   - [Brew / HomeBrew](https://brew.sh/) - Package Manager for Linux and MacOS. 
