@@ -475,6 +475,7 @@ Communicate clearly <br>
   - [Awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
   - [canva.com](https://www.canva.com) - "Canva is an Australian graphic design platform that is used to create social media graphics and presentations. The app includes readymade templates for users to use, and the platform is free and offers paid subscriptions such as Canva Pro and Canva for Enterprise for additional functionality."
 - [Capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️ .
+- [deed.page](https://deed.page) - Free hosting for static HTML pages and folders. Publish with one HTTP PUT, `curl -T` or a coding agent, and get a public HTTPS link back.
 - [Devilbox](https://github.com/cytopia/devilbox) - A modern Docker LAMP stack and MEAN stack for local development.
 - [Devops Exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions.
   - [Django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - DefectDojo is a DevSecOps and vulnerability management tool.
