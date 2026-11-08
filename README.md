@@ -161,6 +161,7 @@ Communicate clearly <br>
 - [Discord](https://discord.com/) - Discord is a VoIP, instant messaging and digital distribution platform. Users communicate with voice calls, video calls, text messaging, media and files in private chats or as part of communities called "servers". Servers are a collection of persistent chat rooms and voice chat channels. [wikipedia](https://en.wikipedia.org/wiki/Discord_(software))
   - [Discord-e2e-encryption](https://github.com/mpgn/discord-e2e-encryption) - Tampermonkey script that encrypt and decrypt your messages on Discord
   - [Eth-Price-Bot](https://github.com/hjoelh/Eth-Price-Bot) - Simple discord bot to display the current ethereum price.
+  - [Fear & Greed Index Bot](https://discord.com/oauth2/authorize?client_id=1125794469829169253&scope=bot+applications.commands&permissions=67127296) - Discord bot that shows the Crypto Fear & Greed Index in the server member list, with slash commands for the daily value and recent history.
 - [Discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [Flarum](https://flarum.org/) - Forums made simple. Modern, fast and simple! [https://github.com/flarum/flarum](https://github.com/flarum/flarum)
 - [Lets Chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams.
