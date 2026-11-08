@@ -649,6 +649,7 @@ Communicate clearly <br>
     - [Flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨.
     - [JavaScript (samonclique)](https://github.com/samonclique/JavaScript) - A comprehensive guide to learning JavaScript
     - [JavaScript_2 (samonclique)](https://github.com/samonclique/JavaScript_2) - A comprehensive guide to learning Javascript version2
+    - [pdf-view-coords](https://github.com/AlonDrilich/pdf-view-coords) - Converts between PDF viewer coordinates and pdf-lib's raw user space, so stamps and signatures land where the user clicked on rotated or cropped pages. MIT.
     - [Polacode — Polaroid for your code 📸](https://github.com/octref/polacode) - Polaroid for your code 
     - [React](https://reactjs.org/) - A declarative, efficient, and flexible JavaScript library for building user interfaces. [Github](https://github.com/facebook/react)
     - [React Native Graph](https://github.com/margelo/react-native-graph) - 📈 Beautiful, high-performance Graphs and Charts for React Native.
@@ -1071,6 +1072,7 @@ Based on that data, you can find the most popular ones and their alternatives.
       - [chriszabriskie.com/cylinders](https://www.chriszabriskie.com/cylinders/)
     
     ##### Radio
+    - [72FM](https://72fm.com) - Browser player for 30,000+ live radio stations from 200+ countries, using the open radio-browser.info directory. No app or account; 15 minutes a day free.
     - [frekvenser.no](https://frekvenser.no) - norwegian list of frequencies: military, police, taxi, telenor, satelistes and lots of stuff. nice.
     - [Gradio](https://github.com/haecker-felix/gradio) - The successor of Gradio is Shortwave.
     - [Great Little Radio Player](https://sites.google.com/site/glrpgreatlittleradioplayer/home)
