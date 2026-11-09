@@ -793,6 +793,7 @@ Based on that data, you can find the most popular ones and their alternatives.
 
 ## Games
 - [Color Genius](https://colorgenius.art/) - Free browser game that tests how well you perceive color: match RGB values across difficulty levels and compare on a leaderboard.
+- [Couscous: Secret Word](https://couscous.ai/) - Guessing game: ask yes-or-no questions to find a secret word from a theme, and a language model answers YES, NO or I DON'T KNOW. A new riddle every day.
 - [Games on Github](https://github.com/leereilly/games) - A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine. 
 - [Tambola Tickets Generator](https://github.com/praveenpuglia/tambola-tickets) - The tambola ticket generator that does it the right way. 
 - [Wiki Trivia](https://github.com/tom-james-watson/wikitrivia) - Wikidata as a trivia card game.
