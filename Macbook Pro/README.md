@@ -185,6 +185,7 @@ sudo dd if=/Users/user_name/Downloads/CentOS-8-x86_64-boot.iso of=/dev/rdisk2
   - [Tray Example](https://github.com/kevinsawicki/tray-example) - Electron Tray Mac OS X Example App.
 
   #### Code Editors / IDE
+  - [Glim](https://github.com/glimapp/glim) - Open-source macOS file viewer and basic UTF-8 text editor with Markdown, diagram and Git diff previews.
   
   ### Package Managers
   - [Brew / HomeBrew](https://brew.sh/) - Package Manager for Linux and MacOS. 
