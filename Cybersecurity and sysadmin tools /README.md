@@ -617,6 +617,26 @@ lsscsi                          #Print SCSI Devices Info
 - [Teler](https://github.com/kitabisa/teler) -  Real-time HTTP Intrusion Detection.
 - [TripWire](https://github.com/Tripwire/tripwire-open-source) - Security and data integrity tool for monitoring and alerting on file & directory changes. 
 - [Wazuh](https://github.com/wazuh/wazuh/) - free and open source platform used for threat prevention, detection, and response. It is capable of protecting workloads across on-premises, virtualized, containerized, and cloud-based environments.
+  ```shell
+  # https://documentation.wazuh.com/current/deployment-options/virtual-machine/virtual-machine.html
+  wget https://packages.wazuh.com/4.x/vm/wazuh-4.14.10.ova
+  tar -xf ova
+  qemu-ing convert -f vmdk -O qcow ..
+
+  # import qcow2 disk in kvm
+  # boot vm
+  nano /etc/systemd/network/20-eth0.network
+    [Match]
+    Name=eth0
+    
+    [Network]
+    Address=192.168.123.2/24
+    Gateway=192.168.123.1
+    DNS=192.168.123.1
+    DHCP=no
+    sudo networkctl reload
+    sudo networkctl reconfigure eth0
+  ```
 
 
 ### Firewall
@@ -750,7 +770,6 @@ lsscsi                          #Print SCSI Devices Info
 - [SysMonTask](https://github.com/KrispyCamel4u/SysMonTask) - Linux system monitor with the compactness and usefulness of windows task manager to allow higher control and monitoring.
 - [SysUsage](https://github.com/darold/sysusage) - SysUsage is a system monitoring and alarm reporting tool. It can generate historical graph views of CPU, memory, IO, network and disk usage, and very much more.
 - [Vector](https://github.com/vectordotdev/vector) - Vector is a high-performance, end-to-end (agent & aggregator) observability data pipeline that puts you in control of your observability data. Collect, transform, and route all your logs, metrics, and traces to any vendors you want today and any other vendors you may want tomorrow. Vector enables dramatic cost reduction, novel data enrichment, and data security where you need it, not where it is most convenient for your vendors. Additionally, it is open source and up to 10x faster than every alternative in the space. [ vector.dev ](https://vector.dev/)
-- [Wazuh](https://github.com/wazuh/wazuh/) - Wazuh is a free, open source and enterprise-ready security monitoring solution for threat detection, integrity monitoring, incident response and compliance. [wazuh.com](https://wazuh.com)
 - [Webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel [www.webmin.com](http://www.webmin.com).
 - [Zeek (Bro)](https://github.com/zeek/zeek) - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know. [zeek.org](https://www.zeek.org)
   - [Brim](https://github.com/brimdata/brim) - Brim is an open source desktop application for security and network specialists. Brim makes it easy to search and analyze data from: packet captures, like those created by Wireshark, and structured logs, especially from the Zeek network analysis framework.
