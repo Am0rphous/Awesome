@@ -618,6 +618,7 @@ lsscsi                          #Print SCSI Devices Info
 - [TripWire](https://github.com/Tripwire/tripwire-open-source) - Security and data integrity tool for monitoring and alerting on file & directory changes. 
 - [Wazuh](https://github.com/wazuh/wazuh/) - free and open source platform used for threat prevention, detection, and response. It is capable of protecting workloads across on-premises, virtualized, containerized, and cloud-based environments.
   ```shell
+  # Amazon Linux. Uses yum/dnf package manager
   # https://documentation.wazuh.com/current/deployment-options/virtual-machine/virtual-machine.html
   wget https://packages.wazuh.com/4.x/vm/wazuh-4.14.10.ova
   tar -xf ova
