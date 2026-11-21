@@ -1411,6 +1411,7 @@ that works on top of your local folder of plain text files. [github](https://git
   - [Linux Surface](https://github.com/linux-surface/linux-surface) - Linux Kernel for Surface Devices.
   - [Lisa19 - Linux Terminal Tools](https://github.com/ketancmaheshwari/lisa19) - Linux Terminal Tools. PDF slides.
   - [Static-binaries](https://github.com/andrew-d/static-binaries) - Various *nix tools built as statically-linked binaries.
+  - [Upkeep](https://github.com/lcestou/upkeep) - Tray app that keeps the apps your package manager misses up to date: AppImages, release binaries, .deb/.rpm files, source builds and self-updating tools, with restore points and automatic rollback.
   - [https://tuxmate.com/](https://tuxmate.com/)
 
   ### Peripherals
