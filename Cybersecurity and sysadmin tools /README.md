@@ -481,11 +481,10 @@ bro / zeek
 - [**LocalSend**](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
   ````shell
   flatpak install localsend
-  sudo ufw allow 53317      #Open this port in firewall to allow receiving on computer
+  sudo ufw allow 53317        # Open this port in firewall to allow receiving files
   ````
   
 <br>
-
 
 - [Croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [Cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.  
@@ -533,7 +532,9 @@ docker run \
 - [ProFTPD](https://github.com/proftpd/proftpd) - ProFTPD source code.
 - [PURE-FTPD](https://github.com/jedisct1/pure-ftpd) - Pure FTP server. [www.pureftpd.org](https://www.pureftpd.org)
 - [Qrcp](https://github.com/claudiodangelis/qrcp) - ⚡ Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
-- [RemoteStash](https://github.com/roznet/remotestash) - A simple substitute for AirDrop between iPhone and a linux desktop 
+- [RemoteStash](https://github.com/roznet/remotestash) - A simple substitute for AirDrop between iPhone and a linux desktop
+- Seafile
+  - https://www.admin-it.io/self-hosted-file-syncing-with-seafile/
 - [Serve by Vercel](https://github.com/vercel/serve) - Static file serving and directory listing.
 - [Share File Systems](https://github.com/prettydiff/share-file-systems) - Use a Windows/OSX like GUI in the browser to share files cross OS privately. No cloud, no server, no third party.
 - [Surge - P2P on steroids ](https://github.com/rule110-io/surge) - Surge is a p2p filesharing app designed to utilize blockchain technologies to enable 100% anonymous file transfers. Surge is end-to-end encrypted, decentralized and open source.
