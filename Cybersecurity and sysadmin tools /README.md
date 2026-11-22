@@ -1646,7 +1646,23 @@ upstream_recursive_servers:
    - [Yacht](https://github.com/SelfhostedPro/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 
    #### Security
-   - [Falco](https://github.com/falcosecurity/falco) - Cloud Native Runtime Security
+   - [Falco](https://github.com/falcosecurity/falco) - Free, open source EDR for Linux.
+     - Nice tutorial: https://www.devopsschool.com/tutorials/falcosidekick-on-ubuntu-complete-installation-configuration-alert-forwarding-and-troubleshooting-tutorial/
+     ```shell
+     sudo mkdir /var/log/falco         # creates log folder
+     touch /var/log/falco/falco.log    # creates empty log file
+     
+     # nano /etc/falco/falco.yaml
+     file_output:
+       enabled: true
+       keep_alive: false
+       filename: /var/log/falco/falco.log   # add this path
+
+     sudo service falco-modern-bpf restart
+     sudo service falco-modern-bpf status
+     sudo journalctl -u falco-modern-bpf -n 50
+
+     ```
    - [ThreatMapper](https://github.com/deepfence/ThreatMapper) - Identify vulnerabilities in running containers, images, hosts and repositories.
    - [Trivy Operator](https://github.com/aquasecurity/trivy-operator) - Scanning running images, but Kubernetes specific.
 
