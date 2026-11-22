@@ -1160,16 +1160,22 @@ Based on that data, you can find the most popular ones and their alternatives.
 - [CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features.
 - [curiosity.ai](https://curiosity.ai/) - "Tired of searching in folders, emails and apps? Get Curiosity and find everything in one place. All safe on your computer."
 - [Dialect](https://github.com/dialect-app/dialect) - A translation app for GNOME.
-- [DopplerTask](https://github.com/dopplertask/dopplertask) - A revolutionary open-source automation tool 
+- [DopplerTask](https://github.com/dopplertask/dopplertask) - A revolutionary open-source automation tool
+- File previewers
+  - Gnome Sushi `apt install gnome-sushi`
+    - https://gitlab.gnome.org/GNOME/sushi
+  - KiView `flatpak install flathub io.github.nyre221.kiview`
+    - https://flathub.org/en/apps/io.github.nyre221.kiview
+    - https://github.com/Nyre221/Kiview
 - [Find-you](https://github.com/positive-security/find-you) - A stealth AirTag clone that bypasses all of Apple's tracking protection features
 - [flameshot](https://flameshot.org) **nice**
-  ````shell
+  ```shell
   flatpak install flameshot
   
-  # Permission bug when using flatpak on Linux. To fix make a startup script and run this.
+  # Might to do this after: Permission bug when using flatpak on Linux. To fix make a startup script and run this.
   # https://blog.plip.com/2025/04/25/flameshot-wayland-multi-monitors-in-apr-2025/
   flatpak permission-set screenshot screenshot org.flameshot.Flameshot yes
-  ```` 
+  ```
 - [GoAlert](https://github.com/target/goalert) - Open source on-call scheduling, automated escalations, and notifications so you never miss a critical alert.
 - [KOrganizer](https://github.com/KDE/korganizer) - Organizational assistant, providing s and other similar functionality.
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
@@ -1180,11 +1186,11 @@ Based on that data, you can find the most popular ones and their alternatives.
     - [Barrier [NOT maintained anymore]](https://github.com/debauchee/barrier) - Share your mouse and keyboard between computers. _Barrier is software that mimics the functionality of a KVM switch, which historically would allow you to use a single keyboard and mouse to control multiple computers by physically turning a dial on the box to switch the machine you're controlling at any given moment._
     - [Barrier doc](https://github.com/debauchee/barrier/tree/master/doc)
     - Tip for troubleshooting on Linux. You might need to create a selfsignet certificate
-    ````shell
+    ```shell
     openssl req -x509 -nodes -days 365 -subj /CN=Barrier -newkey rsa:4096 \
      -keyout ~/.local/share/barrier/SSL/Barrier.pem \
      -out    ~/.local/share/barrier/SSL/Barrier.pem
-    ````
+    ```
     - Tip for troubleshooting on macOS-> [Productivity -> barrier](https://github.com/Am0rphous/CheatSheets/blob/main/macOS/README.md#productivity)
 - [Ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [Open-event-frontend](https://github.com/fossasia/open-event-frontend) - The frontend for the Open Event API Server
