@@ -1224,6 +1224,11 @@ upstream_recursive_servers:
     - [MinaOTP-Shell](https://github.com/MinaOTP/MinaOTP-Shell) - TOTP authenticator implement as a terminal tool.
 
   ### Linux Security
+  - Exploitation protection
+    - shirudo
+      - https://github.com/shirudo-dev/shirudo - eBPF-based security platform
+      - https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html
+      - https://upatch.dev - Each upatch is a small, signed BPF program that blocks the code path a CVE exploits, on a running Linux machine, until the real fix is deployed. 
   - [AppArmor](https://gitlab.com/apparmor/apparmor) - "AppArmor is an effective and easy-to-use Linux application security system. AppArmor proactively protects the operating system and applications from external or internal threats, even zero-day attacks, by enforcing good behavior and preventing both known and unknown application flaws from being exploited."
     - [Full system AppArmor policy](https://github.com/Kicksecure/apparmor-profile-everything) - AppArmor for everything. APT, systemd, init, all systemd units, all applications. Mandatory Access Control. Security Hardening. 
   - [Auditd](https://manpages.ubuntu.com/manpages/jammy/en/man8/auditd.8.html) - The Linux Audit daemon.
