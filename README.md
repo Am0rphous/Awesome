@@ -453,6 +453,7 @@ Communicate clearly <br>
    #November 2024 solution: Redshift didn't "work" so moving the config file solved it 
    mv  ~/.config/redshift/redshift.conf ~/.config/redshift.conf
    ````
+  - [Yonder](https://github.com/RMoura98/yonder) - Free, open-source break reminder for the 20-20-20 rule: a calm full-screen break over your blurred desktop, posture and blink reminders, optional guided eye exercises, and smart pause during calls and full-screen apps. Windows, macOS and Linux. [Website](https://rmoura98.github.io/yonder/)
   #### Screensavers
   - [XScreenSaver](https://www.jwz.org/xscreensaver/)
   
