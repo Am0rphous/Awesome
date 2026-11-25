@@ -1658,9 +1658,11 @@ upstream_recursive_servers:
        keep_alive: false
        filename: /var/log/falco/falco.log   # add this path
 
+     sudo cat /etc/shadow > /dev/null          # generate an event
      sudo service falco-modern-bpf restart
      sudo service falco-modern-bpf status
-     sudo journalctl -u falco-modern-bpf -n 50
+     sudo journalctl _COMM=falco -p warning       # 1
+     sudo journalctl -u falco-modern-bpf -n 50   # 2
 
      ```
    - [ThreatMapper](https://github.com/deepfence/ThreatMapper) - Identify vulnerabilities in running containers, images, hosts and repositories.
