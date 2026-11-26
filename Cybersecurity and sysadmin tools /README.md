@@ -1253,8 +1253,9 @@ upstream_recursive_servers:
       # reboot
       ``` 
   - [LKRG - Linux Kernel Runtime Guard](https://www.openwall.com/lkrg) -  LKRG performs runtime integrity checking of the Linux kernel and detection of security vulnerability exploits against the kernel. [Github](https://github.com/lkrg-org/lkrg)
-    - [Linux Kernel Runtime Guard (LKRG) for Debian, Whonix, Qubes, Kicksecure](https://www.whonix.org/wiki/Linux_Kernel_Runtime_Guard_LKRG)
-    ````shell
+    - https://www.openwall.com/presentations/OSTconf2020-LKRG-In-A-Nutshell/
+    - https://www.whonix.org/wiki/Linux_Kernel_Runtime_Guard_LKRG
+    ```shell
     wget https://www.openwall.com/signatures/openwall-offline-signatures.asc
     gpg --import openwall-offline-signatures.asc
     wget https://lkrg.org/download/lkrg-1.0.0.tar.gz.sign
@@ -1289,7 +1290,7 @@ upstream_recursive_servers:
     make -j8
     sudo make install
     sudo systemctl restart lkrg
-    ````
+    ```
   - [VED (Vault Exploit Defense) - Linux kernel threat detection and prevention system](https://github.com/hardenedvault/ved)
   - [seccomp](https://man7.org/linux/man-pages/man2/seccomp.2.html) - "The secure computing (seccomp) mode is a popular Linux kernel security feature that restricts access to system calls (syscalls) by processes. This means that seccomp can filter syscalls and allow or limit which syscalls can be executed in the system."
   - SELinux
