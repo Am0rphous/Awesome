@@ -81,7 +81,7 @@ slmgr /ato
 - [HitMan Pro](https://www.bleepingcomputer.com/download/hitmanpro/)
 - [Roguekiller](https://www.bleepingcomputer.com/download/roguekiller/)
 - [Tronscript](https://www.majorgeeks.com/files/details/tron.html)
-
+- RootkitRevealer - https://learn.microsoft.com/en-us/sysinternals/downloads/rootkit-revealer
 
 ## Setup stuff
 #### BIOS / UEFI / Bootloaders
