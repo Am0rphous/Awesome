@@ -1203,6 +1203,7 @@ Based on that data, you can find the most popular ones and their alternatives.
   - [Touché](https://github.com/JoseExposito/touche) - The desktop application to configure Touchégg.
 - [QuickTile](https://github.com/ssokolow/quicktile) - Adds window-tiling hotkeys to any X11 desktop. (An analogue to WinSplit Revolution for people who don't want to use Compiz Grid).
 - [WebCatalog]() - Official WebCatalog app. [webcatalog.io/webcatalog](https://webcatalog.io/webcatalog)
+- [TinyMast](https://tinymast.com) - Online PDF and image tools: merge, split, compress and OCR PDFs, and compress, resize or convert images. Uploaded files and results are deleted within 24 hours.
 
   ### Note Taking Apps
   - [Acreom](https://acreom.com/)
