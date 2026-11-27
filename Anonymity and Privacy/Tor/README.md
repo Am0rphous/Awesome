@@ -261,6 +261,7 @@ Commands
 - [Torutils](https://github.com/toralf/torutils) - Few tools for a Tor relay.
 
 ### Attacks on Tor
+- De-anonymize Tor Browser to reveal the real IP (November 2026) - https://calif.io/research/tortilla-with-onion
 - https://kaba.cx/posts/20261020_Tor/
 - [Quantuminsert](https://github.com/fox-it/quantuminsert) - Quantum Insert
 
